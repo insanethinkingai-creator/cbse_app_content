@@ -1,0 +1,90 @@
+{
+  "id": "g7_geo_ch1",
+  "grade": "7",
+  "subject": "Geography",
+  "number": "1",
+  "title": "Environment",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_g1_q1",
+      "text": "Which of the following is a component of the natural environment?",
+      "options": ["Buildings", "Industries", "Land", "Parks"],
+      "correctIndex": 2,
+      "explanation": "Natural environment comprises land, water, air, plants, and animals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g1_q2",
+      "text": "The solid crust or the hard top layer of the earth is known as:",
+      "options": ["Atmosphere", "Hydrosphere", "Biosphere", "Lithosphere"],
+      "correctIndex": 3,
+      "explanation": "Lithosphere is the domain that provides us forests, grasslands, and land for agriculture.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g1_q3",
+      "text": "The domain of water is referred to as:",
+      "options": ["Hydrosphere", "Lithosphere", "Atmosphere", "Hemisphere"],
+      "correctIndex": 0,
+      "explanation": "It comprises various sources of water and different types of water bodies.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g1_q4",
+      "text": "World Environment Day is celebrated on:",
+      "options": ["2nd October", "5th June", "15th August", "26th January"],
+      "correctIndex": 1,
+      "explanation": "June 5th is globally recognized to encourage awareness and action for the protection of our environment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g1_q5",
+      "text": "A narrow zone of the earth where land, water, and air interact to support life is:",
+      "options": ["Ecosystem", "Atmosphere", "Biosphere", "Environment"],
+      "correctIndex": 2,
+      "explanation": "Biosphere is the living world consisting of plant and animal kingdoms.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g1_q6",
+      "text": "Which is not a natural ecosystem?",
+      "options": ["Desert", "Aquarium", "Forest", "Mountain"],
+      "correctIndex": 1,
+      "explanation": "An aquarium is a human-made environment, whereas deserts and forests are natural.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_g1_q7",
+      "text": "The thin layer of air that surrounds the earth is the:",
+      "options": ["Hydrosphere", "Lithosphere", "Atmosphere", "Exosphere"],
+      "correctIndex": 2,
+      "explanation": "The gravitational force of the earth holds the atmosphere around it.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g1_q8",
+      "text": "What does 'Abiotic' mean?",
+      "options": ["The world of living organisms", "The world of non-living elements", "Human-made environment", "Atmospheric pressure"],
+      "correctIndex": 1,
+      "explanation": "Abiotic refers to non-living components like land, whereas Biotic refers to living organisms.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_g1_q9",
+      "text": "Which gas protects us from the harmful rays and scorching heat of the sun?",
+      "options": ["Oxygen", "Carbon dioxide", "Ozone", "Nitrogen"],
+      "correctIndex": 2,
+      "explanation": "The atmosphere consists of a number of gases, including the ozone layer which filters UV rays.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g1_q10",
+      "text": "The system formed by the interaction of all living organisms with each other is called:",
+      "options": ["Ecosystem", "Environment", "Biography", "Lithosphere"],
+      "correctIndex": 0,
+      "explanation": "This includes the transfer of energy and material between living and non-living components.",
+      "frequencyRating": 5
+    }
+  ]
+}

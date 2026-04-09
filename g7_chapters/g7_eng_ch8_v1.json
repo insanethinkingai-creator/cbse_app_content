@@ -1,0 +1,90 @@
+{
+  "id": "g7_eng_ch8",
+  "grade": "7",
+  "subject": "English",
+  "number": "8",
+  "title": "A Homage to our Brave Soldiers",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_eng_ch8_q1",
+      "text": "In the chapter, who is Ananda writing a letter to?",
+      "options": ["Her teacher", "Her friend Soumya", "Her parents", "The Prime Minister"],
+      "correctIndex": 1,
+      "explanation": "Ananda writes a letter to Soumya after her school visit to the National War Memorial.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_eng_ch8_q2",
+      "text": "Where is the National War Memorial (NWM) located?",
+      "options": ["Mumbai", "Kolkata", "New Delhi", "Chennai"],
+      "correctIndex": 2,
+      "explanation": "The NWM is situated near India Gate in New Delhi.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_eng_ch8_q3",
+      "text": "What does the 'Amar Jawan Jyoti' represent?",
+      "options": ["A victory celebration", "The eternal spirit of the fallen soldiers", "A historical monument", "A religious lamp"],
+      "correctIndex": 1,
+      "explanation": "It symbolizes the immortality of the soldiers who laid down their lives for the nation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_eng_ch8_q4",
+      "text": "Which of the following is NOT one of the concentric circles at the War Memorial?",
+      "options": ["Amar Chakra", "Veerta Chakra", "Shakti Chakra", "Rakshak Chakra"],
+      "correctIndex": 2,
+      "explanation": "The four circles are Amar (Immortality), Veerta (Bravery), Tyag (Sacrifice), and Rakshak (Protection).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_eng_ch8_q5",
+      "text": "What is inscribed on the granite tablets in the Tyag Chakra?",
+      "options": ["Names of the battles", "Names of the fallen soldiers", "The Constitution of India", "Poems about peace"],
+      "correctIndex": 1,
+      "explanation": "It contains the names of soldiers who were martyred in post-independence wars.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_eng_ch8_q6",
+      "text": "Major Somnath Sharma was the first recipient of which gallantry award?",
+      "options": ["Vir Chakra", "Param Vir Chakra", "Maha Vir Chakra", "Ashoka Chakra"],
+      "correctIndex": 1,
+      "explanation": "He was awarded the PVC posthumously for his bravery in the 1947-48 war.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_eng_ch8_q7",
+      "text": "The letter mentioned in the lesson written by a soldier was from:",
+      "options": ["Capt. Vikram Batra", "Major Padmapani Acharya", "Lt. Manoj Kumar Pandey", "Major Shaitan Singh"],
+      "correctIndex": 1,
+      "explanation": "The lesson includes a moving letter from Major Padmapani Acharya to his father during the Kargil War.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_eng_ch8_q8",
+      "text": "How did Ananda feel after visiting the War Memorial?",
+      "options": ["Bored", "Humble and patriotic", "Tired", "Indifferent"],
+      "correctIndex": 1,
+      "explanation": "The visit deeply moved her and made her realize the sacrifices made for our freedom.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_eng_ch8_q9",
+      "text": "Which gallantry award is given for bravery during peace-time?",
+      "options": ["Param Vir Chakra", "Vir Chakra", "Ashoka Chakra", "Kirti Chakra"],
+      "correctIndex": 2,
+      "explanation": "Ashoka Chakra is the highest peace-time gallantry award.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_eng_ch8_q10",
+      "text": "The theme of the chapter is to instill a sense of:",
+      "options": ["Fear", "Adventure", "Gratitude and respect for the armed forces", "Political history"],
+      "correctIndex": 2,
+      "explanation": "It aims to help students appreciate the service and sacrifice of Indian soldiers.",
+      "frequencyRating": 5
+    }
+  ]
+}

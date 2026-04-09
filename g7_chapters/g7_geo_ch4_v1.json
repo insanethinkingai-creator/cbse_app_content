@@ -1,0 +1,90 @@
+{
+  "id": "g7_geo_ch4",
+  "grade": "7",
+  "subject": "Geography",
+  "number": "4",
+  "title": "Air",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_geo_ch4_q1",
+      "text": "Which is the most plentiful gas in the atmosphere?",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Argon"],
+      "correctIndex": 2,
+      "explanation": "Nitrogen makes up 78% of the air and is vital for plant life, although plants cannot take it directly from air.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_geo_ch4_q2",
+      "text": "Which gas is released by green plants during photosynthesis and used by humans for breathing?",
+      "options": ["Nitrogen", "Oxygen", "Argon", "Helium"],
+      "correctIndex": 1,
+      "explanation": "Oxygen is the second most plentiful gas in the air (21%). Plants create it during photosynthesis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_geo_ch4_q3",
+      "text": "The greenhouse effect is primarily caused by which gas?",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Helium"],
+      "correctIndex": 2,
+      "explanation": "Carbon dioxide traps heat radiated from the earth, keeping the planet warm. Excessive CO2 leads to global warming.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_geo_ch4_q4",
+      "text": "In which layer of the atmosphere do almost all weather phenomena like rainfall, fog and hailstorm occur?",
+      "options": ["Stratosphere", "Mesosphere", "Thermosphere", "Troposphere"],
+      "correctIndex": 3,
+      "explanation": "The Troposphere is the most important layer of the atmosphere, extending up to an average height of 13 km.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_geo_ch4_q5",
+      "text": "The layer of the atmosphere that contains the ozone layer and is ideal for flying aeroplanes is:",
+      "options": ["Troposphere", "Stratosphere", "Mesosphere", "Exosphere"],
+      "correctIndex": 1,
+      "explanation": "The Stratosphere is free from clouds and weather phenomena, and the ozone layer protects us from harmful sun rays.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_geo_ch4_q6",
+      "text": "Meteorites burn up in this layer on entering from space:",
+      "options": ["Stratosphere", "Mesosphere", "Thermosphere", "Troposphere"],
+      "correctIndex": 1,
+      "explanation": "The Mesosphere is the third layer of the atmosphere and extends up to the height of 80 km.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_geo_ch4_q7",
+      "text": "Which layer helps in radio transmission as radio waves are reflected back to earth?",
+      "options": ["Thermosphere", "Mesosphere", "Stratosphere", "Troposphere"],
+      "correctIndex": 0,
+      "explanation": "The Ionosphere is a part of the Thermosphere and facilitates long-distance communication.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_geo_ch4_q8",
+      "text": "Air pressure is highest at:",
+      "options": ["Mountain tops", "Clouds", "Sea level", "Space"],
+      "correctIndex": 2,
+      "explanation": "Air pressure decreases as height increases; hence it is maximum at sea level.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_geo_ch4_q9",
+      "text": "The horizontal movement of air from high pressure areas to low pressure areas is called:",
+      "options": ["Rain", "Moisture", "Wind", "Current"],
+      "correctIndex": 2,
+      "explanation": "Winds are named after the direction from which they blow.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_geo_ch4_q10",
+      "text": "A hot and dry local wind of the northern plains of India is called:",
+      "options": ["Trade wind", "Monsoon", "Loo", "Breeze"],
+      "correctIndex": 2,
+      "explanation": "Loo is a local wind that blows during the summer season.",
+      "frequencyRating": 4
+    }
+  ]
+}

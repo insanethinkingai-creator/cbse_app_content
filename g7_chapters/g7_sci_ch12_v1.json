@@ -1,0 +1,80 @@
+{
+  "id": "g7_sci_ch12",
+  "grade": "7",
+  "subject": "Science",
+  "number": "12",
+  "title": "Forests: Our Lifeline",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_s12_q1",
+      "text": "The branchy part of a tree above the stem is known as the:",
+      "options": ["Canopy", "Crown", "Trunk", "Understorey"],
+      "correctIndex": 1,
+      "explanation": "The crown of the tree varies in shape and size across different species."
+    },
+    {
+      "id": "g7_s12_q2",
+      "text": "The rooftop of the forest formed by tall trees is called the:",
+      "options": ["Canopy", "Understorey", "Forest floor", "Humus"],
+      "correctIndex": 0,
+      "explanation": "The canopy acts like an umbrella, shading the forest floor from direct sunlight and rain."
+    },
+    {
+      "id": "g7_s12_q3",
+      "text": "Organisms that feed on dead plants and animals and convert them into humus are:",
+      "options": ["Producers", "Autotrophs", "Decomposers", "Carnivores"],
+      "correctIndex": 2,
+      "explanation": "Decomposers like fungi and bacteria play a vital role in recycling nutrients."
+    },
+    {
+      "id": "g7_s12_q4",
+      "text": "Forests are called 'green lungs' because they:",
+      "options": ["Provide shade", "Maintain oxygen-carbon dioxide balance", "Bring rain", "Prevent soil erosion"],
+      "correctIndex": 1,
+      "explanation": "Plants release oxygen through photosynthesis and consume carbon dioxide."
+    },
+    {
+      "id": "g7_s12_q5",
+      "text": "Which of the following is NOT a forest product?",
+      "options": ["Gum", "Plywood", "Sealing wax", "Kerosene"],
+      "correctIndex": 3,
+      "explanation": "Kerosene is a petroleum product, not derived from trees."
+    },
+    {
+      "id": "g7_s12_q6",
+      "text": "The dark-colored substance produced by decomposers is called:",
+      "options": ["Sand", "Humus", "Clay", "Pollen"],
+      "correctIndex": 1,
+      "explanation": "Humus makes the soil fertile and provides nutrients to the plants."
+    },
+    {
+      "id": "g7_s12_q7",
+      "text": "Which layer of the forest is just below the canopy?",
+      "options": ["Forest floor", "Understorey", "Root zone", "Atmosphere"],
+      "correctIndex": 1,
+      "explanation": "The understorey is formed by smaller trees and shrubs growing beneath the tall canopy."
+    },
+    {
+      "id": "g7_s12_q8",
+      "text": "Forests prevent floods by:",
+      "options": ["Stopping the wind", "Absorbing rainwater", "Releasing oxygen", "Hosting animals"],
+      "correctIndex": 1,
+      "explanation": "Trees and forest soil act as a natural absorber, allowing water to seep into the ground."
+    },
+    {
+      "id": "g7_s12_q9",
+      "text": "A sequence of organisms where one eats another is called a:",
+      "options": ["Water cycle", "Food chain", "Oxygen cycle", "Food web"],
+      "correctIndex": 1,
+      "explanation": "An example is: Grass -> Insects -> Frog -> Snake -> Eagle."
+    },
+    {
+      "id": "g7_s12_q10",
+      "text": "Deforestation results in:",
+      "options": ["Increased oxygen", "Decreased earth temperature", "Increased carbon dioxide", "More rain"],
+      "correctIndex": 2,
+      "explanation": "Fewer trees mean more carbon dioxide remains in the air, leading to global warming."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "g7_math_ch2",
+  "grade": "7",
+  "subject": "Mathematics",
+  "number": "2",
+  "title": "Fractions and Decimals",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_m2_q1",
+      "text": "What is 1/2 of 10?",
+      "options": ["2", "5", "10", "20"],
+      "correctIndex": 1,
+      "explanation": "The word 'of' represents multiplication: (1/2) × 10 = 5."
+    },
+    {
+      "id": "g7_m2_q2",
+      "text": "The reciprocal of 2/3 is:",
+      "options": ["-2/3", "3/2", "1/3", "1/2"],
+      "correctIndex": 1,
+      "explanation": "The reciprocal of a fraction a/b is b/a."
+    },
+    {
+      "id": "g7_m2_q3",
+      "text": "What is 0.1 × 0.1?",
+      "options": ["0.1", "0.01", "1.1", "0.2"],
+      "correctIndex": 1,
+      "explanation": "Multiplying 1/10 by 1/10 gives 1/100, which is 0.01."
+    },
+    {
+      "id": "g7_m2_q4",
+      "text": "2.5 ÷ 0.5 is equal to:",
+      "options": ["0.5", "5", "50", "0.05"],
+      "correctIndex": 1,
+      "explanation": "2.5 divided by 0.5 is the same as 25 divided by 5, which equals 5."
+    },
+    {
+      "id": "g7_m2_q5",
+      "text": "A fraction where the numerator is less than the denominator is called:",
+      "options": ["Improper fraction", "Proper fraction", "Mixed fraction", "Unit fraction"],
+      "correctIndex": 1,
+      "explanation": "A proper fraction represents a part of a whole where the numerator is smaller than the denominator."
+    },
+    {
+      "id": "g7_m2_q6",
+      "text": "Express 7/10 as a decimal.",
+      "options": ["0.07", "7.0", "0.7", "0.007"],
+      "correctIndex": 2,
+      "explanation": "Dividing 7 by 10 moves the decimal point one place to the left."
+    },
+    {
+      "id": "g7_m2_q7",
+      "text": "What is 3/4 + 1/4?",
+      "options": ["4/8", "1", "3/8", "4/4"],
+      "correctIndex": 1,
+      "explanation": "3/4 + 1/4 = 4/4, which simplifies to 1."
+    },
+    {
+      "id": "g7_m2_q8",
+      "text": "What is 0.01 × 100?",
+      "options": ["1", "0.1", "10", "0.001"],
+      "correctIndex": 0,
+      "explanation": "Multiplying by 100 moves the decimal point two places to the right."
+    },
+    {
+      "id": "g7_m2_q9",
+      "text": "The value of 2/3 × 5/7 is:",
+      "options": ["10/21", "7/10", "21/10", "14/15"],
+      "correctIndex": 0,
+      "explanation": "Multiply numerators together and denominators together: (2×5)/(3×7) = 10/21."
+    },
+    {
+      "id": "g7_m2_q10",
+      "text": "How many centimeters are in 1.5 meters?",
+      "options": ["15 cm", "150 cm", "1500 cm", "0.15 cm"],
+      "correctIndex": 1,
+      "explanation": "Since 1m = 100cm, 1.5m = 1.5 × 100 = 150 cm."
+    }
+  ]
+}

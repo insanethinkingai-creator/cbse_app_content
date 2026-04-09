@@ -1,0 +1,80 @@
+{
+  "id": "g7_sci_ch7",
+  "grade": "7",
+  "subject": "Science",
+  "number": "7",
+  "title": "Transportation in Animals and Plants",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_s7_q1",
+      "text": "Which blood cells are responsible for fighting against germs that enter our body?",
+      "options": ["Red blood cells (RBC)", "White blood cells (WBC)", "Platelets", "Plasma"],
+      "correctIndex": 1,
+      "explanation": "WBCs act as the defense system of the body by attacking pathogens."
+    },
+    {
+      "id": "g7_s7_q2",
+      "text": "The fluid part of the blood is called:",
+      "options": ["Hemoglobin", "Plasma", "Urea", "Serum"],
+      "correctIndex": 1,
+      "explanation": "Plasma is a straw-colored liquid that carries cells, nutrients, and waste products."
+    },
+    {
+      "id": "g7_s7_q3",
+      "text": "Which blood vessels carry oxygen-rich blood from the heart to all parts of the body?",
+      "options": ["Veins", "Arteries", "Capillaries", "Pulmonary vein"],
+      "correctIndex": 1,
+      "explanation": "Arteries have thick elastic walls to withstand the high pressure of blood from the heart."
+    },
+    {
+      "id": "g7_s7_q4",
+      "text": "The rhythmic contraction and expansion of the heart is called:",
+      "options": ["Pulse", "Heartbeat", "Blood pressure", "Respiration"],
+      "correctIndex": 1,
+      "explanation": "A heartbeat consists of one systole and one diastole."
+    },
+    {
+      "id": "g7_s7_q5",
+      "text": "The main excretory product in humans is:",
+      "options": ["Uric acid", "Ammonia", "Urea", "Carbon dioxide"],
+      "correctIndex": 2,
+      "explanation": "Humans are ureotelic, meaning they primarily excrete nitrogenous waste as urea."
+    },
+    {
+      "id": "g7_s7_q6",
+      "text": "Which tissue is responsible for the transport of water and nutrients in plants?",
+      "options": ["Phloem", "Stomata", "Xylem", "Root hairs"],
+      "correctIndex": 2,
+      "explanation": "Xylem forms a continuous network of channels that connects roots to the leaves."
+    },
+    {
+      "id": "g7_s7_q7",
+      "text": "The process of evaporation of water through stomata is called:",
+      "options": ["Photosynthesis", "Transpiration", "Respiration", "Transportation"],
+      "correctIndex": 1,
+      "explanation": "Transpiration creates a suction pull that helps pull water to great heights in tall trees."
+    },
+    {
+      "id": "g7_s7_q8",
+      "text": "Which organ filters the blood to remove wastes as urine?",
+      "options": ["Heart", "Lungs", "Kidneys", "Liver"],
+      "correctIndex": 2,
+      "explanation": "Kidneys contain millions of tiny filtering units called nephrons."
+    },
+    {
+      "id": "g7_s7_q9",
+      "text": "The red pigment in RBCs that binds with oxygen is:",
+      "options": ["Chlorophyll", "Hemoglobin", "Plasma", "Platelets"],
+      "correctIndex": 1,
+      "explanation": "Hemoglobin gives blood its red color and efficiently transports oxygen."
+    },
+    {
+      "id": "g7_s7_q10",
+      "text": "Phloem is responsible for the transport of ________ in plants.",
+      "options": ["Water", "Minerals", "Food", "Oxygen"],
+      "correctIndex": 2,
+      "explanation": "Phloem transports sugars prepared in the leaves to all other parts of the plant."
+    }
+  ]
+}

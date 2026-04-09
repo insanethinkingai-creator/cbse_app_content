@@ -1,0 +1,80 @@
+{
+  "id": "g7_sci_ch3",
+  "grade": "7",
+  "subject": "Science",
+  "number": "3",
+  "title": "Heat",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_s3_q1",
+      "text": "A reliable measure of the hotness of an object is its:",
+      "options": ["Volume", "Temperature", "Mass", "Density"],
+      "correctIndex": 1,
+      "explanation": "Temperature is the degree of hotness or coldness of an object."
+    },
+    {
+      "id": "g7_s3_q2",
+      "text": "The range of a clinical thermometer is:",
+      "options": ["0°C to 100°C", "35°C to 42°C", "-10°C to 110°C", "37°C to 100°C"],
+      "correctIndex": 1,
+      "explanation": "Clinical thermometers are designed to measure human body temperature, which stays within this range."
+    },
+    {
+      "id": "g7_s3_q3",
+      "text": "The process by which heat is transferred in solids is:",
+      "options": ["Convection", "Radiation", "Conduction", "Insulation"],
+      "correctIndex": 2,
+      "explanation": "Conduction is the transfer of heat from the hotter end to the colder end of an object without moving the object itself."
+    },
+    {
+      "id": "g7_s3_q4",
+      "text": "Normal human body temperature is approximately:",
+      "options": ["98°C", "37°C", "45°C", "100°C"],
+      "correctIndex": 1,
+      "explanation": "The average temperature of a healthy human body is 37° Celsius."
+    },
+    {
+      "id": "g7_s3_q5",
+      "text": "Which of these is a good conductor of heat?",
+      "options": ["Wood", "Plastic", "Copper", "Air"],
+      "correctIndex": 2,
+      "explanation": "Metals like copper and aluminum allow heat to pass through them easily."
+    },
+    {
+      "id": "g7_s3_q6",
+      "text": "Heat from the Sun reaches us through the process of:",
+      "options": ["Conduction", "Convection", "Radiation", "Reflection"],
+      "correctIndex": 2,
+      "explanation": "Radiation does not require a medium (like air or water) to transfer heat."
+    },
+    {
+      "id": "g7_s3_q7",
+      "text": "Sea breeze blows during the:",
+      "options": ["Day", "Night", "Both day and night", "Winter"],
+      "correctIndex": 0,
+      "explanation": "During the day, land heats up faster than water, causing cool air from the sea to blow towards the land."
+    },
+    {
+      "id": "g7_s3_q8",
+      "text": "Dark-colored clothes are preferred during:",
+      "options": ["Summer", "Winter", "Rainy season", "Spring"],
+      "correctIndex": 1,
+      "explanation": "Dark surfaces absorb more heat, helping to keep the body warm in winter."
+    },
+    {
+      "id": "g7_s3_q9",
+      "text": "The range of a laboratory thermometer is usually:",
+      "options": ["35°C to 42°C", "0°C to 50°C", "-10°C to 110°C", "10°C to 40°C"],
+      "correctIndex": 2,
+      "explanation": "Laboratory thermometers are designed for scientific experiments and have a wider range than clinical ones."
+    },
+    {
+      "id": "g7_s3_q10",
+      "text": "A wooden spoon is dipped in a cup of ice cream. Its other end:",
+      "options": ["Becomes cold by conduction", "Becomes cold by radiation", "Does not become cold", "Becomes cold by convection"],
+      "correctIndex": 2,
+      "explanation": "Wood is an insulator (poor conductor) of heat, so heat does not flow through it."
+    }
+  ]
+}

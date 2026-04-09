@@ -1,0 +1,90 @@
+{
+  "id": "g7_geo_ch3",
+  "grade": "7",
+  "subject": "Geography",
+  "number": "3",
+  "title": "Our Changing Earth",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_geo_ch3_q1",
+      "text": "The lithospheric plates move because of the movement of:",
+      "options": ["Ocean currents", "Molten magma inside the earth", "Wind", "Rotation of earth"],
+      "correctIndex": 1,
+      "explanation": "The molten magma inside the earth moves in a circular manner, causing plates to shift.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_geo_ch3_q2",
+      "text": "Sudden movements in the earth's crust cause:",
+      "options": ["Fold mountains", "Deposition", "Earthquakes and volcanoes", "Meanders"],
+      "correctIndex": 2,
+      "explanation": "Endogenic forces sometimes produce sudden movements like earthquakes which cause mass destruction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_geo_ch3_q3",
+      "text": "The place on the surface above the focus of an earthquake is called the:",
+      "options": ["Epicentre", "Seismograph", "Vent", "Crater"],
+      "correctIndex": 0,
+      "explanation": "Vibrations travel outwards from the epicentre as waves; greatest damage is usually closest to it.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_geo_ch3_q4",
+      "text": "As the river enters the plain it twists and turns forming large bends known as:",
+      "options": ["Levees", "Meanders", "Ox-bow lakes", "Floodplains"],
+      "correctIndex": 1,
+      "explanation": "Due to continuous erosion and deposition along the sides of the bend, meanders are formed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_geo_ch3_q5",
+      "text": "Which landform is created by the depositional work of sea waves?",
+      "options": ["Sea cliff", "Sea cave", "Beach", "Sea arch"],
+      "correctIndex": 2,
+      "explanation": "Sea waves deposit sediments along the shores to form beaches.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_geo_ch3_q6",
+      "text": "Glacial moraines are formed by the ________ of glaciers.",
+      "options": ["Erosional work", "Sudden movement", "Depositional work", "Melting"],
+      "correctIndex": 2,
+      "explanation": "The material carried by the glacier such as rocks, sand and silt gets deposited to form moraines.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_geo_ch3_q7",
+      "text": "Mushroom rocks are commonly found in:",
+      "options": ["River valleys", "Deserts", "Glaciers", "Coastal areas"],
+      "correctIndex": 1,
+      "explanation": "In deserts, wind erodes the lower section of the rock more than the upper part, creating a mushroom shape.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_geo_ch3_q8",
+      "text": "When the meander loop is cut off from the main river, it forms a:",
+      "options": ["Waterfall", "Delta", "Ox-bow lake", "Distributary"],
+      "correctIndex": 2,
+      "explanation": "Over time, the meander loop cuts off from the river and forms a cutoff lake, also called an ox-bow lake.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_geo_ch3_q9",
+      "text": "Steep rocky coasts rising almost vertically above sea water are called:",
+      "options": ["Sea arches", "Stacks", "Sea cliffs", "Sand dunes"],
+      "correctIndex": 2,
+      "explanation": "Continuous erosion of coastal rocks results in the formation of sea cliffs.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_geo_ch3_q10",
+      "text": "The collection of sediments from all the mouths of a river forms a:",
+      "options": ["Levee", "Delta", "Gorge", "Basin"],
+      "correctIndex": 1,
+      "explanation": "Before entering the sea, a river breaks into distributaries and deposits its load to form a delta.",
+      "frequencyRating": 5
+    }
+  ]
+}

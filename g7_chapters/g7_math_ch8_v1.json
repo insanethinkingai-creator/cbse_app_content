@@ -1,0 +1,80 @@
+{
+  "id": "g7_math_ch8",
+  "grade": "7",
+  "subject": "Mathematics",
+  "number": "8",
+  "title": "Rational Numbers",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_m8_q1",
+      "text": "A number that can be expressed in the form p/q, where p and q are integers and q ≠ 0, is called:",
+      "options": ["Natural number", "Whole number", "Rational number", "Irrational number"],
+      "correctIndex": 2,
+      "explanation": "This is the formal definition of a rational number."
+    },
+    {
+      "id": "g7_m8_q2",
+      "text": "Which of the following is a negative rational number?",
+      "options": ["3/4", "-3/-4", "0", "-3/4"],
+      "correctIndex": 3,
+      "explanation": "A rational number is negative if its numerator and denominator have opposite signs."
+    },
+    {
+      "id": "g7_m8_q3",
+      "text": "The standard form of 15/ -25 is:",
+      "options": ["3/5", "-3/5", "5/3", "-5/3"],
+      "correctIndex": 1,
+      "explanation": "Divide both by their HCF (5) and move the negative sign to the numerator: -3/5."
+    },
+    {
+      "id": "g7_m8_q4",
+      "text": "What is the additive inverse of -2/3?",
+      "options": ["-2/3", "3/2", "2/3", "-3/2"],
+      "correctIndex": 2,
+      "explanation": "The additive inverse of a/b is -a/b, such that their sum is zero."
+    },
+    {
+      "id": "g7_m8_q5",
+      "text": "The product of 2/3 and -5/7 is:",
+      "options": ["10/21", "-10/21", "14/15", "-14/15"],
+      "correctIndex": 1,
+      "explanation": "Multiply numerators and denominators: (2 × -5) / (3 × 7) = -10/21."
+    },
+    {
+      "id": "g7_m8_q6",
+      "text": "How many rational numbers are there between any two rational numbers?",
+      "options": ["None", "One", "Ten", "Countless"],
+      "correctIndex": 3,
+      "explanation": "There are infinitely many rational numbers between any two given rational numbers."
+    },
+    {
+      "id": "g7_m8_q7",
+      "text": "What is the value of 0 divided by any non-zero rational number?",
+      "options": ["1", "0", "Undefined", "The number itself"],
+      "correctIndex": 1,
+      "explanation": "0 divided by any non-zero number is always 0."
+    },
+    {
+      "id": "g7_m8_q8",
+      "text": "Two rational numbers are equivalent if they have the same:",
+      "options": ["Numerators", "Denominators", "Standard form", "Signs"],
+      "correctIndex": 2,
+      "explanation": "Equivalent rational numbers represent the same value when reduced to their simplest (standard) form."
+    },
+    {
+      "id": "g7_m8_q9",
+      "text": "What is 1/2 + 1/4?",
+      "options": ["2/6", "1/6", "3/4", "1/8"],
+      "correctIndex": 2,
+      "explanation": "Convert to a common denominator: 2/4 + 1/4 = 3/4."
+    },
+    {
+      "id": "g7_m8_q10",
+      "text": "The reciprocal of -5 is:",
+      "options": ["5", "1/5", "-1/5", "0"],
+      "correctIndex": 2,
+      "explanation": "The reciprocal of a number 'n' is 1/n. For -5, it is -1/5."
+    }
+  ]
+}

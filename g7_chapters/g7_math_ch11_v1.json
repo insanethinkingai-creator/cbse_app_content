@@ -1,0 +1,90 @@
+{
+  "id": "g7_math_ch11",
+  "grade": "7",
+  "subject": "Mathematics",
+  "number": "11",
+  "title": "Exponents and Powers",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_m11_q1",
+      "text": "What is the value of 3⁴?",
+      "options": ["12", "81", "27", "64"],
+      "correctIndex": 1,
+      "explanation": "3 to the power of 4 means 3 multiplied by itself 4 times: 3 × 3 × 3 × 3 = 81.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m11_q2",
+      "text": "Any non-zero number raised to the power of 0 is equal to:",
+      "options": ["0", "The number itself", "1", "-1"],
+      "correctIndex": 2,
+      "explanation": "According to the laws of exponents, a⁰ = 1 for any non-zero integer a.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m11_q3",
+      "text": "Express 10,000 in exponential form with base 10.",
+      "options": ["10²", "10³", "10⁴", "10⁵"],
+      "correctIndex": 2,
+      "explanation": "10,000 has four zeros, so it is 10 × 10 × 10 × 10 = 10⁴.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m11_q4",
+      "text": "Simplify: aᵐ × aⁿ",
+      "options": ["aᵐ⁺ⁿ", "aᵐ⁻ⁿ", "aᵐⁿ", "aᵐ/ⁿ"],
+      "correctIndex": 0,
+      "explanation": "When multiplying powers with the same base, we add the exponents.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m11_q5",
+      "text": "What is the value of (-1)¹⁰⁰⁰?",
+      "options": ["1", "-1", "1000", "0"],
+      "correctIndex": 0,
+      "explanation": "-1 raised to any even power results in positive 1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m11_q6",
+      "text": "Simplify: (2²)³",
+      "options": ["2⁵", "2⁶", "2⁸", "2¹"],
+      "correctIndex": 1,
+      "explanation": "Power of a power rule: (aᵐ)ⁿ = aᵐⁿ. So, (2²)³ = 2²ˣ³ = 2⁶.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m11_q7",
+      "text": "Which is greater: 2³ or 3²?",
+      "options": ["2³", "3²", "They are equal", "Cannot compare"],
+      "correctIndex": 1,
+      "explanation": "2³ = 8 and 3² = 9. Therefore, 3² is greater.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m11_q8",
+      "text": "Write 5.9 × 10³ in usual form.",
+      "options": ["590", "5900", "59000", "0.0059"],
+      "correctIndex": 1,
+      "explanation": "Multiplying by 10³ moves the decimal three places to the right: 5.9 -> 5900.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m11_q9",
+      "text": "Simplify: 2⁵ ÷ 2³",
+      "options": ["2⁸", "2²", "2¹⁵", "2¹"],
+      "correctIndex": 1,
+      "explanation": "When dividing powers with the same base, we subtract the exponents: 5 - 3 = 2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m11_q10",
+      "text": "The standard form of 12345 is:",
+      "options": ["12.345 × 10³", "1.2345 × 10⁴", "123.45 × 10²", "1.2345 × 10⁵"],
+      "correctIndex": 1,
+      "explanation": "Standard form requires a number between 1 and 10 multiplied by a power of 10.",
+      "frequencyRating": 5
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "g7_math_ch3",
+  "grade": "7",
+  "subject": "Mathematics",
+  "number": "3",
+  "title": "Data Handling",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_m3_q1",
+      "text": "The average of a set of data is also called the:",
+      "options": ["Mode", "Median", "Arithmetic Mean", "Range"],
+      "correctIndex": 2,
+      "explanation": "Arithmetic Mean is calculated by dividing the sum of observations by the total number of observations."
+    },
+    {
+      "id": "g7_m3_q2",
+      "text": "The difference between the highest and lowest observations is called:",
+      "options": ["Mean", "Range", "Frequency", "Mode"],
+      "correctIndex": 1,
+      "explanation": "Range gives an idea of the spread of the data."
+    },
+    {
+      "id": "g7_m3_q3",
+      "text": "The observation that occurs most frequently in a data set is the:",
+      "options": ["Median", "Mean", "Range", "Mode"],
+      "correctIndex": 3,
+      "explanation": "Mode represents the value with the highest frequency."
+    },
+    {
+      "id": "g7_m3_q4",
+      "text": "The middle value of a data set when arranged in order is the:",
+      "options": ["Mean", "Median", "Mode", "Range"],
+      "correctIndex": 1,
+      "explanation": "Median is the middle observation after sorting data in ascending or descending order."
+    },
+    {
+      "id": "g7_m3_q5",
+      "text": "What is the probability of an event that is certain to happen?",
+      "options": ["0", "0.5", "1", "100"],
+      "correctIndex": 2,
+      "explanation": "The probability of a sure event is always 1."
+    },
+    {
+      "id": "g7_m3_q6",
+      "text": "When a die is thrown, how many possible outcomes are there?",
+      "options": ["2", "4", "6", "1"],
+      "correctIndex": 2,
+      "explanation": "A standard die has six faces numbered 1 to 6."
+    },
+    {
+      "id": "g7_m3_q7",
+      "text": "What is the mean of the first five natural numbers?",
+      "options": ["2", "3", "4", "5"],
+      "correctIndex": 1,
+      "explanation": "(1+2+3+4+5)/5 = 15/5 = 3."
+    },
+    {
+      "id": "g7_m3_q8",
+      "text": "The probability of an impossible event is:",
+      "options": ["1", "0", "-1", "0.1"],
+      "correctIndex": 1,
+      "explanation": "An event that cannot happen has a probability of 0."
+    },
+    {
+      "id": "g7_m3_q9",
+      "text": "A coin is tossed. What is the probability of getting a Head?",
+      "options": ["1", "0", "1/2", "2"],
+      "correctIndex": 2,
+      "explanation": "There is 1 favorable outcome (Head) out of 2 total outcomes (Head, Tail)."
+    },
+    {
+      "id": "g7_m3_q10",
+      "text": "Find the range of the data: 2, 4, 8, 9, 11.",
+      "options": ["9", "11", "2", "7"],
+      "correctIndex": 0,
+      "explanation": "Range = Highest value - Lowest value = 11 - 2 = 9."
+    }
+  ]
+}

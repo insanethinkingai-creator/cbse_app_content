@@ -1,0 +1,80 @@
+{
+  "id": "g7_sci_ch9",
+  "grade": "7",
+  "subject": "Science",
+  "number": "9",
+  "title": "Motion and Time",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_s9_q1",
+      "text": "The distance moved by an object in unit time is called its:",
+      "options": ["Acceleration", "Speed", "Velocity", "Motion"],
+      "correctIndex": 1,
+      "explanation": "Speed = Total Distance / Total Time."
+    },
+    {
+      "id": "g7_s9_q2",
+      "text": "The basic unit of time is:",
+      "options": ["Minute", "Hour", "Second", "Day"],
+      "correctIndex": 2,
+      "explanation": "While minutes and hours are used, the SI base unit for time is the second (s)."
+    },
+    {
+      "id": "g7_s9_q3",
+      "text": "A motion that repeats itself at regular intervals of time is:",
+      "options": ["Rectilinear motion", "Circular motion", "Periodic motion", "Non-uniform motion"],
+      "correctIndex": 2,
+      "explanation": "Examples include the swinging of a pendulum or the motion of the earth around the sun."
+    },
+    {
+      "id": "g7_s9_q4",
+      "text": "The time taken by a pendulum to complete one oscillation is its:",
+      "options": ["Frequency", "Amplitude", "Time period", "Speed"],
+      "correctIndex": 2,
+      "explanation": "The time period of a simple pendulum is constant for a given length."
+    },
+    {
+      "id": "g7_s9_q5",
+      "text": "Which device is used to measure the speed of a vehicle?",
+      "options": ["Odometer", "Speedometer", "Thermometer", "Barometer"],
+      "correctIndex": 1,
+      "explanation": "The speedometer records the speed directly in km/h."
+    },
+    {
+      "id": "g7_s9_q6",
+      "text": "The distance-time graph for an object moving with a constant speed is a:",
+      "options": ["Curved line", "Straight line", "Circle", "Zig-zag line"],
+      "correctIndex": 1,
+      "explanation": "A straight line starting from the origin indicates uniform motion."
+    },
+    {
+      "id": "g7_s9_q7",
+      "text": "What does an odometer measure?",
+      "options": ["Speed", "Time", "Distance", "Fuel"],
+      "correctIndex": 2,
+      "explanation": "An odometer tracks the total distance covered by the vehicle."
+    },
+    {
+      "id": "g7_s9_q8",
+      "text": "Which of these is the correct relationship?",
+      "options": ["Speed = Distance × Time", "Speed = Distance / Time", "Speed = Time / Distance", "Distance = Speed / Time"],
+      "correctIndex": 1,
+      "explanation": "This formula allows us to calculate any of the three variables if the other two are known."
+    },
+    {
+      "id": "g7_s9_q9",
+      "text": "A car travels 100 km in 2 hours. What is its speed?",
+      "options": ["200 km/h", "50 km/h", "25 km/h", "102 km/h"],
+      "correctIndex": 1,
+      "explanation": "Speed = 100 km / 2 h = 50 km/h."
+    },
+    {
+      "id": "g7_s9_q10",
+      "text": "Earlier, people measured time using:",
+      "options": ["Sundials", "Water clocks", "Sand clocks", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Before digital clocks, natural periodic events and these ancient devices were used to track time."
+    }
+  ]
+}

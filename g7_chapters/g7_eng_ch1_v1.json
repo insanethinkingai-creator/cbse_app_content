@@ -1,0 +1,90 @@
+{
+  "id": "g7_eng_ch1",
+  "grade": "7",
+  "subject": "English",
+  "number": "1",
+  "title": "Three Questions",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_e1_q1",
+      "text": "The story 'Three Questions' was written by:",
+      "options": ["Rabindranath Tagore", "Leo Tolstoy", "Roald Dahl", "Ruskin Bond"],
+      "correctIndex": 1,
+      "explanation": "Leo Tolstoy is a famous Russian author known for this philosophical short story.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e1_q2",
+      "text": "What was the most important time according to the hermit?",
+      "options": ["The future", "The past", "Now", "A fixed schedule"],
+      "correctIndex": 2,
+      "explanation": "The most important time is 'Now' because it is the only time we have power to act.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e1_q3",
+      "text": "Who is the most important person?",
+      "options": ["A King", "A Priest", "The person you are with at a particular moment", "A Doctor"],
+      "correctIndex": 2,
+      "explanation": "The most important person is the one with whom you are at any given moment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e1_q4",
+      "text": "What is the most important business/work?",
+      "options": ["Fighting wars", "Collecting taxes", "To do good for the person you are with", "Studying science"],
+      "correctIndex": 2,
+      "explanation": "The purpose of life is to do good for others.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e1_q5",
+      "text": "The King went to visit the hermit in:",
+      "options": ["Rich clothes", "Simple clothes", "His armor", "A disguise"],
+      "correctIndex": 1,
+      "explanation": "The hermit only saw common folk, so the King put on simple clothes.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e1_q6",
+      "text": "When the King reached the hermit's hut, the hermit was:",
+      "options": ["Sleeping", "Praying", "Digging the ground", "Eating"],
+      "correctIndex": 2,
+      "explanation": "The hermit was digging the flower beds in front of his hut.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e1_q7",
+      "text": "Who was the bearded man who came running out of the woods?",
+      "options": ["The King's brother", "The King's enemy", "The hermit's son", "A thief"],
+      "correctIndex": 1,
+      "explanation": "The man was the King's enemy who had planned to kill him.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e1_q8",
+      "text": "Why did the bearded man ask for the King's forgiveness?",
+      "options": ["He stole money", "He broke the law", "The King saved his life", "He lost his way"],
+      "correctIndex": 2,
+      "explanation": "The King dressed his wounds and saved him even though he was an enemy.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e1_q9",
+      "text": "The hermit gave his answers to the King's questions:",
+      "options": ["Immediately", "Through a letter", "After the King helped the wounded man", "He never answered"],
+      "correctIndex": 2,
+      "explanation": "The hermit waited for the King to experience the answers through his actions.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e1_q10",
+      "text": "Which question was the King NOT seeking an answer to?",
+      "options": ["What is the right time to begin something?", "Which people should he listen to?", "How can he become the richest King?", "What is the most important thing to do?"],
+      "correctIndex": 2,
+      "explanation": "The King wanted to know how to be successful and never fail, not specifically about wealth.",
+      "frequencyRating": 4
+    }
+  ]
+}

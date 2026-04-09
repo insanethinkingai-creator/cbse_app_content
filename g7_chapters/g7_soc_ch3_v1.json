@@ -1,0 +1,90 @@
+{
+  "id": "g7_soc_ch3",
+  "grade": "7",
+  "subject": "Social Science",
+  "number": "3",
+  "title": "Delhi: 12th to 15th Century",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_soc_ch3_q1",
+      "text": "Delhi first became the capital of a kingdom under the:",
+      "options": ["Chauhan Rajputs", "Tomara Rajputs", "Slave Dynasty", "Khalji Dynasty"],
+      "correctIndex": 1,
+      "explanation": "Delhi first became the capital of a kingdom under the Tomara Rajputs, who were defeated in the mid-12th century by the Chauhans.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_soc_ch3_q2",
+      "text": "In which language was the 'Tawarikh' (histories) of the Delhi Sultanate written?",
+      "options": ["Urdu", "Hindi", "Persian", "Arabic"],
+      "correctIndex": 2,
+      "explanation": "Persian was the official language of administration under the Delhi Sultans.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_soc_ch3_q3",
+      "text": "Who was the first female ruler of the Delhi Sultanate?",
+      "options": ["Rudramadevi", "Raziyya", "Didda", "Lakshmibai"],
+      "correctIndex": 1,
+      "explanation": "Sultan Iltutmish's daughter, Raziyya, became Sultan in 1236.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_soc_ch3_q4",
+      "text": "A fortified settlement with soldiers is known as a:",
+      "options": ["Hinterland", "Garrison town", "Iqta", "Masjid"],
+      "correctIndex": 1,
+      "explanation": "Garrison towns were fortified settlements where soldiers lived to control the surrounding areas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_soc_ch3_q5",
+      "text": "The lands adjacent to a city or port that supply it with goods and services are called:",
+      "options": ["Hinterland", "Garrison", "Doab", "Khiraj"],
+      "correctIndex": 0,
+      "explanation": "Hinterlands are the areas around a city that provide resources and trade for the urban center.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_soc_ch3_q6",
+      "text": "The special slaves purchased for military service under the Sultans were called:",
+      "options": ["Samantas", "Bandagan", "Iqtadars", "Muqtis"],
+      "correctIndex": 1,
+      "explanation": "The early Delhi Sultans, especially Iltutmish, favored their special slaves purchased for military service, called bandagan in Persian.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_soc_ch3_q7",
+      "text": "What was 'Khiraj' during the Delhi Sultanate?",
+      "options": ["Tax on houses", "Tax on cattle", "Tax on cultivation", "Tax on trade"],
+      "correctIndex": 2,
+      "explanation": "Khiraj was a tax on cultivation which amounted to about 50 per cent of the peasant’s yield.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_soc_ch3_q8",
+      "text": "Under whose reign did the Delhi Sultanate reach its farthest extent?",
+      "options": ["Alauddin Khalji", "Muhammad Tughluq", "Balban", "Iltutmish"],
+      "correctIndex": 1,
+      "explanation": "The Sultanate's armies marched across a large part of the subcontinent during the reign of Muhammad Tughluq.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_soc_ch3_q9",
+      "text": "Who was the traveler from Morocco who visited India during the 14th century?",
+      "options": ["Marco Polo", "Ibn Battuta", "Al-Idrisi", "Fa-Hien"],
+      "correctIndex": 1,
+      "explanation": "Ibn Battuta was a famous traveler from Morocco who described the administrative and social life of the Sultanate.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_soc_ch3_q10",
+      "text": "The direction towards which Muslims turn while offering prayer is called:",
+      "options": ["Qibla", "Khutba", "Liturgy", "Zakat"],
+      "correctIndex": 0,
+      "explanation": "In India, the Qibla (direction towards Mecca) is to the west.",
+      "frequencyRating": 4
+    }
+  ]
+}

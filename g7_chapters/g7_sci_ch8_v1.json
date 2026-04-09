@@ -1,0 +1,80 @@
+{
+  "id": "g7_sci_ch8",
+  "grade": "7",
+  "subject": "Science",
+  "number": "8",
+  "title": "Reproduction in Plants",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_s8_q1",
+      "text": "The production of new individuals from their parents is known as:",
+      "options": ["Nutrition", "Respiration", "Reproduction", "Excretion"],
+      "correctIndex": 2,
+      "explanation": "Reproduction ensures the continuity of a species over generations."
+    },
+    {
+      "id": "g7_s8_q2",
+      "text": "Reproduction through vegetative parts like roots, stems, or leaves is:",
+      "options": ["Sexual reproduction", "Vegetative propagation", "Budding", "Spore formation"],
+      "correctIndex": 1,
+      "explanation": "This is a type of asexual reproduction where seeds are not involved."
+    },
+    {
+      "id": "g7_s8_q3",
+      "text": "Yeast reproduces through a process called:",
+      "options": ["Fragmentation", "Spore formation", "Budding", "Pollination"],
+      "correctIndex": 2,
+      "explanation": "In budding, a small bulb-like projection called a bud grows and detaches from the parent cell."
+    },
+    {
+      "id": "g7_s8_q4",
+      "text": "Spirogyra (an alga) reproduces asexually by:",
+      "options": ["Budding", "Fragmentation", "Spore formation", "Vegetative propagation"],
+      "correctIndex": 1,
+      "explanation": "The organism breaks up into two or more fragments, which grow into new individuals."
+    },
+    {
+      "id": "g7_s8_q5",
+      "text": "The male reproductive part of a flower is the:",
+      "options": ["Pistil", "Stamen", "Petal", "Sepal"],
+      "correctIndex": 1,
+      "explanation": "The stamen consists of an anther (containing pollen) and a filament."
+    },
+    {
+      "id": "g7_s8_q6",
+      "text": "The transfer of pollen grains from anther to stigma is called:",
+      "options": ["Fertilization", "Pollination", "Germination", "Fragmentation"],
+      "correctIndex": 1,
+      "explanation": "Pollination can be self-pollination or cross-pollination via wind, water, or insects."
+    },
+    {
+      "id": "g7_s8_q7",
+      "text": "The fusion of male and female gametes is called:",
+      "options": ["Pollination", "Fertilization", "Embryo", "Zygote"],
+      "correctIndex": 1,
+      "explanation": "Fertilization results in the formation of a zygote."
+    },
+    {
+      "id": "g7_s8_q8",
+      "text": "After fertilization, the ovary grows into a:",
+      "options": ["Seed", "Fruit", "Flower", "Stem"],
+      "correctIndex": 1,
+      "explanation": "The fruit is the ripened ovary, while the seeds develop from ovules."
+    },
+    {
+      "id": "g7_s8_q9",
+      "text": "Which of these seeds is dispersed by wind?",
+      "options": ["Maple", "Coconut", "Xanthium", "Mango"],
+      "correctIndex": 0,
+      "explanation": "Winged seeds like maple and drumstick are easily carried away by the wind."
+    },
+    {
+      "id": "g7_s8_q10",
+      "text": "Flowers that contain either only pistil or only stamens are:",
+      "options": ["Bisexual flowers", "Unisexual flowers", "Complete flowers", "Neutral flowers"],
+      "correctIndex": 1,
+      "explanation": "Examples include corn, papaya, and cucumber."
+    }
+  ]
+}

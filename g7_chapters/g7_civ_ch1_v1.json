@@ -1,0 +1,90 @@
+{
+  "id": "g7_civ_ch1",
+  "grade": "7",
+  "subject": "Civics",
+  "number": "1",
+  "title": "On Equality",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_c1_q1",
+      "text": "What allows all adult citizens to vote regardless of their wealth or religion?",
+      "options": ["Right to Property", "Universal Adult Franchise", "Right to Education", "Democratic Dictatorship"],
+      "correctIndex": 1,
+      "explanation": "Universal Adult Franchise is a key aspect of democratic societies based on equality.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q2",
+      "text": "The Midday Meal scheme was first introduced in which Indian state?",
+      "options": ["Kerala", "Tamil Nadu", "Gujarat", "Punjab"],
+      "correctIndex": 1,
+      "explanation": "Tamil Nadu was the first state in India to start this scheme in 2001.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c1_q3",
+      "text": "Who is the author of the autobiography 'Joothan'?",
+      "options": ["Dr. B.R. Ambedkar", "Omprakash Valmiki", "Mahatma Gandhi", "Ansari"],
+      "correctIndex": 1,
+      "explanation": "Omprakash Valmiki wrote about his experiences as a Dalit boy in this book.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c1_q4",
+      "text": "Which article of the Indian Constitution prohibits discrimination on grounds of religion, race, or caste?",
+      "options": ["Article 14", "Article 15", "Article 21", "Article 370"],
+      "correctIndex": 1,
+      "explanation": "Article 15 ensures equality of access to public places and prohibits state discrimination.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q5",
+      "text": "Rosa Parks was an African-American woman who started a protest in:",
+      "options": ["India", "South Africa", "United States of America", "United Kingdom"],
+      "correctIndex": 2,
+      "explanation": "Her refusal to give up her seat on a bus led to the Civil Rights Movement in the USA.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q6",
+      "text": "The Civil Rights Act of 1964 prohibited discrimination in the USA based on:",
+      "options": ["Income", "Race, religion, or national origin", "Education", "Language"],
+      "correctIndex": 1,
+      "explanation": "This landmark act ended segregation in public places in the United States.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c1_q7",
+      "text": "Dignity refers to:",
+      "options": ["Wealth", "Thinking of oneself and others as worthy of respect", "Political power", "High education"],
+      "correctIndex": 1,
+      "explanation": "When people are treated unequally, their dignity is violated.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_c1_q8",
+      "text": "Equality is a central feature of which form of government?",
+      "options": ["Monarchy", "Democracy", "Dictatorship", "Oligarchy"],
+      "correctIndex": 1,
+      "explanation": "Democracy thrives on the principle of equal rights for every individual.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q9",
+      "text": "What is one of the main reasons why people are treated unequally in India?",
+      "options": ["Weather", "The Caste system", "Lack of rivers", "Geography"],
+      "correctIndex": 1,
+      "explanation": "Caste, along with religion and gender, remains a major basis of inequality.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c1_q10",
+      "text": "The Indian Constitution recognizes every person as:",
+      "options": ["Unequal", "Equal", "Subject", "Upper or Lower caste"],
+      "correctIndex": 1,
+      "explanation": "The Constitution of India considers every individual, male or female, equal before the law.",
+      "frequencyRating": 5
+    }
+  ]
+}

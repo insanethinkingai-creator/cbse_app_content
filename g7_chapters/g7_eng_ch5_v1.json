@@ -1,0 +1,90 @@
+{
+  "id": "g7_eng_ch5",
+  "grade": "7",
+  "subject": "English",
+  "number": "5",
+  "title": "Quality",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_eng_ch5_q1",
+      "text": "What was Mr. Gessler's profession?",
+      "options": ["Watchmaker", "Shoemaker", "Tailor", "Carpenter"],
+      "correctIndex": 1,
+      "explanation": "Mr. Gessler was a skilled bootmaker who lived with his elder brother in London.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_eng_ch5_q2",
+      "text": "What was the specialty of the boots made by the Gessler brothers?",
+      "options": ["They were cheap", "They were made very quickly", "They fitted perfectly and lasted very long", "They were very colorful"],
+      "correctIndex": 2,
+      "explanation": "Their boots were made only on order and represented the highest quality of craftsmanship.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_eng_ch5_q3",
+      "text": "Mr. Gessler considered bootmaking to be:",
+      "options": ["A burden", "Just a way to earn money", "An Art", "A simple job"],
+      "correctIndex": 2,
+      "explanation": "To him, making a boot was as much an art as any other creative profession.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_eng_ch5_q4",
+      "text": "Why did the Gessler brothers lose their business over time?",
+      "options": ["They forgot how to make boots", "They were lazy", "Competition from big firms with large advertising budgets", "They moved to another country"],
+      "correctIndex": 2,
+      "explanation": "The big firms got business by advertisement, not by work, which hurt individual craftsmen like Gessler.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_eng_ch5_q5",
+      "text": "What happened to the elder Mr. Gessler?",
+      "options": ["He became rich", "He died of shock after losing a part of the shop", "He retired", "He opened a new shop"],
+      "correctIndex": 1,
+      "explanation": "The loss of half their shop to a bigger firm led to his decline and eventual death.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_eng_ch5_q6",
+      "text": "Mr. Gessler's speech had an accent from which country?",
+      "options": ["France", "Germany", "Italy", "Spain"],
+      "correctIndex": 1,
+      "explanation": "His speech had the 'flavour of German-English' as seen in his pronunciation of 'Id is an Ardt'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_eng_ch5_q7",
+      "text": "The narrator felt ________ when he had to tell Mr. Gessler that a pair of boots creaked.",
+      "options": ["Happy", "Indifferent", "Terrible/Awkward", "Angry"],
+      "correctIndex": 2,
+      "explanation": "He felt guilty because he knew how much effort and soul Gessler put into every pair.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_eng_ch5_q8",
+      "text": "How did the younger Mr. Gessler die?",
+      "options": ["In an accident", "Old age", "Slow starvation", "A fever"],
+      "correctIndex": 2,
+      "explanation": "He put all his money into rent and leather, often skipping meals to finish his orders.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_eng_ch5_q9",
+      "text": "Who took over the shop after Mr. Gessler passed away?",
+      "options": ["A relative", "A large firm", "An English young man", "The narrator"],
+      "correctIndex": 2,
+      "explanation": "When the narrator visited the shop for the last time, a new man told him that Gessler was gone.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_eng_ch5_q10",
+      "text": "The title 'Quality' refers to:",
+      "options": ["The quantity of boots made", "The high price of boots", "The craftsmanship and character of Mr. Gessler", "The size of the shop"],
+      "correctIndex": 2,
+      "explanation": "The story highlights the loss of individual artistry and quality in the face of mass production.",
+      "frequencyRating": 4
+    }
+  ]
+}

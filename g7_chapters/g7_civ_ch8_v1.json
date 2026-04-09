@@ -1,0 +1,90 @@
+{
+  "id": "g7_civ_ch8",
+  "grade": "7",
+  "subject": "Civics",
+  "number": "8",
+  "title": "A Shirt in the Market",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_civ_ch8_q1",
+      "text": "Where does the story of a shirt begin?",
+      "options": ["At the tailor's shop", "With the production of cotton by a farmer", "At the spinning mill", "In a shopping mall"],
+      "correctIndex": 1,
+      "explanation": "The production cycle starts with the farmer growing cotton on their land.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch8_q2",
+      "text": "A 'ginning mill' is a place where:",
+      "options": ["Cloth is dyed", "Seeds are removed from cotton bolls", "Shirts are stitched", "Yarn is woven into cloth"],
+      "correctIndex": 1,
+      "explanation": "The ginning mill processes the raw cotton to press it into bales for spinning.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_civ_ch8_q3",
+      "text": "The 'Erode' bi-weekly cloth market is located in which state?",
+      "options": ["Kerala", "Karnataka", "Tamil Nadu", "Andhra Pradesh"],
+      "correctIndex": 2,
+      "explanation": "Erode in Tamil Nadu has one of the largest cloth markets in the world.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch8_q4",
+      "text": "In the 'putting-out system', the relationship between the merchant and the weavers is that:",
+      "options": ["Merchant provides raw material and buys the finished product", "Weavers buy their own yarn", "The government controls the price", "The weavers sell directly to consumers"],
+      "correctIndex": 0,
+      "explanation": "This system favors the merchants as weavers depend on them for yarn and have no control over the selling price.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch8_q5",
+      "text": "Why do weavers often form cooperatives?",
+      "options": ["To avoid work", "To reduce dependence on merchants and earn more", "To travel together", "Because the law requires it"],
+      "correctIndex": 1,
+      "explanation": "In a cooperative, people with common interests work together to get a fair price for their labor.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_civ_ch8_q6",
+      "text": "Most garment exporting factories in India stitch clothes for:",
+      "options": ["Local villagers", "Domestic markets only", "Foreign buyers in USA and Europe", "Small neighborhood shops"],
+      "correctIndex": 2,
+      "explanation": "These factories work under strict conditions set by powerful foreign business chains.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch8_q7",
+      "text": "In the chain of market, who usually makes the maximum profit on a shirt sold in the USA?",
+      "options": ["The cotton farmer", "The weaver", "The garment factory owner", "The large businessperson/Foreign retailer"],
+      "correctIndex": 3,
+      "explanation": "The retailer in the foreign country sells the shirt at a high price while having much higher margins than the producers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch8_q8",
+      "text": "A shirt that costs ₹300 to make is sold in a US mall for ₹1800 ($26 approx). This shows:",
+      "options": ["Equality in the market", "Great imbalance in profit distribution", "Efficient transport", "Fair trade"],
+      "correctIndex": 1,
+      "explanation": "The market chain often yields very little for the small farmer and the weaver compared to the big businessmen.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_civ_ch8_q9",
+      "text": "The market offers people opportunities for work, but it does not ensure ________ between people.",
+      "options": ["Trade", "Equality", "Communication", "Competition"],
+      "correctIndex": 1,
+      "explanation": "While it connects producers and consumers, the gains are highly unequal.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_civ_ch8_q10",
+      "text": "Who are the 'intermediaries' in the cotton market chain?",
+      "options": ["Consumers", "Farmers", "Traders and Merchants", "Agricultural workers"],
+      "correctIndex": 2,
+      "explanation": "Traders and merchants connect the producers (farmers/weavers) to the manufacturers and retailers.",
+      "frequencyRating": 3
+    }
+  ]
+}

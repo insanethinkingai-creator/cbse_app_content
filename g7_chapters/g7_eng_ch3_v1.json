@@ -1,0 +1,90 @@
+{
+  "id": "g7_eng_ch3",
+  "grade": "7",
+  "subject": "English",
+  "number": "3",
+  "title": "Gopal and the Hilsa Fish",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_eng_ch3_q1",
+      "text": "What was everyone talking about in the entire kingdom?",
+      "options": ["The King's wealth", "Hilsa fish", "Gopal's wisdom", "A coming war"],
+      "correctIndex": 1,
+      "explanation": "It was the season for Hilsa fish, and fishermen and courtiers could talk of nothing else.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_eng_ch3_q2",
+      "text": "Why was the King annoyed with his courtiers?",
+      "options": ["They were not working", "They were only talking about Hilsa fish", "They were losing wars", "They were laughing at him"],
+      "correctIndex": 1,
+      "explanation": "The King lost his temper because even the courtiers were talking about fish instead of important matters.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_eng_ch3_q3",
+      "text": "What challenge did the King give to Gopal?",
+      "options": ["To catch the biggest Hilsa fish", "To bring a Hilsa fish to the palace without anyone asking about it", "To cook Hilsa fish for the palace", "To stop the people from fishing"],
+      "correctIndex": 1,
+      "explanation": "The King challenged Gopal to buy a huge Hilsa and bring it to the court without a single person asking a word about it.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_eng_ch3_q4",
+      "text": "Gopal prepared himself by shaving only half his face and smearing himself with:",
+      "options": ["Mud", "Oil", "Ash", "Paint"],
+      "correctIndex": 2,
+      "explanation": "Gopal made himself look like a madman by using ash and wearing rags.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_eng_ch3_q5",
+      "text": "Gopal's wife thought he was:",
+      "options": ["Going to a party", "Looking handsome", "Going mad", "Cleaning the house"],
+      "correctIndex": 2,
+      "explanation": "She was shocked by his disgraceful appearance and thought he had lost his mind.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_eng_ch3_q6",
+      "text": "When Gopal reached the palace with the fish, the guards:",
+      "options": ["Welcomed him", "Refused to let him in", "Asked about the fish", "Gave him food"],
+      "correctIndex": 1,
+      "explanation": "The guards didn't recognize him and wouldn't let the 'madman' enter until he started singing and dancing loudly.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_eng_ch3_q7",
+      "text": "Inside the palace, what did the King's courtiers think of Gopal?",
+      "options": ["He is a genius", "He has lost his mind", "He is a great fisherman", "He is the new cook"],
+      "correctIndex": 1,
+      "explanation": "They thought he was crazy or that it was one of his clever jokes.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_eng_ch3_q8",
+      "text": "Did anyone ask Gopal about the Hilsa fish on his way to the palace?",
+      "options": ["Yes, the King asked", "No one asked", "Everyone asked", "Only the guards asked"],
+      "correctIndex": 1,
+      "explanation": "Everyone was so busy looking at his strange appearance that they forgot to notice the fish.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_eng_ch3_q9",
+      "text": "What was the King's reaction when he realized Gopal had won the challenge?",
+      "options": ["He was angry", "He laughed and congratulated him", "He punished the guards", "He threw away the fish"],
+      "correctIndex": 1,
+      "explanation": "The King laughed and admitted that Gopal had achieved the impossible once again.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_eng_ch3_q10",
+      "text": "The story 'Gopal and the Hilsa Fish' is written in the form of a:",
+      "options": ["Poem", "Comic strip", "Long novel", "Scientific report"],
+      "correctIndex": 1,
+      "explanation": "The chapter uses a visual comic strip format to tell the story.",
+      "frequencyRating": 3
+    }
+  ]
+}

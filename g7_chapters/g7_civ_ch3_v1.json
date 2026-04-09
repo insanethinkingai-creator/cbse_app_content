@@ -1,0 +1,90 @@
+{
+  "id": "g7_civ_ch3",
+  "grade": "7",
+      "subject": "Civics",
+  "number": "3",
+  "title": "How the State Government Works",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_civ_ch3_q1",
+      "text": "What does MLA stand for?",
+      "options": ["Member of Local Authority", "Member of Legislative Assembly", "Member of Legal Association", "Main Legislative Administrator"],
+      "correctIndex": 1,
+      "explanation": "MLAs are elected by the people and then become members of the legislative assembly.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch3_q2",
+      "text": "Who is the head of the state government who appoints the Chief Minister and other ministers?",
+      "options": ["President", "Prime Minister", "Governor", "Chief Justice"],
+      "correctIndex": 2,
+      "explanation": "The Governor of a state is appointed by the Central Government to ensure the state works within the Constitution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch3_q3",
+      "text": "The political party that has the majority of MLAs is called the:",
+      "options": ["Opposition party", "Ruling party", "Coalition party", "Independent party"],
+      "correctIndex": 1,
+      "explanation": "The party that has more than half the number of MLAs in a state is considered to be in a majority.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch3_q4",
+      "text": "A place where all the MLAs, from the ruling party as well as the opposition, meet to discuss various things is the:",
+      "options": ["Parliament", "Legislative Assembly", "Secretariat", "District Court"],
+      "correctIndex": 1,
+      "explanation": "The Legislative Assembly is the venue for debates and decision-making for the state.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch3_q5",
+      "text": "The executive head of the state government is the:",
+      "options": ["Governor", "Chief Minister", "Education Minister", "Speaker"],
+      "correctIndex": 1,
+      "explanation": "The Chief Minister and the cabinet of ministers are responsible for running various government departments.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_civ_ch3_q6",
+      "text": "Who has the dual role of being an MLA and also a Minister?",
+      "options": ["Every MLA", "Only the Speaker", "Ministers selected by the Chief Minister", "The Governor"],
+      "correctIndex": 2,
+      "explanation": "Certain MLAs are assigned ministerial portfolios, giving them responsibilities in both the legislature and executive.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_civ_ch3_q7",
+      "text": "What is the purpose of a press conference held by a minister?",
+      "options": ["To pass new laws", "To explain government steps and answer questions", "To elect a new leader", "To debate with the opposition"],
+      "correctIndex": 1,
+      "explanation": "Press conferences are a way for the government to communicate its actions to the public through the media.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_civ_ch3_q8",
+      "text": "The government can also decide to make new laws for the state regarding sanitation and health. This is done in the:",
+      "options": ["High Court", "Legislative Assembly", "Police Station", "Gram Panchayat"],
+      "correctIndex": 1,
+      "explanation": "Laws for the entire state are debated and passed in the Legislative Assembly.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_civ_ch3_q9",
+      "text": "In a democracy, who has the main authority and elects the representatives?",
+      "options": ["The Governor", "The Prime Minister", "The People", "The Army"],
+      "correctIndex": 2,
+      "explanation": "The people elect their representatives (MLAs) and thus have the main authority in a democracy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch3_q10",
+      "text": "When no single party gets a majority and two or more parties come together, it is a:",
+      "options": ["Monarchy", "Coalition government", "Direct democracy", "Dictatorship"],
+      "correctIndex": 1,
+      "explanation": "A coalition is formed when multiple parties combine their MLA counts to cross the majority mark.",
+      "frequencyRating": 4
+    }
+  ]
+}

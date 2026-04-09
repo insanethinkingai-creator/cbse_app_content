@@ -1,0 +1,82 @@
+{
+  "id": "g7_sci_ch5",
+  "grade": "7",
+  "subject": "Science",
+  "number": "5",
+  "title": "Physical and Chemical Changes",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_s5_q1",
+      "text": "A change in which only physical properties of a substance change is a:",
+      "options": ["Chemical change", "Physical change", "Permanent change", "Irreversible change"],
+      "correctIndex": 1,
+      "explanation": "Physical changes involve changes in shape, size, or state, but no new substance is formed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s5_q2",
+      "text": "Which of the following is a chemical change?",
+      "options": ["Melting of ice", "Cutting of wood", "Rusting of iron", "Folding of paper"],
+      "correctIndex": 2,
+      "explanation": "Rusting produces a new substance (iron oxide), making it a chemical change.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s5_q3",
+      "text": "The process of depositing a layer of zinc on iron is called:",
+      "options": ["Crystallization", "Galvanization", "Neutralization", "Oxidation"],
+      "correctIndex": 1,
+      "explanation": "Galvanization is used to prevent iron from rusting."
+    },
+    {
+      "id": "g7_s5_q4",
+      "text": "Which gas is evolved when baking soda reacts with vinegar?",
+      "options": ["Oxygen", "Hydrogen", "Carbon dioxide", "Nitrogen"],
+      "correctIndex": 2,
+      "explanation": "The reaction produces carbon dioxide gas, which turns lime water milky."
+    },
+    {
+      "id": "g7_s5_q5",
+      "text": "Crystallization is an example of a:",
+      "options": ["Physical change", "Chemical change", "Biological change", "Fast change"],
+      "correctIndex": 0,
+      "explanation": "Large crystals of pure substances are formed from their solutions without creating new substances."
+    },
+    {
+      "id": "g7_s5_q6",
+      "text": "What color is Copper Sulphate solution?",
+      "options": ["Green", "Blue", "Red", "Yellow"],
+      "correctIndex": 1,
+      "explanation": "Copper Sulphate (Blue vitriol) forms a characteristic blue solution in water."
+    },
+    {
+      "id": "g7_s5_q7",
+      "text": "When magnesium ribbon burns in air, it produces:",
+      "options": ["Black soot", "White ash", "Blue gas", "Yellow liquid"],
+      "correctIndex": 1,
+      "explanation": "Burning magnesium produces magnesium oxide, which appears as a powdery white ash."
+    },
+    {
+      "id": "g7_s5_q8",
+      "text": "An iron nail dipped in copper sulphate solution turns brownish due to the deposition of:",
+      "options": ["Iron", "Zinc", "Copper", "Magnesium"],
+      "correctIndex": 2,
+      "explanation": "This is a displacement reaction where iron displaces copper from the solution."
+    },
+    {
+      "id": "g7_s5_q9",
+      "text": "Which of these is necessary for rusting to occur?",
+      "options": ["Only oxygen", "Only water", "Both oxygen and water", "Nitrogen"],
+      "correctIndex": 2,
+      "explanation": "Iron rusts only when it comes into contact with both air (oxygen) and moisture (water)."
+    },
+    {
+      "id": "g7_s5_q10",
+      "text": "A chemical change is also called a:",
+      "options": ["Physical reaction", "Chemical reaction", "Reversible reaction", "Temporary reaction"],
+      "correctIndex": 1,
+      "explanation": "A change in which one or more new substances are formed is called a chemical reaction."
+    }
+  ]
+}

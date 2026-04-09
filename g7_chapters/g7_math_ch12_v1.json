@@ -1,0 +1,80 @@
+{
+  "id": "g7_math_ch12",
+  "grade": "7",
+  "subject": "Mathematics",
+  "number": "12",
+  "title": "Symmetry",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_m12_q1",
+      "text": "How many lines of symmetry does a regular pentagon have?",
+      "options": ["3", "4", "5", "6"],
+      "correctIndex": 2,
+      "explanation": "A regular polygon with 'n' sides has exactly 'n' lines of symmetry."
+    },
+    {
+      "id": "g7_m12_q2",
+      "text": "Which of the following letters has vertical line symmetry?",
+      "options": ["B", "C", "D", "M"],
+      "correctIndex": 3,
+      "explanation": "The letter M can be divided into two matching halves by a vertical line."
+    },
+    {
+      "id": "g7_m12_q3",
+      "text": "An equilateral triangle has rotational symmetry of order:",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 2,
+      "explanation": "It looks the same at 120°, 240°, and 360° rotations."
+    },
+    {
+      "id": "g7_m12_q4",
+      "text": "The angle of rotation for a square is:",
+      "options": ["45°", "60°", "90°", "180°"],
+      "correctIndex": 2,
+      "explanation": "360° divided by the order of rotational symmetry (4) is 90°."
+    },
+    {
+      "id": "g7_m12_q5",
+      "text": "Which figure has only one line of symmetry?",
+      "options": ["Rectangle", "Square", "Isosceles triangle", "Circle"],
+      "correctIndex": 2,
+      "explanation": "An isosceles triangle has only one line of symmetry passing through the vertex between the equal sides."
+    },
+    {
+      "id": "g7_m12_q6",
+      "text": "A circle has ________ lines of symmetry.",
+      "options": ["1", "2", "4", "Infinite"],
+      "correctIndex": 3,
+      "explanation": "Any line passing through the center of a circle is a line of symmetry."
+    },
+    {
+      "id": "g7_m12_q7",
+      "text": "The letter 'S' has which type of symmetry?",
+      "options": ["Line symmetry", "Rotational symmetry", "Both", "None"],
+      "correctIndex": 1,
+      "explanation": "The letter S has rotational symmetry of order 2 but no line of symmetry."
+    },
+    {
+      "id": "g7_m12_q8",
+      "text": "What is the order of rotational symmetry of a rectangle?",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 1,
+      "explanation": "A rectangle looks the same after a 180° and 360° rotation."
+    },
+    {
+      "id": "g7_m12_q9",
+      "text": "Which of these polygons has no line of symmetry?",
+      "options": ["Scalene triangle", "Isosceles triangle", "Equilateral triangle", "Right-angled isosceles triangle"],
+      "correctIndex": 0,
+      "explanation": "A scalene triangle has all sides and angles different, so it cannot be folded into matching halves."
+    },
+    {
+      "id": "g7_m12_q10",
+      "text": "Order of rotational symmetry for a regular hexagon is:",
+      "options": ["4", "5", "6", "12"],
+      "correctIndex": 2,
+      "explanation": "A regular hexagon fits onto itself 6 times during a full 360° turn."
+    }
+  ]
+}

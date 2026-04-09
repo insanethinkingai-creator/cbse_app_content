@@ -1,0 +1,80 @@
+{
+  "id": "g7_math_ch10",
+  "grade": "7",
+  "subject": "Mathematics",
+  "number": "10",
+  "title": "Algebraic Expressions",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_m10_q1",
+      "text": "An expression containing only one term is called a:",
+      "options": ["Binomial", "Trinomial", "Monomial", "Polynomial"],
+      "correctIndex": 2,
+      "explanation": "Monomials are algebraic expressions with a single non-zero term."
+    },
+    {
+      "id": "g7_m10_q2",
+      "text": "The numerical factor in a term is called its:",
+      "options": ["Variable", "Coefficient", "Constant", "Exponent"],
+      "correctIndex": 1,
+      "explanation": "In the term 5xy, 5 is the numerical coefficient."
+    },
+    {
+      "id": "g7_m10_q3",
+      "text": "Terms which have the same algebraic factors are called:",
+      "options": ["Unlike terms", "Equal terms", "Like terms", "Variables"],
+      "correctIndex": 2,
+      "explanation": "Like terms have the same variables raised to the same powers."
+    },
+    {
+      "id": "g7_m10_q4",
+      "text": "What is the result of adding 3x and 4x?",
+      "options": ["7x²", "12x", "7x", "x"],
+      "correctIndex": 2,
+      "explanation": "When adding like terms, we add their numerical coefficients: (3+4)x = 7x."
+    },
+    {
+      "id": "g7_m10_q5",
+      "text": "The value of x² - 5 when x = 3 is:",
+      "options": ["1", "4", "9", "14"],
+      "correctIndex": 1,
+      "explanation": "Substitute 3 for x: (3)² - 5 = 9 - 5 = 4."
+    },
+    {
+      "id": "g7_m10_q6",
+      "text": "Which of the following is a binomial?",
+      "options": ["3xy", "a + b + c", "x² + 5", "7"],
+      "correctIndex": 2,
+      "explanation": "A binomial is an expression containing exactly two terms."
+    },
+    {
+      "id": "g7_m10_q7",
+      "text": "Subtract 5y² from 12y²:",
+      "options": ["17y²", "7y²", "7y", "17"],
+      "correctIndex": 1,
+      "explanation": "Subtract coefficients of like terms: (12 - 5)y² = 7y²."
+    },
+    {
+      "id": "g7_m10_q8",
+      "text": "What are the terms in the expression 4x - 3y?",
+      "options": ["4x, 3y", "4x, -3y", "4, -3", "x, y"],
+      "correctIndex": 1,
+      "explanation": "Terms are added to form expressions; here the terms are 4x and (-3y)."
+    },
+    {
+      "id": "g7_m10_q9",
+      "text": "The degree of the constant term 7 is:",
+      "options": ["1", "0", "7", "Undefined"],
+      "correctIndex": 1,
+      "explanation": "A constant can be written as 7x⁰, so its degree is 0."
+    },
+    {
+      "id": "g7_m10_q10",
+      "text": "Value of 2n - 1 if n = -2 is:",
+      "options": ["-3", "3", "-5", "5"],
+      "correctIndex": 2,
+      "explanation": "2(-2) - 1 = -4 - 1 = -5."
+    }
+  ]
+}

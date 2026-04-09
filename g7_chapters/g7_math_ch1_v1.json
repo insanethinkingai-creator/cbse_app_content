@@ -1,0 +1,90 @@
+{
+  "id": "g7_math_ch1",
+  "grade": "7",
+  "subject": "Mathematics",
+  "number": "1",
+  "title": "Integers",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_m1_q1",
+      "text": "What is the value of (-10) + (-5)?",
+      "options": ["-5", "5", "-15", "15"],
+      "correctIndex": 2,
+      "explanation": "When adding two negative integers, we add their absolute values and put a negative sign.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m1_q2",
+      "text": "The product of two negative integers is always:",
+      "options": ["Negative", "Positive", "Zero", "Undefined"],
+      "correctIndex": 1,
+      "explanation": "According to the rules of multiplication, the product of two negative integers is a positive integer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m1_q3",
+      "text": "What is the additive identity for integers?",
+      "options": ["1", "-1", "0", "None of these"],
+      "correctIndex": 2,
+      "explanation": "Zero is called the additive identity because adding zero to any integer results in the same integer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m1_q4",
+      "text": "Which property is shown by: a × (b + c) = a × b + a × c?",
+      "options": ["Commutative", "Associative", "Distributive", "Closure"],
+      "correctIndex": 2,
+      "explanation": "This is the distributive property of multiplication over addition.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m1_q5",
+      "text": "Value of (-1) × (-1) × (-1) is:",
+      "options": ["1", "-1", "0", "3"],
+      "correctIndex": 1,
+      "explanation": "If a negative integer is multiplied an odd number of times, the product is negative.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m1_q6",
+      "text": "What is (-20) ÷ 4?",
+      "options": ["5", "-5", "4", "-4"],
+      "correctIndex": 1,
+      "explanation": "When a negative integer is divided by a positive integer, the quotient is negative.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m1_q7",
+      "text": "What is 10 - (-5)?",
+      "options": ["5", "15", "-5", "-15"],
+      "correctIndex": 1,
+      "explanation": "Subtracting a negative number is the same as adding its positive counterpart: 10 + 5 = 15.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m1_q8",
+      "text": "The greatest negative integer is:",
+      "options": ["-100", "0", "-1", "Does not exist"],
+      "correctIndex": 2,
+      "explanation": "-1 is the largest negative integer because it is closest to zero on the number line.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m1_q9",
+      "text": "What is the multiplicative identity for integers?",
+      "options": ["0", "1", "-1", "Any integer"],
+      "correctIndex": 1,
+      "explanation": "1 is the multiplicative identity because any integer multiplied by 1 remains unchanged.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m1_q10",
+      "text": "If the sum of two integers is -10 and one of them is 2, the other is:",
+      "options": ["-8", "8", "-12", "12"],
+      "correctIndex": 2,
+      "explanation": "Let the other be x. x + 2 = -10 => x = -10 - 2 = -12.",
+      "frequencyRating": 4
+    }
+  ]
+}

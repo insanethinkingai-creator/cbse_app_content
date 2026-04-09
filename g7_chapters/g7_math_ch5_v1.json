@@ -1,0 +1,80 @@
+{
+  "id": "g7_math_ch5",
+  "grade": "7",
+  "subject": "Mathematics",
+  "number": "5",
+  "title": "Lines and Angles",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_m5_q1",
+      "text": "If the sum of two angles is 90°, they are called:",
+      "options": ["Supplementary angles", "Complementary angles", "Adjacent angles", "Vertically opposite angles"],
+      "correctIndex": 1,
+      "explanation": "Complementary angles are a pair of angles whose sum is exactly 90 degrees."
+    },
+    {
+      "id": "g7_m5_q2",
+      "text": "What is the supplement of an angle of 70°?",
+      "options": ["20°", "110°", "180°", "90°"],
+      "correctIndex": 1,
+      "explanation": "Supplementary angles sum to 180°. 180° - 70° = 110°."
+    },
+    {
+      "id": "g7_m5_q3",
+      "text": "Angles which have a common vertex and a common arm but no common interior points are:",
+      "options": ["Linear pair", "Adjacent angles", "Vertically opposite", "Supplementary"],
+      "correctIndex": 1,
+      "explanation": "Adjacent angles share a vertex and an arm, placed side-by-side."
+    },
+    {
+      "id": "g7_m5_q4",
+      "text": "When two lines intersect, the vertically opposite angles are always:",
+      "options": ["Supplementary", "Complementary", "Equal", "Unequal"],
+      "correctIndex": 2,
+      "explanation": "Vertically opposite angles formed by two intersecting lines are equal in measure."
+    },
+    {
+      "id": "g7_m5_q5",
+      "text": "A line that intersects two or more lines at distinct points is called a:",
+      "options": ["Parallel line", "Perpendicular line", "Traversal", "Transversal"],
+      "correctIndex": 3,
+      "explanation": "A transversal line cuts through other lines, creating various angle relationships."
+    },
+    {
+      "id": "g7_m5_q6",
+      "text": "If two parallel lines are cut by a transversal, each pair of alternate interior angles is:",
+      "options": ["Supplementary", "Equal", "Complementary", "90°"],
+      "correctIndex": 1,
+      "explanation": "Alternate interior angles are equal when the transversal intersects parallel lines."
+    },
+    {
+      "id": "g7_m5_q7",
+      "text": "A linear pair of angles is always:",
+      "options": ["Complementary", "Supplementary", "Equal", "Acute"],
+      "correctIndex": 1,
+      "explanation": "Angles in a linear pair form a straight line, so their sum is 180° (supplementary)."
+    },
+    {
+      "id": "g7_m5_q8",
+      "text": "Which of the following cannot be a pair of complementary angles?",
+      "options": ["45°, 45°", "30°, 60°", "50°, 40°", "90°, 90°"],
+      "correctIndex": 3,
+      "explanation": "The sum of complementary angles must be 90°. 90° + 90° = 180°."
+    },
+    {
+      "id": "g7_m5_q9",
+      "text": "If one angle of a linear pair is acute, the other angle will be:",
+      "options": ["Acute", "Obtuse", "Right", "Reflex"],
+      "correctIndex": 1,
+      "explanation": "Since the sum is 180°, if one is less than 90°, the other must be greater than 90°."
+    },
+    {
+      "id": "g7_m5_q10",
+      "text": "Two lines in a plane which do not meet at any point are called:",
+      "options": ["Intersecting lines", "Perpendicular lines", "Parallel lines", "Transversals"],
+      "correctIndex": 2,
+      "explanation": "Parallel lines maintain the same distance apart and never intersect."
+    }
+  ]
+}

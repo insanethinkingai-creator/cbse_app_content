@@ -1,0 +1,90 @@
+{
+  "id": "g7_eng_ch2",
+  "grade": "7",
+  "subject": "English",
+  "number": "2",
+  "title": "A Gift of Chappals",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_e2_q1",
+      "text": "What was the name of the secret kitten found by Ravi and Meena?",
+      "options": ["Mahendran", "Kitty", "Sheru", "Mridu"],
+      "correctIndex": 0,
+      "explanation": "Ravi named the kitten Mahendra-varma Pallava Poonai (Mahendran for short).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e2_q2",
+      "text": "How did Ravi get milk for the kitten?",
+      "options": ["From the market", "By tricking Paati", "He stole it from the neighbor", "The kitten drank water instead"],
+      "correctIndex": 1,
+      "explanation": "Ravi told Paati he was hungry and drank most of the milk to prove it, saving some for the cat.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e2_q3",
+      "text": "Lalli was learning to play which musical instrument?",
+      "options": ["Sitar", "Guitar", "Violin", "Flute"],
+      "correctIndex": 2,
+      "explanation": "Lalli was taking lessons from a music master to play the violin.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e2_q4",
+      "text": "Who was sitting on the doorstep when the children looked out?",
+      "options": ["A beggar", "The music master", "Rukku Mani", "Tapi"],
+      "correctIndex": 0,
+      "explanation": "A beggar had been coming to the house for a week and was resting under the neem tree.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e2_q5",
+      "text": "Why did the children want to give the beggar a pair of chappals?",
+      "options": ["His chappals were stolen", "His feet were blistered from the hot road", "They didn't like his old ones", "It was a gift for his birthday"],
+      "correctIndex": 1,
+      "explanation": "The summer heat had made the road very hot, and the beggar had no footwear, causing blisters.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e2_q6",
+      "text": "Whose chappals did the children finally give to the beggar?",
+      "options": ["Ravi's", "The music master's", "Gopu Mama's", "Paati's"],
+      "correctIndex": 1,
+      "explanation": "The children found a pair of old-looking, sturdy chappals in the verandah which belonged to the music master.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e2_q7",
+      "text": "What did the music master call the children after his chappals went missing?",
+      "options": ["Naughty monkeys", "Little angels", "Smart kids", "Brave souls"],
+      "correctIndex": 0,
+      "explanation": "He was very angry and compared them to 'monkeys', specifically Hanuman's incarnations.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e2_q8",
+      "text": "To compensate the music master, Rukku Mani gave him:",
+      "options": ["Money", "New shoes from the shop", "Gopu Mama's new chappals", "A new violin"],
+      "correctIndex": 2,
+      "explanation": "She gave him Gopu Mama's brand new chappals that he hardly ever wore.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e2_q9",
+      "text": "Rukku Mani laughed at the end because:",
+      "options": ["She found the old chappals", "She imagined Gopu Mama's reaction when he returned", "The beggar was funny", "The kitten did something silly"],
+      "correctIndex": 1,
+      "explanation": "She wondered what she would tell Gopu Mama when he asked for his chappals after coming home.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e2_q10",
+      "text": "The theme of the story 'A Gift of Chappals' is:",
+      "options": ["Music is life", "Kindness and generosity of children", "Cats are great pets", "Ancient history"],
+      "correctIndex": 1,
+      "explanation": "The story highlights the innocent and empathetic nature of children who try to help a beggar.",
+      "frequencyRating": 4
+    }
+  ]
+}

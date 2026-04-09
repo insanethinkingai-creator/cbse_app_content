@@ -1,0 +1,90 @@
+{
+  "id": "g7_geo_ch2",
+  "grade": "7",
+  "subject": "Geography",
+  "number": "2",
+  "title": "Inside Our Earth",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_geo_ch2_q1",
+      "text": "The uppermost layer of the Earth's surface is called the:",
+      "options": ["Mantle", "Core", "Crust", "Magma"],
+      "correctIndex": 2,
+      "explanation": "The crust is the thinnest of all the layers and is about 35 km on the continental masses.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_geo_ch2_q2",
+      "text": "The main mineral constituents of the continental mass are:",
+      "options": ["Silica and Magnesium", "Silica and Alumina", "Iron and Nickel", "Magnesium and Alumina"],
+      "correctIndex": 1,
+      "explanation": "The continental crust is called 'sial' (si-silica and al-alumina).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_geo_ch2_q3",
+      "text": "The thinnest layer of the Earth is the:",
+      "options": ["Crust", "Mantle", "Inner Core", "Outer Core"],
+      "correctIndex": 0,
+      "explanation": "The crust forms only 1 per cent of the volume of the earth, while 84 per cent consists of the mantle and 15 per cent makes the core.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_geo_ch2_q4",
+      "text": "Rocks that are formed when molten magma cools and solidifies are called:",
+      "options": ["Sedimentary rocks", "Metamorphic rocks", "Igneous rocks", "Fossil rocks"],
+      "correctIndex": 2,
+      "explanation": "Igneous rocks are also called primary rocks. They are formed from cooling lava or magma.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_geo_ch2_q5",
+      "text": "Small fragments of rocks that are compressed and hardened to form layers are:",
+      "options": ["Extrusive rocks", "Sedimentary rocks", "Intrusive rocks", "Primary rocks"],
+      "correctIndex": 1,
+      "explanation": "Sediments are transported and deposited by wind and water to form sedimentary rocks like sandstone.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_geo_ch2_q6",
+      "text": "The innermost layer of the Earth is the core, which is mainly made of:",
+      "options": ["Silica and Iron", "Nickel and Iron", "Silica and Alumina", "Nickel and Magnesium"],
+      "correctIndex": 1,
+      "explanation": "The core is called 'nife' (ni – nickel and fe – ferrous, i.e. iron).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_geo_ch2_q7",
+      "text": "The process where one type of rock changes into another under certain conditions is the:",
+      "options": ["Rock Cycle", "Water Cycle", "Erosion", "Weathering"],
+      "correctIndex": 0,
+      "explanation": "The rock cycle is a continuous process where igneous, sedimentary, and metamorphic rocks transform into one another.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_geo_ch2_q8",
+      "text": "Which of the following is an example of a metamorphic rock?",
+      "options": ["Granite", "Basalt", "Marble", "Sandstone"],
+      "correctIndex": 2,
+      "explanation": "Limestone changes into marble under great heat and pressure.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_geo_ch2_q9",
+      "text": "The remains of dead plants and animals trapped in layers of rocks are called:",
+      "options": ["Sediments", "Fossils", "Ores", "Minerals"],
+      "correctIndex": 1,
+      "explanation": "Fossils are generally found in sedimentary rocks.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_geo_ch2_q10",
+      "text": "Igneous and sedimentary rocks can change into metamorphic rocks under great:",
+      "options": ["Cold and wind", "Heat and pressure", "Water and ice", "Gravity and time"],
+      "correctIndex": 1,
+      "explanation": "Great heat and pressure are the primary drivers for the formation of metamorphic rocks.",
+      "frequencyRating": 3
+    }
+  ]
+}

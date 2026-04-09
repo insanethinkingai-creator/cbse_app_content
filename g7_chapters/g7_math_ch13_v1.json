@@ -1,0 +1,80 @@
+{
+  "id": "g7_math_ch13",
+  "grade": "7",
+  "subject": "Mathematics",
+  "number": "13",
+  "title": "Visualising Solid Shapes",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_m13_q1",
+      "text": "A 2D skeleton outline that can be folded to make a 3D shape is called a:",
+      "options": ["Map", "Net", "Sketch", "Grid"],
+      "correctIndex": 1,
+      "explanation": "A net is a 2-dimensional shape that can be folded to form a 3-dimensional object."
+    },
+    {
+      "id": "g7_m13_q2",
+      "text": "How many faces does a cube have?",
+      "options": ["4", "6", "8", "12"],
+      "correctIndex": 1,
+      "explanation": "A cube is a solid figure with 6 equal square faces."
+    },
+    {
+      "id": "g7_m13_q3",
+      "text": "The points where the edges of a solid meet are called:",
+      "options": ["Faces", "Edges", "Vertices", "Sides"],
+      "correctIndex": 2,
+      "explanation": "Vertices are the corner points of a 3D shape."
+    },
+    {
+      "id": "g7_m13_q4",
+      "text": "Which solid has no vertices?",
+      "options": ["Cone", "Cylinder", "Sphere", "Pyramid"],
+      "correctIndex": 2,
+      "explanation": "A sphere is perfectly round and has no flat faces, edges, or vertices."
+    },
+    {
+      "id": "g7_m13_q5",
+      "text": "How many edges does a triangular pyramid have?",
+      "options": ["3", "4", "5", "6"],
+      "correctIndex": 3,
+      "explanation": "A triangular pyramid (tetrahedron) has 3 edges on the base and 3 rising to the apex."
+    },
+    {
+      "id": "g7_m13_q6",
+      "text": "An isometric sketch shows the ________ of the object.",
+      "options": ["Exact measurements", "Proportional lengths", "Front view only", "Weight"],
+      "correctIndex": 1,
+      "explanation": "Isometric sketches use dot paper to show 3D objects with proportional dimensions."
+    },
+    {
+      "id": "g7_m13_q7",
+      "text": "A cross-section of a cylinder cut horizontally is a:",
+      "options": ["Square", "Rectangle", "Circle", "Triangle"],
+      "correctIndex": 2,
+      "explanation": "Cutting a cylinder parallel to its base results in a circular cross-section."
+    },
+    {
+      "id": "g7_m13_q8",
+      "text": "How many vertices does a cuboid have?",
+      "options": ["6", "8", "10", "12"],
+      "correctIndex": 1,
+      "explanation": "A cuboid has 8 vertices (corners)."
+    },
+    {
+      "id": "g7_m13_q9",
+      "text": "Which of the following is a 3D object?",
+      "options": ["Square", "Circle", "Triangle", "Cone"],
+      "correctIndex": 3,
+      "explanation": "A cone has depth and occupies space, making it a 3D (three-dimensional) shape."
+    },
+    {
+      "id": "g7_m13_q10",
+      "text": "A cylinder has ________ flat faces.",
+      "options": ["0", "1", "2", "3"],
+      "correctIndex": 2,
+      "explanation": "A cylinder has 2 circular flat faces and 1 curved surface."
+    }
+  ]
+}

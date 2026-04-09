@@ -1,0 +1,90 @@
+{
+  "id": "g7_civ_ch7",
+  "grade": "7",
+  "subject": "Civics",
+  "number": "7",
+  "title": "Markets Around Us",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_civ_ch7_q1",
+      "text": "A market that is held on a specific day of the week is called a:",
+      "options": ["Shopping Mall", "Weekly Market", "Wholesale Market", "Departmental Store"],
+      "correctIndex": 1,
+      "explanation": "Weekly markets do not have permanent shops and are usually cheaper because they don't have high overhead costs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch7_q2",
+      "text": "Why are things often cheaper in weekly markets?",
+      "options": ["They are of poor quality", "Shops don't pay rent, electricity, or taxes", "The government pays for them", "They are sold only to friends"],
+      "correctIndex": 1,
+      "explanation": "Because these are temporary setups, the owners save on the costs that permanent shop owners have to pay.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_civ_ch7_q3",
+      "text": "Shops in our neighborhood are useful because:",
+      "options": ["They are near our home", "We can go there on any day", "The buyer and seller know each other", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Neighborhood shops provide convenience and often allow people to buy goods on credit.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch7_q4",
+      "text": "Large multi-storied air-conditioned buildings with shops on different floors are known as:",
+      "options": ["Weekly markets", "Neighborhood shops", "Shopping Malls", "Wholesale godowns"],
+      "correctIndex": 2,
+      "explanation": "Malls sell both branded and non-branded goods and are primarily located in urban areas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch7_q5",
+      "text": "The series of markets that are connected like links in a chain is called a:",
+      "options": ["Wholesale chain", "Chain of markets", "Market circle", "Trading link"],
+      "correctIndex": 1,
+      "explanation": "Products move from the producer to the wholesaler and finally to the consumer through this chain.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch7_q6",
+      "text": "The person who buys goods in large quantities from producers and sells them to other traders is a:",
+      "options": ["Retailer", "Consumer", "Wholesale trader", "Hawker"],
+      "correctIndex": 2,
+      "explanation": "The wholesale trader acts as an intermediary between the producer and the local retailer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch7_q7",
+      "text": "The trader who finally sells the goods to the consumer is the:",
+      "options": ["Wholesaler", "Producer", "Retailer", "Agent"],
+      "correctIndex": 2,
+      "explanation": "A retailer could be a trader in a weekly market, a neighborhood hawker, or a shop owner in a mall.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_civ_ch7_q8",
+      "text": "Which of these is a way people buy things without going to a physical market?",
+      "options": ["Telemarketing", "Internet shopping", "Ordering over phone", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Modern technology allows us to place orders and receive goods at our doorstep without visiting a market.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_civ_ch7_q9",
+      "text": "Markets also have a hierarchy where people with more ________ earn more profit.",
+      "options": ["Time", "Money (Capital)", "Education", "Family members"],
+      "correctIndex": 1,
+      "explanation": "The small trader in a weekly market earns very little compared to the owner of a shop in a big mall.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_civ_ch7_q10",
+      "text": "Equality in the market is often missing because:",
+      "options": ["Small farmers earn very little", "Consumers always pay high prices", "All traders earn the same", "There are too many markets"],
+      "correctIndex": 0,
+      "explanation": "There is a huge difference between the earnings of different traders and the access poor people have to expensive markets.",
+      "frequencyRating": 4
+    }
+  ]
+}

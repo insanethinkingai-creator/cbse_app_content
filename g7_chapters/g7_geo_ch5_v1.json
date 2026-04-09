@@ -1,0 +1,90 @@
+{
+  "id": "g7_geo_ch5",
+  "grade": "7",
+  "subject": "Geography",
+  "number": "5",
+  "title": "Water",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_geo_ch5_q1",
+      "text": "The process by which water continually changes its form and circulates between oceans, atmosphere and land is the:",
+      "options": ["Water Cycle", "Tide", "Ocean Current", "Precipitation"],
+      "correctIndex": 0,
+      "explanation": "The water cycle is a continuous process driven by solar energy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_geo_ch5_q2",
+      "text": "About how much of the earth's surface is covered by water?",
+      "options": ["one-fourth", "half", "three-fourths", "two-thirds"],
+      "correctIndex": 2,
+      "explanation": "Approximately 71% or three-fourths of the earth is covered by water bodies.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_geo_ch5_q3",
+      "text": "Which of the following contains the maximum amount of fresh water on earth?",
+      "options": ["Rivers", "Ice-caps", "Groundwater", "Atmosphere"],
+      "correctIndex": 1,
+      "explanation": "Most fresh water is locked up in glaciers and ice-caps (approx 2%).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_geo_ch5_q4",
+      "text": "The rhythmic rise and fall of ocean water twice in a day is called a:",
+      "options": ["Wave", "Tide", "Current", "Tsunami"],
+      "correctIndex": 1,
+      "explanation": "Tides are caused by the strong gravitational pull exerted by the sun and the moon.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_geo_ch5_q5",
+      "text": "When the sun, the moon and the earth are in a straight line, we get the highest tides called:",
+      "options": ["Neap tides", "Spring tides", "Low tides", "Ebb tides"],
+      "correctIndex": 1,
+      "explanation": "Spring tides occur during full moon and new moon days.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_geo_ch5_q6",
+      "text": "The Gulf Stream is an example of a:",
+      "options": ["Cold ocean current", "Warm ocean current", "Tsunami", "Tide"],
+      "correctIndex": 1,
+      "explanation": "Warm ocean currents originate near the equator and move towards the poles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_geo_ch5_q7",
+      "text": "World Water Day is celebrated on:",
+      "options": ["March 22", "April 22", "June 5", "September 16"],
+      "correctIndex": 0,
+      "explanation": "March 22 is observed to raise awareness about the importance of fresh water.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_geo_ch5_q8",
+      "text": "Large waves caused by earthquakes or volcanic eruptions on the ocean floor are called:",
+      "options": ["Tides", "Tsunamis", "Drifts", "Meanders"],
+      "correctIndex": 1,
+      "explanation": "Tsunami is a Japanese word that means 'Harbour waves'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_geo_ch5_q9",
+      "text": "The Labrador Ocean Current is a ________ current.",
+      "options": ["Warm", "Cold", "Stationary", "Fast"],
+      "correctIndex": 1,
+      "explanation": "It brings cold water from the Arctic into the Atlantic.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_geo_ch5_q10",
+      "text": "Areas where a warm and cold current meet are the best ________ in the world.",
+      "options": ["Tourist spots", "Fishing grounds", "Swimming areas", "Oil fields"],
+      "correctIndex": 1,
+      "explanation": "The mixing of currents creates ideal conditions for plankton, attracting fish.",
+      "frequencyRating": 4
+    }
+  ]
+}

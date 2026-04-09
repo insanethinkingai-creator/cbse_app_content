@@ -1,0 +1,90 @@
+{
+  "id": "g7_civ_ch6",
+  "grade": "7",
+  "subject": "Civics",
+  "number": "6",
+  "title": "Understanding Media",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_civ_ch6_q1",
+      "text": "The plural form of the word 'medium' is:",
+      "options": ["Medias", "Media", "Mediums", "Mediator"],
+      "correctIndex": 1,
+      "explanation": "Media describes the various ways through which we communicate in society.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_civ_ch6_q2",
+      "text": "TV, radio, and newspapers are called 'mass media' because:",
+      "options": ["They are very heavy", "They reach millions of people across the world", "They are owned by the government", "They use a lot of electricity"],
+      "correctIndex": 1,
+      "explanation": "Because they reach 'masses' of people, they are categorized as mass media.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch6_q3",
+      "text": "What is the main source of income for most mass media outlets?",
+      "options": ["Government grants", "Subscription fees only", "Advertising", "Charity"],
+      "correctIndex": 2,
+      "explanation": "Mass media is constantly thinking of ways to make money, and advertisements are the most effective method.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch6_q4",
+      "text": "An 'independent media' means that:",
+      "options": ["It is free from government control", "No one should control its coverage of news", "It can write whatever it wants without checking facts", "Both 1 and 2"],
+      "correctIndex": 3,
+      "explanation": "An independent media is essential in a democracy to provide reliable and balanced information.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch6_q5",
+      "text": "When the government prevents the media from showing or publishing certain items, it is called:",
+      "options": ["Setting the agenda", "Censorship", "Publicity", "Broadcasting"],
+      "correctIndex": 1,
+      "explanation": "There have been periods in Indian history, like the Emergency (1975-1977), when the government censored the media.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch6_q6",
+      "text": "A 'balanced report' is one that:",
+      "options": ["Only shows the government's side", "Discusses all points of view of a story", "Is very short", "Is written by one person"],
+      "correctIndex": 1,
+      "explanation": "It leaves it to the readers to make up their own minds after presenting all sides.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_civ_ch6_q7",
+      "text": "The phrase 'setting the agenda' means that the media:",
+      "options": ["Determines which stories are important enough to be news", "Controls the government", "Decides the price of newspapers", "Organizes political rallies"],
+      "correctIndex": 0,
+      "explanation": "By focusing on particular issues, the media influences our thoughts and feelings on those subjects.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch6_q8",
+      "text": "'Khabar Lahriya' is a local newspaper run by eight Dalit women in:",
+      "options": ["Uttar Pradesh", "Bihar", "Madhya Pradesh", "Rajasthan"],
+      "correctIndex": 0,
+      "explanation": "This newspaper is written in the local Bundeli dialect and covers issues relevant to the local community.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_civ_ch6_q9",
+      "text": "Which technology allows mass media to reach a global audience via satellites and cables?",
+      "options": ["Typewriters", "Telegram", "Digital technology", "Printing press only"],
+      "correctIndex": 2,
+      "explanation": "Satellites have enabled us to view news and entertainment from around the world instantly.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_civ_ch6_q10",
+      "text": "Social advertising refers to advertisements made by the government or private agencies that have a:",
+      "options": ["Commercial message", "Larger message for the society", "Political campaign", "Celebrity gossip"],
+      "correctIndex": 1,
+      "explanation": "Examples include ads regarding road safety or the importance of pulse polio drops.",
+      "frequencyRating": 4
+    }
+  ]
+}

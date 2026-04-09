@@ -1,0 +1,80 @@
+{
+  "id": "g7_sci_ch10",
+  "grade": "7",
+  "subject": "Science",
+  "number": "10",
+  "title": "Electric Current and its Effects",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_s10_q1",
+      "text": "In the symbol for an electric cell, the longer line represents the:",
+      "options": ["Negative terminal", "Positive terminal", "Neutral terminal", "Switch"],
+      "correctIndex": 1,
+      "explanation": "The longer line represents the positive terminal and the shorter, thicker line represents the negative terminal."
+    },
+    {
+      "id": "g7_s10_q2",
+      "text": "A combination of two or more cells is called a:",
+      "options": ["Generator", "Battery", "Switch", "Fuse"],
+      "correctIndex": 1,
+      "explanation": "In a battery, the positive terminal of one cell is connected to the negative terminal of the next."
+    },
+    {
+      "id": "g7_s10_q3",
+      "text": "When an electric current flows through a wire, it gets hot. This is called:",
+      "options": ["Magnetic effect", "Chemical effect", "Heating effect", "Cooling effect"],
+      "correctIndex": 2,
+      "explanation": "This effect is used in appliances like electric heaters and irons."
+    },
+    {
+      "id": "g7_s10_q4",
+      "text": "The wire used in a fuse has a:",
+      "options": ["High melting point", "Low melting point", "No melting point", "Very thick diameter"],
+      "correctIndex": 1,
+      "explanation": "Fuse wires melt quickly and break the circuit if large currents flow through them."
+    },
+    {
+      "id": "g7_s10_q5",
+      "text": "Who discovered the magnetic effect of electric current?",
+      "options": ["Isaac Newton", "Hans Christian Oersted", "Thomas Edison", "Albert Einstein"],
+      "correctIndex": 1,
+      "explanation": "Oersted noticed that a compass needle deflected when a current-carrying wire was nearby."
+    },
+    {
+      "id": "g7_s10_q6",
+      "text": "A current-carrying coil of insulated wire wrapped around a piece of iron is an:",
+      "options": ["Electric cell", "Electromagnet", "Electric fuse", "Insulator"],
+      "correctIndex": 1,
+      "explanation": "The iron core becomes a magnet as long as the current flows through the coil."
+    },
+    {
+      "id": "g7_s10_q7",
+      "text": "Which device uses an electromagnet?",
+      "options": ["Electric heater", "Electric bell", "Electric bulb", "Electric fuse"],
+      "correctIndex": 1,
+      "explanation": "The electric bell uses an electromagnet to pull a hammer that strikes a gong."
+    },
+    {
+      "id": "g7_s10_q8",
+      "text": "The thin wire inside an electric bulb that glows is the:",
+      "options": ["Element", "Filament", "Fuse", "Lead"],
+      "correctIndex": 1,
+      "explanation": "The filament is usually made of tungsten which has a very high melting point."
+    },
+    {
+      "id": "g7_s10_q9",
+      "text": "MCB stands for:",
+      "options": ["Main Circuit Board", "Miniature Circuit Breaker", "Maximum Current Battery", "Minimal Circuit Block"],
+      "correctIndex": 1,
+      "explanation": "MCBs are switches that automatically turn off when current in a circuit exceeds the safe limit."
+    },
+    {
+      "id": "g7_s10_q10",
+      "text": "Which of the following is a safety device in electrical circuits?",
+      "options": ["Battery", "Switch", "Fuse", "Connecting wire"],
+      "correctIndex": 2,
+      "explanation": "A fuse prevents damage to electrical circuits and possible fires."
+    }
+  ]
+}

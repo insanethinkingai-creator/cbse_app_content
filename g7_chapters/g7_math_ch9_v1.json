@@ -1,0 +1,80 @@
+{
+  "id": "g7_math_ch9",
+  "grade": "7",
+  "subject": "Mathematics",
+  "number": "9",
+  "title": "Perimeter and Area",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_m9_q1",
+      "text": "The area of a parallelogram is given by:",
+      "options": ["Base × Height", "1/2 × Base × Height", "2 × (Base + Height)", "Base + Height"],
+      "correctIndex": 0,
+      "explanation": "The area of a parallelogram is the product of its base and the corresponding altitude (height)."
+    },
+    {
+      "id": "g7_m9_q2",
+      "text": "What is the area of a triangle with base 6 cm and height 4 cm?",
+      "options": ["24 cm²", "12 cm²", "10 cm²", "48 cm²"],
+      "correctIndex": 1,
+      "explanation": "Area of triangle = 1/2 × base × height = 1/2 × 6 × 4 = 12 cm²."
+    },
+    {
+      "id": "g7_m9_q3",
+      "text": "The ratio of the circumference of a circle to its diameter is:",
+      "options": ["Radius", "π (pi)", "2π", "Area"],
+      "correctIndex": 1,
+      "explanation": "Circumference C = πd, therefore C/d = π, which is approximately 22/7 or 3.14."
+    },
+    {
+      "id": "g7_m9_q4",
+      "text": "If the radius of a circle is 7 cm, its circumference is:",
+      "options": ["22 cm", "44 cm", "154 cm", "14 cm"],
+      "correctIndex": 1,
+      "explanation": "Circumference = 2πr = 2 × (22/7) × 7 = 44 cm."
+    },
+    {
+      "id": "g7_m9_q5",
+      "text": "The area of a circle with radius 'r' is:",
+      "options": ["2πr", "πr", "πr²", "2πr²"],
+      "correctIndex": 2,
+      "explanation": "The area of a circle is calculated by multiplying pi by the square of the radius."
+    },
+    {
+      "id": "g7_m9_q6",
+      "text": "1 cm² is equal to how many mm²?",
+      "options": ["10 mm²", "100 mm²", "1000 mm²", "0.1 mm²"],
+      "correctIndex": 1,
+      "explanation": "Since 1 cm = 10 mm, 1 cm² = 10 mm × 10 mm = 100 mm²."
+    },
+    {
+      "id": "g7_m9_q7",
+      "text": "The distance around a circular region is known as its:",
+      "options": ["Area", "Diameter", "Radius", "Circumference"],
+      "correctIndex": 3,
+      "explanation": "Circumference is the perimeter of a circle."
+    },
+    {
+      "id": "g7_m9_q8",
+      "text": "If the area of a square is 100 cm², its perimeter is:",
+      "options": ["10 cm", "20 cm", "40 cm", "400 cm"],
+      "correctIndex": 2,
+      "explanation": "Side = √100 = 10 cm. Perimeter = 4 × side = 40 cm."
+    },
+    {
+      "id": "g7_m9_q9",
+      "text": "A wire is in the shape of a square of side 10 cm. If it is rebent into a rectangle of length 12 cm, its breadth is:",
+      "options": ["8 cm", "10 cm", "7 cm", "9 cm"],
+      "correctIndex": 0,
+      "explanation": "Perimeter is same: 40 = 2(12 + b) => 20 = 12 + b => b = 8 cm."
+    },
+    {
+      "id": "g7_m9_q10",
+      "text": "The area of a circle is 154 cm². Its radius is:",
+      "options": ["14 cm", "7 cm", "21 cm", "3.5 cm"],
+      "correctIndex": 1,
+      "explanation": "πr² = 154 => (22/7)r² = 154 => r² = 49 => r = 7 cm."
+    }
+  ]
+}

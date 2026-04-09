@@ -1,0 +1,80 @@
+{
+  "id": "g7_math_ch6",
+  "grade": "7",
+  "subject": "Mathematics",
+  "number": "6",
+  "title": "The Triangle and its Properties",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_m6_q1",
+      "text": "A line segment joining a vertex of a triangle to the mid-point of its opposite side is a:",
+      "options": ["Altitude", "Median", "Diagonal", "Hypotenuse"],
+      "correctIndex": 1,
+      "explanation": "A median connects a vertex to the center of the opposite side; a triangle has three medians."
+    },
+    {
+      "id": "g7_m6_q2",
+      "text": "The perpendicular line segment from a vertex of a triangle to its opposite side is the:",
+      "options": ["Median", "Altitude", "Base", "Angle bisector"],
+      "correctIndex": 1,
+      "explanation": "An altitude represents the height of the triangle from a specific base."
+    },
+    {
+      "id": "g7_m6_q3",
+      "text": "An exterior angle of a triangle is equal to the sum of its:",
+      "options": ["Adjacent interior angles", "Two interior opposite angles", "All interior angles", "Supplementary angles"],
+      "correctIndex": 1,
+      "explanation": "The Exterior Angle Property states that an exterior angle equals the sum of its remote interior angles."
+    },
+    {
+      "id": "g7_m6_q4",
+      "text": "The sum of the three angles of a triangle is always:",
+      "options": ["90°", "180°", "270°", "360°"],
+      "correctIndex": 1,
+      "explanation": "This is known as the Angle Sum Property of a triangle."
+    },
+    {
+      "id": "g7_m6_q5",
+      "text": "A triangle in which two sides are of equal length is called:",
+      "options": ["Scalene", "Isosceles", "Equilateral", "Right-angled"],
+      "correctIndex": 1,
+      "explanation": "In an isosceles triangle, the angles opposite the equal sides are also equal."
+    },
+    {
+      "id": "g7_m6_q6",
+      "text": "In a right-angled triangle, the side opposite to the right angle is the:",
+      "options": ["Base", "Perpendicular", "Hypotenuse", "Median"],
+      "correctIndex": 2,
+      "explanation": "The hypotenuse is the longest side in a right-angled triangle."
+    },
+    {
+      "id": "g7_m6_q7",
+      "text": "According to Pythagoras property, in a right triangle:",
+      "options": ["a+b=c", "a²+b²=c²", "a²+b²=c", "a-b=c"],
+      "correctIndex": 1,
+      "explanation": "The square on the hypotenuse equals the sum of the squares on the other two sides."
+    },
+    {
+      "id": "g7_m6_q8",
+      "text": "The sum of the lengths of any two sides of a triangle is ________ the third side.",
+      "options": ["Less than", "Equal to", "Greater than", "Half of"],
+      "correctIndex": 2,
+      "explanation": "This property ensures that a closed triangle can actually be formed."
+    },
+    {
+      "id": "g7_m6_q9",
+      "text": "Each angle of an equilateral triangle measures:",
+      "options": ["45°", "90°", "60°", "30°"],
+      "correctIndex": 2,
+      "explanation": "Since all sides are equal, all angles are equal: 180° / 3 = 60°."
+    },
+    {
+      "id": "g7_m6_q10",
+      "text": "Can a triangle have two right angles?",
+      "options": ["Yes", "No", "Only if it is isosceles", "Only if it is scalene"],
+      "correctIndex": 1,
+      "explanation": "If two angles were 90°, their sum would be 180°, leaving 0° for the third angle, which is impossible."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "g7_sci_ch13",
+  "grade": "7",
+  "subject": "Science",
+  "number": "13",
+  "title": "Wastewater Story",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_s13_q1",
+      "text": "Sewage is mainly a:",
+      "options": ["Solid waste", "Liquid waste", "Gaseous waste", "Medical waste"],
+      "correctIndex": 1,
+      "explanation": "Sewage is wastewater released by homes, industries, and other sources containing dissolved and suspended impurities."
+    },
+    {
+      "id": "g7_s13_q2",
+      "text": "Impurities present in sewage are called:",
+      "options": ["Nutrients", "Contaminants", "Cleaners", "Minerals"],
+      "correctIndex": 1,
+      "explanation": "These include organic impurities, inorganic impurities, and microbes."
+    },
+    {
+      "id": "g7_s13_q3",
+      "text": "WWTP stands for:",
+      "options": ["Waste Water Thermal Plant", "Waste Water Treatment Plant", "Water Works Treatment Process", "World Water Treatment Plan"],
+      "correctIndex": 1,
+      "explanation": "WWTP is where physical, chemical, and biological processes remove contaminants from wastewater."
+    },
+    {
+      "id": "g7_s13_q4",
+      "text": "Which of these is used to disinfect water?",
+      "options": ["Nitrogen", "Chlorine", "Oxygen", "Hydrogen"],
+      "correctIndex": 1,
+      "explanation": "Chemicals like chlorine and ozone are used to kill germs in water before it is distributed."
+    },
+    {
+      "id": "g7_s13_q5",
+      "text": "The solids that settle at the bottom during sewage treatment are called:",
+      "options": ["Scum", "Sludge", "Peat", "Humus"],
+      "correctIndex": 1,
+      "explanation": "Sludge is removed by a scraper and transferred to a separate tank for decomposition."
+    },
+    {
+      "id": "g7_s13_q6",
+      "text": "What is the function of bar screens in a treatment plant?",
+      "options": ["Remove oil", "Remove large objects", "Kill bacteria", "Settle grit"],
+      "correctIndex": 1,
+      "explanation": "Bar screens remove large items like rags, sticks, cans, and plastic packets."
+    },
+    {
+      "id": "g7_s13_q7",
+      "text": "Bacteria that work in the absence of oxygen are called:",
+      "options": ["Aerobic", "Anaerobic", "Virus", "Parasites"],
+      "correctIndex": 1,
+      "explanation": "Anaerobic bacteria decompose sludge to produce biogas."
+    },
+    {
+      "id": "g7_s13_q8",
+      "text": "Dried sludge is used as:",
+      "options": ["Fuel", "Manure", "Medicine", "Food"],
+      "correctIndex": 1,
+      "explanation": "Dried sludge returns organic matter and nutrients to the soil."
+    },
+    {
+      "id": "g7_s13_q9",
+      "text": "Vermi-processing toilets use ________ to treat human waste.",
+      "options": ["Cockroaches", "Earthworms", "Bacteria only", "Chemicals"],
+      "correctIndex": 1,
+      "explanation": "Earthworms convert human excreta into high-quality vermicompost."
+    },
+    {
+      "id": "g7_s13_q10",
+      "text": "Which of the following should not be thrown down the drain?",
+      "options": ["Water", "Used tea leaves", "Soap", "Milk"],
+      "correctIndex": 1,
+      "explanation": "Solid wastes like tea leaves or food remains can choke the drains and prevent oxygen flow."
+    }
+  ]
+}

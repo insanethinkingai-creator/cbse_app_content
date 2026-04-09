@@ -1,0 +1,90 @@
+{
+  "id": "g7_math_ch4",
+  "grade": "7",
+  "subject": "Mathematics",
+  "number": "4",
+  "title": "Simple Equations",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_m4_q1",
+      "text": "The specific value of a variable that makes the Left Hand Side (LHS) equal to the Right Hand Side (RHS) is known as the:",
+      "options": ["Variable", "Constant", "Solution", "Expression"],
+      "correctIndex": 2,
+      "explanation": "According to NCERT, a value of the variable which satisfies the equality condition is called a solution of the equation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m4_q2",
+      "text": "Solve for x: x - 5 = 7",
+      "options": ["2", "12", "-2", "35"],
+      "correctIndex": 1,
+      "explanation": "Adding 5 to both sides gives x = 7 + 5 = 12.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m4_q3",
+      "text": "Which of the following is the equation for 'Sum of 3 times x and 11 is 32'?",
+      "options": ["3x - 11 = 32", "3x + 11 = 32", "11x + 3 = 32", "3 + x + 11 = 32"],
+      "correctIndex": 1,
+      "explanation": "Three times x is 3x. Adding 11 results in 3x + 11. The statement says this equals 32.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m4_q4",
+      "text": "The value of y in 10y = 80 is:",
+      "options": ["70", "90", "8", "800"],
+      "correctIndex": 2,
+      "explanation": "Dividing both sides by 10 gives y = 80 / 10 = 8.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m4_q5",
+      "text": "If we subtract 7 from twice a number, we get 13. The number is:",
+      "options": ["10", "3", "20", "6"],
+      "correctIndex": 0,
+      "explanation": "Let the number be x. 2x - 7 = 13 => 2x = 20 => x = 10.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m4_q6",
+      "text": "What is the first step to solve 3n + 7 = 25?",
+      "options": ["Divide by 3", "Multiply by 7", "Subtract 7 from both sides", "Add 25 to both sides"],
+      "correctIndex": 2,
+      "explanation": "To isolate the term with the variable, we first remove the constant by subtracting 7 from both sides.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m4_q7",
+      "text": "Any equation remains the same if the LHS and RHS are:",
+      "options": ["Interchanged", "Multiplied by zero", "Divided by zero", "Only added"],
+      "correctIndex": 0,
+      "explanation": "An equation is a condition on a variable; switching the sides does not change the equality.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_m4_q8",
+      "text": "Solve: m/4 = 5",
+      "options": ["1", "9", "20", "5/4"],
+      "correctIndex": 2,
+      "explanation": "Multiplying both sides by 4 gives m = 5 * 4 = 20.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m4_q9",
+      "text": "The solution of 4(m + 3) = 20 is:",
+      "options": ["2", "8", "5", "17"],
+      "correctIndex": 0,
+      "explanation": "Divide by 4 first: m + 3 = 5. Then subtract 3: m = 2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m4_q10",
+      "text": "If 1/4 of a number x is 3 more than 7, then x is:",
+      "options": ["10", "40", "28", "16"],
+      "correctIndex": 1,
+      "explanation": "x/4 = 7 + 3 => x/4 = 10 => x = 40.",
+      "frequencyRating": 4
+    }
+  ]
+}

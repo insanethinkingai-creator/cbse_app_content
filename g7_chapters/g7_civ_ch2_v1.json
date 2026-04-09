@@ -1,0 +1,90 @@
+{
+  "id": "g7_civ_ch2",
+  "grade": "7",
+  "subject": "Civics",
+  "number": "2",
+  "title": "Role of the Government in Health",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_civ_ch2_q1",
+      "text": "In a democracy, what do people expect the government to work for?",
+      "options": ["Their welfare", "Their entertainment", "Only infrastructure", "Foreign travel"],
+      "correctIndex": 0,
+      "explanation": "People expect the government to provide education, health, employment, and housing.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_civ_ch2_q2",
+      "text": "Health means our ability to remain free of:",
+      "options": ["Work", "Taxes", "Illness and injuries", "School"],
+      "correctIndex": 2,
+      "explanation": "Health is not just about diseases; it also includes mental well-being and a clean environment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch2_q3",
+      "text": "Which of the following is a public health service?",
+      "options": ["Private clinics", "Health centers run by the government", "Large private hospitals", "Pharmacies in malls"],
+      "correctIndex": 1,
+      "explanation": "Public health services are a chain of health centres and hospitals run by the government for all citizens.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch2_q4",
+      "text": "What is the primary reason why many people in India do not get proper healthcare?",
+      "options": ["Lack of doctors", "Expensive private services", "Both 1 and 2", "Lack of interest"],
+      "correctIndex": 2,
+      "explanation": "High costs of private care and the concentration of doctors in urban areas create access barriers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch2_q5",
+      "text": "The public health system is 'public' because:",
+      "options": ["It is free for everyone", "It is meant for all citizens and funded by taxes", "It is located in public parks", "Anyone can work there"],
+      "correctIndex": 1,
+      "explanation": "It is established by the government for the welfare of all citizens using public tax money.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_civ_ch2_q6",
+      "text": "Which country is considered one of the healthiest in Central America?",
+      "options": ["Mexico", "Costa Rica", "Panama", "Brazil"],
+      "correctIndex": 1,
+      "explanation": "Costa Rica decided not to have an army and spent that money on health and education instead.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_civ_ch2_q7",
+      "text": "Diseases that spread from one person to another through water, food, or air are:",
+      "options": ["Communicable diseases", "Genetic diseases", "Non-communicable diseases", "Chronic diseases"],
+      "correctIndex": 0,
+      "explanation": "Examples include diarrhea, worms, hepatitis, etc.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch2_q8",
+      "text": "Private health facilities are generally concentrated in:",
+      "options": ["Rural areas", "Urban areas (cities)", "Forests", "Hilly regions"],
+      "correctIndex": 1,
+      "explanation": "Private services are profit-driven and are mostly found in large cities.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_civ_ch2_q9",
+      "text": "What does PHC stand for in the Indian health system?",
+      "options": ["Public Health Center", "Primary Health Centre", "Private Health Club", "People Health Care"],
+      "correctIndex": 1,
+      "explanation": "Primary Health Centres serve groups of villages in rural areas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_civ_ch2_q10",
+      "text": "According to our Constitution, it is the primary duty of the government to ensure the welfare of the people and provide:",
+      "options": ["Luxury cars", "Health care facilities", "Free cinema tickets", "Large playgrounds"],
+      "correctIndex": 1,
+      "explanation": "The right to life is a fundamental right, and health is essential to protect it.",
+      "frequencyRating": 5
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "g7_sci_ch11",
+  "grade": "7",
+  "subject": "Science",
+  "number": "11",
+  "title": "Light",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_s11_q1",
+      "text": "Light travels along:",
+      "options": ["Curved lines", "Zig-zag lines", "Straight lines", "Random paths"],
+      "correctIndex": 2,
+      "explanation": "This property of light is known as rectilinear propagation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s11_q2",
+      "text": "The change in direction of light by a mirror is called:",
+      "options": ["Refraction", "Reflection", "Absorption", "Dispersion"],
+      "correctIndex": 1,
+      "explanation": "Reflection allows us to see images of objects in polished surfaces.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s11_q3",
+      "text": "An image that cannot be obtained on a screen is called a:",
+      "options": ["Real image", "Virtual image", "Inverted image", "Erect image"],
+      "correctIndex": 1,
+      "explanation": "The image formed by a plane mirror is always virtual and erect.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s11_q4",
+      "text": "A concave mirror can form:",
+      "options": ["Only real images", "Only virtual images", "Both real and virtual images", "Only diminished images"],
+      "correctIndex": 2,
+      "explanation": "The nature of the image depends on the distance of the object from the concave mirror.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s11_q5",
+      "text": "Which type of mirror is used as a side-view mirror in vehicles?",
+      "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Bifocal mirror"],
+      "correctIndex": 2,
+      "explanation": "Convex mirrors form diminished, erect images and provide a wider field of view.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s11_q6",
+      "text": "A lens which is thinner in the middle than at the edges is a:",
+      "options": ["Convex lens", "Concave lens", "Plane lens", "Cylindrical lens"],
+      "correctIndex": 1,
+      "explanation": "Concave lenses are also known as diverging lenses.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s11_q7",
+      "text": "White light is composed of how many colors?",
+      "options": ["Three", "Five", "Seven", "One"],
+      "correctIndex": 2,
+      "explanation": "Sunlight (white light) consists of VIBGYOR colors, which can be seen in a rainbow.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s11_q8",
+      "text": "The phenomenon of splitting of white light into its component colors is:",
+      "options": ["Reflection", "Refraction", "Dispersion", "Inversion"],
+      "correctIndex": 2,
+      "explanation": "Dispersion can be demonstrated using a glass prism.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s11_q9",
+      "text": "Newton's disc appears ________ when rotated rapidly.",
+      "options": ["Black", "White", "Red", "Multi-colored"],
+      "correctIndex": 1,
+      "explanation": "The rapid mixing of the seven colors perceived by the eye makes the disc appear white.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s11_q10",
+      "text": "Dentists use which type of mirror to see an enlarged image of teeth?",
+      "options": ["Convex mirror", "Concave mirror", "Plane mirror", "Double-sided mirror"],
+      "correctIndex": 1,
+      "explanation": "A concave mirror produces an enlarged virtual image when held close to the object.",
+      "frequencyRating": 4
+    }
+  ]
+}

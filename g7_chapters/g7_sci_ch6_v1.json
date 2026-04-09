@@ -1,0 +1,80 @@
+{
+  "id": "g7_sci_ch6",
+  "grade": "7",
+  "subject": "Science",
+  "number": "6",
+  "title": "Respiration in Organisms",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_s6_q1",
+      "text": "The process of breakdown of food in the cell with the release of energy is called:",
+      "options": ["Breathing", "Photosynthesis", "Cellular respiration", "Digestion"],
+      "correctIndex": 2,
+      "explanation": "Cellular respiration takes place in the cells of all organisms to provide energy."
+    },
+    {
+      "id": "g7_s6_q2",
+      "text": "Respiration that uses oxygen is called:",
+      "options": ["Anaerobic", "Aerobic", "Fermentation", "Inhalation"],
+      "correctIndex": 1,
+      "explanation": "Aerobic respiration breaks down glucose into carbon dioxide and water using oxygen."
+    },
+    {
+      "id": "g7_s6_q3",
+      "text": "During heavy exercise, we get cramps in the legs due to the accumulation of:",
+      "options": ["Carbon dioxide", "Alcohol", "Lactic acid", "Water"],
+      "correctIndex": 2,
+      "explanation": "The partial breakdown of glucose in muscles during anaerobic respiration produces lactic acid."
+    },
+    {
+      "id": "g7_s6_q4",
+      "text": "Yeast respires anaerobically to yield:",
+      "options": ["Water", "Oxygen", "Alcohol", "Sugar"],
+      "correctIndex": 2,
+      "explanation": "Yeast breaks down glucose into alcohol and carbon dioxide without using oxygen."
+    },
+    {
+      "id": "g7_s6_q5",
+      "text": "Cockroaches breathe through small openings on the sides of their body called:",
+      "options": ["Gills", "Lungs", "Spiracles", "Tracheae"],
+      "correctIndex": 2,
+      "explanation": "Spiracles lead to a network of air tubes called tracheae for gas exchange."
+    },
+    {
+      "id": "g7_s6_q6",
+      "text": "Earthworms breathe through their:",
+      "options": ["Skin", "Lungs", "Nose", "Gills"],
+      "correctIndex": 0,
+      "explanation": "The skin of an earthworm feels moist and slimy, allowing gases to pass through easily."
+    },
+    {
+      "id": "g7_s6_q7",
+      "text": "The large, muscular sheet that forms the floor of the chest cavity is the:",
+      "options": ["Rib cage", "Diaphragm", "Windpipe", "Bronchus"],
+      "correctIndex": 1,
+      "explanation": "The movement of the diaphragm and the rib cage helps in the process of breathing."
+    },
+    {
+      "id": "g7_s6_q8",
+      "text": "Exhaled air contains a higher percentage of:",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Water vapor"],
+      "correctIndex": 2,
+      "explanation": "During respiration, oxygen is consumed and carbon dioxide is produced as a byproduct."
+    },
+    {
+      "id": "g7_s6_q9",
+      "text": "Fish breathe with the help of:",
+      "options": ["Skin", "Lungs", "Gills", "Spiracles"],
+      "correctIndex": 2,
+      "explanation": "Gills are projections of the skin that help fish use oxygen dissolved in water."
+    },
+    {
+      "id": "g7_s6_q10",
+      "text": "During inhalation, the ribs move:",
+      "options": ["Downwards", "Upwards and outwards", "Inwards", "No movement"],
+      "correctIndex": 1,
+      "explanation": "Ribs move up and out to increase the space in the chest cavity, letting air rush into the lungs."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "g7_sci_ch1",
+  "grade": "7",
+  "subject": "Science",
+  "number": "1",
+  "title": "Nutrition in Plants",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_s1_q1",
+      "text": "Organisms that prepare their own food are called:",
+      "options": ["Heterotrophs", "Autotrophs", "Saprotrophs", "Parasites"],
+      "correctIndex": 1,
+      "explanation": "Auto means self and trophos means nourishment; hence plants are autotrophs."
+    },
+    {
+      "id": "g7_s1_q2",
+      "text": "The green pigment present in leaves is called:",
+      "options": ["Hemoglobin", "Chlorophyll", "Xanthophyll", "Stomata"],
+      "correctIndex": 1,
+      "explanation": "Chlorophyll helps leaves capture the energy of sunlight for photosynthesis."
+    },
+    {
+      "id": "g7_s1_q3",
+      "text": "Which gas is taken in by plants during photosynthesis?",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+      "correctIndex": 2,
+      "explanation": "Plants take in carbon dioxide from the air through stomata for food synthesis."
+    },
+    {
+      "id": "g7_s1_q4",
+      "text": "Cuscuta (Amarbel) is an example of a:",
+      "options": ["Host", "Parasite", "Saprotroph", "Autotroph"],
+      "correctIndex": 1,
+      "explanation": "Cuscuta does not have chlorophyll and takes ready-made food from the host plant."
+    },
+    {
+      "id": "g7_s1_q5",
+      "text": "The tiny pores on the surface of leaves are called:",
+      "options": ["Vessels", "Stomata", "Cells", "Lamina"],
+      "correctIndex": 1,
+      "explanation": "Stomata are surrounded by guard cells and facilitate gas exchange."
+    },
+    {
+      "id": "g7_s1_q6",
+      "text": "Which of these is an insectivorous plant?",
+      "options": ["Cuscuta", "Pitcher plant", "Mushroom", "Lichen"],
+      "correctIndex": 1,
+      "explanation": "Pitcher plants trap and digest insects to fulfill their nitrogen requirements."
+    },
+    {
+      "id": "g7_s1_q7",
+      "text": "The mode of nutrition in which organisms take in nutrients from dead and decaying matter is:",
+      "options": ["Parasitic", "Autotrophic", "Saprotrophic", "Holozoic"],
+      "correctIndex": 2,
+      "explanation": "Fungi are common examples of saprotrophs that live on decaying matter."
+    },
+    {
+      "id": "g7_s1_q8",
+      "text": "Lichens represent a symbiotic relationship between:",
+      "options": ["Alga and Fungus", "Alga and Bacteria", "Fungus and Bacteria", "Plant and Animal"],
+      "correctIndex": 0,
+      "explanation": "In lichens, the fungus provides shelter/water, and the alga prepares food."
+    },
+    {
+      "id": "g7_s1_q9",
+      "text": "Which bacterium helps in atmospheric nitrogen fixation in leguminous plants?",
+      "options": ["Lactobacillus", "Rhizobium", "Yeast", "E. coli"],
+      "correctIndex": 1,
+      "explanation": "Rhizobium lives in root nodules and converts atmospheric nitrogen into a usable form."
+    },
+    {
+      "id": "g7_s1_q10",
+      "text": "The ultimate source of energy for all living organisms is:",
+      "options": ["Water", "Sunlight", "Wind", "Food"],
+      "correctIndex": 1,
+      "explanation": "Sunlight is the primary source of energy that plants convert into chemical energy."
+    }
+  ]
+}

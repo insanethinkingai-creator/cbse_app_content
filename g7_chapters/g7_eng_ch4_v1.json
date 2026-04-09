@@ -1,0 +1,90 @@
+{
+  "id": "g7_eng_ch4",
+  "grade": "7",
+  "subject": "English",
+  "number": "4",
+  "title": "The Ashes That Made Trees Bloom",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_eng_ch4_q1",
+      "text": "How did the kind old couple treat their dog, Muko?",
+      "options": ["With cruelty", "As if it were their own child", "They ignored it", "As a working farm animal"],
+      "correctIndex": 1,
+      "explanation": "The childless couple loved Muko dearly and fed him tidbits from their own chopsticks.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_eng_ch4_q2",
+      "text": "How did Muko help the old man find the gold?",
+      "options": ["He barked at a thief", "He dug at a spot under a pine tree", "He brought a bag of coins", "He led him to a cave"],
+      "correctIndex": 1,
+      "explanation": "Muko scratched the ground under a pine tree, leading the old man to discover a pile of gold.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_eng_ch4_q3",
+      "text": "What did the greedy neighbors find when they forced the dog to dig?",
+      "options": ["More gold", "A dead kitten", "Silver coins", "Diamonds"],
+      "correctIndex": 1,
+      "explanation": "Instead of gold, the greedy couple found a foul-smelling dead kitten, which made them kill the dog in anger.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_eng_ch4_q4",
+      "text": "The spirit of the dog appeared to the old man in a dream and told him to:",
+      "options": ["Kill the neighbors", "Cut down the pine tree and make a mortar", "Leave the village", "Search for a new dog"],
+      "correctIndex": 1,
+      "explanation": "The dog's spirit guided the man to create a mortar and mill from the pine tree over his grave.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_eng_ch4_q5",
+      "text": "What happened when the kind couple used the mortar and mill?",
+      "options": ["They broke", "Rice turned into gold and sauce into coins", "They produced ash", "Nothing happened"],
+      "correctIndex": 1,
+      "explanation": "The magic tools turned their food into treasure, rewarding their kindness.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_eng_ch4_q6",
+      "text": "What happened when the greedy neighbors borrowed the mortar and mill?",
+      "options": ["They got gold", "The food turned into a mass of worms", "The tools disappeared", "They were rewarded by the King"],
+      "correctIndex": 1,
+      "explanation": "Because of their wicked intentions, the tools produced only worms, leading them to chop the tools into firewood.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_eng_ch4_q7",
+      "text": "What was the power of the ashes of the burnt mill?",
+      "options": ["They could make people rich", "They could make withered trees bloom", "They could heal wounds", "They could find hidden gold"],
+      "correctIndex": 1,
+      "explanation": "The dog's spirit told the man that the ashes could bring life back to dead trees.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_eng_ch4_q8",
+      "text": "The old man made a withered ________ tree bloom in front of the Daimyo.",
+      "options": ["Apple", "Mango", "Cherry", "Pine"],
+      "correctIndex": 2,
+      "explanation": "The old man sprinkled ashes on a dead cherry tree, making it blossom instantly.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_eng_ch4_q9",
+      "text": "What happened to the greedy neighbor when he tried to imitate the kind old man?",
+      "options": ["He was rewarded", "He was punished and later died", "The tree bloomed for him too", "He became rich"],
+      "correctIndex": 1,
+      "explanation": "The ashes only caused the Daimyo to sneeze, leading his guards to beat the greedy neighbor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_eng_ch4_q10",
+      "text": "This story is a famous folk tale from:",
+      "options": ["India", "China", "Japan", "Korea"],
+      "correctIndex": 2,
+      "explanation": "'The Ashes That Made Trees Bloom' is a traditional Japanese tale emphasizing that kindness is rewarded.",
+      "frequencyRating": 3
+    }
+  ]
+}

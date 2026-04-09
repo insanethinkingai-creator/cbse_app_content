@@ -1,0 +1,80 @@
+{
+  "id": "g7_sci_ch2",
+  "grade": "7",
+  "subject": "Science",
+  "number": "2",
+  "title": "Nutrition in Animals",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_s2_q1",
+      "text": "Where does the process of digestion start in humans?",
+      "options": ["Stomach", "Food pipe", "Mouth", "Small intestine"],
+      "correctIndex": 2,
+      "explanation": "Digestion begins in the buccal cavity (mouth) where food is chewed and mixed with saliva."
+    },
+    {
+      "id": "g7_s2_q2",
+      "text": "Bile juice is stored in a sac-like organ called the:",
+      "options": ["Liver", "Gall bladder", "Pancreas", "Stomach"],
+      "correctIndex": 1,
+      "explanation": "Bile is produced by the liver and stored in the gall bladder until needed."
+    },
+    {
+      "id": "g7_s2_q3",
+      "text": "The largest gland in the human body is the:",
+      "options": ["Pancreas", "Liver", "Salivary gland", "Thyroid"],
+      "correctIndex": 1,
+      "explanation": "The liver is a reddish-brown gland situated in the upper part of the abdomen on the right side."
+    },
+    {
+      "id": "g7_s2_q4",
+      "text": "Amoeba captures its food with the help of:",
+      "options": ["Cilia", "Flagella", "Pseudopodia", "Tentacles"],
+      "correctIndex": 2,
+      "explanation": "Amoeba pushes out finger-like projections called pseudopodia or 'false feet' to capture prey."
+    },
+    {
+      "id": "g7_s2_q5",
+      "text": "Villi are finger-like outgrowths found in the inner walls of the:",
+      "options": ["Large intestine", "Small intestine", "Stomach", "Oesophagus"],
+      "correctIndex": 1,
+      "explanation": "Villi increase the surface area for the absorption of digested food."
+    },
+    {
+      "id": "g7_s2_q6",
+      "text": "The main function of the large intestine is:",
+      "options": ["Digestion of proteins", "Absorption of water", "Digestion of fats", "Absorption of nutrients"],
+      "correctIndex": 1,
+      "explanation": "The large intestine absorbs water and some salts from the undigested food material."
+    },
+    {
+      "id": "g7_s2_q7",
+      "text": "Ruminants are animals that:",
+      "options": ["Eat insects", "Chew cud", "Live in water", "Fly"],
+      "correctIndex": 1,
+      "explanation": "Ruminants like cows swallow grass quickly and later bring it back to the mouth to chew it."
+    },
+    {
+      "id": "g7_s2_q8",
+      "text": "Saliva breaks down starch into:",
+      "options": ["Proteins", "Fats", "Sugars", "Vitamins"],
+      "correctIndex": 2,
+      "explanation": "The salivary amylase enzyme in saliva acts on starch and converts it into simpler sugars."
+    },
+    {
+      "id": "g7_s2_q9",
+      "text": "The acid secreted in the stomach to kill bacteria is:",
+      "options": ["Sulfuric acid", "Hydrochloric acid", "Nitric acid", "Acetic acid"],
+      "correctIndex": 1,
+      "explanation": "Hydrochloric acid (HCl) kills many bacteria and creates an acidic medium for protein digestion."
+    },
+    {
+      "id": "g7_s2_q10",
+      "text": "Complete digestion of food takes place in the:",
+      "options": ["Stomach", "Small intestine", "Large intestine", "Mouth"],
+      "correctIndex": 1,
+      "explanation": "The small intestine receives secretions and completes the digestion of all components of food."
+    }
+  ]
+}

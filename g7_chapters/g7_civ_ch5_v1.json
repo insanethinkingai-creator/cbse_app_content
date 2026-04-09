@@ -1,0 +1,90 @@
+{
+  "id": "g7_civ_ch5",
+  "grade": "7",
+  "subject": "Civics",
+  "number": "5",
+  "title": "Women Change the World",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_civ_ch5_q1",
+      "text": "Who was the first Indian woman to write an autobiography, titled 'Amar Jiban'?",
+      "options": ["Rokeya Sakhawat Hossain", "Rashsundari Devi", "Pandita Ramabai", "Tarabai Shinde"],
+      "correctIndex": 1,
+      "explanation": "Rashsundari Devi was a housewife from a rich landlord's family who learned to read and write in secret.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch5_q2",
+      "text": "Pandita Ramabai was given the title 'Pandita' because she could read and write:",
+      "options": ["Hindi", "Sanskrit", "English", "Marathi"],
+      "correctIndex": 1,
+      "explanation": "She was a remarkable achievement as women then were not allowed such knowledge; she set up a Mission in Khedgaon.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_civ_ch5_q3",
+      "text": "What was the title of the story written by Rokeya Sakhawat Hossain in 1905 while she was learning English?",
+      "options": ["Amar Jiban", "Sultana's Dream", "Women's Power", "Learning to Fly"],
+      "correctIndex": 1,
+      "explanation": "The story imagined a place called Ladyland where women had the freedom to study and invent.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch5_q4",
+      "text": "International Women's Day is celebrated globally on:",
+      "options": ["January 26", "August 15", "March 8", "October 2"],
+      "correctIndex": 2,
+      "explanation": "On March 8, women all over the world come together to celebrate their struggles and solidarity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch5_q5",
+      "text": "Which method of the women's movement involves creating public awareness through songs, plays, and meetings?",
+      "options": ["Campaigning", "Protesting", "Raising Awareness", "Boycotting"],
+      "correctIndex": 2,
+      "explanation": "Spreading awareness is a key part of the women's movement to sensitize the public on women's rights.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_civ_ch5_q6",
+      "text": "In the 2011 census, what was the literacy rate for women in India?",
+      "options": ["82%", "65%", "54%", "40%"],
+      "correctIndex": 1,
+      "explanation": "While literacy has increased, the gap between male (82%) and female (65%) literacy still exists.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_civ_ch5_q7",
+      "text": "Campaigning is an important part of the women's movement to fight:",
+      "options": ["Price rise", "Discrimination and violence", "Bad weather", "Foreign trade"],
+      "correctIndex": 1,
+      "explanation": "Campaigns have led to new laws being passed, such as the law against domestic violence in 2006.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch5_q8",
+      "text": "What is the primary reason why many girls from Dalit and Adivasi backgrounds leave school?",
+      "options": ["Lack of interest", "Poverty and discrimination", "They prefer working", "Lack of books"],
+      "correctIndex": 1,
+      "explanation": "A combination of lack of facilities in rural areas and socio-economic pressures leads to higher dropout rates.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch5_q9",
+      "text": "The women's movement uses 'Solidarity' to:",
+      "options": ["Show support for other women and causes", "Earn more money", "Compete with men", "Win elections"],
+      "correctIndex": 0,
+      "explanation": "Solidarity is about showing unity with other women and shared global struggles.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_civ_ch5_q10",
+      "text": "Satya Rani, an active member of the women's movement, fought specifically against:",
+      "options": ["Child labor", "Dowry deaths", "Illiteracy", "Environmental pollution"],
+      "correctIndex": 1,
+      "explanation": "She sat on the steps of the Supreme Court seeking justice for her daughter who was murdered for dowry.",
+      "frequencyRating": 4
+    }
+  ]
+}

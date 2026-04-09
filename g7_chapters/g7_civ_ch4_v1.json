@@ -1,0 +1,90 @@
+{
+  "id": "g7_civ_ch4",
+  "grade": "7",
+  "subject": "Civics",
+  "number": "4",
+  "title": "Growing up as Boys and Girls",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_civ_ch4_q1",
+      "text": "According to research on Samoan islands in the 1920s, children did not:",
+      "options": ["Play", "Go to school", "Help siblings", "Fish"],
+      "correctIndex": 1,
+      "explanation": "In Samoa, children stayed home and learned household tasks and fishing as they grew up.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_civ_ch4_q2",
+      "text": "Societies often give different ________ to boys and girls from a very young age.",
+      "options": ["Names", "Education", "Toys", "Food"],
+      "correctIndex": 2,
+      "explanation": "Boys are often given cars to play with, while girls are given dolls, suggesting different futures.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch4_q3",
+      "text": "The work that women do within the home is often:",
+      "options": ["Paid well", "Highly recognized", "Invisible and devalued", "Only hobby"],
+      "correctIndex": 2,
+      "explanation": "Household work is physically demanding and time-consuming, yet often not considered real 'work'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch4_q4",
+      "text": "The term used when a person works both inside the house (domestic chores) and outside (paid job) is:",
+      "options": ["Hard work", "Double burden", "Overtime", "Full-time"],
+      "correctIndex": 1,
+      "explanation": "This term describes the heavy work pressure faced by many women across the world.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch4_q5",
+      "text": "Most domestic workers in Indian homes are:",
+      "options": ["Men", "Women", "Children", "Elderly"],
+      "correctIndex": 1,
+      "explanation": "Domestic work involves cleaning, cooking, and care-giving, which is frequently done by women.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_civ_ch4_q6",
+      "text": "Childcare and housework are part of ________ work.",
+      "options": ["Commercial", "Domestic", "Industrial", "Professional"],
+      "correctIndex": 1,
+      "explanation": "These tasks are essential for the family but are often undervalued by society.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_civ_ch4_q7",
+      "text": "Anganwadis or child-care centres help women by:",
+      "options": ["Giving them money", "Teaching them to cook", "Taking care of children so women can work outside", "Providing clothing"],
+      "correctIndex": 2,
+      "explanation": "The government has passed laws making it mandatory for organizations with over 30 women to provide crèche facilities.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_civ_ch4_q8",
+      "text": "Gender is a ________ concept that defines roles for men and women.",
+      "options": ["Biological", "Social", "Geographical", "Mathematical"],
+      "correctIndex": 1,
+      "explanation": "Gender roles are learned from family and society, rather than being determined solely by biology.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_civ_ch4_q9",
+      "text": "A central principle of our Constitution is that ________ should be a reality for all.",
+      "options": ["Wealth", "Equality", "Fame", "Success"],
+      "correctIndex": 1,
+      "explanation": "The Constitution states that being male or female should not become a reason for discrimination.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_civ_ch4_q10",
+      "text": "In the 1960s in Madhya Pradesh, school designs for boys and girls were different because:",
+      "options": ["Of different colors", "Girls' schools had a central courtyard for safety and seclusion", "Boys' schools had more rooms", "Girls' schools were smaller"],
+      "correctIndex": 1,
+      "explanation": "The girls' school was designed to provide a private space for them to play away from the public gaze.",
+      "frequencyRating": 3
+    }
+  ]
+}

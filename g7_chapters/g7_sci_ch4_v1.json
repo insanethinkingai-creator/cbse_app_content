@@ -1,0 +1,80 @@
+{
+  "id": "g7_sci_ch4",
+  "grade": "7",
+  "subject": "Science",
+  "number": "4",
+  "title": "Acids, Bases and Salts",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_s4_q1",
+      "text": "Which of these substances tastes sour?",
+      "options": ["Sugar", "Baking soda", "Lemon juice", "Common salt"],
+      "correctIndex": 2,
+      "explanation": "Acids are chemical substances that have a sour taste."
+    },
+    {
+      "id": "g7_s4_q2",
+      "text": "What color does blue litmus paper turn when dipped in an acid?",
+      "options": ["Green", "Yellow", "Red", "No change"],
+      "correctIndex": 2,
+      "explanation": "Acids turn blue litmus paper red."
+    },
+    {
+      "id": "g7_s4_q3",
+      "text": "Bases feel _______ to touch.",
+      "options": ["Rough", "Soapy", "Sticky", "Hard"],
+      "correctIndex": 1,
+      "explanation": "Substances that are bitter in taste and soapy to touch are known as bases."
+    },
+    {
+      "id": "g7_s4_q4",
+      "text": "Which indicator turns green in a basic solution?",
+      "options": ["Litmus", "Turmeric", "China rose", "Phenolphthalein"],
+      "correctIndex": 2,
+      "explanation": "China rose indicator turns acidic solutions dark pink and basic solutions green."
+    },
+    {
+      "id": "g7_s4_q5",
+      "text": "The reaction between an acid and a base is called:",
+      "options": ["Crystallization", "Neutralization", "Oxidation", "Fermentation"],
+      "correctIndex": 1,
+      "explanation": "Neutralization results in the formation of salt and water with the evolution of heat."
+    },
+    {
+      "id": "g7_s4_q6",
+      "text": "Which acid is present in an ant's sting?",
+      "options": ["Citric acid", "Acetic acid", "Formic acid", "Lactic acid"],
+      "correctIndex": 2,
+      "explanation": "An ant injects formic acid into the skin when it bites."
+    },
+    {
+      "id": "g7_s4_q7",
+      "text": "Milk of Magnesia contains which base?",
+      "options": ["Sodium hydroxide", "Magnesium hydroxide", "Calcium hydroxide", "Ammonium hydroxide"],
+      "correctIndex": 1,
+      "explanation": "Magnesium hydroxide is used as an antacid to neutralize excessive stomach acid."
+    },
+    {
+      "id": "g7_s4_q8",
+      "text": "What happens when phenolphthalein is added to an acidic solution?",
+      "options": ["Turns pink", "Turns red", "Remains colorless", "Turns blue"],
+      "correctIndex": 2,
+      "explanation": "Phenolphthalein remains colorless in acidic solutions and turns pink in basic solutions."
+    },
+    {
+      "id": "g7_s4_q9",
+      "text": "Common salt is chemically known as:",
+      "options": ["Sodium carbonate", "Sodium chloride", "Calcium chloride", "Sodium bicarbonate"],
+      "correctIndex": 1,
+      "explanation": "Sodium chloride (NaCl) is a neutral salt used in our food."
+    },
+    {
+      "id": "g7_s4_q10",
+      "text": "Which of these is a natural indicator?",
+      "options": ["Turmeric", "Methyl orange", "Phenolphthalein", "Hydrochloric acid"],
+      "correctIndex": 0,
+      "explanation": "Turmeric is a natural substance that changes color in the presence of a base."
+    }
+  ]
+}
