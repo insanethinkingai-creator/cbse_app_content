@@ -12,59 +12,58 @@ def calculate_md5(file_path):
             hash_md5.update(chunk)
     return hash_md5.hexdigest()
 
-def create_bundle():
+def create_bundles():
     # Configuration
     base_dir = os.path.dirname(os.path.abspath(__file__))
-    output_zip = os.path.join(base_dir, "g7_v1.zip")
     manifest_path = os.path.join(base_dir, "version.json")
-    chapters_subdir = os.path.join(base_dir, "g7_chapters") # New subdirectory for chapter files
     
-    # 1. Collect all chapter JSON files (excluding manifest itself)
-    if not os.path.exists(chapters_subdir):
-        print(f"Error: Chapter subdirectory '{chapters_subdir}' not found. Please create it and move chapter JSON files there.")
+    # Identify all grade-specific subdirectories (e.g., g7_chapters, g10_chapters)
+    subdirs = [d for d in os.listdir(base_dir) if os.path.isdir(os.path.join(base_dir, d)) and d.endswith("_chapters")]
+    
+    if not subdirs:
+        print("No chapter subdirectories found (expected folders like 'g7_chapters').")
         return
 
-    json_files = [f for f in os.listdir(chapters_subdir) if f.endswith(".json")]
-    
-    print(f"Found {len(json_files)} chapter files. Bundling...")
-
-    # 2. Create the ZIP archive
-    with zipfile.ZipFile(output_zip, 'w', zipfile.ZIP_DEFLATED) as zipf:
-        for file in json_files:
-            file_path = os.path.join(chapters_subdir, file)
-            zipf.write(file_path, arcname=os.path.join("g7_chapters", file)) # Preserve subdirectory structure inside ZIP
-            
-    print(f"Successfully created: {output_zip}")
-
-    # 3. Calculate MD5 Checksum
-    zip_md5 = calculate_md5(output_zip)
-    print(f"MD5 Checksum: {zip_md5}")
-
-    # 4. Update the manifest (version.json)
+    # Load existing manifest or create new
     if os.path.exists(manifest_path):
         with open(manifest_path, 'r') as f:
             manifest = json.load(f)
-        
-        # Update metadata
-        manifest["updatedAt"] = datetime.utcnow().isoformat() + "Z"
-        
-        # Ensure bundles object exists
-        if "bundles" not in manifest:
-            manifest["bundles"] = {}
-            
-        # Store the MD5 and version
-        manifest["bundles"]["g7_full_zip"] = "v1"
-        manifest["bundles"]["g7_full_zip_md5"] = zip_md5
-        
-        with open(manifest_path, 'w') as f:
-            json.dump(manifest, f, indent=2)
-        
-        print("Updated version.json with new MD5 checksum and timestamp.")
     else:
-        print("Warning: version.json not found. Manifest update skipped.")
+        manifest = {"updatedAt": "", "bundles": {}}
+
+    manifest["updatedAt"] = datetime.utcnow().isoformat() + "Z"
+
+    for subdir in subdirs:
+        grade_prefix = subdir.split('_')[0] # extracts 'g7' or 'g10'
+        bundle_id = f"{grade_prefix}_full_zip"
+        bundle_version = "v1"
+        output_zip_name = f"{grade_prefix}_{bundle_version}.zip"
+        output_zip = os.path.join(base_dir, output_zip_name)
+        subdir_path = os.path.join(base_dir, subdir)
+
+        json_files = [f for f in os.listdir(subdir_path) if f.endswith(".json")]
+        
+        print(f"Processing {grade_prefix}: Found {len(json_files)} files. Bundling...")
+
+        # Create the ZIP archive for this grade
+        with zipfile.ZipFile(output_zip, 'w', zipfile.ZIP_DEFLATED) as zipf:
+            for file in json_files:
+                file_path = os.path.join(subdir_path, file)
+                zipf.write(file_path, arcname=os.path.join(subdir, file))
+                
+        # Calculate MD5 and update manifest metadata
+        zip_md5 = calculate_md5(output_zip)
+        manifest["bundles"][bundle_id] = bundle_version
+        manifest["bundles"][f"{bundle_id}_md5"] = zip_md5
+        manifest["bundles"][f"{bundle_id}_filename"] = output_zip_name
+        print(f"Generated {output_zip_name} (MD5: {zip_md5})")
+
+    with open(manifest_path, 'w') as f:
+        json.dump(manifest, f, indent=2)
+    print("Updated version.json successfully.")
 
 if __name__ == "__main__":
     try:
-        create_bundle()
+        create_bundles()
     except Exception as e:
         print(f"An error occurred: {e}")

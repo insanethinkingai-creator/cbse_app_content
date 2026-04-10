@@ -1,0 +1,20 @@
+{
+  "mobileAds": {
+    "enabled": true,
+    "androidBannerId": "ca-app-pub-3940256099942544/6300978111",
+    "iosBannerId": "ca-app-pub-3940256099942544/2934735716",
+    "androidRewardedId": "ca-app-pub-3940256099942544/5224354917",
+    "iosRewardedId": "ca-app-pub-3940256099942544/1712485313",
+
+  },
+  "webAds": {
+    "enabled": true,
+    "webBannerUrl": "assets/images/web_banner.png",
+    "adsensePublisherId": "ca-pub-2046967762235290",
+    "adsenseSlotId": "5499649008"
+  },
+  "featureFlags": { 
+    "enableNewUI": false,
+    "enableAdvancedAnalytics": false
+   }
+}

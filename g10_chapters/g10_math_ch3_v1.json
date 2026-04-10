@@ -1,0 +1,330 @@
+{
+  "id": "g10_math_ch3",
+  "grade": "10",
+  "subject": "Mathematics",
+  "number": "3",
+  "title": "Pair of Linear Equations in Two Variables",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_m3_q1",
+      "text": "The general form of a linear equation in two variables x and y is:",
+      "options": ["ax² + by + c = 0", "ax + by + c = 0", "ax + by² + c = 0", "ax + b = 0"],
+      "correctIndex": 1,
+      "explanation": "A linear equation in two variables has the highest power of variables as 1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q2",
+      "text": "If a₁/a₂ ≠ b₁/b₂, the pair of linear equations has:",
+      "options": ["Unique solution", "No solution", "Infinitely many solutions", "Two solutions"],
+      "correctIndex": 0,
+      "explanation": "When the coefficients are not proportional, the lines intersect at exactly one point.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q3",
+      "text": "If a₁/a₂ = b₁/b₂ ≠ c₁/c₂, the lines represented by the equations are:",
+      "options": ["Intersecting", "Coincident", "Parallel", "Perpendicular"],
+      "correctIndex": 2,
+      "explanation": "Parallel lines have the same slope but different intercepts, resulting in no common solution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q4",
+      "text": "If a₁/a₂ = b₁/b₂ = c₁/c₂, the system of equations is:",
+      "options": ["Inconsistent", "Consistent and Dependent", "Consistent and Independent", "None of these"],
+      "correctIndex": 1,
+      "explanation": "When all ratios are equal, the lines coincide, giving infinitely many solutions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q5",
+      "text": "A pair of linear equations which has no solution is called:",
+      "options": ["Consistent", "Dependent", "Inconsistent", "Reducible"],
+      "correctIndex": 2,
+      "explanation": "Inconsistent systems refer to parallel lines that never meet.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q6",
+      "text": "The graphical representation of x = 3 is a line parallel to:",
+      "options": ["x-axis", "y-axis", "Both axes", "Neither axis"],
+      "correctIndex": 1,
+      "explanation": "x = constant is always a vertical line parallel to the y-axis.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q7",
+      "text": "The graphical representation of y = -2 is a line parallel to:",
+      "options": ["x-axis", "y-axis", "The line y=x", "The origin"],
+      "correctIndex": 0,
+      "explanation": "y = constant is a horizontal line parallel to the x-axis.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q8",
+      "text": "The solution of x + y = 10 and x - y = 2 is:",
+      "options": ["x=4, y=6", "x=6, y=4", "x=5, y=5", "x=7, y=3"],
+      "correctIndex": 1,
+      "explanation": "Adding equations: 2x = 12 => x=6. Then 6+y=10 => y=4.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q9",
+      "text": "If 2x + 3y = 12, then the point where it cuts the x-axis is:",
+      "options": ["(0, 4)", "(6, 0)", "(0, 6)", "(4, 0)"],
+      "correctIndex": 1,
+      "explanation": "On x-axis, y=0. 2x + 3(0) = 12 => 2x = 12 => x = 6.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q10",
+      "text": "For what value of k will the equations x + 2y = 3 and 5x + ky + 7 = 0 be parallel?",
+      "options": ["10", "5", "2", "1"],
+      "correctIndex": 0,
+      "explanation": "Condition for parallel: a₁/a₂ = b₁/b₂. 1/5 = 2/k => k = 10.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q11",
+      "text": "A consistent system of equations must have at least:",
+      "options": ["One solution", "Two solutions", "No solution", "Three solutions"],
+      "correctIndex": 0,
+      "explanation": "Consistency implies the lines meet at one or more points.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q12",
+      "text": "The point of intersection of x = a and y = b is:",
+      "options": ["(b, a)", "(a, b)", "(0, 0)", "None of these"],
+      "correctIndex": 1,
+      "explanation": "The lines meet where the x-coordinate is 'a' and y-coordinate is 'b'.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m3_q13",
+      "text": "The pair of equations y = 0 and y = -7 has:",
+      "options": ["One solution", "Two solutions", "Infinitely many", "No solution"],
+      "correctIndex": 3,
+      "explanation": "These are two distinct horizontal lines which never intersect.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q14",
+      "text": "The area of the triangle formed by the lines x = 3, y = 4 and x = y is:",
+      "options": ["1/2 sq units", "1 sq unit", "2 sq units", "None of these"],
+      "correctIndex": 0,
+      "explanation": "Points are (3,3), (4,4) and (3,4). Area = 1/2 * base * height = 1/2 * 1 * 1 = 0.5.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m3_q15",
+      "text": "Find k if kx + 3y = k - 3 and 12x + ky = k have infinitely many solutions.",
+      "options": ["6", "-6", "0", "None"],
+      "correctIndex": 0,
+      "explanation": "k/12 = 3/k = (k-3)/k. From k²=36, k=±6. k=6 satisfies the third part (6-3)/6 = 1/2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q16",
+      "text": "The value of y when x = 5 in the equation 3x - 2y = 7 is:",
+      "options": ["4", "3", "5", "8"],
+      "correctIndex": 0,
+      "explanation": "3(5) - 2y = 7 => 15 - 2y = 7 => 2y = 8 => y = 4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q17",
+      "text": "If x=a, y=b is the solution of x-y=2 and x+y=4, then a and b are:",
+      "options": ["3, 1", "1, 3", "5, 3", "-1, -3"],
+      "correctIndex": 0,
+      "explanation": "Adding: 2x = 6 => a=3. Subtracting: 2y = 2 => b=1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q18",
+      "text": "Method of solving linear equations by eliminating one variable is called:",
+      "options": ["Substitution", "Elimination", "Graphical", "Cross-multiplication"],
+      "correctIndex": 1,
+      "explanation": "Elimination involves making coefficients of one variable equal to remove it.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q19",
+      "text": "In the substitution method, we express one variable in terms of:",
+      "options": ["A constant", "The other variable", "Zero", "Infinity"],
+      "correctIndex": 1,
+      "explanation": "We isolate one variable and plug its expression into the second equation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q20",
+      "text": "If 2x + 3y = 11 and 2x - 4y = -24, find the value of 'm' for which y = mx + 3.",
+      "options": ["1", "-1", "2", "-2"],
+      "correctIndex": 1,
+      "explanation": "Solving equations gives x = -2, y = 5. 5 = m(-2) + 3 => 2 = -2m => m = -1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q21",
+      "text": "The sum of two numbers is 35 and their difference is 13. The numbers are:",
+      "options": ["24, 11", "22, 13", "20, 15", "25, 10"],
+      "correctIndex": 0,
+      "explanation": "x+y=35, x-y=13. 2x=48 => x=24. y=35-24=11.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q22",
+      "text": "A pair of linear equations representing coincident lines is always:",
+      "options": ["Consistent", "Inconsistent", "Independent", "Parallel"],
+      "correctIndex": 0,
+      "explanation": "Since they share every point, they have infinite solutions and are consistent.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q23",
+      "text": "Aruna has only Re 1 and Rs 2 coins with her. If total coins are 50 and amount is Rs 75, then number of Rs 1 and Rs 2 coins are:",
+      "options": ["35, 15", "25, 25", "15, 35", "20, 30"],
+      "correctIndex": 1,
+      "explanation": "x+y=50, x+2y=75. Subtracting gives y=25, so x=25.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q24",
+      "text": "If the lines given by 3x + 2ky = 2 and 2x + 5y + 1 = 0 are parallel, then k is:",
+      "options": ["15/4", "3/2", "5/4", "4/15"],
+      "correctIndex": 0,
+      "explanation": "3/2 = 2k/5 => 15 = 4k => k = 15/4.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q25",
+      "text": "The system x - y = 1 and x + y = 3 has:",
+      "options": ["Unique solution (2, 1)", "Unique solution (1, 2)", "No solution", "Infinite solutions"],
+      "correctIndex": 0,
+      "explanation": "Adding: 2x = 4 => x=2. Then 2-y=1 => y=1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q26",
+      "text": "Which method was recently removed from the Grade 10 NCERT syllabus for solving linear equations?",
+      "options": ["Substitution", "Elimination", "Cross-multiplication", "Graphical"],
+      "correctIndex": 2,
+      "explanation": "The cross-multiplication method was removed in the recent rationalization of the syllabus.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m3_q27",
+      "text": "One equation of a pair of dependent linear equations is -5x + 7y = 2. The second could be:",
+      "options": ["10x + 14y = 4", "-10x - 14y = 4", "-10x + 14y = 4", "10x - 14y = -4"],
+      "correctIndex": 3,
+      "explanation": "Multiplying the first equation by -2 gives 10x - 14y = -4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q28",
+      "text": "For what value of 'p' will the system 2x + 3y = 7 and px + 6y = 12 have no solution?",
+      "options": ["4", "3", "2", "1"],
+      "correctIndex": 0,
+      "explanation": "2/p = 3/6 ≠ 7/12. 2/p = 1/2 => p = 4.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q29",
+      "text": "The father's age is six times his son's age. Four years hence, it is four times. Their present ages are:",
+      "options": ["36, 6", "30, 5", "24, 4", "42, 7"],
+      "correctIndex": 0,
+      "explanation": "x=6y and (x+4)=4(y+4). 6y+4=4y+16 => 2y=12 => y=6, x=36.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q30",
+      "text": "The value of c for which the pair cx - y = 2 and 6x - 2y = 3 will have no solution is:",
+      "options": ["3", "-3", "-12", "0"],
+      "correctIndex": 0,
+      "explanation": "c/6 = -1/-2 ≠ 2/3. c/6 = 1/2 => c=3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q31",
+      "text": "Intersecting lines represent which type of system?",
+      "options": ["Inconsistent", "Consistent", "Parallel", "Dependent"],
+      "correctIndex": 1,
+      "explanation": "Consistent systems have at least one solution (intersecting or coincident).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q32",
+      "text": "If x=2, y=3 is a solution of 2x + 3y = k, then k is:",
+      "options": ["13", "10", "15", "5"],
+      "correctIndex": 0,
+      "explanation": "2(2) + 3(3) = 4 + 9 = 13.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q33",
+      "text": "The coordinates of the origin are:",
+      "options": ["(1, 1)", "(0, 0)", "(0, 1)", "(1, 0)"],
+      "correctIndex": 1,
+      "explanation": "The origin is the point where the x and y axes intersect.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m3_q34",
+      "text": "A line parallel to the x-axis is of the form:",
+      "options": ["x = k", "y = k", "x + y = 0", "y = x"],
+      "correctIndex": 1,
+      "explanation": "Horizontal lines have a constant y-value.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q35",
+      "text": "A line parallel to the y-axis is of the form:",
+      "options": ["x = k", "y = k", "x = y", "x + y = k"],
+      "correctIndex": 0,
+      "explanation": "Vertical lines have a constant x-value.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q36",
+      "text": "If two lines are coincident, how many solutions are there?",
+      "options": ["One", "Zero", "Infinite", "Two"],
+      "correctIndex": 2,
+      "explanation": "Coincident lines overlap completely, sharing every point as a solution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q37",
+      "text": "The pair of equations x + 2y + 5 = 0 and -3x - 6y + 1 = 0 have:",
+      "options": ["Unique solution", "Exactly two solutions", "Infinitely many", "No solution"],
+      "correctIndex": 3,
+      "explanation": "1/-3 = 2/-6 ≠ 5/1. Since a₁/a₂ = b₁/b₂ ≠ c₁/c₂, there is no solution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q38",
+      "text": "The lines x = 2 and y = 3 are:",
+      "options": ["Parallel", "Coincident", "Intersecting", "None of these"],
+      "correctIndex": 2,
+      "explanation": "One is vertical and one is horizontal; they intersect at (2, 3).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q39",
+      "text": "If a pair of linear equations is consistent, then the lines will be:",
+      "options": ["Parallel", "Always coincident", "Always intersecting", "Intersecting or coincident"],
+      "correctIndex": 3,
+      "explanation": "Consistency means having one or more solutions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q40",
+      "text": "If a₁/a₂ = b₁/b₂ = c₁/c₂ then the system is called ________ consistent.",
+      "options": ["Independent", "Dependent", "Inconsistent", "None"],
+      "correctIndex": 1,
+      "explanation": "Coincident lines are referred to as dependent consistent systems.",
+      "frequencyRating": 4
+    }
+  ]
+}
