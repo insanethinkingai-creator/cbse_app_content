@@ -1,0 +1,50 @@
+{
+  "id": "g10_eco_ch2",
+  "grade": "10",
+  "subject": "Economics",
+  "number": "2",
+  "title": "Sectors of the Indian Economy",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_e2_q1",
+      "text": "The sector that covers activities where natural products are changed into other forms through manufacturing is:",
+      "options": ["Primary Sector", "Secondary Sector", "Tertiary Sector", "Quaternary Sector"],
+      "correctIndex": 1,
+      "explanation": "The secondary sector involves industrial activity where raw materials from the primary sector are processed into finished goods.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e2_q2",
+      "text": "GDP is the total value of ________ produced during a particular year.",
+      "options": ["All goods and services", "All final goods and services", "All intermediate goods", "All consumer goods"],
+      "correctIndex": 1,
+      "explanation": "Gross Domestic Product (GDP) only counts 'final' goods and services to avoid double-counting intermediate products.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e2_q3",
+      "text": "In which sector is the employment conditions generally secure and workers get benefits like paid leave?",
+      "options": ["Unorganized sector", "Organized sector", "Agricultural sector", "Small scale sector"],
+      "correctIndex": 1,
+      "explanation": "The organized sector follows government rules and regulations, providing job security and social security benefits.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e2_q4",
+      "text": "Underemployment occurs when people are:",
+      "options": ["Not willing to work", "Working slowly", "Working less than what they are capable of", "Paid high wages"],
+      "correctIndex": 2,
+      "explanation": "Underemployment (or disguised unemployment) is a situation where more people are working than necessary, and their potential is not fully utilized.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e2_q5",
+      "text": "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) 2005 guarantees how many days of employment?",
+      "options": ["50 days", "100 days", "150 days", "200 days"],
+      "correctIndex": 1,
+      "explanation": "MGNREGA guarantees 100 days of wage employment in a financial year to every household whose adult members volunteer to do unskilled manual work.",
+      "frequencyRating": 5
+    }
+  ]
+}

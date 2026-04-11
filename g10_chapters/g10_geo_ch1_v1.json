@@ -8,322 +8,42 @@
   "questions": [
     {
       "id": "g10_g1_q1",
-      "text": "Everything available in our environment which can be used to satisfy our needs, provided it is technologically accessible, economically feasible and culturally acceptable is termed as:",
-      "options": ["Development", "Resource", "Planning", "Sustainability"],
-      "correctIndex": 1,
-      "explanation": "A resource must meet these three criteria to be useful for human development.",
+      "text": "In which of the following states is terrace cultivation practised?",
+      "options": ["Punjab", "Plains of Uttar Pradesh", "Haryana", "Uttarakhand"],
+      "correctIndex": 3,
+      "explanation": "Terrace cultivation is practiced in hilly areas like Uttarakhand to prevent soil erosion and facilitate farming on slopes.",
       "frequencyRating": 5
     },
     {
       "id": "g10_g1_q2",
-      "text": "On the basis of origin, resources can be classified as:",
-      "options": ["Biotic and Abiotic", "Renewable and Non-renewable", "Individual and Community", "Potential and Developed"],
-      "correctIndex": 0,
-      "explanation": "Biotic resources are obtained from the biosphere (living), while abiotic resources are composed of non-living things.",
+      "text": "Which one of the following is the main cause of land degradation in Punjab?",
+      "options": ["Intensive cultivation", "Deforestation", "Over irrigation", "Overgrazing"],
+      "correctIndex": 2,
+      "explanation": "In Punjab, Haryana, and Western Uttar Pradesh, over irrigation is responsible for land degradation due to waterlogging which increases salinity.",
       "frequencyRating": 5
     },
     {
       "id": "g10_g1_q3",
-      "text": "Which of the following is an example of a non-renewable resource?",
-      "options": ["Solar energy", "Wind energy", "Fossil fuels", "Water"],
+      "text": "Black soil is also known as:",
+      "options": ["Bangar", "Khadar", "Regur", "Laterite"],
       "correctIndex": 2,
-      "explanation": "Fossil fuels take millions of years to form and cannot be replaced once exhausted.",
+      "explanation": "Black soil is ideal for growing cotton and is also known as regur soil. It is typical of the Deccan trap region.",
       "frequencyRating": 5
     },
     {
       "id": "g10_g1_q4",
-      "text": "Resources which are found in a region but have not been utilized are called:",
-      "options": ["Developed resources", "Stock", "Reserves", "Potential resources"],
-      "correctIndex": 3,
-      "explanation": "Potential resources exist but their full utilization depends on future technological or economic factors.",
+      "text": "Where was the first International Earth Summit held in 1992?",
+      "options": ["Rio de Janeiro", "New York", "Geneva", "Johannesburg"],
+      "correctIndex": 0,
+      "explanation": "The first International Earth Summit was held in Rio de Janeiro, Brazil, to address urgent problems of environmental protection and socio-economic development.",
       "frequencyRating": 4
     },
     {
       "id": "g10_g1_q5",
-      "text": "The first International Earth Summit was held in 1992 at:",
-      "options": ["New York", "Rio de Janeiro", "Geneva", "Kyoto"],
-      "correctIndex": 1,
-      "explanation": "The summit addressed urgent problems of environmental protection and socio-economic development.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_g1_q6",
-      "text": "What was the main outcome of the Rio de Janeiro Earth Summit 1992 regarding local governments?",
-      "options": ["Agenda 21", "The Kyoto Protocol", "The Montreal Protocol", "Global Warming Treaty"],
-      "correctIndex": 0,
-      "explanation": "Agenda 21 is a declaration signed to achieve global sustainable development, where every local government should draw its own local Agenda 21.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_g1_q7",
-      "text": "The process of identifying and quantifying resources followed by matching them with development plans is called:",
-      "options": ["Resource development", "Resource planning", "Resource conservation", "Resource mobilization"],
-      "correctIndex": 1,
-      "explanation": "Resource planning is essential for the judicious use of resources, especially in a country like India with vast diversity.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_g1_q8",
-      "text": "Which state in India is rich in minerals and coal deposits but lacks in infrastructural development?",
-      "options": ["Rajasthan", "Arunachal Pradesh", "Jharkhand", "Ladakh"],
-      "correctIndex": 2,
-      "explanation": "States like Jharkhand, Chhattisgarh, and Madhya Pradesh are mineral-rich but have historically faced developmental challenges.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_g1_q9",
-      "text": "Who said, 'There is enough for everybody's need and not for any body's greed'?",
-      "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Subhas Chandra Bose", "Rabindranath Tagore"],
-      "correctIndex": 1,
-      "explanation": "Gandhiji was very apt in voicing his concern about resource conservation and criticized greed.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_g1_q10",
-      "text": "What percentage of India's land area is plain land, which provides facilities for agriculture and industry?",
-      "options": ["27%", "30%", "43%", "50%"],
-      "correctIndex": 2,
-      "explanation": "About 43% of the land area is plain, which is vital for India's economy.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_g1_q11",
-      "text": "Land that is left without cultivation for one or less than one agricultural year is called:",
-      "options": ["Gross cropped area", "Barren land", "Current fallow", "Culturable waste land"],
-      "correctIndex": 2,
-      "explanation": "Current fallow land is left uncultivated to regain its fertility naturally.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_g1_q12",
-      "text": "The total area sown once as well as more than once in an agricultural year is known as:",
-      "options": ["Net Sown Area", "Gross Cropped Area", "Total Cultivated Area", "Fallow Land"],
-      "correctIndex": 1,
-      "explanation": "Gross Cropped Area accounts for multiple sowings on the same piece of land.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_g1_q13",
-      "text": "In which of the following states is overgrazing the main reason for land degradation?",
-      "options": ["Punjab", "Haryana", "Gujarat", "Jharkhand"],
-      "correctIndex": 2,
-      "explanation": "In states like Gujarat, Rajasthan, Madhya Pradesh, and Maharashtra, overgrazing is a major cause of land degradation.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_g1_q14",
-      "text": "Mining sites are abandoned after excavation work is complete leaving deep scars. This is a major cause of land degradation in:",
-      "options": ["Punjab", "Odisha", "Gujarat", "Uttar Pradesh"],
-      "correctIndex": 1,
-      "explanation": "Mineral-rich states like Odisha and Jharkhand suffer from land degradation due to deforestation caused by mining.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_g1_q15",
-      "text": "Which is the most widely spread and important soil of India?",
-      "options": ["Black soil", "Alluvial soil", "Red soil", "Laterite soil"],
-      "correctIndex": 1,
-      "explanation": "Alluvial soil covers the entire northern plains and is very fertile.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_g1_q16",
-      "text": "Alluvial soils are deposited by which three important Himalayan river systems?",
-      "options": ["Ganga, Yamuna, Godavari", "Indus, Ganga, Brahmaputra", "Indus, Narmada, Tapi", "Krishna, Kaveri, Mahanadi"],
-      "correctIndex": 1,
-      "explanation": "The northern plains are formed by the interplay of the Indus, Ganga, and Brahmaputra rivers.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_g1_q17",
-      "text": "The old alluvial soil is known as:",
-      "options": ["Khadar", "Bangar", "Regur", "Terai"],
-      "correctIndex": 1,
-      "explanation": "Bangar is the older alluvium, often found further away from the river banks, containing 'kankar' nodules.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_g1_q18",
-      "text": "Black soil is also known as:",
-      "options": ["Khadar soil", "Regur soil", "Laterite soil", "Arid soil"],
-      "correctIndex": 1,
-      "explanation": "Regur soil is ideal for growing cotton and is found in the Deccan trap region.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_g1_q19",
-      "text": "Which soil is well-known for its capacity to hold moisture?",
-      "options": ["Alluvial soil", "Black soil", "Red soil", "Laterite soil"],
-      "correctIndex": 1,
-      "explanation": "Black soil is made up of extremely fine clayey material and has high moisture retention capacity.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_g1_q20",
-      "text": "Red soil develops a reddish color due to:",
-      "options": ["High moisture content", "Diffusion of iron in crystalline and metamorphic rocks", "Presence of humus", "Volcanic origin"],
-      "correctIndex": 1,
-      "explanation": "The presence of iron gives it a red color; it looks yellow when it occurs in a hydrated form.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_g1_q21",
-      "text": "Which soil is formed as a result of intense leaching due to heavy rain?",
-      "options": ["Black soil", "Laterite soil", "Alluvial soil", "Arid soil"],
-      "correctIndex": 1,
-      "explanation": "Laterite soil develops in areas with high temperature and heavy rainfall, leading to leaching of nutrients.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_g1_q22",
-      "text": "After adopting appropriate soil conservation techniques, which soil is very useful for growing tea and coffee?",
-      "options": ["Laterite soil", "Black soil", "Arid soil", "Alluvial soil"],
-      "correctIndex": 0,
-      "explanation": "Red laterite soils in Tamil Nadu, Andhra Pradesh, and Kerala are suitable for crops like cashew nut, tea, and coffee.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_g1_q23",
-      "text": "Arid soils are generally ______ in texture and ______ in nature.",
-      "options": ["Clayey, Acidic", "Sandy, Saline", "Loamy, Neutral", "Silty, Alkaline"],
-      "correctIndex": 1,
-      "explanation": "Arid soils range from red to brown in color, are sandy in texture and saline in nature.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_g1_q24",
-      "text": "The denudation of the soil cover and subsequent washing down is described as:",
-      "options": ["Soil development", "Soil planning", "Soil erosion", "Soil conservation"],
-      "correctIndex": 2,
-      "explanation": "Soil erosion is the removal of the top layer of soil by various agents like water and wind.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_g1_q25",
-      "text": "When the running water cuts through the clayey soils and makes deep channels, it results in:",
-      "options": ["Sheet erosion", "Gully erosion", "Wind erosion", "Glacial erosion"],
-      "correctIndex": 1,
-      "explanation": "Gully erosion makes the land unfit for cultivation, often called 'bad land'.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_g1_q26",
-      "text": "The Chambal basin is famous for which type of landform created by erosion?",
-      "options": ["Terraces", "Ravines", "Shelter belts", "Deltas"],
-      "correctIndex": 1,
-      "explanation": "Gully erosion in the Chambal basin has created extensive ravines.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_g1_q27",
-      "text": "When water flows as a sheet over large areas down a slope, washing away the top soil, it is called:",
-      "options": ["Gully erosion", "Sheet erosion", "Wind erosion", "Strip cropping"],
-      "correctIndex": 1,
-      "explanation": "Sheet erosion involves the uniform removal of soil in thin layers.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_g1_q28",
-      "text": "Which of the following is a method of soil conservation in hilly areas?",
-      "options": ["Ploughing up and down", "Terrace cultivation", "Overgrazing", "Deforestation"],
-      "correctIndex": 1,
-      "explanation": "Terrace cultivation restricts soil erosion by creating steps on slopes.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_g1_q29",
-      "text": "Ploughing along the contour lines to decelerate the flow of water down the slopes is called:",
-      "options": ["Strip cropping", "Contour ploughing", "Terrace farming", "Shelter belts"],
-      "correctIndex": 1,
-      "explanation": "Contour ploughing is an effective way to reduce water runoff and soil loss on hilly terrain.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_g1_q30",
-      "text": "Planting lines of trees to create shelter and break the force of the wind is known as:",
-      "options": ["Strip cropping", "Shelter belts", "Contour ploughing", "Afforestation"],
-      "correctIndex": 1,
-      "explanation": "Shelter belts help in the stabilization of sand dunes and in stabilizing the desert in western India.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_g1_q31",
-      "text": "Large fields can be divided into strips. Strips of grass are left to grow between the crops. This is called:",
-      "options": ["Terrace farming", "Contour ploughing", "Strip cropping", "Shelter belts"],
-      "correctIndex": 2,
-      "explanation": "Strip cropping breaks the force of the wind, reducing its erosive capacity.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_g1_q32",
-      "text": "What is the desired percentage of forest area in India as per the National Forest Policy (1952)?",
-      "options": ["22%", "33%", "40%", "25%"],
-      "correctIndex": 1,
-      "explanation": "33% forest cover is considered essential for ecological balance.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_g1_q33",
       "text": "Resources which are surveyed and their quality and quantity have been determined for utilization are:",
       "options": ["Potential resources", "Developed resources", "Stock", "Reserves"],
       "correctIndex": 1,
-      "explanation": "The development of these resources depends on technology and level of their feasibility.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_g1_q34",
-      "text": "The subset of the 'stock' which can be put into use with the help of existing technical 'know-how' but their use has not been started is:",
-      "options": ["Potential resources", "Reserves", "Developed resources", "Individual resources"],
-      "correctIndex": 1,
-      "explanation": "Reserves can be used for meeting future requirements, like water in dams for generating electricity later.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_g1_q35",
-      "text": "Which of the following is a biotic resource?",
-      "options": ["Rocks", "Metals", "Flora and Fauna", "Buildings"],
-      "correctIndex": 2,
-      "explanation": "Flora, fauna, fisheries, and livestock are examples of biotic resources derived from living organisms.",
-      "frequencyRating": 3
-    },
-    {
-      "id": "g10_g1_q36",
-      "text": "Burial grounds and village ponds are examples of:",
-      "options": ["Individual resources", "Community owned resources", "National resources", "International resources"],
-      "correctIndex": 1,
-      "explanation": "These resources are accessible to all members of the community.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_g1_q37",
-      "text": "Technically, all the resources belonging to a nation are called:",
-      "options": ["Private resources", "National resources", "Public resources", "Reserves"],
-      "correctIndex": 1,
-      "explanation": "A nation has legal powers to acquire even private property for public good, making all resources within its boundary national resources.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_g1_q38",
-      "text": "Oceanic resources beyond 200 nautical miles of the Exclusive Economic Zone are:",
-      "options": ["National resources", "International resources", "Potential resources", "Stock"],
-      "correctIndex": 1,
-      "explanation": "No individual country can utilize these without the concurrence of international institutions.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_g1_q39",
-      "text": "Which factor is responsible for making black soil fertile?",
-      "options": ["High iron content", "Rich in calcium carbonate, magnesium, potash and lime", "Presence of kankar", "Heavy rainfall"],
-      "correctIndex": 1,
-      "explanation": "These nutrients contribute to the high fertility of black soil, though it is generally poor in phosphoric content.",
-      "frequencyRating": 3
-    },
-    {
-      "id": "g10_g1_q40",
-      "text": "In Rajasthan and parts of Gujarat, the main reason for land degradation is:",
-      "options": ["Water logging", "Overgrazing", "Mining", "Industrial effluents"],
-      "correctIndex": 1,
-      "explanation": "Large scale grazing of livestock on marginal lands leads to depletion of vegetation and soil erosion.",
+      "explanation": "Developed resources are those whose availability and quality have been assessed for immediate use using available technology.",
       "frequencyRating": 4
     }
   ]

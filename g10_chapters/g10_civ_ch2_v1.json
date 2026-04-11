@@ -1,0 +1,50 @@
+{
+  "id": "g10_civ_ch2",
+  "grade": "10",
+  "subject": "Civics",
+  "number": "2",
+  "title": "Federalism",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_c2_q1",
+      "text": "Subjects like Defense, Foreign Affairs, and Banking are part of the:",
+      "options": ["State List", "Union List", "Concurrent List", "Residuary List"],
+      "correctIndex": 1,
+      "explanation": "The Union List includes subjects of national importance which require a uniform policy across the country.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q2",
+      "text": "Which level of government has the power to legislate on 'Residuary' subjects?",
+      "options": ["Union Government", "State Government", "Local Government", "Both Union and State"],
+      "correctIndex": 0,
+      "explanation": "According to the Indian Constitution, the Union Government has the power to legislate on subjects not mentioned in any of the three lists.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q3",
+      "text": "What was the main purpose of the constitutional amendment in 1992?",
+      "options": ["To strengthen the central government", "To make the three-tier democracy more powerful and effective", "To abolish the state list", "To change the official language"],
+      "correctIndex": 1,
+      "explanation": "The 1992 amendment decentralized power to local government bodies (Panchayats and Municipalities).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q4",
+      "text": "A system of government in which power is divided between a central authority and various constituent units is called:",
+      "options": ["Dictatorship", "Unitary system", "Federalism", "Monarchy"],
+      "correctIndex": 2,
+      "explanation": "Federalism involves at least two levels of government, each with its own jurisdiction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q5",
+      "text": "Which of the following is an example of 'Coming Together' federation?",
+      "options": ["India", "USA", "Spain", "Belgium"],
+      "correctIndex": 1,
+      "explanation": "In 'Coming Together' federations like the USA, Switzerland, and Australia, independent states come together on their own to form a bigger unit.",
+      "frequencyRating": 4
+    }
+  ]
+}

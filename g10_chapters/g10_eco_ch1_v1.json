@@ -1,0 +1,50 @@
+{
+  "id": "g10_eco_ch1",
+  "grade": "10",
+  "subject": "Economics",
+  "number": "1",
+  "title": "Development",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_e1_q1",
+      "text": "What is the main criterion used by the World Bank in classifying different countries?",
+      "options": ["Literacy rate", "Health status", "Per capita income", "Population growth"],
+      "correctIndex": 2,
+      "explanation": "The World Bank uses Per Capita Income (Average Income) to classify countries into high, middle, or low-income categories.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e1_q2",
+      "text": "The Human Development Index (HDI) is published by:",
+      "options": ["World Bank", "UNDP", "IMF", "WHO"],
+      "correctIndex": 1,
+      "explanation": "The United Nations Development Programme (UNDP) publishes the HDI, which compares countries based on health, education, and per capita income.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e1_q3",
+      "text": "What does BMI stand for?",
+      "options": ["Body Mass Index", "Body Measurement Index", "Basic Mass Indicator", "Basic Metabolic Index"],
+      "correctIndex": 0,
+      "explanation": "BMI (Body Mass Index) is a tool used to calculate whether an adult is undernourished or overweight based on weight and height.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e1_q4",
+      "text": "Sustainable development refers to development that:",
+      "options": ["Focuses only on economic growth", "Uses up all natural resources", "Meets the needs of the present without compromising the future", "Is only for developed nations"],
+      "correctIndex": 2,
+      "explanation": "Sustainable development ensures that resources are used carefully so that future generations also have access to them.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e1_q5",
+      "text": "Which state in India has a high Human Development Index despite having lower per capita income than others like Haryana?",
+      "options": ["Kerala", "Punjab", "Bihar", "Gujarat"],
+      "correctIndex": 0,
+      "explanation": "Kerala has a higher HDI due to its excellent performance in health and educational indicators like low Infant Mortality Rate and high Literacy Rate.",
+      "frequencyRating": 5
+    }
+  ]
+}

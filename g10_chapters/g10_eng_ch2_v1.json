@@ -1,0 +1,330 @@
+{
+  "id": "g10_eng_ch2",
+  "grade": "10",
+  "subject": "English",
+  "number": "2",
+  "title": "Nelson Mandela: Long Walk to Freedom",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_en2_q1",
+      "text": "When was the inauguration day of Nelson Mandela's presidency?",
+      "options": ["10 May", "10 March", "20 May", "20 March"],
+      "correctIndex": 0,
+      "explanation": "10 May dawned bright and clear as the day of the inauguration in Pretoria.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en2_q2",
+      "text": "The inauguration ceremony took place in which city?",
+      "options": ["Johannesburg", "Cape Town", "Pretoria", "Durban"],
+      "correctIndex": 2,
+      "explanation": "It took place in the lovely sandstone amphitheatre formed by the Union Buildings in Pretoria.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en2_q3",
+      "text": "What does Mandela call the 'rainbow gathering of different colors and nations'?",
+      "options": ["The clouds", "The international leaders and guests", "The flowers", "The South African flag"],
+      "correctIndex": 1,
+      "explanation": "Leaders from more than 140 countries came to witness the installation of South Africa's first democratic government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en2_q4",
+      "text": "Mandela was accompanied on the podium by his daughter named:",
+      "options": ["Zenani", "Zindzi", "Winnie", "Zoleka"],
+      "correctIndex": 0,
+      "explanation": "Zenani accompanied him on that historic autumn day.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en2_q5",
+      "text": "Who was sworn in as the first deputy president?",
+      "options": ["Mr de Klerk", "Thabo Mbeki", "Nelson Mandela", "Oliver Tambo"],
+      "correctIndex": 1,
+      "explanation": "Thabo Mbeki was sworn in as first deputy president, while Mr de Klerk was second deputy president.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en2_q6",
+      "text": "What is the policy of 'apartheid'?",
+      "options": ["Equality for all", "Political system that separates people according to their race", "Economic development plan", "Religious freedom policy"],
+      "correctIndex": 1,
+      "explanation": "Apartheid was a brutal system of racial discrimination practiced in South Africa.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en2_q7",
+      "text": "Mandela said that the country is rich in minerals and gems, but its greatest wealth is:",
+      "options": ["Gold", "Diamonds", "Its people", "The mountains"],
+      "correctIndex": 2,
+      "explanation": "He believed people are finer and truer than the purest diamonds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en2_q8",
+      "text": "From whom did Mandela learn the meaning of courage?",
+      "options": ["His family", "His teachers", "His comrades in the struggle", "International books"],
+      "correctIndex": 2,
+      "explanation": "He saw men and women risk and give their lives for an idea during the struggle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en2_q9",
+      "text": "According to Mandela, what is courage?",
+      "options": ["Absence of fear", "Triumph over fear", "Having no emotions", "Being physically strong"],
+      "correctIndex": 1,
+      "explanation": "The brave man is not he who does not feel afraid, but he who conquers that fear.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en2_q10",
+      "text": "Mandela says that no one is born ______ another person because of the color of his skin.",
+      "options": ["Loving", "Hating", "Fearing", "Ignoring"],
+      "correctIndex": 1,
+      "explanation": "He believed people must learn to hate, and if they can learn to hate, they can be taught to love.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en2_q11",
+      "text": "Mandela mentions that every man has 'twin obligations'. These are towards his family and towards:",
+      "options": ["His business", "His people, his community, and his country", "The world", "Himself only"],
+      "correctIndex": 1,
+      "explanation": "A person has duties to both their private life and their public role in society.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en2_q12",
+      "text": "What was 'extraordinary human disaster' that Mandela mentions in his speech?",
+      "options": ["The World War", "The policy of Apartheid", "A huge earthquake", "COVID-19 pandemic"],
+      "correctIndex": 1,
+      "explanation": "Apartheid lasted too long and caused deep and lasting wounds to the people.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en2_q13",
+      "text": "What did the South African jets, helicopters and troop carriers demonstrate over the Union Buildings?",
+      "options": ["A show of power", "Military might and loyalty to democracy", "Preparation for war", "Wastage of fuel"],
+      "correctIndex": 1,
+      "explanation": "It was a display of pinpoint precision and military loyalty to the new government.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en2_q14",
+      "text": "Why were two national anthems sung?",
+      "options": ["To prolong the ceremony", "To show the unity of blacks and whites", "Because one was forgotten", "To confuse the audience"],
+      "correctIndex": 1,
+      "explanation": "Singing both 'Nkosi Sikelel’ iAfrika' and 'Die Stem' symbolized the end of racial segregation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en2_q15",
+      "text": "What realization did Mandela have of his boyhood freedom?",
+      "options": ["He was always free", "It was an illusion", "He never wanted freedom", "He was a slave"],
+      "correctIndex": 1,
+      "explanation": "As a student, he realized that his freedom was restricted and his 'boyhood freedom' was just a dream.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en2_q16",
+      "text": "What began Mandela's hunger for freedom?",
+      "options": ["Becoming a lawyer", "Getting married", "The fact that it had already been taken from him", "Winning an election"],
+      "correctIndex": 2,
+      "explanation": "His desire for the dignity of his people transformed him into a bold revolutionary.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en2_q17",
+      "text": "A man who takes away another man's freedom is a:",
+      "options": ["Hero", "Prisoner of hatred", "Victim", "Saint"],
+      "correctIndex": 1,
+      "explanation": "Mandela believed the oppressor is as much a prisoner as the oppressed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en2_q18",
+      "text": "The 'spectacular array of South African jets' left a smoke trail of the new flag's colors. These colors were:",
+      "options": ["Red, Green, Blue", "Black, Red, Green, Gold and Blue", "Saffron, White, Green", "Blue, White, Red"],
+      "correctIndex": 1,
+      "explanation": "The colors of the new South African flag were displayed in the flypast.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en2_q19",
+      "text": "Mandela joined which organization to fight for freedom?",
+      "options": ["South African Party", "African National Congress (ANC)", "Unity Party", "South African Congress"],
+      "correctIndex": 1,
+      "explanation": "He joined the ANC when he realized not only his freedom, but the freedom of everyone like him was curtailed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en2_q20",
+      "text": "What did Mandela feel was 'born of an extraordinary human disaster'?",
+      "options": ["A new society of which all humanity will be proud", "A new war", "A new type of hatred", "A new economic crisis"],
+      "correctIndex": 0,
+      "explanation": "He hoped the new South Africa would be a beacon of hope for the world.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en2_q21",
+      "text": "The structure created by Apartheid was one of the 'harshest, most in-human societies the world has ever known'. This structure was based on:",
+      "options": ["Religious belief", "Economic class", "Racial domination", "Military rank"],
+      "correctIndex": 2,
+      "explanation": "It was a system of white supremacy over the black-skinned people of their own land.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en2_q22",
+      "text": "Who are the 'unimaginable sacrifices of thousands of my people' that Mandela refers to?",
+      "options": ["The international guests", "The white rulers", "The freedom fighters who died before the inauguration", "The current government"],
+      "correctIndex": 2,
+      "explanation": "He felt he was the 'sum of all those African patriots' who had gone before him.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en2_q23",
+      "text": "According to Mandela, love comes more ______ to the human heart than its opposite.",
+      "options": ["Slowly", "Naturally", "Forcefully", "Rarely"],
+      "correctIndex": 1,
+      "explanation": "He believed that love is a more innate human emotion than hate.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en2_q24",
+      "text": "A man who is deprived of his twin obligations is forced to live a life of:",
+      "options": ["Luxury", "Secrecy and rebellion", "Fame", "Religious service"],
+      "correctIndex": 1,
+      "explanation": "In South Africa, a black man attempting to fulfill his duty to his people was ripped from his family.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_en2_q25",
+      "text": "What were the 'transitory freedoms' Mandela wanted as a young man?",
+      "options": ["Voting rights", "Freedom to stay out at night and read what he pleased", "Freedom to own a house", "Freedom to leave the country"],
+      "correctIndex": 1,
+      "explanation": "These were temporary, personal freedoms he desired before understanding the larger struggle.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en2_q26",
+      "text": "What changed a 'frightened young man' into a 'bold one'?",
+      "options": ["The desire for his own wealth", "The hunger for the freedom of his people", "Becoming a lawyer", "Support from the UN"],
+      "correctIndex": 1,
+      "explanation": "The desire for the dignity of his race transformed his entire character.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en2_q27",
+      "text": "Mandela says 'the oppressed and the oppressor alike are robbed of their ______'.",
+      "options": ["Money", "Humanity", "Pride", "Time"],
+      "correctIndex": 1,
+      "explanation": "He believed both are prisoners—one of bars, the other of prejudice and narrow-mindedness.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en2_q28",
+      "text": "The decade in which the Apartheid system was overturned was the:",
+      "options": ["1950s", "1980s", "Last decade of 20th century (1990s)", "First decade of 21st century"],
+      "correctIndex": 2,
+      "explanation": "South Africa became a democracy in 1994.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en2_q29",
+      "text": "Mandela describes the day of inauguration as 'autumn day'. Why?",
+      "options": ["It was in the month of October", "It was in May (Southern Hemisphere autumn)", "He liked the season", "It was a metaphor for old age"],
+      "correctIndex": 1,
+      "explanation": "In the Southern Hemisphere, May falls during the autumn season.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_en2_q30",
+      "text": "How many years did Mandela spend in prison?",
+      "options": ["10", "20", "30", "40"],
+      "correctIndex": 2,
+      "explanation": "Nelson Mandela spent nearly three decades in prison for his fight against white minority rule.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en2_q31",
+      "text": "Oliver Tambo, Walter Sisulu, and Chief Luthuli were Mandela's:",
+      "options": ["Enemies", "Patriots and comrades in the struggle", "Family members", "Foreign advisors"],
+      "correctIndex": 1,
+      "explanation": "These were men of extraordinary courage and wisdom who led the struggle with him.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en2_q32",
+      "text": "South Africa was 'outlaws' not so long ago because:",
+      "options": ["It had no laws", "Of its policy of Apartheid", "It was a colony", "It was in a state of war"],
+      "correctIndex": 1,
+      "explanation": "International nations had broken off diplomatic relations due to the country's racist policies.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en2_q33",
+      "text": "What does Mandela pledge to liberate his people from?",
+      "options": ["Poverty and Deprivation", "Suffering and Gender discrimination", "Both A and B", "None of these"],
+      "correctIndex": 2,
+      "explanation": "His speech focused on ending all forms of bondage and discrimination.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en2_q34",
+      "text": "What transformed a 'family-loving husband' into a 'man without a home'?",
+      "options": ["A divorce", "The struggle for freedom", "A fire in his house", "An international job"],
+      "correctIndex": 1,
+      "explanation": "Commitment to his people forced him to live the life of a fugitive and prisoner.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en2_q35",
+      "text": "Mandela says 'freedom is indivisible'. What does he mean?",
+      "options": ["Freedom is for everyone or for no one", "Freedom cannot be shared", "Freedom is only for the rich", "The chains on one were the chains on all"],
+      "correctIndex": 3,
+      "explanation": "He believed that as long as any of his people were not free, he was not free.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en2_q36",
+      "text": "Who is the 'prisoner of hatred'?",
+      "options": ["The prisoner", "The oppressed", "The oppressor", "The lawyer"],
+      "correctIndex": 2,
+      "explanation": "Mandela argued that the one who hates is locked behind the bars of prejudice.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en2_q37",
+      "text": "The Union Buildings amphitheatre was the seat of ______ for decades.",
+      "options": ["Democratic rule", "White supremacy", "Black power", "International law"],
+      "correctIndex": 1,
+      "explanation": "It was previously the center of the racist Apartheid government.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_en2_q38",
+      "text": "Mandela was South Africa's first ______ president.",
+      "options": ["White", "Democratic and Black", "Military", "Interim"],
+      "correctIndex": 1,
+      "explanation": "He was elected after the first multi-racial elections in the country's history.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en2_q39",
+      "text": "What is the name of Mandela's autobiography?",
+      "options": ["My Experiments with Truth", "Long Walk to Freedom", "Wings of Fire", "Freedom in Exile"],
+      "correctIndex": 1,
+      "explanation": "The chapter is an extract from his famous autobiography of the same name.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en2_q40",
+      "text": "The 'depths of oppression' create 'heights of ______'.",
+      "options": ["Poverty", "Character", "Fear", "Hatred"],
+      "correctIndex": 1,
+      "explanation": "Mandela observed that extreme suffering often produced men of extraordinary quality and spirit.",
+      "frequencyRating": 5
+    }
+  ]
+}

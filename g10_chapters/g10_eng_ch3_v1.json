@@ -1,0 +1,330 @@
+{
+  "id": "g10_eng_ch3",
+  "grade": "10",
+  "subject": "English",
+  "number": "3",
+  "title": "Two Stories about Flying",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_en3_q1",
+      "text": "In the story 'His First Flight', why was the young seagull afraid to fly?",
+      "options": ["He didn't like the sea", "He thought his wings would never support him", "He was too lazy", "His parents didn't want him to"],
+      "correctIndex": 1,
+      "explanation": "The young seagull lacked confidence in his own physical abilities despite having wings.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en3_q2",
+      "text": "How many siblings did the young seagull have?",
+      "options": ["One brother and one sister", "Two brothers and a sister", "Three brothers", "Two sisters"],
+      "correctIndex": 1,
+      "explanation": "He had two brothers and one sister who had already learned to fly.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en3_q3",
+      "text": "For how long had the young seagull been alone on the ledge?",
+      "options": ["An hour", "Twelve hours", "Twenty-four hours", "Two days"],
+      "correctIndex": 2,
+      "explanation": "His family had flown away a day before, leaving him without food.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en3_q4",
+      "text": "What was the young seagull's mother doing when he looked at her from the ledge?",
+      "options": ["Sleeping", "Tearing at a piece of fish", "Flying over the sea", "Talking to his father"],
+      "correctIndex": 1,
+      "explanation": "She was standing on a plateau, sharpening her beak on a rock after tearing some fish.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en3_q5",
+      "text": "What did the young seagull pretend to do to get his family's attention?",
+      "options": ["Falling asleep while standing on one leg", "Crying loudly", "Singing", "Dancing"],
+      "correctIndex": 0,
+      "explanation": "He stood on the edge of the ledge on one leg with the other hidden to evoke sympathy.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en3_q6",
+      "text": "The sight of ______ maddened the young seagull.",
+      "options": ["His siblings flying", "The vast sea", "Food", "The sun"],
+      "correctIndex": 2,
+      "explanation": "He was extremely hungry, and seeing his mother with fish made his hunger unbearable.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en3_q7",
+      "text": "What compelled the young seagull to finally dive from the ledge?",
+      "options": ["Encouragement from his father", "His brothers' taunts", "Hunger", "A strong wind"],
+      "correctIndex": 2,
+      "explanation": "He dove at the fish in his mother's beak out of sheer desperation and hunger.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en3_q8",
+      "text": "What was the young seagull's first sensation as he fell into space?",
+      "options": ["Great joy", "Monstrous terror", "Anger", "Sleepiness"],
+      "correctIndex": 1,
+      "explanation": "Initially, he was gripped by fear and his heart stood still as he fell.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en3_q9",
+      "text": "Where did the young seagull land after his first flight?",
+      "options": ["On the ledge", "On the green sea", "On a ship", "On a plateau"],
+      "correctIndex": 1,
+      "explanation": "He landed on the surface of the water, which he initially thought was solid green floor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en3_q10",
+      "text": "What did the young seagull's family offer him as a reward after his flight?",
+      "options": ["A warm nest", "Scraps of dog-fish", "A piece of bread", "Nothing"],
+      "correctIndex": 1,
+      "explanation": "They celebrated his success by feeding him pieces of dog-fish.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en3_q11",
+      "text": "The story 'His First Flight' is a metaphor for:",
+      "options": ["Physical strength", "Overcoming fear and gaining self-confidence", "The cruelty of nature", "Parental neglect"],
+      "correctIndex": 1,
+      "explanation": "It emphasizes that one must take a leap of faith to discover their inner potential.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en3_q12",
+      "text": "In 'The Black Aeroplane', what was the pilot's destination?",
+      "options": ["Paris", "England", "Berlin", "New York"],
+      "correctIndex": 1,
+      "explanation": "The pilot was flying from France back to his home in England.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en3_q13",
+      "text": "What plane was the pilot flying?",
+      "options": ["Airbus", "Dakota DS 088", "Boeing 747", "Spitfire"],
+      "correctIndex": 1,
+      "explanation": "The pilot was flying an old Dakota airplane.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en3_q14",
+      "text": "Why was the pilot happy at the start of the journey?",
+      "options": ["The weather was clear", "He was looking forward to a holiday and breakfast with family", "The plane was new", "Both A and B"],
+      "correctIndex": 3,
+      "explanation": "The moon was up, the stars were shining, and he was dreaming of his holiday.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en3_q15",
+      "text": "When did the pilot see the storm clouds?",
+      "options": ["Immediately after takeoff", "When he was 150 km past Paris", "Near the English coast", "Over the sea"],
+      "correctIndex": 1,
+      "explanation": "Suddenly, huge black mountains of clouds appeared in front of him.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en3_q16",
+      "text": "Why didn't the pilot fly around the storm clouds?",
+      "options": ["He didn't have enough fuel", "He was in a hurry", "He wanted to test his skills", "The radio was broken"],
+      "correctIndex": 0,
+      "explanation": "He couldn't fly up and over them or around them to the north or south because of low fuel.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en3_q17",
+      "text": "What happened to the instruments inside the storm?",
+      "options": ["They worked perfectly", "The compass was turning round and round and the radio was dead", "They showed wrong directions", "They started a fire"],
+      "correctIndex": 1,
+      "explanation": "The storm caused a total failure of the navigation and communication systems.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en3_q18",
+      "text": "What did the pilot see in the black clouds that gave him hope?",
+      "options": ["The moon", "Another aeroplane", "A lighthouse", "A bird"],
+      "correctIndex": 1,
+      "explanation": "A mysterious black plane appeared without lights on its wings.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en3_q19",
+      "text": "How did the mysterious pilot help the narrator?",
+      "options": ["By giving him fuel", "By waving and leading him through the clouds", "By speaking on the radio", "By landing on his plane"],
+      "correctIndex": 1,
+      "explanation": "The other pilot turned his plane slowly to the north so that the narrator could follow him easily.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en3_q20",
+      "text": "After landing, what did the woman in the control center tell the pilot?",
+      "options": ["The other pilot was waiting for him", "There was no other plane in the sky except his", "He was in the wrong city", "He should take a rest"],
+      "correctIndex": 1,
+      "explanation": "She looked at him strangely and said no other planes were flying in the storm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en3_q21",
+      "text": "The theme of 'The Black Aeroplane' is:",
+      "options": ["A technical manual on flying", "The mystery of the unknown and supernatural help", "A story of a plane crash", "History of world wars"],
+      "correctIndex": 1,
+      "explanation": "It explores an unexplained experience where the pilot is saved by a 'ghost' plane.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en3_q22",
+      "text": "The young seagull's father and mother were ______ him to take his first flight.",
+      "options": ["Scolding and threatening", "Helping", "Ignoring", "Praising"],
+      "correctIndex": 0,
+      "explanation": "They tried to force him to fly by threatening to let him starve on the ledge.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en3_q23",
+      "text": "Who is the author of 'His First Flight'?",
+      "options": ["Liam O’Flaherty", "Frederick Forsyth", "Robert Frost", "Roald Dahl"],
+      "correctIndex": 0,
+      "explanation": "The Irish novelist and short story writer Liam O'Flaherty wrote this story.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en3_q24",
+      "text": "Who is the author of 'The Black Aeroplane'?",
+      "options": ["Liam O’Flaherty", "Frederick Forsyth", "G.L. Fuentes", "Nelson Mandela"],
+      "correctIndex": 1,
+      "explanation": "Frederick Forsyth is a famous English novelist known for thrillers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en3_q25",
+      "text": "In 'His First Flight', what does 'upbraiding' mean?",
+      "options": ["Praising", "Scolding", "Following", "Swimming"],
+      "correctIndex": 1,
+      "explanation": "His parents were calling to him shrilly, upbraiding (scolding) him for his cowardice.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_en3_q26",
+      "text": "What was the young seagull's sister doing while he was on the ledge?",
+      "options": ["Hunting fish", "Sleeping", "Flying with her brothers", "Crying for him"],
+      "correctIndex": 2,
+      "explanation": "All his siblings had already mastered the art of flying and catching prey.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_en3_q27",
+      "text": "Why did the narrator think 'Everything was going well' at the start of 'The Black Aeroplane'?",
+      "options": ["It was an easy flight", "The weather was clear and moon was up", "He was on time", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Initial conditions were perfect, making the sudden storm even more shocking.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en3_q28",
+      "text": "What was the risk the pilot took in 'The Black Aeroplane'?",
+      "options": ["Flying without fuel", "Flying into the storm", "Flying a broken plane", "Flying at night"],
+      "correctIndex": 1,
+      "explanation": "He decided to go straight into the storm because he wanted to get home for breakfast.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en3_q29",
+      "text": "The narrator says, 'I was happy to be alone high up above the sleeping countryside.' Which countryside is he referring to?",
+      "options": ["English", "French", "German", "American"],
+      "correctIndex": 1,
+      "explanation": "He was flying over France towards England.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en3_q30",
+      "text": "The word 'precipice' in 'His First Flight' refers to:",
+      "options": ["The sea", "A very steep rock face or cliff", "A nest", "A piece of fish"],
+      "correctIndex": 1,
+      "explanation": "The young seagull was standing on the edge of a high cliff (precipice).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "En3_q31",
+      "text": "How did the young seagull feel when his belly touched the green sea?",
+      "options": ["He sank deeper", "He floated on it", "He was afraid of drowning", "He started swimming immediately"],
+      "correctIndex": 1,
+      "explanation": "After the initial panic, he found that he could float on the water without effort.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en3_q32",
+      "text": "In 'The Black Aeroplane', what did the pilot do first after landing?",
+      "options": ["Had breakfast", "Went to the control tower to ask about the other pilot", "Called his family", "Slept"],
+      "correctIndex": 1,
+      "explanation": "He was desperate to thank the person who saved his life.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en3_q33",
+      "text": "What does the 'black aeroplane' symbolize?",
+      "options": ["Death", "Inner strength or a miracle", "Technological failure", "A war machine"],
+      "correctIndex": 1,
+      "explanation": "It represents an external manifestation of the pilot's own will to survive or a divine intervention.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en3_q34",
+      "text": "The seagull's 'first flight' was a success because of his ______.",
+      "options": ["Mother's trickery", "Physical strength", "Luck", "Siblings' help"],
+      "correctIndex": 0,
+      "explanation": "His mother tempted him with food, forcing him to fly to reach it.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en3_q35",
+      "text": "What was the name of the first city the pilot passed in 'The Black Aeroplane'?",
+      "options": ["London", "Paris", "Pretoria", "Dover"],
+      "correctIndex": 1,
+      "explanation": "He called Paris Control when he was on his way.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en3_q36",
+      "text": "The Young Seagull was 'maddened by hunger'. This shows that:",
+      "options": ["He was greedy", "Necessity is the mother of invention/action", "He was sick", "He hated his family"],
+      "correctIndex": 1,
+      "explanation": "Hunger pushed him to overcome a fear that logic and threats could not.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en3_q37",
+      "text": "Why did the pilot's compass stop working?",
+      "options": ["It was old", "Because of the magnetic interference in the storm", "He broke it", "No reason"],
+      "correctIndex": 1,
+      "explanation": "The storm was so intense that it disabled his electrical and mechanical equipment.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en3_q38",
+      "text": "How did the young seagull feel when he started flying?",
+      "options": ["He was still terrified", "He felt a bit dizzy, then confident", "He wanted to go back", "He felt sick"],
+      "correctIndex": 1,
+      "explanation": "After the first minute, his wings spread and he realized he was flying.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en3_q39",
+      "text": "The pilot was 'frightened' again in the storm when he realized:",
+      "options": ["The other plane was gone", "He only had fuel for 5 or 10 minutes more", "The engine caught fire", "He was over the sea"],
+      "correctIndex": 1,
+      "explanation": "Low fuel meant he had a very limited window to land safely.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en3_q40",
+      "text": "Which of these words best describes the young seagull's family?",
+      "options": ["Cruel", "Indifferent", "Strict but encouraging in their own way", "Weak"],
+      "correctIndex": 2,
+      "explanation": "They used 'tough love' to ensure their child learned a vital life skill.",
+      "frequencyRating": 4
+    }
+  ]
+}

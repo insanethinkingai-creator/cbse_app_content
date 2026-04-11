@@ -8,323 +8,43 @@
   "questions": [
     {
       "id": "g10_m2_q1",
-      "text": "What is the degree of a linear polynomial?",
-      "options": ["0", "1", "2", "3"],
-      "correctIndex": 1,
-      "explanation": "A linear polynomial is of the form ax + b, where the highest power of the variable x is 1.",
+      "text": "If α and β are the zeroes of the quadratic polynomial f(x) = ax² + bx + c, then α + β is equal to:",
+      "options": ["c/a", "b/a", "-b/a", "-c/a"],
+      "correctIndex": 2,
+      "explanation": "For a quadratic polynomial, the sum of the zeroes is given by the formula -b/a (coefficient of x divided by coefficient of x²).",
       "frequencyRating": 5
     },
     {
       "id": "g10_m2_q2",
-      "text": "A quadratic polynomial has a degree of:",
-      "options": ["1", "2", "3", "0"],
-      "correctIndex": 1,
-      "explanation": "A polynomial of degree 2 is called a quadratic polynomial.",
+      "text": "A quadratic polynomial whose zeroes are -3 and 4 is:",
+      "options": ["x² - x + 12", "x² + x + 12", "x² - x - 12", "2x² + 2x - 24"],
+      "correctIndex": 2,
+      "explanation": "Polynomial = x² - (sum of zeroes)x + (product). Sum = -3+4=1; Product = -3*4=-12. Thus, x² - x - 12.",
       "frequencyRating": 5
     },
     {
       "id": "g10_m2_q3",
-      "text": "The maximum number of zeros a cubic polynomial can have is:",
+      "text": "The number of zeroes a cubic polynomial can have is at most:",
       "options": ["1", "2", "3", "4"],
       "correctIndex": 2,
-      "explanation": "A polynomial of degree n can have at most n zeros. A cubic polynomial has degree 3.",
-      "frequencyRating": 5
+      "explanation": "The maximum number of zeroes a polynomial can have is equal to its degree. A cubic polynomial has degree 3.",
+      "frequencyRating": 4
     },
     {
       "id": "g10_m2_q4",
-      "text": "The graph of a quadratic polynomial y = ax² + bx + c is a:",
-      "options": ["Straight line", "Circle", "Parabola", "Hyperbola"],
-      "correctIndex": 2,
-      "explanation": "The geometrical representation of a quadratic equation is a U-shaped curve called a parabola.",
+      "text": "If one zero of the quadratic polynomial x² + 3x + k is 2, then the value of k is:",
+      "options": ["10", "-10", "5", "-5"],
+      "correctIndex": 1,
+      "explanation": "Substitute x = 2: (2)² + 3(2) + k = 0 => 4 + 6 + k = 0 => k = -10.",
       "frequencyRating": 5
     },
     {
       "id": "g10_m2_q5",
-      "text": "If the graph of y = p(x) intersects the x-axis at exactly three points, then the number of zeros of p(x) is:",
-      "options": ["0", "1", "2", "3"],
-      "correctIndex": 3,
-      "explanation": "The number of zeros is equal to the number of points where the graph intersects the x-axis.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_m2_q6",
-      "text": "If α and β are the zeros of the quadratic polynomial ax² + bx + c, then α + β equals:",
-      "options": ["b/a", "-b/a", "c/a", "-c/a"],
+      "text": "The zeroes of the quadratic polynomial x² + 99x + 127 are:",
+      "options": ["Both positive", "Both negative", "One positive and one negative", "Both equal"],
       "correctIndex": 1,
-      "explanation": "The sum of zeros of a quadratic polynomial is given by the formula -coefficient of x / coefficient of x².",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_m2_q7",
-      "text": "If α and β are the zeros of the quadratic polynomial ax² + bx + c, then αβ equals:",
-      "options": ["b/a", "-b/a", "c/a", "-c/a"],
-      "correctIndex": 2,
-      "explanation": "The product of zeros of a quadratic polynomial is given by the constant term / coefficient of x².",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_m2_q8",
-      "text": "Find the zeros of the polynomial x² - 3.",
-      "options": ["3, -3", "√3, -√3", "√3, √3", "3, 0"],
-      "correctIndex": 1,
-      "explanation": "x² - 3 = 0 => x² = 3 => x = ±√3.",
+      "explanation": "Since all coefficients are positive, the sum ( -b/a) is negative and product (c/a) is positive. This only happens if both zeroes are negative.",
       "frequencyRating": 4
-    },
-    {
-      "id": "g10_m2_q9",
-      "text": "The zeros of the quadratic polynomial x² + 7x + 10 are:",
-      "options": ["2, 5", "-2, -5", "-2, 5", "2, -5"],
-      "correctIndex": 1,
-      "explanation": "x² + 5x + 2x + 10 = x(x+5) + 2(x+5) = (x+2)(x+5). Zeros are -2 and -5.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_m2_q10",
-      "text": "A quadratic polynomial whose sum and product of zeros are -3 and 2 respectively is:",
-      "options": ["x² - 3x + 2", "x² + 3x + 2", "x² + 3x - 2", "x² - 3x - 2"],
-      "correctIndex": 1,
-      "explanation": "Formula: x² - (sum)x + product. x² - (-3)x + 2 = x² + 3x + 2.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_m2_q11",
-      "text": "If one zero of the polynomial x² - 4x + 1 is 2 + √3, then the other zero is:",
-      "options": ["-2 + √3", "2 - √3", "-2 - √3", "1"],
-      "correctIndex": 1,
-      "explanation": "For quadratic polynomials with rational coefficients, irrational zeros occur in conjugate pairs.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_m2_q12",
-      "text": "If the sum of the zeros of the polynomial kx² + 2x + 3k is equal to their product, then k is:",
-      "options": ["1/3", "-1/3", "2/3", "-2/3"],
-      "correctIndex": 3,
-      "explanation": "-2/k = 3k/k => -2/k = 3 => k = -2/3.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_m2_q13",
-      "text": "The degree of the zero polynomial is:",
-      "options": ["0", "1", "Any natural number", "Not defined"],
-      "correctIndex": 3,
-      "explanation": "The degree of the zero polynomial is not defined.",
-      "frequencyRating": 3
-    },
-    {
-      "id": "g10_m2_q14",
-      "text": "If one zero of the quadratic polynomial x² + 3x + k is 2, then the value of k is:",
-      "options": ["10", "-10", "5", "-5"],
-      "correctIndex": 1,
-      "explanation": "Substituting x=2: (2)² + 3(2) + k = 0 => 4 + 6 + k = 0 => k = -10.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_m2_q15",
-      "text": "A polynomial of degree 5 can have at most how many zeros?",
-      "options": ["4", "5", "6", "1"],
-      "correctIndex": 1,
-      "explanation": "The number of zeros of a polynomial is at most equal to its degree.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_m2_q16",
-      "text": "If α and β are zeros of p(x) = x² - x - 4, then the value of 1/α + 1/β is:",
-      "options": ["1/4", "-1/4", "4", "-4"],
-      "correctIndex": 1,
-      "explanation": "1/α + 1/β = (α+β)/αβ. Here α+β = 1 and αβ = -4. So, 1/-4 = -1/4.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_m2_q17",
-      "text": "If the zeros of the quadratic polynomial x² + (a + 1)x + b are 2 and -3, then:",
-      "options": ["a = -7, b = -1", "a = 5, b = -1", "a = 2, b = -6", "a = 0, b = -6"],
-      "correctIndex": 3,
-      "explanation": "Sum: 2-3 = -(a+1) => -1 = -a-1 => a=0. Product: 2(-3) = b => b=-6.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_m2_q18",
-      "text": "The number of polynomials having zeros as -2 and 5 is:",
-      "options": ["1", "2", "3", "More than 3"],
-      "correctIndex": 3,
-      "explanation": "Multiple polynomials can have the same zeros by multiplying the base polynomial k(x² - 3x - 10) by different constants k.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_m2_q19",
-      "text": "If α, β, γ are the zeros of ax³ + bx² + cx + d, then α + β + γ is:",
-      "options": ["b/a", "-b/a", "c/a", "-d/a"],
-      "correctIndex": 1,
-      "explanation": "Sum of zeros of a cubic polynomial is -b/a.",
-      "frequencyRating": 3
-    },
-    {
-      "id": "g10_m2_q20",
-      "text": "The value of the polynomial p(x) = 5x - 4x² + 3 at x = -1 is:",
-      "options": ["-6", "4", "2", "-2"],
-      "correctIndex": 0,
-      "explanation": "p(-1) = 5(-1) - 4(-1)² + 3 = -5 - 4 + 3 = -6.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_m2_q21",
-      "text": "Which of the following is not a polynomial?",
-      "options": ["√3x² - 2x + 3", "x + 1/x", "x³ - 5", "0"],
-      "correctIndex": 1,
-      "explanation": "x + 1/x has a negative exponent (x⁻¹), so it is not a polynomial.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_m2_q22",
-      "text": "If the graph of a polynomial does not intersect the x-axis but is above it, the number of real zeros is:",
-      "options": ["0", "1", "2", "Infinite"],
-      "correctIndex": 0,
-      "explanation": "Zeros are the x-coordinates of the points where the graph meets the x-axis.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_m2_q23",
-      "text": "If one zero of the quadratic polynomial (k-1)x² + kx + 1 is -3, then the value of k is:",
-      "options": ["4/3", "-4/3", "2/3", "-2/3"],
-      "correctIndex": 0,
-      "explanation": "(k-1)(-3)² + k(-3) + 1 = 0 => 9k - 9 - 3k + 1 = 0 => 6k = 8 => k = 4/3.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_m2_q24",
-      "text": "Zeros of p(x) = x² - 2x are:",
-      "options": ["2, 2", "0, 2", "0, -2", "None"],
-      "correctIndex": 1,
-      "explanation": "x(x-2) = 0 gives x=0 and x=2.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_m2_q25",
-      "text": "If α and β are the zeros of p(x) = 4x² + 3x + 7, then 1/α + 1/β is:",
-      "options": ["3/7", "-3/7", "7/3", "-7/3"],
-      "correctIndex": 1,
-      "explanation": "(α+β)/αβ = (-3/4) / (7/4) = -3/7.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_m2_q26",
-      "text": "The constant polynomial p(x) = 5 has how many zeros?",
-      "options": ["0", "1", "5", "Infinite"],
-      "correctIndex": 0,
-      "explanation": "A non-zero constant polynomial has no zeros because it never equals zero.",
-      "frequencyRating": 3
-    },
-    {
-      "id": "g10_m2_q27",
-      "text": "If α and β are the zeros of f(x) = x² - p(x + 1) - c, then (α + 1)(β + 1) is:",
-      "options": ["c - 1", "1 - c", "c", "1 + c"],
-      "correctIndex": 1,
-      "explanation": "f(x) = x² - px - (p + c). (α + 1)(β + 1) = αβ + (α + β) + 1 = -(p + c) + p + 1 = 1 - c.",
-      "frequencyRating": 3
-    },
-    {
-      "id": "g10_m2_q28",
-      "text": "If the sum of zeros of x² - kx + 6 is 3, then k is:",
-      "options": ["3", "-3", "6", "-6"],
-      "correctIndex": 0,
-      "explanation": "Sum of zeros = -(-k)/1 = k. Since sum is 3, k = 3.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_m2_q29",
-      "text": "If the zeros of the quadratic polynomial ax² + bx + c, c ≠ 0 are equal, then:",
-      "options": ["c and a have opposite signs", "c and b have opposite signs", "c and a have the same sign", "c and b have the same sign"],
-      "correctIndex": 2,
-      "explanation": "For equal zeros, Discriminant D = b² - 4ac = 0. Since b² is positive, 4ac must be positive, meaning a and c must have the same sign.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_m2_q30",
-      "text": "If one of the zeros of a cubic polynomial x³ + ax² + bx + c is -1, then the product of the other two zeros is:",
-      "options": ["b - a + 1", "b - a - 1", "a - b + 1", "a - b - 1"],
-      "correctIndex": 0,
-      "explanation": "Substitute x=-1: -1 + a - b + c = 0 => c = 1 - a + b. Product of zeros is -c/(-1) = c? No, for cubic, product is -d/a = -c. (-1)(αβ) = -c => αβ = c = b - a + 1.",
-      "frequencyRating": 3
-    },
-    {
-      "id": "g10_m2_q31",
-      "text": "A linear polynomial ax + b has exactly how many zeros?",
-      "options": ["0", "1", "2", "Infinite"],
-      "correctIndex": 1,
-      "explanation": "ax + b = 0 => x = -b/a. There is exactly one such value.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_m2_q32",
-      "text": "The zeros of x² - 2x - 8 are:",
-      "options": ["4, -2", "-4, 2", "4, 2", "-4, -2"],
-      "correctIndex": 0,
-      "explanation": "x² - 4x + 2x - 8 = x(x-4) + 2(x-4) = (x+2)(x-4).",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_m2_q33",
-      "text": "If α and β are zeros of x² + x + 1, then α² + β² is:",
-      "options": ["1", "-1", "2", "0"],
-      "correctIndex": 1,
-      "explanation": "α² + β² = (α+β)² - 2αβ = (-1)² - 2(1) = 1 - 2 = -1.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_m2_q34",
-      "text": "The product of the zeros of 4x² + 3x + 12 is:",
-      "options": ["3", "-3", "1/4", "12"],
-      "correctIndex": 0,
-      "explanation": "Product = c/a = 12/4 = 3.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_m2_q35",
-      "text": "If α and β are the zeros of the polynomial f(x) = x² - 5x + k such that α - β = 1, then k is:",
-      "options": ["12", "6", "4", "1"],
-      "correctIndex": 1,
-      "explanation": "(α+β)² - (α-β)² = 4αβ. (5)² - (1)² = 4k => 24 = 4k => k = 6.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_m2_q36",
-      "text": "Which of the following polynomials has -3 and 4 as its zeros?",
-      "options": ["x² - x + 12", "x² + x + 12", "x²/2 - x/2 - 6", "2x² + 2x - 24"],
-      "correctIndex": 2,
-      "explanation": "Sum = 1, Product = -12. Polynomial is k(x² - x - 12). If k=1/2, we get x²/2 - x/2 - 6.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_m2_q37",
-      "text": "If the sum of zeros of x² - (k+6)x + 2(2k-1) is half their product, then k is:",
-      "options": ["6", "7", "8", "5"],
-      "correctIndex": 1,
-      "explanation": "k+6 = 1/2 * 2(2k-1) => k+6 = 2k-1 => k=7.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_m2_q38",
-      "text": "Degree of a cubic polynomial is:",
-      "options": ["1", "2", "3", "0"],
-      "correctIndex": 2,
-      "explanation": "A cubic polynomial is a polynomial of degree 3.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_m2_q39",
-      "text": "If one zero of 3x² + 8x + k is the reciprocal of the other, then k is:",
-      "options": ["3", "-3", "1/3", "-1/3"],
-      "correctIndex": 0,
-      "explanation": "Product of zeros α(1/α) = 1. So c/a = 1 => k/3 = 1 => k = 3.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_m2_q40",
-      "text": "The division of a polynomial p(x) by a non-zero polynomial g(x) is possible only if deg(p(x)) is:",
-      "options": ["Less than deg(g(x))", "Greater than or equal to deg(g(x))", "Equal to deg(g(x))", "Zero"],
-      "correctIndex": 1,
-      "explanation": "To perform division, the degree of the dividend must be greater than or equal to the degree of the divisor.",
-      "frequencyRating": 3
     }
   ]
 }

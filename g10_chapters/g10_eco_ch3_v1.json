@@ -1,0 +1,330 @@
+{
+  "id": "g10_eco_ch3",
+  "grade": "10",
+  "subject": "Economics",
+  "number": "3",
+  "title": "Money and Credit",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_ec3_q1",
+      "text": "What is the system where goods are directly exchanged without the use of money?",
+      "options": ["Money system", "Barter system", "Credit system", "Digital system"],
+      "correctIndex": 1,
+      "explanation": "In a barter system, double coincidence of wants is a primary requirement.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q2",
+      "text": "The main problem with the Barter system is:",
+      "options": ["Easy to find people", "Double coincidence of wants", "Fast transactions", "Standard value"],
+      "correctIndex": 1,
+      "explanation": "It's difficult to find someone who wants exactly what you have and has exactly what you want.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q3",
+      "text": "Money acts as an intermediate in the exchange process, therefore it is called a:",
+      "options": ["Store of value", "Medium of exchange", "Unit of account", "Measure of wealth"],
+      "correctIndex": 1,
+      "explanation": "Money eliminates the need for double coincidence of wants by facilitating trade.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q4",
+      "text": "Modern forms of money include:",
+      "options": ["Gold coins", "Silver coins", "Currency notes and coins", "Grains and cattle"],
+      "correctIndex": 2,
+      "explanation": "Unlike early forms, modern currency is not made of precious metals and has no use of its own.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q5",
+      "text": "In India, which institution issues currency notes on behalf of the Central Government?",
+      "options": ["State Bank of India", "Ministry of Finance", "Reserve Bank of India (RBI)", "World Bank"],
+      "correctIndex": 2,
+      "explanation": "RBI is the only authorized body to issue currency in India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q6",
+      "text": "Deposits in the bank accounts which can be withdrawn on demand are called:",
+      "options": ["Fixed deposits", "Demand deposits", "Recurring deposits", "Current assets"],
+      "correctIndex": 1,
+      "explanation": "Demand deposits are considered as money in the modern economy because they can be used for payments.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q7",
+      "text": "A paper instructing the bank to pay a specific amount from a person's account to another person is called a:",
+      "options": ["Note", "Voucher", "Check (Cheque)", "Draft"],
+      "correctIndex": 2,
+      "explanation": "Cheques allow transactions to be settled without using physical cash.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q8",
+      "text": "Banks keep only a small proportion of their deposits as ______ with themselves.",
+      "options": ["Loans", "Cash", "Gold", "Investments"],
+      "correctIndex": 1,
+      "explanation": "In India, banks hold about 15% of deposits as cash to meet daily withdrawal needs of depositors.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q9",
+      "text": "The major portion of deposits is used by banks to:",
+      "options": ["Buy land", "Extend loans", "Pay taxes", "Keep in lockers"],
+      "correctIndex": 1,
+      "explanation": "Banks mediate between those who have surplus funds (depositors) and those who need funds (borrowers).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q10",
+      "text": "The main source of income for banks is:",
+      "options": ["Account maintenance fees", "The difference between interest charged on loans and interest paid to depositors", "Government subsidies", "Printing money"],
+      "correctIndex": 1,
+      "explanation": "Banks charge higher interest on loans than what they pay on deposits.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q11",
+      "text": "An agreement in which the lender supplies the borrower with money, goods, or services in return for the promise of future payment is called:",
+      "options": ["Debt", "Credit", "Deposit", "Investment"],
+      "correctIndex": 1,
+      "explanation": "Credit (loan) plays a vital role in economic activities.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q12",
+      "text": "Asset that the borrower owns and uses as a guarantee to a lender until the loan is repaid is called:",
+      "options": ["Credit", "Collateral", "Debt", "Cheque"],
+      "correctIndex": 1,
+      "explanation": "Common examples include land, buildings, vehicles, livestock, and bank deposits.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q13",
+      "text": "Interest rate, collateral, documentation requirement, and the mode of repayment together comprise the:",
+      "options": ["Terms of Credit", "Bank rules", "Loan agreement", "Credit score"],
+      "correctIndex": 0,
+      "explanation": "These terms vary substantially from one credit arrangement to another.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q14",
+      "text": "Loans from banks and cooperatives come under which sector?",
+      "options": ["Informal sector", "Formal sector", "Unorganized sector", "Private sector"],
+      "correctIndex": 1,
+      "explanation": "The formal sector is supervised by the RBI.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q15",
+      "text": "Loans from money-lenders, traders, employers, relatives, and friends come under:",
+      "options": ["Formal sector", "Informal sector", "Public sector", "Government sector"],
+      "correctIndex": 1,
+      "explanation": "There is no organization that supervises the credit activities of lenders in the informal sector.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q16",
+      "text": "The Reserve Bank of India supervises the functioning of:",
+      "options": ["Informal lenders", "Formal sources of loans", "Self-help groups", "Foreign banks only"],
+      "correctIndex": 1,
+      "explanation": "RBI monitors that banks maintain cash balance and provide loans to small borrowers, not just profit-making businesses.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q17",
+      "text": "A situation where the borrower is unable to repay the loan and is pushed into a painful situation is called:",
+      "options": ["Credit growth", "Debt-trap", "Financial freedom", "Bankruptcy"],
+      "correctIndex": 1,
+      "explanation": "This often happens in rural areas where crop failure makes loan repayment impossible.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q18",
+      "text": "Who receives the majority of their credit needs from the informal sector in India?",
+      "options": ["Rich households", "Poor households", "Well-off households", "Large scale industries"],
+      "correctIndex": 1,
+      "explanation": "85% of loans taken by poor households in urban areas are from informal sources due to lack of collateral.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q19",
+      "text": "What does SHG stand for in the context of rural credit?",
+      "options": ["Small Home Groups", "Self-Help Groups", "State Housing Groups", "Saving Households Groups"],
+      "correctIndex": 1,
+      "explanation": "SHGs help rural poor, especially women, to organize their savings and get small loans.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q20",
+      "text": "A typical SHG has ______ members, usually belonging to one neighborhood.",
+      "options": ["5-10", "15-20", "50-100", "Unlimited"],
+      "correctIndex": 1,
+      "explanation": "Small size helps in regular meetings and maintaining trust among members.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec3_q21",
+      "text": "Who takes the major decisions regarding savings and loan activities in an SHG?",
+      "options": ["Bank manager", "Government", "The members", "NGOs"],
+      "correctIndex": 2,
+      "explanation": "Self-Help Groups are autonomous and democratic in their functioning.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q22",
+      "text": "SHGs help borrowers overcome the problem of lack of:",
+      "options": ["Interest", "Education", "Collateral", "Labor"],
+      "correctIndex": 2,
+      "explanation": "Since members know each other, they can get loans without formal collateral.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q23",
+      "text": "Grameen Bank of Bangladesh was founded by:",
+      "options": ["Mahatma Gandhi", "Muhammad Yunus", "Amartya Sen", "Sheikh Hasina"],
+      "correctIndex": 1,
+      "explanation": "Professor Muhammad Yunus was awarded the Nobel Peace Prize for this initiative.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec3_q24",
+      "text": "Credit can be ______ if it helps the borrower to increase their earnings and become better off.",
+      "options": ["Negative", "Positive", "Neutral", "Useless"],
+      "correctIndex": 1,
+      "explanation": "Example: A manufacturer taking a loan to complete a large order on time.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec3_q25",
+      "text": "Informal lenders often charge much ______ interest on loans than the formal lenders.",
+      "options": ["Lower", "Higher", "Similar", "Zero"],
+      "correctIndex": 1,
+      "explanation": "Lack of regulation allows informal lenders to exploit borrowers with high rates.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q26",
+      "text": "Why is it necessary that banks and cooperatives increase their lending particularly in rural areas?",
+      "options": ["To make more profit", "To reduce dependence on informal sources of credit", "To help the rich", "To stop agriculture"],
+      "correctIndex": 1,
+      "explanation": "Informal credit is often exploitative and leads to debt-traps.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q27",
+      "text": "Cheque is a modern form of:",
+      "options": ["Currency", "Loan", "Money", "None of these"],
+      "correctIndex": 2,
+      "explanation": "Demand deposits (accessed by cheques) are widely accepted as a means of payment, thus performing the function of money.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec3_q28",
+      "text": "Banks charge ______ interest on loans than what they offer on deposits.",
+      "options": ["Less", "Same", "Much more", "None"],
+      "correctIndex": 2,
+      "explanation": "The interest spread is the bank's main source of revenue.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q29",
+      "text": "In rural areas, the main demand for credit is for:",
+      "options": ["Buying luxury cars", "Crop production (seeds, fertilizers, etc.)", "Building factories", "Foreign travel"],
+      "correctIndex": 1,
+      "explanation": "Farmers need credit to cover seasonal expenses before the harvest is sold.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q30",
+      "text": "Which of the following is NOT a term of credit?",
+      "options": ["Interest rate", "Collateral", "Documentation", "Borrower's age"],
+      "correctIndex": 3,
+      "explanation": "Age is not a standard 'term' of credit, though it might be considered in eligibility.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec3_q31",
+      "text": "Double coincidence of wants means:",
+      "options": ["Both parties want money", "Both parties have the same item", "Both parties agree to sell and buy each other's commodities", "Lending to two people"],
+      "correctIndex": 2,
+      "explanation": "This is the essential feature of the barter system.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q32",
+      "text": "A person can open a bank account only if they have a valid:",
+      "options": ["Passport", "Identification and Address proof", "Credit card", "Degree certificate"],
+      "correctIndex": 1,
+      "explanation": "Documentation is a prerequisite for formal financial services.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec3_q33",
+      "text": "Digital payments include:",
+      "options": ["UPI", "Net Banking", "Debit cards", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "These are modern methods of settling transactions without physical currency.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec3_q34",
+      "text": "Cheap and affordable credit is crucial for:",
+      "options": ["National development", "Buying jewelry", "Hoarding goods", "None of these"],
+      "correctIndex": 0,
+      "explanation": "Easy credit encourages small businesses, farming, and entrepreneurship.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q35",
+      "text": "The RBI ensures that banks lend not just to profit-making businesses but also to:",
+      "options": ["Small cultivators and small-scale industries", "Rich politicians", "Foreign investors", "Stock market"],
+      "correctIndex": 0,
+      "explanation": "This is part of the social objective of banking regulation in India.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec3_q36",
+      "text": "Why do rich households get more formal credit than poor ones?",
+      "options": ["They are more honest", "They have collateral and better documentation", "Banks like rich people", "They don't need money"],
+      "correctIndex": 1,
+      "explanation": "Lack of assets to pledge as collateral is the biggest barrier for the poor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q37",
+      "text": "Self-help groups promote ______ among the poor.",
+      "options": ["Gambling", "Savings and Self-reliance", "Conflicts", "Dependency"],
+      "correctIndex": 1,
+      "explanation": "SHGs provide a platform for collective saving and mutual aid.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q38",
+      "text": "A debt-trap is a situation where credit ______ the borrower into a situation from which recovery is very painful.",
+      "options": ["Helps", "Pushes", "Releases", "Protects"],
+      "correctIndex": 1,
+      "explanation": "In such cases, the borrower might have to sell their assets to repay the loan.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec3_q39",
+      "text": "Credit should be ______ to make it accessible to everyone.",
+      "options": ["Limited", "Expensive", "Distributed equitably", "Hidden"],
+      "correctIndex": 2,
+      "explanation": "Equitable distribution of formal credit ensures that even the poor can benefit from development.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec3_q40",
+      "text": "Which of the following acts as a measure of value in modern times?",
+      "options": ["Barter", "Money", "Manual labor", "Promises"],
+      "correctIndex": 1,
+      "explanation": "Money allows us to express the price of goods and services in a standard unit.",
+      "frequencyRating": 5
+    }
+  ]
+}

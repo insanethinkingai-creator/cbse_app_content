@@ -165,7 +165,7 @@ This script automatically packages all chapters into `g7_v1.zip`, calculates its
 | 4 | Carbon and its Compounds | ✅ v1 |
 | 5 | Life Processes | ✅ v1 |
 | 6 | Control and Coordination | ✅ v1 |
-| 7 | How do Organisms Reproduce? | ⏳ Pending |
+| 7 | How do Organisms Reproduce? | ✅ v1 |
 | 8 | Heredity | ⏳ Pending |
 | 9 | Light – Reflection and Refraction | ⏳ Pending |
 | 10 | The Human Eye and the Colourful World | ⏳ Pending |
@@ -178,13 +178,13 @@ This script automatically packages all chapters into `g7_v1.zip`, calculates its
 | :--- | :--- | :--- |
 | 1 | The Rise of Nationalism in Europe | ✅ v1 |
 | 2 | Nationalism in India | ✅ v1 |
-| 3 | The Making of a Global World | ⏳ Pending |
+| 3 | The Making of a Global World | ✅ v1 |
 
 ### Social Science - Geography (40 Questions per Chapter)
 | Ch # | Chapter Title | Status |
 | :--- | :--- | :--- |
 | 1 | Resources and Development | ✅ v1 |
-| 2 | Forest and Wildlife Resources | ⏳ Pending |
+| 2 | Forest and Wildlife Resources | ✅ v1 |
 | 3 | Water Resources | ⏳ Pending |
 | 4 | Agriculture | ⏳ Pending |
 | 5 | Minerals and Energy Resources | ⏳ Pending |
@@ -195,10 +195,24 @@ This script automatically packages all chapters into `g7_v1.zip`, calculates its
 | Ch # | Chapter Title | Status |
 | :--- | :--- | :--- |
 | 1 | Power Sharing | ✅ v1 |
-| 2 | Federalism | ⏳ Pending |
+| 2 | Federalism | ✅ v1 |
 | 3 | Gender, Religion and Caste | ⏳ Pending |
 | 4 | Political Parties | ⏳ Pending |
 | 5 | Outcomes of Democracy | ⏳ Pending |
+
+### Social Science - Economics (40 Questions per Chapter)
+| Ch # | Chapter Title | Status |
+| :--- | :--- | :--- |
+| 1 | Development | ✅ v1 |
+| 2 | Sectors of the Indian Economy | ✅ v1 |
+| 3 | Money and Credit | ✅ v1 |
+| 4 | Globalisation and the Indian Economy | ⏳ Pending |
+
+### English - First Flight (40 Questions per Chapter)
+| Ch # | Chapter Title | Status |
+| :--- | :--- | :--- |
+| 1 | A Letter to God | ✅ v1 |
+| 2 | Nelson Mandela: Long Walk to Freedom | ✅ v1 |
 
 ## Deployment & Android Integration Strategy
 

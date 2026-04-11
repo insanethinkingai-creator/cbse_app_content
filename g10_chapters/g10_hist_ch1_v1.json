@@ -8,323 +8,43 @@
   "questions": [
     {
       "id": "g10_h1_q1",
-      "text": "Who was the French artist who prepared a series of four prints visualizing his dream of a world made up of 'democratic and social Republics'?",
-      "options": ["Giuseppe Mazzini", "Frederic Sorrieu", "Napoleon Bonaparte", "Duke Metternich"],
+      "text": "Who was the French artist who prepared a series of four prints visualizing his dream of a world made up of 'democratic and social Republics' in 1848?",
+      "options": ["Giuseppe Mazzini", "Frédéric Sorrieu", "Victor Emmanuel II", "Count Cavour"],
       "correctIndex": 1,
-      "explanation": "In 1848, Frederic Sorrieu painted a series of prints representing his utopian vision of world-wide democratic republics.",
+      "explanation": "Frédéric Sorrieu painted these famous prints to visualize the spread of nation-states and democracy.",
       "frequencyRating": 5
     },
     {
       "id": "g10_h1_q2",
-      "text": "The first clear expression of nationalism came with which revolution?",
-      "options": ["The Russian Revolution", "The American Revolution", "The French Revolution", "The Industrial Revolution"],
-      "correctIndex": 2,
-      "explanation": "The French Revolution in 1789 marked the beginning of modern nationalism and the transfer of sovereignty from the monarchy to the citizens.",
+      "text": "The Civil Code of 1804 in France is usually known as the:",
+      "options": ["French Code", "Napoleonic Code", "European Code", "Restoration Code"],
+      "correctIndex": 1,
+      "explanation": "Napoleon simplified administrative divisions and established equality before the law through this code.",
       "frequencyRating": 5
     },
     {
       "id": "g10_h1_q3",
-      "text": "What was the Civil Code of 1804 also known as?",
-      "options": ["The Code of Vienna", "The Napoleonic Code", "The French Constitution", "The Law of Equality"],
+      "text": "What was the main objective of the Treaty of Vienna of 1815?",
+      "options": ["To start a new revolution", "To restore monarchies overthrown by Napoleon", "To grant independence to Greece", "To unify Germany"],
       "correctIndex": 1,
-      "explanation": "Napoleon introduced the Civil Code of 1804, which simplified administration and established equality before the law.",
+      "explanation": "The representatives of European powers met at Vienna to undo the changes brought about by the Napoleonic wars and restore conservative orders.",
       "frequencyRating": 5
     },
     {
       "id": "g10_h1_q4",
-      "text": "The term 'Liberalism' is derived from the Latin root 'liber', meaning:",
-      "options": ["Equality", "Fraternity", "Free", "Justice"],
+      "text": "The 'Zollverein', formed in 1834 at the initiative of Prussia, was a:",
+      "options": ["Political Party", "Trade Union", "Customs Union", "Religious Group"],
       "correctIndex": 2,
-      "explanation": "Liberalism stood for freedom for the individual and equality of all before the law.",
+      "explanation": "The Zollverein abolished tariff barriers and reduced the number of currencies, facilitating economic nationalism.",
       "frequencyRating": 4
     },
     {
       "id": "g10_h1_q5",
-      "text": "Which treaty recognized Greece as an independent nation?",
-      "options": ["Treaty of Versailles", "Treaty of Constantinople", "Treaty of Vienna", "Treaty of Paris"],
+      "text": "Who was described as 'the most dangerous enemy of our social order' by Metternich?",
+      "options": ["Napoleon", "Giuseppe Mazzini", "Garibaldi", "Otto von Bismarck"],
       "correctIndex": 1,
-      "explanation": "The Treaty of Constantinople of 1832 recognized Greece as an independent nation after its war of independence.",
+      "explanation": "Metternich viewed Mazzini's relentless opposition to monarchy and vision of democratic republics as a threat to the old order.",
       "frequencyRating": 5
-    },
-    {
-      "id": "g10_h1_q6",
-      "text": "Who hosted the Congress of Vienna in 1815?",
-      "options": ["Napoleon", "Duke Metternich", "Otto von Bismarck", "King Victor Emmanuel II"],
-      "correctIndex": 1,
-      "explanation": "Austrian Chancellor Duke Metternich hosted the Congress to undo the changes brought by Napoleonic wars.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h1_q7",
-      "text": "Who was described by Metternich as 'the most dangerous enemy of our social order'?",
-      "options": ["Napoleon", "Giuseppe Mazzini", "Garibaldi", "Bismarck"],
-      "correctIndex": 1,
-      "explanation": "Metternich feared Mazzini's revolutionary activities and his role in founding 'Young Italy'.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h1_q8",
-      "text": "The customs union formed in 1834 at the initiative of Prussia was called:",
-      "options": ["Zollverein", "European Union", "Confederation", "Reichstag"],
-      "correctIndex": 0,
-      "explanation": "Zollverein abolished tariff barriers and reduced the number of currencies to facilitate trade.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_h1_q9",
-      "text": "Who was the chief architect of German unification?",
-      "options": ["Kaiser William I", "Otto von Bismarck", "Mazzini", "Cavour"],
-      "correctIndex": 1,
-      "explanation": "Bismarck used the Prussian army and bureaucracy to achieve German unification through 'blood and iron'.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h1_q10",
-      "text": "The 'Hero of the Red Shirts' who led the 'Expedition of the Thousand' in Italy was:",
-      "options": ["Count Cavour", "Giuseppe Garibaldi", "Mazzini", "Victor Emmanuel II"],
-      "correctIndex": 1,
-      "explanation": "Garibaldi led volunteers to conquer the Kingdom of the Two Sicilies to unify Italy.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h1_q11",
-      "text": "The Act of Union 1707 resulted in the formation of:",
-      "options": ["Great Britain", "Ireland", "France", "Germany"],
-      "correctIndex": 0,
-      "explanation": "The Act of Union between England and Scotland formed the United Kingdom of Great Britain.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_h1_q12",
-      "text": "What was the female allegory of France called?",
-      "options": ["Germania", "Marianne", "Britannia", "Bharat Mata"],
-      "correctIndex": 1,
-      "explanation": "Marianne represented the Republic and the ideas of Liberty and Reason.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h1_q13",
-      "text": "The area which became the source of nationalist tension in Europe after 1871 was:",
-      "options": ["The Balkans", "Prussia", "Sardinia", "Poland"],
-      "correctIndex": 0,
-      "explanation": "The Balkans, a region of geographical and ethnic variation, became explosive due to the decline of the Ottoman Empire.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h1_q14",
-      "text": "In the 19th century, the 'middle class' emphasized the concept of 'liberty' which meant:",
-      "options": ["Right to vote only", "Freedom from all taxes", "Equality before law and end of autocracy", "Rule by the military"],
-      "correctIndex": 2,
-      "explanation": "Middle-class liberalism focused on representative government, inviolability of property, and rule of law.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_h1_q15",
-      "text": "Which of the following was NOT a feature of the Napoleonic Code?",
-      "options": ["Equality before law", "Privileges based on birth", "Right to property", "Simplified administration"],
-      "correctIndex": 1,
-      "explanation": "Napoleon actually abolished all privileges based on birth to ensure merit-based administration.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h1_q16",
-      "text": "The romantic philosopher Johann Gottfried Herder claimed that true German culture was to be discovered among the:",
-      "options": ["Aristocracy", "Das Volk (common people)", "Soldiers", "Clergy"],
-      "correctIndex": 1,
-      "explanation": "Herder believed that the spirit of the nation (Volksgeist) was found in folk songs, poetry, and dances.",
-      "frequencyRating": 3
-    },
-    {
-      "id": "g10_h1_q17",
-      "text": "Elle, the measuring unit in Germany, was used to measure:",
-      "options": ["Cloth", "Grain", "Land", "Weight"],
-      "correctIndex": 0,
-      "explanation": "An 'elle' was a common unit for measuring cloth, though its length varied between different regions.",
-      "frequencyRating": 3
-    },
-    {
-      "id": "g10_h1_q18",
-      "text": "When was the United Kingdom of Italy proclaimed?",
-      "options": ["1848", "1861", "1871", "1815"],
-      "correctIndex": 1,
-      "explanation": "In 1861, Victor Emmanuel II was proclaimed king of a united Italy.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_h1_q19",
-      "text": "The 'Frankfurt Parliament' was convened in the Church of St. Paul in:",
-      "options": ["1848", "1830", "1815", "1871"],
-      "correctIndex": 0,
-      "explanation": "It was an attempt by middle-class professionals to create a unified German nation-state.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h1_q20",
-      "text": "Which power was NOT involved in the Balkan conflict?",
-      "options": ["Russia", "Germany", "Austria-Hungary", "USA"],
-      "correctIndex": 3,
-      "explanation": "The USA was not involved in European territorial rivalries in the late 19th century.",
-      "frequencyRating": 3
-    },
-    {
-      "id": "g10_h1_q21",
-      "text": "What does the crown of oak leaves worn by Germania signify?",
-      "options": ["Peace", "Heroism", "Readiness to fight", "Willingness to make peace"],
-      "correctIndex": 1,
-      "explanation": "In German allegory, the oak stands for heroism.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "h10_h1_q22",
-      "text": "Which king was restored to power in France after 1815?",
-      "options": ["Louis XVI", "Napoleon III", "Bourbon Dynasty", "Cavour"],
-      "correctIndex": 2,
-      "explanation": "The Bourbon dynasty, deposed during the revolution, was restored by the Treaty of Vienna.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_h1_q23",
-      "text": "Suffrage means:",
-      "options": ["Freedom", "Right to vote", "Right to protest", "Property"],
-      "correctIndex": 1,
-      "explanation": "The struggle for the right to vote (suffrage) was a central part of liberal movements.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h1_q24",
-      "text": "Who was the 'Bismarck of Italy'?",
-      "options": ["Mazzini", "Garibaldi", "Cavour", "Victor Emmanuel"],
-      "correctIndex": 2,
-      "explanation": "Count Camillo de Cavour is often compared to Bismarck for his diplomatic skill in unifying Italy.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_h1_q25",
-      "text": "The Large part of Balkan region was under the control of:",
-      "options": ["Russian Empire", "Ottoman Empire", "German Empire", "British Empire"],
-      "correctIndex": 1,
-      "explanation": "The Ottoman Empire controlled most of the Balkans until the rise of nationalist movements in the 19th century.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h1_q26",
-      "text": "A 'Nation-State' is a state where:",
-      "options": ["The king has absolute power", "Citizens share a common identity and history", "Military rules the people", "Religion is the only bond"],
-      "correctIndex": 1,
-      "explanation": "A nation-state is one where the majority of citizens, and not just its rulers, come to develop a sense of common identity.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h1_q27",
-      "text": "What was the result of the 'July Revolution' of 1830 in France?",
-      "options": ["Napoleon returned", "Bourbon kings were overthrown", "Republic was established", "Bismarck came to power"],
-      "correctIndex": 1,
-      "explanation": "It led to the installation of a constitutional monarchy under Louis Philippe.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_h1_q28",
-      "text": "The symbolic meaning of 'broken chains' is:",
-      "options": ["Beginning of new era", "Being freed", "Readiness to fight", "Heroism"],
-      "correctIndex": 1,
-      "explanation": "Broken chains symbolize freedom from oppression.",
-      "frequencyRating": 3
-    },
-    {
-      "id": "g10_h1_q29",
-      "text": "Who said 'When France sneezes, the rest of Europe catches cold'?",
-      "options": ["Napoleon", "Metternich", "Garibaldi", "Mazzini"],
-      "correctIndex": 1,
-      "explanation": "Metternich remarked this to highlight how political developments in France influenced the entire continent.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h1_q30",
-      "text": "The 'Treaty of Vienna' was signed in:",
-      "options": ["1789", "1815", "1848", "1871"],
-      "correctIndex": 1,
-      "explanation": "The treaty was signed in 1815 following the defeat of Napoleon.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h1_q31",
-      "text": "Karol Kurpinski celebrated the national struggle through his:",
-      "options": ["Paintings", "Operas and Music", "Political speeches", "Soldiers"],
-      "correctIndex": 1,
-      "explanation": "In Poland, Kurpinski used art and music to keep the nationalist spirit alive against Russian rule.",
-      "frequencyRating": 3
-    },
-    {
-      "id": "g10_h1_q32",
-      "text": "In 1848, 'Young Germany' and 'Young Italy' were types of:",
-      "options": ["Political parties", "Secret societies", "Labor unions", "Religious groups"],
-      "correctIndex": 1,
-      "explanation": "Secret societies like 'Young Italy' were founded by Mazzini to spread revolutionary ideas.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h1_q33",
-      "text": "The meaning of 'Volksgeist' is:",
-      "options": ["National Anthem", "Common identity", "True spirit of the nation", "People's government"],
-      "correctIndex": 2,
-      "explanation": "Johann Gottfried Herder used this term to describe the authentic spirit of a nation found in its people.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_h1_q34",
-      "text": "What did the Olive branch around the sword symbolize?",
-      "options": ["Heroism", "Willingness to make peace", "Justice", "Equality"],
-      "correctIndex": 1,
-      "explanation": "It represents a desire for peace combined with the strength to defend it.",
-      "frequencyRating": 3
-    },
-    {
-      "id": "g10_h1_q35",
-      "text": "Which state led the process of German Unification?",
-      "options": ["Austria", "Prussia", "Bavaria", "Saxony"],
-      "correctIndex": 1,
-      "explanation": "Prussia, under the leadership of Bismarck, took the initiative to unify Germany.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h1_q36",
-      "text": "The term 'Utopian' refers to:",
-      "options": ["A realistic goal", "A vision of society so ideal it is unlikely to exist", "A cruel dictatorship", "A military alliance"],
-      "correctIndex": 1,
-      "explanation": "Sorrieu's vision was called utopian because it was an idealized version of democracy.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_h1_q37",
-      "text": "Which ethnic group was dominant in the Habsburg Empire?",
-      "options": ["French", "English", "Magyars and Germans", "Turks"],
-      "correctIndex": 2,
-      "explanation": "The Habsburg Empire was a patchwork of many different regions and peoples, including Germans and Magyars.",
-      "frequencyRating": 3
-    },
-    {
-      "id": "g10_h1_q38",
-      "text": "The main goal of the French revolutionaries was to:",
-      "options": ["Establish a church", "Create a sense of collective identity among people", "Conquer Russia", "Expand the monarchy"],
-      "correctIndex": 1,
-      "explanation": "They introduced ideas like 'la patrie' (the fatherland) and 'le citoyen' (the citizen) to unite people.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h1_q39",
-      "text": "Who was proclaimed the first German Emperor in 1871?",
-      "options": ["Otto von Bismarck", "William I", "William II", "Louis Philippe"],
-      "correctIndex": 1,
-      "explanation": "The Prussian King William I was proclaimed Emperor at a ceremony in Versailles.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h1_q40",
-      "text": "The use of 'Polish' language in Poland after 1831 was seen as a symbol of:",
-      "options": ["Submission to Russia", "Religious devotion", "Resistance against Russian dominance", "Modernity"],
-      "correctIndex": 2,
-      "explanation": "Language became a weapon of national resistance after the failed armed rebellion against Russia.",
-      "frequencyRating": 4
     }
   ]
 }

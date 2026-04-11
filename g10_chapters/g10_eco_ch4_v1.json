@@ -1,0 +1,330 @@
+{
+  "id": "g10_eco_ch4",
+  "grade": "10",
+  "subject": "Economics",
+  "number": "4",
+  "title": "Globalisation and the Indian Economy",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_ec4_q1",
+      "text": "A company that owns or controls production in more than one nation is called a:",
+      "options": ["National Corporation", "Multinational Corporation (MNC)", "Global NGO", "Local Company"],
+      "correctIndex": 1,
+      "explanation": "MNCs set up offices and factories for production in regions where they can get cheap labor and other resources.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec4_q2",
+      "text": "MNCs set up production units close to markets because it helps in:",
+      "options": ["Reducing taxes", "Lowering the cost of transportation", "Finding skilled labor only", "Both A and B"],
+      "correctIndex": 1,
+      "explanation": "Proximity to markets reduces logistics costs and allows for quicker response to consumer needs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec4_q3",
+      "text": "The money that is spent to buy assets such as land, building, machines and other equipment is called:",
+      "options": ["Expenditure", "Investment", "Foreign Investment", "Capital"],
+      "correctIndex": 1,
+      "explanation": "Investment is made with the hope that these assets will earn profits.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec4_q4",
+      "text": "Investment made by MNCs is called:",
+      "options": ["Private Investment", "Public Investment", "Foreign Investment", "Internal Investment"],
+      "correctIndex": 2,
+      "explanation": "Any investment that comes from a company based in another country is termed foreign investment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec4_q5",
+      "text": "What is the most common route for MNC investments in developing countries?",
+      "options": ["To set up new factories", "To buy up local companies", "To form partnerships", "To give loans"],
+      "correctIndex": 1,
+      "explanation": "Buying local companies is the fastest way for MNCs to expand production and gain market share.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec4_q6",
+      "text": "Cargill Foods, a very large American MNC, bought over which Indian company?",
+      "options": ["Tata Motors", "Parakh Foods", "Reliance Industries", "Amul"],
+      "correctIndex": 1,
+      "explanation": "Parakh Foods had built a large marketing network in India, which Cargill then utilized.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec4_q7",
+      "text": "Foreign trade creates an opportunity for the producers to reach beyond the ______ markets.",
+      "options": ["Global", "Domestic", "International", "Village"],
+      "correctIndex": 1,
+      "explanation": "Producers can sell their goods not only in markets located within the country but can also compete in markets elsewhere.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec4_q8",
+      "text": "With foreign trade, for the buyers, import of goods produced in another country is one way of:",
+      "options": ["Increasing prices", "Expanding the choice of goods", "Reducing competition", "Stopping local production"],
+      "correctIndex": 1,
+      "explanation": "Foreign trade leads to integration of markets across countries.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec4_q9",
+      "text": "Globalisation is the process of rapid ______ between countries.",
+      "options": ["Conflict", "Integration or interconnection", "Separation", "Distance"],
+      "correctIndex": 1,
+      "explanation": "Globalisation involves increased movement of goods, services, investments, and people.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec4_q10",
+      "text": "What has been one major factor that has stimulated the globalisation process?",
+      "options": ["Improvement in technology", "Increase in taxes", "Closing of borders", "Decrease in population"],
+      "correctIndex": 0,
+      "explanation": "Developments in transportation and information technology (IT) have made global connection easier.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec4_q11",
+      "text": "The use of 'containers' for transport of goods has led to:",
+      "options": ["Slower delivery", "Reduced port handling costs and increased speed", "More damage to goods", "Higher taxes"],
+      "correctIndex": 1,
+      "explanation": "Containers allow goods to be loaded onto ships, railways, and trucks without repeated handling.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec4_q12",
+      "text": "IT (Information Technology) has played a major role in spreading ______ across countries.",
+      "options": ["Food", "Production of services", "Natural resources", "Handicrafts"],
+      "correctIndex": 1,
+      "explanation": "Services like call centers and software development can be managed globally using the internet.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec4_q13",
+      "text": "Removing barriers or restrictions set by the government is what is known as:",
+      "options": ["Nationalisation", "Liberalisation", "Privatisation", "Industrialisation"],
+      "correctIndex": 1,
+      "explanation": "Liberalisation allows businesses to make decisions freely about what they wish to import or export.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec4_q14",
+      "text": "When did the Indian government start the policy of liberalisation in its economic policies?",
+      "options": ["1947", "1971", "1991", "2001"],
+      "correctIndex": 2,
+      "explanation": "In 1991, India removed many barriers to foreign trade and foreign investment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec4_q15",
+      "text": "What does WTO stand for?",
+      "options": ["World Transport Organisation", "World Trade Organisation", "Western Trade Office", "World Technical Organisation"],
+      "correctIndex": 1,
+      "explanation": "WTO is an international organization that deals with the global rules of trade between nations.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec4_q16",
+      "text": "The main aim of the WTO is to:",
+      "options": ["Increase taxes", "Liberalise international trade", "Protect only rich countries", "Control population"],
+      "correctIndex": 1,
+      "explanation": "WTO works towards ensuring that trade flows as smoothly, predictably and freely as possible.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec4_q17",
+      "text": "One major criticism of the WTO is that it:",
+      "options": ["Has no members", "Forces developing countries to remove barriers while developed countries keep them", "Is too small", "Only cares about environment"],
+      "correctIndex": 1,
+      "explanation": "Developing countries argue that trade rules are often biased in favor of developed nations.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec4_q18",
+      "text": "SEZs (Special Economic Zones) are being set up by the Central and State governments in India to:",
+      "options": ["Increase agriculture", "Attract foreign companies to invest in India", "Protect village industries", "Limit exports"],
+      "correctIndex": 1,
+      "explanation": "SEZs provide world-class facilities and tax exemptions to attract investors.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec4_q19",
+      "text": "One way in which MNCs exert control over production is by placing orders for production with ______.",
+      "options": ["Other MNCs", "Small producers", "The government", "None of these"],
+      "correctIndex": 1,
+      "explanation": "MNCs in industries like garments and footwear often outsource production to small local units.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec4_q20",
+      "text": "Which of the following is a negative impact of globalisation for small producers?",
+      "options": ["Increased choice", "Better technology", "Competition leading to closure of units", "Higher profits"],
+      "correctIndex": 2,
+      "explanation": "Small Indian industries like batteries, capacitors, and toys have suffered due to competition from cheap imports.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec4_q21",
+      "text": "Globalisation has led to an improvement in the living standards of:",
+      "options": ["All people", "Workers in small industries", "Well-off consumers in urban areas", "Landless laborers"],
+      "correctIndex": 2,
+      "explanation": "The benefits of globalisation have been unevenly distributed, primarily favoring the wealthy and urban populations.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec4_q22",
+      "text": "Flexibility in ______ laws has been introduced to attract foreign investment.",
+      "options": ["Environmental", "Labor", "Religious", "Criminal"],
+      "correctIndex": 1,
+      "explanation": "Governments have allowed companies to hire workers for short periods to reduce labor costs.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec4_q23",
+      "text": "A fair globalisation would create ______ for all.",
+      "options": ["Barriers", "Opportunities", "Taxes", "Profits only for rich"],
+      "correctIndex": 1,
+      "explanation": "Fair globalisation ensures that the benefits are shared better and there is protection for workers' rights.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec4_q24",
+      "text": "Who can play a major role in the struggle for a fair globalisation?",
+      "options": ["MNCs only", "The government", "International banks only", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Governments can use policies to protect the interests of their people and negotiate for fairer rules at the WTO.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec4_q25",
+      "text": "Foreign investment is different from domestic investment because it involves ______.",
+      "options": ["More money", "Capital from another country", "Buying gold", "Building schools"],
+      "correctIndex": 1,
+      "explanation": "It represents the flow of capital across national boundaries.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec4_q26",
+      "text": "Ford Motors is an MNC because:",
+      "options": ["It is a very old company", "It has manufacturing plants in many countries like India", "It sells cars", "It uses steel"],
+      "correctIndex": 1,
+      "explanation": "Control of production in multiple nations is the defining characteristic.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_ec4_q27",
+      "text": "By 2017, how many countries were members of the WTO?",
+      "options": ["50", "100", "164", "193"],
+      "correctIndex": 2,
+      "explanation": "The WTO has a vast membership comprising most of the world's trading nations.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_ec4_q28",
+      "text": "Which of the following is NOT an example of a barrier on foreign trade?",
+      "options": ["Tax on imports", "Quota system", "Quality requirements", "Low interest loans"],
+      "correctIndex": 3,
+      "explanation": "The first three are tools used by governments to restrict or regulate trade.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec4_q29",
+      "text": "Indian buyers now have a wide choice of goods because of:",
+      "options": ["High taxes", "Globalisation", "Nationalisation", "Rural development"],
+      "correctIndex": 1,
+      "explanation": "Integration of global markets has brought a variety of international brands to India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec4_q30",
+      "text": "MNCs are interested in investing in India because of its:",
+      "options": ["Small market", "Large market and cheap labor", "Cold climate", "High taxes"],
+      "correctIndex": 1,
+      "explanation": "India offers a huge consumer base and a competitive cost of production.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec4_q31",
+      "text": "In the past two decades, globalisation has seen much more movement of ______ between countries.",
+      "options": ["People", "Goods, services and investments", "Land", "Rivers"],
+      "correctIndex": 1,
+      "explanation": "While people move, the volume of trade and capital flows has been the most significant aspect of globalisation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec4_q32",
+      "text": "The entry of MNCs in the service sector in India has created new jobs in fields like:",
+      "options": ["Traditional farming", "Data entry and administrative tasks", "Hand-weaving", "Fishing"],
+      "correctIndex": 1,
+      "explanation": "Services that can be off-shored have seen significant growth in India.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec4_q33",
+      "text": "MNCs sometimes set up production jointly with some of the local companies. The main benefit to the local company is:",
+      "options": ["They can stop working", "MNCs provide money for additional investments and latest technology", "MNCs take all the profit", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Partnerships allow local companies to upgrade their production standards.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec4_q34",
+      "text": "Globalisation has also created new ______ for companies providing services.",
+      "options": ["Barriers", "Taxes", "Opportunities", "Conflicts"],
+      "correctIndex": 2,
+      "explanation": "Indian IT and software companies have gained immensely from global demand.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec4_q35",
+      "text": "Which of the following is a 'Top Indian Company' that has emerged as an MNC?",
+      "options": ["Tata Motors", "Infosys", "Ranbaxy", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Many Indian companies have expanded their operations to various countries across the globe.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec4_q36",
+      "text": "Small producers who were unable to compete with MNCs had to ______ their units.",
+      "options": ["Expand", "Close down", "Sell to government", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Competition from large-scale, low-cost global production is often fatal for small-scale local units.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec4_q37",
+      "text": "Under the influence of MNCs, jobs for many workers have become ______.",
+      "options": ["Permanent", "Flexible and insecure", "Very easy", "None of these"],
+      "correctIndex": 1,
+      "explanation": "The pressure of competition and cost-cutting has led to a rise in informal and temporary employment.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec4_q38",
+      "text": "The government of India can support small producers to improve their performance until they become ______ enough to compete.",
+      "options": ["Rich", "Strong", "Large", "Old"],
+      "correctIndex": 1,
+      "explanation": "Protecting 'infant' industries is a common strategy in developing nations.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_ec4_q39",
+      "text": "World Trade Organisation (WTO) is criticized for ______ the developing countries to open their economies.",
+      "options": ["Helping", "Pressurizing", "Inviting", "Ignoring"],
+      "correctIndex": 1,
+      "explanation": "Many believe the WTO acts as a tool for rich nations to access markets in poorer countries.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec4_q40",
+      "text": "Foreign trade and integration of markets results in ______ of prices of similar goods in two markets.",
+      "options": ["Widening", "Equalization", "Doubling", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Competition tends to bring prices closer across different regional markets.",
+      "frequencyRating": 4
+    }
+  ]
+}

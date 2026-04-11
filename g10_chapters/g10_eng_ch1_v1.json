@@ -1,0 +1,330 @@
+{
+  "id": "g10_eng_ch1",
+  "grade": "10",
+  "subject": "English",
+  "number": "1",
+  "title": "A Letter to God",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_en1_q1",
+      "text": "Where was Lencho's house located?",
+      "options": ["In a village", "On the crest of a low hill", "In a valley", "Near a river"],
+      "correctIndex": 1,
+      "explanation": "Lencho's house was the only one in the entire valley, situated on the top of a low hill.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en1_q2",
+      "text": "What was the only thing that the earth needed, according to Lencho?",
+      "options": ["Seeds", "A tractor", "A downpour or at least a shower", "Fertilizer"],
+      "correctIndex": 2,
+      "explanation": "Lencho was a farmer who was waiting for rain to ensure a good harvest of his corn.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en1_q3",
+      "text": "What did Lencho compare the large raindrops to?",
+      "options": ["Silver coins", "New coins", "Pearls", "Diamonds"],
+      "correctIndex": 1,
+      "explanation": "He compared them to new coins—the big drops being ten-cent pieces and the small ones fives.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en1_q4",
+      "text": "What destroyed Lencho's fields?",
+      "options": ["Heavy rainfall", "Hailstorm", "Landslide", "Flood"],
+      "correctIndex": 1,
+      "explanation": "The rain suddenly changed into a hailstorm with very large hailstones that lasted for an hour.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en1_q5",
+      "text": "The hailstones were compared to ______ in the text.",
+      "options": ["New coins", "Frozen pearls", "Ice cubes", "Silver stones"],
+      "correctIndex": 1,
+      "explanation": "The author describes the hailstones as truly resembling new silver coins or 'frozen pearls'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en1_q6",
+      "text": "Lencho said, 'A plague of ______ would have left more than this.'",
+      "options": ["Rats", "Locusts", "Wolves", "Insects"],
+      "correctIndex": 1,
+      "explanation": "He used the comparison of a locust attack to express the total devastation caused by the hail.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en1_q7",
+      "text": "What was Lencho's only hope after the destruction of his crops?",
+      "options": ["Help from relatives", "Help from neighbors", "Help from God", "Government subsidy"],
+      "correctIndex": 2,
+      "explanation": "Lencho had deep, unwavering faith in God and believed God would see everything and help him.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en1_q8",
+      "text": "How much money did Lencho ask for in his first letter?",
+      "options": ["50 pesos", "100 pesos", "70 pesos", "1000 pesos"],
+      "correctIndex": 1,
+      "explanation": "He asked for 100 pesos to sow his field again and to live until the next crop came.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en1_q9",
+      "text": "Who was the first person to see Lencho's letter at the post office?",
+      "options": ["The Postmaster", "A postman", "A clerk", "A delivery boy"],
+      "correctIndex": 1,
+      "explanation": "A postman, who was also an employee at the office, found the letter addressed to God and laughed.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en1_q10",
+      "text": "What was the initial reaction of the postmaster when he saw the letter?",
+      "options": ["He was angry", "He started crying", "He broke out laughing", "He ignored it"],
+      "correctIndex": 2,
+      "explanation": "Like the postman, he first laughed at the address but soon became serious about the sender's faith.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en1_q11",
+      "text": "What kind of a person was the postmaster?",
+      "options": ["Cruel and rude", "Fat and amiable", "Thin and selfish", "Strict and disciplined"],
+      "correctIndex": 1,
+      "explanation": "The text describes the postmaster as a fat, amiable (friendly and pleasant) fellow.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en1_q12",
+      "text": "Why did the postmaster decide to answer the letter?",
+      "options": ["To make fun of Lencho", "To show his power", "So as not to shake the writer's faith in God", "To steal the money"],
+      "correctIndex": 2,
+      "explanation": "He was impressed by Lencho's deep faith and didn't want him to lose it.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en1_q13",
+      "text": "How much money was the postmaster able to collect?",
+      "options": ["100 pesos", "70 pesos", "50 pesos", "80 pesos"],
+      "correctIndex": 1,
+      "explanation": "Despite his best efforts and contributing part of his salary, he could only collect a little more than half—70 pesos.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en1_q14",
+      "text": "How did the postmaster sign the letter back to Lencho?",
+      "options": ["The Postmaster", "Friends", "God", "Anonymous"],
+      "correctIndex": 2,
+      "explanation": "He signed it 'God' so that Lencho would believe the money actually came from God.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en1_q15",
+      "text": "Why was Lencho not surprised when he found the money in the envelope?",
+      "options": ["He was too rich", "His confidence in God was absolute", "He knew the postmaster helped", "He was ungrateful"],
+      "correctIndex": 1,
+      "explanation": "His faith was so strong that he expected a reply and help from God as a matter of fact.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en1_q16",
+      "text": "Why did Lencho become angry after counting the money?",
+      "options": ["There was no money", "The money was less than he asked for", "The money was too much", "The coins were old"],
+      "correctIndex": 1,
+      "explanation": "He found only 70 pesos instead of the 100 he had requested.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en1_q17",
+      "text": "Whom did Lencho blame for the missing money?",
+      "options": ["God", "The Post-office employees", "His family", "His neighbors"],
+      "correctIndex": 1,
+      "explanation": "He believed God could not have made a mistake and concluded the employees took the rest.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en1_q18",
+      "text": "What did Lencho call the post-office employees?",
+      "options": ["Helpful people", "A bunch of crooks", "Kind-hearted", "Thieves"],
+      "correctIndex": 1,
+      "explanation": "He referred to them as a 'bunch of crooks' in his second letter to God.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en1_q19",
+      "text": "What was the irony in the story?",
+      "options": ["Lencho was a farmer", "It rained heavily", "The people who helped Lencho were called crooks by him", "God did not reply"],
+      "correctIndex": 2,
+      "explanation": "Irony is when the opposite of what is expected happens; here, the benefactors were accused of being thieves.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en1_q20",
+      "text": "How did Lencho fix the stamp to the envelope?",
+      "options": ["With glue", "With a pin", "With a blow of his fist", "With tape"],
+      "correctIndex": 2,
+      "explanation": "He licked the stamp and then affixed it to the envelope with a strong blow of his fist.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_en1_q21",
+      "text": "What did Lencho do for a living?",
+      "options": ["He was a postman", "He was an ox of a man (farmer)", "He was a businessman", "He was a teacher"],
+      "correctIndex": 1,
+      "explanation": "Lencho was a hardworking farmer who worked like an animal in his fields.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en1_q22",
+      "text": "What was the color of the field after the hailstorm?",
+      "options": ["Green", "Yellow", "White as if covered with salt", "Brown"],
+      "correctIndex": 2,
+      "explanation": "The hail covered everything in white, making the field look like it was covered in salt.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en1_q23",
+      "text": "Lencho's letter reached God through:",
+      "options": ["The wind", "The post-office", "His prayers only", "A messenger"],
+      "correctIndex": 1,
+      "explanation": "In the story, he literally posted a letter addressed to 'God' at the local post-office.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en1_q24",
+      "text": "The field of ripe corn was dotted with ______.",
+      "options": ["Leaves", "Flowers", "Locusts", "Hailstones"],
+      "correctIndex": 1,
+      "explanation": "The flowers always promised a good harvest.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_en1_q25",
+      "text": "How did Lencho feel when it started raining?",
+      "options": ["Very happy", "Sad", "Afraid", "Anxious"],
+      "correctIndex": 0,
+      "explanation": "He went out to have the pleasure of feeling the rain on his body.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en1_q26",
+      "text": "What did Lencho think of the post office employees?",
+      "options": ["Honest", "Arrogant", "Crooks", "Helpful"],
+      "correctIndex": 2,
+      "explanation": "He believed they stole 30 pesos from the envelope God sent.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en1_q27",
+      "text": "What was the weather like when Lencho and his family were having dinner?",
+      "options": ["Sunny", "It started raining", "Cloudy", "Windy"],
+      "correctIndex": 1,
+      "explanation": "Huge mountains of clouds were seen approaching from the northeast.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_en1_q28",
+      "text": "What was the name of the author of 'A Letter to God'?",
+      "options": ["G.L. Fuentes", "Nelson Mandela", "Robert Frost", "Anne Frank"],
+      "correctIndex": 0,
+      "explanation": "Gregorio Lopez Fuentes is the Mexican writer of this story.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en1_q29",
+      "text": "In his second letter, Lencho asked God not to send the money through the mail because:",
+      "options": ["It was slow", "The post-office employees were crooks", "He didn't need it", "He wanted to visit God"],
+      "correctIndex": 1,
+      "explanation": "He suspected the staff of stealing his money.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en1_q30",
+      "text": "What does 'ox of a man' mean?",
+      "options": ["He looked like an ox", "He was hardworking", "He was slow", "He was angry"],
+      "correctIndex": 1,
+      "explanation": "It is a metaphor used to describe his physical strength and capacity for hard work.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en1_q31",
+      "text": "The postmaster decided to help Lencho by ______.",
+      "options": ["Giving him a job", "Collecting money from employees and friends", "Sowing his fields", "Praying for him"],
+      "correctIndex": 1,
+      "explanation": "He collected money as an 'act of charity'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en1_q32",
+      "text": "For how long did the hail rain on the valley?",
+      "options": ["Five minutes", "A whole day", "An hour", "Thirty minutes"],
+      "correctIndex": 2,
+      "explanation": "The hail rained for an hour on the house, the garden, the hillside, and the whole valley.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_en1_q33",
+      "text": "What was Lencho's soul filled with when the storm passed?",
+      "options": ["Joy", "Sadness", "Anger", "Pride"],
+      "correctIndex": 1,
+      "explanation": "Looking at the total destruction, he was deeply saddened.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en1_q34",
+      "text": "Lencho had written the letter on a ______.",
+      "options": ["Monday", "Friday", "Sunday", "Saturday"],
+      "correctIndex": 2,
+      "explanation": "At daybreak on Sunday, he began to write the letter.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_en1_q35",
+      "text": "The postmaster was impressed by Lencho's ______.",
+      "options": ["Handwriting", "Faith in God", "Anger", "Hard work"],
+      "correctIndex": 1,
+      "explanation": "He exclaimed, 'What faith! I wish I had the faith of the man who wrote this letter.'",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en1_q36",
+      "text": "How many letters did Lencho write to God in total?",
+      "options": ["One", "Two", "Three", "Many"],
+      "correctIndex": 1,
+      "explanation": "He wrote the first letter asking for money, and a second letter after receiving only 70 pesos.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en1_q37",
+      "text": "What does the story 'A Letter to God' teach us?",
+      "options": ["Faith can move mountains", "Postmen are bad", "Nature is cruel", "Don't write letters"],
+      "correctIndex": 0,
+      "explanation": "It explores the power of innocent faith and the kindness of strangers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en1_q38",
+      "text": "Where did Lencho go to post his letter?",
+      "options": ["To the city", "To the town post-office", "To the hill", "To the river"],
+      "correctIndex": 1,
+      "explanation": "He went to town to place the letter in the mail.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_en1_q39",
+      "text": "The corn field belonged to ______.",
+      "options": ["The Postmaster", "Lencho", "The villagers", "A landlord"],
+      "correctIndex": 1,
+      "explanation": "It was Lencho's personal property and source of income.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en1_q40",
+      "text": "Which of these words describes Lencho's character?",
+      "options": ["Greedy", "Sophisticated", "Naive and Faithful", "Deceitful"],
+      "correctIndex": 2,
+      "explanation": "He is depicted as simple, hardworking, and having child-like faith.",
+      "frequencyRating": 4
+    }
+  ]
+}

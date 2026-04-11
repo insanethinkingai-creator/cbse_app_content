@@ -1,0 +1,50 @@
+{
+  "id": "g10_geo_ch2",
+  "grade": "10",
+  "subject": "Geography",
+  "number": "2",
+  "title": "Forest and Wildlife Resources",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_g2_q1",
+      "text": "Which of the following categories of forests are regarded as the most valuable as far as the conservation of nature is concerned?",
+      "options": ["Reserved forests", "Protected forests", "Unclassed forests", "Open forests"],
+      "correctIndex": 0,
+      "explanation": "Reserved forests are considered most valuable for conservation; more than half of the total forest land has been declared reserved.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g2_q2",
+      "text": "The Buxa Tiger Reserve in West Bengal is seriously threatened by:",
+      "options": ["Deforestation", "Dolomite mining", "Industrialization", "Agricultural expansion"],
+      "correctIndex": 1,
+      "explanation": "The ongoing dolomite mining in the Buxa Tiger Reserve has caused severe ecological damage and blocked migration routes of animals.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g2_q3",
+      "text": "Species which are in danger of extinction are known as:",
+      "options": ["Vulnerable species", "Endangered species", "Rare species", "Endemic species"],
+      "correctIndex": 1,
+      "explanation": "Endangered species are those whose population has declined to levels where they are at risk of disappearing entirely.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g2_q4",
+      "text": "In which year was the Indian Wildlife (Protection) Act implemented?",
+      "options": ["1970", "1972", "1975", "1980"],
+      "correctIndex": 1,
+      "explanation": "The Indian Wildlife (Protection) Act was implemented in 1972 with various provisions for protecting habitats and species.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g2_q5",
+      "text": "Which state has the largest area under permanent forests?",
+      "options": ["Odisha", "Madhya Pradesh", "Chhattisgarh", "Assam"],
+      "correctIndex": 1,
+      "explanation": "Madhya Pradesh has the largest area under permanent forests, constituting 75% of its total forest area.",
+      "frequencyRating": 5
+    }
+  ]
+}

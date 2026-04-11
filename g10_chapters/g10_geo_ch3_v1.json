@@ -1,0 +1,330 @@
+{
+  "id": "g10_geo_ch3",
+  "grade": "10",
+  "subject": "Geography",
+  "number": "3",
+  "title": "Water Resources",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_g3_q1",
+      "text": "What percentage of the Earth's surface is covered with water?",
+      "options": ["50%", "71%", "90%", "25%"],
+      "correctIndex": 1,
+      "explanation": "About three-fourths of the Earth's surface is covered with water, but only a small portion is fresh water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g3_q2",
+      "text": "Fresh water is mainly obtained from surface run-off and groundwater that is continually being renewed through the:",
+      "options": ["Sulphur cycle", "Nitrogen cycle", "Hydrological cycle", "Carbon cycle"],
+      "correctIndex": 2,
+      "explanation": "The water cycle ensures that water is a renewable resource.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g3_q3",
+      "text": "Which of the following is NOT a cause of water scarcity?",
+      "options": ["Growing population", "Industrialization", "Rainwater harvesting", "Over-exploitation"],
+      "correctIndex": 2,
+      "explanation": "Rainwater harvesting is a conservation method, not a cause of scarcity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g3_q4",
+      "text": "Water scarcity in most cases is caused by over-exploitation, excessive use and ______ access to water among different social groups.",
+      "options": ["Equal", "Unequal", "Limited", "Governmental"],
+      "correctIndex": 1,
+      "explanation": "Social inequalities often lead to disparities in water availability.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g3_q5",
+      "text": "Post-independent India witnessed intensive ______ and urbanization which increased the pressure on water resources.",
+      "options": ["Agriculture", "Industrialization", "Forestry", "Mining"],
+      "correctIndex": 1,
+      "explanation": "Large industrial houses use huge amounts of water and also require electricity from hydroelectric power.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g3_q6",
+      "text": "Dams were traditionally built to impound rivers and rainwater that could be used later to:",
+      "options": ["Produce salt", "Irrigate agricultural fields", "Stop fish migration", "Cool the air"],
+      "correctIndex": 1,
+      "explanation": "The primary purpose of ancient and many modern dams is irrigation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g3_q7",
+      "text": "Who proclaimed dams as the 'Temples of Modern India'?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "Indira Gandhi"],
+      "correctIndex": 1,
+      "explanation": "Nehru believed that multi-purpose projects would integrate agriculture with industry and lead to development.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g3_q8",
+      "text": "Bhakra Nangal project is built on which river basin?",
+      "options": ["Ganga", "Sutlej-Beas", "Mahanadi", "Krishna"],
+      "correctIndex": 1,
+      "explanation": "The Bhakra-Nangal project is used both for hydel power production and irrigation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g3_q9",
+      "text": "The Hirakud project is located in the ______ basin.",
+      "options": ["Narmada", "Godavari", "Mahanadi", "Kaveri"],
+      "correctIndex": 2,
+      "explanation": "The Hirakud dam in Odisha integrates conservation of water with flood control.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g3_q10",
+      "text": "What is a disadvantage of large multi-purpose river projects?",
+      "options": ["Flood control", "Generation of electricity", "Large scale displacement of local communities", "Inland navigation"],
+      "correctIndex": 2,
+      "explanation": "Dams often lead to the submergence of land and loss of livelihoods for local and tribal people.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g3_q11",
+      "text": "The 'Narmada Bachao Andolan' is a movement against the construction of which dam?",
+      "options": ["Tehri Dam", "Hirakud Dam", "Sardar Sarovar Dam", "Bhakra Dam"],
+      "correctIndex": 2,
+      "explanation": "This NGO-led movement focused on the environmental issues and rehabilitation of displaced people in Gujarat.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g3_q12",
+      "text": "Sardar Sarovar Dam is built on the river:",
+      "options": ["Tapi", "Narmada", "Sabarmati", "Mahi"],
+      "correctIndex": 1,
+      "explanation": "It is one of the largest water resource projects of India covering four states.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g3_q13",
+      "text": "Which of the following is a traditional method of rainwater harvesting in the hilly regions of the Himalayas?",
+      "options": ["Kuls or Guls", "Tanka", "Johad", "Khadin"],
+      "correctIndex": 0,
+      "explanation": "Guls or Kuls are diversion channels used for agriculture in the Western Himalayas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g3_q14",
+      "text": "'Rooftop rainwater harvesting' was commonly practiced to store drinking water, particularly in:",
+      "options": ["West Bengal", "Rajasthan", "Kerala", "Assam"],
+      "correctIndex": 1,
+      "explanation": "In semi-arid regions of Rajasthan, almost all houses traditionally had tanks for storing rainwater.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g3_q15",
+      "text": "The underground tanks for storing drinking water in Rajasthan are called:",
+      "options": ["Johads", "Khadins", "Tankas", "Baolis"],
+      "correctIndex": 2,
+      "explanation": "Tankas are large underground storage systems, sometimes as big as a room.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g3_q16",
+      "text": "Rainwater is often referred to locally as ______ in Rajasthan, considered the purest form of natural water.",
+      "options": ["Ganga Jal", "Palar Pani", "Amrit", "Sagar Jal"],
+      "correctIndex": 1,
+      "explanation": "Palar pani is the local term for the harvested rainwater used during dry seasons.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g3_q17",
+      "text": "In which state is rooftop rainwater harvesting made legally compulsory for all houses?",
+      "options": ["Rajasthan", "Tamil Nadu", "Maharashtra", "Karnataka"],
+      "correctIndex": 1,
+      "explanation": "Tamil Nadu is the first state in India to make rooftop rainwater harvesting mandatory.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g3_q18",
+      "text": "A 200-year-old system of 'Bamboo drip irrigation' is prevalent in which state?",
+      "options": ["Assam", "Meghalaya", "Nagaland", "Tripura"],
+      "correctIndex": 1,
+      "explanation": "In Meghalaya, bamboo pipes are used to tap stream and spring water for irrigation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g3_q19",
+      "text": "Large-scale inter-state water disputes often occur due to the construction of:",
+      "options": ["Small ponds", "Dams on common rivers", "Rainwater tanks", "Inland canals"],
+      "correctIndex": 1,
+      "explanation": "Sharing the costs and benefits of multi-purpose projects leads to disputes, like the Krishna-Godavari dispute.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g3_q20",
+      "text": "What is the main cause of the declining groundwater table in India?",
+      "options": ["Low rainfall", "Excessive pumping for irrigation and industries", "Evaporation", "Construction of roads"],
+      "correctIndex": 1,
+      "explanation": "Over-exploitation of tube wells for intensive farming has severely depleted aquifers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g3_q21",
+      "text": "The diversion of water to 'urban centers' like Mumbai during droughts led to a riot by farmers in which basin?",
+      "options": ["Ganga", "Narmada", "Sabarmati", "Krishna"],
+      "correctIndex": 2,
+      "explanation": "Farmers were agitated because priority was given to urban water supply over rural irrigation.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_g3_q22",
+      "text": "Dams are also known as 'multi-purpose projects' because they:",
+      "options": ["Have only one use", "Serve several purposes simultaneously", "Are very expensive", "Are built by many people"],
+      "correctIndex": 1,
+      "explanation": "They provide irrigation, electricity, flood control, fish breeding, and recreation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g3_q23",
+      "text": "Which of the following is an example of an 'Inundation Canal'?",
+      "options": ["Perennial canal", "Canal used only during floods", "Lined canal", "Underground pipe"],
+      "correctIndex": 1,
+      "explanation": "These canals are designed to take off water from rivers only when they are in high flood.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_g3_q24",
+      "text": "Agricultural fields converted into rain-fed storage structures in Jaisalmer are called:",
+      "options": ["Tankas", "Khadins", "Guls", "Baolis"],
+      "correctIndex": 1,
+      "explanation": "Khadins (and Johads in other parts of Rajasthan) allow water to stand and moisten the soil.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g3_q25",
+      "text": "Multipurpose projects and large dams have also been the cause of many ______ movements.",
+      "options": ["Political", "Social and Environmental", "Religious", "Scientific"],
+      "correctIndex": 1,
+      "explanation": "Movements like 'Tehri Dam Andolan' focus on the negative impacts of large dams.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g3_q26",
+      "text": "What does 'water stress' refer to?",
+      "options": ["Plenty of water", "Difficulty in finding sources of fresh water for use", "High water pressure", "Water pollution only"],
+      "correctIndex": 1,
+      "explanation": "It occurs when the demand for water exceeds the available amount during a certain period.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g3_q27",
+      "text": "According to Falken Mark, water stress occurs when water availability is less than ______ cubic meters per person per year.",
+      "options": ["500", "1000", "1600", "2000"],
+      "correctIndex": 1,
+      "explanation": "1000 cubic meters is the standard threshold for defining water stress.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_g3_q28",
+      "text": "Rainwater harvesting is a viable alternative to ______ projects which are under scrutiny.",
+      "options": ["Forestry", "Multi-purpose river", "Road building", "Solar energy"],
+      "correctIndex": 1,
+      "explanation": "It is socially, economically, and environmentally more acceptable than large dams.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g3_q29",
+      "text": "In Bengal, people developed ______ to irrigate their fields.",
+      "options": ["Guls", "Inundation channels", "Tankas", "Drip systems"],
+      "correctIndex": 1,
+      "explanation": "Floodwater was diverted through these channels to water crops in the plains.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_g3_q30",
+      "text": "Which city has a remote village called Gendathur that has achieved distinction in rainwater harvesting?",
+      "options": ["Jaipur", "Mysuru", "Bhopal", "Patna"],
+      "correctIndex": 1,
+      "explanation": "Nearly 200 households in this village have installed rooftop harvesting systems.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_g3_q31",
+      "text": "The Krishna-Godavari dispute is primarily between which state governments?",
+      "options": ["Karnataka and Andhra Pradesh", "Punjab and Haryana", "Tamil Nadu and Kerala", "Bihar and Odisha"],
+      "correctIndex": 0,
+      "explanation": "The dispute is over the diversion of more water at Koyna by the Maharashtra government.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g3_q32",
+      "text": "Dams are classified according to their structure, purpose or ______.",
+      "options": ["Cost", "Height", "Color", "Owner"],
+      "correctIndex": 1,
+      "explanation": "Based on height, they can be large, medium or low dams.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_g3_q33",
+      "text": "What is the primary factor leading to water pollution in India?",
+      "options": ["Fishing", "Domestic and industrial wastes", "Evaporation", "Animal drinking"],
+      "correctIndex": 1,
+      "explanation": "Discharge of untreated sewage and chemical effluents into rivers makes them unfit for use.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g3_q34",
+      "text": "Hydroelectric power contributes approximately ______ of the total electricity produced in India.",
+      "options": ["10%", "22%", "50%", "75%"],
+      "correctIndex": 1,
+      "explanation": "Hydropower is a significant source of renewable energy in the country.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g3_q35",
+      "text": "Modern dams act as a barrier across flowing water that ______.",
+      "options": ["Stops flow entirely", "Obstructs, directs or retards the flow", "Dries up the river", "None of these"],
+      "correctIndex": 1,
+      "explanation": "The reservoir created by the dam is the key component for water management.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g3_q36",
+      "text": "Regulating and damming of rivers affects their natural flow causing excessive ______ at the bottom.",
+      "options": ["Pollution", "Sedimentation", "Oxygen", "Water pressure"],
+      "correctIndex": 1,
+      "explanation": "Natural flow is essential for moving sediments; dams trap them, leading to rockier stream beds.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g3_q37",
+      "text": "Submergence of ______ under the reservoir water leads to their decomposition over a period of time.",
+      "options": ["Rocks", "Vegetation and soil", "Dams", "Fish"],
+      "correctIndex": 1,
+      "explanation": "Submerged forests and fertile land are lost permanently.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g3_q38",
+      "text": "Multi-purpose projects have failed to achieve the very purpose for which they were built - ______.",
+      "options": ["Irrigation", "Electricity", "Flood control", "Navigation"],
+      "correctIndex": 2,
+      "explanation": "Ironically, sedimentation in reservoirs has sometimes triggered floods during heavy rainfall.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_g3_q39",
+      "text": "In ancient India, Sringaverapura near Allahabad had a sophisticated water harvesting system channeling the flood water of river:",
+      "options": ["Yamuna", "Ganga", "Indus", "Narmada"],
+      "correctIndex": 1,
+      "explanation": "This 1st-century BC system is a remarkable example of hydraulic engineering.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_g3_q40",
+      "text": "During the time of ______, dams, lakes and irrigation systems were extensively built.",
+      "options": ["Ashoka", "Chandragupta Maurya", "Akbar", "Shah Jahan"],
+      "correctIndex": 1,
+      "explanation": "Mauryan administration was famous for its large-scale water management projects.",
+      "frequencyRating": 3
+    }
+  ]
+}

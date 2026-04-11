@@ -8,323 +8,43 @@
   "questions": [
     {
       "id": "g10_h2_q1",
-      "text": "Mahatma Gandhi returned to India from South Africa in:",
-      "options": ["January 1915", "March 1919", "August 1920", "January 1921"],
-      "correctIndex": 0,
-      "explanation": "After successfully leading a Satyagraha movement in South Africa, Gandhi returned to India in 1915.",
+      "text": "In which year did Mahatma Gandhi return to India from South Africa?",
+      "options": ["1913", "1915", "1917", "1919"],
+      "correctIndex": 1,
+      "explanation": "Mahatma Gandhi returned to India in January 1915 after successfully leading a non-violent protest in South Africa.",
       "frequencyRating": 5
     },
     {
       "id": "g10_h2_q2",
-      "text": "The idea of Satyagraha emphasized the power of:",
-      "options": ["Violence", "Truth", "Money", "Military"],
+      "text": "The Rowlatt Act of 1919 allowed the government to:",
+      "options": ["Increase taxes", "Detain political prisoners without trial", "Control the press", "Ban all religions"],
       "correctIndex": 1,
-      "explanation": "Satyagraha means 'truth-force'; it emphasizes the power of truth and the need to search for truth.",
+      "explanation": "The Rowlatt Act gave the British government enormous powers to repress political activities and allowed detention without trial for up to two years.",
       "frequencyRating": 5
     },
     {
       "id": "g10_h2_q3",
-      "text": "Where did Gandhi launch the first Satyagraha movement in India?",
-      "options": ["Kheda", "Champaran", "Ahmedabad", "Bardoli"],
-      "correctIndex": 1,
-      "explanation": "In 1917, Gandhi traveled to Champaran, Bihar, to inspire peasants to struggle against the oppressive indigo plantation system.",
+      "text": "Who was the author of the book 'Hind Swaraj'?",
+      "options": ["Jawaharlal Nehru", "Subhas Chandra Bose", "Mahatma Gandhi", "Rabindranath Tagore"],
+      "correctIndex": 2,
+      "explanation": "In 'Hind Swaraj' (1909), Mahatma Gandhi declared that British rule was established in India with the cooperation of Indians.",
       "frequencyRating": 5
     },
     {
       "id": "g10_h2_q4",
-      "text": "The Rowlatt Act was passed by the Imperial Legislative Council in:",
-      "options": ["1917", "1918", "1919", "1920"],
-      "correctIndex": 2,
-      "explanation": "Despite the opposition of Indian members, the Act was passed in 1919, allowing the government to detain political prisoners without trial.",
+      "text": "What led to the withdrawal of the Non-Cooperation Movement in 1922?",
+      "options": ["Jallianwala Bagh Massacre", "Chauri Chaura incident", "The arrest of Gandhiji", "The Second Round Table Conference"],
+      "correctIndex": 1,
+      "explanation": "Gandhiji called off the movement after a violent incident at Chauri Chaura where a police station was set on fire by protesters.",
       "frequencyRating": 5
     },
     {
       "id": "g10_h2_q5",
-      "text": "When did the Jallianwala Bagh massacre take place?",
-      "options": ["10 April 1919", "13 April 1919", "15 April 1919", "20 April 1919"],
+      "text": "Which movement was started by the 'Dandi March'?",
+      "options": ["Non-Cooperation Movement", "Civil Disobedience Movement", "Quit India Movement", "Khilafat Movement"],
       "correctIndex": 1,
-      "explanation": "On the day of Baisakhi, General Dyer opened fire on a peaceful crowd gathered in Jallianwala Bagh.",
+      "explanation": "The Civil Disobedience Movement began in 1930 when Gandhiji reached Dandi and ceremonially violated the salt law.",
       "frequencyRating": 5
-    },
-    {
-      "id": "g10_h2_q6",
-      "text": "Who was responsible for the Jallianwala Bagh incident?",
-      "options": ["Lord Irwin", "General Dyer", "Lord Curzon", "Mountbatten"],
-      "correctIndex": 1,
-      "explanation": "General Dyer blocked the exit points and ordered his troops to fire on the crowd to 'produce a moral effect'.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h2_q7",
-      "text": "The Khilafat Committee was formed in Bombay in 1919 to support the Sultan of:",
-      "options": ["Egypt", "Iran", "Turkey", "Saudi Arabia"],
-      "correctIndex": 2,
-      "explanation": "The Ottoman Sultan (Khalifa) was the spiritual head of the Islamic world, and Indian Muslims formed the committee to defend his powers.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h2_q8",
-      "text": "Who wrote the book 'Hind Swaraj'?",
-      "options": ["Jawaharlal Nehru", "Subhas Chandra Bose", "Mahatma Gandhi", "B.R. Ambedkar"],
-      "correctIndex": 2,
-      "explanation": "In 1909, Gandhi declared in 'Hind Swaraj' that British rule survived in India only because of the cooperation of Indians.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h2_q9",
-      "text": "The Non-Cooperation-Khilafat Movement began in:",
-      "options": ["January 1921", "December 1920", "April 1919", "February 1922"],
-      "correctIndex": 0,
-      "explanation": "The movement was formally launched in January 1921 after being adopted at the Nagpur Congress session.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h2_q10",
-      "text": "The incident that led to the withdrawal of the Non-Cooperation Movement was:",
-      "options": ["Jallianwala Bagh", "Chauri Chaura", "Dandi March", "Simon Commission"],
-      "correctIndex": 1,
-      "explanation": "In February 1922, a violent clash at Chauri Chaura led Gandhi to call off the movement as it was turning violent.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h2_q11",
-      "text": "Who were the founders of the Swaraj Party?",
-      "options": ["Gandhi and Nehru", "C.R. Das and Motilal Nehru", "Ambedkar and Gandhi", "Bose and Patel"],
-      "correctIndex": 1,
-      "explanation": "C.R. Das and Motilal Nehru formed the party within Congress to argue for a return to council politics.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h2_q12",
-      "text": "The Simon Commission was boycotted in India because:",
-      "options": ["It was too expensive", "It had no Indian members", "It supported the King", "It was led by Simon"],
-      "correctIndex": 1,
-      "explanation": "The statutory commission sent to suggest constitutional changes in India consisted entirely of British members.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h2_q13",
-      "text": "The demand for 'Purna Swaraj' (Full Independence) was formalized in the Congress session at:",
-      "options": ["Nagpur", "Calcutta", "Lahore", "Madras"],
-      "correctIndex": 2,
-      "explanation": "In December 1929, under the presidency of Jawaharlal Nehru, the Lahore Congress formalized the demand for Purna Swaraj.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h2_q14",
-      "text": "Mahatma Gandhi started the Salt March from Sabarmati to:",
-      "options": ["Surat", "Dandi", "Ahmedabad", "Bombay"],
-      "correctIndex": 1,
-      "explanation": "The 240-mile march ended at the coastal town of Dandi, where Gandhi broke the salt law.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h2_q15",
-      "text": "How many volunteers accompanied Gandhi on the Salt March?",
-      "options": ["50", "78", "100", "240"],
-      "correctIndex": 1,
-      "explanation": "Gandhi started the march with 78 of his trusted volunteers.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_h2_q16",
-      "text": "The Gandhi-Irwin Pact was signed in:",
-      "options": ["1930", "1931", "1932", "1935"],
-      "correctIndex": 1,
-      "explanation": "Signed on 5 March 1931, Gandhi agreed to participate in the Round Table Conference and call off the Civil Disobedience Movement.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h2_q17",
-      "text": "Who organized the Dalits into the Depressed Classes Association in 1930?",
-      "options": ["Mahatma Gandhi", "B.R. Ambedkar", "Jawaharlal Nehru", "Jyotiba Phule"],
-      "correctIndex": 1,
-      "explanation": "Dr. Ambedkar championed the cause of Dalits and clashed with Gandhi over separate electorates.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h2_q18",
-      "text": "The Poona Pact of September 1932 was signed between:",
-      "options": ["Gandhi and Irwin", "Gandhi and Ambedkar", "Nehru and Jinnah", "British and Congress"],
-      "correctIndex": 1,
-      "explanation": "The pact gave reserved seats to the Depressed Classes in provincial and central councils instead of separate electorates.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h2_q19",
-      "text": "Who painted the first image of 'Bharat Mata'?",
-      "options": ["Rabindranath Tagore", "Abanindranath Tagore", "Nainsukh", "Raja Ravi Varma"],
-      "correctIndex": 1,
-      "explanation": "Abanindranath Tagore portrayed Bharat Mata as an ascetic figure, calm, composed, divine, and spiritual.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_h2_q20",
-      "text": "Who composed the song 'Vande Mataram'?",
-      "options": ["Rabindranath Tagore", "Bankim Chandra Chattopadhyay", "Sarojini Naidu", "Lala Lajpat Rai"],
-      "correctIndex": 1,
-      "explanation": "It was written in the 1870s as a hymn to the motherland and later included in the novel 'Anandamath'.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h2_q21",
-      "text": "The Inland Emigration Act of 1859 was harsh for:",
-      "options": ["Businessmen", "Plantation workers", "Students", "Lawyers"],
-      "correctIndex": 1,
-      "explanation": "Under this act, plantation workers in Assam were not permitted to leave the tea gardens without permission.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_h2_q22",
-      "text": "What was the main reason for the growth of nationalism in the colonies?",
-      "options": ["Spread of education", "Anti-colonial movement", "Railway expansion", "Religious reform"],
-      "correctIndex": 1,
-      "explanation": "The struggle against colonial rule provided a shared bond that united different groups.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_h2_q23",
-      "text": "The First World War created a new economic and political situation in India by:",
-      "options": ["Reducing taxes", "Introducing income tax and increasing customs duties", "Lowering prices", "Increasing exports"],
-      "correctIndex": 1,
-      "explanation": "To finance war expenditures, the British government increased taxes and introduced income tax in India.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h2_q24",
-      "text": "Which movement was launched against the Salt tax?",
-      "options": ["Non-Cooperation", "Civil Disobedience", "Quit India", "Khilafat"],
-      "correctIndex": 1,
-      "explanation": "The Salt March marked the beginning of the Civil Disobedience Movement.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h2_q25",
-      "text": "Who led the peasant movement in Awadh?",
-      "options": ["Baba Ramchandra", "Alluri Sitarama Raju", "Birsa Munda", "Mahatma Gandhi"],
-      "correctIndex": 0,
-      "explanation": "Baba Ramchandra, a sanyasi, led peasants against high rents and 'begar' (unpaid labor).",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_h2_q26",
-      "text": "What was the significance of 26 January 1930?",
-      "options": ["Gandhi's birthday", "Independence Day celebration (Purna Swaraj)", "End of WW1", "Rowlatt Act passed"],
-      "correctIndex": 1,
-      "explanation": "The Lahore Congress declared 26 Jan 1930 as Independence Day to be celebrated annually.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h2_q27",
-      "text": "Alluri Sitarama Raju is known for leading a tribal movement in:",
-      "options": ["Gudem Hills of Andhra Pradesh", "Chotanagpur", "Assam", "Gujarat"],
-      "correctIndex": 0,
-      "explanation": "He led a militant guerrilla movement against colonial forest laws.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_h2_q28",
-      "text": "The 'Oudh Kisan Sabha' was headed by:",
-      "options": ["Mahatma Gandhi", "Jawaharlal Nehru and Baba Ramchandra", "Motilal Nehru", "Sardar Patel"],
-      "correctIndex": 1,
-      "explanation": "It was set up in 1920 to integrate the Awadh peasant struggle with the national movement.",
-      "frequencyRating": 3
-    },
-    {
-      "id": "g10_h2_q29",
-      "text": "Why did the industrial working classes stay away from the Civil Disobedience Movement, except in Nagpur?",
-      "options": ["They were pro-British", "Congress was close to industrialists", "They were happy with wages", "They were not invited"],
-      "correctIndex": 1,
-      "explanation": "As Congress became closer to industrialist groups, workers felt sidelined.",
-      "frequencyRating": 3
-    },
-    {
-      "id": "g10_h2_q30",
-      "text": "The Federation of the Indian Chamber of Commerce and Industries (FICCI) was formed in:",
-      "options": ["1920", "1927", "1930", "1932"],
-      "correctIndex": 1,
-      "explanation": "Indian merchants and industrialists formed FICCI to organize their business interests and oppose colonial policies.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_h2_q31",
-      "text": "Who led the Muslim League and demanded separate electorates for Muslims?",
-      "options": ["Sir Syed Ahmed Khan", "Muhammad Ali Jinnah", "Shaukat Ali", "Maulana Azad"],
-      "correctIndex": 1,
-      "explanation": "Jinnah was a prominent leader who argued for separate electorates to protect Muslim interests.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h2_q32",
-      "text": "Folklore and tales were used by nationalists to:",
-      "options": ["Entertain children", "Restore a sense of pride in one's past", "Teach history", "Earn money"],
-      "correctIndex": 1,
-      "explanation": "Nationalists believed that folk traditions provided a true picture of traditional culture that had been damaged by outsiders.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_h2_q33",
-      "text": "Who was known as the 'Frontier Gandhi'?",
-      "options": ["Abdul Ghaffar Khan", "Muhammad Ali", "Maulana Azad", "Zakir Hussain"],
-      "correctIndex": 0,
-      "explanation": "A devout disciple of Gandhi, he led the movement in Peshawar.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h2_q34",
-      "text": "In the Gudem Hills, Raju claimed he had special powers like:",
-      "options": ["Flying", "Astrological predictions and healing", "Creating gold", "Controlling the weather"],
-      "correctIndex": 1,
-      "explanation": "Tribals believed he was an incarnation of God due to his claimed powers.",
-      "frequencyRating": 3
-    },
-    {
-      "id": "g10_h2_q35",
-      "text": "What was 'begar'?",
-      "options": ["Religious tax", "System of forced labor without payment", "Type of farming", "A title"],
-      "correctIndex": 1,
-      "explanation": "Begar was a practice where peasants were forced to work at landlords' farms without any wages.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h2_q36",
-      "text": "Which event officially marked the beginning of the Civil Disobedience Movement?",
-      "options": ["Rowlatt Satyagraha", "Violating Salt law at Dandi", "Chauri Chaura violence", "Arrival of Simon Commission"],
-      "correctIndex": 1,
-      "explanation": "On 6 April 1930, Gandhi ceremonially violated the law by manufacturing salt.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h2_q37",
-      "text": "The tricolour flag designed during the Swadeshi movement in Bengal had which colours?",
-      "options": ["Saffron, White, Green", "Red, Green, Yellow", "Red, Green, White", "Blue, White, Red"],
-      "correctIndex": 1,
-      "explanation": "The early Swadeshi flag featured eight lotuses representing eight provinces of British India.",
-      "frequencyRating": 3
-    },
-    {
-      "id": "g10_h2_q38",
-      "text": "The Khilafat movement was organized by:",
-      "options": ["Jinnah", "Ali Brothers (Muhammad and Shaukat)", "Gandhi", "Nehru"],
-      "correctIndex": 1,
-      "explanation": "The Ali brothers led the movement to defend the temporal powers of the Khalifa.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_h2_q39",
-      "text": "Natesa Sastri published a massive four-volume collection of Tamil folk tales called:",
-      "options": ["The Folklore of Southern India", "Tales of Madras", "Dravidian Heritage", "Ancient Tamil Nadu"],
-      "correctIndex": 0,
-      "explanation": "He believed folklore was national literature and 'the most trustworthy manifestation of people's real thoughts'.",
-      "frequencyRating": 3
-    },
-    {
-      "id": "g10_h2_q40",
-      "text": "Gandhi's spinning wheel in the center of the Swaraj flag (1921) represented:",
-      "options": ["Industrialization", "Gandhian ideal of self-help", "Speed of progress", "Fate"],
-      "correctIndex": 1,
-      "explanation": "The charkha represented self-reliance and the economic independence of the masses.",
-      "frequencyRating": 4
     }
   ]
 }

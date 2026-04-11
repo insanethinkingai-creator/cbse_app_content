@@ -1,0 +1,330 @@
+{
+  "id": "g10_sci_ch7",
+  "grade": "10",
+  "subject": "Science",
+  "number": "7",
+  "title": "How do Organisms Reproduce?",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_s7_q1",
+      "text": "The ability of an organism to produce new individuals of its own kind is called:",
+      "options": ["Respiration", "Reproduction", "Excretion", "Nutrition"],
+      "correctIndex": 1,
+      "explanation": "Reproduction is a fundamental biological process by which existing organisms produce offspring.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s7_q2",
+      "text": "Amoeba reproduces by which method of asexual reproduction?",
+      "options": ["Budding", "Fragmentation", "Binary Fission", "Spore Formation"],
+      "correctIndex": 2,
+      "explanation": "In binary fission, a single cell divides into two equal halves.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s7_q3",
+      "text": "Hydra reproduces by using regenerative cells for the process of:",
+      "options": ["Fission", "Spore formation", "Budding", "Fragmentation"],
+      "correctIndex": 2,
+      "explanation": "Hydra produces an outgrowth (bud) which develops into a new individual and detaches from the parent.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s7_q4",
+      "text": "The basic event in reproduction is the creation of a:",
+      "options": ["Cell wall", "Protein", "DNA copy", "Mitochondria"],
+      "correctIndex": 2,
+      "explanation": "DNA copying is essential to transfer genetic information from parents to offspring.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s7_q5",
+      "text": "Planaria can be cut into any number of pieces and each piece grows into a complete organism. This is:",
+      "options": ["Regeneration", "Budding", "Vegetative propagation", "Fission"],
+      "correctIndex": 0,
+      "explanation": "Regeneration is the ability of a fully differentiated organism to give rise to new individual organisms from its body parts.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s7_q6",
+      "text": "Spirogyra reproduces by breaking up into smaller pieces upon maturation. This process is:",
+      "options": ["Fission", "Fragmentation", "Regeneration", "Budding"],
+      "correctIndex": 1,
+      "explanation": "Multicellular organisms with relatively simple body organization, like Spirogyra, simply break up into smaller pieces.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s7_q7",
+      "text": "Bryophyllum reproduces vegetatively through its:",
+      "options": ["Roots", "Stem", "Leaves", "Seeds"],
+      "correctIndex": 2,
+      "explanation": "Buds produced in the notches along the leaf margins of Bryophyllum fall on the soil and develop into new plants.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s7_q8",
+      "text": "The thread-like structures that develop on bread (Rhizopus) are called:",
+      "options": ["Roots", "Hyphae", "Stems", "Leaves"],
+      "correctIndex": 1,
+      "explanation": "The hyphae are non-reproductive parts; spores are produced in the sporangia for reproduction.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s7_q9",
+      "text": "Which of the following is a disadvantage of asexual reproduction?",
+      "options": ["Rapid population growth", "No genetic variation", "Requires only one parent", "Simpler process"],
+      "correctIndex": 1,
+      "explanation": "Asexual reproduction produces clones, meaning there is no genetic diversity to help adapt to changing environments.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s7_q10",
+      "text": "Sexual reproduction involves the fusion of:",
+      "options": ["Two male gametes", "Two female gametes", "Male and female gametes", "Somatic cells"],
+      "correctIndex": 2,
+      "explanation": "Fusion of male and female gametes (fertilization) results in a zygote with a new combination of DNA.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s7_q11",
+      "text": "The male reproductive part of a flower is the:",
+      "options": ["Sepal", "Petal", "Stamen", "Carpel"],
+      "correctIndex": 2,
+      "explanation": "The stamen consists of the anther (which produces pollen) and the filament.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s7_q12",
+      "text": "The female reproductive part located in the center of a flower is the:",
+      "options": ["Stamen", "Carpel (Pistil)", "Sepal", "Pollen grain"],
+      "correctIndex": 1,
+      "explanation": "The carpel consists of the ovary, style, and stigma.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s7_q13",
+      "text": "Transfer of pollen grains from the anther to the stigma is called:",
+      "options": ["Fertilization", "Pollination", "Germination", "Translocation"],
+      "correctIndex": 1,
+      "explanation": "Pollination can be self-pollination or cross-pollination.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s7_q14",
+      "text": "After fertilization, the zygote divides many times to form an embryo within the:",
+      "options": ["Stigma", "Style", "Ovule", "Anther"],
+      "correctIndex": 2,
+      "explanation": "The ovule eventually develops a tough coat and is converted into a seed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s7_q15",
+      "text": "The ovary of a flower grows rapidly and ripens to form the:",
+      "options": ["Seed", "Fruit", "Leaf", "Root"],
+      "correctIndex": 1,
+      "explanation": "While ovules become seeds, the ovary becomes the fruit.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s7_q16",
+      "text": "The period of adolescence when reproductive tissues begin to mature is called:",
+      "options": ["Adulthood", "Puberty", "Geriatrics", "Infancy"],
+      "correctIndex": 1,
+      "explanation": "Puberty involves physical and hormonal changes leading to sexual maturity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s7_q17",
+      "text": "In human males, the testes are located outside the abdominal cavity in the scrotum because:",
+      "options": ["To protect from injury", "Sperm formation requires a lower temperature than body temperature", "They are too large", "To help in urination"],
+      "correctIndex": 1,
+      "explanation": "Sperm production is sensitive to heat and needs a temperature 2-3°C lower than normal body temperature.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s7_q18",
+      "text": "Which hormone is responsible for changes in boys during puberty?",
+      "options": ["Estrogen", "Testosterone", "Insulin", "Adrenaline"],
+      "correctIndex": 1,
+      "explanation": "Testosterone regulates sperm production and brings about secondary sexual characteristics in males.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s7_q19",
+      "text": "In human females, eggs are produced in the:",
+      "options": ["Uterus", "Fallopian tubes", "Ovaries", "Cervix"],
+      "correctIndex": 2,
+      "explanation": "Ovaries produce one egg every month and also secrete hormones like estrogen and progesterone.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s7_q20",
+      "text": "Fertilization in humans usually occurs in the:",
+      "options": ["Uterus", "Oviduct (Fallopian tube)", "Vagina", "Ovary"],
+      "correctIndex": 1,
+      "explanation": "The sperm meets the egg in the oviduct to form a zygote.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s7_q21",
+      "text": "The embryo gets nutrition from the mother's blood with the help of a special tissue called:",
+      "options": ["Zygote", "Placenta", "Umbilical cord", "Uterus"],
+      "correctIndex": 1,
+      "explanation": "The placenta is a disc-like tissue embedded in the uterine wall that facilitates exchange of nutrients and waste.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s7_q22",
+      "text": "The time period from fertilization to the birth of the baby is called:",
+      "options": ["Puberty", "Ovulation", "Gestation period", "Menstruation"],
+      "correctIndex": 2,
+      "explanation": "In humans, the gestation period is approximately nine months.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s7_q23",
+      "text": "If the egg is not fertilized, the thick lining of the uterus breaks and comes out through the vagina as blood and mucus. This is:",
+      "options": ["Fertilization", "Implantation", "Menstruation", "Ovulation"],
+      "correctIndex": 2,
+      "explanation": "Menstruation occurs roughly every 28 days and lasts for about 2-8 days.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s7_q24",
+      "text": "Which of the following is a bacterial Sexually Transmitted Disease (STD)?",
+      "options": ["AIDS", "Gonorrhoea", "Warts", "Hepatitis B"],
+      "correctIndex": 1,
+      "explanation": "Gonorrhoea and Syphilis are bacterial infections, while AIDS and Warts are viral.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s7_q25",
+      "text": "Copper-T is a contraceptive device placed in the:",
+      "options": ["Vagina", "Uterus", "Oviduct", "Cervix"],
+      "correctIndex": 1,
+      "explanation": "Intrauterine Contraceptive Devices (IUCDs) like Copper-T prevent pregnancy by blocking implantation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s7_q26",
+      "text": "Surgical blocking of the Fallopian tube in females is called:",
+      "options": ["Vasectomy", "Tubectomy", "Contraception", "Implantation"],
+      "correctIndex": 1,
+      "explanation": "Tubectomy prevents the egg from reaching the uterus, thus preventing fertilization.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s7_q27",
+      "text": "Surgical blocking of the Vas Deferens in males is called:",
+      "options": ["Tubectomy", "Vasectomy", "Circumcision", "Castration"],
+      "correctIndex": 1,
+      "explanation": "Vasectomy prevents the transfer of sperm.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s7_q28",
+      "text": "A flower containing both stamens and carpels is called:",
+      "options": ["Unisexual", "Bisexual", "Asexual", "Neuter"],
+      "correctIndex": 1,
+      "explanation": "Examples of bisexual flowers include Hibiscus and Mustard.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s7_q29",
+      "text": "Leishmania reproduces through binary fission in a definite orientation because of its:",
+      "options": ["Nucleus", "Flagellum (whip-like structure)", "Cell wall", "Mitochondria"],
+      "correctIndex": 1,
+      "explanation": "Leishmania, which causes kala-azar, has a whip-like structure at one end, dictating the plane of fission.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s7_q30",
+      "text": "The male germ-cell (sperm) consists of mainly genetic material and a:",
+      "options": ["Short tail", "Long tail", "Thick wall", "Cilia"],
+      "correctIndex": 1,
+      "explanation": "The long tail helps the sperm to move towards the female germ-cell.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s7_q31",
+      "text": "Variation is useful for the survival of ______ over time.",
+      "options": ["Individuals", "Species", "Cells", "Proteins"],
+      "correctIndex": 1,
+      "explanation": "Variation allows species to adapt to environmental changes, even if some individuals perish.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s7_q32",
+      "text": "Plasmodium, the malarial parasite, divides into many daughter cells simultaneously by:",
+      "options": ["Binary fission", "Multiple fission", "Budding", "Fragmentation"],
+      "correctIndex": 1,
+      "explanation": "Multiple fission is an asexual method where one cell produces many offspring at once.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s7_q33",
+      "text": "Tissue culture is a technique used to grow new plants from ______ of the parent plant.",
+      "options": ["Seeds", "Dead cells", "Cells or tissues from the growing tip", "Roots only"],
+      "correctIndex": 2,
+      "explanation": "Tissue culture allows for rapid propagation of disease-free plants in artificial media.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s7_q34",
+      "text": "Commonly used method for growing jasmine or rose plants is:",
+      "options": ["Spore formation", "Layering or Cutting", "Fission", "Pollination"],
+      "correctIndex": 1,
+      "explanation": "These are artificial methods of vegetative propagation used in agriculture and horticulture.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s7_q35",
+      "text": "The part of the seed that contains the future plant is the:",
+      "options": ["Cotyledon", "Embryo", "Seed coat", "Endosperm"],
+      "correctIndex": 1,
+      "explanation": "The embryo develops into a seedling under appropriate conditions (germination).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s7_q36",
+      "text": "The part of the seed that stores food is the:",
+      "options": ["Radicle", "Plumule", "Cotyledon", "Stigma"],
+      "correctIndex": 2,
+      "explanation": "Cotyledons store nutrients for the developing embryo.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s7_q37",
+      "text": "Which part of the male reproductive system carries sperms from the testes to the urethra?",
+      "options": ["Ureter", "Vas deferens", "Scrotum", "Prostate gland"],
+      "correctIndex": 1,
+      "explanation": "The vas deferens is the tube that transports mature sperm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s7_q38",
+      "text": "Glands like the prostate and seminal vesicles add their secretions to the sperms to:",
+      "options": ["Increase sperm count", "Make transport easier and provide nutrition", "Prevent diseases", "Stop sperm movement"],
+      "correctIndex": 1,
+      "explanation": "These fluids form semen, providing a liquid medium for sperm mobility and survival.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s7_q39",
+      "text": "The female reproductive system is designed to:",
+      "options": ["Produce eggs only", "Receive sperms only", "Carry and nurture the developing child", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "It produces germ cells, facilitates fertilization, and supports pregnancy.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s7_q40",
+      "text": "Condoms are a type of ______ barrier for contraception.",
+      "options": ["Chemical", "Mechanical", "Surgical", "Natural"],
+      "correctIndex": 1,
+      "explanation": "Mechanical barriers prevent the sperm from reaching the egg and also help prevent the transmission of STDs.",
+      "frequencyRating": 5
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "g10_hist_ch3",
+  "grade": "10",
+  "subject": "History",
+  "number": "3",
+  "title": "The Making of a Global World",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_h3_q1",
+      "text": "The famous Silk Routes mainly connected:",
+      "options": ["Asia with Europe and Africa", "America with Europe", "Asia with Australia", "Africa with America"],
+      "correctIndex": 0,
+      "explanation": "Silk routes were a vibrant network of trade and cultural links that bound together vast regions of Asia, Europe, and Northern Africa.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h3_q2",
+      "text": "Which disease proved most deadly in the conquest of America by Europeans?",
+      "options": ["Plague", "Cholera", "Smallpox", "Malaria"],
+      "correctIndex": 2,
+      "explanation": "Smallpox, carried by European conquerors, decimated native American populations who had no immunity to it.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h3_q3",
+      "text": "The 'Rinderpest' was a devastating disease affecting:",
+      "options": ["Humans", "Plants", "Cattle", "Fish"],
+      "correctIndex": 2,
+      "explanation": "Rinderpest (cattle plague) arrived in Africa in the late 1880s, killing 90% of the cattle and destroying local livelihoods.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h3_q4",
+      "text": "The Bretton Woods Conference established which two institutions?",
+      "options": ["UN and WHO", "IMF and World Bank", "WTO and UNESCO", "EU and NATO"],
+      "correctIndex": 1,
+      "explanation": "The 1944 conference established the International Monetary Fund (IMF) and the World Bank to preserve global economic stability.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h3_q5",
+      "text": "Most Indian indentured workers came from which regions?",
+      "options": ["Punjab and Haryana", "Eastern Uttar Pradesh and Bihar", "Kerala and Tamil Nadu", "Gujarat and Rajasthan"],
+      "correctIndex": 1,
+      "explanation": "Indentured labor migration from India was largely from the present-day regions of eastern UP, Bihar, central India, and Tamil Nadu.",
+      "frequencyRating": 4
+    }
+  ]
+}
