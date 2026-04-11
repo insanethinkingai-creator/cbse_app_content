@@ -1,0 +1,330 @@
+{
+  "id": "g10_math_ch5",
+  "grade": "10",
+  "subject": "Mathematics",
+  "number": "5",
+  "title": "Arithmetic Progressions",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_m5_q1",
+      "text": "In an Arithmetic Progression, the constant difference between any two consecutive terms is known as:",
+      "options": ["Common ratio", "Common difference", "Common factor", "Arithmetic mean"],
+      "correctIndex": 1,
+      "explanation": "The common difference 'd' can be positive, negative, or zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m5_q2",
+      "text": "Which of the following sequences is an AP?",
+      "options": ["2, 4, 8, 16", "√3, √6, √9, √12", "1, 3, 9, 27", "a, a+d, a+2d, a+3d"],
+      "correctIndex": 3,
+      "explanation": "An AP is a sequence where each term is obtained by adding a fixed number to the preceding term.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m5_q3",
+      "text": "The nth term of an AP with first term 'a' and common difference 'd' is:",
+      "options": ["a + nd", "a + (n-1)d", "a + (n+1)d", "a - (n-1)d"],
+      "correctIndex": 1,
+      "explanation": "This fundamental formula allows us to find any term in the sequence without listing all previous terms.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m5_q4",
+      "text": "Find the 10th term of the AP: 2, 7, 12, ...",
+      "options": ["42", "47", "52", "37"],
+      "correctIndex": 1,
+      "explanation": "a = 2, d = 5. a₁₀ = 2 + (10-1)5 = 2 + 45 = 47.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m5_q5",
+      "text": "The common difference of the AP: 1/2, 3/2, 5/2, 7/2 is:",
+      "options": ["1", "2", "1/2", "3/2"],
+      "correctIndex": 0,
+      "explanation": "d = 3/2 - 1/2 = 2/2 = 1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m5_q6",
+      "text": "If the nth term of an AP is 3n + 1, then its 5th term is:",
+      "options": ["15", "16", "14", "10"],
+      "correctIndex": 1,
+      "explanation": "a₅ = 3(5) + 1 = 15 + 1 = 16.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m5_q7",
+      "text": "The sum of the first n terms of an AP is given by Sₙ = :",
+      "options": ["n/2 [a + l]", "n/2 [2a + (n-1)d]", "Both 1 and 2", "n [2a + (n-1)d]"],
+      "correctIndex": 2,
+      "explanation": "Both formulas are valid; the first is used when the last term 'l' is known.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m5_q8",
+      "text": "Which term of the AP: 21, 18, 15, ... is 0?",
+      "options": ["7th", "8th", "9th", "10th"],
+      "correctIndex": 1,
+      "explanation": "0 = 21 + (n-1)(-3) => -21 = -3(n-1) => 7 = n-1 => n = 8.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m5_q9",
+      "text": "If a, b, c are in AP, then the relation between them is:",
+      "options": ["b = a + c", "2b = a + c", "b² = ac", "a + b = c"],
+      "correctIndex": 1,
+      "explanation": "b is the arithmetic mean of a and c, so b = (a+c)/2 or 2b = a+c.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m5_q10",
+      "text": "The common difference of the AP whose nth term is aₙ = 5n - 7 is:",
+      "options": ["5", "-7", "2", "12"],
+      "correctIndex": 0,
+      "explanation": "a₁ = -2, a₂ = 3. d = a₂ - a₁ = 3 - (-2) = 5.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m5_q11",
+      "text": "Find the sum of the first 20 terms of the AP: 1, 3, 5, 7, ...",
+      "options": ["200", "400", "420", "380"],
+      "correctIndex": 1,
+      "explanation": "The sum of the first n odd numbers is n². 20² = 400.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m5_q12",
+      "text": "What is the 30th term of the AP: 10, 7, 4, ...?",
+      "options": ["-77", "-87", "77", "87"],
+      "correctIndex": 0,
+      "explanation": "a = 10, d = -3. a₃₀ = 10 + (29)(-3) = 10 - 87 = -77.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m5_q13",
+      "text": "In an AP, if d = -4, n = 7, aₙ = 4, then a is:",
+      "options": ["6", "7", "20", "28"],
+      "correctIndex": 3,
+      "explanation": "4 = a + (6)(-4) => 4 = a - 24 => a = 28.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m5_q14",
+      "text": "The first negative term of the AP: 121, 117, 113, ... is the:",
+      "options": ["30th term", "31st term", "32nd term", "33rd term"],
+      "correctIndex": 2,
+      "explanation": "aₙ < 0 => 121 + (n-1)(-4) < 0 => 121 - 4n + 4 < 0 => 125 < 4n => n > 31.25. So, 32nd term.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m5_q15",
+      "text": "If the sum of first n terms of an AP is 3n² + n, then its common difference is:",
+      "options": ["3", "6", "4", "1"],
+      "correctIndex": 1,
+      "explanation": "S₁ = 4 (a₁), S₂ = 14 (a₁+a₂). a₂ = 10. d = 10 - 4 = 6.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m5_q16",
+      "text": "How many two-digit numbers are divisible by 3?",
+      "options": ["30", "31", "29", "25"],
+      "correctIndex": 0,
+      "explanation": "AP: 12, 15, ..., 99. 99 = 12 + (n-1)3 => 87 = 3(n-1) => 29 = n-1 => n = 30.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m5_q17",
+      "text": "The 11th term from the last term of the AP: 10, 7, 4, ..., -62 is:",
+      "options": ["-32", "-25", "-16", "0"],
+      "correctIndex": 0,
+      "explanation": "Use formula: l - (n-1)d. -62 - (10)(-3) = -62 + 30 = -32.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m5_q18",
+      "text": "The sum of first five multiples of 3 is:",
+      "options": ["45", "55", "65", "75"],
+      "correctIndex": 0,
+      "explanation": "3, 6, 9, 12, 15. Sum = 45.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m5_q19",
+      "text": "If the common difference of an AP is 5, then a₁₈ - a₁₃ is:",
+      "options": ["5", "20", "25", "30"],
+      "correctIndex": 2,
+      "explanation": "(a + 17d) - (a + 12d) = 5d = 5(5) = 25.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m5_q20",
+      "text": "Two APs have the same common difference. The difference between their 100th terms is 100, then the difference between their 1000th terms is:",
+      "options": ["100", "1000", "900", "0"],
+      "correctIndex": 0,
+      "explanation": "If d is same, the difference between any corresponding terms is always constant.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m5_q21",
+      "text": "The values of x for which 2x, x+10, 3x+2 are in AP is:",
+      "options": ["6", "18", "12", "5"],
+      "correctIndex": 0,
+      "explanation": "2(x+10) = 2x + (3x+2) => 2x+20 = 5x+2 => 3x=18 => x=6.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m5_q22",
+      "text": "The sum of the first 100 natural numbers is:",
+      "options": ["5050", "5000", "5100", "5005"],
+      "correctIndex": 0,
+      "explanation": "Sum = n(n+1)/2 = 100(101)/2 = 5050.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m5_q23",
+      "text": "In an AP, if a = 3.5, d = 0, n = 101, then aₙ will be:",
+      "options": ["0", "3.5", "103.5", "104.5"],
+      "correctIndex": 1,
+      "explanation": "If d=0, all terms are equal to the first term.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m5_q24",
+      "text": "If the 2nd term of an AP is 13 and the 5th term is 25, what is its 7th term?",
+      "options": ["30", "33", "37", "38"],
+      "correctIndex": 1,
+      "explanation": "a+d=13, a+4d=25. Subtracting gives 3d=12, d=4. a=9. a₇ = 9 + 6(4) = 33.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m5_q25",
+      "text": "The middle term of the AP: 6, 13, 20, ..., 216 is:",
+      "options": ["111", "118", "104", "125"],
+      "correctIndex": 0,
+      "explanation": "216 = 6 + (n-1)7 => n=31. Middle term is (31+1)/2 = 16th term. a₁₆ = 6 + 15(7) = 111.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m5_q26",
+      "text": "The sum of all odd numbers between 0 and 50 is:",
+      "options": ["625", "500", "600", "2500"],
+      "correctIndex": 0,
+      "explanation": "There are 25 odd numbers. Sum = 25² = 625.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m5_q27",
+      "text": "If the sum of first 7 terms of an AP is 49 and that of 17 terms is 289, then sum of first n terms is:",
+      "options": ["n", "n²", "n³", "2n"],
+      "correctIndex": 1,
+      "explanation": "Sₙ follows the pattern where S₇=7² and S₁₇=17², so Sₙ=n².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m5_q28",
+      "text": "A sequence is an AP if and only if its nth term is a ________ in n.",
+      "options": ["Quadratic expression", "Linear expression", "Cubic expression", "Constant"],
+      "correctIndex": 1,
+      "explanation": "aₙ = dn + (a-d) is a linear polynomial in n.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m5_q29",
+      "text": "The common difference of the AP: √2, √8, √18, √32, ... is:",
+      "options": ["√2", "2", "2√2", "1"],
+      "correctIndex": 0,
+      "explanation": "√8 = 2√2, √18 = 3√2. d = 2√2 - √2 = √2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m5_q30",
+      "text": "Find the sum of all natural numbers from 1 to 100 which are multiples of 5.",
+      "options": ["1050", "1000", "950", "1100"],
+      "correctIndex": 0,
+      "explanation": "AP: 5, 10, ..., 100. n=20. S₂₀ = 20/2 [5 + 100] = 10 * 105 = 1050.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m5_q31",
+      "text": "If k, 2k-1 and 2k+1 are three consecutive terms of an AP, then k is:",
+      "options": ["2", "3", "-3", "5"],
+      "correctIndex": 1,
+      "explanation": "2(2k-1) = k + 2k+1 => 4k-2 = 3k+1 => k=3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m5_q32",
+      "text": "The common difference of the AP: 1/p, (1-p)/p, (1-2p)/p, ... is:",
+      "options": ["p", "-p", "-1", "1"],
+      "correctIndex": 2,
+      "explanation": "d = (1-p)/p - 1/p = (1-p-1)/p = -p/p = -1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m5_q33",
+      "text": "The 10th term of an AP is 52 and 16th term is 82. Find the 32nd term.",
+      "options": ["162", "152", "172", "142"],
+      "correctIndex": 0,
+      "explanation": "6d = 30 => d=5. a + 45 = 52 => a=7. a₃₂ = 7 + 31(5) = 7 + 155 = 162.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m5_q34",
+      "text": "In an AP, if Sₙ = n(4n+1), find the first term.",
+      "options": ["4", "5", "1", "9"],
+      "correctIndex": 1,
+      "explanation": "a₁ = S₁ = 1(4(1)+1) = 5.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m5_q35",
+      "text": "How many terms of the AP: 24, 21, 18, ... must be taken so that their sum is 78?",
+      "options": ["4 only", "13 only", "4 or 13", "10"],
+      "correctIndex": 2,
+      "explanation": "Using Sₙ formula results in a quadratic equation with roots 4 and 13.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m5_q36",
+      "text": "The sum of the first 15 multiples of 8 is:",
+      "options": ["960", "800", "1000", "1060"],
+      "correctIndex": 0,
+      "explanation": "S₁₅ = 15/2 [2(8) + 14(8)] = 15/2 [128] = 15 * 64 = 960.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m5_q37",
+      "text": "If the 9th term of an AP is zero, then the ratio of its 29th term to its 19th term is:",
+      "options": ["1:2", "2:1", "3:1", "3:2"],
+      "correctIndex": 1,
+      "explanation": "a+8d=0 => a=-8d. a₂₉/a₁₉ = (-8d+28d)/(-8d+10d) = 20d/10d = 2.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m5_q38",
+      "text": "The fourth term of an AP is 18. The difference of the ninth term and the fifteenth term is 24. Find 'd'.",
+      "options": ["4", "3", "2", "6"],
+      "correctIndex": 0,
+      "explanation": "a₁₅ - a₉ = 6d. 24 = 6d => d=4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m5_q39",
+      "text": "If Sₙ denotes the sum of n terms of an AP, then Sₙ - Sₙ₋₁ is equal to:",
+      "options": ["d", "a", "aₙ", "2a"],
+      "correctIndex": 2,
+      "explanation": "The difference between the sum of n terms and n-1 terms is the nth term itself.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m5_q40",
+      "text": "What is the common difference of an AP in which a₂₁ - a₇ = 84?",
+      "options": ["4", "14", "6", "8"],
+      "correctIndex": 2,
+      "explanation": "14d = 84 => d = 6.",
+      "frequencyRating": 4
+    }
+  ]
+}

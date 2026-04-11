@@ -1,0 +1,330 @@
+{
+  "id": "g10_math_ch9",
+  "grade": "10",
+  "subject": "Mathematics",
+  "number": "9",
+  "title": "Some Applications of Trigonometry",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_m9_q1",
+      "text": "The line drawn from the eye of an observer to the point in the object viewed by the observer is called:",
+      "options": ["Horizontal line", "Line of sight", "Vertical line", "Reflected ray"],
+      "correctIndex": 1,
+      "explanation": "By definition, the line of sight is the straight path from the eye to the object.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m9_q2",
+      "text": "The angle formed by the line of sight with the horizontal when the object is above the horizontal level is called:",
+      "options": ["Angle of elevation", "Angle of depression", "Right angle", "Acute angle"],
+      "correctIndex": 0,
+      "explanation": "When we look up, the angle between our line of sight and the horizontal is the angle of elevation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m9_q3",
+      "text": "The angle formed by the line of sight with the horizontal when the object is below the horizontal level is called:",
+      "options": ["Angle of elevation", "Angle of depression", "Obtuse angle", "Linear angle"],
+      "correctIndex": 1,
+      "explanation": "When we look down, the angle between our line of sight and the horizontal is the angle of depression.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m9_q4",
+      "text": "If the height of a tower and the length of its shadow on the ground are equal, then the angle of elevation of the sun is:",
+      "options": ["30°", "45°", "60°", "90°"],
+      "correctIndex": 1,
+      "explanation": "tan θ = Height / Shadow. Since they are equal, tan θ = 1, which means θ = 45°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m9_q5",
+      "text": "The angle of elevation of the top of a tower from a point on the ground, which is 30m away from the foot of the tower, is 30°. The height of the tower is:",
+      "options": ["10√3 m", "30√3 m", "15 m", "20 m"],
+      "correctIndex": 0,
+      "explanation": "tan 30° = h / 30 => 1/√3 = h / 30 => h = 30 / √3 = 10√3 m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m9_q6",
+      "text": "A ladder leans against a wall such that it makes an angle of 60° with the ground. If the foot of the ladder is 2.5 m away from the wall, find the length of the ladder.",
+      "options": ["5 m", "4 m", "2.5√3 m", "5√3 m"],
+      "correctIndex": 0,
+      "explanation": "cos 60° = Base / Hypotenuse => 1/2 = 2.5 / L => L = 5 m.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m9_q7",
+      "text": "A kite is flying at a height of 60m above the ground. The string attached to the kite is temporarily tied to a point on the ground. The inclination of the string with the ground is 60°. Find the length of the string.",
+      "options": ["40√3 m", "30√3 m", "120 m", "60√3 m"],
+      "correctIndex": 0,
+      "explanation": "sin 60° = 60 / L => √3/2 = 60 / L => L = 120 / √3 = 40√3 m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m9_q8",
+      "text": "The angle of elevation of the top of a building from the foot of a tower is 30° and the angle of elevation of the top of the tower from the foot of the building is 60°. If the tower is 50m high, the building height is:",
+      "options": ["50/3 m", "25 m", "50√3 m", "100 m"],
+      "correctIndex": 0,
+      "explanation": "Let distance be x. 50/x = tan 60° => x = 50/√3. h/x = tan 30° => h = x/√3 = 50/3 m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m9_q9",
+      "text": "As an observer moves towards a tower, the angle of elevation of the top of the tower:",
+      "options": ["Decreases", "Increases", "Remains same", "First increases then decreases"],
+      "correctIndex": 1,
+      "explanation": "Getting closer to the object increases the angle at which you must look up to see the top.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m9_q10",
+      "text": "The angle of depression of a car parked on the road from the top of a 150m high tower is 30°. The distance of the car from the tower is:",
+      "options": ["150√3 m", "75 m", "150 / √3 m", "300 m"],
+      "correctIndex": 0,
+      "explanation": "Angle of depression = Angle of elevation = 30°. tan 30° = 150 / x => 1/√3 = 150 / x => x = 150√3 m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m9_q11",
+      "text": "If the sun's altitude changes from 30° to 60°, the length of the shadow of a tower:",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correctIndex": 1,
+      "explanation": "As the angle of elevation of the sun increases, the shadow length decreases.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m9_q12",
+      "text": "A circus artist is climbing a 20m long rope, which is tightly stretched and tied from the top of a vertical pole to the ground. If the angle made by the rope with the ground level is 30°, the height of the pole is:",
+      "options": ["10 m", "20 m", "10√3 m", "5 m"],
+      "correctIndex": 0,
+      "explanation": "sin 30° = h / 20 => 1/2 = h / 20 => h = 10 m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m9_q13",
+      "text": "The ratio of the length of a rod and its shadow is 1 : √3. The angle of elevation of the sun is:",
+      "options": ["30°", "45°", "60°", "90°"],
+      "correctIndex": 0,
+      "explanation": "tan θ = 1 / √3, which corresponds to 30°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m9_q14",
+      "text": "From a point 20m away from the foot of a tower, the angle of elevation of the top of the tower is 30°. The height of the tower is:",
+      "options": ["20√3 m", "20 / √3 m", "40 m", "10 m"],
+      "correctIndex": 1,
+      "explanation": "tan 30° = h / 20 => 1/√3 = h / 20 => h = 20 / √3 m.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m9_q15",
+      "text": "A tree breaks due to storm and the broken part bends so that the top of the tree touches the ground making an angle 30° with it. The distance between the foot of the tree to the point where the top touches the ground is 8m. The height of the tree is:",
+      "options": ["8√3 m", "16√3 m", "24√3 m", "8 / √3 m"],
+      "correctIndex": 0,
+      "explanation": "Height = h + L. tan 30 = h/8 => h=8/√3. cos 30 = 8/L => L=16/√3. Total = 24/√3 = 8√3 m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m9_q16",
+      "text": "If the angle of elevation of a tower from a distance of 100m from its foot is 60°, then the height of the tower is:",
+      "options": ["100√3 m", "100 / √3 m", "50√3 m", "200 m"],
+      "correctIndex": 0,
+      "explanation": "tan 60° = h / 100 => √3 = h / 100 => h = 100√3 m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m9_q17",
+      "text": "The angle of elevation of the top of a 15m high tower at a point 15m away from the base is:",
+      "options": ["30°", "60°", "45°", "0°"],
+      "correctIndex": 2,
+      "explanation": "tan θ = 15 / 15 = 1 => θ = 45°.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m9_q18",
+      "text": "A bridge across a river makes an angle of 45° with the river bank. If the length of the bridge across the river is 150m, the width of the river is:",
+      "options": ["75√2 m", "150 m", "150√2 m", "75 m"],
+      "correctIndex": 0,
+      "explanation": "sin 45° = Width / 150 => 1/√2 = W / 150 => W = 150 / √2 = 75√2 m.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m9_q19",
+      "text": "Two poles of equal heights are standing opposite each other on either side of a 80m wide road. From a point between them, the angles of elevation of the tops are 60° and 30°. The height of the poles is:",
+      "options": ["20√3 m", "40√3 m", "20 m", "30 m"],
+      "correctIndex": 0,
+      "explanation": "h/x = tan 60, h/(80-x) = tan 30. Solving gives x=20, h=20√3 m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m9_q20",
+      "text": "If a pole 6m high casts a shadow 2√3 m long on the ground, then the sun's elevation is:",
+      "options": ["60°", "45°", "30°", "90°"],
+      "correctIndex": 0,
+      "explanation": "tan θ = 6 / 2√3 = 3 / √3 = √3 => θ = 60°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m9_q21",
+      "text": "A 1.5m tall observer is 28.5m away from a chimney. The angle of elevation of the top of the chimney from her eyes is 45°. The height of the chimney is:",
+      "options": ["30 m", "28.5 m", "27 m", "31.5 m"],
+      "correctIndex": 0,
+      "explanation": "Height = 1.5 + 28.5 * tan 45° = 1.5 + 28.5 = 30 m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m9_q22",
+      "text": "The angle of elevation of the top of a tower from two points at distances 'a' and 'b' from the base and in the same straight line with it are complementary. The height of the tower is:",
+      "options": ["ab", "√(ab)", "a/b", "√(a+b)"],
+      "correctIndex": 1,
+      "explanation": "h/a = tan θ, h/b = cot θ. Multiplying gives h²/ab = 1 => h = √(ab).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m9_q23",
+      "text": "The angle of elevation of the top of a vertical tower from a point on the ground is 60°. From another point 10 m vertically above the first, its angle of elevation is 45°. The height of the tower is:",
+      "options": ["5(3+√3) m", "10(√3+1) m", "15 m", "20 m"],
+      "correctIndex": 0,
+      "explanation": "Using tan ratios for both triangles and solving for h leads to 5(3+√3).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m9_q24",
+      "text": "A ship is sailing away from a cliff 150m high. The angle of depression of the ship changes from 60° to 45° in 2 minutes. The speed of the ship is:",
+      "options": ["25(3-√3) m/min", "50(√3-1) m/min", "75 m/min", "None"],
+      "correctIndex": 0,
+      "explanation": "Distance = 150(1 - 1/√3). Speed = Dist / 2 = 75(1 - 1/√3) = 25(3-√3) m/min.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m9_q25",
+      "text": "If the angle of elevation of a cloud from a point h meters above a lake is α and the angle of depression of its reflection in the lake is β, then the height of the cloud is:",
+      "options": ["h(tan β + tan α) / (tan β - tan α)", "h(tan β - tan α) / (tan β + tan α)", "h tan(α+β)", "None"],
+      "correctIndex": 0,
+      "explanation": "Standard high-level derivation using geometry of reflection.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m9_q26",
+      "text": "The shadow of a vertical tower on level ground increases by 10m when the altitude of the sun changes from 45° to 30°. The height of the tower is:",
+      "options": ["5(√3+1) m", "10(√3-1) m", "5√3 m", "10 m"],
+      "correctIndex": 0,
+      "explanation": "h cot 30 - h cot 45 = 10 => h(√3 - 1) = 10 => h = 10/(√3-1) = 5(√3+1) m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m9_q27",
+      "text": "A pole casts a shadow of length 20m when the sun's elevation is 30°. The height of the pole is:",
+      "options": ["20/√3 m", "20√3 m", "10 m", "10√3 m"],
+      "correctIndex": 0,
+      "explanation": "tan 30 = h/20 => h = 20/√3 m.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m9_q28",
+      "text": "From the top of a 7m high building, the angle of elevation of the top of a cable tower is 60° and the angle of depression of its foot is 45°. The height of the tower is:",
+      "options": ["7(√3+1) m", "14 m", "7√3 m", "21 m"],
+      "correctIndex": 0,
+      "explanation": "Building height 7m = distance to tower (since angle 45). Tower height = 7 + 7 tan 60 = 7(1+√3).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m9_q29",
+      "text": "The angle of elevation of the top of a tower from a point A on the ground is 30°. On moving a distance of 20m towards the foot of the tower to point B, the angle of elevation increases to 60°. The height of the tower is:",
+      "options": ["10√3 m", "20√3 m", "10 m", "15 m"],
+      "correctIndex": 0,
+      "explanation": "h cot 30 - h cot 60 = 20 => h(√3 - 1/√3) = 20 => h(2/√3) = 20 => h = 10√3 m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m9_q30",
+      "text": "A balloon is connected to a meteorological station by a cable of length 200m inclined at 60° to the horizontal. Find the height of the balloon.",
+      "options": ["100√3 m", "100 m", "200√3 m", "150 m"],
+      "correctIndex": 0,
+      "explanation": "sin 60° = h / 200 => √3/2 = h / 200 => h = 100√3 m.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m9_q31",
+      "text": "A man on the deck of a ship, 10m above water level, observes the angle of elevation of the top of a cliff as 60° and the angle of depression of the base of the cliff as 30°. The height of the cliff is:",
+      "options": ["40 m", "30 m", "20 m", "50 m"],
+      "correctIndex": 0,
+      "explanation": "Dist to cliff = 10 cot 30 = 10√3. Height above deck = 10√3 tan 60 = 30. Total = 30 + 10 = 40 m.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m9_q32",
+      "text": "The angle of elevation of the top of a vertical pole from a point on the ground is 30°. If the height of the pole is 10 m, then the distance of the point from the pole is:",
+      "options": ["10√3 m", "10/√3 m", "20 m", "15 m"],
+      "correctIndex": 0,
+      "explanation": "tan 30° = 10 / x => 1/√3 = 10 / x => x = 10√3 m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m9_q33",
+      "text": "A vertical stick 20m long casts a shadow 10m long on the ground. At the same time, a tower casts a shadow 50m long on the ground. The height of the tower is:",
+      "options": ["100 m", "120 m", "80 m", "150 m"],
+      "correctIndex": 0,
+      "explanation": "Ratio of height to shadow is constant: 20/10 = H/50 => H = 100 m.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m9_q34",
+      "text": "The angle of elevation of the sun, when the length of the shadow of a tree is √3 times the height of the tree, is:",
+      "options": ["30°", "45°", "60°", "90°"],
+      "correctIndex": 0,
+      "explanation": "tan θ = H / (√3H) = 1/√3 => θ = 30°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m9_q35",
+      "text": "From the top of a 60m high lighthouse, the angles of depression of two ships are 30° and 45°. If one ship is exactly behind the other on the same side of the lighthouse, the distance between the ships is:",
+      "options": ["60(√3-1) m", "60√3 m", "60 m", "120 m"],
+      "correctIndex": 0,
+      "explanation": "x1 = 60 cot 30 = 60√3, x2 = 60 cot 45 = 60. Distance = 60√3 - 60 = 60(√3-1) m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m9_q36",
+      "text": "A TV tower stands vertically on a bank of a canal. From a point on the other bank directly opposite the tower, the angle of elevation of the top of the tower is 60°. From another point 20m away from this point on the line joining this point to the foot of the tower, the angle of elevation of the top of the tower is 30°. The width of the canal is:",
+      "options": ["10 m", "20 m", "10√3 m", "30 m"],
+      "correctIndex": 0,
+      "explanation": "h/x = √3, h/(x+20) = 1/√3. Solving gives x = 10 m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m9_q37",
+      "text": "A 1.2m tall girl spots a balloon moving with the wind in a horizontal line at a height of 88.2m from the ground. The angle of elevation of the balloon from the eyes of the girl at any instant is 60°. After some time, the angle of elevation reduces to 30°. Find the distance travelled by the balloon during the interval.",
+      "options": ["58√3 m", "87√3 m", "29√3 m", "100 m"],
+      "correctIndex": 0,
+      "explanation": "Height from eyes = 88.2 - 1.2 = 87m. x1 = 87/√3, x2 = 87√3. Dist = 87√3 - 87/√3 = 58√3 m.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m9_q38",
+      "text": "The angle of elevation of the top of a tower from a point on the ground is 45°. If the tower is 20 m high, the distance of the point from the tower is:",
+      "options": ["20 m", "20√3 m", "10 m", "10√2 m"],
+      "correctIndex": 0,
+      "explanation": "tan 45° = 20 / x => 1 = 20 / x => x = 20 m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m9_q39",
+      "text": "A ladder makes an angle of 60° with the ground when placed against a wall. If the foot of the ladder is 2 m away from the wall, the length of the ladder is:",
+      "options": ["4 m", "2 m", "2√3 m", "4√3 m"],
+      "correctIndex": 0,
+      "explanation": "cos 60° = 2 / L => 1/2 = 2 / L => L = 4 m.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m9_q40",
+      "text": "If the altitude of the sun is 60°, the height of a vertical tower that will cast a shadow of length 30m is:",
+      "options": ["30√3 m", "30 m", "15√3 m", "10√3 m"],
+      "correctIndex": 0,
+      "explanation": "tan 60° = h / 30 => √3 = h / 30 => h = 30√3 m.",
+      "frequencyRating": 5
+    }
+  ]
+}

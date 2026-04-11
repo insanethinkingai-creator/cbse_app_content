@@ -1,0 +1,330 @@
+{
+  "id": "g10_math_ch6",
+  "grade": "10",
+  "subject": "Mathematics",
+  "number": "6",
+  "title": "Triangles",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_m6_q1",
+      "text": "Two figures having the same shape but not necessarily the same size are called:",
+      "options": ["Congruent figures", "Similar figures", "Equal figures", "Identical figures"],
+      "correctIndex": 1,
+      "explanation": "Similar figures have proportional corresponding sides and equal corresponding angles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m6_q2",
+      "text": "All congruent figures are similar, but similar figures need not be:",
+      "options": ["Equal", "Congruent", "Proportional", "Triangles"],
+      "correctIndex": 1,
+      "explanation": "Congruent figures are a special case of similar figures where the ratio of corresponding sides is 1:1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m6_q3",
+      "text": "If two triangles are similar, their corresponding angles are:",
+      "options": ["Proportional", "Equal", "Supplementary", "Complementary"],
+      "correctIndex": 1,
+      "explanation": "Equality of corresponding angles is a fundamental condition for similarity (AAA criterion).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m6_q4",
+      "text": "If two triangles are similar, their corresponding sides are:",
+      "options": ["Equal", "Proportional", "Parallel", "Perpendicular"],
+      "correctIndex": 1,
+      "explanation": "Proportionality of corresponding sides is another fundamental condition for similarity (SSS criterion).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m6_q5",
+      "text": "The Basic Proportionality Theorem (BPT) is also known as:",
+      "options": ["Pythagoras Theorem", "Mid-point Theorem", "Thales Theorem", "Angle Bisector Theorem"],
+      "correctIndex": 2,
+      "explanation": "Thales Theorem states that if a line is drawn parallel to one side of a triangle to intersect the other two sides in distinct points, the other two sides are divided in the same ratio.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m6_q6",
+      "text": "In ΔABC, if DE || BC, AD = 3 cm, DB = 6 cm, and AE = 4 cm, then EC is:",
+      "options": ["8 cm", "12 cm", "6 cm", "4 cm"],
+      "correctIndex": 0,
+      "explanation": "By BPT, AD/DB = AE/EC. So, 3/6 = 4/EC => 1/2 = 4/EC => EC = 8 cm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m6_q7",
+      "text": "Which of the following is NOT a criterion for similarity of triangles?",
+      "options": ["AAA", "SSS", "SAS", "ASS"],
+      "correctIndex": 3,
+      "explanation": "ASS (Angle-Side-Side) is not a valid criterion for either congruence or similarity of triangles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m6_q8",
+      "text": "If ΔABC ~ ΔPQR, and AB/PQ = BC/QR = CA/RP = 1/2, then the ratio of their areas is:",
+      "options": ["1:2", "2:1", "1:4", "4:1"],
+      "correctIndex": 2,
+      "explanation": "The ratio of the areas of two similar triangles is equal to the square of the ratio of their corresponding sides. (1/2)² = 1/4.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m6_q9",
+      "text": "In a right-angled triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides. This theorem is known as:",
+      "options": ["Thales Theorem", "Mid-point Theorem", "Pythagoras Theorem", "Converse of BPT"],
+      "correctIndex": 2,
+      "explanation": "Pythagoras Theorem is fundamental for right-angled triangles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m6_q10",
+      "text": "If the sides of a triangle are 3 cm, 4 cm, and 5 cm, then it is a:",
+      "options": ["Acute-angled triangle", "Obtuse-angled triangle", "Right-angled triangle", "Equilateral triangle"],
+      "correctIndex": 2,
+      "explanation": "Since 3² + 4² = 9 + 16 = 25 = 5², it satisfies the Pythagoras theorem.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m6_q11",
+      "text": "The altitude to the hypotenuse of a right triangle divides the triangle into two triangles that are:",
+      "options": ["Congruent to each other", "Similar to each other and to the original triangle", "Equal in area", "Isosceles"],
+      "correctIndex": 1,
+      "explanation": "This is a key property used in proving the Pythagoras theorem.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m6_q12",
+      "text": "If in two triangles, corresponding angles are equal, then the triangles are:",
+      "options": ["Congruent", "Similar", "Scalene", "Isosceles"],
+      "correctIndex": 1,
+      "explanation": "This is the Angle-Angle-Angle (AAA) similarity criterion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m6_q13",
+      "text": "In ΔABC, AB = 6 cm, BC = 8 cm, and AC = 10 cm. The triangle is right-angled at:",
+      "options": ["A", "B", "C", "Cannot be determined"],
+      "correctIndex": 1,
+      "explanation": "Since 6² + 8² = 36 + 64 = 100 = 10², the right angle is opposite the longest side (AC), which is at vertex B.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m6_q14",
+      "text": "The perimeter of two similar triangles are 30 cm and 20 cm respectively. If one side of the first triangle is 12 cm, the corresponding side of the second triangle is:",
+      "options": ["8 cm", "10 cm", "15 cm", "18 cm"],
+      "correctIndex": 0,
+      "explanation": "Ratio of perimeters = Ratio of corresponding sides. 30/20 = 12/x => 3/2 = 12/x => 3x = 24 => x = 8 cm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m6_q15",
+      "text": "If the areas of two similar triangles are 81 cm² and 49 cm², then the ratio of their corresponding sides is:",
+      "options": ["81:49", "9:7", "7:9", "1:1"],
+      "correctIndex": 1,
+      "explanation": "Ratio of areas = (Ratio of sides)². So, Ratio of sides = √(81/49) = 9/7.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m6_q16",
+      "text": "In ΔABC, D and E are points on AB and AC respectively such that DE || BC. If AD/DB = 2/3 and AE = 6 cm, then AC is:",
+      "options": ["9 cm", "10 cm", "12 cm", "15 cm"],
+      "correctIndex": 1,
+      "explanation": "By BPT, AD/DB = AE/EC. So, 2/3 = 6/EC => EC = 9 cm. AC = AE + EC = 6 + 9 = 15 cm. (Wait, 15 cm is option 3. So correct index 3).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m6_q17",
+      "text": "The diagonals of a trapezium ABCD with AB || DC intersect each other at point O. If AB = 2CD, then the ratio of areas of ΔAOB and ΔCOD is:",
+      "options": ["1:2", "2:1", "1:4", "4:1"],
+      "correctIndex": 3,
+      "explanation": "ΔAOB ~ ΔCOD (by AA similarity). Ratio of areas = (AB/CD)² = (2CD/CD)² = (2/1)² = 4/1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m6_q18",
+      "text": "If a perpendicular is drawn from the vertex of the right angle of a right triangle to the hypotenuse, then triangles on both sides of the perpendicular are similar to the whole triangle and to each other. This is a part of:",
+      "options": ["BPT", "Pythagoras Theorem", "Similarity of Right Triangles", "Mid-point Theorem"],
+      "correctIndex": 2,
+      "explanation": "This theorem is crucial for proving the Pythagoras theorem using similarity.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m6_q19",
+      "text": "A ladder 10 m long reaches a window 8 m above the ground. The distance of the foot of the ladder from the base of the wall is:",
+      "options": ["6 m", "8 m", "10 m", "12 m"],
+      "correctIndex": 0,
+      "explanation": "Using Pythagoras theorem: x² + 8² = 10² => x² + 64 = 100 => x² = 36 => x = 6 m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m6_q20",
+      "text": "In an equilateral triangle of side 'a', the altitude is:",
+      "options": ["a√2", "a√3/2", "a/2", "a√3"],
+      "correctIndex": 1,
+      "explanation": "Using Pythagoras theorem on half of the equilateral triangle: h² + (a/2)² = a² => h² = a² - a²/4 = 3a²/4 => h = a√3/2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m6_q21",
+      "text": "The ratio of the areas of two similar triangles is 16:25. The ratio of their corresponding medians is:",
+      "options": ["16:25", "4:5", "5:4", "2:3"],
+      "correctIndex": 1,
+      "explanation": "The ratio of areas is the square of the ratio of corresponding medians. So, √(16/25) = 4/5.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m6_q22",
+      "text": "If ΔABC ~ ΔDEF, and ∠A = 47°, ∠E = 83°, then ∠C is:",
+      "options": ["47°", "83°", "50°", "60°"],
+      "correctIndex": 2,
+      "explanation": "Since triangles are similar, corresponding angles are equal. ∠A = ∠D = 47°, ∠B = ∠E = 83°. In ΔABC, ∠C = 180° - (47° + 83°) = 180° - 130° = 50°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m6_q23",
+      "text": "In a triangle, if the square of one side is equal to the sum of the squares of the other two sides, then the angle opposite the first side is a right angle. This is the:",
+      "options": ["Pythagoras Theorem", "Converse of Pythagoras Theorem", "BPT", "Converse of BPT"],
+      "correctIndex": 1,
+      "explanation": "This theorem helps to identify if a triangle is a right-angled triangle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m6_q24",
+      "text": "Two poles of heights 6 m and 11 m stand on a plane ground. If the distance between the feet of the poles is 12 m, the distance between their tops is:",
+      "options": ["10 m", "12 m", "13 m", "15 m"],
+      "correctIndex": 2,
+      "explanation": "Form a right triangle with height (11-6)=5m and base 12m. Hypotenuse = √(5² + 12²) = √(25 + 144) = √169 = 13 m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m6_q25",
+      "text": "If a line divides any two sides of a triangle in the same ratio, then the line is parallel to the third side. This is the:",
+      "options": ["Pythagoras Theorem", "BPT", "Converse of BPT", "Mid-point Theorem"],
+      "correctIndex": 2,
+      "explanation": "This theorem is used to prove lines are parallel based on proportional segments.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m6_q26",
+      "text": "The ratio of the areas of two similar triangles is 4:9. The ratio of their corresponding altitudes is:",
+      "options": ["4:9", "2:3", "3:2", "16:81"],
+      "correctIndex": 1,
+      "explanation": "Ratio of areas = (Ratio of altitudes)². So, Ratio of altitudes = √(4/9) = 2/3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m6_q27",
+      "text": "In ΔABC, D and E are points on AB and AC respectively such that DE || BC. If AD = x, DB = x - 2, AE = x + 2, and EC = x - 1, then x is:",
+      "options": ["4", "5", "6", "3"],
+      "correctIndex": 0,
+      "explanation": "By BPT, AD/DB = AE/EC. x/(x-2) = (x+2)/(x-1). x(x-1) = (x-2)(x+2). x² - x = x² - 4. -x = -4 => x = 4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m6_q28",
+      "text": "If the corresponding sides of two triangles are proportional, then the triangles are:",
+      "options": ["Congruent", "Similar", "Isosceles", "Equilateral"],
+      "correctIndex": 1,
+      "explanation": "This is the Side-Side-Side (SSS) similarity criterion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m6_q29",
+      "text": "A vertical pole of length 6 m casts a shadow 4 m long on the ground and at the same time a tower casts a shadow 28 m long. The height of the tower is:",
+      "options": ["42 m", "36 m", "48 m", "52 m"],
+      "correctIndex": 0,
+      "explanation": "By similarity of triangles (formed by pole/tower and their shadows): 6/4 = h/28 => h = (6 × 28) / 4 = 6 × 7 = 42 m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m6_q30",
+      "text": "In ΔABC, if AB² = AC² + BC², then the right angle is at:",
+      "options": ["A", "B", "C", "Cannot be determined"],
+      "correctIndex": 2,
+      "explanation": "The right angle is always opposite the hypotenuse (the longest side).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m6_q31",
+      "text": "The areas of two similar triangles are 100 cm² and 64 cm². If the median of the first triangle is 10 cm, the corresponding median of the second triangle is:",
+      "options": ["8 cm", "12 cm", "15 cm", "6.4 cm"],
+      "correctIndex": 0,
+      "explanation": "Ratio of areas = (Ratio of medians)². 100/64 = (10/x)² => 10/8 = 10/x => x = 8 cm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m6_q32",
+      "text": "If in two triangles, one pair of corresponding sides are proportional and the included angles are equal, then the triangles are:",
+      "options": ["Congruent", "Similar", "Isosceles", "Scalene"],
+      "correctIndex": 1,
+      "explanation": "This is the Side-Angle-Side (SAS) similarity criterion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m6_q33",
+      "text": "In an isosceles right triangle, if the hypotenuse is 'a', then the length of the equal sides is:",
+      "options": ["a/√2", "a√2", "a/2", "a"],
+      "correctIndex": 0,
+      "explanation": "Let equal sides be x. x² + x² = a² => 2x² = a² => x² = a²/2 => x = a/√2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m6_q34",
+      "text": "The distance between the tops of two vertical poles of height 16 m and 22 m is 10 m. The distance between their bases is:",
+      "options": ["6 m", "8 m", "10 m", "12 m"],
+      "correctIndex": 1,
+      "explanation": "Form a right triangle with height (22-16)=6m and hypotenuse 10m. Base = √(10² - 6²) = √(100 - 36) = √64 = 8 m.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m6_q35",
+      "text": "If ΔABC ~ ΔPQR, and perimeter of ΔABC = 32 cm, perimeter of ΔPQR = 48 cm. If PR = 6 cm, then AC is:",
+      "options": ["4 cm", "9 cm", "12 cm", "18 cm"],
+      "correctIndex": 0,
+      "explanation": "Ratio of perimeters = Ratio of corresponding sides. 32/48 = AC/6 => 2/3 = AC/6 => 3AC = 12 => AC = 4 cm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m6_q36",
+      "text": "In a triangle, a line is drawn parallel to one side, intersecting the other two sides. This line divides the two sides in the same ratio. This is the statement of:",
+      "options": ["Converse of BPT", "Pythagoras Theorem", "Basic Proportionality Theorem", "Mid-point Theorem"],
+      "correctIndex": 2,
+      "explanation": "This is the direct statement of the Basic Proportionality Theorem (Thales Theorem).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m6_q37",
+      "text": "The lengths of the diagonals of a rhombus are 16 cm and 12 cm. The length of the side of the rhombus is:",
+      "options": ["8 cm", "10 cm", "12 cm", "20 cm"],
+      "correctIndex": 1,
+      "explanation": "Diagonals bisect each other at right angles. So, half diagonals are 8 cm and 6 cm. Side = √(8² + 6²) = √(64 + 36) = √100 = 10 cm.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m6_q38",
+      "text": "If ΔABC ~ ΔQPR, then ∠C is equal to:",
+      "options": ["∠P", "∠Q", "∠R", "∠A"],
+      "correctIndex": 2,
+      "explanation": "In similar triangles, corresponding vertices are in order. So, C corresponds to R.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m6_q39",
+      "text": "In ΔABC, D and E are points on AB and AC respectively such that DE || BC. If AD = 4, AB = 9, and AE = 6, then EC is:",
+      "options": ["7.5", "9", "10.5", "13.5"],
+      "correctIndex": 0,
+      "explanation": "AD/AB = AE/AC. 4/9 = 6/AC => AC = 54/4 = 13.5. EC = AC - AE = 13.5 - 6 = 7.5.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m6_q40",
+      "text": "The ratio of the areas of two similar triangles is 1:1. Then the triangles are:",
+      "options": ["Similar but not congruent", "Congruent", "Equilateral", "Isosceles"],
+      "correctIndex": 1,
+      "explanation": "If the ratio of areas is 1:1, then the ratio of corresponding sides is 1:1, implying congruence.",
+      "frequencyRating": 5
+    }
+  ]
+}

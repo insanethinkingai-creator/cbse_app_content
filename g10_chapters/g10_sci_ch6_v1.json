@@ -1,0 +1,330 @@
+{
+  "id": "g10_sci_ch6",
+  "grade": "10",
+  "subject": "Science",
+  "number": "6",
+  "title": "Control and Coordination",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_s6_q1",
+      "text": "The functional and structural unit of the nervous system is:",
+      "options": ["Nephron", "Neuron", "Alveoli", "Synapse"],
+      "correctIndex": 1,
+      "explanation": "Neurons are specialized cells that transmit information through electrical and chemical signals throughout the body.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q2",
+      "text": "The gap between two neurons where information is transmitted is called:",
+      "options": ["Axon", "Dendrite", "Synapse", "Cell body"],
+      "correctIndex": 2,
+      "explanation": "A synapse is the junction between the axon end of one neuron and the dendrite of the next.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q3",
+      "text": "In a neuron, the acquisition of information takes place at the:",
+      "options": ["Axon", "Nerve endings", "Dendritic tip", "Cell body"],
+      "correctIndex": 2,
+      "explanation": "Information is first picked up by the specialized tips of the dendrites.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q4",
+      "text": "The correct path of a nerve impulse is:",
+      "options": ["Dendrite → Axon → Cell body", "Axon → Dendrite → Cell body", "Dendrite → Cell body → Axon", "Cell body → Dendrite → Axon"],
+      "correctIndex": 2,
+      "explanation": "The impulse starts at the dendrite, travels to the cell body, and then along the axon to its end.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q5",
+      "text": "Reflex actions are mediated through the:",
+      "options": ["Brain", "Spinal cord", "Muscle cells", "Receptors"],
+      "correctIndex": 1,
+      "explanation": "Reflex arcs are formed in the spinal cord to provide quick, involuntary responses to stimuli.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q6",
+      "text": "The part of the brain responsible for thinking, intelligence, and memory is:",
+      "options": ["Cerebellum", "Medulla", "Cerebrum", "Hypothalamus"],
+      "correctIndex": 2,
+      "explanation": "The cerebrum (part of the forebrain) is the main thinking part of the human brain.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q7",
+      "text": "Which part of the brain maintains posture and balance of the body?",
+      "options": ["Cerebrum", "Cerebellum", "Medulla", "Pons"],
+      "correctIndex": 1,
+      "explanation": "The cerebellum, located in the hindbrain, is responsible for precision and maintaining body equilibrium.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q8",
+      "text": "Involuntary actions like salivation, vomiting, and blood pressure are controlled by:",
+      "options": ["Cerebrum", "Cerebellum", "Medulla in hindbrain", "Midbrain"],
+      "correctIndex": 2,
+      "explanation": "The medulla controls essential involuntary functions that we do not consciously direct.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q9",
+      "text": "The protective bony box that encloses the brain is the:",
+      "options": ["Vertebral column", "Cranium", "Rib cage", "Sternum"],
+      "correctIndex": 1,
+      "explanation": "The cranium or skull protects the delicate brain from external injuries.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s6_q10",
+      "text": "The movement of a sunflower in response to the path of the sun is an example of:",
+      "options": ["Geotropism", "Phototropism", "Hydrotropism", "Chemotropism"],
+      "correctIndex": 1,
+      "explanation": "Phototropism is the directional movement or growth of a plant in response to light.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q11",
+      "text": "Growth of roots towards gravity is called:",
+      "options": ["Positive phototropism", "Positive geotropism", "Negative geotropism", "Chemotropism"],
+      "correctIndex": 1,
+      "explanation": "Roots grow towards gravity (downwards), showing positive geotropism.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q12",
+      "text": "The movement of pollen tubes towards ovules is an example of:",
+      "options": ["Hydrotropism", "Chemotropism", "Geotropism", "Phototropism"],
+      "correctIndex": 1,
+      "explanation": "Pollen tubes grow towards the chemicals produced by the ovule, which is a chemotropic response.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q13",
+      "text": "Which plant hormone is responsible for cell elongation and growth in shoots?",
+      "options": ["Auxin", "Gibberellin", "Cytokinin", "Abscisic acid"],
+      "correctIndex": 0,
+      "explanation": "Auxins help cells grow longer on the side of the shoot away from light.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q14",
+      "text": "Which hormone promotes stem growth in plants?",
+      "options": ["Auxin", "Gibberellin", "Abscisic acid", "Insulin"],
+      "correctIndex": 1,
+      "explanation": "Gibberellins, like auxins, help in the growth of the stem.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s6_q15",
+      "text": "Which plant hormone promotes cell division?",
+      "options": ["Auxin", "Gibberellin", "Cytokinin", "Abscisic acid"],
+      "correctIndex": 2,
+      "explanation": "Cytokinins are found in higher concentrations in areas of rapid cell division, like fruits and seeds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q16",
+      "text": "The hormone that inhibits growth and causes wilting of leaves is:",
+      "options": ["Auxin", "Gibberellin", "Cytokinin", "Abscisic acid"],
+      "correctIndex": 3,
+      "explanation": "Abscisic acid is a growth inhibitor that helps the plant respond to stress.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q17",
+      "text": "The movement of 'Touch-me-not' (Mimosa pudica) leaves upon contact is:",
+      "options": ["Directional growth", "Nastic movement", "Geotropism", "Phototropism"],
+      "correctIndex": 1,
+      "explanation": "This is a non-directional movement where leaves fold due to changes in water amount in cells, not growth.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s6_q18",
+      "text": "Iodine is necessary for the synthesis of which hormone?",
+      "options": ["Insulin", "Adrenaline", "Thyroxine", "Growth Hormone"],
+      "correctIndex": 2,
+      "explanation": "Thyroid gland requires iodine to produce thyroxine, which regulates metabolism.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q19",
+      "text": "Deficiency of Iodine causes which disease?",
+      "options": ["Diabetes", "Goitre", "Dwarfism", "Scurvy"],
+      "correctIndex": 1,
+      "explanation": "Swelling in the neck (goitre) is a common symptom of iodine deficiency in the diet.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q20",
+      "text": "The gland known as the 'master gland' that controls other endocrine glands is:",
+      "options": ["Thyroid", "Adrenal", "Pituitary", "Pancreas"],
+      "correctIndex": 2,
+      "explanation": "The pituitary gland secretes many hormones that regulate the activities of other glands.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q21",
+      "text": "Which hormone is secreted by the pancreas to regulate blood sugar levels?",
+      "options": ["Glucagon", "Insulin", "Estrogen", "Testosterone"],
+      "correctIndex": 1,
+      "explanation": "Insulin helps lower blood glucose levels by helping cells absorb sugar.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q22",
+      "text": "The 'fight or flight' hormone secreted during emergency situations is:",
+      "options": ["Thyroxine", "Adrenaline", "Insulin", "Oestrogen"],
+      "correctIndex": 1,
+      "explanation": "Adrenaline increases heart rate and blood flow to muscles to prepare the body for action.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q23",
+      "text": "The male sex hormone responsible for changes during puberty is:",
+      "options": ["Progesterone", "Estrogen", "Testosterone", "Insulin"],
+      "correctIndex": 2,
+      "explanation": "Testosterone is produced by the testes and leads to secondary sexual characteristics in males.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q24",
+      "text": "Growth hormone deficiency during childhood results in:",
+      "options": ["Gigantism", "Dwarfism", "Goitre", "Diabetes"],
+      "correctIndex": 1,
+      "explanation": "Inadequate secretion of growth hormone from the pituitary gland leads to dwarfism.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s6_q25",
+      "text": "The timing and amount of hormone release are regulated by:",
+      "options": ["Reflex arc", "Feedback mechanisms", "Voluntary control", "Nerve impulses"],
+      "correctIndex": 1,
+      "explanation": "Feedback mechanisms ensure that hormones are secreted only when and in the amount needed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q26",
+      "text": "Receptors located in our tongue that detect taste are called:",
+      "options": ["Olfactory receptors", "Gustatory receptors", "Photoreceptors", "Thermoreceptors"],
+      "correctIndex": 1,
+      "explanation": "Gustatory receptors are responsible for our sense of taste.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s6_q27",
+      "text": "Receptors that detect smell are called:",
+      "options": ["Gustatory", "Olfactory", "Auditory", "Tactile"],
+      "correctIndex": 1,
+      "explanation": "Olfactory receptors located in the nasal cavity help us perceive different odors.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s6_q28",
+      "text": "Which part of the neuron converts electrical signals into chemical signals?",
+      "options": ["Dendrite", "Axon", "Nerve ending/Synapse", "Cell body"],
+      "correctIndex": 2,
+      "explanation": "At the nerve ending, chemicals (neurotransmitters) are released to cross the synapse.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q29",
+      "text": "Reflex arc is formed by neurons of which system?",
+      "options": ["Central Nervous System", "Peripheral Nervous System", "Both A and B", "None"],
+      "correctIndex": 2,
+      "explanation": "It involves receptors, sensory neurons, spinal cord (CNS), and motor neurons.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s6_q30",
+      "text": "The main coordination center of the human body is the:",
+      "options": ["Spinal cord", "Heart", "Brain", "Kidneys"],
+      "correctIndex": 2,
+      "explanation": "The brain receives information from all parts of the body and integrates it.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q31",
+      "text": "Which part of the forebrain is associated with the sensation of hunger?",
+      "options": ["Cerebrum", "Hypothalamus", "Olfactory lobes", "Thalamus"],
+      "correctIndex": 1,
+      "explanation": "The hypothalamus contains centers that control hunger, thirst, and body temperature.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s6_q32",
+      "text": "Protection for the spinal cord is provided by the:",
+      "options": ["Cranium", "Vertebral column", "Ribs", "Sternum"],
+      "correctIndex": 1,
+      "explanation": "The vertebral column (backbone) encloses and protects the spinal cord.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q33",
+      "text": "Nervous tissue is made up of an organized network of:",
+      "options": ["Muscle fibers", "Nerve cells (neurons)", "Connective tissue", "Blood vessels"],
+      "correctIndex": 1,
+      "explanation": "Nervous tissue consists of neurons specialized for conducting information via electrical impulses.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s6_q34",
+      "text": "Plant coordination differs from animal coordination because plants lack:",
+      "options": ["Hormones", "Nervous system and muscles", "Growth", "Response to stimuli"],
+      "correctIndex": 1,
+      "explanation": "Plants use chemical means (hormones) for coordination as they have no specialized nervous or muscular tissues.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s6_q35",
+      "text": "Response of tendrils of a climbing plant to a support is an example of:",
+      "options": ["Phototropism", "Geotropism", "Thigmotropism", "Hydrotropism"],
+      "correctIndex": 2,
+      "explanation": "Growth in response to touch/contact is called thigmotropism.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s6_q36",
+      "text": "The Central Nervous System (CNS) consists of:",
+      "options": ["Brain and Spinal cord", "Cranial and Spinal nerves", "Heart and Lungs", "Receptors and Effectors"],
+      "correctIndex": 0,
+      "explanation": "The CNS is the processing center of the body.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q37",
+      "text": "The Peripheral Nervous System (PNS) consists of:",
+      "options": ["Brain and Spinal cord", "Cranial and Spinal nerves", "Motor neurons only", "Sensory neurons only"],
+      "correctIndex": 1,
+      "explanation": "The PNS facilitates communication between the CNS and the rest of the body.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s6_q38",
+      "text": "Which gland secretes hormones that prepare the body for 'emergency'?",
+      "options": ["Thyroid", "Pituitary", "Adrenal", "Testis"],
+      "correctIndex": 2,
+      "explanation": "Adrenal glands secrete adrenaline to handle stress or danger.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q39",
+      "text": "A feedback mechanism in the body is illustrated by the release of ______ when blood sugar levels rise.",
+      "options": ["Adrenaline", "Thyroxine", "Insulin", "Growth Hormone"],
+      "correctIndex": 2,
+      "explanation": "Cells of the pancreas detect high sugar and respond by secreting more insulin.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s6_q40",
+      "text": "Which of the following is a female sex hormone?",
+      "options": ["Testosterone", "Estrogen", "Adrenaline", "Insulin"],
+      "correctIndex": 1,
+      "explanation": "Estrogen (and progesterone) are female sex hormones produced by the ovaries.",
+      "frequencyRating": 5
+    }
+  ]
+}

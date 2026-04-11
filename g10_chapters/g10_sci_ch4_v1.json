@@ -1,0 +1,330 @@
+{
+  "id": "g10_sci_ch4",
+  "grade": "10",
+  "subject": "Science",
+  "number": "4",
+  "title": "Carbon and its Compounds",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_s4_q1",
+      "text": "Carbon forms bonds primarily by:",
+      "options": ["Gaining 4 electrons", "Losing 4 electrons", "Sharing electrons", "Metallic bonding"],
+      "correctIndex": 2,
+      "explanation": "Carbon has 4 valence electrons and forms covalent bonds by sharing them to achieve a stable octet configuration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q2",
+      "text": "The property of self-linking of carbon atoms to form long chains is called:",
+      "options": ["Tetravalency", "Catenation", "Isomerism", "Hydrogenation"],
+      "correctIndex": 1,
+      "explanation": "Catenation is the unique ability of carbon to form stable bonds with other carbon atoms, resulting in long chains or rings.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q3",
+      "text": "Hydrocarbons containing only single bonds between carbon atoms are called:",
+      "options": ["Alkenes", "Alkynes", "Alkanes", "Arenes"],
+      "correctIndex": 2,
+      "explanation": "Saturated hydrocarbons with single C-C bonds are known as alkanes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q4",
+      "text": "Which of the following is an unsaturated hydrocarbon?",
+      "options": ["Methane", "Ethane", "Ethene", "Propane"],
+      "correctIndex": 2,
+      "explanation": "Ethene contains a double bond between carbon atoms, making it an unsaturated hydrocarbon.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q5",
+      "text": "The general formula for Alkenes is:",
+      "options": ["CnH2n+2", "CnH2n", "CnH2n-2", "CnHn"],
+      "correctIndex": 1,
+      "explanation": "Alkenes are hydrocarbons with at least one double bond and follow the general formula CnH2n.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q6",
+      "text": "Buckminsterfullerene is an allotrope of carbon containing how many atoms?",
+      "options": ["40", "50", "60", "70"],
+      "correctIndex": 2,
+      "explanation": "C60 or Buckminsterfullerene is a spherical molecule consisting of 60 carbon atoms arranged in pentagons and hexagons.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s4_q7",
+      "text": "A functional group -CHO represents:",
+      "options": ["Alcohol", "Ketone", "Aldehyde", "Carboxylic Acid"],
+      "correctIndex": 2,
+      "explanation": "-CHO is the functional group for the aldehyde family.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q8",
+      "text": "Compounds with the same molecular formula but different structures are called:",
+      "options": ["Homologues", "Isotopes", "Structural Isomers", "Allotropes"],
+      "correctIndex": 2,
+      "explanation": "Isomerism occurs when molecules have identical chemical formulas but distinct arrangements of atoms.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q9",
+      "text": "Which gas is released during the complete combustion of hydrocarbons?",
+      "options": ["Carbon monoxide", "Carbon dioxide", "Hydrogen", "Sulphur dioxide"],
+      "correctIndex": 1,
+      "explanation": "Complete combustion of hydrocarbons in sufficient oxygen produces carbon dioxide and water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q10",
+      "text": "The process of converting unsaturated oils to saturated fats is called:",
+      "options": ["Oxidation", "Substitution", "Hydrogenation", "Combustion"],
+      "correctIndex": 2,
+      "explanation": "Hydrogenation involves the addition of hydrogen to unsaturated bonds in the presence of a catalyst like Nickel.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q11",
+      "text": "Which functional group is present in CH3COCH3 (Acetone)?",
+      "options": ["Alcohol", "Aldehyde", "Ketone", "Ether"],
+      "correctIndex": 2,
+      "explanation": "Acetone contains the carbonyl group (>C=O) bonded to two other carbon atoms, which is a ketone.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s4_q12",
+      "text": "The successor of methane (CH4) in the homologous series is:",
+      "options": ["Ethane (C2H6)", "Ethene (C2H4)", "Propane (C3H8)", "Ethyne (C2H2)"],
+      "correctIndex": 0,
+      "explanation": "In an alkane homologous series, members differ by a -CH2 unit. Methane + CH2 = Ethane.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q13",
+      "text": "What is the catalyst used in the industrial hydrogenation of vegetable oils?",
+      "options": ["Iron", "Nickel", "Copper", "Manganese dioxide"],
+      "correctIndex": 1,
+      "explanation": "Nickel or Palladium are typically used as catalysts for the addition of hydrogen to vegetable oils.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q14",
+      "text": "Reaction of methane with chlorine in the presence of sunlight is a:",
+      "options": ["Addition reaction", "Substitution reaction", "Elimination reaction", "Oxidation reaction"],
+      "correctIndex": 1,
+      "explanation": "One or more hydrogen atoms in methane are replaced by chlorine atoms, which is a substitution reaction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q15",
+      "text": "The common name for Ethanoic acid is:",
+      "options": ["Formic acid", "Acetic acid", "Propionic acid", "Butyric acid"],
+      "correctIndex": 1,
+      "explanation": "Ethanoic acid is widely known as acetic acid.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q16",
+      "text": "A 5-8% solution of acetic acid in water is called:",
+      "options": ["Glacial acetic acid", "Brine", "Vinegar", "Rectified spirit"],
+      "correctIndex": 2,
+      "explanation": "Vinegar is a dilute solution of acetic acid used in food preservation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q17",
+      "text": "Pure ethanoic acid is called 'glacial' acetic acid because:",
+      "options": ["It looks like ice", "It freezes in cold climates", "It is very cold", "It is stored in glaciers"],
+      "correctIndex": 1,
+      "explanation": "Its melting point is 290 K, causing it to freeze into ice-like crystals in winter.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s4_q18",
+      "text": "The reaction of an acid and an alcohol to form a sweet-smelling substance is:",
+      "options": ["Saponification", "Esterification", "Hydrogenation", "Neutralization"],
+      "correctIndex": 1,
+      "explanation": "Esters are formed by the reaction of carboxylic acids and alcohols, typically in the presence of an acid catalyst.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q19",
+      "text": "Esters react in the presence of an alkali to give back alcohol and sodium salt of acid. This is:",
+      "options": ["Esterification", "Saponification", "Fermentation", "Dehydration"],
+      "correctIndex": 1,
+      "explanation": "This reaction is used in the preparation of soaps, hence called saponification.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q20",
+      "text": "Soaps are ______ salts of long chain carboxylic acids.",
+      "options": ["Sodium or Potassium", "Magnesium or Calcium", "Iron or Copper", "Ammonium"],
+      "correctIndex": 0,
+      "explanation": "Soaps are specifically sodium or potassium salts of long-chain fatty acids.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q21",
+      "text": "The 'tail' of a soap molecule is:",
+      "options": ["Hydrophilic (water-loving)", "Hydrophobic (water-fearing)", "Ionic", "Soluble in water"],
+      "correctIndex": 1,
+      "explanation": "The long hydrocarbon tail of soap is hydrophobic and dissolves in oils/grease.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q22",
+      "text": "Soap forms 'scum' with hard water due to the presence of:",
+      "options": ["Sodium and Potassium ions", "Calcium and Magnesium ions", "Chlorine and Bromine ions", "Carbonate ions"],
+      "correctIndex": 1,
+      "explanation": "Hard water contains Ca2+ and Mg2+ ions which react with soap to form an insoluble precipitate called scum.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q23",
+      "text": "Which of the following works efficiently even in hard water?",
+      "options": ["Soap", "Detergent", "Alcohol", "Acetic acid"],
+      "correctIndex": 1,
+      "explanation": "Detergents do not form insoluble precipitates with Calcium and Magnesium ions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q24",
+      "text": "The structure formed by soap molecules in water where tails point inward and heads point outward is:",
+      "options": ["Crystal", "Micelle", "Polymer", "Isomer"],
+      "correctIndex": 1,
+      "explanation": "Micelles are clusters where hydrophobic tails trap the dirt/oil in the center.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q25",
+      "text": "In the homologous series of alkanes, the difference in molecular mass between two adjacent members is:",
+      "options": ["12 u", "14 u", "16 u", "2 u"],
+      "correctIndex": 1,
+      "explanation": "Successive members differ by -CH2 group (C=12, H=1+1, Total=14 u).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q26",
+      "text": "What type of flame is produced by the combustion of saturated hydrocarbons in sufficient air?",
+      "options": ["Yellow sooty flame", "Clean blue flame", "Red flame", "No flame"],
+      "correctIndex": 1,
+      "explanation": "Saturated hydrocarbons generally burn with a clean blue flame due to complete combustion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s4_q27",
+      "text": "Unsaturated hydrocarbons burn with a ______ flame.",
+      "options": ["Clean blue", "Yellow sooty", "Green", "Colorless"],
+      "correctIndex": 1,
+      "explanation": "Because they have a high percentage of carbon, incomplete combustion occurs, leading to a yellow sooty flame.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s4_q28",
+      "text": "Which substance is used to oxidize ethanol to ethanoic acid?",
+      "options": ["Hydrogen gas", "Alkaline Potassium Permanganate", "Concentrated Sulphuric Acid", "Sodium metal"],
+      "correctIndex": 1,
+      "explanation": "Alkaline KMnO4 or acidified K2Cr2O7 are strong oxidizing agents used in this conversion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q29",
+      "text": "Reaction of ethanol with sodium metal releases which gas?",
+      "options": ["Oxygen", "Carbon dioxide", "Hydrogen", "Nitrogen"],
+      "correctIndex": 2,
+      "explanation": "Alcohols react with sodium to form sodium ethoxide and hydrogen gas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s4_q30",
+      "text": "What happens when ethanol is heated with concentrated sulphuric acid at 443 K?",
+      "options": ["It forms ethanoic acid", "It is dehydrated to form ethene", "It forms sodium ethoxide", "It forms an ester"],
+      "correctIndex": 1,
+      "explanation": "Concentrated H2SO4 acts as a dehydrating agent, removing water from ethanol to produce ethene.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q31",
+      "text": "Ethanoic acid reacts with sodium hydrogen carbonate to evolve:",
+      "options": ["Hydrogen", "Oxygen", "Carbon dioxide", "Sulphur dioxide"],
+      "correctIndex": 2,
+      "explanation": "Like most acids, it reacts with carbonates and bicarbonates to produce CO2 gas with brisk effervescence.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q32",
+      "text": "Diamond is a poor conductor of electricity because:",
+      "options": ["It is very hard", "It has no free electrons", "It is made of carbon", "It has a low melting point"],
+      "correctIndex": 1,
+      "explanation": "In diamond, all four valence electrons of carbon are involved in strong covalent bonds, leaving no mobile electrons.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s4_q33",
+      "text": "Graphite is a good conductor of electricity because:",
+      "options": ["It is soft and slippery", "It has one free electron per carbon atom", "It is an allotrope of carbon", "It has a hexagonal structure"],
+      "correctIndex": 1,
+      "explanation": "Each carbon atom in graphite is bonded to three others, leaving one free electron to move through the layers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q34",
+      "text": "What is the IUPAC name of the second member of the alkyne series?",
+      "options": ["Ethyne", "Propyne", "Butyne", "Pentyne"],
+      "correctIndex": 1,
+      "explanation": "The alkyne series starts with Ethyne (2C). The second member is Propyne (3C).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s4_q35",
+      "text": "How many covalent bonds are present in a molecule of ethane (C2H6)?",
+      "options": ["6", "7", "8", "9"],
+      "correctIndex": 1,
+      "explanation": "There are six C-H bonds and one C-C bond, totaling seven covalent bonds.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s4_q36",
+      "text": "Cyclohexane is an example of a:",
+      "options": ["Straight chain hydrocarbon", "Branched hydrocarbon", "Ring hydrocarbon", "Unsaturated hydrocarbon"],
+      "correctIndex": 2,
+      "explanation": "Cyclohexane (C6H12) consists of six carbon atoms arranged in a ring structure with single bonds.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s4_q37",
+      "text": "The heteroatom present in Chloro-methane is:",
+      "options": ["Carbon", "Hydrogen", "Chlorine", "Oxygen"],
+      "correctIndex": 2,
+      "explanation": "Heteroatoms are atoms other than carbon and hydrogen that replace hydrogen in a hydrocarbon chain.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s4_q38",
+      "text": "Denatured alcohol is ethanol made unfit for drinking by adding:",
+      "options": ["Water", "Sugar", "Methanol or dyes", "Acetic acid"],
+      "correctIndex": 2,
+      "explanation": "Methanol is poisonous and blue dyes are added to identify industrial alcohol and prevent misuse.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s4_q39",
+      "text": "Which of the following belongs to the same homologous series as C3H8?",
+      "options": ["C3H6", "C4H10", "C2H2", "C4H8"],
+      "correctIndex": 1,
+      "explanation": "C3H8 is propane (alkane). C4H10 is butane (alkane), following CnH2n+2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s4_q40",
+      "text": "Carbon cannot form C4+ cation because:",
+      "options": ["It is too small", "It would require a huge amount of energy to remove 4 electrons", "It has 6 protons", "It is a non-metal"],
+      "correctIndex": 1,
+      "explanation": "Removing four electrons from a carbon atom would leave a tiny cation with 6 protons holding onto only 2 electrons, which is energetically unfavorable.",
+      "frequencyRating": 4
+    }
+  ]
+}

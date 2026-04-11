@@ -1,0 +1,330 @@
+{
+  "id": "g10_sci_ch5",
+  "grade": "10",
+  "subject": "Science",
+  "number": "5",
+  "title": "Life Processes",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_s5_q1",
+      "text": "Which of the following are the raw materials required for photosynthesis in autotrophs?",
+      "options": ["Oxygen and Carbohydrates", "Carbon dioxide, Water, Chlorophyll and Sunlight", "Nitrogen and Phosphorus", "Glucose and Oxygen"],
+      "correctIndex": 1,
+      "explanation": "Autotrophs use inorganic materials like CO2 and H2O in the presence of sunlight and chlorophyll to synthesize organic food.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s5_q2",
+      "text": "The site of photosynthesis in the cells of a leaf is:",
+      "options": ["Mitochondria", "Chloroplast", "Cytoplasm", "Protoplasm"],
+      "correctIndex": 1,
+      "explanation": "Chloroplasts contain chlorophyll, the green pigment that traps solar energy for photosynthesis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s5_q3",
+      "text": "The opening and closing of the stomatal pore is a function of the:",
+      "options": ["Chloroplasts", "Guard cells", "Vascular bundles", "Epidermal cells"],
+      "correctIndex": 1,
+      "explanation": "Guard cells swell when water flows into them, causing the stomatal pore to open, and shrink when they lose water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s5_q4",
+      "text": "In which organism does the breakdown of pyruvate using oxygen take place in the mitochondria?",
+      "options": ["Yeast", "Amoeba", "Human muscle cells", "All aerobic organisms"],
+      "correctIndex": 3,
+      "explanation": "In aerobic respiration, the 3-carbon pyruvate molecule is broken down into CO2 and water within the mitochondria.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s5_q5",
+      "text": "Amoeba takes in food using temporary finger-like extensions of the cell surface called:",
+      "options": ["Cilia", "Flagella", "Pseudopodia", "Tentacles"],
+      "correctIndex": 2,
+      "explanation": "Pseudopodia fuse over the food particle to form a food vacuole for digestion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s5_q6",
+      "text": "Which enzyme present in saliva breaks down starch into sugar?",
+      "options": ["Pepsin", "Trypsin", "Salivary amylase", "Lipase"],
+      "correctIndex": 2,
+      "explanation": "Salivary amylase begins the chemical digestion of carbohydrates in the mouth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s5_q7",
+      "text": "The internal energy reserve in autotrophs is:",
+      "options": ["Glycogen", "Starch", "Protein", "Fatty acid"],
+      "correctIndex": 1,
+      "explanation": "Plants store excess carbohydrates in the form of starch, while animals store it as glycogen.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s5_q8",
+      "text": "What is the role of Hydrochloric acid (HCl) in the human stomach?",
+      "options": ["To digest fats", "To create an acidic medium for pepsin", "To emulsify vitamins", "To break down cellulose"],
+      "correctIndex": 1,
+      "explanation": "HCl creates an acidic environment necessary for the protein-digesting enzyme pepsin to function.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s5_q9",
+      "text": "The secretion of the liver that helps in the emulsification of fats is:",
+      "options": ["Gastric juice", "Pancreatic juice", "Bile juice", "Intestinal juice"],
+      "correctIndex": 2,
+      "explanation": "Bile salts break down large fat globules into smaller ones, increasing enzyme efficiency.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s5_q10",
+      "text": "The longest part of the alimentary canal in humans is the:",
+      "options": ["Oesophagus", "Stomach", "Small intestine", "Large intestine"],
+      "correctIndex": 2,
+      "explanation": "The small intestine is long and highly coiled to provide a large surface area for absorption.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s5_q11",
+      "text": "The process of digestion in the small intestine is completed by enzymes secreted by:",
+      "options": ["Liver only", "Pancreas only", "Intestinal walls only", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "The small intestine receives secretions from the liver and pancreas, and its own walls secrete intestinal juice.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s5_q12",
+      "text": "The inner lining of the small intestine has numerous finger-like projections called:",
+      "options": ["Alveoli", "Nephrons", "Villi", "Capillaries"],
+      "correctIndex": 2,
+      "explanation": "Villi increase the surface area for the absorption of digested food into the blood.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s5_q13",
+      "text": "In yeast, the breakdown of pyruvate during anaerobic respiration results in:",
+      "options": ["Lactic acid and energy", "Ethanol, CO2 and energy", "CO2, Water and energy", "Pyruvic acid"],
+      "correctIndex": 1,
+      "explanation": "Fermentation in yeast converts pyruvate into ethanol and carbon dioxide in the absence of oxygen.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s5_q14",
+      "text": "Which of the following products are formed during anaerobic respiration in our muscle cells?",
+      "options": ["Ethanol and CO2", "Lactic acid and energy", "CO2 and Water", "Ozone"],
+      "correctIndex": 1,
+      "explanation": "During vigorous exercise, lack of oxygen leads to lactic acid buildup in muscles, causing cramps.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s5_q15",
+      "text": "The first step of respiration is the breakdown of glucose (6-carbon) into pyruvate (3-carbon), which occurs in the:",
+      "options": ["Mitochondria", "Chloroplast", "Cytoplasm", "Nucleus"],
+      "correctIndex": 2,
+      "explanation": "Glycolysis, the initial stage of respiration, takes place in the cytoplasm of all cells.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s5_q16",
+      "text": "Rings of cartilage are present in the throat to ensure that:",
+      "options": ["Air is filtered", "The air passage does not collapse", "Oxygen is absorbed", "Sound is produced"],
+      "correctIndex": 1,
+      "explanation": "Cartilaginous rings keep the trachea open even when there is little air in it.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s5_q17",
+      "text": "The balloon-like structures in the lungs where gas exchange takes place are called:",
+      "options": ["Bronchi", "Bronchioles", "Alveoli", "Diaphragm"],
+      "correctIndex": 2,
+      "explanation": "Alveoli provide an extensive surface for the exchange of oxygen and carbon dioxide with blood capillaries.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s5_q18",
+      "text": "The respiratory pigment in human beings which has a high affinity for oxygen is:",
+      "options": ["Chlorophyll", "Hemoglobin", "Melanin", "Bilirubin"],
+      "correctIndex": 1,
+      "explanation": "Hemoglobin in red blood cells carries oxygen from the lungs to all tissues of the body.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s5_q19",
+      "text": "In the human heart, the separation of the right side and the left side allows:",
+      "options": ["Mixing of blood", "High energy supply by separating O2 and de-O2 blood", "Blood to flow to lungs only", "Pressure to remain low"],
+      "correctIndex": 1,
+      "explanation": "The four-chambered heart prevents the mixing of oxygenated and deoxygenated blood, essential for high metabolic needs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s5_q20",
+      "text": "Which organisms have a three-chambered heart and can tolerate some mixing of blood?",
+      "options": ["Fish", "Amphibians and many Reptiles", "Birds", "Mammals"],
+      "correctIndex": 1,
+      "explanation": "Cold-blooded animals like frogs do not need as much energy for body temperature regulation, so they have 3 chambers.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s5_q21",
+      "text": "Blood pressure is measured using an instrument called a:",
+      "options": ["Thermometer", "Barometer", "Sphygmomanometer", "Ammeter"],
+      "correctIndex": 2,
+      "explanation": "A sphygmomanometer measures the systolic and diastolic pressure of blood in the arteries.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s5_q22",
+      "text": "Which blood vessels have thick elastic walls to carry blood away from the heart under high pressure?",
+      "options": ["Veins", "Arteries", "Capillaries", "Lymphatics"],
+      "correctIndex": 1,
+      "explanation": "Arteries carry oxygenated blood (except pulmonary) at high pressure, requiring thick walls.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s5_q23",
+      "text": "Veins contain ______ to ensure that blood flows only in one direction towards the heart.",
+      "options": ["Thick walls", "Valves", "Hemoglobin", "Platelets"],
+      "correctIndex": 1,
+      "explanation": "Valves prevent the backflow of blood as it moves at lower pressure in the veins.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s5_q24",
+      "text": "The blood cells responsible for plugging leaks by helping in the clotting of blood are:",
+      "options": ["Red Blood Cells", "White Blood Cells", "Platelets", "Plasma cells"],
+      "correctIndex": 2,
+      "explanation": "Platelets circulate in the blood and form clots at the site of injury to prevent blood loss.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s5_q25",
+      "text": "Lymph, also known as tissue fluid, is similar to the plasma of blood but is:",
+      "options": ["Red and rich in proteins", "Colorless and contains less protein", "Yellow and rich in fats", "Blue"],
+      "correctIndex": 1,
+      "explanation": "Lymph escapes from capillaries into intercellular spaces; it is colorless and helps in transport and immunity.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s5_q26",
+      "text": "In plants, Xylem is responsible for the transport of:",
+      "options": ["Food", "Water and minerals", "Amino acids", "Oxygen"],
+      "correctIndex": 1,
+      "explanation": "Xylem tissue consists of tracheids and vessels that form a continuous system to move water from roots upward.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s5_q27",
+      "text": "The loss of water in the form of vapor from the aerial parts of a plant is called:",
+      "options": ["Translocation", "Transpiration", "Respiration", "Excretion"],
+      "correctIndex": 1,
+      "explanation": "Transpiration creates a suction pull that helps in the upward movement of water and dissolved minerals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s5_q28",
+      "text": "The transport of soluble products of photosynthesis (food) in plants is called:",
+      "options": ["Transpiration", "Translocation", "Evaporation", "Diffusion"],
+      "correctIndex": 1,
+      "explanation": "Translocation occurs in the phloem and requires energy from ATP.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s5_q29",
+      "text": "The basic filtration unit in the human kidney is the:",
+      "options": ["Ureter", "Nephron", "Urethra", "Bladder"],
+      "correctIndex": 1,
+      "explanation": "Each kidney contains a large number of nephrons that filter waste from the blood.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s5_q30",
+      "text": "The cup-shaped end of a nephron that encloses a cluster of capillaries is the:",
+      "options": ["Glomerulus", "Bowman's capsule", "Tubule", "Collecting duct"],
+      "correctIndex": 1,
+      "explanation": "The Bowman's capsule collects the filtrate from the glomerulus.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s5_q31",
+      "text": "During urine formation, which substances are selectively reabsorbed by the tubular part of the nephron?",
+      "options": ["Urea and Uric acid", "Glucose, Amino acids, Salts and Water", "Carbon dioxide", "Platelets"],
+      "correctIndex": 1,
+      "explanation": "Useful substances are taken back into the blood, while waste remains to form urine.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s5_q32",
+      "text": "Urine is stored in the ______ until the pressure of the expanded organ leads to the urge to pass it out.",
+      "options": ["Kidneys", "Ureters", "Urinary bladder", "Urethra"],
+      "correctIndex": 2,
+      "explanation": "The bladder is a muscular organ that holds urine until it is excreted through the urethra.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s5_q33",
+      "text": "Plants get rid of excess water through:",
+      "options": ["Gums", "Transpiration", "Falling leaves", "Resins"],
+      "correctIndex": 1,
+      "explanation": "Transpiration through stomata is the primary way plants release excess water.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s5_q34",
+      "text": "The process of using an artificial kidney to remove nitrogenous waste products from the blood is:",
+      "options": ["Electrolysis", "Hemodialysis", "Hydrolysis", "Photosynthesis"],
+      "correctIndex": 1,
+      "explanation": "Hemodialysis mimics kidney function for patients with kidney failure.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s5_q35",
+      "text": "Which of the following is a nitrogenous waste excreted by humans?",
+      "options": ["Ammonia gas", "Urea", "Nitric acid", "Sucrose"],
+      "correctIndex": 1,
+      "explanation": "Urea and uric acid are the main nitrogenous wastes produced by protein metabolism in humans.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s5_q36",
+      "text": "The movements of the alimentary canal to push food forward are called:",
+      "options": ["Circular movements", "Peristaltic movements", "Brownian movements", "Oscillations"],
+      "correctIndex": 1,
+      "explanation": "Peristalsis is the rhythmic contraction and relaxation of muscles in the digestive tract.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s5_q37",
+      "text": "The enzyme trypsin, secreted by the pancreas, acts on:",
+      "options": ["Fats", "Carbohydrates", "Proteins", "Vitamins"],
+      "correctIndex": 2,
+      "explanation": "Trypsin helps in the digestion of proteins in the small intestine.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s5_q38",
+      "text": "What protects the inner lining of the stomach from the action of Hydrochloric acid?",
+      "options": ["Pepsin", "Mucus", "Bile", "Villi"],
+      "correctIndex": 1,
+      "explanation": "Mucus forms a protective layer to prevent HCl from damaging the stomach wall.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s5_q39",
+      "text": "Herbivores have a longer small intestine compared to carnivores to allow the digestion of:",
+      "options": ["Meat", "Proteins", "Cellulose", "Fats"],
+      "correctIndex": 2,
+      "explanation": "Cellulose in grass is difficult to digest and requires a longer path for complete breakdown.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s5_q40",
+      "text": "Energy currency for most cellular processes is:",
+      "options": ["ADP", "ATP", "Pyruvate", "Glucose"],
+      "correctIndex": 1,
+      "explanation": "Adenosine triphosphate (ATP) provides the energy needed for endothermic reactions in cells.",
+      "frequencyRating": 5
+    }
+  ]
+}

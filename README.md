@@ -1,11 +1,12 @@
-# CBSE Grade 7 Quiz App Content
+# CBSE Grade 7 & 10 Quiz App Content
 
-This directory contains structured JSON data for a Grade 7 MCQ Quiz App, strictly aligned with the **NCERT Rationalised Syllabus (2023-24 onwards)** and historical exam frequency patterns.
+This directory contains structured JSON data for Grade 7 and Grade 10 MCQ Quiz Apps, strictly aligned with the **NCERT Rationalised Syllabus (2023-24 onwards)** and historical exam frequency patterns.
 
 ## File Structure
 
 - `version.json`: The manifest file tracking the latest versions of all available chapters.
-- `g7_chapters/g7_{subject}_ch{number}_v{version}.json`: Individual chapter files containing 10 MCQs each, located in a grade-specific subdirectory.
+- `g7_chapters/`: Grade 7 chapter files (10 MCQs each).
+- `g10_chapters/`: Grade 10 chapter files (40 MCQs each).
 
 ## Data Schema
 
@@ -35,12 +36,13 @@ Each question includes:
 To generate additional chapters or update existing ones, use the following prompt structure with a coding assistant:
 
 ### Instruction Template
-> "Act as a CBSE Curriculum Expert and Data Engineer. Generate JSON data for Grade 7 [Subject] Chapter [Number]: [Chapter Title]. 
+> "Act as a CBSE Curriculum Expert and Data Engineer. Generate JSON data for Grade {GRADE} {SUBJECT} Chapter {NUMBER}: {TITLE}.
 > 
-> 1. Follow the schema used in existing files (e.g., g7_math_ch1).
-> 2. Ensure exactly 10 questions ranging from Easy to Conceptual.
-> 3. Provide accurate explanations for each answer.
-> 4. Use the ID format: g7_[m/s][chapter_number]_q[question_number]."
+> 1. **Schema Requirements**: Use keys `id`, `grade`, `subject`, `number`, `title`, `version`, and `questions` (array).
+> 2. **Question Object**: Include `id` (format: g{GRADE}_{SUBJ_INITIAL}{NUMBER}_q{INDEX}), `text`, `options` (array of exactly 4), `correctIndex` (0-3), `explanation`, and `frequencyRating` (1-5).
+> 3. **Quantity**: Generate exactly {COUNT} questions (10 for Grade 7, 40 for Grade 10).
+> 4. **Content**: Ensure alignment with NCERT Rationalised Syllabus (2023-24). Provide a mix of easy, conceptual, and high-frequency exam questions with accurate explanations.
+> 5. **Output**: Return only the raw valid JSON code block."
 
 ## Content Maintenance & Bundling
 
@@ -133,6 +135,70 @@ This script automatically packages all chapters into `g7_v1.zip`, calculates its
 | 6 | Expert Detectives | ✅ v1 |
 | 7 | The Invention of Vita-Wonk | ✅ v1 |
 | 8 | A Homage to our Brave Soldiers | ✅ v1 |
+
+## Class 10 Syllabus Coverage (NCERT Rationalised)
+
+### Mathematics (40 Questions per Chapter)
+| Ch # | Chapter Title | Status |
+| :--- | :--- | :--- |
+| 1 | Real Numbers | ✅ v1 |
+| 2 | Polynomials | ✅ v1 |
+| 3 | Pair of Linear Equations in Two Variables | ✅ v1 |
+| 4 | Quadratic Equations | ✅ v1 |
+| 5 | Arithmetic Progressions | ✅ v1 |
+| 6 | Triangles | ✅ v1 |
+| 7 | Coordinate Geometry | ✅ v1 |
+| 8 | Introduction to Trigonometry | ✅ v1 |
+| 9 | Some Applications of Trigonometry | ✅ v1 |
+| 10 | Circles | ✅ v1 |
+| 11 | Areas Related to Circles | ✅ v1 |
+| 12 | Surface Areas and Volumes | ✅ v1 |
+| 13 | Statistics | ✅ v1 |
+| 14 | Probability | ✅ v1 |
+
+### Science (40 Questions per Chapter)
+| Ch # | Chapter Title | Status |
+| :--- | :--- | :--- |
+| 1 | Chemical Reactions and Equations | ✅ v1 |
+| 2 | Acids, Bases and Salts | ✅ v1 |
+| 3 | Metals and Non-metals | ✅ v1 |
+| 4 | Carbon and its Compounds | ✅ v1 |
+| 5 | Life Processes | ✅ v1 |
+| 6 | Control and Coordination | ✅ v1 |
+| 7 | How do Organisms Reproduce? | ⏳ Pending |
+| 8 | Heredity | ⏳ Pending |
+| 9 | Light – Reflection and Refraction | ⏳ Pending |
+| 10 | The Human Eye and the Colourful World | ⏳ Pending |
+| 11 | Electricity | ⏳ Pending |
+| 12 | Magnetic Effects of Electric Current | ⏳ Pending |
+| 13 | Our Environment | ⏳ Pending |
+
+### Social Science - History (40 Questions per Chapter)
+| Ch # | Chapter Title | Status |
+| :--- | :--- | :--- |
+| 1 | The Rise of Nationalism in Europe | ✅ v1 |
+| 2 | Nationalism in India | ✅ v1 |
+| 3 | The Making of a Global World | ⏳ Pending |
+
+### Social Science - Geography (40 Questions per Chapter)
+| Ch # | Chapter Title | Status |
+| :--- | :--- | :--- |
+| 1 | Resources and Development | ✅ v1 |
+| 2 | Forest and Wildlife Resources | ⏳ Pending |
+| 3 | Water Resources | ⏳ Pending |
+| 4 | Agriculture | ⏳ Pending |
+| 5 | Minerals and Energy Resources | ⏳ Pending |
+| 6 | Manufacturing Industries | ⏳ Pending |
+| 7 | Lifelines of National Economy | ⏳ Pending |
+
+### Social Science - Civics (40 Questions per Chapter)
+| Ch # | Chapter Title | Status |
+| :--- | :--- | :--- |
+| 1 | Power Sharing | ✅ v1 |
+| 2 | Federalism | ⏳ Pending |
+| 3 | Gender, Religion and Caste | ⏳ Pending |
+| 4 | Political Parties | ⏳ Pending |
+| 5 | Outcomes of Democracy | ⏳ Pending |
 
 ## Deployment & Android Integration Strategy
 

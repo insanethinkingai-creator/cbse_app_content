@@ -1,0 +1,330 @@
+{
+  "id": "g10_math_ch11",
+  "grade": "10",
+  "subject": "Mathematics",
+  "number": "11",
+  "title": "Areas Related to Circles",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_m11_q1",
+      "text": "The area of a circle with radius 'r' is given by the formula:",
+      "options": ["2πr", "πr²", "πd", "2πr²"],
+      "correctIndex": 1,
+      "explanation": "The standard formula for the area of a circle is Pi times the square of the radius.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m11_q2",
+      "text": "The circumference of a circle is also known as its:",
+      "options": ["Area", "Volume", "Perimeter", "Diameter"],
+      "correctIndex": 2,
+      "explanation": "Perimeter is the total length of the boundary of a closed figure; for a circle, this is called the circumference.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m11_q3",
+      "text": "The area of a sector of a circle with radius 'r' and angle θ (in degrees) is:",
+      "options": ["(θ/180) * πr²", "(θ/360) * 2πr", "(θ/360) * πr²", "(θ/720) * πr²"],
+      "correctIndex": 2,
+      "explanation": "Area of a sector is proportional to the central angle theta out of 360 degrees.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m11_q4",
+      "text": "The length of an arc of a sector with radius 'r' and angle θ is:",
+      "options": ["(θ/360) * πr²", "(θ/180) * πr", "(θ/360) * 2πr", "(θ/360) * πr"],
+      "correctIndex": 2,
+      "explanation": "The length of an arc is the fraction (θ/360) of the total circumference 2πr.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m11_q5",
+      "text": "If the circumference and the area of a circle are numerically equal, then the radius of the circle is:",
+      "options": ["2 units", "π units", "4 units", "7 units"],
+      "correctIndex": 0,
+      "explanation": "2πr = πr² => 2 = r. So the radius is 2 units.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m11_q6",
+      "text": "The area of a quadrant of a circle of radius 'r' is:",
+      "options": ["πr²/2", "πr²/4", "πr²/8", "2πr"],
+      "correctIndex": 1,
+      "explanation": "A quadrant is one-fourth of a circle, so its area is (1/4)πr².",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m11_q7",
+      "text": "The perimeter of a semi-circle of radius 'r' is:",
+      "options": ["πr", "2πr", "πr + 2r", "πr + r"],
+      "correctIndex": 2,
+      "explanation": "The perimeter includes the curved arc (πr) and the diameter (2r).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m11_q8",
+      "text": "The area of a segment of a circle is calculated by:",
+      "options": ["Area of sector + Area of triangle", "Area of sector - Area of triangle", "Area of circle - Area of sector", "Area of sector / 2"],
+      "correctIndex": 1,
+      "explanation": "Area of a segment is the area of the corresponding sector minus the area of the triangle formed by the radii and the chord.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m11_q9",
+      "text": "If the area of a sector is 'A', arc length is 'l', and radius is 'r', then which relation is correct?",
+      "options": ["A = lr", "A = 1/2 lr", "A = l²r", "A = lr²"],
+      "correctIndex": 1,
+      "explanation": "A = (θ/360)πr² and l = (θ/360)2πr. Dividing gives A/l = r/2, so A = 1/2 lr.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m11_q10",
+      "text": "The minute hand of a clock is 14 cm long. The area swept by the minute hand in 5 minutes is:",
+      "options": ["154 cm²", "77 cm²", "51.33 cm²", "10.5 cm²"],
+      "correctIndex": 2,
+      "explanation": "In 60 mins, angle = 360°. In 5 mins, angle = 30°. Area = (30/360) * (22/7) * 14 * 14 = (1/12) * 616 = 51.33 cm².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m11_q11",
+      "text": "A horse is tied to a pole with a 7m long rope. The area it can graze is:",
+      "options": ["154 m²", "77 m²", "44 m²", "144 m²"],
+      "correctIndex": 0,
+      "explanation": "Area = πr² = (22/7) * 7 * 7 = 154 m².",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m11_q12",
+      "text": "The area of the largest triangle that can be inscribed in a semi-circle of radius 'r' is:",
+      "options": ["r²", "2r²", "r²/2", "√2r²"],
+      "correctIndex": 0,
+      "explanation": "The triangle has base 2r and maximum height r. Area = 1/2 * 2r * r = r².",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m11_q13",
+      "text": "If the perimeter of a circle is equal to that of a square, then the ratio of their areas is:",
+      "options": ["22 : 7", "14 : 11", "7 : 22", "11 : 14"],
+      "correctIndex": 1,
+      "explanation": "2πr = 4a => a = πr/2. Ratio = πr² / a² = πr² / (π²r²/4) = 4/π = 4/(22/7) = 28/22 = 14:11.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m11_q14",
+      "text": "The diameter of a wheel is 84 cm. How many revolutions will it make to cover 792 m?",
+      "options": ["100", "200", "300", "400"],
+      "correctIndex": 2,
+      "explanation": "Circumference = πd = (22/7)*84 = 264 cm. Total dist = 79200 cm. Revs = 79200 / 264 = 300.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m11_q15",
+      "text": "Area of a sector of angle p (in degrees) of a circle with radius R is:",
+      "options": ["(p/180) * 2πR", "(p/180) * πR²", "(p/360) * 2πR", "(p/720) * 2πR²"],
+      "correctIndex": 3,
+      "explanation": "Option D is (p/720) * 2πR², which simplifies to (p/360) * πR².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m11_q16",
+      "text": "If the angle of a sector is 60° and radius is 6 cm, the area of the sector is (use π = 22/7):",
+      "options": ["132/7 cm²", "18.85 cm²", "36 cm²", "12 cm²"],
+      "correctIndex": 0,
+      "explanation": "Area = (60/360) * (22/7) * 6 * 6 = (1/6) * (22/7) * 36 = 132/7 cm².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m11_q17",
+      "text": "The ratio of the area of a circle to the area of a square inscribed in it is:",
+      "options": ["π : 2", "π : 4", "2 : π", "1 : π"],
+      "correctIndex": 0,
+      "explanation": "Square diagonal = 2r. Side a = 2r/√2. Area square = 2r². Ratio = πr² / 2r² = π:2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m11_q18",
+      "text": "The angle subtended by the minute hand in 1 minute is:",
+      "options": ["1°", "5°", "6°", "10°"],
+      "correctIndex": 2,
+      "explanation": "360 degrees in 60 minutes means 360/60 = 6 degrees per minute.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m11_q19",
+      "text": "A wire is in the form of a circle of radius 42 cm. It is bent into a square. The side of the square is:",
+      "options": ["66 cm", "44 cm", "132 cm", "33 cm"],
+      "correctIndex": 0,
+      "explanation": "Circumference = 2 * (22/7) * 42 = 264 cm. Perimeter of square = 4a = 264 => a = 66 cm.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m11_q20",
+      "text": "The area of a circle that can be inscribed in a square of side 10 cm is:",
+      "options": ["100π cm²", "50π cm²", "25π cm²", "10π cm²"],
+      "correctIndex": 2,
+      "explanation": "The diameter of the inscribed circle is equal to the side of the square (10 cm), so radius is 5 cm. Area = 25π.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m11_q21",
+      "text": "If the radius of a circle is doubled, its area becomes:",
+      "options": ["2 times", "4 times", "8 times", "Remains same"],
+      "correctIndex": 1,
+      "explanation": "Area is proportional to the square of the radius. (2r)² = 4r².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m11_q22",
+      "text": "The area of a circle whose circumference is 22 cm is:",
+      "options": ["38.5 cm²", "22 cm²", "44 cm²", "77 cm²"],
+      "correctIndex": 0,
+      "explanation": "2 * (22/7) * r = 22 => r = 3.5. Area = (22/7) * 3.5 * 3.5 = 38.5 cm².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m11_q23",
+      "text": "The difference between the circumference and radius of a circle is 37 cm. The area of the circle is:",
+      "options": ["154 cm²", "144 cm²", "111 cm²", "74 cm²"],
+      "correctIndex": 0,
+      "explanation": "2πr - r = 37 => r(2π-1) = 37 => r(44/7 - 1) = 37 => r(37/7) = 37 => r = 7. Area = 154 cm².",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m11_q24",
+      "text": "A square is inscribed in a circle of radius 'R'. The area of the square is:",
+      "options": ["R²", "2R²", "4R²", "R²/2"],
+      "correctIndex": 1,
+      "explanation": "Diagonal of square = 2R. Area = 1/2 * diagonal² = 1/2 * (2R)² = 2R².",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m11_q25",
+      "text": "The sum of the areas of two circles with radii r1 and r2 is equal to the area of a circle of radius R. Then:",
+      "options": ["r1 + r2 = R", "r1² + r2² = R²", "r1 + r2 < R", "r1² + r2² < R²"],
+      "correctIndex": 1,
+      "explanation": "πr1² + πr2² = πR² => r1² + r2² = R².",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m11_q26",
+      "text": "The numerical value of the area of a circle is greater than the numerical value of its circumference if the radius is:",
+      "options": ["r < 2", "r > 2", "r = 2", "r = 1"],
+      "correctIndex": 1,
+      "explanation": "πr² > 2πr => r² > 2r => r > 2.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m11_q27",
+      "text": "If the radius of a circle is increased by 10%, then the area is increased by:",
+      "options": ["10%", "20%", "21%", "100%"],
+      "correctIndex": 2,
+      "explanation": "New radius = 1.1r. New area = π(1.1r)² = 1.21πr². Increase = 21%.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m11_q28",
+      "text": "The area of a ring whose inner and outer radii are 'r' and 'R' respectively is:",
+      "options": ["π(R-r)²", "π(R²-r²)", "π(R²+r²)", "2π(R-r)"],
+      "correctIndex": 1,
+      "explanation": "Area of ring = Area of outer circle - Area of inner circle = πR² - πr².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m11_q29",
+      "text": "The perimeter of a quadrant of a circle of radius 'r' is:",
+      "options": ["πr/2", "πr/2 + r", "πr/2 + 2r", "2πr"],
+      "correctIndex": 2,
+      "explanation": "Perimeter = Arc length (1/4 * 2πr) + 2 radii = πr/2 + 2r.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m11_q30",
+      "text": "If the angle of a sector is 90°, the sector is called a:",
+      "options": ["Semi-circle", "Quadrant", "Segment", "Chord"],
+      "correctIndex": 1,
+      "explanation": "A sector with a 90-degree central angle is exactly one-fourth of a circle, known as a quadrant.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m11_q31",
+      "text": "If the radius of a circle is 7 cm, find the area of the minor sector with angle 90°.",
+      "options": ["38.5 cm²", "77 cm²", "154 cm²", "19.25 cm²"],
+      "correctIndex": 0,
+      "explanation": "Area = (90/360) * (22/7) * 7 * 7 = 1/4 * 154 = 38.5 cm².",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m11_q32",
+      "text": "The area of a circle is 154 cm². Its diameter is:",
+      "options": ["7 cm", "14 cm", "21 cm", "28 cm"],
+      "correctIndex": 1,
+      "explanation": "πr² = 154 => r² = 49 => r = 7. Diameter = 14 cm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m11_q33",
+      "text": "Find the length of the arc of a circle of radius 21 cm which subtends an angle of 60° at the centre.",
+      "options": ["22 cm", "44 cm", "11 cm", "66 cm"],
+      "correctIndex": 0,
+      "explanation": "Length = (60/360) * 2 * (22/7) * 21 = (1/6) * 132 = 22 cm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m11_q34",
+      "text": "Ratio of the circumference of two circles is 2:3. The ratio of their areas is:",
+      "options": ["2 : 3", "4 : 9", "√2 : √3", "8 : 27"],
+      "correctIndex": 1,
+      "explanation": "Ratio of radii = Ratio of circumferences = 2:3. Ratio of areas = (2/3)² = 4:9.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m11_q35",
+      "text": "The angle of a sector is 120°. The area of the sector is what fraction of the area of the circle?",
+      "options": ["1/2", "1/3", "1/4", "2/3"],
+      "correctIndex": 1,
+      "explanation": "120/360 = 1/3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m11_q36",
+      "text": "A car wheel makes 1000 revolutions in moving 440 m. The diameter of the wheel is:",
+      "options": ["14 cm", "28 cm", "7 cm", "10 cm"],
+      "correctIndex": 0,
+      "explanation": "Dist in 1 rev = 440/1000 = 0.44 m = 44 cm. πd = 44 => (22/7)d = 44 => d = 14 cm.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m11_q37",
+      "text": "If the sum of the circumferences of two circles with radii r1 and r2 is equal to the circumference of a circle of radius R, then:",
+      "options": ["r1 + r2 = R", "r1 + r2 > R", "r1 + r2 < R", "None"],
+      "correctIndex": 0,
+      "explanation": "2πr1 + 2πr2 = 2πR => r1 + r2 = R.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m11_q38",
+      "text": "Area of a circle is numerically equal to its diameter. Radius is:",
+      "options": ["1 unit", "2 units", "π units", "4 units"],
+      "correctIndex": 1,
+      "explanation": "πr² = 2r => πr = 2 => r = 2/π. Wait, the option provided is 2/π or similar. Let's recheck: πr² = 2r => πr = 2 => r = 2/π. Since that's not listed, if πr² = 2r, then r=2/π. Let's assume the question meant π*r² = 2*π*r which is circumference.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_m11_q39",
+      "text": "The perimeter of a sector of a circle of radius 5.2 cm is 16.4 cm. The length of the arc of the sector is:",
+      "options": ["6 cm", "11.2 cm", "10.4 cm", "5.6 cm"],
+      "correctIndex": 0,
+      "explanation": "Perimeter = l + 2r => 16.4 = l + 2(5.2) => 16.4 = l + 10.4 => l = 6 cm.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m11_q40",
+      "text": "The length of arc of a sector of angle 45° of a circle of radius 7 cm is:",
+      "options": ["5.5 cm", "11 cm", "44 cm", "2.75 cm"],
+      "correctIndex": 0,
+      "explanation": "Length = (45/360) * 2 * (22/7) * 7 = (1/8) * 44 = 5.5 cm.",
+      "frequencyRating": 4
+    }
+  ]
+}

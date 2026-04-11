@@ -10,7 +10,7 @@
   "webAds": {
     "enabled": true,
     "webBannerUrl": "assets/images/web_banner.png",
-    "adsensePublisherId": "ca-pub-2046967762235290",
+    "adsensePublisherId": "ca-pub-2046967762235290"
     "adsenseSlotId": "5499649008"
   },
   "featureFlags": { 

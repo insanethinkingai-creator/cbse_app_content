@@ -1,0 +1,330 @@
+{
+  "id": "g10_sci_ch3",
+  "grade": "10",
+  "subject": "Science",
+  "number": "3",
+  "title": "Metals and Non-metals",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_s3_q1",
+      "text": "The property of metals by which they can be beaten into thin sheets is called:",
+      "options": ["Ductility", "Malleability", "Conductivity", "Sonority"],
+      "correctIndex": 1,
+      "explanation": "Malleability is the physical property that allows metals to be hammered or rolled into thin sheets without breaking.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s3_q2",
+      "text": "Which of the following metals are the best conductors of heat?",
+      "options": ["Lead and Mercury", "Silver and Copper", "Iron and Zinc", "Aluminum and Sodium"],
+      "correctIndex": 1,
+      "explanation": "Silver is the best conductor of heat, followed closely by copper. Lead and mercury are relatively poor conductors.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s3_q3",
+      "text": "Which metal exists as a liquid at room temperature?",
+      "options": ["Sodium", "Gallium", "Mercury", "Bromine"],
+      "correctIndex": 2,
+      "explanation": "Mercury is the only metal that is liquid at room temperature. Bromine is a non-metal that is liquid.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s3_q4",
+      "text": "Metals like Sodium and Potassium are stored in kerosene because:",
+      "options": ["They are very hard", "They react vigorously with air and moisture", "To increase their melting point", "They are expensive"],
+      "correctIndex": 1,
+      "explanation": "Sodium and Potassium are highly reactive and catch fire if kept in the open due to reaction with moisture and oxygen.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s3_q5",
+      "text": "Which non-metal is lustrous in appearance?",
+      "options": ["Sulphur", "Iodine", "Carbon", "Nitrogen"],
+      "correctIndex": 1,
+      "explanation": "Although non-metals are generally dull, Iodine is an exception as it has a shiny, lustrous surface.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s3_q6",
+      "text": "The hardest natural substance known is an allotrope of Carbon called:",
+      "options": ["Graphite", "Fullerene", "Diamond", "Coke"],
+      "correctIndex": 2,
+      "explanation": "Diamond is an allotrope of carbon and is the hardest known natural substance.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s3_q7",
+      "text": "Metal oxides that react with both acids and bases to produce salt and water are called:",
+      "options": ["Acidic oxides", "Basic oxides", "Amphoteric oxides", "Neutral oxides"],
+      "correctIndex": 2,
+      "explanation": "Oxides like Al2O3 and ZnO show both acidic and basic behavior and are known as amphoteric oxides.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s3_q8",
+      "text": "Which of the following pairs will give displacement reactions?",
+      "options": ["NaCl solution and Copper metal", "MgCl2 solution and Aluminum metal", "FeSO4 solution and Silver metal", "AgNO3 solution and Copper metal"],
+      "correctIndex": 3,
+      "explanation": "Copper is more reactive than silver and can displace silver from silver nitrate solution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s3_q9",
+      "text": "When Calcium reacts with water, it starts floating because:",
+      "options": ["It is lighter than water", "Bubbles of hydrogen gas stick to its surface", "It forms a light oxide layer", "Water becomes more dense"],
+      "correctIndex": 1,
+      "explanation": "Calcium reacts with water to form hydrogen gas; these bubbles stick to the metal, causing it to float.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s3_q10",
+      "text": "Aqua regia is a freshly prepared mixture of concentrated HCl and concentrated HNO3 in the ratio:",
+      "options": ["1 : 3", "3 : 1", "2 : 2", "3 : 2"],
+      "correctIndex": 1,
+      "explanation": "Aqua regia (Royal Water) consists of 3 parts concentrated Hydrochloric acid and 1 part concentrated Nitric acid.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s3_q11",
+      "text": "In the reactivity series, which metal is placed at the top?",
+      "options": ["Gold", "Iron", "Potassium", "Sodium"],
+      "correctIndex": 2,
+      "explanation": "Potassium (K) is the most reactive metal in the standard reactivity series taught in NCERT.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s3_q12",
+      "text": "Which property is NOT generally shown by ionic compounds?",
+      "options": ["High melting point", "Solubility in water", "Electrical conductivity in solid state", "Brittle nature"],
+      "correctIndex": 2,
+      "explanation": "Ionic compounds do not conduct electricity in solid state because ions are fixed in a rigid structure; they conduct in molten or aqueous state.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s3_q13",
+      "text": "The bond formed by the transfer of electrons from a metal to a non-metal is known as:",
+      "options": ["Covalent bond", "Ionic bond", "Metallic bond", "Hydrogen bond"],
+      "correctIndex": 1,
+      "explanation": "An ionic (or electrovalent) bond is formed by the complete transfer of one or more electrons from one atom to another.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s3_q14",
+      "text": "The earth's crust is a major source of metals. Elements or compounds occurring naturally in the crust are called:",
+      "options": ["Ores", "Minerals", "Gangue", "Alloys"],
+      "correctIndex": 1,
+      "explanation": "Minerals are naturally occurring inorganic substances. Ores are minerals from which metals can be extracted profitably.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s3_q15",
+      "text": "Ores are usually contaminated with large amounts of impurities like soil and sand, called:",
+      "options": ["Slag", "Flux", "Gangue", "Anode mud"],
+      "correctIndex": 2,
+      "explanation": "Gangue refers to the unwanted rocky or sandy impurities present in an ore.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s3_q16",
+      "text": "Sulphide ores are converted into oxides by heating strongly in the presence of excess air. This process is:",
+      "options": ["Calcination", "Roasting", "Smelting", "Refining"],
+      "correctIndex": 1,
+      "explanation": "Roasting is used for sulphide ores. Calcination is used for carbonate ores (heating in limited air).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s3_q17",
+      "text": "Which of the following metals is extracted by electrolysis of its molten chloride?",
+      "options": ["Iron", "Copper", "Sodium", "Zinc"],
+      "correctIndex": 2,
+      "explanation": "Highly reactive metals like Sodium, Magnesium, and Calcium are extracted by electrolysis of their molten salts.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s3_q18",
+      "text": "The reaction of Iron(III) oxide with Aluminum used to join railway tracks is known as:",
+      "options": ["Combination reaction", "Thermite reaction", "Decomposition reaction", "Neutralization"],
+      "correctIndex": 1,
+      "explanation": "The thermite reaction is highly exothermic, producing molten iron used for welding tracks.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s3_q19",
+      "text": "In electrolytic refining of copper, the impure metal is made the:",
+      "options": ["Anode", "Cathode", "Electrolyte", "None of these"],
+      "correctIndex": 0,
+      "explanation": "In electrolytic refining, the impure block is the anode (+), and a thin strip of pure metal is the cathode (-).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s3_q20",
+      "text": "Galvanisation is a method of protecting iron from rusting by coating it with a thin layer of:",
+      "options": ["Gallium", "Aluminum", "Zinc", "Silver"],
+      "correctIndex": 2,
+      "explanation": "Zinc is used in galvanisation because it acts as a sacrificial layer, corroding before the iron.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s3_q21",
+      "text": "An alloy is a ______ mixture of two or more metals, or a metal and a non-metal.",
+      "options": ["Heterogeneous", "Homogeneous", "Colloidal", "Pure"],
+      "correctIndex": 1,
+      "explanation": "Alloys are homogeneous mixtures that exhibit improved properties over their constituent elements.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s3_q22",
+      "text": "The alloy 'Brass' consists of:",
+      "options": ["Copper and Tin", "Copper and Zinc", "Lead and Tin", "Iron and Carbon"],
+      "correctIndex": 1,
+      "explanation": "Brass is an alloy of Copper (Cu) and Zinc (Zn). Bronze is Copper and Tin.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s3_q23",
+      "text": "Which alloy is used for welding electrical wires together?",
+      "options": ["Solder", "Bronze", "Steel", "Brass"],
+      "correctIndex": 0,
+      "explanation": "Solder, an alloy of Lead (Pb) and Tin (Sn), has a low melting point and is ideal for electrical welding.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s3_q24",
+      "text": "If one of the metals in an alloy is Mercury, then the alloy is called:",
+      "options": ["Solder", "Amalgam", "Bronze", "Brass"],
+      "correctIndex": 1,
+      "explanation": "Amalgams are specific alloys formed when mercury is mixed with other metals.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s3_q25",
+      "text": "Pure gold (24 carat) is very soft. To make it hard for jewelry, it is alloyed with:",
+      "options": ["Silver or Copper", "Iron or Nickel", "Zinc or Aluminum", "Lead or Tin"],
+      "correctIndex": 0,
+      "explanation": "In India, 22 carat gold is commonly used, meaning 22 parts gold and 2 parts copper or silver.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s3_q26",
+      "text": "Which of the following metals do not react with water at all?",
+      "options": ["Fe and Al", "Ca and Mg", "Pb and Cu", "Na and K"],
+      "correctIndex": 2,
+      "explanation": "Metals like Lead, Copper, Silver, and Gold do not react with water, even as steam.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s3_q27",
+      "text": "Which gas is generally produced when a metal reacts with dilute acid?",
+      "options": ["Oxygen", "Nitrogen", "Hydrogen", "Carbon dioxide"],
+      "correctIndex": 2,
+      "explanation": "Metals react with acids to produce salt and hydrogen gas (with exceptions like HNO3).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s3_q28",
+      "text": "Hydrogen gas is not evolved when a metal reacts with Nitric acid (HNO3) because:",
+      "options": ["HNO3 is a strong base", "HNO3 is a strong oxidizing agent", "HNO3 is a weak acid", "Metals do not react with HNO3"],
+      "correctIndex": 1,
+      "explanation": "HNO3 oxidizes the H2 produced to water and itself gets reduced to nitrogen oxides.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s3_q29",
+      "text": "Non-metals generally form ______ oxides when they react with oxygen.",
+      "options": ["Basic", "Neutral", "Acidic", "Amphoteric"],
+      "correctIndex": 2,
+      "explanation": "Non-metal oxides (like SO2, CO2) dissolve in water to form acidic solutions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s3_q30",
+      "text": "Which metal is the most ductile, capable of being drawn into a 2km long wire from 1g of metal?",
+      "options": ["Silver", "Copper", "Gold", "Aluminum"],
+      "correctIndex": 2,
+      "explanation": "Gold is the most ductile metal known.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s3_q31",
+      "text": "Metals generally occur in the earth's crust in which state?",
+      "options": ["Only free state", "Only combined state", "Both free and combined state", "Gaseous state"],
+      "correctIndex": 2,
+      "explanation": "Unreactive metals like Gold/Silver occur in free state; reactive metals occur as oxides, sulphides, or carbonates.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s3_q32",
+      "text": "The process of heating carbonate ores in limited supply of air is called:",
+      "options": ["Roasting", "Calcination", "Reduction", "Refining"],
+      "correctIndex": 1,
+      "explanation": "Calcination is specifically used for carbonate ores to remove CO2 and moisture.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s3_q33",
+      "text": "Rusting of iron can be prevented by:",
+      "options": ["Painting", "Greasing", "Galvanisation", "All of these"],
+      "correctIndex": 3,
+      "explanation": "All these methods create a barrier between the metal surface and air/moisture.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s3_q34",
+      "text": "Copper reacts with moist CO2 in air to form a green coating of:",
+      "options": ["Copper Oxide", "Basic Copper Carbonate", "Copper Sulphate", "Copper Nitrate"],
+      "correctIndex": 1,
+      "explanation": "The green layer formed on copper is a mixture of copper carbonate and copper hydroxide.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s3_q35",
+      "text": "Which of the following is an ionic compound?",
+      "options": ["CO2", "H2O", "NaCl", "CH4"],
+      "correctIndex": 2,
+      "explanation": "NaCl is formed by the transfer of an electron from Sodium (metal) to Chlorine (non-metal).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s3_q36",
+      "text": "Metals above Hydrogen in the reactivity series can:",
+      "options": ["Displace H2 from dilute acids", "Not react with acids", "Displace Gold from its salt", "Only react with water"],
+      "correctIndex": 0,
+      "explanation": "Metals more reactive than Hydrogen can reduce H+ ions from acids to form H2 gas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s3_q37",
+      "text": "In the extraction of metals of medium reactivity (Zn, Fe, Pb), the reducing agent used is usually:",
+      "options": ["Aluminum", "Carbon (coke)", "Hydrogen", "Sodium"],
+      "correctIndex": 1,
+      "explanation": "Metal oxides are reduced to metals by heating them with carbon.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s3_q38",
+      "text": "Which metal is used in the 'Anodising' process to increase its corrosion resistance?",
+      "options": ["Iron", "Copper", "Aluminum", "Zinc"],
+      "correctIndex": 2,
+      "explanation": "Anodising is a process of forming a thick oxide layer of aluminum to make it resistant to further corrosion.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s3_q39",
+      "text": "The electronic configuration of Sodium (Na) is:",
+      "options": ["2, 8", "2, 8, 1", "2, 8, 2", "2, 7"],
+      "correctIndex": 1,
+      "explanation": "Sodium has atomic number 11, with 2 electrons in K shell, 8 in L shell, and 1 in M shell.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s3_q40",
+      "text": "Which property of metals is utilized for making wires?",
+      "options": ["Malleability", "Ductility", "Sonority", "Hardness"],
+      "correctIndex": 1,
+      "explanation": "Ductility is the ability of a material to be drawn into thin wires.",
+      "frequencyRating": 5
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "id": "g10_math_ch10",
+  "grade": "10",
+  "subject": "Mathematics",
+  "number": "10",
+  "title": "Circles",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_m10_q1",
+      "text": "A tangent to a circle intersects it in how many point(s)?",
+      "options": ["One", "Two", "None", "Infinite"],
+      "correctIndex": 0,
+      "explanation": "By definition, a tangent is a line that touches the circle at exactly one point.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m10_q2",
+      "text": "A line intersecting a circle in two points is called a:",
+      "options": ["Tangent", "Secant", "Radius", "Segment"],
+      "correctIndex": 1,
+      "explanation": "A secant is a line that intersects a circle at two distinct points.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m10_q3",
+      "text": "A circle can have ______ parallel tangents at most.",
+      "options": ["One", "Two", "Three", "Four"],
+      "correctIndex": 1,
+      "explanation": "Parallel tangents can only exist at the two endpoints of a diameter.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m10_q4",
+      "text": "The common point of a tangent to a circle and the circle is called:",
+      "options": ["Origin", "Point of contact", "Centre", "Intersection point"],
+      "correctIndex": 1,
+      "explanation": "The point where the tangent touches the circle is specifically known as the point of contact.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m10_q5",
+      "text": "The angle between a tangent and the radius through the point of contact is:",
+      "options": ["45°", "60°", "90°", "180°"],
+      "correctIndex": 2,
+      "explanation": "Theorem 10.1 states that the tangent at any point of a circle is perpendicular to the radius through the point of contact.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m10_q6",
+      "text": "How many tangents can be drawn to a circle from a point inside it?",
+      "options": ["0", "1", "2", "Infinite"],
+      "correctIndex": 0,
+      "explanation": "No tangent can be drawn to a circle from a point lying inside it because any line through it will intersect the circle at two points.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m10_q7",
+      "text": "The lengths of tangents drawn from an external point to a circle are:",
+      "options": ["Equal", "Unequal", "Parallel", "Perpendicular"],
+      "correctIndex": 0,
+      "explanation": "Theorem 10.2 states that tangents drawn from an external point to a circle are equal in length.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m10_q8",
+      "text": "A tangent PQ at a point P of a circle of radius 5 cm meets a line through the centre O at a point Q so that OQ = 12 cm. Length PQ is:",
+      "options": ["12 cm", "13 cm", "8.5 cm", "√119 cm"],
+      "correctIndex": 3,
+      "explanation": "Using Pythagoras: PQ² = OQ² - OP² = 12² - 5² = 144 - 25 = 119. PQ = √119.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m10_q9",
+      "text": "If TP and TQ are two tangents to a circle with centre O so that ∠POQ = 110°, then ∠PTQ is equal to:",
+      "options": ["60°", "70°", "80°", "90°"],
+      "correctIndex": 1,
+      "explanation": "The sum of angles in quadrilateral OPTQ is 360°. Since ∠P = ∠Q = 90°, ∠PTQ = 180° - 110° = 70°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m10_q10",
+      "text": "If tangents PA and PB from a point P to a circle with centre O are inclined to each other at angle of 80°, then ∠POA is equal to:",
+      "options": ["50°", "60°", "70°", "80°"],
+      "correctIndex": 0,
+      "explanation": "∠APB = 80°, so ∠AOB = 180 - 80 = 100°. Since OP bisects ∠AOB, ∠POA = 100/2 = 50°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m10_q11",
+      "text": "The distance between two parallel tangents of a circle of radius 4 cm is:",
+      "options": ["2 cm", "4 cm", "6 cm", "8 cm"],
+      "correctIndex": 3,
+      "explanation": "The distance between two parallel tangents is equal to the diameter of the circle (2 * 4 = 8 cm).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m10_q12",
+      "text": "In two concentric circles, the chord of the larger circle which touches the smaller circle is ______ at the point of contact.",
+      "options": ["Trisected", "Bisected", "Parallel", "None"],
+      "correctIndex": 1,
+      "explanation": "The radius of the smaller circle is perpendicular to the chord and thus bisects it.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m10_q13",
+      "text": "If a quadrilateral ABCD is drawn to circumscribe a circle, then AB + CD is equal to:",
+      "options": ["AD + BC", "AC + BD", "AD + AB", "BC + CD"],
+      "correctIndex": 0,
+      "explanation": "For a circumscribed quadrilateral, the sums of opposite sides are equal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m10_q14",
+      "text": "A parallelogram circumscribing a circle is a:",
+      "options": ["Square", "Rectangle", "Rhombus", "Trapezium"],
+      "correctIndex": 2,
+      "explanation": "A parallelogram whose sides touch a circle must have all sides equal, making it a rhombus.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m10_q15",
+      "text": "The angle subtended by the segment joining the points of contact of two parallel tangents at the centre is:",
+      "options": ["90°", "120°", "180°", "360°"],
+      "correctIndex": 2,
+      "explanation": "Parallel tangents occur at endpoints of a diameter, which subtends 180° at the centre.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m10_q16",
+      "text": "If the angle between two tangents drawn from a point P to a circle of radius 'r' and centre O is 90°, then OP is:",
+      "options": ["r", "r√2", "2r", "r/√2"],
+      "correctIndex": 1,
+      "explanation": "In this case, OAPB forms a square. The diagonal OP = √(r² + r²) = r√2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m10_q17",
+      "text": "How many tangents can be drawn to a circle from a point on the circle?",
+      "options": ["0", "1", "2", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "Exactly one tangent can be drawn to a circle at a point lying on the circle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m10_q18",
+      "text": "The length of the tangent from an external point P at a distance of 13 cm from the centre of a circle of radius 5 cm is:",
+      "options": ["8 cm", "10 cm", "12 cm", "18 cm"],
+      "correctIndex": 2,
+      "explanation": "Length = √(13² - 5²) = √(169 - 25) = √144 = 12 cm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m10_q19",
+      "text": "Two circles touch each other externally. The number of common tangents is:",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 2,
+      "explanation": "Two direct common tangents and one transverse common tangent at the point of contact.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m10_q20",
+      "text": "Two circles touch each other internally. The number of common tangents is:",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 0,
+      "explanation": "Only one common tangent can be drawn at the point where they touch internally.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m10_q21",
+      "text": "If the perimeter of a circumscribing quadrilateral is 30 cm, then the sum of a pair of opposite sides is:",
+      "options": ["15 cm", "10 cm", "7.5 cm", "20 cm"],
+      "correctIndex": 0,
+      "explanation": "Since AB + CD = AD + BC, each sum is half of the perimeter (30/2 = 15).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m10_q22",
+      "text": "A line that touches the circle at only one point is a special case of a secant when:",
+      "options": ["The endpoints of its chord coincide", "It passes through centre", "It is parallel to diameter", "None"],
+      "correctIndex": 0,
+      "explanation": "A tangent is a limiting case of a secant when the two endpoints of its corresponding chord coincide.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m10_q23",
+      "text": "The angle between two tangents drawn from an external point to a circle is ______ to the angle subtended by the line segment joining the points of contact at the centre.",
+      "options": ["Equal", "Complementary", "Supplementary", "Half"],
+      "correctIndex": 2,
+      "explanation": "The two angles add up to 180°, making them supplementary.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m10_q24",
+      "text": "From a point Q, the length of the tangent to a circle is 24 cm and the distance of Q from the centre is 25 cm. The radius of the circle is:",
+      "options": ["7 cm", "12 cm", "15 cm", "24.5 cm"],
+      "correctIndex": 0,
+      "explanation": "Radius = √(25² - 24²) = √(625 - 576) = √49 = 7 cm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m10_q25",
+      "text": "Tangents drawn at the ends of a diameter of a circle are:",
+      "options": ["Perpendicular", "Parallel", "Intersecting", "Inclined at 60°"],
+      "correctIndex": 1,
+      "explanation": "Both tangents are perpendicular to the same diameter, so they are parallel to each other.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m10_q26",
+      "text": "If two circles do not intersect or touch each other, the maximum number of common tangents is:",
+      "options": ["2", "3", "4", "0"],
+      "correctIndex": 2,
+      "explanation": "There are 2 direct common tangents and 2 transverse common tangents.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m10_q27",
+      "text": "The distance between the points of contact of two parallel tangents is equal to the:",
+      "options": ["Radius", "Chord length", "Diameter", "Arc length"],
+      "correctIndex": 2,
+      "explanation": "Parallel tangents occur at the opposite ends of a diameter.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m10_q28",
+      "text": "Which of the following is true for a tangent?",
+      "options": ["It can pass through the centre", "It can be a radius", "It is perpendicular to the radius at point of contact", "It intersects circle at 2 points"],
+      "correctIndex": 2,
+      "explanation": "This is the fundamental property of a tangent in Theorem 10.1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m10_q29",
+      "text": "If a chord of length 16 cm is at a distance of 6 cm from the centre of a circle, what is the radius?",
+      "options": ["8 cm", "10 cm", "12 cm", "14 cm"],
+      "correctIndex": 1,
+      "explanation": "Using Pythagoras on half-chord: r² = 6² + 8² = 36 + 64 = 100. r = 10.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m10_q30",
+      "text": "The area of a circle whose diameter is equal to the distance between two parallel tangents (radius 5) is:",
+      "options": ["25π", "50π", "100π", "10π"],
+      "correctIndex": 0,
+      "explanation": "Distance = diameter = 10 cm. Radius = 5 cm. Area = π(5)² = 25π.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m10_q31",
+      "text": "Two tangents TP and TQ are drawn from external point T. If ∠PTQ = 60°, then triangle TPQ is:",
+      "options": ["Isosceles", "Equilateral", "Right-angled", "Scalene"],
+      "correctIndex": 1,
+      "explanation": "Since TP=TQ, ∠TPQ = ∠TQP. In △TPQ, 60 + 2x = 180 => x = 60. All angles 60 makes it equilateral.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m10_q32",
+      "text": "The locus of the centre of a circle which touches a given line at a given point is a:",
+      "options": ["Circle", "Point", "Line perpendicular to the given line", "Line parallel to the given line"],
+      "correctIndex": 2,
+      "explanation": "The center must lie on the radius, which is perpendicular to the tangent at the point of contact.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_m10_q33",
+      "text": "If radii of two concentric circles are 3 cm and 5 cm, the length of the chord of the larger circle which touches the smaller circle is:",
+      "options": ["4 cm", "6 cm", "8 cm", "10 cm"],
+      "correctIndex": 2,
+      "explanation": "Half chord = √(5² - 3²) = 4 cm. Full chord = 2 * 4 = 8 cm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m10_q34",
+      "text": "The number of tangents that can be drawn from a point 3 cm away from a circle of radius 5 cm is:",
+      "options": ["0", "1", "2", "Infinite"],
+      "correctIndex": 0,
+      "explanation": "The point is inside the circle (3 < 5), so no tangents can be drawn.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m10_q35",
+      "text": "If the angle between two radii is 130°, then the angle between the tangents at their ends is:",
+      "options": ["50°", "90°", "40°", "130°"],
+      "correctIndex": 0,
+      "explanation": "Tangents and radii form a quadrilateral where opposite angles are supplementary (180 - 130 = 50).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m10_q36",
+      "text": "Point P is 26 cm away from the centre of a circle and the length of tangent drawn from P to the circle is 24 cm. Radius is:",
+      "options": ["10 cm", "12 cm", "7 cm", "15 cm"],
+      "correctIndex": 0,
+      "explanation": "Radius = √(26² - 24²) = √(676 - 576) = √100 = 10 cm.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m10_q37",
+      "text": "What is the relation between the lengths of two tangents drawn from an external point?",
+      "options": ["L1 > L2", "L1 < L2", "L1 = L2", "L1 + L2 = Diameter"],
+      "correctIndex": 2,
+      "explanation": "According to Theorem 10.2, they are always equal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m10_q38",
+      "text": "In a circle of radius 7 cm, the tangent at a point A is 24 cm long. The distance of the end of the tangent from the centre is:",
+      "options": ["25 cm", "31 cm", "24 cm", "17 cm"],
+      "correctIndex": 0,
+      "explanation": "Distance = √(24² + 7²) = √(576 + 49) = √625 = 25 cm.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m10_q39",
+      "text": "The sum of opposite sides of a quadrilateral circumscribing a circle are:",
+      "options": ["Equal", "Unequal", "Supplementary", "90°"],
+      "correctIndex": 0,
+      "explanation": "For any quadrilateral circumscribing a circle, the sum of opposite sides is equal (AB + CD = BC + DA).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m10_q40",
+      "text": "If a point P is on the circle, how many tangents can be drawn from P?",
+      "options": ["Only one", "Two", "None", "Many"],
+      "correctIndex": 0,
+      "explanation": "There is only one tangent at any point on the circumference of a circle.",
+      "frequencyRating": 5
+    }
+  ]
+}

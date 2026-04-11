@@ -1,0 +1,330 @@
+{
+  "id": "g10_sci_ch1",
+  "grade": "10",
+  "subject": "Science",
+  "number": "1",
+  "title": "Chemical Reactions and Equations",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_s1_q1",
+      "text": "Why is magnesium ribbon cleaned before burning in air?",
+      "options": ["To increase its melting point", "To remove the layer of magnesium oxide", "To remove dust and dirt", "To make it more flexible"],
+      "correctIndex": 1,
+      "explanation": "Magnesium ribbon forms a protective layer of magnesium oxide on its surface, which hinders the burning process.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q2",
+      "text": "When magnesium ribbon is burnt in air, what is the color of the flame produced?",
+      "options": ["Blue", "Red", "Dazzling White", "Yellow"],
+      "correctIndex": 2,
+      "explanation": "Magnesium burns with a characteristic dazzling white flame to form magnesium oxide.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q3",
+      "text": "The reaction CaO + H2O → Ca(OH)2 is an example of which type of reaction?",
+      "options": ["Decomposition", "Combination", "Displacement", "Double Displacement"],
+      "correctIndex": 1,
+      "explanation": "Two reactants combine to form a single product, which is the definition of a combination reaction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q4",
+      "text": "Which of the following is an exothermic process?",
+      "options": ["Respiration", "Melting of ice", "Photosynthesis", "Sublimation of camphor"],
+      "correctIndex": 0,
+      "explanation": "Exothermic reactions release energy; respiration is a process where energy is released during the breakdown of glucose.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q5",
+      "text": "What is observed when slaked lime [Ca(OH)2] is applied to walls?",
+      "options": ["It remains liquid", "It reacts with CO2 to form a shiny layer of CaCO3", "It disappears immediately", "It turns black"],
+      "correctIndex": 1,
+      "explanation": "Slaked lime reacts slowly with CO2 in the air to form a thin shiny layer of calcium carbonate on the walls.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s1_q6",
+      "text": "The chemical formula of Limestone is:",
+      "options": ["CaO", "Ca(OH)2", "CaCO3", "CaCl2"],
+      "correctIndex": 2,
+      "explanation": "Calcium carbonate is commonly known as limestone.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q7",
+      "text": "Balancing of chemical equations is based on which law?",
+      "options": ["Law of constant proportions", "Law of conservation of mass", "Law of multiple proportions", "Avogadro's law"],
+      "correctIndex": 1,
+      "explanation": "The law of conservation of mass states that mass can neither be created nor destroyed in a chemical reaction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q8",
+      "text": "What happens when lead nitrate powder is heated in a boiling tube?",
+      "options": ["Oxygen gas is evolved", "Brown fumes of nitrogen dioxide are evolved", "Lead metal is formed", "No reaction occurs"],
+      "correctIndex": 1,
+      "explanation": "Thermal decomposition of lead nitrate produces lead oxide, oxygen, and brown nitrogen dioxide fumes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q9",
+      "text": "In the electrolysis of water, the gas collected at the cathode is:",
+      "options": ["Oxygen", "Hydrogen", "Nitrogen", "Chlorine"],
+      "correctIndex": 1,
+      "explanation": "During electrolysis, water decomposes into hydrogen (at cathode) and oxygen (at anode).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q10",
+      "text": "What is the ratio of volumes of Hydrogen and Oxygen collected during electrolysis of water?",
+      "options": ["1:1", "1:2", "2:1", "3:1"],
+      "correctIndex": 2,
+      "explanation": "The balanced equation 2H2O → 2H2 + O2 shows that two parts of hydrogen are released for every one part of oxygen.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q11",
+      "text": "Silver chloride turns grey in sunlight. This is an example of:",
+      "options": ["Thermal decomposition", "Photolytic decomposition", "Electrolytic decomposition", "Combination"],
+      "correctIndex": 1,
+      "explanation": "Light energy breaks down silver chloride into silver and chlorine gas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q12",
+      "text": "Which reaction is used in black and white photography?",
+      "options": ["Decomposition of CaCO3", "Decomposition of AgCl/AgBr", "Reaction of Zn with HCl", "Rusting of iron"],
+      "correctIndex": 1,
+      "explanation": "The photolytic decomposition of silver halides (AgCl or AgBr) is the basis of traditional black and white photography.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s1_q13",
+      "text": "Reactions in which energy is absorbed are known as:",
+      "options": ["Exothermic", "Endothermic", "Redox", "Substitution"],
+      "correctIndex": 1,
+      "explanation": "Endothermic reactions require energy input, often in the form of heat, light, or electricity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q14",
+      "text": "Fe(s) + CuSO4(aq) → FeSO4(aq) + Cu(s) is an example of:",
+      "options": ["Combination", "Decomposition", "Displacement", "Double Displacement"],
+      "correctIndex": 2,
+      "explanation": "Iron is more reactive than copper and displaces it from its salt solution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q15",
+      "text": "Why does the blue color of Copper Sulphate solution fade when an iron nail is dipped in it?",
+      "options": ["Iron reacts with water", "Copper is displaced by iron", "Copper sulphate evaporates", "Iron turns blue"],
+      "correctIndex": 1,
+      "explanation": "Iron displaces copper ions (blue) to form iron sulphate (greenish), leading to fading of the blue color.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q16",
+      "text": "Which of the following is a double displacement reaction?",
+      "options": ["Zn + CuSO4 → ZnSO4 + Cu", "BaCl2 + Na2SO4 → BaSO4 + 2NaCl", "C + O2 → CO2", "2Mg + O2 → 2MgO"],
+      "correctIndex": 1,
+      "explanation": "In this reaction, Ba and Na exchange their partner ions, forming two new compounds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q17",
+      "text": "The insoluble substance formed during a chemical reaction is called a:",
+      "options": ["Solute", "Solvent", "Precipitate", "Catalyst"],
+      "correctIndex": 2,
+      "explanation": "A precipitate is a solid that separates from a solution during a chemical reaction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q18",
+      "text": "In the reaction ZnO + C → Zn + CO, which substance is being reduced?",
+      "options": ["ZnO", "C", "Zn", "CO"],
+      "correctIndex": 0,
+      "explanation": "ZnO loses oxygen to become Zn, so it is reduced.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q19",
+      "text": "Oxidation is a process which involves:",
+      "options": ["Gain of oxygen", "Loss of oxygen", "Gain of hydrogen", "None of these"],
+      "correctIndex": 0,
+      "explanation": "Addition of oxygen or removal of hydrogen from a substance is called oxidation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q20",
+      "text": "The reaction in which both oxidation and reduction occur simultaneously is called:",
+      "options": ["Substitution", "Neutralization", "Redox", "Exothermic"],
+      "correctIndex": 2,
+      "explanation": "Redox is a combination of Reduction and Oxidation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q21",
+      "text": "Corrosion of iron is commonly known as:",
+      "options": ["Rancidity", "Rusting", "Tarnishing", "Fermentation"],
+      "correctIndex": 1,
+      "explanation": "Rusting is the specific term used for the corrosion of iron in the presence of moisture and air.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q22",
+      "text": "Which of the following prevents rancidity of food items containing fats and oils?",
+      "options": ["Oxygen", "Nitrogen", "Heat", "Moisture"],
+      "correctIndex": 1,
+      "explanation": "Nitrogen is an inert gas that replaces oxygen to prevent the oxidation of fats and oils.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q23",
+      "text": "Black coating on silver is an example of:",
+      "options": ["Oxidation", "Rancidity", "Corrosion", "Precipitation"],
+      "correctIndex": 2,
+      "explanation": "Silver reacts with sulphur compounds in the air to form a black layer of silver sulphide, which is corrosion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s1_q24",
+      "text": "What is the green coating formed on copper due to corrosion?",
+      "options": ["Copper Oxide", "Copper Sulphate", "Basic Copper Carbonate", "Copper Nitrate"],
+      "correctIndex": 2,
+      "explanation": "Copper reacts with moist CO2 in the air to form basic copper carbonate.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s1_q25",
+      "text": "What are antioxidants?",
+      "options": ["Substances that cause oxidation", "Substances that prevent oxidation", "Substances that prevent reduction", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Antioxidants are added to foods to slow down or prevent the process of oxidation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s1_q26",
+      "text": "Decomposition of calcium carbonate into calcium oxide and carbon dioxide is a ______ reaction.",
+      "options": ["Photolytic", "Electrolytic", "Thermal", "Displacement"],
+      "correctIndex": 2,
+      "explanation": "It requires heat to occur, making it a thermal decomposition reaction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q27",
+      "text": "A chemical equation is said to be balanced if:",
+      "options": ["Number of atoms of each element is same on both sides", "Total mass is same on both sides", "Both A and B", "None of these"],
+      "correctIndex": 2,
+      "explanation": "Balancing ensures that both the number of atoms and the total mass are conserved.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q28",
+      "text": "Which gas is evolved when zinc granules react with dilute sulphuric acid?",
+      "options": ["Oxygen", "Hydrogen", "Carbon dioxide", "Sulphur dioxide"],
+      "correctIndex": 1,
+      "explanation": "Active metals react with dilute acids to evolve hydrogen gas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q29",
+      "text": "What color change is observed when green ferrous sulphate crystals are heated?",
+      "options": ["Turns blue", "Turns white and then brown", "Turns black", "No change"],
+      "correctIndex": 1,
+      "explanation": "Loss of water of crystallization turns it white, then decomposition forms brown ferric oxide.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s1_q30",
+      "text": "The burning of natural gas is an example of:",
+      "options": ["Endothermic reaction", "Exothermic reaction", "Decomposition reaction", "Displacement reaction"],
+      "correctIndex": 1,
+      "explanation": "Combustion of methane (natural gas) releases a large amount of heat energy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q31",
+      "text": "In the reaction MnO2 + 4HCl → MnCl2 + 2H2O + Cl2, which substance is oxidized?",
+      "options": ["MnO2", "HCl", "MnCl2", "H2O"],
+      "correctIndex": 1,
+      "explanation": "HCl loses hydrogen to become Cl2, so it is oxidized.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q32",
+      "text": "The change of state from solid to gas without passing through liquid is called:",
+      "options": ["Evaporation", "Condensation", "Sublimation", "Fusion"],
+      "correctIndex": 2,
+      "explanation": "Sublimation is a physical change, though often mentioned in the context of identifying changes.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s1_q33",
+      "text": "Substance X is used for whitewashing. It is produced by heating limestone. X is:",
+      "options": ["CaCO3", "CaO", "Ca(OH)2", "Ca"],
+      "correctIndex": 1,
+      "explanation": "Limestone (CaCO3) decomposes to give Quick Lime (CaO), which is used for whitewashing.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q34",
+      "text": "Which of the following is a characteristic of a chemical reaction?",
+      "options": ["Change in state", "Evolution of gas", "Change in temperature", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Chemical reactions are identified by observations like change in state, color, temperature, or gas evolution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q35",
+      "text": "Why do chips manufacturers flush bags of chips with nitrogen gas?",
+      "options": ["To make the bag look bigger", "To keep chips crunchy", "To prevent oxidation of oil", "To prevent growth of bacteria"],
+      "correctIndex": 2,
+      "explanation": "Nitrogen prevents the fats and oils in chips from becoming rancid through oxidation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q36",
+      "text": "A skeletal chemical equation is one which is:",
+      "options": ["Balanced", "Unbalanced", "Written in words", "None of these"],
+      "correctIndex": 1,
+      "explanation": "A skeletal equation simply lists the reactants and products without balancing the atoms.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s1_q37",
+      "text": "In a balanced equation Fe + H2O → Fe3O4 + H2, the coefficient of H2O is:",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 3,
+      "explanation": "The balanced equation is 3Fe + 4H2O → Fe3O4 + 4H2.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s1_q38",
+      "text": "Reduction is the ______ of hydrogen.",
+      "options": ["Loss", "Gain", "Neither loss nor gain", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Addition of hydrogen to a substance is called reduction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q39",
+      "text": "Lead nitrate on thermal decomposition gives lead oxide and:",
+      "options": ["NO2 + O2", "N2 + O2", "NO + O2", "N2O + O2"],
+      "correctIndex": 0,
+      "explanation": "The products are PbO, brown NO2 gas, and O2 gas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s1_q40",
+      "text": "The reaction of lead with copper chloride solution is a:",
+      "options": ["Combination reaction", "Displacement reaction", "Decomposition reaction", "Double displacement reaction"],
+      "correctIndex": 1,
+      "explanation": "Lead is more reactive than copper and displaces it from copper chloride.",
+      "frequencyRating": 3
+    }
+  ]
+}

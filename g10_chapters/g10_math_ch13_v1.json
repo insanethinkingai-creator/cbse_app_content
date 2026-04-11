@@ -1,0 +1,330 @@
+{
+  "id": "g10_math_ch13",
+  "grade": "10",
+  "subject": "Mathematics",
+  "number": "13",
+  "title": "Statistics",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_m13_q1",
+      "text": "The class mark of a class interval is given by:",
+      "options": ["(Upper Limit - Lower Limit) / 2", "(Upper Limit + Lower Limit) / 2", "Upper Limit + Lower Limit", "Upper Limit - Lower Limit"],
+      "correctIndex": 1,
+      "explanation": "The class mark is the midpoint of the class interval, calculated as the average of the upper and lower limits.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m13_q2",
+      "text": "The algebraic sum of the deviations of a set of n values from their mean is:",
+      "options": ["n", "Mean", "0", "None of these"],
+      "correctIndex": 2,
+      "explanation": "By property of arithmetic mean, Σ(x_i - mean) is always zero.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m13_q3",
+      "text": "Which of the following is the empirical relationship between the three measures of central tendency?",
+      "options": ["3 Median = Mode + 2 Mean", "2 Median = Mode + 3 Mean", "Median = 3 Mode + 2 Mean", "3 Mean = Mode + 2 Median"],
+      "correctIndex": 0,
+      "explanation": "The empirical formula states that 3 times the Median is equal to the Mode plus 2 times the Mean.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m13_q4",
+      "text": "The cumulative frequency table is useful in determining the:",
+      "options": ["Mean", "Median", "Mode", "All of these"],
+      "correctIndex": 1,
+      "explanation": "Cumulative frequencies are specifically used to find the median class and calculate the median of grouped data.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m13_q5",
+      "text": "The class mark of the class 10-25 is:",
+      "options": ["15", "17.5", "18.5", "25"],
+      "correctIndex": 1,
+      "explanation": "(10 + 25) / 2 = 35 / 2 = 17.5.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m13_q6",
+      "text": "In the formula for Mean (Direct Method), Σf_i x_i / Σf_i, x_i represents:",
+      "options": ["Lower limit", "Upper limit", "Class marks", "Frequency"],
+      "correctIndex": 2,
+      "explanation": "x_i represents the class mark (mid-point) of each class interval.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m13_q7",
+      "text": "The modal class is the class with:",
+      "options": ["Minimum frequency", "Maximum frequency", "Minimum cumulative frequency", "Maximum cumulative frequency"],
+      "correctIndex": 1,
+      "explanation": "By definition, the mode is the most frequent value; in grouped data, it lies in the class with the highest frequency.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m13_q8",
+      "text": "While computing the mean of grouped data, we assume that the frequencies are:",
+      "options": ["Centered at the upper limits", "Centered at the lower limits", "Centered at the class marks", "Evenly distributed"],
+      "correctIndex": 2,
+      "explanation": "We use class marks (x_i) as the representative value for each class, assuming frequencies are concentrated at the midpoint.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m13_q9",
+      "text": "The class mark for 15.5-20.5 is:",
+      "options": ["17", "18", "19", "20"],
+      "correctIndex": 1,
+      "explanation": "(15.5 + 20.5) / 2 = 36 / 2 = 18.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m13_q10",
+      "text": "In the Step Deviation Method, u_i is defined as:",
+      "options": ["x_i - a", "(x_i - a) / h", "x_i / h", "a - x_i"],
+      "correctIndex": 1,
+      "explanation": "u_i = (x_i - assumed mean) divided by class size (h) to simplify calculations.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m13_q11",
+      "text": "The median of first 10 prime numbers is:",
+      "options": ["11", "12", "13", "14"],
+      "correctIndex": 1,
+      "explanation": "Primes: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29. Median = (11+13)/2 = 12.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m13_q12",
+      "text": "The mode of 2, 3, 3, 4, 4, 4, 5, 5 is:",
+      "options": ["2", "3", "4", "5"],
+      "correctIndex": 2,
+      "explanation": "The value 4 appears three times, which is the highest frequency.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m13_q13",
+      "text": "If Mean = 25 and Median = 25, then the Mode is:",
+      "options": ["20", "25", "30", "50"],
+      "correctIndex": 1,
+      "explanation": "3(25) = Mode + 2(25) => 75 = Mode + 50 => Mode = 25. In symmetrical data, Mean = Median = Mode.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m13_q14",
+      "text": "For grouped data, Mode = l + [ (f1-f0)/(2f1-f0-f2) ] * h. What does 'f0' represent?",
+      "options": ["Frequency of modal class", "Frequency of succeeding class", "Frequency of preceding class", "None of these"],
+      "correctIndex": 2,
+      "explanation": "f0 is the frequency of the class just before (preceding) the modal class.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m13_q15",
+      "text": "The median class of a distribution is the class where the cumulative frequency just exceeds:",
+      "options": ["n", "n/2", "n/4", "3n/4"],
+      "correctIndex": 1,
+      "explanation": "We identify the median class by looking for the cumulative frequency that is equal to or just greater than n/2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m13_q16",
+      "text": "In the formula for Median, Median = l + [ (n/2 - cf)/f ] * h. What does 'cf' represent?",
+      "options": ["Cumulative frequency of median class", "Frequency of median class", "Cumulative frequency of preceding class", "Total frequency"],
+      "correctIndex": 2,
+      "explanation": "cf is the cumulative frequency of the class interval preceding the median class.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m11_q17",
+      "text": "If the mean of x, x+2, x+4, x+6 is 15, find x:",
+      "options": ["10", "12", "14", "16"],
+      "correctIndex": 1,
+      "explanation": "(4x + 12)/4 = 15 => x + 3 = 15 => x = 12.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m13_q18",
+      "text": "The difference between upper limit and lower limit of a class is called:",
+      "options": ["Class mark", "Class size", "Range", "Frequency"],
+      "correctIndex": 1,
+      "explanation": "Class size (or class width) is the difference between upper and lower limits of any class interval.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m13_q19",
+      "text": "What is the range of the first 5 whole numbers?",
+      "options": ["2", "3", "4", "5"],
+      "correctIndex": 2,
+      "explanation": "First 5 whole numbers are 0, 1, 2, 3, 4. Range = 4 - 0 = 4.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m13_q20",
+      "text": "If Mode = 10 and Mean = 10, find Median using the empirical formula:",
+      "options": ["10", "20", "30", "5"],
+      "correctIndex": 0,
+      "explanation": "3 Median = 10 + 2(10) => 3 Median = 30 => Median = 10.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m13_q21",
+      "text": "Mean of grouped data can be found by which method?",
+      "options": ["Direct Method", "Assumed Mean Method", "Step Deviation Method", "All of these"],
+      "correctIndex": 3,
+      "explanation": "All three methods are taught in Grade 10 to find the arithmetic mean.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m13_q22",
+      "text": "In the formula for Median, what does 'l' represent?",
+      "options": ["Upper limit of median class", "Lower limit of median class", "Length of median class", "None of these"],
+      "correctIndex": 1,
+      "explanation": "l is the lower limit of the median class.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m13_q23",
+      "text": "If n = 100, then n/2 is used to find:",
+      "options": ["Mode", "Median class", "Modal class", "Mean"],
+      "correctIndex": 1,
+      "explanation": "n/2 is primarily used in identifying the median class in a cumulative frequency table.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m13_q24",
+      "text": "What happens to the mean if each value is increased by k?",
+      "options": ["Increased by k", "Decreased by k", "Multiplied by k", "No change"],
+      "correctIndex": 0,
+      "explanation": "By property of mean, if every element in a data set is increased by a constant, the mean increases by that same constant.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m13_q25",
+      "text": "The formula for the mean by Assumed Mean Method is:",
+      "options": ["a + Σf_i d_i / Σf_i", "a - Σf_i d_i / Σf_i", "Σf_i x_i / Σf_i", "a + Σf_i / Σf_i d_i"],
+      "correctIndex": 0,
+      "explanation": "Assumed Mean Method simplifies calculations by shifting the origin to an assumed mean 'a'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m13_q26",
+      "text": "Median of 10, 15, 12, 11, 20 is:",
+      "options": ["11", "12", "15", "20"],
+      "correctIndex": 1,
+      "explanation": "Arranged: 10, 11, 12, 15, 20. The middle value is 12.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m13_q27",
+      "text": "In the formula for Mode, f1 is:",
+      "options": ["Frequency of preceding class", "Frequency of succeeding class", "Frequency of modal class", "Lower limit"],
+      "correctIndex": 2,
+      "explanation": "f1 is defined as the frequency of the modal class interval.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m13_q28",
+      "text": "The measure of central tendency that is highly affected by extreme values is:",
+      "options": ["Mean", "Median", "Mode", "None"],
+      "correctIndex": 0,
+      "explanation": "Arithmetic Mean uses every value in the data set and is thus significantly influenced by outliers (extreme values).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m13_q29",
+      "text": "If Σf_i = 20 and Σf_i x_i = 100, the mean is:",
+      "options": ["2", "5", "10", "20"],
+      "correctIndex": 1,
+      "explanation": "Mean = 100 / 20 = 5.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m13_q30",
+      "text": "To find the mean of values 2, 4, 6, 8, what is Σx?",
+      "options": ["10", "15", "20", "24"],
+      "correctIndex": 2,
+      "explanation": "Σx = 2 + 4 + 6 + 8 = 20.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m13_q31",
+      "text": "The class intervals must be ______ to calculate the Median and Mode using the standard formulas.",
+      "options": ["Continuous", "Discontinuous", "Varying size", "None"],
+      "correctIndex": 0,
+      "explanation": "Standard formulas for grouped median/mode require continuous class intervals (no gaps between upper and lower limits).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m13_q32",
+      "text": "For classes 0-10, 11-21, 22-32, the adjusted lower limit of 11-21 is:",
+      "options": ["11", "10.5", "11.5", "10"],
+      "correctIndex": 1,
+      "explanation": "To make classes continuous, we subtract 0.5 from the lower limit (11 - 0.5 = 10.5).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m13_q33",
+      "text": "What is the mode of data 7, 8, 9, 10, 10, 11, 12?",
+      "options": ["10", "9", "11", "No mode"],
+      "correctIndex": 0,
+      "explanation": "10 occurs twice, all other numbers occur once.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m13_q34",
+      "text": "The midpoint of a class interval is 40 and class width is 10. The lower limit is:",
+      "options": ["30", "35", "45", "50"],
+      "correctIndex": 1,
+      "explanation": "Lower limit = midpoint - (width/2) = 40 - 5 = 35.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m13_q35",
+      "text": "Find the Mean of first 5 natural numbers:",
+      "options": ["2", "3", "4", "5"],
+      "correctIndex": 1,
+      "explanation": "(1+2+3+4+5)/5 = 15/5 = 3.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m13_q36",
+      "text": "If Mode - Median = 2, find Median - Mean using the empirical formula:",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 0,
+      "explanation": "Mode = 3 Median - 2 Mean. (3 Median - 2 Mean) - Median = 2 => 2 Median - 2 Mean = 2 => Median - Mean = 1.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_m13_q37",
+      "text": "Cumulative frequency is used for calculating:",
+      "options": ["Arithmetic Mean", "Mode", "Median", "Standard Deviation"],
+      "correctIndex": 2,
+      "explanation": "Cumulative frequency helps identify the median class, essential for the median formula.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m13_q38",
+      "text": "If the mean of 2, 4, 6, 8, 10, 12, 14, 16 is m, then the mean of 12, 14, 16, 18, 20, 22, 24, 26 is:",
+      "options": ["m", "m + 10", "m - 10", "2m"],
+      "correctIndex": 1,
+      "explanation": "Each element in the second set is exactly 10 more than the corresponding element in the first set, so mean increases by 10.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m13_q39",
+      "text": "The sum of the lower limit of the modal class and the lower limit of the median class for a given distribution is always:",
+      "options": ["Constant", "Twice the Mean", "Calculation dependent", "None"],
+      "correctIndex": 2,
+      "explanation": "These limits depend entirely on the specific frequency distribution given.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_m13_q40",
+      "text": "The measure of central tendency that cannot be determined graphically (in this syllabus) is:",
+      "options": ["Mean", "Median", "Mode", "None"],
+      "correctIndex": 0,
+      "explanation": "While Median can be found by Ogives (removed from current syllabus), Mean calculation is purely algebraic.",
+      "frequencyRating": 4
+    }
+  ]
+}

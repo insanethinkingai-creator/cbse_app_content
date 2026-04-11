@@ -1,0 +1,330 @@
+{
+  "id": "g10_sci_ch2",
+  "grade": "10",
+  "subject": "Science",
+  "number": "2",
+  "title": "Acids, Bases and Salts",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_s2_q1",
+      "text": "Which of the following substances will turn blue litmus red?",
+      "options": ["Vinegar", "Soap solution", "Baking soda solution", "Lime water"],
+      "correctIndex": 0,
+      "explanation": "Vinegar contains acetic acid; acids have the property of turning blue litmus paper red.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q2",
+      "text": "What color does phenolphthalein turn in the presence of a base?",
+      "options": ["Colorless", "Yellow", "Pink", "Blue"],
+      "correctIndex": 2,
+      "explanation": "Phenolphthalein is a synthetic indicator that remains colorless in acidic solutions but turns pink in basic solutions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q3",
+      "text": "Which gas is produced when dilute hydrochloric acid reacts with zinc granules?",
+      "options": ["Oxygen", "Hydrogen", "Carbon dioxide", "Nitrogen"],
+      "correctIndex": 1,
+      "explanation": "Acids react with active metals like zinc to evolve hydrogen gas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q4",
+      "text": "What is the product formed when Sodium Hydroxide reacts with Zinc metal?",
+      "options": ["Sodium zincate and Hydrogen", "Sodium oxide and Zinc", "Zinc hydroxide and Sodium", "No reaction occurs"],
+      "correctIndex": 0,
+      "explanation": "Strong bases react with certain metals like Zinc to form a complex salt (Sodium Zincate, Na2ZnO2) and hydrogen gas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s2_q5",
+      "text": "The reaction between an acid and a base to give a salt and water is known as:",
+      "options": ["Combination reaction", "Decomposition reaction", "Neutralization reaction", "Displacement reaction"],
+      "correctIndex": 2,
+      "explanation": "Neutralization is the reaction where H+ ions from acid and OH- ions from base combine to form water and a salt.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q6",
+      "text": "Which gas is evolved when sodium carbonate reacts with dilute hydrochloric acid?",
+      "options": ["Hydrogen", "Oxygen", "Carbon dioxide", "Chlorine"],
+      "correctIndex": 2,
+      "explanation": "Metal carbonates react with acids to produce salt, water, and carbon dioxide gas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q7",
+      "text": "What happens when carbon dioxide is passed through lime water?",
+      "options": ["Lime water turns blue", "Lime water turns milky", "Lime water becomes hot", "No change"],
+      "correctIndex": 1,
+      "explanation": "CO2 reacts with lime water [Ca(OH)2] to form an insoluble white precipitate of calcium carbonate (CaCO3).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q8",
+      "text": "What happens when excess carbon dioxide is passed through milky lime water?",
+      "options": ["Milkiness increases", "Milkiness disappears", "Solution turns red", "Precipitate settles down"],
+      "correctIndex": 1,
+      "explanation": "Excess CO2 forms soluble calcium hydrogen carbonate [Ca(HCO3)2], making the solution clear again.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s2_q9",
+      "text": "Most metallic oxides are ______ in nature.",
+      "options": ["Acidic", "Basic", "Neutral", "Amphoteric only"],
+      "correctIndex": 1,
+      "explanation": "Metallic oxides generally react with acids to form salt and water, which is a characteristic of bases.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q10",
+      "text": "Non-metallic oxides are generally ______ in nature.",
+      "options": ["Acidic", "Basic", "Neutral", "Amphoteric"],
+      "correctIndex": 0,
+      "explanation": "Non-metallic oxides react with bases to form salt and water, showing they are acidic in nature.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q11",
+      "text": "Why do aqueous solutions of acids conduct electricity?",
+      "options": ["Due to presence of molecules", "Due to presence of ions", "Due to high temperature", "Acids do not conduct electricity"],
+      "correctIndex": 1,
+      "explanation": "In water, acids dissociate into ions (like H+), which act as charge carriers to conduct electricity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q12",
+      "text": "What happens when dry HCl gas is brought near dry blue litmus paper?",
+      "options": ["Litmus turns red", "Litmus turns white", "No change in color", "Litmus turns green"],
+      "correctIndex": 2,
+      "explanation": "Acids show acidic behavior only in the presence of water because H+ ions are produced only in aqueous solution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q13",
+      "text": "Hydrogen ions cannot exist alone. In water, they exist as:",
+      "options": ["Hydroxyl ions", "Hydronium ions", "Hydrogen gas", "Oxide ions"],
+      "correctIndex": 1,
+      "explanation": "H+ ions combine with water molecules to form hydronium ions (H3O+).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q14",
+      "text": "Bases which are soluble in water are called:",
+      "options": ["Salts", "Acids", "Alkalis", "Indicators"],
+      "correctIndex": 2,
+      "explanation": "Alkalis are a subset of bases that dissolve easily in water, such as NaOH or KOH.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q15",
+      "text": "The process of dissolving an acid or a base in water is highly ______.",
+      "options": ["Endothermic", "Exothermic", "Slow", "No heat change"],
+      "correctIndex": 1,
+      "explanation": "Mixing concentrated acid or base with water releases a significant amount of heat energy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q16",
+      "text": "A scale for measuring hydrogen ion concentration in a solution is called:",
+      "options": ["Richter scale", "pH scale", "Beaufort scale", "Kelvin scale"],
+      "correctIndex": 1,
+      "explanation": "The pH scale (0 to 14) measures how acidic or basic a substance is based on H+ concentration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q17",
+      "text": "A neutral solution has a pH of exactly:",
+      "options": ["0", "14", "7", "1"],
+      "correctIndex": 2,
+      "explanation": "Pure water and other neutral solutions have a pH of 7.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q18",
+      "text": "If a solution has a pH of 2, the solution is:",
+      "options": ["Strongly acidic", "Weakly acidic", "Strongly basic", "Neutral"],
+      "correctIndex": 0,
+      "explanation": "pH values closer to 0 indicate high acidity (strong acids).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q19",
+      "text": "Rain is called acid rain when its pH falls below:",
+      "options": ["7.0", "8.2", "5.6", "6.5"],
+      "correctIndex": 2,
+      "explanation": "When the pH of rain water is less than 5.6, it is termed acid rain.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s2_q20",
+      "text": "Which substance is often used as an antacid to neutralize excess stomach acid?",
+      "options": ["Sodium chloride", "Milk of Magnesia", "Vinegar", "Citric acid"],
+      "correctIndex": 1,
+      "explanation": "Magnesium hydroxide [Mg(OH)2], also called Milk of Magnesia, is a mild base used as an antacid.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q21",
+      "text": "Tooth decay starts when the pH of the mouth is lower than:",
+      "options": ["7.0", "5.5", "6.5", "8.0"],
+      "correctIndex": 1,
+      "explanation": "At pH below 5.5, tooth enamel (calcium hydroxyapatite) begins to corrode or demineralize.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q22",
+      "text": "Nettle leaf hair inject ______ acid causing burning pain.",
+      "options": ["Acetic", "Citric", "Methanoic", "Oxalic"],
+      "correctIndex": 2,
+      "explanation": "Nettle stings contain methanoic acid (formic acid), which causes irritation and pain.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s2_q23",
+      "text": "Which acid is present in Vinegar?",
+      "options": ["Citric acid", "Acetic acid", "Lactic acid", "Tartaric acid"],
+      "correctIndex": 1,
+      "explanation": "Vinegar is a 5-8% solution of acetic acid in water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q24",
+      "text": "Which acid is found in Tamarind?",
+      "options": ["Oxalic acid", "Lactic acid", "Tartaric acid", "Citric acid"],
+      "correctIndex": 2,
+      "explanation": "Tamarind contains tartaric acid, which gives it its sour taste.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s2_q25",
+      "text": "Common salt (NaCl) is prepared from the neutralization of:",
+      "options": ["NaOH and HCl", "KOH and HNO3", "NaOH and H2SO4", "Ca(OH)2 and HCl"],
+      "correctIndex": 0,
+      "explanation": "The reaction of strong base Sodium Hydroxide and strong acid Hydrochloric Acid yields Sodium Chloride.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q26",
+      "text": "The process of electrolysis of an aqueous solution of sodium chloride is called:",
+      "options": ["Solvay process", "Chlor-alkali process", "Haber process", "Bessemer process"],
+      "correctIndex": 1,
+      "explanation": "It is named so because of the products formed: chlorine and an alkali (sodium hydroxide).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q27",
+      "text": "In the chlor-alkali process, chlorine gas is given off at the:",
+      "options": ["Cathode", "Anode", "Both electrodes", "None"],
+      "correctIndex": 1,
+      "explanation": "Negatively charged chloride ions are oxidized to chlorine gas at the positive electrode (anode).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s2_q28",
+      "text": "What is the chemical formula of Bleaching Powder?",
+      "options": ["CaCO3", "CaOCl2", "Ca(OH)2", "CaCl2"],
+      "correctIndex": 1,
+      "explanation": "Bleaching powder is Calcium Oxychloride, represented as CaOCl2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q29",
+      "text": "Bleaching powder is produced by the action of chlorine on:",
+      "options": ["Quick lime", "Dry slaked lime", "Limestone", "Gypsum"],
+      "correctIndex": 1,
+      "explanation": "Chlorine reacts with dry slaked lime [Ca(OH)2] to yield bleaching powder.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q30",
+      "text": "What is the chemical name of Baking Soda?",
+      "options": ["Sodium carbonate", "Sodium hydrogen carbonate", "Calcium carbonate", "Sodium hydroxide"],
+      "correctIndex": 1,
+      "explanation": "Baking soda is Sodium Hydrogen Carbonate (NaHCO3).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q31",
+      "text": "Heating baking soda during cooking produces which gas that makes bread rise?",
+      "options": ["Oxygen", "Hydrogen", "Carbon dioxide", "Nitrogen"],
+      "correctIndex": 2,
+      "explanation": "Thermal decomposition of NaHCO3 releases CO2 gas, which creates bubbles and makes dough light and spongy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q32",
+      "text": "Baking powder is a mixture of baking soda and a mild edible acid like:",
+      "options": ["Acetic acid", "Tartaric acid", "Sulphuric acid", "Hydrochloric acid"],
+      "correctIndex": 1,
+      "explanation": "Baking powder contains Sodium Hydrogen Carbonate and a mild acid like tartaric acid to neutralize the bitter taste of sodium carbonate.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s2_q33",
+      "text": "What is the chemical formula of Washing Soda?",
+      "options": ["Na2CO3.H2O", "Na2CO3.10H2O", "NaHCO3", "NaOH"],
+      "correctIndex": 1,
+      "explanation": "Washing soda is sodium carbonate decahydrate, Na2CO3.10H2O.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q34",
+      "text": "Which salt is used for removing permanent hardness of water?",
+      "options": ["Baking soda", "Bleaching powder", "Washing soda", "Plaster of Paris"],
+      "correctIndex": 2,
+      "explanation": "Sodium carbonate (Washing soda) is used in water softening processes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s2_q35",
+      "text": "Copper sulphate crystals which seem to be dry contain ______.",
+      "options": ["No water", "Water of crystallization", "Acid", "Base"],
+      "correctIndex": 1,
+      "explanation": "Blue copper sulphate crystals contain 5 molecules of water of crystallization per formula unit (CuSO4.5H2O).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s2_q36",
+      "text": "What is the chemical formula of Plaster of Paris?",
+      "options": ["CaSO4.2H2O", "CaSO4.1/2H2O", "CaCO3", "CaO"],
+      "correctIndex": 1,
+      "explanation": "Plaster of Paris is Calcium Sulphate Hemihydrate, CaSO4.1/2H2O.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q37",
+      "text": "Plaster of Paris is obtained by heating ______ at 373 K.",
+      "options": ["Limestone", "Quick lime", "Gypsum", "Slaked lime"],
+      "correctIndex": 2,
+      "explanation": "On heating Gypsum (CaSO4.2H2O) at 373 K, it loses water molecules and becomes Plaster of Paris.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q38",
+      "text": "What happens when Plaster of Paris is mixed with water?",
+      "options": ["It dissolves", "It turns into Gypsum", "It evaporates", "It becomes an acid"],
+      "correctIndex": 1,
+      "explanation": "POP reacts with water to form a hard solid mass called Gypsum again.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q39",
+      "text": "Indicators that change their odor in acidic or basic media are called:",
+      "options": ["Visual indicators", "Olfactory indicators", "Natural indicators", "Synthetic indicators"],
+      "correctIndex": 1,
+      "explanation": "Examples include onion, vanilla essence, and clove oil, whose smell changes depending on pH.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s2_q40",
+      "text": "Which of the following is a natural indicator?",
+      "options": ["Methyl orange", "Phenolphthalein", "Litmus", "Universal indicator"],
+      "correctIndex": 2,
+      "explanation": "Litmus is a natural indicator extracted from Lichens.",
+      "frequencyRating": 5
+    }
+  ]
+}

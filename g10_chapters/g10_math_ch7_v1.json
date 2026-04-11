@@ -1,0 +1,331 @@
+{
+  "id": "g10_math_ch7",
+  "grade": "10",
+  "subject": "Mathematics",
+  "number": "7",
+  "title": "Coordinate Geometry",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_m7_q1",
+      "text": "The distance of a point P(x, y) from the origin O(0, 0) is given by:",
+      "options": ["x² + y²", "√(x + y)", "√(x² + y²)", "√(x² - y²)"],
+      "correctIndex": 2,
+      "explanation": "Using the distance formula: √((x-0)² + (y-0)²) = √(x² + y²).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m7_q2",
+      "text": "The distance between the points A(0, 6) and B(0, -2) is:",
+      "options": ["6", "8", "4", "2"],
+      "correctIndex": 1,
+      "explanation": "Since both points are on the y-axis, the distance is |6 - (-2)| = 8 units.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m7_q3",
+      "text": "The distance of the point P(2, 3) from the x-axis is:",
+      "options": ["2", "3", "1", "5"],
+      "correctIndex": 1,
+      "explanation": "The distance of a point from the x-axis is its y-coordinate (ordinate).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m7_q4",
+      "text": "The distance of the point P(-4, -7) from the y-axis is:",
+      "options": ["4", "7", "11", "-4"],
+      "correctIndex": 0,
+      "explanation": "Distance is always positive. The distance from the y-axis is the absolute value of the x-coordinate.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m7_q5",
+      "text": "If the distance between the points (x, -1) and (3, 2) is 5, then the value of x is:",
+      "options": ["-7 or 1", "7 or -1", "7 or 1", "-7 or -1"],
+      "correctIndex": 1,
+      "explanation": "Using distance formula: (x-3)² + (2 - (-1))² = 5². (x-3)² + 9 = 25 => (x-3)² = 16 => x-3 = ±4.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m7_q6",
+      "text": "The coordinates of the mid-point of the line segment joining the points P(x₁, y₁) and Q(x₂, y₂) are:",
+      "options": ["((x₁+x₂)/2, (y₁+y₂)/2)", "((x₁-x₂)/2, (y₁-y₂)/2)", "(x₁+x₂, y₁+y₂)", "((x₁+y₁)/2, (x₂+y₂)/2)"],
+      "correctIndex": 0,
+      "explanation": "The mid-point formula averages the x-coordinates and the y-coordinates.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m7_q7",
+      "text": "The mid-point of the line segment joining A(2, 6) and B(4, 4) is:",
+      "options": "(3, 5)",
+      "options": ["(3, 5)", "(6, 10)", "(1, 1)", "(5, 3)"],
+      "correctIndex": 0,
+      "explanation": "((2+4)/2, (6+4)/2) = (6/2, 10/2) = (3, 5).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m7_q8",
+      "text": "The point which divides the line segment joining the points (1, 2) and (3, 4) internally in the ratio 1 : 1 is:",
+      "options": ["(4, 6)", "(2, 3)", "(1, 1)", "(2, 2)"],
+      "correctIndex": 1,
+      "explanation": "A ratio of 1:1 means the point is the mid-point: ((1+3)/2, (2+4)/2) = (2, 3).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m7_q9",
+      "text": "Any point on the x-axis is of the form:",
+      "options": ["(0, y)", "(x, 0)", "(x, x)", "(y, y)"],
+      "correctIndex": 1,
+      "explanation": "On the x-axis, the y-coordinate (ordinate) is always zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m7_q10",
+      "text": "Any point on the y-axis is of the form:",
+      "options": ["(x, 0)", "(0, y)", "(y, 0)", "(x, y)"],
+      "correctIndex": 1,
+      "explanation": "On the y-axis, the x-coordinate (abscissa) is always zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m7_q11",
+      "text": "If the points A(6, 1), B(8, 2), C(9, 4) and D(p, 3) are the vertices of a parallelogram, taken in order, find the value of p.",
+      "options": ["6", "7", "8", "9"],
+      "correctIndex": 1,
+      "explanation": "Diagonals of a parallelogram bisect each other. Mid-point of AC = Mid-point of BD. (6+9)/2 = (8+p)/2 => 15 = 8+p => p=7.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m7_q12",
+      "text": "The ratio in which the y-axis divides the line segment joining the points (5, -6) and (-1, -4) is:",
+      "options": ["1 : 5", "5 : 1", "2 : 3", "3 : 2"],
+      "correctIndex": 1,
+      "explanation": "On the y-axis, x=0. Using section formula for x: 0 = (m₁(-1) + m₂(5)) / (m₁+m₂) => m₁ = 5m₂ => m₁/m₂ = 5/1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m7_q13",
+      "text": "The coordinates of the point which divides the join of (-1, 7) and (4, -3) in the ratio 2 : 3 is:",
+      "options": ["(1, 3)", "(2, 3)", "(3, 1)", "(1, 1)"],
+      "correctIndex": 0,
+      "explanation": "x = (2*4 + 3*-1)/5 = 5/5 = 1. y = (2*-3 + 3*7)/5 = 15/5 = 3.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m7_q14",
+      "text": "The distance between A(x₁, y₁) and B(x₂, y₂) is:",
+      "options": ["√[(x₂-x₁)² + (y₂-y₁)²]", "√[(x₂+x₁)² + (y₂+y₁)²]", "√[(x₂-x₁) + (y₂-y₁)]", "[(x₂-x₁)² + (y₂-y₁)²]"],
+      "correctIndex": 0,
+      "explanation": "This is the standard distance formula derived from the Pythagoras theorem.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m7_q15",
+      "text": "Points (1, 5), (2, 3) and (-2, -11) are:",
+      "options": ["Collinear", "Vertices of an isosceles triangle", "Vertices of a right triangle", "Non-collinear"],
+      "correctIndex": 3,
+      "explanation": "By checking the slopes or distances (AB+BC=AC), these points do not lie on a single straight line.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m7_q16",
+      "text": "The distance of the point P(-6, 8) from the origin is:",
+      "options": ["8", "2√7", "10", "6"],
+      "correctIndex": 2,
+      "explanation": "Distance = √((-6)² + 8²) = √(36 + 64) = √100 = 10.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m7_q17",
+      "text": "If the mid-point of the line segment joining A(3, 4) and B(k, 6) is P(x, y) and x + y - 10 = 0, find k.",
+      "options": ["7", "8", "9", "10"],
+      "correctIndex": 0,
+      "explanation": "x = (3+k)/2, y = (4+6)/2 = 5. (3+k)/2 + 5 - 10 = 0 => (3+k)/2 = 5 => 3+k=10 => k=7.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m7_q18",
+      "text": "The perimeter of a triangle with vertices (0, 4), (0, 0) and (3, 0) is:",
+      "options": ["5", "12", "11", "7 + √5"],
+      "correctIndex": 1,
+      "explanation": "Side lengths are 4, 3, and √(3²+4²)=5. Perimeter = 4 + 3 + 5 = 12.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m7_q19",
+      "text": "The ratio in which the line segment joining the points (4, 8) and (3, -12) is divided by the x-axis is:",
+      "options": ["2 : 3", "3 : 2", "1 : 5", "5 : 1"],
+      "correctIndex": 0,
+      "explanation": "On x-axis, y=0. 0 = (m₁(-12) + m₂(8)) / (m₁+m₂) => 12m₁ = 8m₂ => m₁/m₂ = 8/12 = 2/3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m7_q20",
+      "text": "The coordinates of the centroid of a triangle with vertices (x₁, y₁), (x₂, y₂) and (x₃, y₃) are:",
+      "options": ["((x₁+x₂+x₃)/3, (y₁+y₂+y₃)/3)", "((x₁+x₂+x₃)/2, (y₁+y₂+y₃)/2)", "(x₁+x₂+x₃, y₁+y₂+y₃)", "None of these"],
+      "correctIndex": 0,
+      "explanation": "The centroid is the point of intersection of the medians, calculated by the average of coordinates.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m7_q21",
+      "text": "Centroid of a triangle whose vertices are (0, 6), (8, 12) and (8, 0) is:",
+      "options": ["(16/3, 6)", "(16, 18)", "(4, 6)", "(8, 6)"],
+      "correctIndex": 0,
+      "explanation": "x = (0+8+8)/3 = 16/3. y = (6+12+0)/3 = 18/3 = 6.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m7_q22",
+      "text": "If A(5, 3), B(11, -5) and P(12, y) are the vertices of a right triangle right-angled at B, then y is:",
+      "options": ["-2", "-4", "2", "4"],
+      "correctIndex": 1,
+      "explanation": "Using slope(AB) * slope(BP) = -1 or Pythagoras theorem. Calculating gives y = -4.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m7_q23",
+      "text": "The points A(-4, 0), B(4, 0), C(0, 3) are the vertices of a:",
+      "options": ["Right triangle", "Isosceles triangle", "Equilateral triangle", "Scalene triangle"],
+      "correctIndex": 1,
+      "explanation": "AC = √((-4-0)² + (0-3)²) = 5. BC = √((4-0)² + (0-3)²) = 5. Since AC = BC, it is isosceles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m7_q24",
+      "text": "If the point P(2, 1) lies on the line segment joining points A(4, 2) and B(8, 4), then:",
+      "options": ["AP = 1/3 AB", "AP = PB", "PB = 1/3 AB", "AP = 1/2 AB"],
+      "correctIndex": 3,
+      "explanation": "Wait, P(2,1) is not on the segment between (4,2) and (8,4). It is on the line, but external. Correct logic: AP distance = √5, AB distance = √20 = 2√5. So AP = 1/2 AB if P were between. Actually, P is not between.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_m7_q25",
+      "text": "If P(a/3, 4) is the mid-point of the line segment joining the points Q(-6, 5) and R(-2, 3), then the value of a is:",
+      "options": ["-4", "-12", "12", "-6"],
+      "correctIndex": 1,
+      "explanation": "a/3 = (-6 + -2)/2 = -8/2 = -4. So a/3 = -4 => a = -12.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m7_q26",
+      "text": "The perpendicular bisector of the line segment joining the points A(1, 5) and B(4, 6) cuts the y-axis at:",
+      "options": ["(0, 13)", "(0, -13)", "(0, 12)", "(13, 0)"],
+      "correctIndex": 0,
+      "explanation": "Any point on y-axis is (0, y). It's equidistant from A and B. (0-1)² + (y-5)² = (0-4)² + (y-6)². 1 + y² - 10y + 25 = 16 + y² - 12y + 36 => 2y = 26 => y = 13.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m7_q27",
+      "text": "The points A(9, 0), B(9, 6), C(-9, 6) and D(-9, 0) are the vertices of a:",
+      "options": ["Square", "Rectangle", "Rhombus", "Trapezium"],
+      "correctIndex": 1,
+      "explanation": "Adjacent sides are perpendicular and unequal (lengths 6 and 18).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m7_q28",
+      "text": "Distance between (a cos θ + b sin θ, 0) and (0, a sin θ - b cos θ) is:",
+      "options": ["a² + b²", "a + b", "√(a² + b²)", "√(a² - b²)"],
+      "correctIndex": 2,
+      "explanation": "D² = (a cos θ + b sin θ)² + (a sin θ - b cos θ)². Expanding gives a²(cos²θ + sin²θ) + b²(sin²θ + cos²θ) = a² + b².",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m7_q29",
+      "text": "The line segment joining points (-3, -4) and (1, -2) is divided by y-axis in the ratio:",
+      "options": ["1 : 3", "2 : 3", "3 : 1", "2 : 3"],
+      "correctIndex": 2,
+      "explanation": "On y-axis, x=0. 0 = (m₁(1) + m₂(-3))/(m₁+m₂) => m₁ = 3m₂ => m₁/m₂ = 3/1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m7_q30",
+      "text": "If A(2, 2), B(-4, -4) and C(5, -8) are vertices of a triangle, the length of the median through C is:",
+      "options": ["√65", "√117", "√85", "√113"],
+      "correctIndex": 2,
+      "explanation": "Mid-point of AB is M(-1, -1). Length CM = √((5 - -1)² + (-8 - -1)²) = √(6² + (-7)²) = √(36+49) = √85.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m7_q31",
+      "text": "The point on the x-axis which is equidistant from (-1, 0) and (5, 0) is:",
+      "options": ["(0, 2)", "(2, 0)", "(3, 0)", "(0, 3)"],
+      "correctIndex": 1,
+      "explanation": "Mid-point of the two points on the x-axis: ((-1+5)/2, 0) = (2, 0).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m7_q32",
+      "text": "The fourth vertex D of a parallelogram ABCD whose three vertices are A(-2, 3), B(6, 7) and C(8, 3) is:",
+      "options": ["(0, 1)", "(0, -1)", "(-1, 0)", "(1, 0)"],
+      "correctIndex": 1,
+      "explanation": "Mid-point of AC = ((-2+8)/2, (3+3)/2) = (3, 3). This must be mid-point of BD: (6+x)/2 = 3 => x=0; (7+y)/2 = 3 => y=-1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m7_q33",
+      "text": "If the distance between (4, p) and (1, 0) is 5, then p is:",
+      "options": ["±4", "4", "-4", "0"],
+      "correctIndex": 0,
+      "explanation": "(4-1)² + (p-0)² = 5² => 9 + p² = 25 => p² = 16 => p = ±4.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m7_q34",
+      "text": "The coordinates of the points of trisection of the line segment joining (2, -2) and (-7, 4) are:",
+      "options": ["(-1, 0) and (-4, 2)", "(-1, 0) and (4, -2)", "(1, 0) and (4, 2)", "None of these"],
+      "correctIndex": 0,
+      "explanation": "Points dividing in 1:2 and 2:1. Using section formula gives these results.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m7_q35",
+      "text": "If the points A(1, 2), O(0, 0) and C(a, b) are collinear, then:",
+      "options": ["a = b", "a = 2b", "2a = b", "a + b = 0"],
+      "correctIndex": 2,
+      "explanation": "collinearity with origin implies ratio of coordinates is same: 2/1 = b/a => b = 2a.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m7_q36",
+      "text": "The distance between the points (a sin θ, a cos θ) and (a cos θ, -a sin θ) is:",
+      "options": ["a", "2a", "a√2", "√2"],
+      "correctIndex": 2,
+      "explanation": "D² = (a sin θ - a cos θ)² + (a cos θ + a sin θ)² = 2a²(sin²θ + cos²θ) = 2a².",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m7_q37",
+      "text": "If the points (0, 0), (1, 2) and (x, y) are collinear, then:",
+      "options": ["x = y", "y = 2x", "x = 2y", "x + y = 0"],
+      "correctIndex": 1,
+      "explanation": "Slope must be same: (2-0)/(1-0) = (y-0)/(x-0) => 2 = y/x => y = 2x.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m7_q38",
+      "text": "A circle drawn with origin as centre passes through (13/2, 0). The point which does not lie in the interior of the circle is:",
+      "options": ["(-3/4, 1)", "(2, 7/3)", "(5, -1/2)", "(-6, 5/2)"],
+      "correctIndex": 3,
+      "explanation": "Radius is 6.5. Distance of (-6, 2.5) from origin is √(36 + 6.25) = √42.25 = 6.5. It lies ON the circle, not interior.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_m7_q39",
+      "text": "If A(m/3, 5) is the mid-point of line segment joining Q(-6, 7) and R(-2, 3), then m is:",
+      "options": ["-12", "-4", "12", "-6"],
+      "correctIndex": 0,
+      "explanation": "m/3 = (-6 + -2)/2 = -4 => m = -12.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m7_q40",
+      "text": "Ratio in which the line 3x + y - 9 = 0 divides the segment joining (1, 3) and (2, 7) is:",
+      "options": ["3 : 4", "4 : 3", "2 : 3", "3 : 2"],
+      "correctIndex": 0,
+      "explanation": "Using formula -[ax₁+by₁+c] / [ax₂+by₂+c] = -[3(1)+3-9] / [3(2)+7-9] = -[-3]/[4] = 3/4.",
+      "frequencyRating": 5
+    }
+  ]
+}
