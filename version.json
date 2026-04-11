@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2024-05-24T10:00:00.000Z",
+  "updatedAt": "2026-04-11T18:33:14.626303Z",
   "bundles": {
     "g7_full_zip": "v1",
     "g7_full_zip_md5": "66ae9518b694d91a0d8df538c0c327bd",
     "g7_full_zip_filename": "g7_v1.zip",
     "g10_full_zip": "v1",
-    "g10_full_zip_md5": "PENDING_RUN_SCRIPT",
-    "g10_full_zip_filename": "g10_v1.zip"
+    "g10_full_zip_md5": "bec80b5c20dfa4ab486605bfa4cdd0fe",
+    "g10_full_zip_filename": "g10_v1.zip",
+    "g11_full_zip": "v1",
+    "g11_full_zip_md5": "76cdb2bad9582d23c1f6f4d868218d6c",
+    "g11_full_zip_filename": "g11_v1.zip",
+    "g12_full_zip": "v1",
+    "g12_full_zip_md5": "76cdb2bad9582d23c1f6f4d868218d6c",
+    "g12_full_zip_filename": "g12_v1.zip",
+    "g8_full_zip": "v1",
+    "g8_full_zip_md5": "76cdb2bad9582d23c1f6f4d868218d6c",
+    "g8_full_zip_filename": "g8_v1.zip",
+    "g9_full_zip": "v1",
+    "g9_full_zip_md5": "76cdb2bad9582d23c1f6f4d868218d6c",
+    "g9_full_zip_filename": "g9_v1.zip"
   }
 }

@@ -42,6 +42,10 @@ def create_bundles():
         subdir_path = os.path.join(base_dir, subdir)
 
         json_files = [f for f in os.listdir(subdir_path) if f.endswith(".json")]
+
+        if not json_files:
+            print(f"Skipping {grade_prefix}: No JSON files found in {subdir}. skipping bundle creation.")
+            continue
         
         print(f"Processing {grade_prefix}: Found {len(json_files)} files. Bundling...")
 
