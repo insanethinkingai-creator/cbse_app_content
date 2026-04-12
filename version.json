@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-04-12T18:51:32.089425Z",
+  "updatedAt": "2026-04-12T19:19:00.699840Z",
   "enabledGrades": [
     "g10"
   ],
   "bundles": {
-    "g7_full_zip": "v1",
+    "g7_full_zip": "66ae9518",
     "g7_full_zip_md5": "66ae9518b694d91a0d8df538c0c327bd",
-    "g7_full_zip_filename": "g7_v1.zip",
-    "g10_full_zip": "v1",
-    "g10_full_zip_md5": "ddc76448860162b11c08ee815b017a3e",
-    "g10_full_zip_filename": "g10_v1.zip"
+    "g7_full_zip_filename": "g7_66ae9518.zip",
+    "g10_full_zip": "fe6b3a9c",
+    "g10_full_zip_md5": "fe6b3a9ccbb118c89604d6b4af104e6d",
+    "g10_full_zip_filename": "g10_fe6b3a9c.zip"
   }
 }

@@ -224,10 +224,11 @@ This script automatically packages all chapters into `g7_v1.zip`, calculates its
 
 To minimize requests to the GitHub backend:
 
-1. **Client-Side Caching**: Apps should fetch `version.json` first.
+1. **Client-Side Caching**: Apps should fetch `version.json` first. To bypass CDN caching for the manifest, append a timestamp:
+   `https://cdn.jsdelivr.net/gh/{user}/{repo}@main/version.json?t=${Date.now()}`
 2. **Version Comparison**: Compare the `versions` object in the manifest with the local cache.
 3. **Conditional Fetching**: Only download `g7_{subject}_ch{number}_v{version}.json` if the version has incremented.
-4. **Full Grade Bundle (ZIP)**: For the best onboarding experience, use `g7_v1.zip`. 
+4. **Full Grade Bundle (ZIP)**: Use the filename provided in the `bundles` section of the manifest (e.g., `g7_a1b2c3d4.zip`).
    - **Extraction**: The app should extract the ZIP to `context.getFilesDir() + "/content/g7/"`.
    - **Path Mapping**: The app logic should map the `id` from `version.json` to the local file path (e.g., `id: g7_math_ch1` maps to `.../g7/g7_chapters/g7_math_ch1_v1.json` after extraction).
 5. **Minification**: Ensure JSON files are minified (whitespaces removed) before deployment to save bandwidth.

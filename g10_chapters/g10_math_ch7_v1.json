@@ -195,7 +195,7 @@
       "text": "If the point P(2, 1) lies on the line segment joining points A(4, 2) and B(8, 4), then:",
       "options": ["AP = 1/3 AB", "AP = PB", "PB = 1/3 AB", "AP = 1/2 AB"],
       "correctIndex": 3,
-      "explanation": "Wait, P(2,1) is not on the segment between (4,2) and (8,4). It is on the line, but external. Correct logic: AP distance = √5, AB distance = √20 = 2√5. So AP = 1/2 AB if P were between. Actually, P is not between.",
+      "explanation": "Calculating distances: AP = √((2-4)² + (1-2)²) = √5 and AB = √((8-4)² + (4-2)²) = √20 = 2√5. Since AP is exactly half of AB, AP = 1/2 AB.",
       "frequencyRating": 2
     },
     {
