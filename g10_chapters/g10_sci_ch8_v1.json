@@ -1,0 +1,330 @@
+{
+  "id": "g10_sci_ch8",
+  "grade": "10",
+  "subject": "Science",
+  "number": "8",
+  "title": "Heredity",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_s8_q1",
+      "text": "The transmission of characters from parents to offspring is known as:",
+      "options": ["Variation", "Heredity", "Gene flow", "Mutation"],
+      "correctIndex": 1,
+      "explanation": "Heredity is the process by which genetic information is passed from one generation to the next.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s8_q2",
+      "text": "The differences in the characters among the individuals of a species is called:",
+      "options": ["Evolution", "Heredity", "Variation", "Speciation"],
+      "correctIndex": 2,
+      "explanation": "Variation refers to the morphological and physiological differences between individuals of the same species.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s8_q3",
+      "text": "Who is known as the 'Father of Genetics'?",
+      "options": ["Charles Darwin", "Gregor Mendel", "James Watson", "Jean-Baptiste Lamarck"],
+      "correctIndex": 1,
+      "explanation": "Gregor Mendel conducted pioneering experiments with pea plants to understand the laws of inheritance.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s8_q4",
+      "text": "Mendel conducted his famous breeding experiments on:",
+      "options": ["Wild pea", "Fruit fly", "Garden pea", "Honey bee"],
+      "correctIndex": 2,
+      "explanation": "Mendel used Pisum sativum (garden pea) because it has distinct contrasting traits and a short life cycle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s8_q5",
+      "text": "A cross between a tall pea plant (TT) and a short pea plant (tt) results in an F1 generation that is:",
+      "options": ["All short", "All tall", "Half tall, half short", "Medium height"],
+      "correctIndex": 1,
+      "explanation": "The tall trait (T) is dominant over the short trait (t), so all F1 plants with genotype Tt appear tall.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s8_q6",
+      "text": "The phenotypic ratio of a monohybrid cross in the F2 generation is:",
+      "options": ["1:2:1", "3:1", "9:3:3:1", "1:1"],
+      "correctIndex": 1,
+      "explanation": "In F2, three plants show the dominant trait for every one plant showing the recessive trait.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s8_q7",
+      "text": "The genotypic ratio of a monohybrid cross in the F2 generation is:",
+      "options": ["3:1", "1:2:1", "9:3:3:1", "2:1"],
+      "correctIndex": 1,
+      "explanation": "The genotypes in F2 are TT, Tt, and tt in the ratio 1:2:1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s8_q8",
+      "text": "The trait which can express itself only in the homozygous condition is:",
+      "options": ["Dominant trait", "Recessive trait", "Co-dominant trait", "Incomplete trait"],
+      "correctIndex": 1,
+      "explanation": "Recessive traits (like 'tt') are masked by dominant alleles and only appear when both alleles are recessive.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s8_q9",
+      "text": "A dihybrid cross involves the study of how many pairs of contrasting characters?",
+      "options": ["One", "Two", "Three", "Four"],
+      "correctIndex": 1,
+      "explanation": "A dihybrid cross tracks the inheritance of two different traits simultaneously (e.g., seed shape and color).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s8_q10",
+      "text": "The phenotypic ratio of a dihybrid cross in the F2 generation is:",
+      "options": ["3:1", "1:2:1", "9:3:3:1", "1:1:1:1"],
+      "correctIndex": 2,
+      "explanation": "This ratio represents the independent assortment of two pairs of alleles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s8_q11",
+      "text": "The section of DNA that provides information for one protein is called a:",
+      "options": ["Nucleus", "Chromosome", "Gene", "Trait"],
+      "correctIndex": 2,
+      "explanation": "Genes are the functional units of heredity that code for specific proteins leading to traits.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s8_q12",
+      "text": "In humans, the sex of a child is determined by:",
+      "options": ["The mother", "The father", "Both parents equally", "Environmental factors"],
+      "correctIndex": 1,
+      "explanation": "The father provides either an X or a Y chromosome, whereas the mother always provides an X.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s8_q13",
+      "text": "The sex chromosomes in a human male are:",
+      "options": ["XX", "YY", "XY", "XO"],
+      "correctIndex": 2,
+      "explanation": "Males have one X and one Y chromosome (heterogametic).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s8_q14",
+      "text": "The sex chromosomes in a human female are:",
+      "options": ["XX", "XY", "YY", "XXY"],
+      "correctIndex": 0,
+      "explanation": "Females have a perfect pair of X chromosomes (homogametic).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s8_q15",
+      "text": "How many pairs of chromosomes are present in a human somatic cell?",
+      "options": ["22", "23", "44", "46"],
+      "correctIndex": 1,
+      "explanation": "Humans have 23 pairs of chromosomes, totaling 46 individual chromosomes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s8_q16",
+      "text": "Mendel's 'Law of Independent Assortment' is best demonstrated by a:",
+      "options": ["Monohybrid cross", "Dihybrid cross", "Back cross", "Test cross"],
+      "correctIndex": 1,
+      "explanation": "Independent assortment shows that the inheritance of one trait does not affect the inheritance of another.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s8_q17",
+      "text": "If a round, green seeded pea plant (RRyy) is crossed with a wrinkled, yellow seeded pea plant (rrYY), the seeds produced in F1 generation are:",
+      "options": ["Round and yellow", "Round and green", "Wrinkled and yellow", "Wrinkled and green"],
+      "correctIndex": 0,
+      "explanation": "Round (R) and Yellow (Y) are dominant traits; F1 genotype is RrYy.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s8_q18",
+      "text": "The observable physical characteristics of an organism are called its:",
+      "options": ["Genotype", "Phenotype", "Allele", "Locus"],
+      "correctIndex": 1,
+      "explanation": "Phenotype is the expressed trait resulting from the interaction of genotype and environment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s8_q19",
+      "text": "What is the probability of a human couple having a girl child?",
+      "options": ["25%", "50%", "75%", "100%"],
+      "correctIndex": 1,
+      "explanation": "There is a 50-50 chance of the sperm carrying either an X or a Y chromosome.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s8_q20",
+      "text": "An organism having two identical alleles for a trait is called:",
+      "options": ["Heterozygous", "Homozygous", "Hybrid", "Dominant"],
+      "correctIndex": 1,
+      "explanation": "Homozygous organisms (e.g., TT or tt) have the same alleles for a specific gene.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s8_q21",
+      "text": "Mendel's experiments showed that traits may be:",
+      "options": ["Dominant or Recessive", "Always blended", "Only inherited from the mother", "Destroyed during fertilization"],
+      "correctIndex": 0,
+      "explanation": "Traits are inherited as discrete units where some mask the expression of others.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s8_q22",
+      "text": "Chromosomes are composed of DNA and:",
+      "options": ["Carbohydrates", "Lipids", "Proteins", "Vitamins"],
+      "correctIndex": 2,
+      "explanation": "Chromosomes consist of a long DNA molecule wrapped around histone proteins.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s8_q23",
+      "text": "Which of the following is an example of an inherited trait?",
+      "options": ["Weight gain", "Knowledge of a language", "Eye color", "Scar on the skin"],
+      "correctIndex": 2,
+      "explanation": "Eye color is determined by genes passed from parents, whereas others are acquired traits.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s8_q24",
+      "text": "The number of autosomes in a human sperm cell is:",
+      "options": ["23", "22", "44", "46"],
+      "correctIndex": 1,
+      "explanation": "A sperm cell contains 22 autosomes and 1 sex chromosome (total 23).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s8_q25",
+      "text": "New combinations of traits in the F2 generation of a dihybrid cross are due to:",
+      "options": ["Linkage", "Independent assortment", "Mutation", "Natural selection"],
+      "correctIndex": 1,
+      "explanation": "Independent assortment allows alleles for different traits to be distributed into gametes independently.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s8_q26",
+      "text": "The genetic constitution of an organism is called its:",
+      "options": ["Phenotype", "Genotype", "Genome", "Allele"],
+      "correctIndex": 1,
+      "explanation": "Genotype refers to the specific combination of alleles an organism carries.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s8_q27",
+      "text": "A homozygous tall pea plant is crossed with a heterozygous tall pea plant. The percentage of short plants in the offspring will be:",
+      "options": ["0%", "25%", "50%", "100%"],
+      "correctIndex": 0,
+      "explanation": "TT x Tt results in 50% TT and 50% Tt; both genotypes produce tall plants.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s8_q28",
+      "text": "Each cell in the human body (except gametes) contains two copies of each chromosome, one from each parent. These are called:",
+      "options": ["Sister chromatids", "Homologous chromosomes", "Non-homologous chromosomes", "Sex chromosomes"],
+      "correctIndex": 1,
+      "explanation": "Homologous chromosomes carry the same genes at the same loci, although they may have different alleles.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s8_q29",
+      "text": "Germ cells (gametes) have only one set of chromosomes. This is called the ________ condition.",
+      "options": ["Diploid", "Haploid", "Triploid", "Polyploid"],
+      "correctIndex": 1,
+      "explanation": "Haploid (n) cells contain half the number of chromosomes found in somatic (2n) cells.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s8_q30",
+      "text": "If a cross between two tall plants results in some short plants, the parents must be:",
+      "options": ["TT and TT", "TT and Tt", "Tt and Tt", "TT and tt"],
+      "correctIndex": 2,
+      "explanation": "Both parents must be heterozygous (Tt) to each contribute a 't' allele to produce a short 'tt' offspring.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s8_q31",
+      "text": "Mendel's Law of Segregation states that:",
+      "options": ["Alleles blend together", "Alleles separate during gamete formation", "Traits are always dominant", "Recessive traits disappear"],
+      "correctIndex": 1,
+      "explanation": "During gamete formation, the two alleles of a gene segregate so that each gamete receives only one.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s8_q32",
+      "text": "Variations that occur during the lifetime of an individual and are not passed to progeny are called:",
+      "options": ["Inherited traits", "Acquired traits", "Genetic mutations", "Lethal traits"],
+      "correctIndex": 1,
+      "explanation": "Acquired traits (like muscle building) do not change the DNA of germ cells and are not inherited.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s8_q33",
+      "text": "The theory of natural selection was proposed by:",
+      "options": ["Gregor Mendel", "Charles Darwin", "Robert Hooke", "Louis Pasteur"],
+      "correctIndex": 1,
+      "explanation": "While Evolution is not the focus of this chapter, Darwin's theory provided context for how variations are selected.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_s8_q34",
+      "text": "Which of these is a contrasting pair of characters in Mendel’s pea plant?",
+      "options": ["Tall/Dwarf", "Round/Wrinkled", "Green/Yellow", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Mendel studied seven pairs of such contrasting traits in his experiments.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s8_q35",
+      "text": "If a man with blood group A marries a woman with blood group O and their daughter has blood group O, which of the following is true?",
+      "options": ["Group A is dominant", "Group O is dominant", "The man is heterozygous (Ai)", "The woman is heterozygous"],
+      "correctIndex": 2,
+      "explanation": "Blood group O is recessive. For the daughter to be 'ii', the father must carry the 'i' allele (Ai).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s8_q36",
+      "text": "The concept of 'Factors' used by Mendel is now referred to as:",
+      "options": ["Chromosomes", "Genotypes", "Genes", "Phenotypes"],
+      "correctIndex": 2,
+      "explanation": "Mendel called the units of inheritance 'factors'; today they are known as genes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s8_q37",
+      "text": "In a pea plant, the trait for purple flowers (P) is dominant over white flowers (p). A plant with genotype Pp will have:",
+      "options": ["Purple flowers", "White flowers", "Light purple flowers", "Both purple and white"],
+      "correctIndex": 0,
+      "explanation": "The dominant 'P' allele masks the recessive 'p' allele, resulting in purple flowers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s8_q38",
+      "text": "Human sex is determined genetically. In some animals like snails, sex can change, indicating sex is:",
+      "options": ["Always genetic", "Not always genetically determined", "Determined by age", "Always environmental"],
+      "correctIndex": 1,
+      "explanation": "Snails are an example where sex is not fixed at birth, unlike humans.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s8_q39",
+      "text": "During sexual reproduction, how much of the DNA does each parent contribute to the offspring?",
+      "options": ["100%", "75%", "50%", "25%"],
+      "correctIndex": 2,
+      "explanation": "Each parent contributes one set of chromosomes (23) through their respective gametes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s8_q40",
+      "text": "Which process ensures that the number of chromosomes remains constant in a species generation after generation?",
+      "options": ["Mitosis", "Meiosis", "Fertilization", "Both Meiosis and Fertilization"],
+      "correctIndex": 3,
+      "explanation": "Meiosis halves the chromosome number in gametes, and fertilization restores the original number in the zygote.",
+      "frequencyRating": 5
+    }
+  ]
+}
