@@ -15,8 +15,8 @@ Each chapter JSON file follows a strict schema to ensure compatibility with the 
 | Key | Type | Description |
 | :--- | :--- | :--- |
 | `id` | String | Unique identifier (e.g., `g7_math_ch1`) |
-| `grade` | String | Always "7" |
-| `subject` | String | "Mathematics" or "Science" |
+| `grade` | String | "7" or "10" |
+| `subject` | String | e.g., "Mathematics", "Science", "History", etc. |
 | `number` | String | Chapter number as per NCERT |
 | `title` | String | Official chapter name |
 | `version` | String | Version string (e.g., "v1") |

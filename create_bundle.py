@@ -21,7 +21,7 @@ def validate_json(file_path, is_manifest=False):
             raise ValueError(f"Syntax Error in {file_path}: {e}")
 
     if is_manifest:
-        required_manifest = ["updatedAt", "bundles"]
+        required_manifest = ["updatedAt", "bundles", "enabledGrades"]
         for key in required_manifest:
             if key not in data:
                 raise ValueError(f"Schema Error: Manifest missing required key '{key}'")
@@ -84,7 +84,7 @@ def create_bundles():
             print(f"Skipping {grade_prefix}: No JSON files found in {subdir}. skipping bundle creation.")
             continue
         
-        print(f"Processing {grade_prefix}: Found {len(json_files)} files. Bundling...")
+        print(f"Processing {grade_prefix}: Found {len(json_files)} files ({', '.join(json_files)}). Bundling...")
 
         # Create the ZIP archive for this grade
         with zipfile.ZipFile(output_zip, 'w', zipfile.ZIP_DEFLATED) as zipf:

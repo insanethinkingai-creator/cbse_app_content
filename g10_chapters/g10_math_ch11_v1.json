@@ -304,10 +304,10 @@
     },
     {
       "id": "g10_m11_q38",
-      "text": "Area of a circle is numerically equal to its diameter. Radius is:",
+      "text": "Area of a circle is numerically equal to its circumference. Radius is:",
       "options": ["1 unit", "2 units", "π units", "4 units"],
       "correctIndex": 1,
-      "explanation": "πr² = 2r => πr = 2 => r = 2/π. Wait, the option provided is 2/π or similar. Let's recheck: πr² = 2r => πr = 2 => r = 2/π. Since that's not listed, if πr² = 2r, then r=2/π. Let's assume the question meant π*r² = 2*π*r which is circumference.",
+      "explanation": "Setting area equal to circumference: πr² = 2πr. Dividing by πr gives r = 2.",
       "frequencyRating": 2
     },
     {
