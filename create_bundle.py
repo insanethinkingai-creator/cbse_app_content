@@ -3,6 +3,11 @@ import zipfile
 import hashlib
 import json
 from datetime import datetime
+import urllib.request
+
+# CDN Purge Configuration
+GITHUB_USER = "balajic"
+GITHUB_REPO = "cbse_app_content"
 
 def calculate_md5(file_path):
     """Calculate MD5 checksum of a file."""
@@ -65,17 +70,16 @@ def create_bundles():
     # Load existing manifest or create new
     if os.path.exists(manifest_path):
         manifest = validate_json(manifest_path, is_manifest=True)
+        if "enabledGrades" not in manifest:
+            manifest["enabledGrades"] = []
     else:
-        manifest = {"updatedAt": "", "bundles": {}}
+        manifest = {"updatedAt": "", "enabledGrades": [], "bundles": {}}
 
     manifest["updatedAt"] = datetime.utcnow().isoformat() + "Z"
 
     for subdir in subdirs:
         grade_prefix = subdir.split('_')[0] # extracts 'g7' or 'g10'
         bundle_id = f"{grade_prefix}_full_zip"
-        bundle_version = "v1"
-        output_zip_name = f"{grade_prefix}_{bundle_version}.zip"
-        output_zip = os.path.join(base_dir, output_zip_name)
         subdir_path = os.path.join(base_dir, subdir)
 
         json_files = [f for f in os.listdir(subdir_path) if f.endswith(".json")]
@@ -87,7 +91,8 @@ def create_bundles():
         print(f"Processing {grade_prefix}: Found {len(json_files)} files ({', '.join(json_files)}). Bundling...")
 
         # Create the ZIP archive for this grade
-        with zipfile.ZipFile(output_zip, 'w', zipfile.ZIP_DEFLATED) as zipf:
+        temp_zip = os.path.join(base_dir, f"{grade_prefix}_temp.zip")
+        with zipfile.ZipFile(temp_zip, 'w', zipfile.ZIP_DEFLATED) as zipf:
             for file in json_files:
                 file_path = os.path.join(subdir_path, file)
                 # Validate each file before adding it to the bundle
@@ -95,8 +100,17 @@ def create_bundles():
                 zipf.write(file_path, arcname=os.path.join(subdir, file))
                 
         # Calculate MD5 and update manifest metadata
-        zip_md5 = calculate_md5(output_zip)
-        manifest["bundles"][bundle_id] = bundle_version
+        zip_md5 = calculate_md5(temp_zip)
+        short_hash = zip_md5[:8]
+        output_zip_name = f"{grade_prefix}_{short_hash}.zip"
+        output_zip = os.path.join(base_dir, output_zip_name)
+        
+        # Rename temp to hashed name
+        if os.path.exists(output_zip):
+            os.remove(output_zip)
+        os.rename(temp_zip, output_zip)
+
+        manifest["bundles"][bundle_id] = short_hash
         manifest["bundles"][f"{bundle_id}_md5"] = zip_md5
         manifest["bundles"][f"{bundle_id}_filename"] = output_zip_name
         print(f"Generated {output_zip_name} (MD5: {zip_md5})")
@@ -104,6 +118,15 @@ def create_bundles():
     with open(manifest_path, 'w') as f:
         json.dump(manifest, f, indent=2)
     print("Updated version.json successfully.")
+
+    # Trigger CDN Purge for the manifest to ensure mirrors update immediately
+    purge_url = f"https://purge.jsdelivr.net/gh/{GITHUB_USER}/{GITHUB_REPO}@main/version.json"
+    print(f"Purging CDN cache for manifest: {purge_url}")
+    try:
+        with urllib.request.urlopen(purge_url) as response:
+            print(f"CDN response: {response.read().decode('utf-8')}")
+    except Exception as e:
+        print(f"CDN purge request failed: {e}")
 
 if __name__ == "__main__":
     try:
