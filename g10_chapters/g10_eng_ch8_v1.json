@@ -1,0 +1,330 @@
+{
+  "id": "g10_eng_ch8",
+  "grade": "10",
+  "subject": "English",
+  "number": "8",
+  "title": "The Sermon at Benares",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_e8_q1",
+      "text": "What was the early name of Gautama Buddha?",
+      "options": ["Siddhartha Gautama", "Suddhodana", "Rahula", "Mahavira"],
+      "correctIndex": 0,
+      "explanation": "He was born as Prince Siddhartha Gautama in Northern India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e8_q2",
+      "text": "At what age did Siddhartha Gautama leave home for enlightenment?",
+      "options": ["12", "25", "30", "35"],
+      "correctIndex": 1,
+      "explanation": "At twenty-five, he left his royal life to seek the source of suffering.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e8_q3",
+      "text": "Which of these 'sights' did Buddha NOT see when he went out hunting?",
+      "options": ["A sick man", "An aged man", "A funeral procession", "A crying child"],
+      "correctIndex": 3,
+      "explanation": "He saw a sick man, an old man, a corpse, and a monk begging.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e8_q4",
+      "text": "How long did Buddha wander before he sat under a tree?",
+      "options": ["Seven years", "Ten years", "Five years", "One year"],
+      "correctIndex": 0,
+      "explanation": "He wandered for seven years before he finally attained enlightenment.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e8_q5",
+      "text": "The tree under which Buddha attained enlightenment was named:",
+      "options": ["The Banyan Tree", "The Bodhi Tree", "The Peepal Tree", "The Sal Tree"],
+      "correctIndex": 1,
+      "explanation": "He renamed the tree the Bodhi Tree (Tree of Wisdom).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e8_q6",
+      "text": "Where did Buddha preach his first sermon?",
+      "options": ["Benares", "Lumbini", "Bodh Gaya", "Kushinagar"],
+      "correctIndex": 0,
+      "explanation": "He delivered his first sermon at the city of Benares (Varanasi).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e8_q7",
+      "text": "Who was Kisa Gotami?",
+      "options": ["A queen", "A woman whose only son had died", "A disciple of Buddha", "A doctor"],
+      "correctIndex": 1,
+      "explanation": "She was a grieving mother who sought help to bring her dead son back to life.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e8_q8",
+      "text": "What did Kisa Gotami carry to her neighbors asking for medicine?",
+      "options": ["A mustard seed", "Her dead son", "Gold", "A petition"],
+      "correctIndex": 1,
+      "explanation": "In her grief, she carried the corpse of her son to all her neighbors.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e8_q9",
+      "text": "What did the neighbors say about Kisa Gotami's mental state?",
+      "options": ["She is wise", "She has lost her senses", "She is a saint", "She is a fraud"],
+      "correctIndex": 1,
+      "explanation": "People thought she had gone mad because she was asking for medicine for a dead child.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e8_q10",
+      "text": "Who directed Kisa Gotami to the Buddha?",
+      "options": ["Her husband", "A man she met", "A village elder", "A priest"],
+      "correctIndex": 1,
+      "explanation": "A man told her that he knew a physician who could help—the Sakyamuni (Buddha).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e8_q11",
+      "text": "What did Buddha ask Kisa Gotami to bring him?",
+      "options": ["A handful of mustard seeds", "A glass of water", "A holy book", "A white cloth"],
+      "correctIndex": 0,
+      "explanation": "Buddha asked for mustard seeds as a condition for her son's medicine.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e8_q12",
+      "text": "What was the condition attached to the mustard seeds?",
+      "options": ["They must be fresh", "They must come from a house where no one had died", "They must be black", "They must be grown by her"],
+      "correctIndex": 1,
+      "explanation": "The seed had to be from a house where no child, husband, parent, or friend had ever died.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e8_q13",
+      "text": "What did Kisa Gotami find out as she went from house to house?",
+      "options": ["Every house had plenty of seeds", "In every house, someone had died", "No one wanted to help her", "She was in the wrong village"],
+      "correctIndex": 1,
+      "explanation": "She found that the living are few, but the dead are many.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e8_q14",
+      "text": "Where did Kisa Gotami sit down after failing to get the seeds?",
+      "options": ["In a temple", "By the wayside", "At her home", "Under a tree"],
+      "correctIndex": 1,
+      "explanation": "Weary and hopeless, she sat down by the wayside watching the lights of the city.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_e8_q15",
+      "text": "What metaphor did Kisa Gotami use while watching the city lights?",
+      "options": ["The flicker and extinguishing of lights is like human lives", "Lights are like stars", "The city is a beacon", "Life is a long road"],
+      "correctIndex": 0,
+      "explanation": "She realized that human lives flicker up and are extinguished again, just like the lights.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e8_q16",
+      "text": "What did Buddha say about the life of mortals?",
+      "options": ["It is long and happy", "It is troubled, brief, and combined with pain", "It is eternal", "It is meaningless"],
+      "correctIndex": 1,
+      "explanation": "Buddha preached that mortal life is short and full of suffering.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e8_q17",
+      "text": "To what did Buddha compare the danger of death for mortals?",
+      "options": ["Falling leaves", "Ripe fruits", "A storm", "A fading shadow"],
+      "correctIndex": 1,
+      "explanation": "Just as ripe fruits are in danger of falling, mortals are in danger of death.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e8_q18",
+      "text": "Buddha compared human life to which of these earthen vessels?",
+      "options": ["Those that are strong", "Those that eventually break", "Those filled with water", "Those made of gold"],
+      "correctIndex": 1,
+      "explanation": "All earthen vessels made by the potter end in being broken.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e8_q19",
+      "text": "According to Buddha, can lamenting or grieving bring peace of mind?",
+      "options": ["Yes, it heals", "No, it makes the pain greater", "Only for a short time", "It is necessary"],
+      "correctIndex": 1,
+      "explanation": "Grieving only increases pain and makes the body suffer without bringing back the dead.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e8_q20",
+      "text": "How can one obtain peace of mind according to the sermon?",
+      "options": ["By crying", "By drawing out the arrow of lamentation", "By seeking revenge", "By working hard"],
+      "correctIndex": 1,
+      "explanation": "One must overcome grief and remove the 'arrow' of complaint and sorrow.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e8_q21",
+      "text": "What happens to the person who overcomes all sorrow?",
+      "options": ["They become rich", "They become free from sorrow and be blessed", "They live forever", "They never cry again"],
+      "correctIndex": 1,
+      "explanation": "He who has drawn out the arrow will become free from sorrow.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e8_q22",
+      "text": "Benares is a city holy because it is situated on the banks of:",
+      "options": ["The Yamuna", "The Ganges", "The Indus", "The Godavari"],
+      "correctIndex": 1,
+      "explanation": "Benares (Varanasi) is one of the holiest cities on the river Ganges.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e8_q23",
+      "text": "The sermon at Benares deals with which universal truth?",
+      "options": ["Honesty is best", "Death is inevitable", "Love conquers all", "Peace is impossible"],
+      "correctIndex": 1,
+      "explanation": "The core lesson is that death is a natural part of life and cannot be avoided.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e8_q24",
+      "text": "The phrase 'mortals' refers to:",
+      "options": ["Gods", "Animals", "Human beings who are subject to death", "Plants"],
+      "correctIndex": 2,
+      "explanation": "Mortals are living beings who eventually die.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e8_q25",
+      "text": "What does 'enlightenment' mean in this context?",
+      "options": ["Turning on a light", "Spiritual knowledge and understanding", "Education in school", "Winning a battle"],
+      "correctIndex": 1,
+      "explanation": "Enlightenment is the state of having gained deep spiritual insight.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e8_q26",
+      "text": "Kisa Gotami's realization made her stop being:",
+      "options": ["Happy", "Selfish in her grief", "Angry", "Kind"],
+      "correctIndex": 1,
+      "explanation": "She realized she was selfish in her grief, thinking only of her own loss while death is common to all.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e8_q27",
+      "text": "The term 'Sakyamuni' refers to:",
+      "options": ["Lord Shiva", "The Buddha", "A king", "A mountain"],
+      "correctIndex": 1,
+      "explanation": "Sakyamuni is a title for the Buddha, meaning 'Sage of the Shakyas'.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_e8_q28",
+      "text": "According to the Buddha, grieving makes the body:",
+      "options": ["Stronger", "Sick and pale", "Healed", "Light"],
+      "correctIndex": 1,
+      "explanation": "Lamentation causes physical suffering and pain to the body.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e8_q29",
+      "text": "One who wants to be blessed must avoid:",
+      "options": ["Working", "Lamentation and complaint", "Sleeping", "Eating"],
+      "correctIndex": 1,
+      "explanation": "Drawing out the arrow of lamentation is the path to blessing.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e8_q30",
+      "text": "The story emphasizes that death:",
+      "options": ["Can be cured by Buddha", "Is the same for young and old, wise and foolish", "Only affects the poor", "Is a myth"],
+      "correctIndex": 1,
+      "explanation": "Buddha says that all are subject to death, regardless of status or age.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e8_q31",
+      "text": "What is the meaning of 'valley of desolation' in the text?",
+      "options": ["A real valley", "The path of sorrow/grief", "A happy place", "A desert"],
+      "correctIndex": 1,
+      "explanation": "It refers to the difficult experience of mourning and extreme sadness.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_e8_q32",
+      "text": "Buddha's father was a:",
+      "options": ["Farmer", "King", "Priest", "Merchant"],
+      "correctIndex": 1,
+      "explanation": "He was a prince, suggesting his father was a king (Raja).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_e8_q33",
+      "text": "How many days did Siddhartha stay under the tree before enlightenment?",
+      "options": ["One", "Seven", "Ten", "Forty"],
+      "correctIndex": 1,
+      "explanation": "He vowed to stay until enlightened, which happened after seven days.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_e8_q34",
+      "text": "Which city is mentioned as the most holy of dipping places?",
+      "options": ["Haridwar", "Benares", "Prayagraj", "Rishikesh"],
+      "correctIndex": 1,
+      "explanation": "Benares is described as the most holy of the dipping places on the Ganges.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e8_q35",
+      "text": "The mustard seed represents:",
+      "options": ["A cure for death", "A common and simple thing", "A lesson in the universality of death", "Food"],
+      "correctIndex": 2,
+      "explanation": "The seed itself was simple, but finding a house without death was the impossible task.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e8_q36",
+      "text": "What does Buddha compare death to in terms of 'no one can save'?",
+      "options": ["A sinking ship", "A father cannot save his son", "A storm", "A falling tree"],
+      "correctIndex": 1,
+      "explanation": "He notes that neither fathers nor kinsmen can save those who are dying.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e8_q37",
+      "text": "Who is 'He' who has drawn out the arrow?",
+      "options": ["The Buddha", "A wise person who has overcome grief", "A doctor", "A soldier"],
+      "correctIndex": 1,
+      "explanation": "It refers to anyone who has reached a state of peace by letting go of sorrow.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_e8_q38",
+      "text": "The tone of Buddha's sermon is:",
+      "options": ["Angry", "Compassionate and wise", "Boring", "Humorous"],
+      "correctIndex": 1,
+      "explanation": "The sermon is delivered with deep empathy for human suffering and clarity of thought.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e8_q39",
+      "text": "The lesson taught to Kisa Gotami was through:",
+      "options": ["A lecture", "Practical experience and self-discovery", "A book", "Punishment"],
+      "correctIndex": 1,
+      "explanation": "Buddha made her realize the truth for herself by sending her on the task for seeds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e8_q40",
+      "text": "What is the final goal of the sermon?",
+      "options": ["To make people cry", "To help people attain peace of mind and overcome grief", "To promote mustard seeds", "To visit Benares"],
+      "correctIndex": 1,
+      "explanation": "The sermon aims to guide people towards spiritual peace by accepting death.",
+      "frequencyRating": 5
+    }
+  ]
+}

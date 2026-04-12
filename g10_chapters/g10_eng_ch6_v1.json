@@ -1,0 +1,330 @@
+{
+  "id": "g10_eng_ch6",
+  "grade": "10",
+  "subject": "English",
+  "number": "6",
+  "title": "Mijbil the Otter",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_e6_q1",
+      "text": "Who is the author of 'Mijbil the Otter'?",
+      "options": ["Gavin Maxwell", "Vallikkannan", "Anton Chekhov", "Liam O’Flaherty"],
+      "correctIndex": 0,
+      "explanation": "The story is an autobiographical account by Gavin Maxwell about his pet otter.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e6_q2",
+      "text": "Where did the author go to collect his mail?",
+      "options": ["London", "Basra", "Camusfearna", "Tigris"],
+      "correctIndex": 1,
+      "explanation": "The author traveled to Basra to collect his mail from Europe.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e6_q3",
+      "text": "What pet did the author decide to keep after his dog Jonnie died?",
+      "options": ["A cat", "Another dog", "An otter", "A parrot"],
+      "correctIndex": 2,
+      "explanation": "Maxwell thought he would keep an otter instead of a dog as a pet at Camusfearna.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e6_q4",
+      "text": "Who suggested that the author should get an otter from the Tigris marshes?",
+      "options": ["An Arab", "His friend", "The Air Hostess", "His family"],
+      "correctIndex": 1,
+      "explanation": "His friend suggested that he could easily find an otter in the Tigris marshes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e6_q5",
+      "text": "What did the two Arabs bring for the author in a sack?",
+      "options": ["Rice", "A dog", "An otter", "Mail"],
+      "correctIndex": 2,
+      "explanation": "The Arabs brought a sack containing a squirming otter as a gift from his friend.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e6_q6",
+      "text": "The scientific name for Mijbil's species was eventually named after whom?",
+      "options": ["The Arab", "Maxwell", "Basra", "The Tigris"],
+      "correctIndex": 1,
+      "explanation": "The species was named 'Lutrogale perspicillata maxwelli' by zoologists after the author.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_e6_q7",
+      "text": "How did Mijbil behave during the first twenty-four hours?",
+      "options": ["Very friendly", "Aloof and indifferent", "Aggressive", "Hyperactive"],
+      "correctIndex": 1,
+      "explanation": "Mijbil was neither hostile nor friendly at first; he stayed away from the author.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e6_q8",
+      "text": "What was Mijbil's reaction to water in the bathtub?",
+      "options": ["He was terrified", "He ignored it", "He went wild with joy", "He fell asleep"],
+      "correctIndex": 2,
+      "explanation": "Otters love water; Mijbil plunged into it, rolling, splashing, and jumping.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e6_q9",
+      "text": "Mijbil discovered that if he sat on the edge of the tub, he could do what?",
+      "options": ["Turn on the tap", "Catch a fish", "Splash the author", "Sleep"],
+      "correctIndex": 0,
+      "explanation": "He learned to turn the tap with his paws to produce a flow of water.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e6_q10",
+      "text": "What was the rule of the airline regarding carrying Mijbil to London?",
+      "options": ["No pets allowed", "Must be kept in a box", "Must be kept on a leash", "Must travel in cargo"],
+      "correctIndex": 1,
+      "explanation": "The airline insisted that Mijbil be packed in a box not more than eighteen inches square.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e6_q11",
+      "text": "What happened to Mijbil inside the box before reaching the airport?",
+      "options": ["He fell asleep", "He escaped", "He injured himself trying to get out", "He ate the box"],
+      "correctIndex": 2,
+      "explanation": "Blood was trickling from the air holes as Mijbil had torn the lining and hurt himself.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e6_q12",
+      "text": "What did the author do to get to the airport on time?",
+      "options": ["Took a flight", "Drove at high speed in a rickshaw", "Walked", "Waited for a bus"],
+      "correctIndex": 1,
+      "explanation": "The author rushed in a car/rickshaw, nearly missing his flight due to the box incident.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e6_q13",
+      "text": "The author called the Air Hostess 'the very queen of her kind' because:",
+      "options": ["She was beautiful", "She was helpful and understanding", "She gave him food", "She knew about otters"],
+      "correctIndex": 1,
+      "explanation": "She was extremely sympathetic and allowed him to keep Mijbil on his knee.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e6_q14",
+      "text": "When Mijbil escaped from the box on the plane, what happened?",
+      "options": ["The pilot caught him", "There was chaos among the passengers", "He hid in the cockpit", "He bit a passenger"],
+      "correctIndex": 1,
+      "explanation": "Mijbil disappeared rapidly, causing a woman to stand up on her seat and shriek about a rat.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e6_q15",
+      "text": "Where did the author finally find Mijbil in the plane?",
+      "options": ["Under his seat", "By the Air Hostess's feet", "In the cockpit", "In another passenger's lap"],
+      "correctIndex": 1,
+      "explanation": "Mijbil returned to the author and nuzzled his face and neck.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e6_q16",
+      "text": "Which of these was NOT a guess made by Londoners about Mijbil?",
+      "options": ["A baby seal", "A squirrel", "A walrus", "A tiger"],
+      "correctIndex": 3,
+      "explanation": "People guessed seal, squirrel, walrus, hippo, etc., but not a tiger.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e6_q17",
+      "text": "What game did Mijbil invent with a ping-pong ball?",
+      "options": ["Football", "Balancing it on a suitcase", "Hiding it", "Catch"],
+      "correctIndex": 1,
+      "explanation": "He would place the ball on the sloping lid of a suitcase and try to catch it as it rolled down.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e6_q18",
+      "text": "The author stayed in London for how long?",
+      "options": ["One week", "One month", "A year", "Six months"],
+      "correctIndex": 1,
+      "explanation": "The author mentions staying in London for nearly a month.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_e6_q19",
+      "text": "What did the man digging a hole in the street ask the author?",
+      "options": ["Where is the zoo?", "Is it a dog?", "Here, Mister, what is that supposed to be?", "Can I touch it?"],
+      "correctIndex": 2,
+      "explanation": "The laborer was so bewildered he stopped working to ask what animal Mijbil was.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e6_q20",
+      "text": "Mijbil would follow the author when he went out in London:",
+      "options": ["In a cage", "On a lead", "In his arms", "Freely"],
+      "correctIndex": 1,
+      "explanation": "Like a dog, Mijbil was walked on a lead in the streets of London.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e6_q21",
+      "text": "What was the 'compulsion' Mijbil had while walking past a school?",
+      "options": ["Barking", "Jumping on the wall", "Eating grass", "Chasing children"],
+      "correctIndex": 1,
+      "explanation": "He would gallop the length of the low wall of the school.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_e6_q22",
+      "text": "The phrase 'a thumping great' is used to describe what?",
+      "options": ["A guess", "Mijbil's size", "A mistake", "The noise"],
+      "correctIndex": 0,
+      "explanation": "The author uses it to describe the various wild guesses people made about Mijbil's identity.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_e6_q23",
+      "text": "Mijbil was fond of playing with which objects?",
+      "options": ["Stones", "Marble", "Rubber balls", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "Mijbil loved juggling marbles and playing with various balls.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e6_q24",
+      "text": "The story highlights the bond between:",
+      "options": ["Two friends", "Two Arabs", "Humans and animals", "Travelers"],
+      "correctIndex": 2,
+      "explanation": "The core of the story is the deep affection and companionship between Maxwell and Mijbil.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e6_q25",
+      "text": "In the sentence 'Mijbil, as I called him...', what does 'Mijbil' signify?",
+      "options": ["The name given by Arabs", "The name of the author's dog", "The name given by the author", "A scientific term"],
+      "correctIndex": 2,
+      "explanation": "Mijbil was the specific name Gavin Maxwell gave to the otter.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e6_q26",
+      "text": "What word best describes Mijbil's personality?",
+      "options": ["Aggressive", "Playful", "Lazy", "Fearful"],
+      "correctIndex": 1,
+      "explanation": "Mijbil is depicted as an energetic, curious, and highly playful creature.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e6_q27",
+      "text": "Why did the author wait in Basra?",
+      "options": ["For his friend", "For the otter", "For his mail", "For a flight"],
+      "correctIndex": 2,
+      "explanation": "He was waiting for mail from Europe which was delayed.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e6_q28",
+      "text": "How did the otter look when it first came out of the sack?",
+      "options": ["Like a small dragon", "Like a big rat", "Like a wet dog", "Like a baby seal"],
+      "correctIndex": 0,
+      "explanation": "Maxwell describes the mud-covered otter as looking like a medievally conceived dragon.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e6_q29",
+      "text": "It took the author how many days to remove the mud from Mijbil?",
+      "options": ["One day", "Three days", "A month", "A week"],
+      "correctIndex": 1,
+      "explanation": "It took a month to reveal his true color, but the initial cleaning took several days.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_e6_q30",
+      "text": "What did Mijbil do when the tap didn't work immediately?",
+      "options": ["He cried", "He bit the tap", "He fumbled with it and chittered", "He gave up"],
+      "correctIndex": 2,
+      "explanation": "He would get impatient and chitter with irritation if the water didn't flow.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_e6_q31",
+      "text": "Which city did the author travel through to reach London?",
+      "options": ["Paris", "Cairo", "Basra", "Mumbai"],
+      "correctIndex": 0,
+      "explanation": "He flew from Basra to Cairo and then to Paris and London.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_e6_q32",
+      "text": "The author describes the otter's 'inner meaning' of being an otter as:",
+      "options": ["Sleeping all day", "Constant motion and play with water", "Eating fish", "Chasing dogs"],
+      "correctIndex": 1,
+      "explanation": "The author notes that otters are defined by their playfulness, especially with water.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e6_q33",
+      "text": "Where did Mijbil sleep on the second night?",
+      "options": ["In the box", "On the author's bed", "In the bathroom", "On the floor"],
+      "correctIndex": 1,
+      "explanation": "On the second night, he came to the author's bed and slept in the crook of his knees.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e6_q34",
+      "text": "What was the 'pall' that fell over the author at the airport?",
+      "options": ["Dust", "Fear of flying", "Regret over the otter's injury", "Sadness"],
+      "correctIndex": 2,
+      "explanation": "He felt a sickening sense of guilt and worry when he saw Mij injured in the box.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_e6_q35",
+      "text": "The Air Hostess suggested the author should:",
+      "options": ["Leave the otter", "Give it a sedative", "Keep it on his knee", "Put it in the cargo"],
+      "correctIndex": 2,
+      "explanation": "She kindly suggested he could keep his pet on his lap.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e6_q36",
+      "text": "What is the meaning of 'aloof'?",
+      "options": ["Friendly", "Distant/Uninterested", "Aggressive", "Hungry"],
+      "correctIndex": 1,
+      "explanation": "Aloof means not friendly or forthcoming; cool and distant.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_e6_q37",
+      "text": "Mijbil's intelligence is shown by:",
+      "options": ["Turning the tap", "Inventing games", "Escaping the box", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Mijbil shows high intelligence in his problem-solving and creative play.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e6_q38",
+      "text": "Londoners were surprised because an otter was:",
+      "options": ["Common", "An unusual pet", "Scary", "Extinct"],
+      "correctIndex": 1,
+      "explanation": "Most Londoners had never seen an otter and didn't know what it was.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e6_q39",
+      "text": "The laborer's reaction to Mijbil was one of:",
+      "options": ["Anger", "Disbelief and amazement", "Joy", "Boredom"],
+      "correctIndex": 1,
+      "explanation": "He was so shocked that he dropped his tool and stared.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e6_q40",
+      "text": "The story ends with a focus on:",
+      "options": ["Mijbil's death", "The difficulty of keeping pets", "The curiosity of people and the bond with Mijbil", "Traveling to London"],
+      "correctIndex": 2,
+      "explanation": "The text concludes with anecdotes of the funny guesses people made about Mijbil.",
+      "frequencyRating": 5
+    }
+  ]
+}

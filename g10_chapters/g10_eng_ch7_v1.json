@@ -1,0 +1,330 @@
+{
+  "id": "g10_eng_ch7",
+  "grade": "10",
+  "subject": "English",
+  "number": "7",
+  "title": "Madam Rides the Bus",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_e7_q1",
+      "text": "Who is the author of 'Madam Rides the Bus'?",
+      "options": ["Vallikkannan", "Gavin Maxwell", "Roald Dahl", "Guy de Maupassant"],
+      "correctIndex": 0,
+      "explanation": "Vallikkannan is the author of this story, originally written in Tamil.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e7_q2",
+      "text": "What was the real name of Valli?",
+      "options": ["Valliammai", "Vallika", "Valli", "Vallina"],
+      "correctIndex": 0,
+      "explanation": "Her full name was Valliammai, but she was called Valli for short.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e7_q3",
+      "text": "How old was Valli?",
+      "options": ["Seven", "Eight", "Nine", "Ten"],
+      "correctIndex": 1,
+      "explanation": "Valli was an eight-year-old girl.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e7_q4",
+      "text": "What was Valli's favorite pastime?",
+      "options": ["Playing with dolls", "Standing at the front doorway of her house", "Reading books", "Going to the park"],
+      "correctIndex": 1,
+      "explanation": "She had no playmates, so she enjoyed watching the happenings in the street.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e7_q5",
+      "text": "What was Valli's overwhelming desire?",
+      "options": ["To buy a new dress", "To ride on the bus", "To visit the city", "To go to school"],
+      "correctIndex": 1,
+      "explanation": "Her deepest wish was to ride the bus that traveled between her village and the nearest town.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e7_q6",
+      "text": "What did Valli carefully listen to in order to plan her trip?",
+      "options": ["Her parents' conversations", "The bus conductor's shouts", "Conversations between neighbors and regular bus users", "The radio"],
+      "correctIndex": 2,
+      "explanation": "She gathered details by listening to regular passengers and asking discrete questions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e7_q7",
+      "text": "How far was the town from Valli's village?",
+      "options": ["Three miles", "Six miles", "Ten miles", "Two miles"],
+      "correctIndex": 1,
+      "explanation": "The distance between the village and the town was six miles.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e7_q8",
+      "text": "What was the one-way fare for the bus trip?",
+      "options": ["Twenty paise", "Thirty paise", "Fifty paise", "Ten paise"],
+      "correctIndex": 1,
+      "explanation": "The fare was thirty paise for one way.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e7_q9",
+      "text": "How much time did the bus take to reach the town?",
+      "options": ["30 minutes", "45 minutes", "60 minutes", "90 minutes"],
+      "correctIndex": 1,
+      "explanation": "The bus trip to the town took forty-five minutes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e7_q10",
+      "text": "Valli saved money by sacrificing which of these?",
+      "options": ["Peppermints", "Toys and balloons", "Merry-go-round rides", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "She resisted every temptation to spend money so she could save sixty paise.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e7_q11",
+      "text": "Which time did Valli choose for her bus ride?",
+      "options": ["Early morning", "The one o'clock afternoon bus", "Late evening", "Night"],
+      "correctIndex": 1,
+      "explanation": "She chose the afternoon while her mother was napping.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e7_q12",
+      "text": "The bus conductor was a person of what nature?",
+      "options": ["Grumpy and rude", "Jolly and fond of joking", "Very serious", "Quiet"],
+      "correctIndex": 1,
+      "explanation": "The conductor was a cheerful person who called Valli 'Madam' to joke around.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e7_q13",
+      "text": "Why did Valli stand up on her seat?",
+      "options": ["She was excited", "A canvas blind blocked her view", "She wanted to be seen", "The seat was uncomfortable"],
+      "correctIndex": 1,
+      "explanation": "The lower part of the window was covered, so she stood up to see over it.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e7_q14",
+      "text": "Who told Valli, 'You shouldn't stand like that... Sit down'?",
+      "options": ["The conductor", "Her mother", "An elderly man", "A young boy"],
+      "correctIndex": 2,
+      "explanation": "An elderly man in the bus was concerned for her safety.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_e7_q15",
+      "text": "Valli found the elderly woman who sat beside her 'absolutely repulsive' because:",
+      "options": ["She was wearing dirty clothes", "She had big holes in her ears and ugly earrings", "She was chewing betel nut", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "Valli disliked her large earrings and the sight of her betel juice.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e7_q16",
+      "text": "What animal did Valli see running in the middle of the road?",
+      "options": ["A dog", "A horse", "A young cow", "A cat"],
+      "correctIndex": 2,
+      "explanation": "A young cow was running right in front of the bus, which Valli found very funny.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e7_q17",
+      "text": "What did the bus driver do when the cow was in front of the bus?",
+      "options": ["He stopped the bus", "He honked his horn loudly", "He chased it away", "He ignored it"],
+      "correctIndex": 1,
+      "explanation": "He sounded his horn repeatedly to clear the way.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e7_q18",
+      "text": "Why did Valli laugh until there were tears in her eyes?",
+      "options": ["The conductor's joke", "The sight of the galloping cow", "The city buildings", "The elderly woman"],
+      "correctIndex": 1,
+      "explanation": "The sight of the cow's tail high in the air as it ran was hilarious to her.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e7_q19",
+      "text": "What did Valli do when the bus reached the town?",
+      "options": ["She went shopping", "She stayed in her seat", "She visited a temple", "She ate ice cream"],
+      "correctIndex": 1,
+      "explanation": "She didn't get off because she only had enough money for the return fare.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e7_q20",
+      "text": "The conductor offered Valli a cold drink because:",
+      "options": ["She looked thirsty", "It was part of the ticket", "He wanted to be kind to the 'madam'", "She asked for it"],
+      "correctIndex": 2,
+      "explanation": "The conductor was impressed by her independence and offered to buy her a treat.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e7_q21",
+      "text": "What saddened Valli on her return journey?",
+      "options": ["The end of the trip", "The sight of the dead cow", "Rain", "A headache"],
+      "correctIndex": 1,
+      "explanation": "She saw the same cow she had laughed at earlier, now lying dead by the roadside.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e7_q22",
+      "text": "The dead cow made Valli feel:",
+      "options": ["Angry", "Indifferent", "Haunted by the memory and lost her enthusiasm", "Happy to be home"],
+      "correctIndex": 2,
+      "explanation": "The sight of death dampened her spirits for the rest of the trip.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e7_q23",
+      "text": "What time did Valli get back to her village?",
+      "options": ["2:30 PM", "3:40 PM", "4:00 PM", "5:00 PM"],
+      "correctIndex": 1,
+      "explanation": "The bus returned to the village at about three-forty.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_e7_q24",
+      "text": "Who was Valli's mother talking to when Valli returned?",
+      "options": ["Her father", "Valli's aunt", "A neighbor", "The bus conductor"],
+      "correctIndex": 1,
+      "explanation": "She was talking to an aunt from South Street.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_e7_q25",
+      "text": "How did Valli's aunt describe her?",
+      "options": ["A shy girl", "A 'chit of a girl' who pokes her nose into others' business", "A brilliant student", "A quiet child"],
+      "correctIndex": 1,
+      "explanation": "The aunt thought Valli acted too much like a grown-up.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e7_q26",
+      "text": "Valli's mother said, 'So many things... without our knowledge.' Valli smiled because:",
+      "options": ["She was happy to see her mother", "She had just returned from a secret trip", "She liked the aunt", "She found the comment funny"],
+      "correctIndex": 1,
+      "explanation": "She was amused because her mother didn't know about her bus ride.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e7_q27",
+      "text": "The theme of the story relates to:",
+      "options": ["The generation gap", "A child's curiosity and first encounter with death", "The beauty of nature", "Public transport"],
+      "correctIndex": 1,
+      "explanation": "It explores Valli's desire to see the world and her realization of the fragility of life.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e7_q28",
+      "text": "What does the word 'discreet' mean in the context of Valli's questions?",
+      "options": ["Loud", "Careful and cautious", "Angry", "Unimportant"],
+      "correctIndex": 1,
+      "explanation": "She asked questions carefully so as not to reveal her plan.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_e7_q29",
+      "text": "Why didn't Valli get off at the town to see the sights?",
+      "options": ["She was afraid", "She didn't have enough time", "She didn't have extra money", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Valli was cautious, budget-conscious, and needed to return before her mother woke up.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e7_q30",
+      "text": "The word 'kindred' in the story refers to:",
+      "options": ["Strangers", "Relatives/similar nature", "Enemies", "Animals"],
+      "correctIndex": 1,
+      "explanation": "Kindred refers to being of a similar nature or character.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_e7_q31",
+      "text": "How much money did Valli have for the return trip?",
+      "options": ["60 paise", "30 paise", "20 paise", "15 paise"],
+      "correctIndex": 1,
+      "explanation": "She saved 60 paise total: 30 for going and 30 for returning.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e7_q32",
+      "text": "Valli's behavior on the bus showed she was:",
+      "options": ["Nervous", "Confident and self-respecting", "Dependent on others", "Rude"],
+      "correctIndex": 1,
+      "explanation": "She refused help and insisted on paying her own way, showing great confidence.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e7_q33",
+      "text": "The phrase 'wistfully' is used to describe Valli looking at:",
+      "options": ["Her mother", "The bus passengers", "The toys", "The city"],
+      "correctIndex": 1,
+      "explanation": "She looked wistfully (with longing) at people getting on and off the bus.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_e7_q34",
+      "text": "Which of these features did Valli NOT observe from the bus?",
+      "options": ["Palm trees and mountains", "Blue sky and green fields", "A large ocean", "Canals and ditches"],
+      "correctIndex": 2,
+      "explanation": "She saw landscape and fields, but there is no mention of an ocean.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e7_q35",
+      "text": "Valli's planning shows she was a child of:",
+      "options": ["Maturity and calculation", "Impulse", "Laziness", "Fear"],
+      "correctIndex": 0,
+      "explanation": "Her careful saving and timing demonstrate a mature and calculating mind.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e7_q36",
+      "text": "The conductor called Valli 'Madam' as a sign of:",
+      "options": ["Deep respect", "Sarcasm and amusement", "Confusion", "Anger"],
+      "correctIndex": 1,
+      "explanation": "He was joking because of the way she was acting like a grown-up.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e7_q37",
+      "text": "What was the 'deadly secret' Valli kept?",
+      "options": ["Her money", "Her bus ride", "Her friendship", "A broken toy"],
+      "correctIndex": 1,
+      "explanation": "Her trip to the town and back was a secret from her mother.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e7_q38",
+      "text": "Valli's encounter with the dead cow represents:",
+      "options": ["Bad luck", "Loss of innocence", "The end of her journey", "Animal cruelty"],
+      "correctIndex": 1,
+      "explanation": "It's her first real encounter with the harsh reality of death.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e7_q39",
+      "text": "In the story, Valli is depicted as:",
+      "options": ["A passive observer", "An active dreamer and doer", "A disobedient child", "A lonely girl"],
+      "correctIndex": 1,
+      "explanation": "She doesn't just watch the bus; she plans and executes a ride.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e7_q40",
+      "text": "The story is primarily set in:",
+      "options": ["A bustling city", "A small village and a bus route", "A school", "A forest"],
+      "correctIndex": 1,
+      "explanation": "Most of the action takes place in her village and during the bus journey.",
+      "frequencyRating": 5
+    }
+  ]
+}

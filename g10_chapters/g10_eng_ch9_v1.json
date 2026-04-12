@@ -1,0 +1,330 @@
+{
+  "id": "g10_eng_ch9",
+  "grade": "10",
+  "subject": "English",
+  "number": "9",
+  "title": "The Proposal",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_e9_q1",
+      "text": "Who is the author of the play 'The Proposal'?",
+      "options": ["Anton Chekhov", "Gavin Maxwell", "Liam O’Flaherty", "Robert Frost"],
+      "correctIndex": 0,
+      "explanation": "Anton Chekhov is a famous Russian playwright and short-story writer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e9_q2",
+      "text": "What is the original title of 'The Proposal' in Russian?",
+      "options": ["A Marriage Proposal", "The Greedy Neighbors", "The Land Dispute", "Russian Comedy"],
+      "correctIndex": 0,
+      "explanation": "The play is a one-act farce originally titled 'A Marriage Proposal'.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_e9_q3",
+      "text": "Who is Stepan Stepanovitch Chubukov?",
+      "options": ["A doctor", "A landowner", "A servant", "Natalya's brother"],
+      "correctIndex": 1,
+      "explanation": "Chubukov is a Russian landowner and Natalya's father.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e9_q4",
+      "text": "Who is Ivan Vassilevitch Lomov?",
+      "options": ["A neighbor of Chubukov", "A landowner", "A man with palpitations", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Lomov is a long-time neighbor of Chubukov who comes to propose to Natalya.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e9_q5",
+      "text": "Why does Lomov visit Chubukov's house in the beginning?",
+      "options": ["To borrow money", "To ask for Natalya's hand in marriage", "To argue about land", "To invite them to a party"],
+      "correctIndex": 1,
+      "explanation": "Lomov arrives wearing formal clothes to ask for Natalya's hand.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e9_q6",
+      "text": "What is the age of Natalya Stepanovna?",
+      "options": ["Twenty", "Twenty-five", "Thirty", "Eighteen"],
+      "correctIndex": 1,
+      "explanation": "Natalya is twenty-five years old and is described as a good housekeeper.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e9_q7",
+      "text": "How old is Ivan Lomov?",
+      "options": ["25", "30", "35", "40"],
+      "correctIndex": 2,
+      "explanation": "Lomov is thirty-five, an age he considers 'critical' for settling down.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e9_q8",
+      "text": "Lomov suffers from which of these physical conditions?",
+      "options": ["Blindness", "Palpitations and sleep issues", "A broken leg", "Deafness"],
+      "correctIndex": 1,
+      "explanation": "Lomov is highly excitable and constantly complains about his heart palpitations and his leg 'going to sleep'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e9_q9",
+      "text": "What is the first topic the characters begin to argue about?",
+      "options": ["The wedding date", "Oxen Meadows", "Their dogs", "The weather"],
+      "correctIndex": 1,
+      "explanation": "Before the proposal is even made, they start arguing about the ownership of Oxen Meadows.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e9_q10",
+      "text": "Where are Oxen Meadows situated?",
+      "options": ["Near the river", "Between the Birchwoods and the Burnt Marsh", "In the city", "On the hill"],
+      "correctIndex": 1,
+      "explanation": "Lomov mentions they are wedged in between the Birchwoods and the Burnt Marsh.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e9_q11",
+      "text": "How long did Lomov's aunt's grandmother let the Chubukovs use the meadows?",
+      "options": ["10 years", "40 years", "Permanently", "100 years"],
+      "correctIndex": 1,
+      "explanation": "Lomov claims they used the land for forty years in return for making bricks for his aunt's grandmother.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_e9_q12",
+      "text": "When Natalya hears about the land claim, she says:",
+      "options": ["Take them as a gift", "It's not true; they belong to us", "I don't care about land", "Let's ask the judge"],
+      "correctIndex": 1,
+      "explanation": "She insists that the meadows have belonged to her family for nearly three hundred years.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e9_q13",
+      "text": "What does Chubukov do when he joins the argument about the land?",
+      "options": ["He stays neutral", "He supports Lomov", "He sides with Natalya and insults Lomov", "He calls the police"],
+      "correctIndex": 2,
+      "explanation": "Chubukov enters and immediately defends his daughter's claim, calling Lomov a 'pettifogger'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e9_q14",
+      "text": "What happens to Lomov as the argument about land intensifies?",
+      "options": ["He leaves happily", "He faints", "His palpitations get worse and he rushes out", "He wins the argument"],
+      "correctIndex": 2,
+      "explanation": "The stress of the argument makes his heart feel like it's exploding, and he leaves the house.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e9_q15",
+      "text": "When does Natalya find out that Lomov came to propose?",
+      "options": ["In the beginning", "From Lomov himself", "After Lomov leaves, from her father", "She never finds out"],
+      "correctIndex": 2,
+      "explanation": "Chubukov tells her that the 'dummy' came to make a proposal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e9_q16",
+      "text": "What was Natalya's reaction upon learning about the proposal?",
+      "options": ["She was angry", "She laughed", "She started wailing and told her father to bring him back", "She said no"],
+      "correctIndex": 2,
+      "explanation": "She immediately regrets the fight and demands that her father fetch Lomov.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e9_q17",
+      "text": "The second argument between Lomov and Natalya is about:",
+      "options": ["Oxen Meadows", "Their respective hunting dogs", "The wedding clothes", "The harvest"],
+      "correctIndex": 1,
+      "explanation": "They start a new argument over whose dog is better: Guess or Squeezer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e9_q18",
+      "text": "What is the name of Lomov's dog?",
+      "options": ["Squeezer", "Guess", "Bello", "Rex"],
+      "correctIndex": 1,
+      "explanation": "Lomov's dog is named Guess.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e9_q19",
+      "text": "What is the name of Natalya's dog?",
+      "options": ["Guess", "Squeezer", "Rover", "Buddy"],
+      "correctIndex": 1,
+      "explanation": "Natalya's family dog is named Squeezer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e9_q20",
+      "text": "How much did Lomov pay for Guess?",
+      "options": ["85 roubles", "125 roubles", "100 roubles", "50 roubles"],
+      "correctIndex": 1,
+      "explanation": "Lomov bought Guess from Mironov for 125 roubles.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e9_q21",
+      "text": "Natalya claims Squeezer is better because:",
+      "options": ["He is faster", "He was cheaper at 85 roubles and is superior", "He is younger", "He is friendly"],
+      "correctIndex": 1,
+      "explanation": "She argues that Squeezer is a 'thoroughbred' and was a better bargain than Guess.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e9_q22",
+      "text": "Lomov points out that Squeezer is 'overshot', meaning:",
+      "options": ["He is too tall", "His lower jaw is shorter than the upper", "He is too old", "He is too fast"],
+      "correctIndex": 1,
+      "explanation": "Overshot is a defect where the upper jaw extends beyond the lower, affecting the dog's grip.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_e9_q23",
+      "text": "Chubukov insults Lomov's dog by saying it is:",
+      "options": ["A wolf", "Old and short in the muzzle", "Ugly", "Too slow"],
+      "correctIndex": 1,
+      "explanation": "Chubukov says Guess is old and 'short in the muzzle'.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_e9_q24",
+      "text": "During the second argument, what happens to Lomov?",
+      "options": ["He falls asleep", "He faints and everyone thinks he is dead", "He attacks Chubukov", "He leaves for good"],
+      "correctIndex": 1,
+      "explanation": "Lomov's palpitations overcome him and he collapses into an armchair.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e9_q25",
+      "text": "What does Chubukov do when Lomov wakes up from his faint?",
+      "options": ["Calls a doctor", "Tells them to hurry and get married/engaged", "Kicks him out", "Gives him money"],
+      "correctIndex": 1,
+      "explanation": "To avoid more trouble, he quickly puts their hands together and says, 'She’s willing!'",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e9_q26",
+      "text": "Does the play end with a peaceful wedding agreement?",
+      "options": ["Yes, they stop fighting", "No, they continue to argue about the dogs", "Yes, they leave the village", "No, they separate"],
+      "correctIndex": 1,
+      "explanation": "Even after the 'proposal' is accepted, they resume their argument about Guess and Squeezer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e9_q27",
+      "text": "The play is a 'farce' because:",
+      "options": ["It is a tragedy", "It uses exaggerated characters and absurd situations", "It is a historical drama", "It has no dialogue"],
+      "correctIndex": 1,
+      "explanation": "The trivial arguments and the characters' hypersensitivity make it a classic farce.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e9_q28",
+      "text": "What does Chubukov call Lomov throughout the play?",
+      "options": ["His darling/angel/my beauty", "His enemy", "A thief", "A stranger"],
+      "correctIndex": 0,
+      "explanation": "He uses hypocritical terms of endearment while constantly insulting him.",
+      "frequencyRating": 3
+    },
+    {
+        "id": "g10_e9_q28",
+      "text": "Lomov wants to marry Natalya because:",
+      "options": ["He is madly in love", "She is a good housekeeper and he needs a quiet life", "He wants her land", "His parents told him to"],
+      "correctIndex": 1,
+      "explanation": "He admits he isn't in love but considers her a good housekeeper and himself at a 'critical age'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e9_q30",
+      "text": "The characters in 'The Proposal' are primarily concerned with:",
+      "options": ["Social status and property", "True love", "Religion", "Art"],
+      "correctIndex": 0,
+      "explanation": "Their priorities are land, dogs, and their own ego over the relationship.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e9_q31",
+      "text": "What was Lomov's aunt's name?",
+      "options": ["Natalya", "Nastasia Mihailovna", "Marussia", "Elena"],
+      "correctIndex": 1,
+      "explanation": "Lomov mentions his late aunt, Nastasia Mihailovna.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_e9_q32",
+      "text": "Lomov claims his family was always:",
+      "options": ["Poor", "Honorable and never in court", "Soldiers", "Doctors"],
+      "correctIndex": 1,
+      "explanation": "He defends his family's honor during the argument with Chubukov.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_e9_q33",
+      "text": "Chubukov threatens to shoot Lomov like a:",
+      "options": ["Bird", "Partridge", "Dog", "Rabbit"],
+      "correctIndex": 1,
+      "explanation": "In a fit of anger, Chubukov says he'll shoot him like a partridge.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_e9_q34",
+      "text": "The tone of the play can be described as:",
+      "options": ["Serious", "Humorous and satirical", "Melancholic", "Horror"],
+      "correctIndex": 1,
+      "explanation": "Chekhov satirizes the landed gentry's behavior.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e9_q35",
+      "text": "What is the 'good housekeeping' skill Natalya is praised for?",
+      "options": ["Cooking", "Shelling peas for drying", "Sewing", "Cleaning"],
+      "correctIndex": 1,
+      "explanation": "When Lomov arrives, she is busy shelling peas for drying.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_e9_q36",
+      "text": "Chubukov says 'What a weight off my shoulders' when:",
+      "options": ["Lomov leaves", "The land dispute is settled", "Lomov and Natalya agree to marry", "The dog wins"],
+      "correctIndex": 2,
+      "explanation": "He is relieved to finally marry off his daughter.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e9_q37",
+      "text": "How does Natalya react when she thinks Lomov is dead?",
+      "options": ["She is indifferent", "She screams for a doctor and becomes hysterical", "She prays", "She laughs"],
+      "correctIndex": 1,
+      "explanation": "She realizes she might lose her chance at marriage and panics.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e9_q38",
+      "text": "The main cause of conflict in the play is:",
+      "options": ["Greed and pride", "Misunderstanding", "Poverty", "Distance"],
+      "correctIndex": 0,
+      "explanation": "Their stubbornness and pride over trivial possessions fuel the conflict.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e9_q39",
+      "text": "The 'proposal' itself is:",
+      "options": ["Romantic", "Interrupted and never properly spoken by Lomov to Natalya", "Grand", "A secret"],
+      "correctIndex": 1,
+      "explanation": "Lomov gets distracted by arguments and never actually says the words to Natalya before the chaos.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e9_q40",
+      "text": "The final line of the play involves:",
+      "options": ["A toast to happiness", "Champagne and more arguing about dogs", "A dance", "A fight"],
+      "correctIndex": 1,
+      "explanation": "Chubukov calls for champagne while the couple continues their argument.",
+      "frequencyRating": 5
+    }
+  ]
+}
