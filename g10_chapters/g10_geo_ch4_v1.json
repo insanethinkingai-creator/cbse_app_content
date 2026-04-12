@@ -1,0 +1,330 @@
+{
+  "id": "g10_geo_ch4",
+  "grade": "10",
+  "subject": "Social Science",
+  "number": "4",
+  "title": "Agriculture",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_g4_q1",
+      "text": "Primitive subsistence farming is also known as 'slash and burn' agriculture. What is it called in Mexico and Central America?",
+      "options": ["Milpa", "Conuco", "Roca", "Ladang"],
+      "correctIndex": 0,
+      "explanation": "Slash and burn agriculture is known as Milpa in Mexico and Central America.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g4_q2",
+      "text": "What is the name of 'slash and burn' agriculture in the North-Eastern states of India like Assam and Meghalaya?",
+      "options": ["Bewar", "Penda", "Jhumming", "Dahiya"],
+      "correctIndex": 2,
+      "explanation": "Jhumming is the common name for primitive subsistence farming in the North-Eastern states.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g4_q3",
+      "text": "Which type of farming is practiced in areas of high population pressure on land?",
+      "options": ["Primitive Subsistence Farming", "Intensive Subsistence Farming", "Commercial Farming", "Plantation Farming"],
+      "correctIndex": 1,
+      "explanation": "Intensive subsistence farming is labor-intensive and uses high doses of biochemical inputs to get higher production.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g4_q4",
+      "text": "In which type of farming is a single crop grown on a large area?",
+      "options": ["Intensive Farming", "Plantation Farming", "Subsistence Farming", "Jhumming"],
+      "correctIndex": 1,
+      "explanation": "Plantation is a type of commercial farming where a single crop is grown over a vast area using migrant labor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g4_q5",
+      "text": "Which of the following is an example of a plantation crop in India?",
+      "options": ["Rice", "Wheat", "Tea", "Pulses"],
+      "correctIndex": 2,
+      "explanation": "Tea, coffee, rubber, sugarcane, and banana are important plantation crops in India.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g4_q6",
+      "text": "Rabi crops are sown in:",
+      "options": ["Winter (October to December)", "Summer (April to June)", "Monsoon (June to July)", "Autumn (September to October)"],
+      "correctIndex": 0,
+      "explanation": "Rabi crops are sown in winter and harvested in summer (April to June).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g4_q7",
+      "text": "Which of the following is a Rabi crop?",
+      "options": ["Paddy", "Maize", "Wheat", "Cotton"],
+      "correctIndex": 2,
+      "explanation": "Wheat, barley, peas, gram, and mustard are some of the important Rabi crops.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g4_q8",
+      "text": "Kharif crops are grown with the onset of:",
+      "options": ["Winter", "Monsoon", "Summer", "Autumn"],
+      "correctIndex": 1,
+      "explanation": "Kharif crops are sown with the onset of monsoon in different parts of the country and harvested in September-October.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g3_q9",
+      "text": "The short season between the Rabi and the Kharif seasons is known as:",
+      "options": ["Monsoon", "Zaid", "Jhum", "Bewar"],
+      "correctIndex": 1,
+      "explanation": "The Zaid season occurs during the summer months; crops include watermelon, muskmelon, and cucumber.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g4_q10",
+      "text": "India is the second largest producer of ________ in the world after China.",
+      "options": ["Wheat", "Rice", "Maize", "Millets"],
+      "correctIndex": 1,
+      "explanation": "India is a major producer of rice, which is the staple food crop of a majority of the people in India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g4_q11",
+      "text": "Which crop requires high temperature (above 25°C) and high humidity with annual rainfall above 100 cm?",
+      "options": ["Wheat", "Rice", "Maize", "Jowar"],
+      "correctIndex": 1,
+      "explanation": "Rice is a Kharif crop that needs high heat and plenty of water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g4_q12",
+      "text": "Which of the following states is a major producer of wheat in India?",
+      "options": ["Kerala", "Tamil Nadu", "Punjab", "Odisha"],
+      "correctIndex": 2,
+      "explanation": "The main wheat-producing states are Punjab, Haryana, Uttar Pradesh, Madhya Pradesh, Bihar, and Rajasthan.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g4_q13",
+      "text": "Which of the following crops are collectively known as millets?",
+      "options": ["Wheat and Rice", "Jowar, Bajra and Ragi", "Arhar and Moong", "Tea and Coffee"],
+      "correctIndex": 1,
+      "explanation": "Jowar, Bajra, and Ragi are the important millets grown in India, often called coarse grains but having high nutritional value.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g4_q14",
+      "text": "Which millet is very rich in iron, calcium, other micro-nutrients and roughage?",
+      "options": ["Jowar", "Bajra", "Ragi", "Maize"],
+      "correctIndex": 2,
+      "explanation": "Ragi is a crop of dry regions and is highly nutritious.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g4_q15",
+      "text": "Which crop is used both as food and fodder?",
+      "options": ["Rice", "Wheat", "Maize", "Jute"],
+      "correctIndex": 2,
+      "explanation": "Maize is a Kharif crop (though in Bihar it is grown in Rabi) used for both human consumption and animal feed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g4_q16",
+      "text": "India is the largest producer as well as the consumer of ________ in the world.",
+      "options": ["Wheat", "Rice", "Pulses", "Sugarcane"],
+      "correctIndex": 2,
+      "explanation": "Pulses are the major source of protein in a vegetarian diet.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g4_q17",
+      "text": "Which of the following is a leguminous crop?",
+      "options": ["Pulses", "Millets", "Jowar", "Sesamum"],
+      "correctIndex": 0,
+      "explanation": "All pulses (except arhar) help in restoring soil fertility by fixing nitrogen from the air.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g4_q18",
+      "text": "Which crop takes almost a year to grow?",
+      "options": ["Rice", "Wheat", "Sugarcane", "Cucumber"],
+      "correctIndex": 2,
+      "explanation": "Sugarcane is a tropical as well as a subtropical crop that takes a long time to mature.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g4_q19",
+      "text": "India is the largest producer of ________ in the world (as of 2020 statistics).",
+      "options": ["Groundnut", "Sesamum", "Total Oilseeds", "Castor seed"],
+      "correctIndex": 2,
+      "explanation": "India produces various oilseeds covering about 12% of the total cropped area.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_g4_q20",
+      "text": "Which oilseed is a Kharif crop in north India and Rabi crop in south India?",
+      "options": ["Groundnut", "Sesamum", "Linseed", "Mustard"],
+      "correctIndex": 1,
+      "explanation": "Sesamum (Til) has different growing seasons depending on the geography of India.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g4_q21",
+      "text": "Tea cultivation is an example of ________ agriculture.",
+      "options": ["Horticulture", "Plantation", "Primitive", "Intensive"],
+      "correctIndex": 1,
+      "explanation": "Tea is an important beverage crop introduced in India initially by the British.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g4_q22",
+      "text": "Which variety of coffee was initially brought from Yemen and is produced in India?",
+      "options": ["Robusta", "Arabica", "Liberica", "Excelsa"],
+      "correctIndex": 1,
+      "explanation": "The Arabica variety of coffee is in great demand all over the world.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g4_q23",
+      "text": "Where was coffee cultivation initially introduced in India?",
+      "options": ["Nilgiri Hills", "Baba Budan Hills", "Cardamom Hills", "Anaimalai Hills"],
+      "correctIndex": 1,
+      "explanation": "Initially, coffee was confined to the Baba Budan Hills in Karnataka.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g4_q24",
+      "text": "Horticulture refers to the cultivation of:",
+      "options": ["Grains", "Beverage crops", "Fruits and vegetables", "Fibre crops"],
+      "correctIndex": 2,
+      "explanation": "India is a producer of tropical as well as temperate fruits and vegetables.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g4_q25",
+      "text": "Which crop is known as the 'Golden Fibre'?",
+      "options": ["Cotton", "Jute", "Hemp", "Natural Silk"],
+      "correctIndex": 1,
+      "explanation": "Jute is called the golden fibre because of its shiny brown color and high value.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g4_q26",
+      "text": "Rearing of silk worms for the production of silk fibre is known as:",
+      "options": ["Horticulture", "Pisciculture", "Sericulture", "Viticulture"],
+      "correctIndex": 2,
+      "explanation": "Sericulture involves the management of silkworms for silk production.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g4_q27",
+      "text": "Cotton grows well in which type of soil?",
+      "options": ["Alluvial soil", "Red soil", "Black cotton soil", "Laterite soil"],
+      "correctIndex": 2,
+      "explanation": "Black soil of the Deccan plateau is ideal for cotton cultivation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g4_q28",
+      "text": "How many frost-free days does cotton require for its growth?",
+      "options": ["100", "150", "210", "300"],
+      "correctIndex": 2,
+      "explanation": "Cotton requires high temperature, light rainfall, and 210 frost-free days.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g4_q29",
+      "text": "Who started the Bhoodan-Gramdan movement, also known as the 'Blood-less Revolution'?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Vinoba Bhave", "Sardar Patel"],
+      "correctIndex": 2,
+      "explanation": "Vinoba Bhave initiated this movement to encourage voluntary land reforms.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g4_q30",
+      "text": "The Green Revolution was based on the use of:",
+      "options": ["Primitive tools", "HYV seeds and modern inputs", "Organic manure", "Rain-fed irrigation"],
+      "correctIndex": 1,
+      "explanation": "High Yielding Variety (HYV) seeds and technology significantly increased crop production.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g4_q31",
+      "text": "What does KCC stand for in the context of Indian agriculture?",
+      "options": ["Kisan Credit Card", "Kisan Call Centre", "Krishi Kalyan Centre", "Knowledge Commission for Crops"],
+      "correctIndex": 0,
+      "explanation": "KCC is a credit scheme introduced by the Government of India for the benefit of farmers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g4_q32",
+      "text": "The scheme providing insurance to farmers against crop failure is:",
+      "options": ["KCC", "PAIS", "MSP", "FCI"],
+      "correctIndex": 1,
+      "explanation": "Personal Accident Insurance Scheme (PAIS) is one of the schemes introduced for farmers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g4_q33",
+      "text": "Which of the following is a non-food crop?",
+      "options": ["Rice", "Rubber", "Wheat", "Maize"],
+      "correctIndex": 1,
+      "explanation": "Rubber is an important industrial raw material and is a non-food crop.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g4_q34",
+      "text": "Which crop is mainly used in the manufacture of gunny bags and ropes?",
+      "options": ["Cotton", "Jute", "Silk", "Wool"],
+      "correctIndex": 1,
+      "explanation": "Jute is used in making gunny bags, mats, ropes, yarn, and other artifacts.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g4_q35",
+      "text": "The declaration of Minimum Support Price (MSP) is done to:",
+      "options": ["Exploit farmers", "Provide incentives to farmers and check middle-men", "Increase food prices for consumers", "Discourage production"],
+      "correctIndex": 1,
+      "explanation": "MSP ensures that farmers get a guaranteed price for their produce, protecting them from market fluctuations.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g4_q36",
+      "text": "Organic farming is in vogue because:",
+      "options": ["It uses expensive chemicals", "It is practiced without factory-made chemicals like fertilizers", "It decreases production", "It harms the environment"],
+      "correctIndex": 1,
+      "explanation": "Organic farming uses natural inputs and is considered environmentally friendly.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g4_q37",
+      "text": "What is the rank of India in the production of fruits and vegetables in the world?",
+      "options": ["First", "Second", "Third", "Fourth"],
+      "correctIndex": 1,
+      "explanation": "India is the second largest producer of fruits and vegetables in the world.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_g4_q38",
+      "text": "Which state is the leading producer of Jowar in India?",
+      "options": ["Maharashtra", "Karnataka", "Rajasthan", "Madhya Pradesh"],
+      "correctIndex": 0,
+      "explanation": "Maharashtra is the largest producer of Jowar, followed by Karnataka.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g4_q39",
+      "text": "The 'White Revolution' is associated with the production of:",
+      "options": ["Wheat", "Rice", "Milk", "Cotton"],
+      "correctIndex": 2,
+      "explanation": "White Revolution (Operation Flood) aimed to increase milk production in India.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g4_q40",
+      "text": "What is the major challenge faced by Indian farmers due to globalization?",
+      "options": ["Reduced competition", "Inability to compete with subsidized agriculture of developed nations", "Lower demand for crops", "Lack of land"],
+      "correctIndex": 1,
+      "explanation": "Indian agricultural products often face tough competition from developed countries where agriculture is highly subsidized.",
+      "frequencyRating": 4
+    }
+  ]
+}

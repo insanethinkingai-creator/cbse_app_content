@@ -1,0 +1,330 @@
+{
+  "id": "g10_sci_ch13",
+  "grade": "10",
+  "subject": "Science",
+  "number": "13",
+  "title": "Our Environment",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_s13_q1",
+      "text": "Which of the following are called the functional units of the environment?",
+      "options": ["Biomes", "Ecosystems", "Communities", "Populations"],
+      "correctIndex": 1,
+      "explanation": "An ecosystem is a structural and functional unit of the biosphere consisting of biotic and abiotic components interacting with each other.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s13_q2",
+      "text": "The abiotic components of an ecosystem include:",
+      "options": ["Plants and Animals", "Bacteria and Fungi", "Temperature, Rain, and Soil", "All of the above"],
+      "correctIndex": 2,
+      "explanation": "Abiotic components are the non-living physical and chemical factors like sunlight, water, and minerals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s13_q3",
+      "text": "Organisms that can prepare their own food using radiant energy are known as:",
+      "options": ["Herbivores", "Carnivores", "Producers", "Decomposers"],
+      "correctIndex": 2,
+      "explanation": "Producers (autotrophs) like green plants and certain algae convert solar energy into chemical energy via photosynthesis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s13_q4",
+      "text": "The sequence of living organisms in a community in which one organism consumes another is a:",
+      "options": ["Food web", "Trophic level", "Food chain", "Ecological pyramid"],
+      "correctIndex": 2,
+      "explanation": "A food chain represents the unidirectional flow of energy from one organism to another.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s13_q5",
+      "text": "What percentage of solar energy falling on leaves is captured by green plants for photosynthesis?",
+      "options": ["10%", "1%", "50%", "100%"],
+      "correctIndex": 1,
+      "explanation": "Green plants in a terrestrial ecosystem capture only about 1% of the energy of sunlight that falls on their leaves.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s13_q6",
+      "text": "According to the 10% law, the amount of energy available at the next trophic level:",
+      "options": ["Increases by 10%", "Decreases by 10%", "Is 10% of the energy of the previous level", "Remains constant"],
+      "correctIndex": 2,
+      "explanation": "Only 10% of the organic matter is present at each step and reaches the next level of consumers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s13_q7",
+      "text": "The flow of energy in an ecosystem is always:",
+      "options": ["Unidirectional", "Bidirectional", "Multidirectional", "Cyclic"],
+      "correctIndex": 0,
+      "explanation": "Energy flows from producers to herbivores to carnivores and never flows back to the previous level.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s13_q8",
+      "text": "The progressive accumulation of harmful chemicals like DDT in the body of organisms at higher trophic levels is called:",
+      "options": ["Eutrophication", "Biological magnification", "Accumulation", "Pollution"],
+      "correctIndex": 1,
+      "explanation": "As these chemicals are non-biodegradable, their concentration increases at each trophic level.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s13_q9",
+      "text": "Which level in a food chain generally contains the maximum concentration of pesticides?",
+      "options": ["Producers", "Primary consumers", "Secondary consumers", "Tertiary consumers"],
+      "correctIndex": 3,
+      "explanation": "Since humans or top carnivores occupy the highest trophic level, chemicals accumulate most in them.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s13_q10",
+      "text": "In a food chain, herbivores represent which trophic level?",
+      "options": ["First", "Second", "Third", "Fourth"],
+      "correctIndex": 1,
+      "explanation": "Producers are the first level; herbivores (primary consumers) are the second level.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s13_q11",
+      "text": "The ozone layer is found in which region of the atmosphere?",
+      "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+      "correctIndex": 1,
+      "explanation": "The stratosphere contains the ozone layer which protects Earth from harmful UV radiation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s13_q12",
+      "text": "Ozone is formed by the action of ________ on oxygen molecules.",
+      "options": ["Infrared radiation", "UV radiation", "X-rays", "Visible light"],
+      "correctIndex": 1,
+      "explanation": "High energy UV radiations split apart some molecular oxygen (O2) into free oxygen (O) atoms, which then react with O2 to form O3.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s13_q13",
+      "text": "The chemical mainly responsible for the depletion of the ozone layer is:",
+      "options": ["Carbon dioxide", "Methane", "Chlorofluorocarbons (CFCs)", "Sulfur dioxide"],
+      "correctIndex": 2,
+      "explanation": "CFCs used in refrigerators and fire extinguishers release chlorine atoms that destroy ozone molecules.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s13_q14",
+      "text": "Which of the following is a non-biodegradable waste?",
+      "options": ["Paper", "Vegetable peels", "Plastic bags", "Cotton cloth"],
+      "correctIndex": 2,
+      "explanation": "Plastics are not broken down by biological processes (action of bacteria/saprophytes).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s13_q15",
+      "text": "Organisms that break down dead remains and waste products of organisms are:",
+      "options": ["Producers", "Herbivores", "Decomposers", "Parasites"],
+      "correctIndex": 2,
+      "explanation": "Decomposers like fungi and bacteria recycle nutrients back into the soil.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s13_q16",
+      "text": "The UV radiation from the sun causes which of the following in humans?",
+      "options": ["Skin cancer", "Damage to eyes (Cataract)", "Damage to immune system", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "UV-B radiation is highly damaging to living organisms.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s13_q17",
+      "text": "A food web is:",
+      "options": ["A single straight food chain", "A network of interconnected food chains", "A group of decomposers", "A set of abiotic factors"],
+      "correctIndex": 1,
+      "explanation": "In nature, organisms are eaten by many other organisms, creating a branching pattern called a food web.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s13_q18",
+      "text": "The number of trophic levels in a food chain is limited to 3-4 because:",
+      "options": ["Organisms are too small", "Very little energy is left after 4 levels", "Decomposers stop working", "Sunlight is insufficient"],
+      "correctIndex": 1,
+      "explanation": "Since only 10% energy is transferred, the energy available becomes insufficient to support more levels.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s13_q19",
+      "text": "The UNEP succeeded in forging an agreement to freeze CFC production at 1986 levels in:",
+      "options": ["1980", "1987", "1990", "2000"],
+      "correctIndex": 1,
+      "explanation": "The Montreal Protocol was initiated to protect the ozone layer.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s13_q20",
+      "text": "Which of the following is a human-made ecosystem?",
+      "options": ["Forest", "Pond", "Crop field", "Lake"],
+      "correctIndex": 2,
+      "explanation": "Crop fields and gardens are artificial ecosystems created and maintained by humans.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s13_q21",
+      "text": "What happens if all the deer are removed from a forest food chain (Grass -> Deer -> Tiger)?",
+      "options": ["Tiger population increases", "Grass amount decreases", "Tiger population decreases and grass increases", "No change"],
+      "correctIndex": 2,
+      "explanation": "Tigers will starve due to lack of prey, and grass will grow unchecked as there are no herbivores.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s13_q22",
+      "text": "Disposable plastic cups were replaced by 'Kulhads' (clay cups) in trains, but this was discouraged because:",
+      "options": ["They were expensive", "Making them resulted in loss of fertile topsoil", "They were unhygienic", "They were difficult to break"],
+      "correctIndex": 1,
+      "explanation": "Large scale use of clay cups would deplete the nutrient-rich topsoil.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s13_q23",
+      "text": "Substances that are broken down by biological processes are called:",
+      "options": ["Inorganic", "Biodegradable", "Non-biodegradable", "Synthetic"],
+      "correctIndex": 1,
+      "explanation": "Bacteria and other saprophytes produce enzymes to break down these materials.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s13_q24",
+      "text": "The concentration of a pollutant in a food chain is highest at:",
+      "options": ["T1 (Producers)", "T2 (Herbivores)", "T3 (Small Carnivores)", "T4 (Top Carnivores)"],
+      "correctIndex": 3,
+      "explanation": "Biomagnification ensures the highest concentration at the highest trophic level.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s13_q25",
+      "text": "Which of the following is a primary consumer?",
+      "options": ["Lion", "Hawk", "Rabbit", "Snake"],
+      "correctIndex": 2,
+      "explanation": "Rabbits are herbivores that feed directly on producers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s13_q26",
+      "text": "Large amount of waste is being generated because of:",
+      "options": ["Changes in packaging", "Changes in lifestyle", "Use of disposable items", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Modern living standards and convenience-based products contribute significantly to waste.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s13_q27",
+      "text": "Which gas is not a greenhouse gas?",
+      "options": ["Methane", "Water vapor", "Nitrogen", "Carbon dioxide"],
+      "correctIndex": 2,
+      "explanation": "Nitrogen (78% of atmosphere) is not a greenhouse gas; CO2 and Methane are.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_s13_q28",
+      "text": "In a forest ecosystem, if 20,000 J of energy is available at the producer level, how much is available to the secondary consumer?",
+      "options": ["2000 J", "200 J", "20 J", "2 J"],
+      "correctIndex": 1,
+      "explanation": "Level 1: 20000J. Level 2 (Primary): 2000J. Level 3 (Secondary): 200J.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s13_q29",
+      "text": "Decomposers are also known as:",
+      "options": ["Autotrophs", "Heterotrophs", "Saprophytes", "Herbivores"],
+      "correctIndex": 2,
+      "explanation": "Saprophytes feed on dead and decaying organic matter.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s13_q30",
+      "text": "The 'Ozone hole' was first observed over which continent?",
+      "options": ["Asia", "Africa", "Antarctica", "Australia"],
+      "correctIndex": 2,
+      "explanation": "A major thinning of the ozone layer was detected over Antarctica in the mid-1980s.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s13_q31",
+      "text": "If a grasshopper is eaten by a frog, the energy transfer will be from:",
+      "options": ["Producer to primary consumer", "Primary consumer to secondary consumer", "Secondary consumer to tertiary consumer", "Producer to decomposer"],
+      "correctIndex": 1,
+      "explanation": "Grasshopper (Primary consumer/Herbivore) -> Frog (Secondary consumer/Carnivore).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s13_q32",
+      "text": "A parasitic food chain is a type of food chain where energy flows from:",
+      "options": ["Large to small organisms", "Small to large organisms", "Dead to living", "Abiotic to biotic"],
+      "correctIndex": 0,
+      "explanation": "Parasites are generally smaller than their hosts.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_s13_q33",
+      "text": "Which of the following belongs to the same trophic level?",
+      "options": ["Grass, Hawk", "Lion, Goat", "Frog, Lizard", "Cow, Tiger"],
+      "correctIndex": 2,
+      "explanation": "Both frogs and lizards are secondary consumers in many food chains.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s13_q34",
+      "text": "Ecosystem is the ________ level of biological organization.",
+      "options": ["Lowest", "Highest", "Intermediate", "Cellular"],
+      "correctIndex": 1,
+      "explanation": "It is a complex level above individual, population, and community.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_s13_q35",
+      "text": "What is the primary source of energy for all ecosystems?",
+      "options": ["Water", "Soil", "Sunlight", "Air"],
+      "correctIndex": 2,
+      "explanation": "Almost all energy that drives ecosystems comes from the sun.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s13_q36",
+      "text": "Non-biodegradable wastes like glass and metal can be managed by:",
+      "options": ["Composting", "Recycling", "Burning", "Burying"],
+      "correctIndex": 1,
+      "explanation": "Recycling allows these materials to be reused instead of accumulating in the environment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s13_q37",
+      "text": "Biological magnification is most prominent in ________ aquatic food chains.",
+      "options": ["Short", "Long", "Simple", "Non-existent"],
+      "correctIndex": 1,
+      "explanation": "The more levels there are, the more the toxic substance is concentrated at the top.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s13_q38",
+      "text": "The functional role of an organism in its ecosystem is called its:",
+      "options": ["Habitat", "Niche", "Environment", "Home"],
+      "correctIndex": 1,
+      "explanation": "Niche describes how an organism responds to the distribution of resources and competitors.",
+      "frequencyRating": 1
+    },
+    {
+      "id": "g10_s13_q39",
+      "text": "Biodegradable substances are converted into simpler substances by:",
+      "options": ["Physical pressure", "Chemical oxidation", "Microbial action", "High temperature"],
+      "correctIndex": 2,
+      "explanation": "Microorganisms like bacteria secrete enzymes to digest these organic materials.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s13_q40",
+      "text": "The process of using waste to produce electricity is called:",
+      "options": ["Incineration", "Composting", "Pyrolysis", "Landfilling"],
+      "correctIndex": 0,
+      "explanation": "Incineration is the combustion of organic substances contained in waste materials to generate heat/energy.",
+      "frequencyRating": 3
+    }
+  ]
+}

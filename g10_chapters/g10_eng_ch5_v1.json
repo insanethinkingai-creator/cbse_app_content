@@ -1,0 +1,330 @@
+{
+  "id": "g10_eng_ch5",
+  "grade": "10",
+  "subject": "English",
+  "number": "5",
+  "title": "Glimpses of India",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_en5_q1",
+      "text": "What are the bakers known as in Goa?",
+      "options": ["Pader", "Portugues", "Pekers", "Bol"],
+      "correctIndex": 0,
+      "explanation": "The traditional village bakers in Goa are still called 'pader'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en5_q2",
+      "text": "What was the characteristic sound of the baker's arrival?",
+      "options": ["A whistle", "A bell ringing", "The thud and jingle of a bamboo staff", "A loud shout"],
+      "correctIndex": 2,
+      "explanation": "The baker made a musical entry with the 'jhang, jhang' sound of his specially made bamboo staff.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en5_q3",
+      "text": "The traditional dress worn by the Goan baker was known as:",
+      "options": ["Dhoti", "Kabai", "Lungi", "Kurta"],
+      "correctIndex": 1,
+      "explanation": "The baker or pader of those days wore a peculiar dress known as the 'kabai', a single-piece long frock reaching down to the knees.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en5_q4",
+      "text": "How many times a day did the baker visit the house?",
+      "options": ["Once", "Twice", "Thrice", "Every hour"],
+      "correctIndex": 1,
+      "explanation": "He came twice: once in the morning on his selling round, and then again after emptying his huge basket.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en5_q5",
+      "text": "Where were the monthly accounts of the baker recorded?",
+      "options": ["In a notebook", "On a computer", "On some wall with a pencil", "On the door"],
+      "correctIndex": 2,
+      "explanation": "Baking was a profitable profession, and accounts were traditionally marked on walls.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en5_q6",
+      "text": "A marriage gift in Goa was considered meaningless without which sweet bread?",
+      "options": ["Bolinas", "Cakes", "Bol", "Sandwich"],
+      "correctIndex": 2,
+      "explanation": "Just as a party or a feast loses its charm without bread, a marriage gift is incomplete without the 'bol'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en5_q7",
+      "text": "What was the main attraction for the children when the baker arrived?",
+      "options": ["Loaves of bread", "Bread-bangles (bolinhas)", "Sweet cakes", "Biscuits"],
+      "correctIndex": 1,
+      "explanation": "While the loaves were for the elders, children specifically looked for the bread-bangles, sometimes carefully chosen sweet bread.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en5_q8",
+      "text": "Which of these describes the physical appearance of a baker?",
+      "options": ["Lean and thin", "Very tall", "Plump physique (jackfruit-like)", "Short and athletic"],
+      "correctIndex": 2,
+      "explanation": "Bakers were traditionally prosperous, and their plump bodies were testimony to their well-being.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en5_q9",
+      "text": "Who brought the loaves of bread from the baker's basket?",
+      "options": ["The children", "The lady of the house", "The servants (Paskine or Bastine)", "The baker himself"],
+      "correctIndex": 2,
+      "explanation": "The children were often pushed aside so the servants could collect the loaves.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_en5_q10",
+      "text": "Baking was considered a ______ profession in the old days in Goa.",
+      "options": ["Poor", "Struggling", "Profitable", "Illegal"],
+      "correctIndex": 2,
+      "explanation": "The baker and his family never starved; it was a lucrative trade.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en5_q11",
+      "text": "Coorg is situated between which two places?",
+      "options": ["Mysore and Mangalore", "Bangalore and Mysore", "Chennai and Mysore", "Goa and Mangalore"],
+      "correctIndex": 0,
+      "explanation": "Coorg, or Kodagu, is the smallest district of Karnataka, located midway between Mysore and the coastal town of Mangalore.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en5_q12",
+      "text": "The people of Coorg are possibly of ______ or ______ descent.",
+      "options": ["Indian or Persian", "Greek or Arabic", "French or Dutch", "British or Portuguese"],
+      "correctIndex": 1,
+      "explanation": "One story suggests they are descendants of Alexander's army (Greek), while their dress suggests Arabic origins.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en5_q13",
+      "text": "The long black coat with an embroidered waist belt worn by the Kodavus is called:",
+      "options": ["Kuffia", "Kuppia", "Kabai", "Bol"],
+      "correctIndex": 1,
+      "explanation": "Known as 'kuppia', it resembles the 'kuffia' worn by Arabs and Kurds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en5_q14",
+      "text": "Who was the first Chief of the Indian Army?",
+      "options": ["General Cariappa", "General Manekshaw", "General Bakshi", "General Rawat"],
+      "correctIndex": 0,
+      "explanation": "General Cariappa, the first Chief of the Indian Army, was a Coorgi.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en5_q15",
+      "text": "The river ______ obtains its water from the hills and forests of Coorg.",
+      "options": ["Ganga", "Kaveri", "Godavari", "Krishna"],
+      "correctIndex": 1,
+      "explanation": "Kaveri is the main river of the region, rich in freshwater fish.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en5_q16",
+      "text": "Coorg is known for which of these plantations?",
+      "options": ["Tea", "Coffee", "Rubber", "Cotton"],
+      "correctIndex": 1,
+      "explanation": "Coorg is famous for its coffee estates and evergreen rainforests.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en5_q17",
+      "text": "Which large freshwater fish is found in the Kaveri river in Coorg?",
+      "options": ["Mahaseer", "Whale", "Salmon", "Shark"],
+      "correctIndex": 0,
+      "explanation": "Mahaseer is a large freshwater fish that abounds in these waters.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en5_q18",
+      "text": "The people of Coorg are the only people in India permitted to:",
+      "options": ["Vote", "Carry firearms without a license", "Own forests", "Practice traditional medicine"],
+      "correctIndex": 1,
+      "explanation": "Kodavus are known for their bravery and are exempt from the Indian Arms Act.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en5_q19",
+      "text": "What is the best time to visit Coorg?",
+      "options": ["June to August", "September to March", "April to May", "December only"],
+      "correctIndex": 1,
+      "explanation": "The season of joy commences from September and continues till March.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en5_q20",
+      "text": "From the top of which hills can one see a panoramic view of the entire misty landscape of Coorg?",
+      "options": ["Himalayas", "Brahmagiri", "Nilgiris", "Western Ghats"],
+      "correctIndex": 1,
+      "explanation": "A walk to the Brahmagiri hills brings you into a panoramic view of Coorg.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en5_q21",
+      "text": "Which island can be reached by crossing a rope bridge in Coorg?",
+      "options": ["Nisargadhama", "Majuli", "Elephanta", "Lakshadweep"],
+      "correctIndex": 0,
+      "explanation": "Crossing the rope bridge leads to the sixty-four-acre island of Nisargadhama.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en5_q22",
+      "text": "Where is India's largest Tibetan settlement located in Coorg?",
+      "options": ["Bylakuppe", "Kodagu", "Mangalore", "Mysore"],
+      "correctIndex": 0,
+      "explanation": "The Buddhist monks in red, ochre, and yellow robes are found at Bylakuppe.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en5_q23",
+      "text": "Coorg is the ______ district of Karnataka.",
+      "options": ["Largest", "Oldest", "Smallest", "Richest"],
+      "correctIndex": 2,
+      "explanation": "It is the smallest district in the state of Karnataka.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_en5_q24",
+      "text": "The climb to the Brahmagiri hills leads to which type of view?",
+      "options": ["Forest view", "City view", "Panoramic view", "River view"],
+      "correctIndex": 2,
+      "explanation": "The summit provides a 360-degree 'panoramic' view of the misty landscape.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_en5_q25",
+      "text": "Which birds are common in Coorg?",
+      "options": ["Kingfishers", "Penguins", "Ostriches", "Peacocks"],
+      "correctIndex": 0,
+      "explanation": "Kingfishers dive for Mahaseer in the river waters.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_en5_q26",
+      "text": "In the story 'Tea from Assam', where were Rajvir and Pranjol going?",
+      "options": ["Goa", "Coorg", "Assam", "Delhi"],
+      "correctIndex": 2,
+      "explanation": "Pranjol had invited Rajvir to visit his home in Assam during the summer vacation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en5_q27",
+      "text": "How many cups of tea are drunk daily throughout the world?",
+      "options": ["10 crore", "50 crore", "Over 80 crore", "100 crore"],
+      "correctIndex": 2,
+      "explanation": "Rajvir shared this impressive fact with Pranjol during their train journey.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en5_q28",
+      "text": "What was Pranjol's father's profession?",
+      "options": ["Teacher", "Doctor", "Manager of a tea garden", "Farmer"],
+      "correctIndex": 2,
+      "explanation": "Pranjol’s father was the manager of Dhekiabari, a tea garden in Upper Assam.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en5_q29",
+      "text": "According to the Chinese legend, why did the emperor always boil water before drinking it?",
+      "options": ["For taste", "For health and hygiene", "It was a tradition", "Accidentally discovered"],
+      "correctIndex": 1,
+      "explanation": "The legend says he boiled water for safety, and one day tea leaves fell into it.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en5_q30",
+      "text": "Who was Bodhidharma?",
+      "options": ["A Chinese emperor", "An ancient Buddhist ascetic", "A tea merchant", "A king"],
+      "correctIndex": 1,
+      "explanation": "Bodhidharma was an Indian legend who discovered tea plants growing from his eyelids.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en5_q31",
+      "text": "Why did Bodhidharma cut off his eyelids?",
+      "options": ["He was angry", "He felt sleepy during meditation", "He was ill", "To grow tea"],
+      "correctIndex": 1,
+      "explanation": "To avoid falling asleep during meditation, he cut off his eyelids.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en5_q32",
+      "text": "The words 'chai' and 'chini' are derived from which language?",
+      "options": ["Hindi", "English", "Chinese", "Bengali"],
+      "correctIndex": 2,
+      "explanation": "These words have their origin in China, where tea was first drunk.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en5_q33",
+      "text": "Tea was first drunk in China as far back as:",
+      "options": ["500 BC", "2700 BC", "1000 AD", "1500 AD"],
+      "correctIndex": 1,
+      "explanation": "History records tea drinking in China since 2700 BC.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en5_q34",
+      "text": "When did tea come to Europe?",
+      "options": ["10th century", "12th century", "16th century", "18th century"],
+      "correctIndex": 2,
+      "explanation": "Tea reached Europe in the 16th century, primarily as a medicine.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en5_q35",
+      "text": "Assam has the largest ______ of tea gardens in the world.",
+      "options": ["Size", "Number", "Concentration", "Variety"],
+      "correctIndex": 2,
+      "explanation": "Assam is famous for having the highest density of tea plantations globally.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en5_q36",
+      "text": "What is the name of the tea estate managed by Pranjol’s father?",
+      "options": ["Assam Tea Co.", "Dhekiabari", "Misty Hills", "Green Valley"],
+      "correctIndex": 1,
+      "explanation": "The train stopped at Mariani junction, from where they drove to Dhekiabari Tea Estate.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en5_q37",
+      "text": "Which 'sprouting period' yields the best tea in Assam?",
+      "options": ["First (March to April)", "Second (May to July)", "Third (August to October)", "Winter flush"],
+      "correctIndex": 1,
+      "explanation": "The second-flush or sprouting period from May to July produces the finest tea.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en5_q38",
+      "text": "How did the tea pluckers look, as described by Rajvir?",
+      "options": ["Like farmers", "Like dolls", "Like soldiers", "Like workers"],
+      "correctIndex": 1,
+      "explanation": "Among the orderly rows of bushes, the tea pluckers moved like dolls.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_en5_q39",
+      "text": "Which town is mentioned as the starting point of Rajvir and Pranjol's train journey?",
+      "options": ["Delhi", "Calcutta", "Mariani", "Jorhat"],
+      "correctIndex": 0,
+      "explanation": "The boys were studying in Delhi and took the train from there to Assam.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_en5_q40",
+      "text": "What is the tone of the chapter 'Glimpses of India'?",
+      "options": ["Critical", "Informative and descriptive", "Humorous", "Tragic"],
+      "correctIndex": 1,
+      "explanation": "The chapter provides a rich, informative account of different regions and cultures of India.",
+      "frequencyRating": 4
+    }
+  ]
+}

@@ -8,42 +8,322 @@
   "questions": [
     {
       "id": "g10_s1_q1",
-      "text": "Why should a magnesium ribbon be cleaned before burning in air?",
-      "options": ["To make it shine", "To remove the protective layer of magnesium oxide", "To decrease its temperature", "To increase its weight"],
-      "correctIndex": 1,
-      "explanation": "Magnesium reacts with oxygen in the air to form a layer of magnesium oxide which prevents further burning; cleaning removes this layer.",
+      "text": "Which of the following is a physical change?",
+      "options": ["Formation of curd from milk", "Burning of wood", "Melting of ice", "Rusting of iron"],
+      "correctIndex": 2,
+      "explanation": "Melting of ice is a physical change because it only changes the state of matter from solid to liquid without forming a new substance.",
       "frequencyRating": 5
     },
     {
       "id": "g10_s1_q2",
-      "text": "A reaction in which a single product is formed from two or more reactants is known as a:",
-      "options": ["Decomposition reaction", "Displacement reaction", "Combination reaction", "Double displacement reaction"],
+      "text": "The chemical formula of Magnesium Oxide is:",
+      "options": ["MgO2", "Mg2O", "MgO", "Mg(OH)2"],
       "correctIndex": 2,
-      "explanation": "In a combination reaction, multiple reactants join to form one single product, like the burning of coal.",
+      "explanation": "Magnesium has a valency of +2 and Oxygen has -2, resulting in the formula MgO.",
       "frequencyRating": 5
     },
     {
       "id": "g10_s1_q3",
-      "text": "What happens when dilute hydrochloric acid is added to iron filings?",
-      "options": ["Hydrogen gas and iron chloride are produced", "Chlorine gas and iron hydroxide are produced", "No reaction takes place", "Iron salt and water are produced"],
-      "correctIndex": 0,
-      "explanation": "Fe + 2HCl -> FeCl2 + H2. This is a displacement reaction where iron displaces hydrogen.",
+      "text": "What is the observation when a magnesium ribbon is burnt in air?",
+      "options": ["Yellow flame", "Dazzling white flame", "Blue flame", "Green flame"],
+      "correctIndex": 1,
+      "explanation": "Magnesium burns with a dazzling white flame and changes into a white powder called magnesium oxide.",
       "frequencyRating": 5
     },
     {
       "id": "g10_s1_q4",
-      "text": "The addition of oxygen to a substance or the removal of hydrogen from a substance is called:",
-      "options": ["Reduction", "Oxidation", "Precipitation", "Corrosion"],
-      "correctIndex": 1,
-      "explanation": "Oxidation involves the gain of oxygen or loss of hydrogen.",
-      "frequencyRating": 4
+      "text": "The law which states that mass can neither be created nor destroyed in a chemical reaction is:",
+      "options": ["Law of Multiple Proportions", "Law of Constant Proportions", "Law of Conservation of Mass", "Law of Definite Proportions"],
+      "correctIndex": 2,
+      "explanation": "According to the Law of Conservation of Mass, the total mass of elements present in the products must be equal to the total mass of elements present in the reactants.",
+      "frequencyRating": 5
     },
     {
       "id": "g10_s1_q5",
-      "text": "The process of black coating on silver and green coating on copper are examples of:",
-      "options": ["Rancidity", "Reduction", "Corrosion", "Oxidation only"],
+      "text": "In a balanced chemical equation, the number of ________ of each element is the same on both sides.",
+      "options": ["Molecules", "Atoms", "Ions", "Compounds"],
+      "correctIndex": 1,
+      "explanation": "Balancing an equation ensures that the number of atoms for every element remains conserved.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q6",
+      "text": "The symbol (aq) used in a chemical equation represents:",
+      "options": ["Acidic solution", "Aqueous solution (substance dissolved in water)", "Solid state", "Gas state"],
+      "correctIndex": 1,
+      "explanation": "The word aqueous (aq) is written if the reactant or product is present as a solution in water.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s1_q7",
+      "text": "Calcium oxide reacts vigorously with water to produce slaked lime. This is an example of:",
+      "options": ["Decomposition reaction", "Combination reaction", "Displacement reaction", "Double displacement reaction"],
+      "correctIndex": 1,
+      "explanation": "In a combination reaction, two or more reactants combine to form a single product.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q8",
+      "text": "The chemical formula of slaked lime is:",
+      "options": ["CaO", "CaCO3", "Ca(OH)2", "CaCl2"],
       "correctIndex": 2,
-      "explanation": "Corrosion occurs when a metal is attacked by substances around it such as moisture and acids.",
+      "explanation": "Slaked lime is Calcium Hydroxide, formed by the reaction of quicklime (CaO) with water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q9",
+      "text": "Substance 'X' is used for white washing. Its solution in water reacts with CO2 to form a shiny layer. 'X' is:",
+      "options": ["Calcium Carbonate", "Calcium Oxide", "Calcium Hydroxide", "Calcium Sulphate"],
+      "correctIndex": 1,
+      "explanation": "Calcium oxide (Quicklime) is used for white washing. It forms slaked lime with water, which then reacts with CO2 to form shiny CaCO3.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q10",
+      "text": "Reactions in which heat is released along with the formation of products are called:",
+      "options": ["Endothermic reactions", "Exothermic reactions", "Photochemical reactions", "Electrolytic reactions"],
+      "correctIndex": 1,
+      "explanation": "Exothermic reactions, like the burning of natural gas or respiration, release energy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q11",
+      "text": "Respiration is considered an ________ process.",
+      "options": ["Endothermic", "Exothermic", "Reduction", "Physical"],
+      "correctIndex": 1,
+      "explanation": "During respiration, glucose combines with oxygen in our cells to provide energy, releasing heat.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q12",
+      "text": "When Ferrous Sulphate crystals are heated, they lose water and the color changes from:",
+      "options": ["Blue to White", "Green to White/Brown", "Red to Blue", "Colorless to Pink"],
+      "correctIndex": 1,
+      "explanation": "Green Ferrous Sulphate crystals (FeSO4.7H2O) lose water of crystallization and decompose into reddish-brown Ferric Oxide.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s1_q13",
+      "text": "The decomposition of vegetable matter into compost is an example of:",
+      "options": ["Endothermic reaction", "Exothermic reaction", "Displacement reaction", "Double displacement reaction"],
+      "correctIndex": 1,
+      "explanation": "Decay and decomposition of organic matter by microbes release heat energy.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s1_q14",
+      "text": "On heating Lead Nitrate, brown fumes are evolved. These fumes are of:",
+      "options": ["Oxygen gas", "Nitrogen dioxide gas", "Lead oxide", "Nitrogen gas"],
+      "correctIndex": 1,
+      "explanation": "Thermal decomposition of lead nitrate produces lead oxide, oxygen, and brown-colored nitrogen dioxide (NO2) gas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q15",
+      "text": "Electrolysis of water is a decomposition reaction. The mole ratio of hydrogen and oxygen gases liberated is:",
+      "options": ["1:1", "2:1", "4:1", "1:2"],
+      "correctIndex": 1,
+      "explanation": "Water (H2O) contains two parts hydrogen and one part oxygen by volume.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q16",
+      "text": "Silver chloride turns grey in sunlight. This is due to:",
+      "options": ["Oxidation of silver chloride", "Decomposition of silver chloride into silver and chlorine", "Sublimation of silver chloride", "Reaction with CO2"],
+      "correctIndex": 1,
+      "explanation": "Photolytic decomposition breaks down AgCl into silver metal (grey) and chlorine gas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q17",
+      "text": "The reactions used in black and white photography are decomposition reactions of:",
+      "options": ["Silver chloride and Silver bromide", "Sodium chloride and Potassium chloride", "Copper sulphate", "Lead nitrate"],
+      "correctIndex": 0,
+      "explanation": "Silver halides decompose in the presence of light, a property utilized in traditional photography.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s1_q18",
+      "text": "Reactions in which energy is absorbed are known as:",
+      "options": ["Exothermic reactions", "Endothermic reactions", "Combination reactions", "Displacement reactions"],
+      "correctIndex": 1,
+      "explanation": "Endothermic reactions require heat, light, or electricity to proceed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q19",
+      "text": "When an iron nail is placed in copper sulphate solution, the blue color of the solution fades because:",
+      "options": ["Iron is less reactive than copper", "Iron displaces copper from the solution", "Copper displaces iron", "It is a double displacement reaction"],
+      "correctIndex": 1,
+      "explanation": "Iron is more reactive than copper and displaces it to form light-green ferrous sulphate.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q20",
+      "text": "Which of the following is a displacement reaction?",
+      "options": ["CaO + H2O -> Ca(OH)2", "Zn + CuSO4 -> ZnSO4 + Cu", "2Pb(NO3)2 -> 2PbO + 4NO2 + O2", "NaOH + HCl -> NaCl + H2O"],
+      "correctIndex": 1,
+      "explanation": "Zinc is more reactive than copper and replaces it in the sulphate salt.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q21",
+      "text": "The reaction Na2SO4(aq) + BaCl2(aq) -> BaSO4(s) + 2NaCl(aq) is an example of:",
+      "options": ["Combination", "Decomposition", "Double displacement", "Displacement"],
+      "correctIndex": 2,
+      "explanation": "There is an exchange of ions between the reactants to form new compounds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q22",
+      "text": "Any reaction that produces a precipitate (insoluble solid) can be called a:",
+      "options": ["Reduction reaction", "Precipitation reaction", "Oxidation reaction", "Exothermic reaction"],
+      "correctIndex": 1,
+      "explanation": "A precipitate is an insoluble substance that settles down in a liquid solution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q23",
+      "text": "Addition of oxygen to a substance is called:",
+      "options": ["Reduction", "Oxidation", "Corrosion", "Rancidity"],
+      "correctIndex": 1,
+      "explanation": "Oxidation involves the gain of oxygen or loss of hydrogen.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q24",
+      "text": "Removal of oxygen from a substance is called:",
+      "options": ["Oxidation", "Reduction", "Displacement", "Neutralization"],
+      "correctIndex": 1,
+      "explanation": "Reduction involves the loss of oxygen or gain of hydrogen.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q25",
+      "text": "In the reaction CuO + H2 -> Cu + H2O, which substance is being reduced?",
+      "options": ["H2", "CuO", "Cu", "H2O"],
+      "correctIndex": 1,
+      "explanation": "Copper oxide (CuO) loses oxygen to become copper (Cu), so it is reduced.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q26",
+      "text": "A reaction in which one reactant gets oxidized while the other gets reduced is called a:",
+      "options": ["Redox reaction", "Combination reaction", "Decomposition reaction", "Displacement reaction"],
+      "correctIndex": 0,
+      "explanation": "Redox stands for Reduction-Oxidation occurring simultaneously.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q27",
+      "text": "The process of slow eating up of metals by the action of air and moisture is:",
+      "options": ["Rancidity", "Corrosion", "Oxidation", "Hydrogenation"],
+      "correctIndex": 1,
+      "explanation": "Corrosion causes damage to car bodies, bridges, iron railings, and ships.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q28",
+      "text": "The black coating on silver and the green coating on copper are examples of:",
+      "options": ["Oxidation", "Corrosion", "Reduction", "Rancidity"],
+      "correctIndex": 1,
+      "explanation": "Silver reacts with sulphur in the air, and copper reacts with moist carbon dioxide, leading to corrosion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q29",
+      "text": "When fats and oils are oxidized, they become ________ and their smell and taste change.",
+      "options": ["Corroded", "Rancid", "Reduced", "Hydrated"],
+      "correctIndex": 1,
+      "explanation": "Rancidity is the oxidation of fats and oils which makes food unpleasant to eat.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q30",
+      "text": "To prevent rancidity, chips manufacturers flush bags of chips with which gas?",
+      "options": ["Oxygen", "Hydrogen", "Nitrogen", "Chlorine"],
+      "correctIndex": 2,
+      "explanation": "Nitrogen is an unreactive gas that prevents the chips from being oxidized.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q31",
+      "text": "Which of the following is an antioxidant often added to foods containing fats and oils?",
+      "options": ["Nitrogen", "Oxygen", "BHA/BHT", "Vinegar"],
+      "correctIndex": 2,
+      "explanation": "Antioxidants are substances which prevent oxidation of food items.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s1_q32",
+      "text": "The formula of rust is:",
+      "options": ["FeO", "Fe2O3", "Fe2O3.xH2O", "Fe3O4"],
+      "correctIndex": 2,
+      "explanation": "Rust is hydrated ferric oxide formed by the reaction of iron with oxygen and moisture.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s1_q33",
+      "text": "Methane + Oxygen -> CO2 + H2O. This reaction is also called:",
+      "options": ["Combustion", "Combination", "Displacement", "Reduction"],
+      "correctIndex": 0,
+      "explanation": "Combustion is an exothermic chemical reaction where a substance reacts rapidly with oxygen and gives off heat.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s1_q34",
+      "text": "Heating of limestone (CaCO3) gives:",
+      "options": ["CaO + CO2", "Ca + C + O2", "CaO + CO", "Ca(OH)2"],
+      "correctIndex": 0,
+      "explanation": "Limestone undergoes thermal decomposition to produce quicklime (CaO) and carbon dioxide.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q35",
+      "text": "The reaction of an acid and a base to form salt and water is:",
+      "options": ["Precipitation", "Neutralization", "Oxidation", "Reduction"],
+      "correctIndex": 1,
+      "explanation": "Neutralization is a specific type of double displacement reaction.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s1_q36",
+      "text": "In the reaction ZnO + C -> Zn + CO, which substance acts as a reducing agent?",
+      "options": ["ZnO", "C", "Zn", "CO"],
+      "correctIndex": 1,
+      "explanation": "Carbon (C) removes oxygen from Zinc Oxide, thus acting as a reducing agent.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s1_q37",
+      "text": "When copper powder is heated in a china dish, it becomes coated with black copper(II) oxide. This is due to:",
+      "options": ["Reduction of copper", "Oxidation of copper", "Hydrogenation of copper", "Displacement"],
+      "correctIndex": 1,
+      "explanation": "Copper reacts with oxygen in the air on heating to form black-colored CuO.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s1_q38",
+      "text": "What is the formula of Marble?",
+      "options": ["CaO", "Ca(OH)2", "CaCO3", "CaSO4"],
+      "correctIndex": 2,
+      "explanation": "Calcium carbonate is the chemical name for marble, limestone, and chalk.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s1_q39",
+      "text": "A complete chemical equation represents:",
+      "options": ["Reactants only", "Products only", "Reactants, products and their symbolic states", "Color of substances"],
+      "correctIndex": 2,
+      "explanation": "It provides a concise and standard way to describe a chemical reaction.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s1_q40",
+      "text": "The electrolytic decomposition of water is carried out by passing:",
+      "options": ["Heat", "Light", "Electric current", "Sound"],
+      "correctIndex": 2,
+      "explanation": "Electrical energy is used to break the chemical bonds in water molecules.",
       "frequencyRating": 5
     }
   ]

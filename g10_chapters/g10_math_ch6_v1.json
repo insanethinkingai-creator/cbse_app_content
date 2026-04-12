@@ -130,7 +130,7 @@
       "id": "g10_m6_q16",
       "text": "In ΔABC, D and E are points on AB and AC respectively such that DE || BC. If AD/DB = 2/3 and AE = 6 cm, then AC is:",
       "options": ["9 cm", "10 cm", "12 cm", "15 cm"],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "By BPT, AD/DB = AE/EC. So, 2/3 = 6/EC => EC = 9 cm. AC = AE + EC = 6 + 9 = 15 cm. (Wait, 15 cm is option 3. So correct index 3).",
       "frequencyRating": 4
     },

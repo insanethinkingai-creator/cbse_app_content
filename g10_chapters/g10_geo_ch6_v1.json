@@ -1,0 +1,330 @@
+{
+  "id": "g10_geo_ch6",
+  "grade": "10",
+  "subject": "Social Science",
+  "number": "6",
+  "title": "Manufacturing Industries",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_g6_q1",
+      "text": "Production of goods in large quantities after processing from raw materials to more valuable products is called:",
+      "options": ["Agriculture", "Manufacturing", "Trade", "Mining"],
+      "correctIndex": 1,
+      "explanation": "Manufacturing is the process of converting raw materials into finished goods on a large scale.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g6_q2",
+      "text": "Manufacturing sector is considered the backbone of development because:",
+      "options": ["It reduces dependence on agriculture", "It creates jobs in secondary and tertiary sectors", "It brings in foreign exchange through exports", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Manufacturing modernizes agriculture and is the main source of employment and economic strength.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g6_q3",
+      "text": "The contribution of the manufacturing sector to India's GDP has stagnated around ______ percent over the last two decades.",
+      "options": ["10%", "17%", "25%", "35%"],
+      "correctIndex": 1,
+      "explanation": "Out of a total of 27% for industry, manufacturing accounts for 17%, which is lower than some East Asian economies.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g6_q4",
+      "text": "What does NMCC stand for in the context of Indian industry?",
+      "options": ["National Manufacturing Competitiveness Council", "National Mineral Conservation Council", "National Marine Cargo Corporation", "New Manufacturing Carbon Commission"],
+      "correctIndex": 0,
+      "explanation": "NMCC was set up with the objective of improving the productivity and growth of the manufacturing sector.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g6_q5",
+      "text": "Which of the following factors does NOT influence the location of an industry?",
+      "options": ["Availability of raw material", "Availability of labor", "Religion of the region", "Proximity to market"],
+      "correctIndex": 2,
+      "explanation": "Industrial location is determined by economic factors like land, labor, capital, power, and market.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g6_q6",
+      "text": "Many industries tend to come together to make use of the advantages offered by the urban centers known as:",
+      "options": ["Industrial Estates", "Agglomeration economies", "Urban sprawl", "Commercial hubs"],
+      "correctIndex": 1,
+      "explanation": "Agglomeration economies occur when businesses benefit from being located near one another in a city.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g6_q7",
+      "text": "Industries that use agricultural raw materials like cotton, wool, and jute are classified as:",
+      "options": ["Mineral-based", "Agro-based", "Forest-based", "Consumer-based"],
+      "correctIndex": 1,
+      "explanation": "Agro-based industries derive their primary raw materials from agricultural products.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g6_q8",
+      "text": "Basic or Key industries are those which:",
+      "options": ["Produce goods for direct consumer use", "Supply their products as raw materials to other industries", "Use only local resources", "Are owned by the government"],
+      "correctIndex": 1,
+      "explanation": "Iron and steel is a basic industry because its products are used by almost all other industries.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g6_q9",
+      "text": "A small-scale industry is defined with reference to the maximum investment allowed on the ________ of a unit.",
+      "options": ["Land", "Labor", "Assets (Plant and Machinery)", "Marketing"],
+      "correctIndex": 2,
+      "explanation": "Small-scale industry classification is based on the capital investment limit, which has changed over time.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g6_q10",
+      "text": "Industries owned and operated by government agencies like BHEL or SAIL are called:",
+      "options": ["Private sector", "Public sector", "Joint sector", "Cooperative sector"],
+      "correctIndex": 1,
+      "explanation": "Public sector industries are owned and managed by the state or central government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g6_q11",
+      "text": "Which type of industry is owned and operated by a group of people who are the producers of raw materials?",
+      "options": ["Joint sector", "Private sector", "Cooperative sector", "Public sector"],
+      "correctIndex": 2,
+      "explanation": "The sugar industry in Maharashtra and the coir industry in Kerala are examples of the cooperative sector.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g6_q12",
+      "text": "The first successful textile mill was established in ______ in 1854.",
+      "options": ["Ahmedabad", "Mumbai", "Kolkata", "Surat"],
+      "correctIndex": 1,
+      "explanation": "Mumbai provided a port for export, availability of raw cotton, and a humid climate suitable for the mill.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g6_q13",
+      "text": "India exports yarn to which of the following countries?",
+      "options": ["Japan", "USA", "UK", "All of the above"],
+      "correctIndex": 0,
+      "explanation": "Japan is a major importer of Indian cotton yarn, though India also exports to many other nations.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_g6_q14",
+      "text": "India is the largest producer of raw jute and jute goods and stands at second place as an exporter after ______.",
+      "options": ["China", "Bangladesh", "Brazil", "Egypt"],
+      "correctIndex": 1,
+      "explanation": "Bangladesh is India's main competitor in the global jute market.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g6_q15",
+      "text": "Most of the jute mills in India are located along the banks of which river?",
+      "options": ["Ganga", "Hugli", "Yamuna", "Brahmaputra"],
+      "correctIndex": 1,
+      "explanation": "The Hugli basin in West Bengal provides water, cheap transport, and proximity to jute-growing areas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g6_q16",
+      "text": "India stands second as a world producer of sugar but occupies the first place in the production of:",
+      "options": ["Refined sugar", "Molasses", "Gur and khandsari", "Sugarcane juice"],
+      "correctIndex": 2,
+      "explanation": "India is the world leader in traditional forms of sugar production.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g6_q17",
+      "text": "Why is the sugar industry shifting from North India to South and West India?",
+      "options": ["Cane has higher sucrose content", "Cooler climate allows longer crushing season", "Cooperatives are more successful", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Southern and Western states like Maharashtra have better climatic and organizational conditions for sugar production.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g6_q18",
+      "text": "Iron and steel industry is called a 'Basic Industry' because:",
+      "options": ["It is simple to operate", "All other industries depend on it for machinery", "It uses only iron as raw material", "It is the oldest industry"],
+      "correctIndex": 1,
+      "explanation": "Steel is needed for engineering goods, construction material, defense, and medical equipment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g6_q19",
+      "text": "What is the correct ratio of Iron ore, Coking coal, and Limestone required to manufacture steel?",
+      "options": ["2:1:4", "4:2:1", "1:2:4", "4:1:2"],
+      "correctIndex": 1,
+      "explanation": "4 tons of iron ore, 2 tons of coking coal, and 1 ton of limestone are roughly needed to produce steel.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g6_q20",
+      "text": "Which region in India has the maximum concentration of iron and steel industries?",
+      "options": ["Deccan Plateau", "Chhotanagpur Plateau", "Malwa Plateau", "Northern Plains"],
+      "correctIndex": 1,
+      "explanation": "The Chhotanagpur region has low-cost iron ore, high-grade raw materials, and cheap labor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g6_q21",
+      "text": "______ is the second most important metallurgical industry in India.",
+      "options": ["Copper smelting", "Aluminum smelting", "Zinc smelting", "Iron and Steel"],
+      "correctIndex": 1,
+      "explanation": "Aluminum is popular because it is light, corrosion-resistant, and a good conductor of heat.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g6_q22",
+      "text": "Which mineral is used as the raw material in aluminum smelters?",
+      "options": ["Iron ore", "Manganese", "Bauxite", "Mica"],
+      "correctIndex": 2,
+      "explanation": "Bauxite is a very bulky, dark reddish-colored rock used to extract alumina.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g6_q23",
+      "text": "The chemical industry in India contributes approximately ______ percent of the GDP.",
+      "options": ["1%", "3%", "7%", "10%"],
+      "correctIndex": 1,
+      "explanation": "The chemical industry is large and diverse, comprising both organic and inorganic sectors.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_g6_q24",
+      "text": "The fertilizer industry is centered around the production of:",
+      "options": ["Nitrogenous fertilizers", "Phosphate fertilizers", "Complex fertilizers (NPK)", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "India is the third-largest producer of nitrogenous fertilizers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g6_q25",
+      "text": "Which industry requires bulky raw materials like limestone, silica, and gypsum?",
+      "options": ["Chemical", "Cement", "Glass", "Automobile"],
+      "correctIndex": 1,
+      "explanation": "Cement is essential for construction activity; the first plant was set up in Chennai in 1904.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g6_q26",
+      "text": "Which city is known as the 'Electronic Capital' of India?",
+      "options": ["Hyderabad", "Pune", "Bengaluru", "Noida"],
+      "correctIndex": 2,
+      "explanation": "Bengaluru is the hub for India's booming IT and electronics industry.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g6_q27",
+      "text": "Which of the following is an effect of industrial air pollution?",
+      "options": ["Acid rain", "Greenhouse effect", "Respiratory problems", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "High proportions of undesirable gases like sulphur dioxide and carbon monoxide cause severe environmental and health issues.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g6_q28",
+      "text": "Water pollution by industries is primarily caused by:",
+      "options": ["Usage of water for cooling", "Organic and inorganic industrial wastes discharged into rivers", "Rainwater runoff", "Hydroelectric power plants"],
+      "correctIndex": 1,
+      "explanation": "Paper, chemical, and textile industries are major culprits in discharging untreated effluents.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g6_q29",
+      "text": "Thermal pollution occurs when:",
+      "options": ["Air is heated by chimneys", "Hot water from factories is drained into rivers before cooling", "Solar panels reflect too much heat", "Volcanoes erupt near factories"],
+      "correctIndex": 1,
+      "explanation": "Thermal pollution harms aquatic life by suddenly changing the water temperature.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g6_q30",
+      "text": "How many liters of fresh water can be polluted by one liter of industrial waste?",
+      "options": ["Two liters", "Four liters", "Eight liters", "Ten liters"],
+      "correctIndex": 2,
+      "explanation": "Industrial effluents have a massive impact on fresh water resources.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g6_q31",
+      "text": "Which of the following is a method to conserve water in industries?",
+      "options": ["Rainwater harvesting", "Recycling and reusing water", "Treating hot water before discharge", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Industries can reduce their environmental footprint by adopting efficient water management practices.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g6_q32",
+      "text": "Primary treatment of industrial effluents involves:",
+      "options": ["Biological processes", "Mechanical processes (screening, grinding, sedimentation)", "Chemical processes", "Recycling"],
+      "correctIndex": 1,
+      "explanation": "Primary treatment is the first stage which physically removes solids from wastewater.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g6_q33",
+      "text": "Secondary treatment of industrial effluents is primarily ______ in nature.",
+      "options": ["Physical", "Biological", "Chemical", "Thermal"],
+      "correctIndex": 1,
+      "explanation": "Secondary treatment uses microbes to break down organic matter in the waste.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g6_q34",
+      "text": "NTPC is a major power providing corporation in India which has ISO certification for:",
+      "options": ["Quality Management", "Safety Management", "Environmental Management System (EMS)", "Carbon Credits"],
+      "correctIndex": 2,
+      "explanation": "NTPC follows a proactive approach for preserving the natural environment and resources.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_g6_q35",
+      "text": "Air pollution can be reduced by using ______ instead of coal in factories.",
+      "options": ["Wood", "Oil or Gas", "Plastic waste", "Kerosene"],
+      "correctIndex": 1,
+      "explanation": "Oil and gas produce fewer particulate emissions compared to coal.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g6_q36",
+      "text": "The software technology parks of India provide ______ to software experts.",
+      "options": ["Single window service and high speed data communication", "Free housing", "Tax-free income for life", "Government jobs"],
+      "correctIndex": 0,
+      "explanation": "Software parks act as hubs that support the growth of the IT industry.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g6_q37",
+      "text": "Which of the following is an inorganic chemical?",
+      "options": ["Petrochemicals", "Sulphuric acid", "Synthetic fibers", "Drugs"],
+      "correctIndex": 1,
+      "explanation": "Inorganic chemicals include sulphuric acid, nitric acid, alkalies, and soda ash.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_g6_q38",
+      "text": "The fertilizer industry has expanded significantly after the:",
+      "options": ["Industrial Revolution", "Green Revolution", "White Revolution", "IT Revolution"],
+      "correctIndex": 1,
+      "explanation": "The Green Revolution increased the demand for nitrogenous and complex fertilizers to improve crop yields.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g6_q39",
+      "text": "Noise pollution can cause:",
+      "options": ["Hearing impairment", "Increased heart rate", "Blood pressure issues", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Industrial and construction activities contribute significantly to high noise levels, affecting health.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_g6_q40",
+      "text": "Particulate matter in the air can be reduced by fitting ______ to factory stacks.",
+      "options": ["Electrostatic precipitators", "Fabric filters", "Scrubbers", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "These devices trap smoke and dust particles before they are released into the atmosphere.",
+      "frequencyRating": 5
+    }
+  ]
+}

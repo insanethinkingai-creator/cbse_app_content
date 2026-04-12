@@ -1,0 +1,330 @@
+{
+  "id": "g10_geo_ch7",
+  "grade": "10",
+  "subject": "Social Science",
+  "number": "7",
+  "title": "Lifelines of National Economy",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_g7_q1",
+      "text": "Which of the following are considered the 'lifelines' of a national economy?",
+      "options": ["Agriculture and Industry", "Transport and Communication", "Banking and Insurance", "Education and Health"],
+      "correctIndex": 1,
+      "explanation": "Transport and communication are called lifelines because they facilitate the movement of goods, services, and information, integrating the economy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g7_q2",
+      "text": "The Golden Quadrilateral Super Highways project is implemented by which organization?",
+      "options": ["BRO", "CPWD", "NHAI", "PWD"],
+      "correctIndex": 2,
+      "explanation": "The National Highways Authority of India (NHAI) is responsible for the implementation and maintenance of the Golden Quadrilateral project.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g7_q3",
+      "text": "Which cities are connected by the Golden Quadrilateral?",
+      "options": ["Delhi-Mumbai-Chennai-Kolkata", "Delhi-Jaipur-Mumbai-Pune", "Kolkata-Chennai-Bangalore-Mumbai", "Delhi-Nagpur-Chennai-Kolkata"],
+      "correctIndex": 0,
+      "explanation": "The Golden Quadrilateral connects the four major metro cities of India: Delhi, Mumbai, Chennai, and Kolkata.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g7_q4",
+      "text": "The North-South Corridor connects which two extreme points of India?",
+      "options": ["Delhi and Chennai", "Srinagar and Kanyakumari", "Pathankot and Thiruvananthapuram", "Amritsar and Madurai"],
+      "correctIndex": 1,
+      "explanation": "The North-South corridor links Srinagar in Jammu & Kashmir with Kanyakumari in Tamil Nadu.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g7_q5",
+      "text": "The East-West Corridor connects which two cities?",
+      "options": ["Ahmedabad and Guwahati", "Mumbai and Kolkata", "Silchar and Porbandar", "Itanagar and Jamnagar"],
+      "correctIndex": 2,
+      "explanation": "The East-West corridor connects Silchar in Assam and Porbandar in Gujarat.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g7_q6",
+      "text": "National Highways are primary road systems maintained by which authority?",
+      "options": ["NHAI", "CPWD", "State PWD", "Border Roads Organisation"],
+      "correctIndex": 1,
+      "explanation": "The Central Public Works Department (CPWD) is responsible for the construction and maintenance of National Highways.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g7_q7",
+      "text": "Which historic road is known as Sher Shah Suri Marg?",
+      "options": ["National Highway No. 1", "National Highway No. 7", "National Highway No. 8", "Golden Quadrilateral"],
+      "correctIndex": 0,
+      "explanation": "National Highway No. 1, connecting Delhi and Amritsar, is historically known as Sher Shah Suri Marg.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g7_q8",
+      "text": "The organization responsible for constructing and maintaining roads in the bordering areas of the country is:",
+      "options": ["NHAI", "CPWD", "Border Roads Organisation (BRO)", "Indian Army"],
+      "correctIndex": 2,
+      "explanation": "BRO was established in 1960 for the development of roads of strategic importance in the northern and north-eastern border areas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g7_q9",
+      "text": "Roads built under the Pradhan Mantri Grameen Sadak Yojana connect:",
+      "options": ["State capitals", "District headquarters", "Villages with towns", "Industrial hubs"],
+      "correctIndex": 2,
+      "explanation": "This scheme provides special impetus to link every village in the country to a major town by an all-weather motorable road.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g7_q10",
+      "text": "Which of the following is NOT an advantage of road transport over rail transport?",
+      "options": ["Lower construction cost", "Door-to-door service", "Economical for long distances with heavy goods", "Feeder to other modes of transport"],
+      "correctIndex": 2,
+      "explanation": "Railways are more economical and efficient for transporting heavy goods over very long distances compared to roads.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g7_q11",
+      "text": "The first train in India steamed off in 1853 between which two stations?",
+      "options": ["Mumbai to Thane", "Howrah to Hooghly", "Chennai to Arkonam", "Delhi to Meerut"],
+      "correctIndex": 0,
+      "explanation": "The first railway line in India was opened between Mumbai and Thane, covering a distance of 34 km.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g7_q12",
+      "text": "Which geographical factor significantly influenced the dense rail network in the Northern Plains?",
+      "options": ["Rugged topography", "Vast level land and high population density", "Presence of dense forests", "Desert terrain"],
+      "correctIndex": 1,
+      "explanation": "The level land, high population, and rich agricultural resources provided the most favorable conditions for railway growth in the North.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g7_q13",
+      "text": "The development of the Konkan railway has facilitated the movement of passengers and goods along the:",
+      "options": ["East Coast", "West Coast", "Northern Borders", "Southern Peninsula"],
+      "correctIndex": 1,
+      "explanation": "The Konkan railway runs along the western coast of India, connecting major ports and cities through a difficult terrain.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g7_q14",
+      "text": "Which mode of transport is the most convenient for carrying liquids and gases over long distances?",
+      "options": ["Roadways", "Railways", "Pipelines", "Waterways"],
+      "correctIndex": 2,
+      "explanation": "Pipelines reduce trans-shipment losses and delays, making them ideal for oil, gas, and slurry.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g7_q15",
+      "text": "Which is the cheapest mode of transport for bulky and heavy goods?",
+      "options": ["Roadways", "Airways", "Waterways", "Railways"],
+      "correctIndex": 2,
+      "explanation": "Waterways are the most fuel-efficient and environment-friendly mode of transport for heavy cargo.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g7_q16",
+      "text": "The National Waterway No. 1 is between:",
+      "options": ["Sadiya and Dhubri", "Allahabad and Haldia", "Kottapuram and Komman", "Talcher and Dhamra"],
+      "correctIndex": 1,
+      "explanation": "NW1 is on the Ganga river between Allahabad and Haldia (1620 km).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g7_q17",
+      "text": "Which is the premier iron ore exporting port of India?",
+      "options": ["Mumbai", "Marmagao", "Kochi", "Vishakhapatnam"],
+      "correctIndex": 1,
+      "explanation": "Marmagao port in Goa accounts for about fifty percent of India's iron ore export.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g7_q18",
+      "text": "Which port was the first developed soon after independence to ease the volume of trade on Mumbai port?",
+      "options": ["Kandla", "Haldia", "Paradip", "Tuticorin"],
+      "correctIndex": 0,
+      "explanation": "Kandla (now Deendayal Port) in Kuchchh was the first port developed after independence following the loss of Karachi port to Pakistan.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g7_q19",
+      "text": "Which is the deepest landlocked and well-protected port on the east coast?",
+      "options": ["Chennai", "Paradip", "Vishakhapatnam", "Kolkata"],
+      "correctIndex": 2,
+      "explanation": "Vishakhapatnam is a landlocked port, originally conceived as an outlet for iron ore exports.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g7_q20",
+      "text": "Which of the following is an inland riverine port?",
+      "options": ["Kandla", "Mumbai", "Kolkata", "Chennai"],
+      "correctIndex": 2,
+      "explanation": "Kolkata is a riverine port situated on the Hugli river, serving a very large and rich hinterland.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g7_q21",
+      "text": "Air transport was nationalized in the year:",
+      "options": ["1947", "1950", "1953", "1960"],
+      "correctIndex": 2,
+      "explanation": "The Indian government nationalized air transport in 1953 to provide better connectivity across the country.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g7_q22",
+      "text": "Pawan Hans Helicopters Ltd. provides services to:",
+      "options": ["Urban commuters", "ONGC in its off-shore operations", "International tourists", "Indian Railways"],
+      "correctIndex": 1,
+      "explanation": "Pawan Hans provides helicopter services to the Oil and Natural Gas Corporation and to inaccessible areas like the North East.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g7_q23",
+      "text": "Which of the following belongs to the 'First Class Mail' category in Indian postal network?",
+      "options": ["Registered Newspapers", "Periodicals", "Cards and Envelopes", "Book packets"],
+      "correctIndex": 2,
+      "explanation": "Cards and envelopes are airlifted between stations and considered first-class mail.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g7_q24",
+      "text": "To facilitate quick delivery of mails in large towns and cities, how many mail channels have been introduced?",
+      "options": ["Two", "Four", "Six", "Eight"],
+      "correctIndex": 2,
+      "explanation": "The six channels are Rajdhani Channel, Metro Channel, Green Channel, Business Channel, Bulk Mail Channel, and Periodical Channel.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g7_q25",
+      "text": "The difference between the total value of exports and imports of a country is called its:",
+      "options": ["Trade surplus", "Trade deficit", "Balance of trade", "National income"],
+      "correctIndex": 2,
+      "explanation": "Balance of trade is favorable when exports exceed imports and unfavorable when imports exceed exports.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g7_q26",
+      "text": "When the value of exports exceeds the value of imports, it is called:",
+      "options": ["Favorable balance of trade", "Unfavorable balance of trade", "Zero trade", "Balanced trade"],
+      "correctIndex": 0,
+      "explanation": "A favorable balance indicates that the country is earning more from foreign trade than it is spending.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g7_q27",
+      "text": "India has the largest ________ network in the world.",
+      "options": ["Railway", "Road", "Telecom", "Postal"],
+      "correctIndex": 3,
+      "explanation": "The Indian postal network is the largest in the world, handling both personal and business communication.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g7_q28",
+      "text": "Digital India is an umbrella programme to prepare India for a:",
+      "options": ["Greener future", "Knowledge based transformation", "Agricultural revolution", "Industrial dominance"],
+      "correctIndex": 1,
+      "explanation": "Digital India aims to transform the entire ecosystem of public services through the use of information technology.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g7_q29",
+      "text": "Which of the following is a means of mass communication?",
+      "options": ["Letters", "Telephone", "Radio and Television", "E-mail"],
+      "correctIndex": 2,
+      "explanation": "Mass communication provides entertainment and creates awareness among people about various national programmes and policies.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g7_q30",
+      "text": "Which of the following is the oldest artificial port of India?",
+      "options": ["Mumbai", "Chennai", "Kolkata", "Vishakhapatnam"],
+      "correctIndex": 1,
+      "explanation": "Chennai is one of the oldest artificial ports, ranked next to Mumbai in terms of volume of trade and cargo.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g7_q31",
+      "text": "What is the importance of tourism as a trade in India?",
+      "options": ["It promotes national integration", "It provides support to local handicrafts", "It helps in development of international understanding", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Tourism is a significant industry in India, contributing to economic growth and cultural exchange.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g7_q32",
+      "text": "The length of road per 100 sq. km of area is known as:",
+      "options": ["Road density", "Road network", "Road capacity", "Road width"],
+      "correctIndex": 0,
+      "explanation": "Road density varies across India, from very low in Jammu & Kashmir to very high in Kerala.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g7_q33",
+      "text": "In the tribal areas of North-East India, which mode of transport is most preferred?",
+      "options": ["Railways", "Airways", "Roadways", "Pipelines"],
+      "correctIndex": 1,
+      "explanation": "Due to dissected relief and dense forests, air travel (helicopters) is the most efficient way to travel in these areas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g7_q34",
+      "text": "The major objective of the Super Highways is to reduce ______ between the mega cities of India.",
+      "options": ["Distance", "Time", "Both distance and time", "Fuel consumption"],
+      "correctIndex": 2,
+      "explanation": "Super Highways are designed for high-speed travel to save time and reduce travel distance.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g7_q35",
+      "text": "Which of the following is a major challenge for Indian Railways?",
+      "options": ["Thefts and damaging of railway property", "Pulling of chains unnecessarily", "Travelling without tickets", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Despite being the main artery of transport, railways face several human-induced problems.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_g7_q36",
+      "text": "How many major ports does India have along its long coastline?",
+      "options": ["10", "12", "15", "20"],
+      "correctIndex": 1,
+      "explanation": "India has 12 major and 200 notified non-majors (minor/intermediate) ports.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g7_q37",
+      "text": "Which of the following ports is an outlet for the export of iron ore concentrates from Kudremukh mines?",
+      "options": ["New Mangalore Port", "Kochi Port", "Mumbai Port", "Marmagao Port"],
+      "correctIndex": 0,
+      "explanation": "New Mangalore port in Karnataka caters to the export of iron ore from the Kudremukh mines.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g7_q38",
+      "text": "STD stands for:",
+      "options": ["Standard Telephone Dialling", "Subscriber Trunk Dialling", "Sub-urban Trunk Dialling", "State Telephone Directory"],
+      "correctIndex": 1,
+      "explanation": "India has one of the largest telecom networks in Asia, with widespread STD facility.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g7_q39",
+      "text": "Which of the following is considered a 'Second Class Mail' in India?",
+      "options": ["Inland letters", "Periodicals and Newspapers", "Postcards", "Stamped Envelopes"],
+      "correctIndex": 1,
+      "explanation": "Second-class mail is carried by surface mail, covering land and water transport.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g7_q40",
+      "text": "The primary goal of developing the North-South and East-West corridors is to:",
+      "options": ["Link agricultural centers", "Connect industrial hubs", "Facilitate movement between extremes of the country", "Provide connectivity to ports"],
+      "correctIndex": 2,
+      "explanation": "These corridors are part of the Super Highway project to integrate the entire country geographically.",
+      "frequencyRating": 5
+    }
+  ]
+}

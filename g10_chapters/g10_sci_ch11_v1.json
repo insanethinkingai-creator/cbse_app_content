@@ -1,0 +1,330 @@
+{
+  "id": "g10_sci_ch11",
+  "grade": "10",
+  "subject": "Science",
+  "number": "11",
+  "title": "Electricity",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_s11_q1",
+      "text": "The SI unit of electric charge is:",
+      "options": ["Ampere", "Volt", "Coulomb", "Ohm"],
+      "correctIndex": 2,
+      "explanation": "Coulomb (C) is the SI unit of charge. One coulomb is equivalent to the charge contained in nearly 6 x 10¹⁸ electrons.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s11_q2",
+      "text": "The rate of flow of electric charges is known as:",
+      "options": ["Electric Potential", "Electric Current", "Resistance", "Conductance"],
+      "correctIndex": 1,
+      "explanation": "Electric current is defined as the amount of charge flowing through a particular area in unit time (I = Q/t).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s11_q3",
+      "text": "An instrument used to measure electric current in a circuit is called:",
+      "options": ["Voltmeter", "Ammeter", "Galvanometer", "Rheostat"],
+      "correctIndex": 1,
+      "explanation": "An ammeter measures electric current and is always connected in series in a circuit.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s11_q4",
+      "text": "The work done to move a unit charge from one point to another is called:",
+      "options": ["Electric Current", "Potential Difference", "Resistance", "Power"],
+      "correctIndex": 1,
+      "explanation": "Potential difference (V) between two points is V = W/Q, where W is work done and Q is charge.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s11_q5",
+      "text": "One volt is equivalent to:",
+      "options": ["1 Joule / 1 Coulomb", "1 Newton / 1 Coulomb", "1 Joule / 1 Ampere", "1 Watt / 1 Coulomb"],
+      "correctIndex": 0,
+      "explanation": "1 Volt is the potential difference when 1 Joule of work is done to move a charge of 1 Coulomb.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s11_q6",
+      "text": "According to Ohm's law, if the temperature remains constant, the current (I) is:",
+      "options": ["Inversely proportional to voltage", "Directly proportional to voltage", "Independent of voltage", "Square of the voltage"],
+      "correctIndex": 1,
+      "explanation": "Ohm's law states that V ∝ I, or V = IR, where R is a constant called resistance.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s11_q7",
+      "text": "The SI unit of resistance is:",
+      "options": ["Volt", "Ampere", "Ohm", "Ohm-meter"],
+      "correctIndex": 2,
+      "explanation": "Resistance is measured in Ohms (Ω). 1 Ω = 1V / 1A.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s11_q8",
+      "text": "Which of the following factors does NOT affect the resistance of a conductor?",
+      "options": ["Length of conductor", "Area of cross-section", "Nature of material", "Volume of conductor"],
+      "correctIndex": 3,
+      "explanation": "Resistance depends on length, area of cross-section, and the nature of the material (resistivity).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s11_q9",
+      "text": "The resistance of a conductor is ________ to its length.",
+      "options": ["Directly proportional", "Inversely proportional", "Equal", "Independent"],
+      "correctIndex": 0,
+      "explanation": "As the length of a wire increases, the resistance increases linearly (R ∝ l).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s11_q10",
+      "text": "The resistance of a conductor is ________ to its area of cross-section.",
+      "options": ["Directly proportional", "Inversely proportional", "Equal", "Independent"],
+      "correctIndex": 1,
+      "explanation": "A thicker wire has less resistance than a thinner wire of the same material and length (R ∝ 1/A).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s11_q11",
+      "text": "The SI unit of resistivity is:",
+      "options": ["Ohm", "Ohm/meter", "Ohm-meter", "Ohm-meter²"],
+      "correctIndex": 2,
+      "explanation": "Resistivity (ρ) is a characteristic property of the material. Its unit is Ωm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s11_q12",
+      "text": "Alloys are commonly used in electrical heating devices because:",
+      "options": ["They have low resistivity", "They do not oxidise readily at high temperatures", "They are very cheap", "They have low melting points"],
+      "correctIndex": 1,
+      "explanation": "Alloys like Nichrome have higher resistivity than pure metals and do not burn (oxidise) even at high temperatures.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s11_q13",
+      "text": "When resistors are connected in series, the ________ remains the same through each resistor.",
+      "options": ["Voltage", "Current", "Resistance", "Power"],
+      "correctIndex": 1,
+      "explanation": "In a series circuit, there is only one path for the flow of charge, so the current is identical in all parts.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s11_q14",
+      "text": "In a parallel circuit, the ________ is the same across all resistors.",
+      "options": ["Current", "Potential Difference", "Charge", "Resistance"],
+      "correctIndex": 1,
+      "explanation": "All components in a parallel circuit are connected across the same two points, ensuring the same voltage.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s11_q15",
+      "text": "The equivalent resistance of two resistors R₁ and R₂ connected in parallel is:",
+      "options": ["R₁ + R₂", "R₁R₂ / (R₁ + R₂)", "(R₁ + R₂) / R₁R₂", "1/R₁ + 1/R₂"],
+      "correctIndex": 1,
+      "explanation": "1/Rp = 1/R₁ + 1/R₂. Solving for Rp gives (R₁R₂) / (R₁ + R₂).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s11_q16",
+      "text": "Which of the following represents Joule's Law of Heating?",
+      "options": ["H = VIt", "H = I²Rt", "H = (V²/R)t", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "All these formulas calculate the heat produced, depending on which variables (V, I, R) are known.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s11_q17",
+      "text": "The filament of an electric bulb is made of tungsten because:",
+      "options": ["It has a low melting point", "It has a very high melting point", "It is a good insulator", "It is very flexible"],
+      "correctIndex": 1,
+      "explanation": "Tungsten has a melting point of 3380°C, allowing it to remain solid while glowing white-hot.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s11_q18",
+      "text": "An electric fuse is used to protect circuits from:",
+      "options": ["Low voltage", "High resistance", "Overloading and short-circuiting", "Open circuits"],
+      "correctIndex": 2,
+      "explanation": "A fuse melts when excessive current flows, breaking the circuit and preventing damage.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s11_q19",
+      "text": "The commercial unit of electrical energy is:",
+      "options": ["Joule", "Watt", "kilowatt-hour (kWh)", "Volt-Ampere"],
+      "correctIndex": 2,
+      "explanation": "1 kWh is the energy consumed by a 1 kW appliance in one hour, often called a 'unit'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s11_q20",
+      "text": "1 kWh is equal to how many Joules?",
+      "options": ["3.6 x 10³ J", "3.6 x 10⁵ J", "3.6 x 10⁶ J", "1000 J"],
+      "correctIndex": 2,
+      "explanation": "1 kWh = 1000 W x 3600 s = 3,600,000 Joules.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s11_q21",
+      "text": "Electric power (P) can be expressed as:",
+      "options": ["P = VI", "P = I²R", "P = V²/R", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "These are different forms of the power equation derived from P = VI and V = IR.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s11_q22",
+      "text": "If the current through a resistor is doubled (keeping R constant), the heat produced becomes:",
+      "options": ["Double", "Half", "Four times", "One-fourth"],
+      "correctIndex": 2,
+      "explanation": "According to H ∝ I², doubling the current (2²) leads to four times the heat.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s11_q23",
+      "text": "A voltmeter is always connected in ________ with the circuit element.",
+      "options": ["Series", "Parallel", "Any manner", "Series-parallel combination"],
+      "correctIndex": 1,
+      "explanation": "A voltmeter has high resistance and must be connected in parallel to measure potential difference without drawing significant current.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s11_q24",
+      "text": "What happens to the total resistance when more resistors are added in parallel?",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correctIndex": 1,
+      "explanation": "Adding more paths for current in parallel reduces the overall effective resistance.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s11_q25",
+      "text": "Which material is the best conductor of electricity?",
+      "options": ["Copper", "Aluminum", "Silver", "Iron"],
+      "correctIndex": 2,
+      "explanation": "Silver has the lowest resistivity, but copper and aluminum are preferred for wiring due to cost.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s11_q26",
+      "text": "A component used to regulate current without changing the voltage source is:",
+      "options": ["Ammeter", "Rheostat", "Galvanometer", "Voltmeter"],
+      "correctIndex": 1,
+      "explanation": "A rheostat (variable resistance) is used to control the amount of current in a circuit.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s11_q27",
+      "text": "The resistance of an ideal ammeter should be:",
+      "options": ["Zero", "Very high", "Infinite", "Same as the circuit"],
+      "correctIndex": 0,
+      "explanation": "An ideal ammeter should have zero resistance so it doesn't change the current it is measuring.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s11_q28",
+      "text": "The resistance of an ideal voltmeter should be:",
+      "options": ["Zero", "Very low", "Infinite", "1 Ohm"],
+      "correctIndex": 2,
+      "explanation": "An ideal voltmeter should have infinite resistance so it draws no current from the circuit.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s11_q29",
+      "text": "If a wire is stretched to double its length, its resistance will:",
+      "options": ["Double", "Remain same", "Become four times", "Become half"],
+      "correctIndex": 2,
+      "explanation": "When stretched, length (l) doubles and area (A) becomes half (to keep volume constant). Since R ∝ l/A, R becomes 2 / (1/2) = 4 times.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s11_q30",
+      "text": "In domestic circuits, appliances are connected in parallel to:",
+      "options": ["Ensure each gets the same current", "Ensure each gets the same voltage", "Increase the total resistance", "Save wire"],
+      "correctIndex": 1,
+      "explanation": "Parallel connection allows each appliance to operate at the same line voltage and work independently.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s11_q31",
+      "text": "The graph between potential difference (V) and current (I) for an ohmic conductor is a:",
+      "options": ["Parabola", "Straight line passing through origin", "Circle", "Curve"],
+      "correctIndex": 1,
+      "explanation": "Since V = IR, V is directly proportional to I, resulting in a linear graph.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s11_q32",
+      "text": "The slope of the V-I graph represents:",
+      "options": ["Current", "Voltage", "Resistance", "Resistivity"],
+      "correctIndex": 2,
+      "explanation": "Slope = ΔV / ΔI. From Ohm's law, this equals the Resistance (R).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s11_q33",
+      "text": "An electric bulb is rated 220V and 100W. When it is operated on 110V, the power consumed will be:",
+      "options": ["100 W", "75 W", "50 W", "25 W"],
+      "correctIndex": 3,
+      "explanation": "Resistance R = V²/P = 220²/100 = 484Ω. New Power = V'²/R = 110²/484 = 12100/484 = 25W.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s11_q34",
+      "text": "Calculate the current if 50 Coulombs of charge flows through a wire in 10 seconds.",
+      "options": ["500 A", "5 A", "0.2 A", "50 A"],
+      "correctIndex": 1,
+      "explanation": "I = Q/t = 50C / 10s = 5 A.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s11_q35",
+      "text": "Potential difference is also known as:",
+      "options": ["Ampereage", "Voltage", "Wattage", "Resistance"],
+      "correctIndex": 1,
+      "explanation": "Voltage is the common term for electrical potential difference.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s11_q36",
+      "text": "If three 6Ω resistors are connected in parallel, the total resistance is:",
+      "options": ["18 Ω", "2 Ω", "3 Ω", "1 Ω"],
+      "correctIndex": 1,
+      "explanation": "1/Rp = 1/6 + 1/6 + 1/6 = 3/6 = 1/2. Therefore Rp = 2 Ω.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s11_q37",
+      "text": "Which of the following does NOT represent electrical power?",
+      "options": ["VI", "I²R", "IR²", "V²/R"],
+      "correctIndex": 2,
+      "explanation": "IR² is not a formula for power; the correct term is I²R.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s11_q38",
+      "text": "The resistivity of a material depends on:",
+      "options": ["Shape", "Size", "Nature of material and temperature", "None of these"],
+      "correctIndex": 2,
+      "explanation": "Resistivity is an intrinsic property; it changes with the material type and temperature but not with dimensions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s11_q39",
+      "text": "Current flows in a circuit only if the circuit is:",
+      "options": ["Open", "Broken", "Closed", "Insulated"],
+      "correctIndex": 2,
+      "explanation": "A closed circuit provides a continuous path for the electrons to flow.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s11_q40",
+      "text": "What happens to the resistance of a semiconductor like silicon as temperature increases?",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correctIndex": 1,
+      "explanation": "Unlike metals, the resistance of semiconductors decreases with an increase in temperature.",
+      "frequencyRating": 2
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "id": "g10_civ_ch5",
+  "grade": "10",
+  "subject": "Social Science",
+  "number": "5",
+  "title": "Outcomes of Democracy",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_c5_q1",
+      "text": "Which form of government is considered better than any other form, such as dictatorship or monarchy?",
+      "options": ["Monarchy", "Democracy", "Dictatorship", "Military Rule"],
+      "correctIndex": 1,
+      "explanation": "Democracy is preferred because it promotes equality among citizens and enhances the dignity of the individual.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c5_q2",
+      "text": "The most basic outcome of democracy is that it produces a government that is:",
+      "options": ["Rich and powerful", "Efficient and fast", "Accountable to citizens and responsive to their needs", "Based on religious laws"],
+      "correctIndex": 2,
+      "explanation": "In a democracy, we are most concerned with ensuring that people have the right to choose their rulers and have control over them.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c5_q3",
+      "text": "A citizen who wants to know if a decision was taken through the correct procedures can find this out. This is known as:",
+      "options": ["Legitimacy", "Accountability", "Transparency", "Responsiveness"],
+      "correctIndex": 2,
+      "explanation": "Transparency refers to the right and the means to examine the process of decision-making in a democracy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c5_q4",
+      "text": "Democracy is often criticized for delays in decision-making because:",
+      "options": ["Politicians are lazy", "Decisions are based on norms, procedures, and deliberation", "Dictatorships are more popular", "Voters do not care about time"],
+      "correctIndex": 1,
+      "explanation": "The democratic process involves negotiation and discussion, which takes time but often leads to more acceptable and effective decisions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c5_q5",
+      "text": "A democratic government is a 'legitimate government' because:",
+      "options": ["It is fast", "It is people's own government, elected by them", "It has no corruption", "It is always efficient"],
+      "correctIndex": 1,
+      "explanation": "Democracy may be slow or inefficient at times, but it is legitimate because it is based on the consent of the governed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c5_q6",
+      "text": "What is the record of democratic governments on corruption?",
+      "options": ["They are completely free of corruption", "They are not free of this evil, though they are better than others", "They are more corrupt than dictatorships", "Corruption is ignored in democracy"],
+      "correctIndex": 1,
+      "explanation": "While democracies are not immune to corruption, they provide mechanisms for public scrutiny and change.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c5_q7",
+      "text": "Studies show that between 1950 and 2000, which form of government had a slightly higher rate of economic growth?",
+      "options": ["Democracies", "Monarchies", "Dictatorships", "Theocracies"],
+      "correctIndex": 2,
+      "explanation": "The record of dictatorships is slightly better in terms of economic growth, but this is balanced by other positive outcomes of democracy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c5_q8",
+      "text": "Economic development of a country depends on which of the following factors?",
+      "options": ["Population size", "Global situation", "Cooperation from other countries", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Economic growth is not determined solely by the type of government; it involves several internal and external factors.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c5_q9",
+      "text": "Democracies are based on ________ equality.",
+      "options": ["Social", "Economic", "Political", "Cultural"],
+      "correctIndex": 2,
+      "explanation": "Democracy ensures every individual has equal weight in electing representatives (one person, one vote).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c5_q10",
+      "text": "What is the reality regarding economic equality in most democracies?",
+      "options": ["Everyone has equal wealth", "There are growing economic inequalities", "Poverty is completely eliminated", "Only the middle class exists"],
+      "correctIndex": 1,
+      "explanation": "In many democracies, a small number of ultra-rich enjoy a disproportionate share of wealth, while the bottom of the population struggles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c5_q11",
+      "text": "Democracies are better than other regimes in:",
+      "options": ["Reducing economic disparities", "Accommodating social diversity", "Eliminating poverty quickly", "Preventing all conflicts"],
+      "correctIndex": 1,
+      "explanation": "Democracy provides procedures to conduct competition and evolve mechanisms to negotiate differences between diverse groups.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c5_q12",
+      "text": "To accommodate social diversity, democracy must fulfill which condition?",
+      "options": ["Majority must rule only by itself", "Majority must work with the minority", "Minority should be ignored", "Elections should be stopped"],
+      "correctIndex": 1,
+      "explanation": "Democracy is not simply rule by majority; the majority must represent the general view including the minority.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c5_q13",
+      "text": "'Rule by majority' in a democracy means:",
+      "options": ["Rule by one religious community", "Rule by one linguistic group", "In every decision or election, different persons and groups can form a majority", "Rule by the poor only"],
+      "correctIndex": 2,
+      "explanation": "Democratic majority is not fixed; it is fluid and allows every citizen a chance to be part of a majority at some time.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c5_q14",
+      "text": "What does democracy stand much superior to any other form of government in promoting?",
+      "options": ["Economic growth", "Dignity and freedom of the individual", "Military strength", "Speed of work"],
+      "correctIndex": 1,
+      "explanation": "The passion for respect and freedom is the basis of democracy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c5_q15",
+      "text": "The long struggles by women have created some sensitivity today that ________ is a necessary ingredient of a democratic society.",
+      "options": ["Domestic work", "Respect and equal treatment of women", "Exclusion from politics", "Separate laws"],
+      "correctIndex": 1,
+      "explanation": "Recognition of equal rights for women is a fundamental principle of democracy, even if not always practiced perfectly.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c5_q16",
+      "text": "In a democracy, the status of 'subjects' changes to that of:",
+      "options": ["Slaves", "Citizens", "Rulers only", "Beggars"],
+      "correctIndex": 1,
+      "explanation": "Democracy transforms people from being under the whim of a ruler to being individuals with rights and duties.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c5_q17",
+      "text": "Why are complaints in a democracy often treated as a 'testimony' to its success?",
+      "options": ["They show that people are unhappy", "They show that people have developed awareness and expectations", "They show that government is failing", "They lead to riots"],
+      "correctIndex": 1,
+      "explanation": "The fact that people are complaining shows that they value their vote and believe they can influence the government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c5_q18",
+      "text": "Which of these is NOT a guaranteed outcome of democracy?",
+      "options": ["Regular and free elections", "Accountable government", "Rapid economic growth", "Right to information"],
+      "correctIndex": 2,
+      "explanation": "While democracy guarantees political rights and accountability, it does not guarantee high economic growth rates.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c5_q19",
+      "text": "A formal constitution, elections, and political parties are:",
+      "options": ["Found only in India", "Common to most democratic countries", "Not necessary for democracy", "Features of dictatorship"],
+      "correctIndex": 1,
+      "explanation": "These are the institutional frameworks through which modern democracies function.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c5_q20",
+      "text": "The 'political outcome' of democracy is best described as:",
+      "options": ["Wealth for all", "Freedom from all laws", "Accountable, responsive and legitimate government", "Rule by the strongest"],
+      "correctIndex": 2,
+      "explanation": "These three qualities define the success of democracy at the political level.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c5_q21",
+      "text": "Democracy has failed to reduce which of the following?",
+      "options": ["Right to vote", "Political participation", "Economic inequalities", "Legitimacy"],
+      "correctIndex": 2,
+      "explanation": "Despite political equality, the gap between the rich and the poor has widened in many democratic nations.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c5_q22",
+      "text": "Which of the following is true regarding non-democratic regimes?",
+      "options": ["They always care about public opinion", "They can be very quick in decision-making", "They allow all types of dissent", "They are always accountable"],
+      "correctIndex": 1,
+      "explanation": "Since they don't have to deliberate or worry about majorities, dictators can take and implement decisions very fast.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c5_q23",
+      "text": "In South Asia, which country shows the highest support for democracy?",
+      "options": ["Pakistan", "India", "Bangladesh", "Nepal"],
+      "correctIndex": 1,
+      "explanation": "Surveys indicate that there is an overwhelming support for the idea of democracy in India compared to its neighbors.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_c5_q24",
+      "text": "Democracy strengthens the claims of the disadvantaged and discriminated castes for:",
+      "options": ["Exclusive rule", "Equal status and equal opportunity", "Wealth distribution by force", "Abolition of elections"],
+      "correctIndex": 1,
+      "explanation": "Democracy provides a platform for marginalized groups to demand their rights legally and politically.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c5_q25",
+      "text": "A democracy is attentive to the needs and ________ of the citizens.",
+      "options": ["Whims", "Demands", "Expectations", "Complaints only"],
+      "correctIndex": 2,
+      "explanation": "A responsive government is one that reacts to what the public expects from it.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c5_q26",
+      "text": "The 'deliberative' nature of democracy means:",
+      "options": ["Decisions are taken by tossing a coin", "Decisions are taken after discussion and thinking", "One person decides for all", "No decisions are ever taken"],
+      "correctIndex": 1,
+      "explanation": "Deliberation involves careful consideration and debate before arriving at a conclusion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c5_q27",
+      "text": "In a democracy, if a person feels their rights are violated, they can:",
+      "options": ["Go to a court of law", "Leave the country", "Start a dictatorship", "Stop paying taxes"],
+      "correctIndex": 0,
+      "explanation": "The judiciary acts as a protector of fundamental rights in a democratic system.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c5_q28",
+      "text": "What is the relation between democracy and social conflict?",
+      "options": ["Democracy creates conflicts", "Democracy suppresses all conflicts by force", "Democracy reduces the possibility of conflicts becoming explosive or violent", "Democracy has nothing to do with social groups"],
+      "correctIndex": 2,
+      "explanation": "By providing space for negotiation, democracy prevents tensions from turning into violence.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c5_q29",
+      "text": "Democracy is not a ________ for all socio-economic problems.",
+      "options": ["Cause", "Barrier", "Panacea (magic cure)", "Outcome"],
+      "correctIndex": 2,
+      "explanation": "We often expect too much from democracy; it is a form of government that creates conditions, but people must take advantage of them.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c5_q30",
+      "text": "Which of these is a sign of a 'Legitimate' government?",
+      "options": ["It was formed through a military coup", "It was elected through free and fair elections", "It is ruled by a hereditary king", "It does not allow opposition"],
+      "correctIndex": 1,
+      "explanation": "Electoral mandate is the source of legitimacy in modern democracies.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c5_q31",
+      "text": "Democracy is based on the idea of ________ equality.",
+      "options": ["Financial", "Universal", "Political", "Military"],
+      "correctIndex": 2,
+      "explanation": "Political equality means all citizens have an equal role in the political process.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c5_q32",
+      "text": "The record of democracy on 'Economic Growth' is:",
+      "options": ["Poor", "Better than dictatorships", "Not very impressive, but not the only factor", "The best in the world"],
+      "correctIndex": 2,
+      "explanation": "Democracy's economic record is mixed and depends on many other variables besides the regime type.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c5_q33",
+      "text": "Most democracies fall short of elections that provide a ________ to every citizen.",
+      "options": ["Job", "Fair chance", "House", "Car"],
+      "correctIndex": 1,
+      "explanation": "While elections are held, the influence of money and power often prevents a truly level playing field.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_c5_q34",
+      "text": "Which country in South Africa (as per textbook) is mentioned for its struggle for democracy?",
+      "options": ["Nigeria", "Ghana", "South Africa", "Kenya"],
+      "correctIndex": 2,
+      "explanation": "The struggle against apartheid in South Africa is a landmark in the history of democratic movements.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_c5_q35",
+      "text": "Democracy is a rule by:",
+      "options": ["Majority of the people", "The elite", "Religious leaders", "The army"],
+      "correctIndex": 0,
+      "explanation": "The literal meaning of democracy is rule by the people (the majority).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c5_q36",
+      "text": "The passion for ________ is the basis of democracy.",
+      "options": ["Money", "Respect and Freedom", "Power", "War"],
+      "correctIndex": 1,
+      "explanation": "Individuals desire to be treated with respect by their fellow beings and the state.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c5_q37",
+      "text": "Non-democratic regimes often turn a blind eye to or ________ social differences.",
+      "options": ["Celebrate", "Encourage", "Suppress", "Understand"],
+      "correctIndex": 2,
+      "explanation": "Dictatorships often try to force uniformity and crush any form of internal diversity or dissent.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c5_q38",
+      "text": "An accountable government is one that:",
+      "options": ["Can do whatever it wants", "Is answerable to the people for its actions", "Has a very small cabinet", "Does not have a constitution"],
+      "correctIndex": 1,
+      "explanation": "Accountability ensures that leaders must explain their decisions to the public.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c5_q39",
+      "text": "Individual freedom is ________ in a democracy compared to other systems.",
+      "options": ["Lower", "Higher", "Zero", "Same"],
+      "correctIndex": 1,
+      "explanation": "Democracy provides legal and constitutional safeguards for personal liberties.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c5_q40",
+      "text": "The success of democracy depends on the ________ of the citizens.",
+      "options": ["Wealth", "Awareness and participation", "Obedience", "Silence"],
+      "correctIndex": 1,
+      "explanation": "An informed and active citizenry is the greatest strength of any democracy.",
+      "frequencyRating": 5
+    }
+  ]
+}

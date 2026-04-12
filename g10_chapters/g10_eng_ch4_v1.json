@@ -1,0 +1,330 @@
+{
+  "id": "g10_eng_ch4",
+  "grade": "10",
+  "subject": "English",
+  "number": "4",
+  "title": "From the Diary of Anne Frank",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_en4_q1",
+      "text": "Why does Anne Frank decide to keep a diary?",
+      "options": ["She loved writing", "She wanted to be a famous author", "She had no 'true' friend to confide in", "Her father forced her"],
+      "correctIndex": 2,
+      "explanation": "Anne felt that although she had a loving family and many friends, she lacked a single true friend to share her innermost feelings with.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en4_q2",
+      "text": "What name did Anne give to her diary?",
+      "options": ["Anne", "Kitty", "Sanne", "Margot"],
+      "correctIndex": 1,
+      "explanation": "She personified her diary and called it 'Kitty' to make it feel like a real friend.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en4_q3",
+      "text": "Anne says 'Paper has more patience than people'. What does this mean?",
+      "options": ["Paper is stronger than people", "People are often bored or judgmental, while a diary 'listens' without complaint", "Writing on paper is easy", "People should read more"],
+      "correctIndex": 1,
+      "explanation": "Anne believed that she could express her thoughts more freely and completely in writing than by talking to people who might lose interest or judge her.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en4_q4",
+      "text": "Who was the only person in Anne's family to survive the war?",
+      "options": ["Margot", "Her mother", "Her father, Otto Frank", "Her grandmother"],
+      "correctIndex": 2,
+      "explanation": "Otto Frank was the sole survivor of the family and was later responsible for publishing Anne's diary.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en4_q5",
+      "text": "Where did Anne's family hide during the Nazi occupation?",
+      "options": ["In a forest", "In a basement of a church", "In her father's office building (Secret Annex)", "In a different country"],
+      "correctIndex": 2,
+      "explanation": "They lived in hidden rooms in Otto Frank's office building in Amsterdam for two years.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en4_q6",
+      "text": "In which city was Anne Frank born?",
+      "options": ["Amsterdam", "Berlin", "Frankfurt", "Paris"],
+      "correctIndex": 2,
+      "explanation": "Anne Frank was born in Frankfurt, Germany, before her family emigrated to Holland.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en4_q7",
+      "text": "What was the subject taught by Mr. Keesing?",
+      "options": ["Science", "English", "History", "Mathematics"],
+      "correctIndex": 3,
+      "explanation": "Mr. Keesing was Anne's math teacher who was often annoyed by her talkative nature.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en4_q8",
+      "text": "Why was Mr. Keesing annoyed with Anne?",
+      "options": ["She was poor at math", "She talked too much in class", "She was always late", "She didn't do her homework"],
+      "correctIndex": 1,
+      "explanation": "Anne's habit of talking incessantly during lessons led to tension with Mr. Keesing.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en4_q9",
+      "text": "What was the topic of the first essay Mr. Keesing assigned to Anne as punishment?",
+      "options": ["A Chatterbox", "An Incorrigible Chatterbox", "Quack, Quack, Quack", "My Family"],
+      "correctIndex": 0,
+      "explanation": "He assigned her 'A Chatterbox' to make her reflect on her talking habit.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en4_q10",
+      "text": "In her first essay, what reason did Anne give for her talkativeness?",
+      "options": ["She was bored", "She argued it was an inherited trait from her mother", "She wanted to impress her friends", "She didn't know it was a problem"],
+      "correctIndex": 1,
+      "explanation": "Anne cleverly argued that talking is a student's trait and that she inherited it from her mother, who also talked a lot.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en4_q11",
+      "text": "What was the title of the second essay assigned to her?",
+      "options": ["A Chatterbox", "An Incorrigible Chatterbox", "The Diary of a Girl", "Life in Hiding"],
+      "correctIndex": 1,
+      "explanation": "When the first punishment didn't stop her, he gave her 'An Incorrigible Chatterbox'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en4_q12",
+      "text": "Who helped Anne write her third essay in verse?",
+      "options": ["Margot", "Her mother", "Her friend Sanne", "Mr. Keesing"],
+      "correctIndex": 2,
+      "explanation": "Sanne, who was good at poetry, helped Anne write the entire essay in rhyme.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en4_q13",
+      "text": "What was the title of the third and final essay?",
+      "options": ["A Silent Girl", "The Golden Swan", "Quack, Quack, Quack, Said Mistress Chatterbox", "Mathematics is Fun"],
+      "correctIndex": 2,
+      "explanation": "This was assigned after Anne continued to talk despite previous essays.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en4_q14",
+      "text": "What happened to the three baby ducklings in Anne's poem?",
+      "options": ["They flew away", "They were bitten to death by their father because they quacked too much", "They lived happily ever after", "They learned to swim"],
+      "correctIndex": 1,
+      "explanation": "The poem was a satirical joke about a mother duck and a father swan whose ducklings were killed for quacking.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en4_q15",
+      "text": "How did Mr. Keesing take the joke in Anne's third essay?",
+      "options": ["He was very angry and punished her more", "He took the joke the right way and read the poem to the class", "He ignored it completely", "He reported her to the headmistress"],
+      "correctIndex": 1,
+      "explanation": "He appreciated the humor and creativity, and finally allowed Anne to talk in class.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en4_q16",
+      "text": "When did Anne Frank start writing her diary?",
+      "options": ["12 June 1942", "20 June 1942", "1 August 1944", "12 June 1929"],
+      "correctIndex": 1,
+      "explanation": "Her first entry in the provided text is dated Saturday, 20 June 1942.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en4_q17",
+      "text": "Anne Frank passed away in which concentration camp?",
+      "options": ["Auschwitz", "Bergen-Belsen", "Dachau", "Sobibor"],
+      "correctIndex": 1,
+      "explanation": "Anne died of typhus in Bergen-Belsen in early 1945.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_en4_q18",
+      "text": "To whom did Anne and her sister stay with in Aachen?",
+      "options": ["Their parents", "Their aunt", "Their grandmother", "Their teacher"],
+      "correctIndex": 2,
+      "explanation": "While their parents went to Holland in 1933, the girls were sent to Aachen to stay with their grandmother.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_en4_q19",
+      "text": "Who was Mrs. Kuperus?",
+      "options": ["Anne's mother", "Anne's best friend", "The headmistress and Anne's teacher in the sixth form", "The woman who found the diary"],
+      "correctIndex": 2,
+      "explanation": "Anne was very fond of her and both cried when they had to say goodbye at the end of the year.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en4_q20",
+      "text": "What did Anne call 'the most unpredictable creatures on earth'?",
+      "options": ["Animals", "Parents", "Teachers", "Boys"],
+      "correctIndex": 2,
+      "explanation": "Anne observed that it was impossible to tell who teachers would pass or fail during the year-end results.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en4_q21",
+      "text": "When did Anne's grandmother die?",
+      "options": ["1941", "1942", "1933", "1940"],
+      "correctIndex": 1,
+      "explanation": "Her grandmother fell ill in 1941 and died in January 1942.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_en4_q22",
+      "text": "What did Anne think would be the fate of her diary?",
+      "options": ["Everyone would read it", "No one would be interested in the musings of a thirteen-year-old schoolgirl", "It would be burned", "It would become a bestseller"],
+      "correctIndex": 1,
+      "explanation": "She initially doubted that anyone, including herself, would care about her diary entries later in life.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en4_q23",
+      "text": "What was the 'Secret Annex'?",
+      "options": ["A park", "A school", "The hiding place in her father's office building", "A library"],
+      "correctIndex": 2,
+      "explanation": "This was the name given to the hidden rooms where the Frank family lived during the war.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en4_q24",
+      "text": "In the poem in her third essay, who did the 'father swan' represent?",
+      "options": ["Her own father", "Mr. Keesing", "Adolf Hitler", "God"],
+      "correctIndex": 1,
+      "explanation": "The poem was a satirical way of showing Mr. Keesing that he was being too harsh on the 'quacking' students.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en4_q25",
+      "text": "How does Anne describe her father?",
+      "options": ["The most adorable father she'd ever seen", "A very strict man", "A quiet person", "A businessman"],
+      "correctIndex": 0,
+      "explanation": "She expresses great affection for her father in the brief sketch of her family.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en4_q26",
+      "text": "What does the word 'incorrigible' mean?",
+      "options": ["Very funny", "Something that cannot be corrected", "Quiet and reserved", "Highly intelligent"],
+      "correctIndex": 1,
+      "explanation": "Mr. Keesing used this term to describe her talkativeness which he felt couldn't be fixed.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en4_q27",
+      "text": "At what age was Anne Frank when she started writing her diary?",
+      "options": ["10", "13", "15", "16"],
+      "correctIndex": 1,
+      "explanation": "She received the diary for her 13th birthday.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en4_q28",
+      "text": "Who was Margot Frank?",
+      "options": ["Anne's friend", "Anne's cousin", "Anne's elder sister", "Anne's teacher"],
+      "correctIndex": 2,
+      "explanation": "Margot was born in 1926, three years before Anne.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en4_q29",
+      "text": "What was the purpose of writing the 'Kitty' entries?",
+      "options": ["To practice English", "To record historical events", "To act as a friend to whom she could tell everything", "To complain about her parents"],
+      "correctIndex": 2,
+      "explanation": "Anne wanted to treat the diary not as a mere record of facts but as a living friend.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en4_q30",
+      "text": "How did Anne feel about her performance in school subjects?",
+      "options": ["She was failing all of them", "She was worried about math but confident in others", "She was the top of her class", "She didn't care about school"],
+      "correctIndex": 1,
+      "explanation": "Like many of her classmates, she was nervous about the results, especially in math.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en4_q31",
+      "text": "Anne Frank's diary was originally written in which language?",
+      "options": ["German", "English", "Dutch", "French"],
+      "correctIndex": 2,
+      "explanation": "Although born in Germany, she lived in Amsterdam and wrote in Dutch.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_en4_q32",
+      "text": "When did Anne's family move to Holland?",
+      "options": ["1929", "1933", "1940", "1942"],
+      "correctIndex": 1,
+      "explanation": "Her father emigrated to Holland in 1933, followed by the rest of the family.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_en4_q33",
+      "text": "Which date marks the first entry in Anne's diary included in the chapter?",
+      "options": ["Saturday, 20 June 1942", "Sunday, 14 June 1942", "Friday, 12 June 1942", "Monday, 15 June 1942"],
+      "correctIndex": 0,
+      "explanation": "This entry introduces her classmates and her relationship with Mr. Keesing.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en4_q34",
+      "text": "What did Anne think of the other children in her class?",
+      "options": ["They were all geniuses", "About a quarter of them were 'dummies' who should stay back", "They were very supportive", "They were all older than her"],
+      "correctIndex": 1,
+      "explanation": "Anne had a witty and somewhat critical view of her classmates' academic abilities.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en4_q35",
+      "text": "What was the 'inherited trait' Anne mentioned?",
+      "options": ["Eye color", "Talking", "Intelligence", "Stubbornness"],
+      "correctIndex": 1,
+      "explanation": "She claimed she couldn't do much about her talkative nature because her mother was the same.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en4_q36",
+      "text": "Who was Sanne?",
+      "options": ["A math teacher", "Anne's sister", "Anne's friend who was good at poetry", "A Nazi soldier"],
+      "correctIndex": 2,
+      "explanation": "Sanne was an important friend who helped Anne turn her third punishment into a masterpiece.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en4_q37",
+      "text": "How did Mr. Keesing change after reading Anne's poem?",
+      "options": ["He became even stricter", "He stopped assigning her extra homework and allowed her to talk", "He left the school", "He never talked to Anne again"],
+      "correctIndex": 1,
+      "explanation": "The poem successfully bridged the gap between teacher and student through humor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_en4_q38",
+      "text": "What was the age difference between Anne and Margot?",
+      "options": ["1 year", "2 years", "3 years", "5 years"],
+      "correctIndex": 2,
+      "explanation": "Margot was born in 1926 and Anne in 1929.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_en4_q39",
+      "text": "What does 'musings' mean in the sentence 'musings of a thirteen-year-old schoolgirl'?",
+      "options": ["Complaints", "Reflections or deep thoughts", "Drawings", "Songs"],
+      "correctIndex": 1,
+      "explanation": "Musings refers to the act of thinking deeply about something or the thoughts themselves.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_en4_q40",
+      "text": "Why did Anne write a brief sketch of her life in the diary?",
+      "options": ["She thought people would be bored", "She wanted to provide context because no one would understand her stories to Kitty if she dived right in", "Her teacher asked her to", "She wanted to prove she was real"],
+      "correctIndex": 1,
+      "explanation": "She felt it was necessary to give some background about her life so that the diary entries would make sense to a reader.",
+      "frequencyRating": 5
+    }
+  ]
+}

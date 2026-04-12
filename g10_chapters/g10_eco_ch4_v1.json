@@ -1,330 +1,330 @@
 {
   "id": "g10_eco_ch4",
   "grade": "10",
-  "subject": "Economics",
+  "subject": "Social Science",
   "number": "4",
   "title": "Globalisation and the Indian Economy",
   "version": "v1",
   "questions": [
     {
-      "id": "g10_ec4_q1",
+      "id": "g10_e4_q1",
       "text": "A company that owns or controls production in more than one nation is called a:",
-      "options": ["National Corporation", "Multinational Corporation (MNC)", "Global NGO", "Local Company"],
+      "options": ["Foreign Company", "Multi-National Corporation (MNC)", "International Federation", "Global Enterprise"],
       "correctIndex": 1,
-      "explanation": "MNCs set up offices and factories for production in regions where they can get cheap labor and other resources.",
+      "explanation": "MNCs set up offices and factories for production in regions where they can get cheap labour and other resources.",
       "frequencyRating": 5
     },
     {
-      "id": "g10_ec4_q2",
-      "text": "MNCs set up production units close to markets because it helps in:",
-      "options": ["Reducing taxes", "Lowering the cost of transportation", "Finding skilled labor only", "Both A and B"],
+      "id": "g10_e4_q2",
+      "text": "MNCs set up production units close to markets to:",
+      "options": ["Increase cost of production", "Reduce cost of transport and be close to consumers", "Avoid government regulations", "Employ expensive labour"],
       "correctIndex": 1,
-      "explanation": "Proximity to markets reduces logistics costs and allows for quicker response to consumer needs.",
+      "explanation": "Proximity to markets and availability of cheap skilled/unskilled labour are primary factors for MNC location.",
       "frequencyRating": 5
     },
     {
-      "id": "g10_ec4_q3",
-      "text": "The money that is spent to buy assets such as land, building, machines and other equipment is called:",
-      "options": ["Expenditure", "Investment", "Foreign Investment", "Capital"],
+      "id": "g10_e4_q3",
+      "text": "The money that is spent to buy assets such as land, building, and machines by MNCs is called:",
+      "options": ["Internal investment", "Foreign investment", "Domestic expenditure", "Public spending"],
       "correctIndex": 1,
-      "explanation": "Investment is made with the hope that these assets will earn profits.",
+      "explanation": "Investment made by MNCs is called foreign investment, made with the hope of earning profits.",
       "frequencyRating": 5
     },
     {
-      "id": "g10_ec4_q4",
-      "text": "Investment made by MNCs is called:",
-      "options": ["Private Investment", "Public Investment", "Foreign Investment", "Internal Investment"],
-      "correctIndex": 2,
-      "explanation": "Any investment that comes from a company based in another country is termed foreign investment.",
+      "id": "g10_e4_q4",
+      "text": "Which of the following is a way in which MNCs spread their production?",
+      "options": ["Setting up partnerships with local companies", "Buying up local companies", "Placing orders with small producers", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "MNCs use various strategies to control production across different countries.",
       "frequencyRating": 5
     },
     {
-      "id": "g10_ec4_q5",
-      "text": "What is the most common route for MNC investments in developing countries?",
-      "options": ["To set up new factories", "To buy up local companies", "To form partnerships", "To give loans"],
+      "id": "g10_e4_q5",
+      "text": "The most common route for MNC investments is to:",
+      "options": ["Start new factories from scratch", "Buy up local companies and then expand production", "Give loans to the government", "Import raw materials only"],
       "correctIndex": 1,
-      "explanation": "Buying local companies is the fastest way for MNCs to expand production and gain market share.",
+      "explanation": "Buying established local companies allows MNCs to quickly gain a large market share and infrastructure.",
       "frequencyRating": 5
     },
     {
-      "id": "g10_ec4_q6",
-      "text": "Cargill Foods, a very large American MNC, bought over which Indian company?",
-      "options": ["Tata Motors", "Parakh Foods", "Reliance Industries", "Amul"],
+      "id": "g10_e4_q6",
+      "text": "Cargill Foods, a very large MNC from ______, bought over Parakh Foods in India.",
+      "options": ["China", "USA", "UK", "Germany"],
       "correctIndex": 1,
-      "explanation": "Parakh Foods had built a large marketing network in India, which Cargill then utilized.",
+      "explanation": "Cargill Foods expanded its edible oil production in India by acquiring Parakh Foods.",
       "frequencyRating": 4
     },
     {
-      "id": "g10_ec4_q7",
-      "text": "Foreign trade creates an opportunity for the producers to reach beyond the ______ markets.",
-      "options": ["Global", "Domestic", "International", "Village"],
-      "correctIndex": 1,
-      "explanation": "Producers can sell their goods not only in markets located within the country but can also compete in markets elsewhere.",
+      "id": "g10_e4_q7",
+      "text": "Foreign trade creates an opportunity for producers to reach beyond:",
+      "options": ["Local markets", "Domestic markets", "International markets", "Both Local and Domestic markets"],
+      "correctIndex": 3,
+      "explanation": "Foreign trade allows producers to sell their goods in markets located in other countries.",
       "frequencyRating": 5
     },
     {
-      "id": "g10_ec4_q8",
-      "text": "With foreign trade, for the buyers, import of goods produced in another country is one way of:",
-      "options": ["Increasing prices", "Expanding the choice of goods", "Reducing competition", "Stopping local production"],
-      "correctIndex": 1,
-      "explanation": "Foreign trade leads to integration of markets across countries.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_ec4_q9",
+      "id": "g10_e4_q8",
       "text": "Globalisation is the process of rapid ______ between countries.",
-      "options": ["Conflict", "Integration or interconnection", "Separation", "Distance"],
+      "options": ["Conflict", "Integration or interconnection", "Isolation", "Differentiation"],
       "correctIndex": 1,
-      "explanation": "Globalisation involves increased movement of goods, services, investments, and people.",
+      "explanation": "Globalisation involves more goods, services, investments, and technology moving between countries.",
       "frequencyRating": 5
     },
     {
-      "id": "g10_ec4_q10",
-      "text": "What has been one major factor that has stimulated the globalisation process?",
-      "options": ["Improvement in technology", "Increase in taxes", "Closing of borders", "Decrease in population"],
-      "correctIndex": 0,
-      "explanation": "Developments in transportation and information technology (IT) have made global connection easier.",
+      "id": "g10_e4_q9",
+      "text": "The integration of markets and production across countries is being facilitated by:",
+      "options": ["WTO", "MNCs", "United Nations", "World Bank"],
+      "correctIndex": 1,
+      "explanation": "MNCs are the major agents facilitating the process of globalisation through investments and trade.",
       "frequencyRating": 5
     },
     {
-      "id": "g10_ec4_q11",
-      "text": "The use of 'containers' for transport of goods has led to:",
-      "options": ["Slower delivery", "Reduced port handling costs and increased speed", "More damage to goods", "Higher taxes"],
+      "id": "g10_e4_q10",
+      "text": "What has been a major factor that has enabled globalisation?",
+      "options": ["War", "Improvement in technology, especially in transport and IT", "Closing of borders", "Higher taxes"],
       "correctIndex": 1,
-      "explanation": "Containers allow goods to be loaded onto ships, railways, and trucks without repeated handling.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_ec4_q12",
-      "text": "IT (Information Technology) has played a major role in spreading ______ across countries.",
-      "options": ["Food", "Production of services", "Natural resources", "Handicrafts"],
-      "correctIndex": 1,
-      "explanation": "Services like call centers and software development can be managed globally using the internet.",
+      "explanation": "Faster transport and the telecommunications/internet revolution have made global connectivity easy and cheap.",
       "frequencyRating": 5
     },
     {
-      "id": "g10_ec4_q13",
+      "id": "g10_e4_q11",
       "text": "Removing barriers or restrictions set by the government is what is known as:",
-      "options": ["Nationalisation", "Liberalisation", "Privatisation", "Industrialisation"],
-      "correctIndex": 1,
+      "options": ["Privatisation", "Nationalisation", "Liberalisation", "Socialisation"],
+      "correctIndex": 2,
       "explanation": "Liberalisation allows businesses to make decisions freely about what they wish to import or export.",
       "frequencyRating": 5
     },
     {
-      "id": "g10_ec4_q14",
-      "text": "When did the Indian government start the policy of liberalisation in its economic policies?",
+      "id": "g10_e4_q12",
+      "text": "Tax on imports is an example of a:",
+      "options": ["Trade barrier", "Trade incentive", "Foreign investment", "Subsidised good"],
+      "correctIndex": 0,
+      "explanation": "Governments use trade barriers to increase or decrease foreign trade and to protect domestic industries.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e4_q13",
+      "text": "India decided to remove barriers on foreign trade and investment around the year:",
       "options": ["1947", "1971", "1991", "2001"],
       "correctIndex": 2,
-      "explanation": "In 1991, India removed many barriers to foreign trade and foreign investment.",
+      "explanation": "In 1991, India initiated major economic reforms to integrate with the global economy.",
       "frequencyRating": 5
     },
     {
-      "id": "g10_ec4_q15",
-      "text": "What does WTO stand for?",
-      "options": ["World Transport Organisation", "World Trade Organisation", "Western Trade Office", "World Technical Organisation"],
-      "correctIndex": 1,
-      "explanation": "WTO is an international organization that deals with the global rules of trade between nations.",
+      "id": "g10_e4_q14",
+      "text": "WTO stands for:",
+      "options": ["World Trade Organisation", "World Tariff Office", "Western Trade Organisation", "World Trust of Officers"],
+      "correctIndex": 0,
+      "explanation": "The World Trade Organisation aims to liberalise international trade.",
       "frequencyRating": 5
     },
     {
-      "id": "g10_ec4_q16",
+      "id": "g10_e4_q15",
+      "text": "Where is the headquarters of the World Trade Organisation (WTO) located?",
+      "options": ["New York", "London", "Geneva", "Paris"],
+      "correctIndex": 2,
+      "explanation": "The WTO is headquartered in Geneva, Switzerland.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e4_q16",
       "text": "The main aim of the WTO is to:",
-      "options": ["Increase taxes", "Liberalise international trade", "Protect only rich countries", "Control population"],
+      "options": ["Protect domestic companies", "Establish rules for international trade and ensure they are obeyed", "Provide loans to poor countries", "Increase import taxes"],
       "correctIndex": 1,
-      "explanation": "WTO works towards ensuring that trade flows as smoothly, predictably and freely as possible.",
+      "explanation": "WTO works towards removing barriers to trade and facilitating global trade according to agreed rules.",
       "frequencyRating": 5
     },
     {
-      "id": "g10_ec4_q17",
-      "text": "One major criticism of the WTO is that it:",
-      "options": ["Has no members", "Forces developing countries to remove barriers while developed countries keep them", "Is too small", "Only cares about environment"],
-      "correctIndex": 1,
-      "explanation": "Developing countries argue that trade rules are often biased in favor of developed nations.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_ec4_q18",
-      "text": "SEZs (Special Economic Zones) are being set up by the Central and State governments in India to:",
-      "options": ["Increase agriculture", "Attract foreign companies to invest in India", "Protect village industries", "Limit exports"],
-      "correctIndex": 1,
-      "explanation": "SEZs provide world-class facilities and tax exemptions to attract investors.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_ec4_q19",
-      "text": "One way in which MNCs exert control over production is by placing orders for production with ______.",
-      "options": ["Other MNCs", "Small producers", "The government", "None of these"],
-      "correctIndex": 1,
-      "explanation": "MNCs in industries like garments and footwear often outsource production to small local units.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_ec4_q20",
-      "text": "Which of the following is a negative impact of globalisation for small producers?",
-      "options": ["Increased choice", "Better technology", "Competition leading to closure of units", "Higher profits"],
+      "id": "g10_e4_q17",
+      "text": "Who benefits the most from globalisation among consumers?",
+      "options": ["Rural poor", "Workers", "Well-off sections in urban areas", "Small farmers"],
       "correctIndex": 2,
-      "explanation": "Small Indian industries like batteries, capacitors, and toys have suffered due to competition from cheap imports.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_ec4_q21",
-      "text": "Globalisation has led to an improvement in the living standards of:",
-      "options": ["All people", "Workers in small industries", "Well-off consumers in urban areas", "Landless laborers"],
-      "correctIndex": 2,
-      "explanation": "The benefits of globalisation have been unevenly distributed, primarily favoring the wealthy and urban populations.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_ec4_q22",
-      "text": "Flexibility in ______ laws has been introduced to attract foreign investment.",
-      "options": ["Environmental", "Labor", "Religious", "Criminal"],
-      "correctIndex": 1,
-      "explanation": "Governments have allowed companies to hire workers for short periods to reduce labor costs.",
+      "explanation": "Wealthy urban consumers have benefitted from a greater choice of high-quality products at lower prices.",
       "frequencyRating": 4
     },
     {
-      "id": "g10_ec4_q23",
-      "text": "A fair globalisation would create ______ for all.",
-      "options": ["Barriers", "Opportunities", "Taxes", "Profits only for rich"],
+      "id": "g10_e4_q18",
+      "text": "Several of the top Indian companies like Tata Motors, Infosys, and Ranbaxy have emerged as:",
+      "options": ["Local retailers", "MNCs", "Public sector units", "Cooperatives"],
       "correctIndex": 1,
-      "explanation": "Fair globalisation ensures that the benefits are shared better and there is protection for workers' rights.",
+      "explanation": "Globalisation has enabled some large Indian companies to expand their operations worldwide.",
       "frequencyRating": 5
     },
     {
-      "id": "g10_ec4_q24",
-      "text": "Who can play a major role in the struggle for a fair globalisation?",
-      "options": ["MNCs only", "The government", "International banks only", "None of these"],
+      "id": "g10_e4_q19",
+      "text": "What are SEZs (Special Economic Zones)?",
+      "options": ["Zones where no taxes are paid by people", "Industrial zones with world-class facilities to attract foreign investment", "Agricultural regions", "Military bases"],
       "correctIndex": 1,
-      "explanation": "Governments can use policies to protect the interests of their people and negotiate for fairer rules at the WTO.",
+      "explanation": "SEZs provide electricity, water, roads, and transport, along with tax exemptions for companies setting up units there.",
       "frequencyRating": 5
     },
     {
-      "id": "g10_ec4_q25",
-      "text": "Foreign investment is different from domestic investment because it involves ______.",
-      "options": ["More money", "Capital from another country", "Buying gold", "Building schools"],
-      "correctIndex": 1,
-      "explanation": "It represents the flow of capital across national boundaries.",
+      "id": "g10_e4_q20",
+      "text": "Companies setting up units in SEZs do not have to pay taxes for an initial period of:",
+      "options": ["One year", "Two years", "Five years", "Ten years"],
+      "correctIndex": 2,
+      "explanation": "As per government policy, tax holidays for 5 years are provided to attract investment in SEZs.",
       "frequencyRating": 4
     },
     {
-      "id": "g10_ec4_q26",
-      "text": "Ford Motors is an MNC because:",
-      "options": ["It is a very old company", "It has manufacturing plants in many countries like India", "It sells cars", "It uses steel"],
-      "correctIndex": 1,
-      "explanation": "Control of production in multiple nations is the defining characteristic.",
-      "frequencyRating": 3
-    },
-    {
-      "id": "g10_ec4_q27",
-      "text": "By 2017, how many countries were members of the WTO?",
-      "options": ["50", "100", "164", "193"],
+      "id": "g10_e4_q21",
+      "text": "One major impact of globalisation on workers has been:",
+      "options": ["Job security", "Increase in benefits", "Flexibility in labour laws leading to job insecurity", "Fixed working hours"],
       "correctIndex": 2,
-      "explanation": "The WTO has a vast membership comprising most of the world's trading nations.",
-      "frequencyRating": 3
+      "explanation": "To attract investment, governments have allowed companies to ignore labour laws, making jobs temporary and insecure.",
+      "frequencyRating": 5
     },
     {
-      "id": "g10_ec4_q28",
-      "text": "Which of the following is NOT an example of a barrier on foreign trade?",
-      "options": ["Tax on imports", "Quota system", "Quality requirements", "Low interest loans"],
+      "id": "g10_e4_q22",
+      "text": "The call for 'Fair Globalisation' aims at:",
+      "options": ["Stopping all trade", "Creating opportunities for all and ensuring benefits are shared better", "Benefitting only rich countries", "Closing the WTO"],
+      "correctIndex": 1,
+      "explanation": "Fair globalisation ensures that the interests of the developing world and workers are protected.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e4_q23",
+      "text": "What has been the role of the Indian government in the struggle for fair globalisation?",
+      "options": ["Supporting only MNCs", "Negotiating at the WTO for fairer rules", "Blocking all foreign investment", "Ignoring the WTO"],
+      "correctIndex": 1,
+      "explanation": "The government can use trade barriers, negotiate for fairer rules, and align with other developing nations.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e4_q24",
+      "text": "Globalisation has led to intense competition, which has hit which group the hardest?",
+      "options": ["Large MNCs", "Small producers and workers", "Urban rich", "IT professionals"],
+      "correctIndex": 1,
+      "explanation": "Small scale industries (like batteries, capacitors, plastics) have struggled to compete with cheaper imports.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e4_q25",
+      "text": "Foreign trade leads to ______ of prices of similar goods across two markets.",
+      "options": ["Differences", "Equalisation", "Doubling", "Zeroing"],
+      "correctIndex": 1,
+      "explanation": "Trade allows goods to travel, and competition tends to bring the prices of similar goods closer together in different countries.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e4_q26",
+      "text": "In the context of globalisation, 'outsourcing' refers to:",
+      "options": ["Selling products to other countries", "Contracting out business processes to third-party providers (often in other countries)", "Buying raw materials locally", "Moving headquarters to a new city"],
+      "correctIndex": 1,
+      "explanation": "India is a major hub for outsourcing (BPOs) due to cheap and skilled labour.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e4_q27",
+      "text": "Which of the following is NOT a benefit of MNCs to host countries?",
+      "options": ["Bringing in new technology", "Providing additional investment", "Creating jobs", "Always using local raw materials"],
       "correctIndex": 3,
-      "explanation": "The first three are tools used by governments to restrict or regulate trade.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_ec4_q29",
-      "text": "Indian buyers now have a wide choice of goods because of:",
-      "options": ["High taxes", "Globalisation", "Nationalisation", "Rural development"],
-      "correctIndex": 1,
-      "explanation": "Integration of global markets has brought a variety of international brands to India.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_ec4_q30",
-      "text": "MNCs are interested in investing in India because of its:",
-      "options": ["Small market", "Large market and cheap labor", "Cold climate", "High taxes"],
-      "correctIndex": 1,
-      "explanation": "India offers a huge consumer base and a competitive cost of production.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_ec4_q31",
-      "text": "In the past two decades, globalisation has seen much more movement of ______ between countries.",
-      "options": ["People", "Goods, services and investments", "Land", "Rivers"],
-      "correctIndex": 1,
-      "explanation": "While people move, the volume of trade and capital flows has been the most significant aspect of globalisation.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_ec4_q32",
-      "text": "The entry of MNCs in the service sector in India has created new jobs in fields like:",
-      "options": ["Traditional farming", "Data entry and administrative tasks", "Hand-weaving", "Fishing"],
-      "correctIndex": 1,
-      "explanation": "Services that can be off-shored have seen significant growth in India.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_ec4_q33",
-      "text": "MNCs sometimes set up production jointly with some of the local companies. The main benefit to the local company is:",
-      "options": ["They can stop working", "MNCs provide money for additional investments and latest technology", "MNCs take all the profit", "None of these"],
-      "correctIndex": 1,
-      "explanation": "Partnerships allow local companies to upgrade their production standards.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_ec4_q34",
-      "text": "Globalisation has also created new ______ for companies providing services.",
-      "options": ["Barriers", "Taxes", "Opportunities", "Conflicts"],
-      "correctIndex": 2,
-      "explanation": "Indian IT and software companies have gained immensely from global demand.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_ec4_q35",
-      "text": "Which of the following is a 'Top Indian Company' that has emerged as an MNC?",
-      "options": ["Tata Motors", "Infosys", "Ranbaxy", "All of the above"],
-      "correctIndex": 3,
-      "explanation": "Many Indian companies have expanded their operations to various countries across the globe.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_ec4_q36",
-      "text": "Small producers who were unable to compete with MNCs had to ______ their units.",
-      "options": ["Expand", "Close down", "Sell to government", "None of these"],
-      "correctIndex": 1,
-      "explanation": "Competition from large-scale, low-cost global production is often fatal for small-scale local units.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_ec4_q37",
-      "text": "Under the influence of MNCs, jobs for many workers have become ______.",
-      "options": ["Permanent", "Flexible and insecure", "Very easy", "None of these"],
-      "correctIndex": 1,
-      "explanation": "The pressure of competition and cost-cutting has led to a rise in informal and temporary employment.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_ec4_q38",
-      "text": "The government of India can support small producers to improve their performance until they become ______ enough to compete.",
-      "options": ["Rich", "Strong", "Large", "Old"],
-      "correctIndex": 1,
-      "explanation": "Protecting 'infant' industries is a common strategy in developing nations.",
+      "explanation": "While MNCs bring capital and tech, they don't always use local raw materials; they often import from their global network.",
       "frequencyRating": 3
     },
     {
-      "id": "g10_ec4_q39",
-      "text": "World Trade Organisation (WTO) is criticized for ______ the developing countries to open their economies.",
-      "options": ["Helping", "Pressurizing", "Inviting", "Ignoring"],
-      "correctIndex": 1,
-      "explanation": "Many believe the WTO acts as a tool for rich nations to access markets in poorer countries.",
+      "id": "g10_e4_q28",
+      "text": "A 'Quota' is a type of:",
+      "options": ["Tax", "Subsidy", "Trade barrier (limit on quantity)", "Financial grant"],
+      "correctIndex": 2,
+      "explanation": "Quotas limit the amount of a specific good that can be imported into a country.",
       "frequencyRating": 4
     },
     {
-      "id": "g10_ec4_q40",
-      "text": "Foreign trade and integration of markets results in ______ of prices of similar goods in two markets.",
-      "options": ["Widening", "Equalization", "Doubling", "None of these"],
+      "id": "g10_e4_q29",
+      "text": "Information and Communication Technology (IT) has played a major role in:",
+      "options": ["Closing economies", "Spreading services across nations", "Reducing competition", "Decreasing literacy"],
       "correctIndex": 1,
-      "explanation": "Competition tends to bring prices closer across different regional markets.",
+      "explanation": "IT allows services like data entry, accounting, and administrative tasks to be done globally.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e4_q30",
+      "text": "The 'Choice of Consumers' in the market has ______ due to globalisation.",
+      "options": ["Decreased", "Stagnated", "Increased significantly", "Become zero"],
+      "correctIndex": 2,
+      "explanation": "Consumers now have access to a wide variety of global brands and latest products.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e4_q31",
+      "text": "WTO is criticized by developing countries because:",
+      "options": ["It is too small", "Developed countries have unfairly retained trade barriers and subsidies", "It provides too much aid", "It is based in Switzerland"],
+      "correctIndex": 1,
+      "explanation": "While WTO forces developing countries to remove barriers, developed countries often keep their own protections (like agri-subsidies).",
       "frequencyRating": 4
+    },
+    {
+      "id": "g10_e4_q32",
+      "text": "Liberalisation of trade allows ______ to flow more easily between nations.",
+      "options": ["Capital and Goods", "Labour", "Technology", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Liberalisation reduces friction in the movement of resources globally.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e4_q33",
+      "text": "An example of a service that has benefitted from globalisation is:",
+      "options": ["Data entry", "Banking", "Insurance", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "The service sector, especially those involving IT, has seen the most growth.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e4_q34",
+      "text": "Globalisation has led to the creation of ______ for companies providing services.",
+      "options": ["Losses", "New opportunities", "Barriers", "Monopolies only"],
+      "correctIndex": 1,
+      "explanation": "Companies in IT, call centres, and software development have found massive global markets.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e4_q35",
+      "text": "Why do MNCs look for countries with flexible labour laws?",
+      "options": ["To protect workers", "To reduce labour costs and hire/fire easily", "To increase taxes", "To improve working conditions"],
+      "correctIndex": 1,
+      "explanation": "Flexible laws allow MNCs to reduce their operational costs and stay competitive.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e4_q36",
+      "text": "Ford Motors entered the Indian market in 1995 in collaboration with:",
+      "options": ["Tata Motors", "Mahindra and Mahindra", "Maruti Suzuki", "Hyundai"],
+      "correctIndex": 1,
+      "explanation": "Ford set up a plant near Chennai in partnership with Mahindra and Mahindra.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_e4_q37",
+      "text": "Which of the following describes the impact of globalisation on the garment industry?",
+      "options": ["Workers get higher wages", "Intense competition among exporters leading to cost-cutting on labour", "Import taxes have increased", "Production has slowed down"],
+      "correctIndex": 1,
+      "explanation": "Exporters try to cut costs by paying workers less and increasing work hours to meet MNC demands.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e4_q38",
+      "text": "The process of globalisation has been aided by the ______ of the world economy.",
+      "options": ["Regulation", "Liberalisation", "Stagnation", "Isolation"],
+      "correctIndex": 1,
+      "explanation": "Liberalisation opened up markets that were previously closed or restricted.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e4_q39",
+      "text": "MNCs are able to control production in remote locations by:",
+      "options": ["Traveling to every village", "Placing orders with small producers and selling under their own brand names", "Sending armies", "Using satellites only"],
+      "correctIndex": 1,
+      "explanation": "Garments, footwear, and sports items are often produced by small producers for large MNCs.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e4_q40",
+      "text": "What is the primary motive of a Multi-National Corporation?",
+      "options": ["Charity", "To increase political power", "To earn maximum profit by minimising costs", "To spread culture"],
+      "correctIndex": 2,
+      "explanation": "Economic profit is the driving force behind MNC expansion and operations.",
+      "frequencyRating": 5
     }
   ]
 }

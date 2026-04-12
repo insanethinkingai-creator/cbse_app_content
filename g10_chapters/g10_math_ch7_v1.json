@@ -57,7 +57,6 @@
     {
       "id": "g10_m7_q7",
       "text": "The mid-point of the line segment joining A(2, 6) and B(4, 4) is:",
-      "options": "(3, 5)",
       "options": ["(3, 5)", "(6, 10)", "(1, 1)", "(5, 3)"],
       "correctIndex": 0,
       "explanation": "((2+4)/2, (6+4)/2) = (6/2, 10/2) = (3, 5).",

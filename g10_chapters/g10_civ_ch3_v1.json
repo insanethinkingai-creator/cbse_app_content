@@ -1,330 +1,330 @@
 {
   "id": "g10_civ_ch3",
   "grade": "10",
-  "subject": "Civics",
+  "subject": "Social Science",
   "number": "3",
   "title": "Gender, Religion and Caste",
   "version": "v1",
   "questions": [
     {
       "id": "g10_c3_q1",
-      "text": "A system in which all work inside the home is done by the women of the family or organized by them through domestic helpers is called:",
-      "options": ["Public division of labor", "Sexual division of labor", "Industrial division of labor", "Social division of labor"],
+      "text": "The sexual division of labour refers to a system in which:",
+      "options": ["Both men and women do all jobs", "All work inside the home is done by women or organized by them", "Men are responsible for all household chores", "Jobs are assigned based on educational qualifications only"],
       "correctIndex": 1,
-      "explanation": "This reflects the traditional belief that work is divided based on gender.",
+      "explanation": "Sexual division of labour is a system where domestic work is primarily expected to be handled by women, while men work outside.",
       "frequencyRating": 5
     },
     {
       "id": "g10_c3_q2",
-      "text": "The 'Feminist' movement is a movement that believes in:",
-      "options": ["Rule by women", "Equality of men and women in all spheres", "Separate laws for women", "Superiority of women"],
-      "correctIndex": 1,
-      "explanation": "Feminism aims for equal rights and opportunities for women in personal and public life.",
+      "text": "Radical women's movements aiming at equality in personal and family life as well are called:",
+      "options": ["Secular movements", "Socialist movements", "Feminist movements", "Democratic movements"],
+      "correctIndex": 2,
+      "explanation": "Feminist movements are those that advocate for political, social, and economic equality for women.",
       "frequencyRating": 5
     },
     {
       "id": "g10_c3_q3",
-      "text": "A patriarchal society is one which is:",
-      "options": ["Women dominated", "Male dominated", "Children dominated", "Equality based"],
-      "correctIndex": 1,
-      "explanation": "Patriarchy literally means 'rule by father' and values men more than women.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_c3_q4",
-      "text": "Which of the following countries have high participation of women in public life?",
-      "options": ["India and Pakistan", "Scandinavian countries (Sweden, Norway)", "USA and UK", "China and Japan"],
-      "correctIndex": 1,
-      "explanation": "Nordic countries have successfully achieved high gender equality in politics and jobs.",
+      "text": "In which of these countries is the participation of women in public life very high?",
+      "options": ["India", "Pakistan", "Sweden", "Sri Lanka"],
+      "correctIndex": 2,
+      "explanation": "Scandinavian countries like Sweden, Norway, and Finland have very high levels of women's participation in public life.",
       "frequencyRating": 4
     },
     {
+      "id": "g10_c3_q4",
+      "text": "According to the textbook, what is the approximate literacy rate among women in India?",
+      "options": ["54%", "76%", "45%", "82%"],
+      "correctIndex": 0,
+      "explanation": "While it changes over time, the NCERT textbook mentions women's literacy at around 54% compared to 76% for men.",
+      "frequencyRating": 5
+    },
+    {
       "id": "g10_c3_q5",
-      "text": "The proportion of women in the Indian legislature has been:",
-      "options": ["Very high", "Increasing rapidly", "Very low", "50%"],
-      "correctIndex": 2,
-      "explanation": "Women's representation in Lok Sabha has historically been low, barely reaching 14-15% recently.",
+      "text": "The Equal Remuneration Act of 1976 provides that:",
+      "options": ["Men should be paid more than women", "Equal wages should be paid for equal work", "Women should only work in teaching", "Only men can work in factories"],
+      "correctIndex": 1,
+      "explanation": "This law mandates that for the same work, men and women must be paid the same salary or wages.",
       "frequencyRating": 5
     },
     {
       "id": "g10_c3_q6",
-      "text": "In India, one-third of seats are reserved for women in which bodies?",
-      "options": ["Lok Sabha", "State Assemblies", "Panchayats and Municipalities", "Cabinet"],
+      "text": "In India, the proportion of women in the legislature has been:",
+      "options": ["Very high", "Moderate", "Very low", "Increasing rapidly"],
       "correctIndex": 2,
-      "explanation": "Local self-government bodies have mandatory reservation for women to ensure their participation.",
+      "explanation": "Women's representation in the Indian Parliament has remained low, often below 15% in the Lok Sabha.",
       "frequencyRating": 5
     },
     {
       "id": "g10_c3_q7",
-      "text": "The literacy rate among women in India (as per NCERT/2011 context) is approximately:",
-      "options": ["54%", "76%", "90%", "33%"],
-      "correctIndex": 0,
-      "explanation": "There is a significant gap between male (76%) and female (54%) literacy rates.",
+      "text": "How many seats are reserved for women in local government bodies (Panchayats and Municipalities) in India?",
+      "options": ["One-half", "One-fourth", "One-third", "No reservation"],
+      "correctIndex": 2,
+      "explanation": "One-third of seats in local government bodies are reserved for women, bringing over 10 lakh elected women representatives to power.",
       "frequencyRating": 5
     },
     {
       "id": "g10_c3_q8",
-      "text": "The Equal Remuneration Act, 1976 provides that:",
-      "options": ["Women should work more", "Equal wages should be paid for equal work", "Only men should get bonuses", "Women should get more holidays"],
-      "correctIndex": 1,
-      "explanation": "This law prohibits discrimination in wages based on gender.",
+      "text": "A 'Patriarchal' society is one that is:",
+      "options": ["Ruled by women", "Equally shared by men and women", "Male-dominated", "Based on child-centric laws"],
+      "correctIndex": 2,
+      "explanation": "Patriarchy literally means rule by father and refers to a system that values men more and gives them power over women.",
       "frequencyRating": 5
     },
     {
       "id": "g10_c3_q9",
-      "text": "The use of religious symbols, religious leaders and emotional appeal to pit one religion against another is part of:",
-      "options": ["Secularism", "Communal politics", "Democracy", "Socialism"],
+      "text": "Communalism refers to a situation where:",
+      "options": ["All religions are treated equally", "One religious group is pitted against another", "Religion is kept separate from politics", "People follow only one religion"],
       "correctIndex": 1,
-      "explanation": "Communalism uses religion as the primary basis of social community and political identity.",
+      "explanation": "Communal politics is based on the idea that religion is the principal basis of social community.",
       "frequencyRating": 5
     },
     {
       "id": "g10_c3_q10",
-      "text": "A 'Secular State' is one which:",
-      "options": ["Has a state religion", "Discounts all religions", "Provides freedom to practice any religion and has no official religion", "Favors the majority religion"],
+      "text": "The most common form of communalism in daily life is:",
+      "options": ["Violence", "Religious riots", "Religious prejudices and stereotypes", "Formation of political parties"],
       "correctIndex": 2,
-      "explanation": "India is a secular state where the constitution prohibits discrimination on grounds of religion.",
-      "frequencyRating": 5
+      "explanation": "Daily communalism often manifests as beliefs in the superiority of one's religion over others.",
+      "frequencyRating": 4
     },
     {
       "id": "g10_c3_q11",
-      "text": "Communalism takes its most ugly form in:",
-      "options": ["Elections", "Communal riots and violence", "Parliamentary debates", "Cultural festivals"],
-      "correctIndex": 1,
-      "explanation": "Extreme communalism leads to mass violence, as seen during Partition.",
+      "text": "A secular state is one where:",
+      "options": ["The state has its own official religion", "The state prohibits all religions", "The state does not have an official religion and provides freedom to all", "Only majority religion is respected"],
+      "correctIndex": 2,
+      "explanation": "Secularism in India means the Constitution does not give special status to any religion.",
       "frequencyRating": 5
     },
     {
       "id": "g10_c3_q12",
-      "text": "Caste hierarchy is a ladder-like formation in which all the caste groups are placed from the 'highest' to the 'lowest' castes. This system is unique to:",
-      "options": ["USA", "India", "UK", "France"],
-      "correctIndex": 1,
-      "explanation": "While social divisions exist elsewhere, the hereditary caste system is a specific feature of Indian society.",
+      "text": "Who among the following said that religion can never be separated from politics?",
+      "options": ["Jawaharlal Nehru", "B.R. Ambedkar", "Mahatma Gandhi", "Indira Gandhi"],
+      "correctIndex": 2,
+      "explanation": "Gandhi believed politics should be guided by ethics and moral values drawn from all religions.",
       "frequencyRating": 5
     },
     {
       "id": "g10_c3_q13",
-      "text": "Who among the following was a social reformer who worked against caste inequalities?",
-      "options": ["Jyotiba Phule", "B.R. Ambedkar", "Periyar Ramaswami Naicker", "All of the above"],
-      "correctIndex": 3,
-      "explanation": "Many leaders dedicated their lives to establishing a society based on caste equality.",
-      "frequencyRating": 5
+      "text": "Family laws deal with which of the following matters?",
+      "options": ["Property and Crime", "Marriage, divorce, and inheritance", "Business contracts", "International trade"],
+      "correctIndex": 1,
+      "explanation": "Family laws are those that govern domestic relations like adoption, marriage, and succession.",
+      "frequencyRating": 4
     },
     {
       "id": "g10_c3_q14",
-      "text": "What has helped in the breaking down of old notions of caste hierarchy in modern India?",
-      "options": ["Urbanization", "Growth of literacy and education", "Occupational mobility", "All of the above"],
-      "correctIndex": 3,
-      "explanation": "Economic development and modern education have reduced the rigidity of the caste system.",
+      "text": "Caste hierarchy is a ladder-like formation in which:",
+      "options": ["All castes are equal", "All caste groups are placed from the 'highest' to the 'lowest'", "Only two castes exist", "Castes are chosen by individuals"],
+      "correctIndex": 1,
+      "explanation": "It is a social structure where some castes are considered superior and others inferior.",
       "frequencyRating": 5
     },
     {
       "id": "g10_c3_q15",
-      "text": "In politics, the focus on 'caste' can sometimes divert attention from other pressing issues like:",
-      "options": ["Religion", "Poverty and Corruption", "Elections", "Party symbols"],
-      "correctIndex": 1,
-      "explanation": "Excessive caste-based politics may ignore economic and developmental needs.",
-      "frequencyRating": 4
+      "text": "Which of the following social reformers worked for the establishment of a casteless society in India?",
+      "options": ["Jyotiba Phule and B.R. Ambedkar", "Periyar Ramaswami Naicker", "Mahatma Gandhi", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Many leaders advocated for the end of the caste system and the practice of untouchability.",
+      "frequencyRating": 5
     },
     {
       "id": "g10_c3_q16",
-      "text": "When we say that 'Caste' is the only basis of politics, it is harmful because:",
-      "options": ["It helps everyone", "It can produce negative results and social tension", "It is very efficient", "It is constitutional"],
+      "text": "What is one major factor that has contributed to the weakening of the caste system in India?",
+      "options": ["Increase in rural population", "Urbanisation and growth of literacy", "Decreasing economy", "Isolation of caste groups"],
       "correctIndex": 1,
-      "explanation": "Relying solely on caste identity can lead to division rather than democratic integration.",
+      "explanation": "Socio-economic changes like occupational mobility and education have blurred caste boundaries.",
       "frequencyRating": 5
     },
     {
       "id": "g10_c3_q17",
-      "text": "The 'Child Sex Ratio' refers to the number of girl children per thousand boys in the age group of:",
-      "options": ["0-1", "0-6", "0-14", "0-18"],
+      "text": "When we say 'caste in politics', we mean:",
+      "options": ["Politics is free from caste", "Caste groups are used as vote banks by political parties", "Caste is the only factor in voting", "Only one caste can vote"],
       "correctIndex": 1,
-      "explanation": "A declining ratio indicates female foeticide and gender discrimination.",
-      "frequencyRating": 4
+      "explanation": "Political parties often choose candidates based on the caste composition of the electorate to win elections.",
+      "frequencyRating": 5
     },
     {
       "id": "g10_c3_q18",
-      "text": "Family laws deal with matters related to:",
-      "options": ["Criminal cases", "Marriage, divorce, and inheritance", "Property taxes", "Traffic rules"],
-      "correctIndex": 1,
-      "explanation": "In India, these laws differ for different religious communities.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_c3_q19",
-      "text": "A person who does not discriminate others on the basis of religious beliefs is called:",
-      "options": ["Communal", "Secularist", "Casteist", "Feminist"],
-      "correctIndex": 1,
-      "explanation": "A secularist believes in the equality of all religions and neutrality of the state.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_c3_q20",
-      "text": "Casteism in politics is reflected when:",
-      "options": ["Parties choose candidates based on caste composition of voters", "Voters vote only for their own caste", "Caste sentiments are used to win elections", "All of the above"],
-      "correctIndex": 3,
-      "explanation": "Caste identities are often exploited during the electoral process.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_c3_q21",
-      "text": "Gender division is not based on biology but on ______ expectations and stereotypes.",
-      "options": ["Social", "Economic", "Physical", "Religious"],
+      "text": "Which of the following is TRUE about 'politics in caste'?",
+      "options": ["Caste groups try to become bigger by incorporating neighboring sub-castes", "Caste groups stay isolated", "Politics has no impact on caste", "Caste groups disappear during elections"],
       "correctIndex": 0,
-      "explanation": "It is a social construct that dictates how men and women 'should' behave.",
+      "explanation": "Politics influences caste by bringing various groups together into larger coalitions to gain bargaining power.",
       "frequencyRating": 4
     },
     {
-      "id": "g10_c3_q22",
+      "id": "g10_c3_q19",
       "text": "Which of these is NOT a form of communalism?",
-      "options": ["Religious prejudice", "Belief in superiority of one's religion", "Equal respect for all religions", "Political mobilization on religious lines"],
-      "correctIndex": 2,
-      "explanation": "Equal respect is a feature of secularism, not communalism.",
+      "options": ["Belief in religious superiority", "Desire to form a separate political unit", "Mobilization on religious lines", "Treating all citizens as equal regardless of religion"],
+      "correctIndex": 3,
+      "explanation": "Equality regardless of religion is a feature of secularism, not communalism.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c3_q20",
+      "text": "The Child Sex Ratio in India has been:",
+      "options": ["Increasing", "Declining", "Remaining constant", "Balanced at 1000"],
+      "correctIndex": 1,
+      "explanation": "Due to preference for male children and sex-selective abortion, the ratio of girls to boys has fallen in many parts of India.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c3_q21",
+      "text": "What was the main demand of the feminist movements?",
+      "options": ["Right to property only", "Political and legal equality", "Higher wages than men", "Exclusion of men from society"],
+      "correctIndex": 1,
+      "explanation": "Feminists sought equal opportunities in education, career, and political representation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c3_q22",
+      "text": "Communal politics is based on the idea that:",
+      "options": ["Religion is irrelevant to society", "Religion is the principal basis of social community", "Caste is more important than religion", "Politics should be secular"],
+      "correctIndex": 1,
+      "explanation": "This ideology believes that followers of one religion must belong to one community with identical interests.",
       "frequencyRating": 5
     },
     {
       "id": "g10_c3_q23",
-      "text": "The idea that 'Caste' is the sole basis of social community is called:",
-      "options": ["Communalism", "Casteism", "Feminism", "Secularism"],
-      "correctIndex": 1,
-      "explanation": "Casteism assumes that people of the same caste have the same interests.",
+      "text": "In India, the Constitution prohibits discrimination on the grounds of:",
+      "options": ["Religion", "Caste", "Gender", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "The Indian Constitution ensures equality for all citizens by forbidding discrimination on multiple social grounds.",
       "frequencyRating": 5
     },
     {
       "id": "g10_c3_q24",
-      "text": "The term 'Urbanization' means:",
-      "options": ["Shift of population from rural to urban areas", "Building more houses", "Planting trees", "Cleaning the city"],
-      "correctIndex": 0,
-      "explanation": "This shift is often associated with economic growth and changes in social structures.",
-      "frequencyRating": 4
+      "text": "Untouchability was officially ________ by the Constitution of India.",
+      "options": ["Encouraged", "Abolished", "Ignored", "Regulated"],
+      "correctIndex": 1,
+      "explanation": "The Constitution banned the practice of untouchability to promote social equality.",
+      "frequencyRating": 5
     },
     {
       "id": "g10_c3_q25",
-      "text": "Occupational mobility refers to the shift from one ______ to another.",
-      "options": ["City", "Occupation", "Country", "Religion"],
+      "text": "When a person believes that his or her own religion is superior to that of others, it leads to:",
+      "options": ["Secularism", "Communalism", "Feminism", "Casteism"],
       "correctIndex": 1,
-      "explanation": "In modern times, individuals often move away from their hereditary occupations.",
+      "explanation": "This mindset is the fundamental root of communal conflict.",
       "frequencyRating": 4
     },
     {
       "id": "g10_c3_q26",
-      "text": "Which of the following is true about the status of women in India?",
-      "options": ["They are more literate than men", "They spend more time on unpaid work", "They hold most political offices", "They are paid more than men"],
+      "text": "Occupational mobility means:",
+      "options": ["Moving from one city to another for a job", "Shift from one occupation to another, usually across generations", "Men doing women's work", "Women working in offices"],
       "correctIndex": 1,
-      "explanation": "Women perform a huge amount of daily household work which is often unrecognized and unpaid.",
-      "frequencyRating": 5
+      "explanation": "This shift breaks the traditional link between caste and specific occupations.",
+      "frequencyRating": 3
     },
     {
       "id": "g10_c3_q27",
-      "text": "The 'Communal' mind often leads to a quest for political ______ of one's own religious community.",
-      "options": ["Equality", "Dominance", "Freedom", "Isolation"],
-      "correctIndex": 1,
-      "explanation": "This often manifests as a desire for a separate political unit or control over others.",
+      "text": "Urbanisation refers to:",
+      "options": ["Shift of population from towns to villages", "Growth of forests", "Shift of population from rural areas to urban areas", "Developing agricultural lands"],
+      "correctIndex": 2,
+      "explanation": "Urbanisation is a key factor in changing traditional social structures like caste.",
       "frequencyRating": 4
     },
     {
       "id": "g10_c3_q28",
-      "text": "In a democracy, political expression of social divisions is:",
-      "options": ["Always bad", "Normal and can be healthy", "Illegal", "Forbidden"],
-      "correctIndex": 1,
-      "explanation": "Expressing the needs of marginalized groups allows them to seek justice and representation.",
+      "text": "The belief that all the followers of a religion must have the same interests is a flaw of:",
+      "options": ["Secularism", "Democracy", "Communalism", "Feminism"],
+      "correctIndex": 2,
+      "explanation": "Communalism fails to recognize that individuals within a religion have different roles and needs.",
       "frequencyRating": 4
     },
     {
       "id": "g10_c3_q29",
-      "text": "Gandhi used to say that 'Religion can never be separated from ______'.",
-      "options": ["Caste", "Politics", "Society", "Family"],
+      "text": "Which of these is a way to increase women's representation in politics?",
+      "options": ["Increasing their work at home", "Legal reservation of seats", "Asking them to avoid voting", "Ignoring gender issues"],
       "correctIndex": 1,
-      "explanation": "He meant that politics should be guided by the moral values drawn from religion.",
+      "explanation": "Reservation of seats ensures that women have a guaranteed presence in decision-making bodies.",
       "frequencyRating": 5
     },
     {
       "id": "g10_c3_q30",
-      "text": "The Constitution of India allows the state to intervene in religious matters to ensure:",
-      "options": ["Dominance of one religion", "Equality within religious communities", "End of all festivals", "None of these"],
-      "correctIndex": 1,
-      "explanation": "For example, the state banned Untouchability, which was a practice within Hinduism.",
+      "text": "The idea of using caste as a basis for political mobilization was expected to:",
+      "options": ["Strengthen democracy", "Bring together people of different castes", "Help disadvantaged castes gain a say in power", "Increase communalism"],
+      "correctIndex": 2,
+      "explanation": "Caste politics has often allowed lower castes to demand their space and share in power.",
       "frequencyRating": 4
     },
     {
       "id": "g10_c3_q31",
-      "text": "Which religious community in India is the largest minority?",
-      "options": ["Christians", "Sikhs", "Muslims", "Buddhists"],
+      "text": "What is the status of the Women's Reservation Bill in the Indian Parliament?",
+      "options": ["Passed long ago", "Rejected forever", "Pending for more than a decade", "Not yet proposed"],
       "correctIndex": 2,
-      "explanation": "According to the census, Muslims constitute the largest minority group in India.",
-      "frequencyRating": 3
+      "explanation": "While passed in the Rajya Sabha at one point, it has faced hurdles in becoming a law for the Lok Sabha and State Assemblies.",
+      "frequencyRating": 4
     },
     {
       "id": "g10_c3_q32",
-      "text": "Human rights groups in our country have argued that most victims of communal riots are:",
-      "options": ["Rich people", "Police", "Religious minorities", "Politicians"],
-      "correctIndex": 2,
-      "explanation": "They demand that the government take special steps to protect minorities during riots.",
-      "frequencyRating": 3
-    },
-    {
-      "id": "g10_c3_q33",
-      "text": "The 'Women's Reservation Bill' seeks to reserve seats in:",
-      "options": ["Gram Panchayat", "Private companies", "Lok Sabha and State Assemblies", "Universities"],
-      "correctIndex": 2,
-      "explanation": "Various groups have been demanding this bill for several decades to increase women's political power.",
+      "text": "Casteism is based on the assumption that:",
+      "options": ["Caste is the only basis of social community", "Religion is more important than caste", "All castes are equal", "Caste is irrelevant"],
+      "correctIndex": 0,
+      "explanation": "Casteism assumes that people belonging to the same caste naturally form a separate social community.",
       "frequencyRating": 5
     },
     {
+      "id": "g10_c3_q33",
+      "text": "Secularism is not just an ideology of some parties, but is the ________ of our Constitution.",
+      "options": ["Weakness", "Foundation", "Obstacle", "Option"],
+      "correctIndex": 1,
+      "explanation": "Secularism is a core value that ensures the unity and integrity of India.",
+      "frequencyRating": 4
+    },
+    {
       "id": "g10_c3_q34",
-      "text": "When politicians use caste to 'gather' votes, they often treat each caste as a:",
-      "options": ["Vote bank", "Social group", "Economic unit", "Family"],
-      "correctIndex": 0,
-      "explanation": "The term 'vote bank' refers to a loyal bloc of voters from a specific community.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_c3_q35",
-      "text": "Which of the following is NOT true about caste in elections?",
-      "options": ["No parliamentary constituency has a clear majority of one single caste", "People only vote for their own caste", "No party wins all the votes of a caste", "Many people have more than one caste in their family tree"],
+      "text": "In a democracy, political expression of social divisions is:",
+      "options": ["Always dangerous", "Normal and can be healthy", "Prohibited by law", "Impossible"],
       "correctIndex": 1,
-      "explanation": "Voters consider many factors besides caste, including candidate performance and party loyalty.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_c3_q36",
-      "text": "The division based on 'Religion' is often ______ and more global than the division based on 'Caste'.",
-      "options": ["Smaller", "Widespread", "Less important", "Temporary"],
-      "correctIndex": 1,
-      "explanation": "Religious identities exist across national borders, unlike the Indian caste system.",
+      "explanation": "In a healthy democracy, diverse groups can express their grievances and negotiate for their rights.",
       "frequencyRating": 3
     },
     {
-      "id": "g10_c3_q37",
-      "text": "The most important provision of the Indian Constitution that makes it a secular state is:",
-      "options": ["Freedom of speech", "Prohibition of discrimination on ground of religion", "Right to property", "Right to bear arms"],
+      "id": "g10_c3_q35",
+      "text": "The 'Scheduled Castes' and 'Scheduled Tribes' are groups that:",
+      "options": ["Were always in power", "Faced discrimination and exclusion for centuries", "Only live in cities", "Follow only one religion"],
       "correctIndex": 1,
-      "explanation": "This ensures that no citizen is treated differently because of their faith.",
+      "explanation": "These groups have historically been marginalized and are now provided constitutional protections.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c3_q36",
+      "text": "Which of the following is NOT a reason for the decline of the caste system?",
+      "options": ["Growth of literacy", "Urbanisation", "Strict adherence to old rituals", "Occupational mobility"],
+      "correctIndex": 2,
+      "explanation": "Old rituals and rigid notions of purity/pollution are declining due to modern influences.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c3_q37",
+      "text": "Gender division is usually understood as:",
+      "options": ["Biological difference", "Natural and unchangeable", "Social expectations and stereotypes", "Based on strength only"],
+      "correctIndex": 2,
+      "explanation": "It is a form of social division based on what society expects from men and women.",
       "frequencyRating": 5
     },
     {
       "id": "g10_c3_q38",
-      "text": "Which of these is a 'challenging' aspect of the caste system in modern India?",
-      "options": ["Inter-caste marriage is common", "Untouchability has completely vanished", "Inequality in access to resources continues", "Caste has no role in politics"],
-      "correctIndex": 2,
-      "explanation": "Caste groups that had access to education in the past continue to perform better economically.",
+      "text": "What happens when caste is treated as the only basis of politics?",
+      "options": ["It improves governance", "It can divert attention from other pressing issues like poverty", "It makes everyone happy", "It eliminates corruption"],
+      "correctIndex": 1,
+      "explanation": "Exclusive focus on caste can lead to tensions and ignore broader developmental needs.",
       "frequencyRating": 4
     },
     {
       "id": "g10_c3_q39",
-      "text": "The participation of women in the labor force in India is ______ compared to many other countries.",
-      "options": ["Higher", "Lower", "Equal", "Leading"],
+      "text": "Universal Adult Franchise helped in:",
+      "options": ["Establishing caste superiority", "Giving every citizen one vote and equal value", "Promoting communalism", "Reducing literacy"],
       "correctIndex": 1,
-      "explanation": "Social barriers and domestic burdens contribute to lower female labor force participation.",
-      "frequencyRating": 4
+      "explanation": "One person, one vote forced political leaders to treat people of all castes as important for winning elections.",
+      "frequencyRating": 5
     },
     {
       "id": "g10_c3_q40",
-      "text": "Politics can help in reducing caste inequalities by:",
-      "options": ["Ignoring caste", "Providing voice to the disadvantaged castes", "Promoting upper castes", "Ending all elections"],
+      "text": "To counter communalism, the Indian Constitution:",
+      "options": ["Favours the majority religion", "Allows the state to intervene in religious matters to ensure equality", "Bans all religious practices", "Recognizes only Hindu laws"],
       "correctIndex": 1,
-      "explanation": "Democratic politics allows groups to bargain for power and demand their rights.",
-      "frequencyRating": 5
+      "explanation": "The state can intervene (like banning untouchability) to ensure that religious practices do not violate equality.",
+      "frequencyRating": 4
     }
   ]
 }

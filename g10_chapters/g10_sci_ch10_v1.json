@@ -1,0 +1,330 @@
+{
+  "id": "g10_sci_ch10",
+  "grade": "10",
+  "subject": "Science",
+  "number": "10",
+  "title": "The Human Eye and the Colourful World",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_s10_q1",
+      "text": "The thin membrane through which light enters the eye is called:",
+      "options": ["Iris", "Cornea", "Retina", "Pupil"],
+      "correctIndex": 1,
+      "explanation": "The cornea is the transparent spherical membrane at the front of the eye through which light enters.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s10_q2",
+      "text": "The amount of light entering the eye is controlled and regulated by the:",
+      "options": ["Retina", "Cornea", "Iris and Pupil", "Ciliary muscles"],
+      "correctIndex": 2,
+      "explanation": "The iris is a dark muscular diaphragm that controls the size of the pupil, which in turn regulates the amount of light.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s10_q3",
+      "text": "The eye lens forms which type of image on the retina?",
+      "options": ["Virtual and erect", "Real and inverted", "Real and erect", "Virtual and inverted"],
+      "correctIndex": 1,
+      "explanation": "The crystalline lens forms a real and inverted image of objects on the retina.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s10_q4",
+      "text": "The ability of the eye lens to adjust its focal length is called:",
+      "options": ["Refraction", "Accommodation", "Dispersion", "Presbyopia"],
+      "correctIndex": 1,
+      "explanation": "Power of accommodation is the ability of the ciliary muscles to change the curvature of the lens to see objects at different distances.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s10_q5",
+      "text": "The least distance of distinct vision for a young adult with normal vision is about:",
+      "options": ["2.5 cm", "25 cm", "2.5 m", "25 m"],
+      "correctIndex": 1,
+      "explanation": "25 cm is the near point of the eye, the minimum distance at which an object can be seen clearly without strain.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s10_q6",
+      "text": "A person who can see nearby objects clearly but cannot see distant objects distinctly is suffering from:",
+      "options": ["Hypermetropia", "Myopia", "Presbyopia", "Cataract"],
+      "correctIndex": 1,
+      "explanation": "Myopia (near-sightedness) occurs when the image of a distant object is formed in front of the retina.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s10_q7",
+      "text": "Myopia is corrected by using a lens of which type?",
+      "options": ["Convex lens", "Concave lens", "Bifocal lens", "Cylindrical lens"],
+      "correctIndex": 1,
+      "explanation": "A concave lens of suitable power diverges light rays so that the image forms correctly on the retina.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s10_q8",
+      "text": "Hypermetropia (far-sightedness) is corrected by using a:",
+      "options": ["Convex lens", "Concave lens", "Bifocal lens", "Plane mirror"],
+      "correctIndex": 0,
+      "explanation": "A convex lens provides the additional focusing power needed to bring the image onto the retina.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s10_q9",
+      "text": "The defect of vision that arises due to the gradual weakening of ciliary muscles with aging is:",
+      "options": ["Myopia", "Hypermetropia", "Presbyopia", "Astigmatism"],
+      "correctIndex": 2,
+      "explanation": "Presbyopia occurs in old age as the eye lens loses its flexibility and the near point recedes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s10_q10",
+      "text": "The splitting of white light into its component colors is called:",
+      "options": ["Reflection", "Refraction", "Dispersion", "Scattering"],
+      "correctIndex": 2,
+      "explanation": "Dispersion occurs because different colors of light bend through different angles while passing through a prism.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s10_q11",
+      "text": "In the spectrum of white light produced by a glass prism, which color bends the most?",
+      "options": ["Red", "Yellow", "Green", "Violet"],
+      "correctIndex": 3,
+      "explanation": "Violet light has the shortest wavelength and undergoes maximum deviation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s10_q12",
+      "text": "The twinkling of stars is due to:",
+      "options": ["Atmospheric reflection", "Atmospheric refraction", "Dispersion by water drops", "Scattering of light"],
+      "correctIndex": 1,
+      "explanation": "The varying temperature and density of air layers cause the apparent position of the star to fluctuate.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s10_q13",
+      "text": "The sun appears visible to us about 2 minutes before the actual sunrise due to:",
+      "options": ["Atmospheric refraction", "Scattering of light", "Dispersion of light", "Reflection of light"],
+      "correctIndex": 0,
+      "explanation": "Atmospheric refraction bends the sunlight towards the Earth, allowing us to see the sun even when it is below the horizon.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s10_q14",
+      "text": "The sky appears blue because:",
+      "options": ["Blue light is absorbed by atmosphere", "Blue light has longer wavelength", "Atmosphere scatters blue light more than red", "Water in oceans reflects blue sky"],
+      "correctIndex": 2,
+      "explanation": "Molecules in the air scatter light with shorter wavelengths (blue) more effectively than longer wavelengths (red).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s10_q15",
+      "text": "The scattering of light by colloidal particles is known as:",
+      "options": ["Snell's effect", "Tyndall effect", "Newton's effect", "Prism effect"],
+      "correctIndex": 1,
+      "explanation": "Tyndall effect makes the path of a beam of light visible when it passes through a colloidal solution or dusty air.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s10_q16",
+      "text": "The danger signal lights are red in color because:",
+      "options": ["Red is scattered the least by fog or smoke", "Red is scattered the most", "Red is most soothing to eyes", "Red has the shortest wavelength"],
+      "correctIndex": 0,
+      "explanation": "Red has the longest wavelength in the visible spectrum and is least scattered, making it visible from long distances.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s10_q17",
+      "text": "A rainbow is a natural spectrum appearing in the sky after rain. It is caused by:",
+      "options": ["Only Reflection", "Only Refraction", "Dispersion and Total Internal Reflection", "Only Scattering"],
+      "correctIndex": 2,
+      "explanation": "Water droplets act as tiny prisms that refract, disperse, and then internally reflect the sunlight.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s10_q18",
+      "text": "For an astronaut in outer space, the sky appears:",
+      "options": ["Blue", "Red", "Black", "White"],
+      "correctIndex": 2,
+      "explanation": "There is no atmosphere in space to scatter light, so the sky looks dark/black.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s10_q19",
+      "text": "The point in the eye where the optic nerve leaves and no vision is possible is the:",
+      "options": ["Yellow spot", "Pupil", "Blind spot", "Fovea"],
+      "correctIndex": 2,
+      "explanation": "The blind spot lacks light-sensitive cells (rods and cones), so no image is perceived there.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s10_q20",
+      "text": "The light-sensitive cells in the retina that respond to the intensity of light are:",
+      "options": ["Rods", "Cones", "Iris", "Ciliary muscles"],
+      "correctIndex": 0,
+      "explanation": "Rod cells are sensitive to dim light, while cones are sensitive to color and bright light.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s10_q21",
+      "text": "When ciliary muscles are relaxed, the eye lens becomes:",
+      "options": ["Thick and focal length decreases", "Thin and focal length increases", "Thick and focal length increases", "Thin and focal length decreases"],
+      "correctIndex": 1,
+      "explanation": "Relaxed muscles make the lens thin, allowing the eye to see distant objects clearly.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s10_q22",
+      "text": "Which part of the eye is responsible for the color of a person's eyes?",
+      "options": ["Cornea", "Retina", "Iris", "Pupil"],
+      "correctIndex": 2,
+      "explanation": "The iris contains pigments that give the eye its characteristic color (blue, brown, green, etc.).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s10_q23",
+      "text": "The clear fluid filled in the space between the cornea and the eye lens is:",
+      "options": ["Vitreous humor", "Aqueous humor", "Blood plasma", "Cytoplasm"],
+      "correctIndex": 1,
+      "explanation": "Aqueous humor maintains intraocular pressure and nourishes the front of the eye.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s10_q24",
+      "text": "The angle between the incident ray and the emergent ray in a prism is called:",
+      "options": ["Angle of incidence", "Angle of refraction", "Angle of deviation", "Angle of prism"],
+      "correctIndex": 2,
+      "explanation": "The peculiar shape of the prism makes the emergent ray bend at an angle to the direction of the incident ray.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s10_q25",
+      "text": "A person needs a lens of power -4.5 D for correction of her vision. The defect she has is:",
+      "options": ["Hypermetropia", "Myopia", "Presbyopia", "Cataract"],
+      "correctIndex": 1,
+      "explanation": "Negative power indicates a concave (diverging) lens, which is used to correct myopia.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s10_q26",
+      "text": "Why do planets not twinkle like stars?",
+      "options": ["They are far away", "They are point sources of light", "They are closer to Earth and act as extended sources", "They have no light of their own"],
+      "correctIndex": 2,
+      "explanation": "Planets are seen as a collection of point sources; fluctuations in light from different points cancel each other out.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s10_q27",
+      "text": "The condition where the crystalline lens of people at old age becomes milky and cloudy is:",
+      "options": ["Myopia", "Presbyopia", "Cataract", "Hypermetropia"],
+      "correctIndex": 2,
+      "explanation": "Cataract causes partial or complete loss of vision and can be restored through surgery.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s10_q28",
+      "text": "Who was the first to use a glass prism to obtain the spectrum of sunlight?",
+      "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "C.V. Raman"],
+      "correctIndex": 1,
+      "explanation": "Isaac Newton used two prisms to show that white light is made of seven colors and cannot be further split.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s10_q29",
+      "text": "Very fine particles in the atmosphere scatter mainly:",
+      "options": ["Red light", "Blue light", "White light", "Yellow light"],
+      "correctIndex": 1,
+      "explanation": "Fine particles scatter shorter wavelengths (blue) more, while larger particles scatter longer wavelengths or all wavelengths (appearing white).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s10_q30",
+      "text": "At noon the sun appears white because:",
+      "options": ["Light is scattered most", "The sun is coldest at noon", "Light has to travel less distance and scattering is minimum", "All colors are absorbed"],
+      "correctIndex": 2,
+      "explanation": "Since the sun is overhead, light travels a shorter path through the atmosphere, and very little scattering occurs.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s10_q31",
+      "text": "The persistence of vision for a human eye is about:",
+      "options": ["1/2 second", "1/10 second", "1/16 second", "1 second"],
+      "correctIndex": 2,
+      "explanation": "The image on the retina persists for about 1/16th of a second, which is the basis for motion pictures.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s10_q32",
+      "text": "The near point of a hypermetropic eye is:",
+      "options": ["25 cm", "Less than 25 cm", "More than 25 cm", "At infinity"],
+      "correctIndex": 2,
+      "explanation": "In hypermetropia, the person has difficulty seeing nearby objects as the near point recedes away from 25 cm.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s10_q33",
+      "text": "In the VIBGYOR sequence of colors, which has the highest wavelength?",
+      "options": ["Violet", "Green", "Yellow", "Red"],
+      "correctIndex": 3,
+      "explanation": "Red light has the longest wavelength and Violet has the shortest.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s10_q34",
+      "text": "The far point of a myopic eye is:",
+      "options": ["Infinity", "25 cm", "Less than infinity", "More than 25 cm"],
+      "correctIndex": 2,
+      "explanation": "For a myopic eye, the far point is not infinity but comes closer to the eye.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s10_q35",
+      "text": "A person using bifocal lenses likely suffers from:",
+      "options": ["Myopia only", "Hypermetropia only", "Both Myopia and Hypermetropia", "Cataract"],
+      "correctIndex": 2,
+      "explanation": "Bifocal lenses have a concave upper part for distant vision and a convex lower part for reading.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s10_q36",
+      "text": "The jelly-like transparent material of the eye lens is composed of:",
+      "options": ["Proteins", "Carbohydrates", "Minerals", "Lipids"],
+      "correctIndex": 0,
+      "explanation": "The crystalline lens is a fibrous, jelly-like protein structure.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_s10_q37",
+      "text": "The fluid filled in the space between the eye lens and the retina is:",
+      "options": ["Aqueous humor", "Vitreous humor", "Synovial fluid", "Cerebrospinal fluid"],
+      "correctIndex": 1,
+      "explanation": "Vitreous humor is a transparent gel that supports the shape of the eyeball.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s10_q38",
+      "text": "Rainbows are always formed in a direction ________ to that of the Sun.",
+      "options": ["Same", "Opposite", "Perpendicular", "Random"],
+      "correctIndex": 1,
+      "explanation": "To see a rainbow, the sun must be behind the observer and rain must be in front.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s10_q39",
+      "text": "Due to atmospheric refraction, the day is lengthened by approximately:",
+      "options": ["2 minutes", "4 minutes", "10 minutes", "1 minute"],
+      "correctIndex": 1,
+      "explanation": "Advanced sunrise (2 min) and delayed sunset (2 min) add up to 4 minutes total.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s10_q40",
+      "text": "The change in the focal length of an eye lens is caused by the action of the:",
+      "options": ["Pupil", "Retina", "Ciliary muscles", "Iris"],
+      "correctIndex": 2,
+      "explanation": "Ciliary muscles change the curvature of the lens, thereby changing its focal length.",
+      "frequencyRating": 5
+    }
+  ]
+}

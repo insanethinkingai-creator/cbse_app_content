@@ -1,0 +1,330 @@
+{
+  "id": "g10_hist_ch4",
+  "grade": "10",
+  "subject": "Social Science",
+  "number": "4",
+  "title": "The Age of Industrialisation",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_h4_q1",
+      "text": "What does 'Proto-industrialisation' refer to?",
+      "options": ["The period of large scale factory production", "The phase of industrialisation before the coming of factories", "The decline of industries", "The period of technological revolution"],
+      "correctIndex": 1,
+      "explanation": "Before factories, there was large-scale industrial production for an international market, controlled by merchants and based in households.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h4_q2",
+      "text": "In the proto-industrial stage, where was most of the production carried out?",
+      "options": ["Factories", "Towns", "Countryside (Rural areas)", "Seaports"],
+      "correctIndex": 2,
+      "explanation": "Merchants in towns moved to the countryside, supplying money to peasants and artisans to produce for them.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h4_q3",
+      "text": "Who was a 'Stapler' in the textile industry?",
+      "options": ["A person who sewed clothes", "A person who 'staples' or sorts wool according to its fibre", "A machine operator", "A merchant who sold finished goods"],
+      "correctIndex": 1,
+      "explanation": "Staplers were part of the early production process in the woollen industry.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h4_q4",
+      "text": "The earliest factories in England came up in the:",
+      "options": ["1730s", "1830s", "1780s", "1850s"],
+      "correctIndex": 0,
+      "explanation": "Factory production began early in the 18th century, but multiplied significantly in the late 18th century.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h4_q5",
+      "text": "The first symbol of the new era of industrialisation was:",
+      "options": ["Iron", "Coal", "Cotton", "Steel"],
+      "correctIndex": 2,
+      "explanation": "Cotton was the leading sector in the first phase of industrialisation in Britain.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h4_q6",
+      "text": "Who invented the Spinning Jenny in 1764?",
+      "options": ["Richard Arkwright", "James Hargreaves", "James Watt", "John Kay"],
+      "correctIndex": 1,
+      "explanation": "The Spinning Jenny speeded up the spinning process and reduced labour demand.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h4_q7",
+      "text": "Who improved the steam engine produced by Newcomen and patented the new engine in 1781?",
+      "options": ["Richard Arkwright", "James Watt", "Mathew Boulton", "George Stephenson"],
+      "correctIndex": 1,
+      "explanation": "James Watt's steam engine was a revolutionary power source for industries.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h4_q8",
+      "text": "In Victorian Britain, why did the upper classes prefer things produced by hand?",
+      "options": ["They were cheaper", "They symbolised refinement and class", "Handmade goods were more durable", "Machine goods were unavailable"],
+      "correctIndex": 1,
+      "explanation": "Hand-made products were individual, unique, and carefully finished, unlike mass-produced machine goods.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h4_q9",
+      "text": "Why were merchants in Britain reluctant to use machines in the early 19th century?",
+      "options": ["Machines were too expensive and often broke down", "There was a shortage of human labour", "Machines produced poor quality goods", "The government banned machines"],
+      "correctIndex": 0,
+      "explanation": "Repairing machines was costly and labor was abundant and cheap, making machines less attractive initially.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h4_q10",
+      "text": "In the mid-eighteenth century, before the machine age, which country dominated the international market in textiles?",
+      "options": ["Britain", "China", "India", "France"],
+      "correctIndex": 2,
+      "explanation": "Silk and cotton goods from India were famous for their quality and fineness.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h4_q11",
+      "text": "Which Indian ports were the main centers of pre-colonial vibrant sea trade?",
+      "options": ["Surat and Masulipatnam", "Bombay and Calcutta", "Madras and Goa", "Cochin and Kandla"],
+      "correctIndex": 0,
+      "explanation": "Surat on the Gujarat coast and Masulipatnam on the Coromandel coast were major trade links.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h4_q12",
+      "text": "The paid servant appointed by the East Company to supervise weavers and collect supplies was the:",
+      "options": ["Gomastha", "Zamindar", "Broker", "Sepoy"],
+      "correctIndex": 0,
+      "explanation": "Gomasthas were used to eliminate the existing system of brokers and have direct control over the weavers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h4_q13",
+      "text": "Why did the export of Indian textiles decline by the mid-19th century?",
+      "options": ["Indian weavers stopped working", "British manufacturers pressurized the government to impose import duties on Indian cloth", "Cotton was no longer grown in India", "War in Europe"],
+      "correctIndex": 1,
+      "explanation": "Machine-made British textiles were cheaper and flooded the Indian market, while exports from India were blocked.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h4_q14",
+      "text": "The first cotton mill in India was established in ______ in 1854.",
+      "options": ["Calcutta", "Madras", "Bombay", "Ahmedabad"],
+      "correctIndex": 2,
+      "explanation": "Bombay became the center of the cotton textile industry in India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h4_q15",
+      "text": "The first jute mill in India was set up in 1855 at Rishra in:",
+      "options": ["Assam", "Bengal", "Bihar", "Odisha"],
+      "correctIndex": 1,
+      "explanation": "Bengal became the hub for jute production and export.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "h10_h4_q16",
+      "text": "Who established the first Indian jute mill in Calcutta in 1917?",
+      "options": ["Dwarkanath Tagore", "Seth Hukumchand", "G.D. Birla", "Jamsetjee Tata"],
+      "correctIndex": 1,
+      "explanation": "Seth Hukumchand, a Marwari businessman, was a pioneer in the jute industry.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h4_q17",
+      "text": "Dwarkanath Tagore was a famous Indian industrialist who invested in:",
+      "options": ["Shipping, mining and banking", "Textiles only", "Automobiles", "IT services"],
+      "correctIndex": 0,
+      "explanation": "Tagore was one of the early entrepreneurs who traded with China and set up joint-stock companies.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h4_q18",
+      "text": "Where did most of the workers in the Bombay cotton mills come from?",
+      "options": ["Overseas", "Neighboring district of Ratnagiri", "United Provinces", "Punjab"],
+      "correctIndex": 1,
+      "explanation": "Most industrial workers were peasants who came from nearby districts to work in cities.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h4_q19",
+      "text": "A 'Jobber' was a person who:",
+      "options": ["Repaired machines", "Got new recruits for the factories", "Managed the accounts", "Sold finished goods"],
+      "correctIndex": 1,
+      "explanation": "Jobbers were old and trusted employees who helped workers find jobs and housing, often exerting authority.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h4_q20",
+      "text": "During the First World War, Indian industries boomed because:",
+      "options": ["British factories were busy producing for the war", "Import of British goods into India declined", "Indian factories got orders for war supplies like jute bags and uniforms", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "The war created a vacuum in the Indian market that local industries filled.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h4_q21",
+      "text": "After the First World War, why could Britain never recapture its old position in the Indian market?",
+      "options": ["The British economy crumbled", "Britain could not compete with Japan", "Indian industry had consolidated its position", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "The war significantly shifted the global economic balance.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h4_q22",
+      "text": "Large scale industries formed only a small segment of the Indian economy. About 67% were concentrated in:",
+      "options": ["Rural areas", "Bengal and Bombay", "Madras and Punjab", "Gujarat and Rajasthan"],
+      "correctIndex": 1,
+      "explanation": "Industrial development was geographically uneven in colonial India.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h4_q23",
+      "text": "The use of the 'fly shuttle' in the early 20th century helped:",
+      "options": ["Farmers", "Weavers to increase productivity and handle wide looms", "Mine workers", "Machine operators"],
+      "correctIndex": 1,
+      "explanation": "Technology like the fly shuttle allowed handloom weavers to compete better with mill-made cloth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h4_q24",
+      "text": "Advertisements became a way to create a market for products. Images of ______ were often used on labels to show quality.",
+      "options": ["Kings and Queens", "Indian Gods and Goddesses", "Animals", "Historical buildings"],
+      "correctIndex": 1,
+      "explanation": "Divine images gave divine approval to the products being sold.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h4_q25",
+      "text": "Manchester labels on cloth bundles exported to India carried the words:",
+      "options": ["Made in Britain", "Made in Manchester", "Pure Cotton", "Best Quality"],
+      "correctIndex": 1,
+      "explanation": "The label was a mark of quality and brand identity for British manufacturers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h4_q26",
+      "text": "The term 'Orient' refers to:",
+      "options": ["Western countries", "The countries to the East of the Mediterranean (Asia)", "North America", "Australia"],
+      "correctIndex": 1,
+      "explanation": "It is a traditional term used by Westerners to describe Asian cultures and regions.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_h4_q27",
+      "text": "Which of the following was NOT a problem faced by Indian weavers in the 19th century?",
+      "options": ["Shortage of raw cotton", "Competition from cheap machine-made imports", "High demand for their products abroad", "Loss of control over production"],
+      "correctIndex": 2,
+      "explanation": "Demand for Indian hand-made textiles actually collapsed in international markets.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h4_q28",
+      "text": "The TISCO (Tata Iron and Steel Company) began producing steel in:",
+      "options": ["1901", "1912", "1920", "1947"],
+      "correctIndex": 1,
+      "explanation": "TISCO was established by Jamsetji Tata in Jamshedpur.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h4_q29",
+      "text": "Guilds were powerful associations of:",
+      "options": ["Farmers", "Producers and Merchants", "Soldiers", "Government officials"],
+      "correctIndex": 1,
+      "explanation": "Guilds regulated competition, prices, and entry of new people into the trade.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h4_q30",
+      "text": "Industrialisation in Britain was primarily driven by which two sectors in the first and second phases?",
+      "options": ["Cotton then Iron and Steel", "Iron then Cotton", "Coal then Agriculture", "Textiles then IT"],
+      "correctIndex": 0,
+      "explanation": "Cotton led until 1840s, followed by Iron and Steel due to the expansion of railways.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h4_q31",
+      "text": "The introduction of the Spinning Jenny led to:",
+      "options": ["Happiness among all workers", "Attacks on machines by women who feared losing jobs", "Lower production", "End of the textile industry"],
+      "correctIndex": 1,
+      "explanation": "Technological change often faced resistance from those whose livelihoods were threatened.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h4_q32",
+      "text": "The East India Company established political power to:",
+      "options": ["Spread democracy", "Ensure a regular supply of raw cotton and silk", "Build schools", "Help Indian merchants"],
+      "correctIndex": 1,
+      "explanation": "Control over territories allowed the Company to monopolize trade.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h4_q33",
+      "text": "Why did the production of handloom cloth actually expand in the 20th century despite mill competition?",
+      "options": ["Use of fly shuttles", "Weaving of complicated designs that machines couldn't do", "Demand for coarse cloth among poor", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Handloom weaving survived by adapting technology and focusing on niche markets.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h4_q34",
+      "text": "The 'Age of Industrialisation' is also an age of:",
+      "options": ["Global trade expansion", "Technological innovation", "Social change", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Industrialisation transformed every aspect of human life.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h4_q35",
+      "text": "Who was the 'Carder' in the textile process?",
+      "options": ["A person who spun yarn", "A person who prepared cotton or wool for spinning", "A weaver", "A dyer"],
+      "correctIndex": 1,
+      "explanation": "Carding is the process where fibres are disentangled and prepared for the next stage.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_h4_q36",
+      "text": "Fuller was a person who:",
+      "options": ["Spun the thread", "Sorted wool", "Gathered cloth by pleating (pleating)", "Painted designs"],
+      "correctIndex": 2,
+      "explanation": "Fulling was a finishing stage in textile production.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_h4_q37",
+      "text": "What does the cover of the music book 'Dawn of the Century' (1900) celebrate?",
+      "options": ["Nature", "The machine age and progress", "Tradition", "Religious values"],
+      "correctIndex": 1,
+      "explanation": "The image depicted an angel of progress with symbols of railway, camera, and machines.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h4_q38",
+      "text": "Why did industrial production in India remain mostly in the small-scale sector?",
+      "options": ["Lack of money", "Peasants preferred to stay home", "Most production was done in small workshops and households", "Mills were banned"],
+      "correctIndex": 2,
+      "explanation": "Even in the late colonial period, factory production accounted for only a small share of the total workforce.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h4_q39",
+      "text": "When Indian manufacturers advertised, the nationalist message was often:",
+      "options": ["Buy British", "If you care for the nation, then buy Indian (Swadeshi)", "Quality doesn't matter", "Import more"],
+      "correctIndex": 1,
+      "explanation": "Advertisements became a vehicle for the nationalist message of self-reliance.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h4_q40",
+      "text": "The expansion of railways in India after 1850s led to an increase in demand for:",
+      "options": ["IT products", "Coal and Iron", "Electronic goods", "Plastics"],
+      "correctIndex": 1,
+      "explanation": "Railways were the major consumers of heavy industrial products.",
+      "frequencyRating": 5
+    }
+  ]
+}

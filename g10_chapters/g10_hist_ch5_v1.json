@@ -1,0 +1,330 @@
+{
+  "id": "g10_hist_ch5",
+  "grade": "10",
+  "subject": "Social Science",
+  "number": "5",
+  "title": "Print Culture and the Modern World",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_h5_q1",
+      "text": "The earliest kind of print technology was developed in which countries?",
+      "options": ["England, France, Germany", "China, Japan, Korea", "India, Pakistan, Sri Lanka", "USA and Canada"],
+      "correctIndex": 1,
+      "explanation": "This was a system of hand printing using woodblocks.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h5_q2",
+      "text": "The method of 'woodblock printing' involved:",
+      "options": ["Using metal plates", "Rubbing paper against the inked surface of woodblocks", "Using a typewriter", "Digital printing"],
+      "correctIndex": 1,
+      "explanation": "Paper was rubbed against woodblocks which had raised, inked surfaces.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h5_q3",
+      "text": "The oldest Japanese book, printed in 868 AD, is the:",
+      "options": ["Bible", "Diamond Sutra", "Tripitaka", "Koran"],
+      "correctIndex": 1,
+      "explanation": "The Diamond Sutra contains six sheets of text and woodcut illustrations.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h5_q4",
+      "text": "Who brought the knowledge of woodblock printing to Europe from China?",
+      "options": ["Vasco da Gama", "Christopher Columbus", "Marco Polo", "James Cook"],
+      "correctIndex": 2,
+      "explanation": "Marco Polo returned to Italy in 1295 after many years of exploration in China.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h5_q5",
+      "text": "Vellum is a writing surface made from:",
+      "options": ["Wood pulp", "Animal skin", "Cotton fibres", "Silk"],
+      "correctIndex": 1,
+      "explanation": "Vellum was expensive and used for luxury editions before paper became common.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h5_q6",
+      "text": "Who developed the first known printing press in the 1430s?",
+      "options": ["Johann Gutenberg", "Erasmus", "Martin Luther", "William Caxton"],
+      "correctIndex": 0,
+      "explanation": "Gutenberg was a German goldsmith who adapted the olive press design for printing.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h5_q7",
+      "text": "The first book printed by Gutenberg on his press was the:",
+      "options": ["Koran", "Bible", "Dictionary", "Encyclopedia"],
+      "correctIndex": 1,
+      "explanation": "About 180 copies were printed in three years, which was very fast for that time.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h5_q8",
+      "text": "The 'Print Revolution' refers to:",
+      "options": ["The invention of paper", "A new way of producing books that transformed the lives of people", "The ban on books", "A war between printers"],
+      "correctIndex": 1,
+      "explanation": "It changed the relationship of information with knowledge and with institutions and authorities.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h5_q9",
+      "text": "Who wrote the 'Ninety Five Theses' in 1517, challenging the Catholic Church?",
+      "options": ["Martin Luther", "Menocchio", "Erasmus", "John Calvin"],
+      "correctIndex": 0,
+      "explanation": "Luther's writings led to the Protestant Reformation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h5_q10",
+      "text": "What was the 'Index of Prohibited Books'?",
+      "options": ["A list of bestsellers", "A list maintained by the Catholic Church to control heretical ideas", "A dictionary of new words", "A government tax document"],
+      "correctIndex": 1,
+      "explanation": "From 1558, the Church began to maintain this index to prevent the spread of ideas it disagreed with.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h5_q11",
+      "text": "In the 17th and 18th centuries, literacy rates in Europe:",
+      "options": ["Decreased", "Stagnated", "Went up significantly", "Became zero"],
+      "correctIndex": 2,
+      "explanation": "Churches set up schools, and print made reading accessible to the common people.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h5_q12",
+      "text": "Penny Chapbooks were:",
+      "options": ["Expensive hardcovers", "Small books sold by travelling pedlars for a penny", "Books about cooking", "Newspapers"],
+      "correctIndex": 1,
+      "explanation": "They were popular in England and allowed even the poor to buy and read books.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h5_q13",
+      "text": "In France, the 'Bibliotheque Bleue' were:",
+      "options": ["Blue colored newspapers", "Low-priced small books printed on poor quality paper", "Luxury royal books", "Scientific journals"],
+      "correctIndex": 1,
+      "explanation": "These were named after their cheap blue covers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h5_q14",
+      "text": "Which movement was aided by the spread of print, challenging the 'despotic' power of the French monarchy?",
+      "options": ["The Enlightenment", "The Dark Ages", "The Crusade", "The Renaissance"],
+      "correctIndex": 0,
+      "explanation": "Print popularised the ideas of Enlightenment thinkers like Voltaire and Rousseau.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h5_q15",
+      "text": "Who said 'Printing is the ultimate gift of God and the greatest one'?",
+      "options": ["Martin Luther", "Gutenberg", "Louise-Sebastien Mercier", "Thomas Paine"],
+      "correctIndex": 0,
+      "explanation": "Luther recognized print as the primary tool for spreading religious and reformist ideas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h5_q16",
+      "text": "The first printing press in India was brought to Goa by:",
+      "options": ["British merchants", "Portuguese missionaries", "French explorers", "Mughal emperors"],
+      "correctIndex": 1,
+      "explanation": "Jesuit priests learned Konkani and printed several tracts in the mid-16th century.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h5_q17",
+      "text": "The 'Bengal Gazette', a weekly magazine that described itself as 'a commercial paper open to all, but influenced by none', was started by:",
+      "options": ["James Augustus Hickey", "Raja Rammohun Roy", "Gangadhar Bhattacharya", "William Carey"],
+      "correctIndex": 0,
+      "explanation": "Hickey's paper was independent and often critical of the Company government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h5_q18",
+      "text": "Raja Rammohun Roy published the ______ in 1821 to spread his ideas of reform.",
+      "options": ["Sambad Kaumudi", "Samachar Chandrika", "Jam-i-Jahan Nama", "Shamsul Akhbar"],
+      "correctIndex": 0,
+      "explanation": "It was a Persian/Bengali journal used to debate social and religious issues.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h5_q19",
+      "text": "The Deoband Seminary, founded in 1867, published thousands of ______ telling Muslim readers how to conduct themselves.",
+      "options": ["Novels", "Fatwas", "Poems", "Maps"],
+      "correctIndex": 1,
+      "explanation": "These provided guidance on everyday life and religious interpretations in the face of colonial influence.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h5_q20",
+      "text": "Which book, written by Jyotiba Phule in 1871, focused on the injustices of the caste system?",
+      "options": ["Gulamgiri", "Amar Jiban", "Istri Dharm Vichar", "Chhote Aur Bade Ka Sawal"],
+      "correctIndex": 0,
+      "explanation": "Phule dedicated this book to the American movement to free slaves.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h5_q21",
+      "text": "The first full-length autobiography in Bengali, 'Amar Jiban', was written by:",
+      "options": ["Rashsundari Debi", "Rokeya Sakhawat Hossein", "Tarabai Shinde", "Kailashbashini Debi"],
+      "correctIndex": 0,
+      "explanation": "A housewife from a rich zamindar family, she learned to read in secret and wrote about her life.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h5_q22",
+      "text": "The Vernacular Press Act of 1878 was modeled on the:",
+      "options": ["British Press Laws", "Irish Press Laws", "French Press Laws", "American Press Laws"],
+      "correctIndex": 1,
+      "explanation": "It gave the government extensive powers to censor reports and editorials in the vernacular press.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h5_q23",
+      "text": "In the 19th century, Richard M. Hoe of New York perfected the:",
+      "options": ["Typewriter", "Power-driven cylindrical press", "Computer", "Inkjet printer"],
+      "correctIndex": 1,
+      "explanation": "This press could print 8,000 sheets per hour, making newspapers much cheaper.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h5_q24",
+      "text": "Why were manuscripts not widely used in everyday life in India before the mid-19th century?",
+      "options": ["They were fragile and expensive", "They were written in a difficult script", "They were hard to handle", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Manuscripts were handwritten on palm leaves or handmade paper and were not for mass use.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h5_q25",
+      "text": "A 'Heretic' is someone who:",
+      "options": ["Supports the king", "Holds beliefs that do not conform to the established teachings of the Church", "Is a professional printer", "Writes autobiographies"],
+      "correctIndex": 1,
+      "explanation": "Heresy was seen by the Church as a threat to its authority.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h5_q26",
+      "text": "The term 'Calligraphy' refers to:",
+      "options": ["The study of maps", "The art of beautiful and stylised writing", "A printing process", "Making animal skin paper"],
+      "correctIndex": 1,
+      "explanation": "Before printing, all books were created through skilled calligraphy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h5_q27",
+      "text": "The 'Shamlal Akhbar' and 'Jam-i-Jahan Nama' were early newspapers in:",
+      "options": ["English", "Persian", "Hindi", "Tamil"],
+      "correctIndex": 1,
+      "explanation": "Persian was an important language of administration and culture in early 19th century India.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_h5_q28",
+      "text": "Which leader was arrested in 1908 for writing about Punjabi revolutionaries in his paper 'Kesari'?",
+      "options": ["Mahatma Gandhi", "Balgangadhar Tilak", "Jawaharlal Nehru", "Subhash Chandra Bose"],
+      "correctIndex": 1,
+      "explanation": "Tilak's arrest led to widespread protests across India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h5_q29",
+      "text": "Print culture allowed women to:",
+      "options": ["Read and write in secret", "Become authors and express their feelings", "Discuss social reforms", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Print provided a platform for women to enter the public sphere and debate their rights.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h5_q30",
+      "text": "The transformation of the reading public into a hearing public was due to:",
+      "options": ["Lack of books", "Reading aloud of books at gatherings for those who couldn't read", "Radio", "Music"],
+      "correctIndex": 1,
+      "explanation": "Printers began publishing popular ballads and folk tales with illustrations to reach non-literates.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h5_q31",
+      "text": "Erasmus, a Latin scholar, was highly ________ of the print revolution.",
+      "options": ["Supportive", "Critical", "Ignorant", "Indifferent"],
+      "correctIndex": 1,
+      "explanation": "Erasmus feared that the abundance of books would lead to the spread of 'scandalous and irreligious' ideas.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_h5_q32",
+      "text": "The 'Galley' in a printing press is:",
+      "options": ["A ship", "A metal frame in which types are set and the text composed", "A type of ink", "The paper storage area"],
+      "correctIndex": 1,
+      "explanation": "It is a technical term from the era of manual typesetting.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_h5_q33",
+      "text": "In 19th century Europe, novels became a popular medium for:",
+      "options": ["Entertainment", "Exploring the lives of ordinary people and social problems", "Scientific data", "Religious prayers"],
+      "correctIndex": 1,
+      "explanation": "Novels like those by Jane Austen or Charles Dickens reflected the changing society.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h5_q34",
+      "text": "The first printed books in Europe closely resembled ______ in appearance.",
+      "options": ["Newspapers", "Manuscripts", "Wall paintings", "Metal plaques"],
+      "correctIndex": 1,
+      "explanation": "Printers used metal types that imitated the hand-written styles of the time.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h5_q35",
+      "text": "What was the result of the 'Print Revolution' on oral culture?",
+      "options": ["Oral culture disappeared", "Oral and print cultures blurred as printed material was read aloud", "Print culture was ignored", "None of the above"],
+      "correctIndex": 1,
+      "explanation": "The boundaries between the two were not sharp; hearing and reading overlapped.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h5_q36",
+      "text": "Catholic priests first printed books in the ______ language in 1579 at Cochin.",
+      "options": ["Hindi", "Tamil", "Malayalam", "Konkani"],
+      "correctIndex": 1,
+      "explanation": "Tamil was one of the first Indian languages to have printed materials.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_h5_q37",
+      "text": "The 'Akashvani' was later known as:",
+      "options": ["Television", "All India Radio", "Press Trust of India", "Doordarshan"],
+      "correctIndex": 1,
+      "explanation": "While not part of early print, it is part of the broader communication history.",
+      "frequencyRating": 1
+    },
+    {
+      "id": "g10_h5_q38",
+      "text": "The invention of printing led to the birth of a 'public sphere' where:",
+      "options": ["Only kings could speak", "Ordinary people could debate and discuss ideas", "Nobody was allowed to talk", "Only religious leaders were heard"],
+      "correctIndex": 1,
+      "explanation": "Reason and logic replaced blind faith as people discussed new ideas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h5_q39",
+      "text": "The term 'Despotism' refers to a system of government in which:",
+      "options": ["Power is shared", "The ruler has absolute and unchecked power", "Elections are held regularly", "People make all decisions"],
+      "correctIndex": 1,
+      "explanation": "Print culture helped in delegitimising the basis of such absolute power.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h5_q40",
+      "text": "Lithography is a method of printing from a:",
+      "options": ["Woodblock", "Stone or metal plate with a smooth surface", "Rubber stamp", "Stencil"],
+      "correctIndex": 1,
+      "explanation": "It became popular in India for producing cheap religious and decorative prints.",
+      "frequencyRating": 4
+    }
+  ]
+}

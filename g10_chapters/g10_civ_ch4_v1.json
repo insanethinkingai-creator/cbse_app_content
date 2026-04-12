@@ -1,0 +1,330 @@
+{
+  "id": "g10_civ_ch4",
+  "grade": "10",
+  "subject": "Social Science",
+  "number": "4",
+  "title": "Political Parties",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_c4_q1",
+      "text": "A political party is a group of people who come together to:",
+      "options": ["Organize social rallies", "Contest elections and hold power in the government", "Provide micro-finance to members", "Conduct judicial reviews"],
+      "correctIndex": 1,
+      "explanation": "Political parties are organized groups that seek to influence or control government policy, usually by nominating candidates and contesting elections.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c4_q2",
+      "text": "Which of the following are the three components of a political party?",
+      "options": ["The leaders, active members, and followers", "The President, Vice-President, and Secretary", "Election Commission, Voters, and Candidates", "Judiciary, Executive, and Legislature"],
+      "correctIndex": 0,
+      "explanation": "Every political party has leaders who make decisions, active members who work for the party, and followers who support their ideology.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c4_q3",
+      "text": "Partisanship is a term used to describe:",
+      "options": ["A person who is neutral", "A person who is strongly committed to a party, group or faction", "A system of two parties", "The process of election"],
+      "correctIndex": 1,
+      "explanation": "Partisanship is marked by a tendency to take a side and inability to take a balanced view on an issue.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c4_q4",
+      "text": "Which function of political parties involves choosing candidates to fight elections?",
+      "options": ["Making laws", "Forming government", "Contesting elections", "Shaping public opinion"],
+      "correctIndex": 2,
+      "explanation": "In most democracies, elections are fought mainly among the candidates put up by political parties.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c4_q5",
+      "text": "Parties play a decisive role in making ________ for a country.",
+      "options": ["Money", "Laws", "Education", "Buildings"],
+      "correctIndex": 1,
+      "explanation": "Laws are debated and passed in the legislature, and since most members belong to a party, they follow the party line.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c4_q6",
+      "text": "The party which loses elections and does not form the government plays the role of:",
+      "options": ["The Ruling Party", "The Opposition", "The Mediator", "The Judiciary"],
+      "correctIndex": 1,
+      "explanation": "The opposition voices different views and criticizes the government for its failures or wrong policies.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c4_q7",
+      "text": "Why are political parties considered a necessity in a representative democracy?",
+      "options": ["To increase the number of candidates", "To ensure every individual can vote", "Because without parties, every candidate would be independent and no one could promise major policy changes", "To make elections expensive"],
+      "correctIndex": 2,
+      "explanation": "Parties provide a mechanism to bring various representatives together so that a responsible government can be formed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c4_q8",
+      "text": "In which country is a one-party system practiced?",
+      "options": ["India", "USA", "China", "United Kingdom"],
+      "correctIndex": 2,
+      "explanation": "In China, only the Communist Party is allowed to rule, though legally people are free to form parties.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c4_q9",
+      "text": "A two-party system is prominently found in:",
+      "options": ["India and Pakistan", "USA and UK", "China and North Korea", "France and Italy"],
+      "correctIndex": 1,
+      "explanation": "In these countries, power usually alternates between two main parties, although other small parties may exist.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c4_q10",
+      "text": "If several parties compete for power and more than two parties have a reasonable chance of winning, it is called a:",
+      "options": ["One-party system", "Bi-party system", "Multi-party system", "No-party system"],
+      "correctIndex": 2,
+      "explanation": "India has a multi-party system where many parties compete and often form coalitions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c4_q11",
+      "text": "When several parties in a multi-party system join hands for the purpose of contesting elections and winning power, it is called an:",
+      "options": ["Opposition", "Alliance or Front", "Institution", "Organization"],
+      "correctIndex": 1,
+      "explanation": "Examples include the NDA (National Democratic Alliance) and the UPA (United Progressive Alliance) in India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c4_q12",
+      "text": "The authority that registers and recognizes political parties in India is:",
+      "options": ["The Supreme Court", "The Parliament", "The Election Commission", "The President"],
+      "correctIndex": 2,
+      "explanation": "Every party in the country has to register with the Election Commission, which offers special facilities to large and established parties.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c4_q13",
+      "text": "To be recognized as a 'National Party', a party must secure at least ________ percent of total votes in Lok Sabha or Assembly elections in four states.",
+      "options": ["2%", "4%", "6%", "10%"],
+      "correctIndex": 2,
+      "explanation": "In addition to 6% votes, it must win at least four seats in the Lok Sabha.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c4_q14",
+      "text": "A 'State Party' must secure at least 6% of the total votes in an election to the Legislative Assembly and win at least:",
+      "options": ["1 seat", "2 seats", "5 seats", "10 seats"],
+      "correctIndex": 1,
+      "explanation": "Securing 6% votes and winning 2 seats are the criteria for recognition as a State Party.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c4_q15",
+      "text": "Which of these is the oldest political party in India, founded in 1885?",
+      "options": ["BJP", "INC", "BSP", "CPI"],
+      "correctIndex": 1,
+      "explanation": "The Indian National Congress (INC) played a dominant role in Indian politics for many decades after independence.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c4_q16",
+      "text": "The Bharatiya Janata Party (BJP) was formed in 1980 by reviving the erstwhile:",
+      "options": ["Swatantra Party", "Bharatiya Jana Sangh", "Socialist Party", "Bahujan Samaj Party"],
+      "correctIndex": 1,
+      "explanation": "Syama Prasad Mookerjee founded the Bharatiya Jana Sangh in 1951, which later became the BJP.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c4_q17",
+      "text": "The Bahujan Samaj Party (BSP) was formed in 1984 under the leadership of:",
+      "options": ["B.R. Ambedkar", "Kansi Ram", "Mayawati", "Jyotiba Phule"],
+      "correctIndex": 1,
+      "explanation": "BSP seeks to represent and secure power for the 'bahujan samaj' which includes Dalits, Adivasis, and OBCs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c4_q18",
+      "text": "Which party believes in Marxism-Leninism and supports socialism, secularism and democracy?",
+      "options": ["BJP", "INC", "CPI-M", "NPP"],
+      "correctIndex": 2,
+      "explanation": "The Communist Party of India (Marxist) split from CPI in 1964 and has a strong base in West Bengal and Kerala.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c4_q19",
+      "text": "The symbol of the All India Trinamool Congress (AITC) is:",
+      "options": ["Hand", "Lotus", "Flowers and grass", "Elephant"],
+      "correctIndex": 2,
+      "explanation": "AITC was launched in 1998 and became a national party in 2016.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_c4_q20",
+      "text": "Which challenge to political parties refers to the concentration of power in the hands of one or few leaders at the top?",
+      "options": ["Dynastic succession", "Lack of internal democracy", "Money and muscle power", "Meaningful choice"],
+      "correctIndex": 1,
+      "explanation": "Parties do not keep membership registers or hold regular organizational elections, leading to power being held by a few.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c4_q21",
+      "text": "Dynastic succession is a challenge because:",
+      "options": ["It promotes talent", "It prevents ordinary workers from rising to the top", "It makes parties richer", "It follows democratic norms"],
+      "correctIndex": 1,
+      "explanation": "In many parties, the top positions are always controlled by members of one family.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c4_q22",
+      "text": "The use of money and muscle power in parties is especially prominent during:",
+      "options": ["Policy making", "Elections", "Internal debates", "International visits"],
+      "correctIndex": 1,
+      "explanation": "Parties tend to nominate candidates who can raise lots of money or use force to win votes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c4_q23",
+      "text": "The decline in ideological differences between parties leads to the challenge of:",
+      "options": ["Lack of internal democracy", "Dynastic succession", "Lack of meaningful choice to voters", "Anti-defection"],
+      "correctIndex": 2,
+      "explanation": "Voters find it difficult to choose when parties offer very similar policies and programs.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c4_q24",
+      "text": "The Anti-Defection Law was passed to prevent elected MLAs and MPs from:",
+      "options": ["Contesting elections", "Changing parties after being elected", "Making laws", "Paying taxes"],
+      "correctIndex": 1,
+      "explanation": "Defection is changing party allegiance from the party on which a person got elected to a different party.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c4_q25",
+      "text": "The Supreme Court passed an order to reduce the influence of money and criminals by making it mandatory for candidates to file an:",
+      "options": ["Application", "Affidavit", "Manifesto", "Agreement"],
+      "correctIndex": 1,
+      "explanation": "An affidavit gives details of property and criminal cases pending against the candidate.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c4_q26",
+      "text": "The Election Commission passed an order making it necessary for political parties to:",
+      "options": ["Hold organizational elections and file income tax returns", "Distribute free food", "Stop advertising", "Nominate only women"],
+      "correctIndex": 0,
+      "explanation": "This step was taken to ensure internal democracy and transparency in party funding.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c4_q27",
+      "text": "One suggested reform is to have a law to regulate the ________ affairs of political parties.",
+      "options": ["External", "Internal", "Financial", "International"],
+      "correctIndex": 1,
+      "explanation": "This would make it compulsory for parties to maintain a register of members and follow their own constitution.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c4_q28",
+      "text": "Another suggestion for reform is that the state should contribute to:",
+      "options": ["Party salaries", "Election expenses (State funding of elections)", "Party buildings", "Individual voter bank accounts"],
+      "correctIndex": 1,
+      "explanation": "Government giving parties money for election support could help reduce the influence of wealthy donors.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c4_q29",
+      "text": "Political parties can be reformed if people ________ through petitions and agitations.",
+      "options": ["Join them", "Ignore them", "Put pressure on them", "Vote for them"],
+      "correctIndex": 2,
+      "explanation": "Public pressure can force parties to take reforms seriously if they fear losing public support.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_c4_q30",
+      "text": "Which party system is often criticized for leading to political instability?",
+      "options": ["One-party system", "Two-party system", "Multi-party system", "Single-member system"],
+      "correctIndex": 2,
+      "explanation": "Coalition governments in multi-party systems can sometimes be unstable due to differing interests of partners.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c4_q31",
+      "text": "The 'Hindutva' or cultural nationalism is a core element of the ideology of:",
+      "options": ["INC", "BSP", "BJP", "CPI"],
+      "correctIndex": 2,
+      "explanation": "BJP wants to build a strong and modern India by drawing inspiration from India's ancient culture and values.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c4_q32",
+      "text": "A 'Coalition' government is formed when:",
+      "options": ["A single party wins a clear majority", "No single party wins a majority and two or more parties join together", "The President chooses the ministers", "The Supreme Court takes over"],
+      "correctIndex": 1,
+      "explanation": "Coalitions are a common feature of the multi-party system in India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c4_q33",
+      "text": "The United Progressive Alliance (UPA) is led by which party?",
+      "options": ["BJP", "INC", "BSP", "CPI-M"],
+      "correctIndex": 1,
+      "explanation": "INC was the leading party of the UPA coalition which was in power from 2004 to 2014.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c4_q34",
+      "text": "Which of the following is NOT a recognized national party in India (as per the textbook context)?",
+      "options": ["BJP", "INC", "Sikh Shromani Akali Dal", "BSP"],
+      "correctIndex": 2,
+      "explanation": "Shiromani Akali Dal is a state (regional) party primarily active in Punjab.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c4_q35",
+      "text": "The problem of 'Meaningful Choice' is that:",
+      "options": ["There are too many parties", "There is no difference in policies of various parties", "Voters are not allowed to vote", "Parties do not have symbols"],
+      "correctIndex": 1,
+      "explanation": "In recent years, there has been a decline in the ideological differences among parties in most parts of the world.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_c4_q36",
+      "text": "An 'Active Member' of a party is one who:",
+      "options": ["Only votes for the party", "Works for the party and participates in its activities", "Only reads about the party", "Criticizes the party"],
+      "correctIndex": 1,
+      "explanation": "Active members are the workers who maintain the party's presence at the grassroots level.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_c4_q37",
+      "text": "The 'Lotus' is the election symbol of:",
+      "options": ["INC", "BJP", "BSP", "CPI"],
+      "correctIndex": 1,
+      "explanation": "The Lotus is the official symbol used by the Bharatiya Janata Party.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c4_q38",
+      "text": "Which party has a strong presence in the states of Punjab, West Bengal, Maharashtra and Andhra Pradesh (referring to NCP)?",
+      "options": ["Nationalist Congress Party", "Bahujan Samaj Party", "Bharatiya Janata Party", "Communist Party of India"],
+      "correctIndex": 0,
+      "explanation": "NCP was formed in 1999 following a split in the Congress party.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_c4_q39",
+      "text": "The quality of democracy depends on the degree of ________ by people.",
+      "options": ["Ignorance", "Public participation", "Violence", "Isolation"],
+      "correctIndex": 1,
+      "explanation": "Active participation of citizens is crucial for the healthy functioning of political parties and democracy.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c4_q40",
+      "text": "Which of these is a function of the opposition party?",
+      "options": ["Passing laws", "Criticizing government policies", "Collecting taxes", "Allocating budget"],
+      "correctIndex": 1,
+      "explanation": "The opposition keeps the government in check by highlighting its failures and mobilization of opposition to the government.",
+      "frequencyRating": 5
+    }
+  ]
+}

@@ -12,6 +12,44 @@ def calculate_md5(file_path):
             hash_md5.update(chunk)
     return hash_md5.hexdigest()
 
+def validate_json(file_path, is_manifest=False):
+    """Validate JSON syntax and basic schema requirements."""
+    with open(file_path, 'r', encoding='utf-8') as f:
+        try:
+            data = json.load(f)
+        except json.JSONDecodeError as e:
+            raise ValueError(f"Syntax Error in {file_path}: {e}")
+
+    if is_manifest:
+        required_manifest = ["updatedAt", "bundles"]
+        for key in required_manifest:
+            if key not in data:
+                raise ValueError(f"Schema Error: Manifest missing required key '{key}'")
+    else:
+        # Chapter File Schema Validation
+        required_chapter = ["id", "grade", "subject", "questions"]
+        for key in required_chapter:
+            if key not in data:
+                raise ValueError(f"Schema Error in {file_path}: Missing key '{key}'")
+        
+        for i, q in enumerate(data.get("questions", [])):
+            q_id = q.get("id", f"index_{i}")
+            # Check required question keys
+            for field in ["id", "text", "options", "correctIndex"]:
+                if field not in q:
+                    raise ValueError(f"Schema Error in {file_path}: Question '{q_id}' missing '{field}'")
+            
+            # Validate options array
+            options = q.get("options")
+            if not isinstance(options, list) or len(options) != 4:
+                raise ValueError(f"Data Error in {file_path}: Question '{q_id}' must have exactly 4 options")
+            
+            # Validate correctIndex bounds
+            idx = q.get("correctIndex")
+            if not isinstance(idx, int) or not (0 <= idx <= 3):
+                raise ValueError(f"Data Error in {file_path}: Question '{q_id}' has invalid correctIndex: {idx}")
+    return data
+
 def create_bundles():
     # Configuration
     base_dir = os.path.dirname(os.path.abspath(__file__))
@@ -26,8 +64,7 @@ def create_bundles():
 
     # Load existing manifest or create new
     if os.path.exists(manifest_path):
-        with open(manifest_path, 'r') as f:
-            manifest = json.load(f)
+        manifest = validate_json(manifest_path, is_manifest=True)
     else:
         manifest = {"updatedAt": "", "bundles": {}}
 
@@ -53,6 +90,8 @@ def create_bundles():
         with zipfile.ZipFile(output_zip, 'w', zipfile.ZIP_DEFLATED) as zipf:
             for file in json_files:
                 file_path = os.path.join(subdir_path, file)
+                # Validate each file before adding it to the bundle
+                validate_json(file_path, is_manifest=False)
                 zipf.write(file_path, arcname=os.path.join(subdir, file))
                 
         # Calculate MD5 and update manifest metadata

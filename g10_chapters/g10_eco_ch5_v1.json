@@ -1,0 +1,330 @@
+{
+  "id": "g10_eco_ch5",
+  "grade": "10",
+  "subject": "Social Science",
+  "number": "5",
+  "title": "Consumer Rights",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_e5_q1",
+      "text": "Who is a 'Consumer'?",
+      "options": ["A person who produces goods", "A person who sells goods", "A person who buys goods or services for use", "A person who works in a factory"],
+      "correctIndex": 2,
+      "explanation": "Any individual who purchases goods or avails services for final consumption is a consumer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e5_q2",
+      "text": "Which of the following is a common way consumers are exploited in the market?",
+      "options": ["Correct weight", "High prices beyond the MRP", "Good quality products", "Provision of bill"],
+      "correctIndex": 1,
+      "explanation": "Adulteration, under-weighting, and charging more than the Maximum Retail Price (MRP) are forms of exploitation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e5_q3",
+      "text": "The consumer movement in India as a 'social force' originated with the need to protect consumers against:",
+      "options": ["Ethical business practices", "Unfair and unethical trade practices", "Cheaper imports", "Government taxes"],
+      "correctIndex": 1,
+      "explanation": "The movement arose due to food shortages, hoarding, black marketing, and adulteration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e5_q4",
+      "text": "When was the Consumer Protection Act (COPRA) enacted in India?",
+      "options": ["1947", "1986", "1991", "2005"],
+      "correctIndex": 1,
+      "explanation": "COPRA 1986 is a significant landmark in the consumer movement in India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e5_q5",
+      "text": "Which right ensures that a consumer is protected against goods and services that are hazardous to life and property?",
+      "options": ["Right to Choose", "Right to Information", "Right to Safety", "Right to Seek Redressal"],
+      "correctIndex": 2,
+      "explanation": "Right to Safety is essential for products like electrical appliances and pressure cookers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e5_q6",
+      "text": "Why are 'ISI' or 'Agmark' logos important on products?",
+      "options": ["They make the product look good", "They represent quality standards and safety", "They show the brand name", "They are used for decoration"],
+      "correctIndex": 1,
+      "explanation": "These logos assure consumers that the organization has monitored the quality of the product.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e5_q7",
+      "text": "Under the 'Right to be Informed', consumers have the right to know about:",
+      "options": ["Ingredients and price", "Batch number and date of manufacture", "Expiry date and address of manufacturer", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Rules mandate that manufacturers display all essential details on the packaging.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e5_q8",
+      "text": "What does RTI stand for in the context of Indian law?",
+      "options": ["Right to Investment", "Right to Information", "Right to Industry", "Right to Insurance"],
+      "correctIndex": 1,
+      "explanation": "The Right to Information Act (2005) ensures citizens can get information about government functions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e5_q9",
+      "text": "The right to have access to a variety of goods and services at competitive prices is known as:",
+      "options": ["Right to Choose", "Right to Safety", "Right to Education", "Right to Representation"],
+      "correctIndex": 0,
+      "explanation": "Any consumer who receives a service in whatever capacity has the right to choose whether to continue to receive the service.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e5_q10",
+      "text": "If a consumer is cheated or exploited, they have the right to settle their claims against the trader. This is the:",
+      "options": ["Right to Safety", "Right to Seek Redressal", "Right to be Informed", "Right to Vote"],
+      "correctIndex": 1,
+      "explanation": "Redressal involves getting compensation for the damage or loss caused by the seller.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e5_q11",
+      "text": "How many levels of consumer courts were set up under COPRA?",
+      "options": ["One", "Two", "Three", "Four"],
+      "correctIndex": 2,
+      "explanation": "The three-tier quasi-judicial machinery includes District, State, and National level courts.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e5_q12",
+      "text": "Consumer disputes involving claims up to Rs. 1 crore (as per 2019 amendment) are dealt with at the:",
+      "options": ["National Commission", "State Commission", "District Commission", "Supreme Court"],
+      "correctIndex": 2,
+      "explanation": "The District level court deals with cases of lower value, allowing easy access for consumers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e5_q13",
+      "text": "The Consumer Protection Act 2019 replaced the older act of:",
+      "options": ["1947", "1986", "1991", "2005"],
+      "correctIndex": 1,
+      "explanation": "The 2019 Act was brought in to address modern challenges like e-commerce.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e5_q14",
+      "text": "World Consumer Rights Day is celebrated every year on:",
+      "options": ["January 1st", "March 15th", "August 15th", "December 24th"],
+      "correctIndex": 1,
+      "explanation": "March 15th is observed globally to promote consumer rights.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e5_q15",
+      "text": "National Consumer Day in India is observed on:",
+      "options": ["December 24th", "January 26th", "October 2nd", "November 14th"],
+      "correctIndex": 0,
+      "explanation": "India celebrates its own Consumer Day on December 24th, the day the 1986 Act was signed by the President.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e5_q16",
+      "text": "What is 'Jago Grahak Jago'?",
+      "options": ["A political slogan", "A government awareness campaign for consumer rights", "A religious chant", "A movie title"],
+      "correctIndex": 1,
+      "explanation": "It is a mass awareness campaign to inform consumers about their rights and responsibilities.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e5_q17",
+      "text": "Consumer forums or Consumer Protection Councils are ________ organizations.",
+      "options": ["Government", "Voluntary / Non-Governmental (NGO)", "International", "Private business"],
+      "correctIndex": 1,
+      "explanation": "These councils guide consumers on how to file cases and represent them in courts.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e5_q18",
+      "text": "Which logo is used for quality certification of edible oil and food products in India?",
+      "options": ["ISI", "Agmark", "Hallmark", "Eco-mark"],
+      "correctIndex": 1,
+      "explanation": "Agmark is the certification mark for agricultural products.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e5_q19",
+      "text": "Which logo is found on jewellery made of gold or silver?",
+      "options": ["ISI", "Agmark", "Hallmark", "FPO"],
+      "correctIndex": 2,
+      "explanation": "Hallmarking certifies the purity of precious metals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e5_q20",
+      "text": "MRP on a product stands for:",
+      "options": ["Market Rated Price", "Maximum Retail Price", "Minimum Rare Price", "Member of Regional Producers"],
+      "correctIndex": 1,
+      "explanation": "MRP is the maximum price that can be charged for a product including all taxes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e5_q21",
+      "text": "Which of the following is NOT a consumer right?",
+      "options": ["Right to Choose", "Right to be Informed", "Right to Exploit Traders", "Right to Seek Redressal"],
+      "correctIndex": 2,
+      "explanation": "Consumer rights are for protection, not for exploiting others.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e5_q22",
+      "text": "The 'Right to Represent' in consumer courts allows a consumer to:",
+      "options": ["Only use a lawyer", "Appear in person and argue their own case", "Avoid the court", "Pay the judge"],
+      "correctIndex": 1,
+      "explanation": "The consumer court system is designed to be simple so that individuals can represent themselves.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e5_q23",
+      "text": "When we purchase a commodity, we find certain details on the packing. This is because of the:",
+      "options": ["Right to Safety", "Right to Information", "Right to Choose", "Right to Education"],
+      "correctIndex": 1,
+      "explanation": "Manufacturers are legally required to provide information about the product.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e5_q24",
+      "text": "Rules and regulations are required for the protection of the consumers in the:",
+      "options": ["Factories", "Marketplace", "Schools", "Playgrounds"],
+      "correctIndex": 1,
+      "explanation": "Markets do not work in a fair manner when consumers are individual and weak compared to large producers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e5_q25",
+      "text": "A consumer should always ask for a ______ after purchasing goods.",
+      "options": ["Free gift", "Cash memo / Bill", "Discount", "New product"],
+      "correctIndex": 1,
+      "explanation": "A cash memo is the essential proof of purchase required to file a case in consumer court.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e5_q26",
+      "text": "Adulteration means:",
+      "options": ["Adding inferior substances to food", "Increasing the price", "Reducing the weight", "Selling in new packets"],
+      "correctIndex": 0,
+      "explanation": "Adulteration lowers the quality of food and can be dangerous to health.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e5_q27",
+      "text": "Which of the following is a responsibility of a consumer?",
+      "options": ["Checking the expiry date", "Asking for a bill", "Checking quality marks like ISI", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Consumers must be alert and aware to avoid being cheated.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e5_q28",
+      "text": "Consumer courts are also known as ________ courts.",
+      "options": ["Criminal", "Civil", "Quasi-judicial", "Military"],
+      "correctIndex": 2,
+      "explanation": "They follow simplified procedures and are specialized for consumer disputes.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_e5_q29",
+      "text": "If a case is dismissed at the District level, where can the consumer appeal?",
+      "options": ["State Commission", "High Court", "Police Station", "National Commission"],
+      "correctIndex": 0,
+      "explanation": "The hierarchy of appeals follows District -> State -> National Commission.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e5_q30",
+      "text": "The main reason why the consumer movement started in India was:",
+      "options": ["Globalisation", "High literacy", "Dissatisfaction with unfair trade practices", "Increase in population"],
+      "correctIndex": 2,
+      "explanation": "The movement was a result of growing anger among people against black marketing and hoarding.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e5_q31",
+      "text": "FPO mark is found on which type of products?",
+      "options": ["Electrical goods", "Processed fruit products", "Gold jewellery", "Textiles"],
+      "correctIndex": 1,
+      "explanation": "FPO stands for Fruit Products Order, found on jams, squashes, etc.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_e5_q32",
+      "text": "A manufacturer of medicines must show the ________ on the label.",
+      "options": ["Expiry date", "Manufacturing date", "Dosage instructions", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Medical information is vital for the safety of the consumer.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e5_q33",
+      "text": "Consumer Protection Councils are mainly involved in:",
+      "options": ["Giving punishments to traders", "Creating awareness and helping consumers", "Producing goods", "Exporting items"],
+      "correctIndex": 1,
+      "explanation": "They are advisory bodies that help in consumer education.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e5_q34",
+      "text": "If a consumer is denied the right to choose, it is a violation of:",
+      "options": ["COPRA", "Human Rights", "Consumer Rights", "Both COPRA and Consumer Rights"],
+      "correctIndex": 3,
+      "explanation": "Right to choose is a fundamental consumer right guaranteed by law.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e5_q35",
+      "text": "Buying a pressure cooker without an ISI mark is dangerous because:",
+      "options": ["It might be expensive", "It may lack safety features and could burst", "It looks old", "It is small"],
+      "correctIndex": 1,
+      "explanation": "ISI mark ensures that the product has passed safety and quality tests.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e5_q36",
+      "text": "The 'Right to Consumer Education' means consumers should:",
+      "options": ["Go to college", "Acquire knowledge and skills to be an informed consumer", "Become teachers", "Study only law"],
+      "correctIndex": 1,
+      "explanation": "Informed consumers are less likely to be exploited.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e5_q37",
+      "text": "A seller cannot force a consumer to buy a specific brand if they want another. This is part of:",
+      "options": ["Right to Safety", "Right to Choose", "Right to be Informed", "Right to Redressal"],
+      "correctIndex": 1,
+      "explanation": "The consumer has the final say in their purchase decision.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e5_q38",
+      "text": "Which of the following is an unfair trade practice?",
+      "options": ["Giving a discount", "False advertisements about a product", "Offering home delivery", "Providing a warranty"],
+      "correctIndex": 1,
+      "explanation": "Misleading advertisements trick consumers into buying products that don't match the claims.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_e5_q39",
+      "text": "Large companies with huge wealth and power can easily manipulate the market. This makes ________ necessary.",
+      "options": ["Competition", "Consumer Protection laws", "High taxes", "Small shops only"],
+      "correctIndex": 1,
+      "explanation": "Laws like COPRA protect the small individual consumer from the might of large corporations.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_e5_q40",
+      "text": "The hallmark of a well-functioning market is that the consumer is:",
+      "options": ["Ignored", "Exploited", "The 'King' or central focus", "A producer"],
+      "correctIndex": 2,
+      "explanation": "In a healthy economy, the interests of consumers should be prioritized.",
+      "frequencyRating": 5
+    }
+  ]
+}

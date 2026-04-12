@@ -1,0 +1,330 @@
+{
+  "id": "g10_sci_ch12",
+  "grade": "10",
+  "subject": "Science",
+  "number": "12",
+  "title": "Magnetic Effects of Electric Current",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g10_s12_q1",
+      "text": "The direction of magnetic field lines outside a bar magnet is from:",
+      "options": ["South pole to North pole", "North pole to South pole", "East pole to West pole", "Center to the poles"],
+      "correctIndex": 1,
+      "explanation": "By convention, magnetic field lines emerge from the North pole and merge at the South pole outside the magnet.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q2",
+      "text": "Inside a bar magnet, the direction of magnetic field lines is from:",
+      "options": ["North pole to South pole", "South pole to North pole", "Side to side", "There are no lines inside"],
+      "correctIndex": 1,
+      "explanation": "Magnetic field lines are closed curves; they travel from South to North inside the magnet.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q3",
+      "text": "Which of the following is NOT a property of magnetic field lines?",
+      "options": ["They form closed curves", "They never intersect each other", "They are crowded near the poles", "They represent the direction of electric current"],
+      "correctIndex": 3,
+      "explanation": "Magnetic field lines represent the magnetic field, not the electric current itself.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q4",
+      "text": "Why do two magnetic field lines never intersect each other?",
+      "options": ["They are parallel", "At the point of intersection, a compass would show two directions", "They repel each other", "They are too weak to cross"],
+      "correctIndex": 1,
+      "explanation": "If they intersected, the compass needle would point in two different directions at the same point, which is impossible.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q5",
+      "text": "Who discovered that a current-carrying wire produces a magnetic field around it?",
+      "options": ["Hans Christian Oersted", "Michael Faraday", "Isaac Newton", "James Watt"],
+      "correctIndex": 0,
+      "explanation": "In 1820, Oersted noticed a compass needle deflected when placed near a wire carrying electric current.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q6",
+      "text": "The rule used to find the direction of the magnetic field around a straight current-carrying conductor is:",
+      "options": ["Fleming's Left-Hand Rule", "Fleming's Right-Hand Rule", "Right-Hand Thumb Rule", "Clock Face Rule"],
+      "correctIndex": 2,
+      "explanation": "According to the Right-Hand Thumb Rule, if the thumb points in the direction of current, the fingers wrap in the direction of the magnetic field.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q7",
+      "text": "The magnetic field lines around a straight current-carrying conductor are in the shape of:",
+      "options": ["Straight lines", "Parabolas", "Concentric circles", "Ellipses"],
+      "correctIndex": 2,
+      "explanation": "The field lines form circles centered on the wire, lying in a plane perpendicular to the wire.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q8",
+      "text": "If the current through a straight conductor is increased, the strength of the magnetic field:",
+      "options": ["Decreases", "Increases", "Remains the same", "Becomes zero"],
+      "correctIndex": 1,
+      "explanation": "The magnitude of the magnetic field produced at a given point is directly proportional to the current passing through the wire.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q9",
+      "text": "The strength of the magnetic field produced by a straight wire ________ as the distance from the wire increases.",
+      "options": ["Increases", "Decreases", "Remains constant", "First increases then decreases"],
+      "correctIndex": 1,
+      "explanation": "The magnetic field is inversely proportional to the distance from the conductor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q10",
+      "text": "At the center of a current-carrying circular loop, the magnetic field lines appear as:",
+      "options": ["Circles", "Straight lines", "Dots", "Squares"],
+      "correctIndex": 1,
+      "explanation": "Near the center of the loop, the arcs of the big circles appear as straight lines.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s12_q11",
+      "text": "A coil of many circular turns of insulated copper wire wrapped closely in the shape of a cylinder is called a:",
+      "options": ["Resistor", "Solenoid", "Generator", "Capacitor"],
+      "correctIndex": 1,
+      "explanation": "A solenoid produces a magnetic field similar to that of a bar magnet when current flows through it.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q12",
+      "text": "The magnetic field inside a long straight solenoid carrying current is:",
+      "options": ["Zero", "Decreases towards the ends", "Increases towards the ends", "The same at all points"],
+      "correctIndex": 3,
+      "explanation": "The field lines inside the solenoid are parallel straight lines, indicating a uniform magnetic field.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q13",
+      "text": "A strong magnetic field produced inside a solenoid can be used to magnetize a piece of magnetic material like soft iron. The magnet so formed is called:",
+      "options": ["Permanent magnet", "Electromagnet", "Natural magnet", "Bar magnet"],
+      "correctIndex": 1,
+      "explanation": "An electromagnet is a temporary magnet that works only as long as electric current flows.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q14",
+      "text": "Which of the following materials is most suitable for the core of an electromagnet?",
+      "options": ["Steel", "Soft iron", "Aluminum", "Copper"],
+      "correctIndex": 1,
+      "explanation": "Soft iron loses its magnetism quickly when the current is switched off, making it ideal for electromagnets.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q15",
+      "text": "The force experienced by a current-carrying conductor in a magnetic field is maximum when the angle between them is:",
+      "options": ["0°", "45°", "90°", "180°"],
+      "correctIndex": 2,
+      "explanation": "The force is maximum when the direction of current is perpendicular to the direction of the magnetic field.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q16",
+      "text": "According to Fleming's Left-Hand Rule, the forefinger points in the direction of:",
+      "options": ["Magnetic Field", "Current", "Force", "Motion"],
+      "correctIndex": 0,
+      "explanation": "The forefinger represents the field, the middle finger represents current, and the thumb represents motion/force.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q17",
+      "text": "In Fleming's Left-Hand Rule, the thumb points in the direction of:",
+      "options": ["Magnetic Field", "Electric Current", "Force or Motion", "Voltage"],
+      "correctIndex": 2,
+      "explanation": "The thumb indicates the direction of the force acting on the conductor (or its motion).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q18",
+      "text": "The SI unit of magnetic field strength (magnetic induction) is:",
+      "options": ["Ohm", "Tesla", "Watt", "Volt"],
+      "correctIndex": 1,
+      "explanation": "Tesla (T) is the SI unit named after Nikola Tesla.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s12_q19",
+      "text": "A positively-charged particle (alpha-particle) projected towards west is deflected towards north by a magnetic field. The direction of magnetic field is:",
+      "options": ["Towards south", "Towards east", "Downward", "Upward"],
+      "correctIndex": 3,
+      "explanation": "Using Fleming's Left-Hand Rule (Current = West, Force = North), the thumb and fingers show the field is upward.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s12_q20",
+      "text": "In India, the potential difference (Voltage) of domestic AC supply is:",
+      "options": ["110 V", "220 V", "440 V", "12 V"],
+      "correctIndex": 1,
+      "explanation": "The standard domestic power supply in India is 220 Volts.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q21",
+      "text": "The frequency of Alternating Current (AC) supplied in India is:",
+      "options": ["25 Hz", "50 Hz", "60 Hz", "100 Hz"],
+      "correctIndex": 1,
+      "explanation": "The AC in India changes direction 100 times per second, which means its frequency is 50 Hz.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q22",
+      "text": "What is the color of the insulation for the live wire in a domestic circuit?",
+      "options": ["Black", "Green", "Red", "Yellow"],
+      "correctIndex": 2,
+      "explanation": "By standard convention, the live wire is insulated in red (or brown).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q23",
+      "text": "The neutral wire in a domestic circuit usually has insulation of color:",
+      "options": ["Red", "Green", "Black", "White"],
+      "correctIndex": 2,
+      "explanation": "The neutral wire is typically black (or blue).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q24",
+      "text": "The earth wire is used as a safety measure to prevent electric shocks. Its insulation color is:",
+      "options": ["Red", "Black", "Green", "Blue"],
+      "correctIndex": 2,
+      "explanation": "The earth wire is green (or yellow-green).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q25",
+      "text": "When the live wire and neutral wire come into direct contact, it results in a:",
+      "options": ["Short circuit", "Open circuit", "Overloading", "Earth leakage"],
+      "correctIndex": 0,
+      "explanation": "Direct contact between live and neutral wires leads to a sudden high current flow called a short circuit.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q26",
+      "text": "Connecting too many electrical appliances to a single socket can lead to:",
+      "options": ["Short circuit", "Overloading", "Earthing", "Power generation"],
+      "correctIndex": 1,
+      "explanation": "Overloading occurs when the total current drawn exceeds the capacity of the wires.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q27",
+      "text": "An electric fuse is a safety device based on the ________ effect of electric current.",
+      "options": ["Magnetic", "Chemical", "Heating", "Lighting"],
+      "correctIndex": 2,
+      "explanation": "When excessive current flows, the fuse wire heats up and melts, breaking the circuit.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s12_q28",
+      "text": "The main advantage of Alternating Current (AC) over Direct Current (DC) is:",
+      "options": ["AC is cheaper to produce", "AC can be transmitted over long distances with low energy loss", "AC is safer than DC", "DC cannot be used for heating"],
+      "correctIndex": 1,
+      "explanation": "AC voltage can be easily stepped up or down, allowing efficient long-distance transmission.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q29",
+      "text": "What does a compass needle represent?",
+      "options": ["A small bar magnet", "An electric dipole", "A conductor", "A non-magnetic material"],
+      "correctIndex": 0,
+      "explanation": "A compass needle is essentially a small bar magnet whose ends point toward the North and South.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q30",
+      "text": "The magnetic field is a quantity that has:",
+      "options": ["Only direction", "Only magnitude", "Both direction and magnitude", "Neither direction nor magnitude"],
+      "correctIndex": 2,
+      "explanation": "The magnetic field is a vector quantity, possessing both size (strength) and direction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q31",
+      "text": "Magnetic field lines are ________ near the poles where the magnetic field is strongest.",
+      "options": ["Farther apart", "Parallel", "Closer together", "Invisible"],
+      "correctIndex": 2,
+      "explanation": "The density of field lines indicates the relative strength of the magnetic field.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s12_q32",
+      "text": "If a current-carrying straight conductor is held vertically and current flows upwards, the magnetic field is ________ (viewed from above).",
+      "options": ["Clockwise", "Anti-clockwise", "Upward", "Downward"],
+      "correctIndex": 1,
+      "explanation": "By the Right-Hand Thumb Rule, the field lines wrap anti-clockwise when the current is upward.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s12_q33",
+      "text": "The magnetic field lines produced by a circular loop are ________ at the center of the loop.",
+      "options": ["Circular", "Square", "Straight", "None"],
+      "correctIndex": 2,
+      "explanation": "At the center of a circular loop, the field lines are perpendicular to the plane of the loop and appear straight.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s12_q34",
+      "text": "Which property of a proton can change while it moves freely in a magnetic field?",
+      "options": ["Mass", "Speed", "Velocity", "Momentum"],
+      "correctIndex": 2,
+      "explanation": "Velocity (and momentum) changes because the magnetic force changes the direction of motion, even if speed remains constant. (Note: Multi-choice might accept both C and D).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s12_q35",
+      "text": "The pattern of magnetic field lines around a current-carrying solenoid is similar to that of a:",
+      "options": ["Straight wire", "Circular loop", "Bar magnet", "Horse-shoe magnet"],
+      "correctIndex": 2,
+      "explanation": "One end of the solenoid acts as a North pole and the other as a South pole, just like a bar magnet.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q36",
+      "text": "The purpose of the 'earth wire' in a domestic circuit is to provide a low-resistance path for:",
+      "options": ["High voltage", "Heating", "Leakage current", "Main supply"],
+      "correctIndex": 2,
+      "explanation": "Earthing ensures that any leakage current from the metallic body of an appliance flows to the earth, protecting the user.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q37",
+      "text": "The frequency of Direct Current (DC) is:",
+      "options": ["0 Hz", "50 Hz", "60 Hz", "100 Hz"],
+      "correctIndex": 0,
+      "explanation": "DC flows in only one direction and does not change polarity, so its frequency is zero.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s12_q38",
+      "text": "Magnetic field strength is measured in the vicinity of a solenoid. It is strongest:",
+      "options": ["Outside the solenoid", "At the ends of the solenoid", "Inside the solenoid", "Far away from the solenoid"],
+      "correctIndex": 2,
+      "explanation": "The magnetic field is highly concentrated and uniform inside the solenoid.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s12_q39",
+      "text": "In Fleming's Left-Hand Rule, the middle finger points in the direction of:",
+      "options": ["Magnetic Field", "Current", "Force", "Voltage"],
+      "correctIndex": 1,
+      "explanation": "The middle finger represents the direction of the electric current.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s12_q40",
+      "text": "A potential difference between the live wire and the neutral wire in Indian domestic circuits is:",
+      "options": ["0 V", "110 V", "220 V", "440 V"],
+      "correctIndex": 2,
+      "explanation": "The standard voltage difference maintained between live and neutral wires is 220V.",
+      "frequencyRating": 5
+    }
+  ]
+}
