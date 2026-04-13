@@ -8,42 +8,322 @@
   "questions": [
     {
       "id": "g10_m3_q1",
-      "text": "The pair of equations y = 0 and y = -7 has:",
-      "options": ["One solution", "Two solutions", "Infinitely many solutions", "No solution"],
-      "correctIndex": 3,
-      "explanation": "y = 0 is the x-axis and y = -7 is a line parallel to the x-axis. Since they are parallel, they never intersect, resulting in no solution.",
+      "text": "If a pair of linear equations is consistent, then the lines will be:",
+      "options": ["Parallel", "Always coincident", "Intersecting or coincident", "Always intersecting"],
+      "correctIndex": 2,
+      "explanation": "Consistency means at least one solution exists, which happens when lines intersect (one solution) or coincide (infinite solutions).",
       "frequencyRating": 5
     },
     {
       "id": "g10_m3_q2",
-      "text": "If the lines given by 3x + 2ky = 2 and 2x + 5y + 1 = 0 are parallel, then the value of k is:",
-      "options": ["15/4", "3/2", "5/4", "4/15"],
-      "correctIndex": 0,
-      "explanation": "For parallel lines, a1/a2 = b1/b2. So, 3/2 = 2k/5. Cross-multiplying gives 15 = 4k, hence k = 15/4.",
+      "text": "The pair of equations x = a and y = b graphically represents lines which are:",
+      "options": ["Parallel", "Intersecting at (b, a)", "Coincident", "Intersecting at (a, b)"],
+      "correctIndex": 3,
+      "explanation": "x=a is a vertical line and y=b is a horizontal line; they intersect at the point (a, b).",
       "frequencyRating": 5
     },
     {
       "id": "g10_m3_q3",
-      "text": "A pair of linear equations which has a unique solution x = 2, y = -3 is:",
-      "options": ["x + y = -1; 2x - 3y = -5", "x + y = -1; 2x - 3y = 13", "2x + 5y = -11; 4x + 10y = -22", "x - 4y - 14 = 0; 5x - y - 13 = 0"],
-      "correctIndex": 1,
-      "explanation": "Substituting x=2 and y=-3 into x+y=-1 gives 2-3=-1 (True). For 2x-3y=13, it gives 2(2)-3(-3) = 4+9=13 (True).",
-      "frequencyRating": 4
+      "text": "If a₁/a₂ = b₁/b₂ ≠ c₁/c₂, then the equations have:",
+      "options": ["Unique solution", "Exactly two solutions", "Infinitely many solutions", "No solution"],
+      "correctIndex": 3,
+      "explanation": "This condition represents parallel lines, which never meet, hence no solution.",
+      "frequencyRating": 5
     },
     {
       "id": "g10_m3_q4",
-      "text": "If a1/a2 = b1/b2 = c1/c2, then the lines are:",
-      "options": ["Intersecting", "Parallel", "Coincident", "Perpendicular"],
-      "correctIndex": 2,
-      "explanation": "When all ratios are equal, the equations are dependent and the lines coincide, meaning they have infinitely many solutions.",
+      "text": "If the lines represented by 3x + 2ky = 2 and 2x + 5y + 1 = 0 are parallel, then the value of k is:",
+      "options": ["15/4", "3/2", "5/4", "4/15"],
+      "correctIndex": 0,
+      "explanation": "For parallel lines, 3/2 = 2k/5 => 15 = 4k => k = 15/4.",
       "frequencyRating": 5
     },
     {
       "id": "g10_m3_q5",
-      "text": "The sum of the digits of a two-digit number is 9. If 27 is added to it, the digits of the number get reversed. The number is:",
-      "options": ["25", "72", "63", "36"],
+      "text": "A pair of equations which has no solution is called:",
+      "options": ["Consistent", "Inconsistent", "Dependent", "Linear"],
+      "correctIndex": 1,
+      "explanation": "If no solution exists, the system is described as inconsistent.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q6",
+      "text": "The value of k for which the system of equations x + 2y = 3 and 5x + ky + 7 = 0 has no solution is:",
+      "options": ["10", "5", "2", "7"],
+      "correctIndex": 0,
+      "explanation": "1/5 = 2/k => k = 10.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q7",
+      "text": "The pair of equations y = 0 and y = -7 has:",
+      "options": ["One solution", "Two solutions", "Infinitely many solutions", "No solution"],
       "correctIndex": 3,
-      "explanation": "36: 3+6=9. Adding 27 to 36 gives 63, which is the reverse of 36.",
+      "explanation": "y=0 and y=-7 are two distinct horizontal lines. Being parallel, they have no solution.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q8",
+      "text": "If a₁/a₂ = b₁/b₂ = c₁/c₂, then the lines are:",
+      "options": ["Intersecting", "Parallel", "Coincident", "Perpendicular"],
+      "correctIndex": 2,
+      "explanation": "Equality of all ratios means the two equations represent the same line.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q9",
+      "text": "One equation of a pair of dependent linear equations is -5x + 7y = 2. The second equation can be:",
+      "options": ["10x + 14y + 4 = 0", "-10x - 14y + 4 = 0", "-10x + 14y + 4 = 0", "10x - 14y = -4"],
+      "correctIndex": 3,
+      "explanation": "Multiply the first by -2: 10x - 14y = -4. Ratios will be equal.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q10",
+      "text": "Graphically, the pair of equations 6x - 3y + 10 = 0 and 2x - y + 9 = 0 represents two lines which are:",
+      "options": ["Intersecting at exactly one point", "Intersecting at exactly two points", "Coincident", "Parallel"],
+      "correctIndex": 3,
+      "explanation": "6/2 = -3/-1 != 10/9. Ratios of x and y are equal but not constant, so lines are parallel.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q11",
+      "text": "The sum of the digits of a two-digit number is 9. If 27 is added to it, digits are reversed. The number is:",
+      "options": ["27", "36", "45", "63"],
+      "correctIndex": 1,
+      "explanation": "36: 3+6=9. 36+27=63 (reversed).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q12",
+      "text": "For what value of k, do the equations 3x - y + 8 = 0 and 6x - ky = -16 represent coincident lines?",
+      "options": ["1/2", "-1/2", "2", "-2"],
+      "correctIndex": 2,
+      "explanation": "3/6 = -1/-k = 8/16. 1/2 = 1/k => k = 2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q13",
+      "text": "Aruna has only Re 1 and Rs 2 coins with her. If total coins are 50 and amount is Rs 75, then number of Rs 1 and Rs 2 coins are:",
+      "options": ["35, 15", "35, 20", "25, 25", "15, 35"],
+      "correctIndex": 2,
+      "explanation": "x+y=50, x+2y=75. Subtracting gives y=25. Then x=25.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q14",
+      "text": "The father's age is six times his son's age. Four years hence, the age of the father will be four times his son's age. The present ages of the son and the father are:",
+      "options": ["4 and 24", "5 and 30", "6 and 36", "3 and 18"],
+      "correctIndex": 2,
+      "explanation": "f=6s. f+4 = 4(s+4) => 6s+4 = 4s+16 => 2s=12 => s=6, f=36.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q15",
+      "text": "A pair of linear equations which has a unique solution is:",
+      "options": ["Consistent", "Inconsistent", "Dependent", "None"],
+      "correctIndex": 0,
+      "explanation": "Any system with at least one solution is consistent.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q16",
+      "text": "If x = a, y = b is the solution of equations x - y = 2 and x + y = 4, then values of a and b are:",
+      "options": ["3, 5", "5, 3", "3, 1", "-1, -3"],
+      "correctIndex": 2,
+      "explanation": "Adding: 2x = 6 => x=3. Substituting: 3+y=4 => y=1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q17",
+      "text": "The area of the triangle formed by the line x/a + y/b = 1 with the coordinate axes is:",
+      "options": ["ab", "1/2 ab", "2ab", "1/4 ab"],
+      "correctIndex": 1,
+      "explanation": "Intercepts are (a, 0) and (0, b). Area = 1/2 * base * height = 1/2 * a * b.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m3_q18",
+      "text": "If 2x + 3y = 11 and 2x - 4y = -24, then the value of 'm' for which y = mx + 3 is:",
+      "options": ["-1", "1", "2", "-2"],
+      "correctIndex": 0,
+      "explanation": "Subtracting: 7y = 35 => y=5. Then 2x + 15 = 11 => 2x=-4 => x=-2. 5 = m(-2)+3 => 2 = -2m => m = -1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q19",
+      "text": "In the equation x + y = 10, if x = 3, then y is:",
+      "options": ["3", "7", "10", "13"],
+      "correctIndex": 1,
+      "explanation": "3 + y = 10 => y = 7.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q20",
+      "text": "The point of intersection of the lines x - y = 0 and x + y = 0 is:",
+      "options": ["(1, 1)", "(0, 0)", "(-1, -1)", "Any point"],
+      "correctIndex": 1,
+      "explanation": "Both lines pass through the origin (0, 0).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q21",
+      "text": "If 217x + 131y = 913 and 131x + 217y = 827, then x + y is:",
+      "options": ["5", "6", "7", "8"],
+      "correctIndex": 0,
+      "explanation": "Adding both: 348x + 348y = 1740. Dividing by 348: x + y = 5.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m3_q22",
+      "text": "Linear equations in two variables are of the form:",
+      "options": ["ax + b = 0", "ax² + bx + c = 0", "ax + by + c = 0", "ax³ + b = 0"],
+      "correctIndex": 2,
+      "explanation": "Standard form involves x and y raised to power 1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q23",
+      "text": "If the pair of equations 2x + 3y = 7 and kx + 9y = 12 have a unique solution, then:",
+      "options": ["k = 6", "k ≠ 6", "k = 3", "k ≠ 3"],
+      "correctIndex": 1,
+      "explanation": "2/k ≠ 3/9 => 2/k ≠ 1/3 => k ≠ 6.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q24",
+      "text": "Which of these is NOT a method to solve linear equations algebraically?",
+      "options": ["Substitution", "Elimination", "Factorisation", "Cross-multiplication"],
+      "correctIndex": 2,
+      "explanation": "Factorisation is used for quadratic equations, not linear systems.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q25",
+      "text": "If x=2, y=3 is a solution of 2x + 3y = k, then k is:",
+      "options": ["5", "6", "12", "13"],
+      "correctIndex": 3,
+      "explanation": "2(2) + 3(3) = 4 + 9 = 13.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q26",
+      "text": "The graphical representation of a linear equation in two variables is a:",
+      "options": ["Curve", "Straight line", "Parabola", "Point"],
+      "correctIndex": 1,
+      "explanation": "The word 'linear' itself implies a line.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q27",
+      "text": "Two lines are coincident. How many solutions do they have?",
+      "options": ["Zero", "One", "Two", "Infinitely many"],
+      "correctIndex": 3,
+      "explanation": "Coincident lines are essentially the same line, meeting at every point.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q28",
+      "text": "If x - y = 0, which point lies on the line?",
+      "options": ["(1, 2)", "(2, 1)", "(3, 3)", "(0, 5)"],
+      "correctIndex": 2,
+      "explanation": "For x-y=0, x must equal y. (3, 3) satisfies this.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q29",
+      "text": "The value of y when x=0 in 3x - 4y = 12 is:",
+      "options": ["3", "-3", "4", "-4"],
+      "correctIndex": 1,
+      "explanation": "-4y = 12 => y = -3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q30",
+      "text": "A system of equations is called 'dependent' if it has:",
+      "options": ["No solution", "Unique solution", "Infinite solutions", "Exactly two solutions"],
+      "correctIndex": 2,
+      "explanation": "Dependent consistent systems are coincident lines with infinite solutions.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m3_q31",
+      "text": "The line y=x passes through which quadrant(s)?",
+      "options": ["I only", "I and III", "II and IV", "All four"],
+      "correctIndex": 1,
+      "explanation": "x and y have the same sign in I (+,+) and III (-,-).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m3_q32",
+      "text": "In a fraction, if numerator is x and denominator is y, and fraction is 2/3, then:",
+      "options": ["3x - 2y = 0", "2x - 3y = 0", "x + y = 5", "x - y = 1"],
+      "correctIndex": 0,
+      "explanation": "x/y = 2/3 => 3x = 2y => 3x - 2y = 0.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q33",
+      "text": "Solve: x + y = 14, x - y = 4.",
+      "options": ["(9, 5)", "(5, 9)", "(10, 4)", "(4, 10)"],
+      "correctIndex": 0,
+      "explanation": "x = (14+4)/2 = 9. y = (14-4)/2 = 5.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q34",
+      "text": "Which of these pairs represents parallel lines?",
+      "options": ["x+y=5, x+y=7", "x+y=5, 2x+2y=10", "x+y=5, x-y=5", "x=5, y=5"],
+      "correctIndex": 0,
+      "explanation": "Slopes are same (1/1) but constant ratios are different (5/7).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q35",
+      "text": "If the lines intersect at (2, 3), then (2, 3) is a:",
+      "options": ["Root", "Solution", "Zero", "Intercept"],
+      "correctIndex": 1,
+      "explanation": "The coordinates of the point of intersection satisfy both equations.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q36",
+      "text": "The equation of x-axis is:",
+      "options": ["x = 0", "y = 0", "x = y", "x + y = 0"],
+      "correctIndex": 1,
+      "explanation": "Every point on the x-axis has a y-coordinate of zero.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q37",
+      "text": "The equation of y-axis is:",
+      "options": ["y = 0", "x = 0", "x + y = 0", "y = 1"],
+      "correctIndex": 1,
+      "explanation": "Every point on the y-axis has an x-coordinate of zero.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m3_q38",
+      "text": "If 2x - 3y = 7 and (a+b)x - (a+b-3)y = 4a+b has infinite solutions, find a, b.",
+      "options": ["a=5, b=1", "a=1, b=5", "a=-5, b=-1", "a=5, b=-1"],
+      "correctIndex": 0,
+      "explanation": "Using a1/a2 = b1/b2 = c1/c2 and solving the resulting equations gives a=5, b=1.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_m3_q39",
+      "text": "The line x = 3 is parallel to:",
+      "options": ["x-axis", "y-axis", "Line y=x", "Origin"],
+      "correctIndex": 1,
+      "explanation": "A line where x is constant is a vertical line, parallel to the y-axis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m3_q40",
+      "text": "If two lines are parallel, their slopes are:",
+      "options": ["Reciprocals", "Equal", "Negative of each other", "Unequal"],
+      "correctIndex": 1,
+      "explanation": "Parallel lines have the same inclination and thus the same slope.",
       "frequencyRating": 5
     }
   ]

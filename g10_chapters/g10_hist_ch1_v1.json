@@ -45,6 +45,286 @@
       "correctIndex": 1,
       "explanation": "Metternich viewed Mazzini's relentless opposition to monarchy and vision of democratic republics as a threat to the old order.",
       "frequencyRating": 5
+    },
+    {
+      "id": "g10_h1_q6",
+      "text": "The term 'Plebiscite' means:",
+      "options": ["A direct vote by which all the people of a region accept or reject a proposal", "A system of government by the military", "A tax levied on the peasantry", "The right to vote given only to property-owning men"],
+      "correctIndex": 0,
+      "explanation": "Plebiscite was used to determine the will of the people in various European territories during the 19th century.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h1_q7",
+      "text": "Which revolution was the first clear expression of nationalism in Europe?",
+      "options": ["Russian Revolution", "French Revolution", "Glorious Revolution", "American Revolution"],
+      "correctIndex": 1,
+      "explanation": "The French Revolution of 1789 introduced the ideas of 'la patrie' (the fatherland) and 'le citoyen' (the citizen).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h1_q8",
+      "text": "In 1815, representatives of which European powers met at Vienna to draw up a settlement for Europe?",
+      "options": ["Britain, Russia, Prussia, Austria", "France, Italy, Germany, Spain", "USA, Britain, France, Russia", "Turkey, Greece, Poland, Russia"],
+      "correctIndex": 0,
+      "explanation": "These powers had collectively defeated Napoleon and wanted to restore the old order.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h1_q9",
+      "text": "Who was the Austrian Chancellor who hosted the Congress of Vienna?",
+      "options": ["Victor Emmanuel II", "Otto von Bismarck", "Duke Metternich", "Napoleon III"],
+      "correctIndex": 2,
+      "explanation": "Metternich was a conservative who believed that the monarchy was the only stable form of government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h1_q10",
+      "text": "Giuseppe Mazzini founded the secret underground society 'Young Italy' in:",
+      "options": ["Marseilles", "Berne", "Rome", "Vienna"],
+      "correctIndex": 0,
+      "explanation": "Mazzini was a key figure in Italian unification and believed in the creation of a unified republic.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h1_q11",
+      "text": "Which treaty recognized Greece as an independent nation in 1832?",
+      "options": ["Treaty of Versailles", "Treaty of Vienna", "Treaty of Constantinople", "Treaty of London"],
+      "correctIndex": 2,
+      "explanation": "The Greek War of Independence mobilized nationalist feelings among the educated elite across Europe.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h1_q12",
+      "text": "The cultural movement which sought to develop a particular form of nationalist sentiment through art and poetry was:",
+      "options": ["Industrialisation", "Romanticism", "Liberalism", "Conservatism"],
+      "correctIndex": 1,
+      "explanation": "Romantic artists and poets emphasized emotions, intuition, and mystical feelings over reason.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h1_q13",
+      "text": "In 1848, an all-German National Assembly met at which city to draft a constitution?",
+      "options": ["Berlin", "Frankfurt", "Munich", "Hamburg"],
+      "correctIndex": 1,
+      "explanation": "The assembly met in the Church of St Paul but failed due to lack of support from the monarchy and military.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h1_q14",
+      "text": "Who was the chief architect of the unification of Germany?",
+      "options": ["William I", "Otto von Bismarck", "Garibaldi", "Mazzini"],
+      "correctIndex": 1,
+      "explanation": "Bismarck carried out the process with the help of the Prussian army and bureaucracy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h1_q15",
+      "text": "Who was proclaimed the German Emperor in 1871 at Versailles?",
+      "options": ["Otto von Bismarck", "Kaiser William I", "Louis Philippe", "Victor Emmanuel II"],
+      "correctIndex": 1,
+      "explanation": "The ceremony took place in the Hall of Mirrors after the victory over France.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h1_q16",
+      "text": "Count Camillo de Cavour was the Prime Minister of which state?",
+      "options": ["Prussia", "Sardinia-Piedmont", "Austria", "Naples"],
+      "correctIndex": 1,
+      "explanation": "Cavour was the leading figure in the diplomatic efforts to unify Italy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h1_q17",
+      "text": "Who led the 'Expedition of the Thousand' to South Italy?",
+      "options": ["Giuseppe Mazzini", "Giuseppe Garibaldi", "Cavour", "Victor Emmanuel II"],
+      "correctIndex": 1,
+      "explanation": "Garibaldi and his 'Red Shirts' volunteers successfully liberated the Kingdom of the Two Sicilies.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h1_q18",
+      "text": "The Act of Union 1707 resulted in the formation of:",
+      "options": ["The United Kingdom of Great Britain", "The Republic of Ireland", "The British Empire", "The Commonwealth"],
+      "correctIndex": 0,
+      "explanation": "The act united England and Scotland under one parliament.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h1_q19",
+      "text": "What was the female allegory representing France called?",
+      "options": ["Germania", "Marianne", "Britannia", "Bharat Mata"],
+      "correctIndex": 1,
+      "explanation": "Marianne's characteristics were drawn from those of Liberty and the Republic.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h1_q20",
+      "text": "In the allegory of Germany, the crown of oak leaves signifies:",
+      "options": ["Peace", "Heroism", "Willingness to make peace", "Ready to fight"],
+      "correctIndex": 1,
+      "explanation": "Germania wears a crown of oak leaves, as the German oak stands for heroism.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h1_q21",
+      "text": "The most serious source of nationalist tension in Europe after 1871 was the region called:",
+      "options": ["Prussia", "The Balkans", "Great Britain", "Sardinia"],
+      "correctIndex": 1,
+      "explanation": "The Balkans was a region of geographical and ethnic variation under the Ottoman Empire.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h1_q22",
+      "text": "What is the meaning of 'Utopian'?",
+      "options": ["A vision of society so ideal that it is unlikely to exist", "A backward society", "A military state", "A religious community"],
+      "correctIndex": 0,
+      "explanation": "Sorrieu's prints were described as a utopian vision of the world.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_h1_q23",
+      "text": "Which country was known as the 'cradle of European civilisation'?",
+      "options": ["France", "Greece", "England", "Italy"],
+      "correctIndex": 1,
+      "explanation": "Nationalists in Greece appealed to this sentiment during their struggle against the Ottoman Empire.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h1_q24",
+      "text": "The term 'Absolutist' refers to:",
+      "options": ["Democratic rule", "A government with no restraints on power exercised", "A system of shared power", "Rule by the church"],
+      "correctIndex": 1,
+      "explanation": "In history, it refers to monarchical governments that were highly centralised and repressive.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h1_q25",
+      "text": "The 'broken chains' symbol represents:",
+      "options": ["Strength", "Being freed", "Peace", "New era"],
+      "correctIndex": 1,
+      "explanation": "In nationalist imagery, chains represented slavery or lack of freedom.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_h1_q26",
+      "text": "A 'Nation-state' is one in which:",
+      "options": ["Only the ruler is sovereign", "Citizens share a common identity and history", "There is no central authority", "Many different ethnicities live without unity"],
+      "correctIndex": 1,
+      "explanation": "The development of nation-states was the goal of 19th-century nationalist movements.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h1_q27",
+      "text": "The Frankfurt Parliament was convened in the year:",
+      "options": ["1815", "1830", "1848", "1871"],
+      "correctIndex": 2,
+      "explanation": "It was part of the wider revolutionary wave that swept across Europe in 1848.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h1_q28",
+      "text": "Which language was used by the Polish clergy as a weapon of national resistance against Russian dominance?",
+      "options": ["English", "German", "Polish", "Latin"],
+      "correctIndex": 2,
+      "explanation": "Using Polish in church gatherings and religious instruction was seen as an act of defiance.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h1_q29",
+      "text": "Who said, 'When France sneezes, the rest of Europe catches cold'?",
+      "options": ["Napoleon", "Metternich", "Mazzini", "Bismarck"],
+      "correctIndex": 1,
+      "explanation": "Metternich used this to describe the impact of French political events on the continent.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h1_q30",
+      "text": "Suffrage means:",
+      "options": ["Suffering", "The right to vote", "Freedom of speech", "Right to property"],
+      "correctIndex": 1,
+      "explanation": "Universal suffrage was a major demand of 19th-century liberals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h1_q31",
+      "text": "The 'Olive branch around the sword' symbolises:",
+      "options": ["Willingness to make peace", "Readiness to fight", "Strength", "Freedom"],
+      "correctIndex": 0,
+      "explanation": "It indicated that the nation was strong but preferred peace.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_h1_q32",
+      "text": "Which empire ruled over Austria-Hungary?",
+      "options": ["Ottoman Empire", "Habsburg Empire", "Russian Empire", "British Empire"],
+      "correctIndex": 1,
+      "explanation": "The Habsburg Empire was a patchwork of many different regions and peoples.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h1_q33",
+      "text": "Liberalism in the economic sphere stood for:",
+      "options": ["Freedom of markets and abolition of state restrictions", "State control of all trade", "High taxes on imports", "Restricting the movement of goods"],
+      "correctIndex": 0,
+      "explanation": "Liberals argued for the removal of barriers to the movement of goods, capital, and people.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h1_q34",
+      "text": "The Bourbon dynasty, which had been deposed during the French Revolution, was restored to power after 1815.",
+      "options": ["True", "False", "Only in Spain", "None"],
+      "correctIndex": 0,
+      "explanation": "The Treaty of Vienna aimed to restore monarchies that had been overthrown by Napoleon.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h1_q35",
+      "text": "In 1848, the French monarchy was overthrown and replaced by a:",
+      "options": ["Dictatorship", "Republic", "Constitutional Monarchy", "Colony"],
+      "correctIndex": 1,
+      "explanation": "The revolution led to the proclamation of a Republic based on universal male suffrage.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h1_q36",
+      "text": "Nationalism aligned with imperialism led Europe to disaster in:",
+      "options": ["1848", "1871", "1914", "1945"],
+      "correctIndex": 2,
+      "explanation": "The competition for colonies and territory among European powers culminated in World War I.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h1_q37",
+      "text": "The 'Rays of the rising sun' in nationalist imagery symbolises:",
+      "options": ["End of the world", "Beginning of a new era", "Victory in war", "Peace"],
+      "correctIndex": 1,
+      "explanation": "It represents hope and the birth of a new nation.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_h1_q38",
+      "text": "Who was the Prussian King during the German unification?",
+      "options": ["Frederick William IV", "William I", "William II", "Bismarck"],
+      "correctIndex": 1,
+      "explanation": "He was the head of the Prussian state that led the unification process.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h1_q39",
+      "text": "The term 'Ethnicity' relates to:",
+      "options": ["A political ideology", "Shared racial, cultural or national background", "Economic status", "Military rank"],
+      "correctIndex": 1,
+      "explanation": "Ethnic groups share common descent and cultural heritage.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h1_q40",
+      "text": "Who was proclaimed the first king of unified Italy in 1861?",
+      "options": ["Victor Emmanuel II", "Charles Albert", "Mazzini", "Garibaldi"],
+      "correctIndex": 0,
+      "explanation": "Sardinia-Piedmont led the unification process under his leadership.",
+      "frequencyRating": 5
     }
   ]
 }

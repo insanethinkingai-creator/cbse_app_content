@@ -45,6 +45,286 @@
       "correctIndex": 1,
       "explanation": "Indentured labor migration from India was largely from the present-day regions of eastern UP, Bihar, central India, and Tamil Nadu.",
       "frequencyRating": 4
+    },
+    {
+      "id": "g10_h3_q6",
+      "text": "Which food item is believed to have traveled from China to Europe to become spaghetti?",
+      "options": ["Potato", "Noodles", "Rice", "Maize"],
+      "correctIndex": 1,
+      "explanation": "Many of our common foods like potatoes, soya, and groundnuts were not known until after Columbus.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h3_q7",
+      "text": "The 'Irish Potato Famine' of the mid-1840s resulted in the death of how many people?",
+      "options": ["10,000", "100,000", "1,000,000", "5,000,000"],
+      "correctIndex": 2,
+      "explanation": "Poor peasants in Ireland were so dependent on potatoes that they starved when disease destroyed the crop.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h3_q8",
+      "text": "Until the 18th century, which two countries were among the world's richest?",
+      "options": ["Britain and France", "USA and Canada", "China and India", "Germany and Russia"],
+      "correctIndex": 2,
+      "explanation": "They were also pre-eminent in Asian trade before the shift of power to Europe.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h3_q9",
+      "text": "The 'Corn Laws' in Britain were passed to:",
+      "options": ["Promote corn exports", "Restrict the import of corn", "Give free corn to the poor", "Encourage corn production in colonies"],
+      "correctIndex": 1,
+      "explanation": "Pressure from landed groups forced the government to restrict imports to keep domestic prices high.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h3_q10",
+      "text": "The abolition of Corn Laws in Britain led to:",
+      "options": ["Decrease in food prices", "Increase in agricultural jobs", "Famine", "Higher land rents"],
+      "correctIndex": 0,
+      "explanation": "Food could now be imported into Britain more cheaply than it could be produced within the country.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h3_q11",
+      "text": "What played a major role in transporting perishable foods over long distances in the late 19th century?",
+      "options": ["Faster horses", "Refrigerated ships", "Canals", "Airplanes"],
+      "correctIndex": 1,
+      "explanation": "This allowed meat from America and Australia to be sold in European markets.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h3_q12",
+      "text": "At the Berlin Conference of 1885, European powers met to:",
+      "options": ["End World War I", "Carve up Africa among themselves", "Discuss trade with India", "Abolish slavery"],
+      "correctIndex": 1,
+      "explanation": "Most of the modern borders of Africa were drawn during this period of colonial expansion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h3_q13",
+      "text": "In the 19th century, thousands of Indians and Chinese went to work on plantations and mines as:",
+      "options": ["Tourists", "Indentured labourers", "Soldiers", "Merchants"],
+      "correctIndex": 1,
+      "explanation": "This was often described as a 'new system of slavery' under colonial rule.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h3_q14",
+      "text": "The 'Chutney music' popular in Trinidad and Guyana is a result of:",
+      "options": ["African traditions", "The indentured experience", "French influence", "Modern pop culture"],
+      "correctIndex": 1,
+      "explanation": "It represents the creative expression of the cultural fusion among the migrant Indian population.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h3_q15",
+      "text": "The First World War was fought between which two power blocs?",
+      "options": ["Allies and Central Powers", "Axis and Allies", "NATO and Warsaw Pact", "USA and USSR"],
+      "correctIndex": 0,
+      "explanation": "The Allies included Britain, France, and Russia; the Central Powers were Germany, Austria-Hungary, and Ottoman Turkey.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h3_q16",
+      "text": "The First World War is often called the first 'modern industrial war' because of the use of:",
+      "options": ["Machine guns and tanks", "Aircraft and submarines", "Chemical weapons", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "The war saw the large-scale use of industrial technology for mass destruction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h3_q17",
+      "text": "Which country transformed from being an international debtor to an international creditor after WWI?",
+      "options": ["Britain", "Germany", "USA", "Japan"],
+      "correctIndex": 2,
+      "explanation": "By the end of the war, the US and its citizens owned more overseas assets than foreign governments owned in the US.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h3_q18",
+      "text": "Who pioneered the 'assembly line' method of mass production in the car industry?",
+      "options": ["Andrew Carnegie", "Henry Ford", "John D. Rockefeller", "Thomas Edison"],
+      "correctIndex": 1,
+      "explanation": "He adapted the assembly line of a Chicago slaughterhouse to his new car plant in Detroit.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h3_q19",
+      "text": "The 'Great Depression' began around:",
+      "options": ["1914", "1929", "1939", "1945"],
+      "correctIndex": 1,
+      "explanation": "It was a period of severe global economic decline that lasted until the mid-1930s.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h3_q20",
+      "text": "The IMF and World Bank are often referred to as the:",
+      "options": ["Bretton Woods twins", "UN twins", "Washington duo", "Global giants"],
+      "correctIndex": 0,
+      "explanation": "They began operations in 1947 to manage the post-war global economy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h3_q21",
+      "text": "Most developing countries organized themselves into the G-77 to demand a:",
+      "options": ["New International Economic Order (NIEO)", "Gold Standard", "Military Alliance", "Monarchy"],
+      "correctIndex": 0,
+      "explanation": "They wanted a system that would give them real control over their natural resources and fairer trade.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h3_q22",
+      "text": "The system of 'fixed exchange rates' collapsed in the early 1970s and was replaced by:",
+      "options": ["Gold standard", "Floating exchange rates", "Barter system", "Single world currency"],
+      "correctIndex": 1,
+      "explanation": "Currencies now fluctuate based on market supply and demand.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h3_q23",
+      "text": "El Dorado was a fabled city of:",
+      "options": ["Gold", "Silver", "Silk", "Spices"],
+      "correctIndex": 0,
+      "explanation": "European explorers spent decades searching for this mythical city in South America.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_h3_q24",
+      "text": "Canal Colonies in Punjab were settled to grow:",
+      "options": ["Rice and Jute", "Wheat and Cotton for export", "Spices", "Tea and Coffee"],
+      "correctIndex": 1,
+      "explanation": "Peasants from other parts of Punjab were settled on land irrigated by new canals.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h3_q25",
+      "text": "The famous Hosay carnival in Trinidad was a result of:",
+      "options": ["French culture", "Cultural fusion among workers", "American movies", "Religious conflict"],
+      "correctIndex": 1,
+      "explanation": "It was a processed Muharram carnival in which workers of all races and religions joined.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_h3_q26",
+      "text": "Which city became the global hub for finance and trade by the late 19th century?",
+      "options": ["Paris", "London", "New York", "Berlin"],
+      "correctIndex": 1,
+      "explanation": "Britain was the world's leading industrial and financial power during this era.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h3_q27",
+      "text": "Indentured labour was officially abolished in India in:",
+      "options": ["1900", "1914", "1921", "1947"],
+      "correctIndex": 2,
+      "explanation": "Opposition from Indian nationalist leaders eventually led to its abolition.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h3_q28",
+      "text": "Mass production became a feature of industrial production in which country first?",
+      "options": ["Britain", "Germany", "USA", "Japan"],
+      "correctIndex": 2,
+      "explanation": "The US led the shift towards assembly-line manufacturing in the early 20th century.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h3_q29",
+      "text": "Trade surpluses with India helped Britain pay its trade deficits with:",
+      "options": ["China", "USA", "Other countries", "All of the above"],
+      "correctIndex": 2,
+      "explanation": "Britain used the 'home charges' and trade surplus from India to balance its global accounts.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h3_q30",
+      "text": "The relocation of industry to low-wage countries like China was a result of:",
+      "options": ["World War II", "The collapse of the Bretton Woods system", "Global warming", "Lack of raw materials"],
+      "correctIndex": 1,
+      "explanation": "This shift changed the world's economic geography starting in the late 1970s.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h3_q31",
+      "text": "Cowries were used as a form of ________ in the pre-modern world.",
+      "options": ["Currency", "Decoration", "Food", "Weapon"],
+      "correctIndex": 0,
+      "explanation": "These shells from the Maldives were used as money in many parts of the world.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_h3_q32",
+      "text": "The 'Silk Route' was named so because of the dominance of ______ trade along it.",
+      "options": ["Indian Cotton", "Chinese Silk", "European Wool", "Arab Spices"],
+      "correctIndex": 1,
+      "explanation": "Chinese silk cargoes were the most famous goods transported over these routes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h3_q33",
+      "text": "Globalisation is primarily about:",
+      "options": ["Building walls", "Increasing global connectivity and exchange", "Restricting migration", "National isolation"],
+      "correctIndex": 1,
+      "explanation": "It involves the movement of goods, services, capital, and people across borders.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h3_q34",
+      "text": "The 'Global World' we live in today is a product of:",
+      "options": ["One single event", "A long history of migration, trade, and conquest", "The last 10 years only", "Natural accidents"],
+      "correctIndex": 1,
+      "explanation": "Modern global connectivity has deep historical roots spanning centuries.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h3_q35",
+      "text": "Potato was introduced to Europe from:",
+      "options": ["India", "America", "Africa", "China"],
+      "correctIndex": 1,
+      "explanation": "It was one of the many crops brought to the Old World after the discovery of the Americas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h3_q36",
+      "text": "Which crop's failure led to the Great Famine in Ireland?",
+      "options": ["Wheat", "Potato", "Corn", "Rice"],
+      "correctIndex": 1,
+      "explanation": "Irish peasants were so dependent on potatoes that its failure led to mass starvation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h3_q37",
+      "text": "The discovery of ______ changed the global balance of power in the 16th century.",
+      "options": ["The Moon", "America", "Australia", "Antarctica"],
+      "correctIndex": 1,
+      "explanation": "Columbus's discovery opened up new routes and resources for European powers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h3_q38",
+      "text": "Which of these was NOT a 'pre-modern' form of global contact?",
+      "options": ["Migration", "Spiritual quests", "Air travel", "Trade"],
+      "correctIndex": 2,
+      "explanation": "Air travel is a modern phenomenon, unlike the others which have existed for millennia.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h3_q39",
+      "text": "The flow of capital refers to the movement of:",
+      "options": ["Labour", "Investments", "Goods", "Refugees"],
+      "correctIndex": 1,
+      "explanation": "Economists identify three types of global 'flows': trade, labour, and capital.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h3_q40",
+      "text": "Rinderpest was also known as:",
+      "options": ["Bird flu", "Cattle plague", "Potato blight", "Swine flu"],
+      "correctIndex": 1,
+      "explanation": "It was a fast-spreading disease of cattle that had a terrifying impact on African livelihoods.",
+      "frequencyRating": 5
     }
   ]
 }

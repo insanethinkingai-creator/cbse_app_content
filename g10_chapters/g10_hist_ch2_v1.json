@@ -45,6 +45,286 @@
       "correctIndex": 1,
       "explanation": "The Civil Disobedience Movement began in 1930 when Gandhiji reached Dandi and ceremonially violated the salt law.",
       "frequencyRating": 5
+    },
+    {
+      "id": "g10_h2_q6",
+      "text": "The concept of 'Satyagraha' emphasized the power of:",
+      "options": ["Physical force", "Truth and the need to search for truth", "Military weapons", "Diplomatic negotiations"],
+      "correctIndex": 1,
+      "explanation": "It suggested that if the cause was true, physical force was not necessary to fight the oppressor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h2_q7",
+      "text": "Where was the first Satyagraha movement launched by Gandhi in India?",
+      "options": ["Kheda", "Champaran", "Ahmedabad", "Bardoli"],
+      "correctIndex": 1,
+      "explanation": "In 1917, he traveled to Champaran in Bihar to inspire peasants to struggle against the oppressive plantation system.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h2_q8",
+      "text": "On which day did the Jallianwala Bagh massacre take place?",
+      "options": ["10 April 1919", "13 April 1919", "15 April 1919", "20 April 1919"],
+      "correctIndex": 1,
+      "explanation": "General Dyer opened fire on a peaceful crowd gathered in the enclosed ground at Amritsar.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h2_q9",
+      "text": "The Khilafat Committee was formed in Bombay in 1919 to:",
+      "options": ["Support the Rowlatt Act", "Defend the temporal powers of the Ottoman Caliph", "Oppose Mahatma Gandhi", "Demand Purna Swaraj"],
+      "correctIndex": 1,
+      "explanation": "The committee was led by the Ali brothers, Muhammad Ali and Shaukat Ali.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h2_q10",
+      "text": "At which Congress session was the Non-Cooperation program adopted?",
+      "options": ["Nagpur session 1920", "Calcutta session 1920", "Lahore session 1929", "Madras session 1927"],
+      "correctIndex": 0,
+      "explanation": "After much debate, the program was finalized at the Nagpur session in December 1920.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h2_q11",
+      "text": "Who led the peasant movement in Awadh during the Non-Cooperation Movement?",
+      "options": ["Baba Ramchandra", "Alluri Sitaram Raju", "Jawaharlal Nehru", "Motilal Nehru"],
+      "correctIndex": 0,
+      "explanation": "Baba Ramchandra was a sanyasi who had earlier been to Fiji as an indentured laborer.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h2_q12",
+      "text": "Alluri Sitaram Raju was associated with the tribal movement in:",
+      "options": ["Gudem Hills of Andhra Pradesh", "Chotanagpur plateau", "The forests of Bastar", "Assam tea gardens"],
+      "correctIndex": 0,
+      "explanation": "He claimed to have special powers and led a militant guerrilla movement.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h2_q13",
+      "text": "Under the Inland Emigration Act of 1859, plantation workers were not permitted to:",
+      "options": ["Leave the tea gardens without permission", "Earn wages", "Speak their native language", "Practice their religion"],
+      "correctIndex": 0,
+      "explanation": "Workers were confined to the gardens and rarely given permission to go home.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h2_q14",
+      "text": "The Swaraj Party was formed by:",
+      "options": ["Jawaharlal Nehru and Subhash Chandra Bose", "C.R. Das and Motilal Nehru", "Mahatma Gandhi and Sardar Patel", "Ambedkar and Gandhi"],
+      "correctIndex": 1,
+      "explanation": "They wanted to enter the provincial councils to oppose British policies from within.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h2_q15",
+      "text": "The Simon Commission was boycotted in India because:",
+      "options": ["It was too expensive", "It did not have any Indian member", "It was led by a conservative", "It recommended the salt tax"],
+      "correctIndex": 1,
+      "explanation": "The all-British commission was sent to review India's constitutional system, causing widespread outrage.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h2_q16",
+      "text": "At which session did the Congress formalize the demand for 'Purna Swaraj' (Full Independence)?",
+      "options": ["Lahore session 1929", "Nagpur session 1920", "Calcutta session 1920", "Karachi session 1931"],
+      "correctIndex": 0,
+      "explanation": "The session was presided over by Jawaharlal Nehru.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h2_q17",
+      "text": "How many miles did Gandhi walk during the Salt March?",
+      "options": ["100 miles", "240 miles", "350 miles", "500 miles"],
+      "correctIndex": 1,
+      "explanation": "He walked from Sabarmati ashram to Dandi over 24 days.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h2_q18",
+      "text": "The Gandhi-Irwin Pact was signed in:",
+      "options": ["1930", "1931", "1932", "1935"],
+      "correctIndex": 1,
+      "explanation": "Gandhi agreed to participate in the Second Round Table Conference in London.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h2_q19",
+      "text": "Who organized the Dalits into the 'Depressed Classes Association' in 1930?",
+      "options": ["Mahatma Gandhi", "B.R. Ambedkar", "Jyotiba Phule", "Sardar Patel"],
+      "correctIndex": 1,
+      "explanation": "Ambedkar clashed with Gandhi at the Second Round Table Conference over separate electorates.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h2_q20",
+      "text": "The Poona Pact of September 1932 was an agreement between:",
+      "options": ["Gandhi and Irwin", "Gandhi and Ambedkar", "Congress and Muslim League", "British and Princely States"],
+      "correctIndex": 1,
+      "explanation": "It gave reserved seats in provincial and central legislative councils to the Depressed Classes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h2_q21",
+      "text": "Who created the first image of 'Bharat Mata'?",
+      "options": ["Abanindranath Tagore", "Bankim Chandra Chattopadhyay", "Rabindranath Tagore", "Ravi Varma"],
+      "correctIndex": 1,
+      "explanation": "Bankim Chandra Chattopadhyay wrote 'Vande Mataram' and created the imagery of the motherland.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h2_q22",
+      "text": "The famous painting of Bharat Mata as an ascetic figure was painted by:",
+      "options": ["Abanindranath Tagore", "Nandalal Bose", "Raja Ravi Varma", "Amrita Sher-Gil"],
+      "correctIndex": 0,
+      "explanation": "She is shown as calm, composed, divine, and spiritual.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h2_q23",
+      "text": "Who published a massive four-volume collection of Tamil folk tales, 'The Folklore of Southern India'?",
+      "options": ["Natesa Sastri", "Rabindranath Tagore", "Subramania Bharati", "C. Rajagopalachari"],
+      "correctIndex": 0,
+      "explanation": "He believed that folklore was national literature and the most trustworthy manifestation of people's thoughts.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h2_q24",
+      "text": "The spinning wheel in the center of the Swaraj flag represented:",
+      "options": ["Industrial progress", "The Gandhian ideal of self-help", "The cycle of time", "Traditional arts"],
+      "correctIndex": 1,
+      "explanation": "The flag was designed by Gandhi in 1921.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h2_q25",
+      "text": "Who was known as 'Frontier Gandhi'?",
+      "options": ["Abdul Ghaffar Khan", "Maulana Azad", "Muhammad Ali Jinnah", "Shaukat Ali"],
+      "correctIndex": 0,
+      "explanation": "He was a devout disciple of Gandhi and led the movement in Peshawar.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h2_q26",
+      "text": "The FICCI (Federation of Indian Chamber of Commerce and Industries) was formed in:",
+      "options": ["1920", "1927", "1930", "1935"],
+      "correctIndex": 1,
+      "explanation": "It was established by prominent industrialists like G.D. Birla and Purshottamdas Thakurdas.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_h2_q27",
+      "text": "Which movement was launched in 1942 with the slogan 'Do or Die'?",
+      "options": ["Non-Cooperation", "Civil Disobedience", "Quit India", "Khilafat"],
+      "correctIndex": 2,
+      "explanation": "It was a massive mass struggle launched during the Second World War.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h2_q28",
+      "text": "The 'Simon Commission' arrived in India in:",
+      "options": ["1927", "1928", "1929", "1930"],
+      "correctIndex": 1,
+      "explanation": "It was greeted with the slogan 'Simon Go Back'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h2_q29",
+      "text": "Vande Mataram was included in which novel?",
+      "options": ["Gitanjali", "Anandamath", "Godan", "Gulamgiri"],
+      "correctIndex": 1,
+      "explanation": "The novel was written by Bankim Chandra Chattopadhyay.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h2_q30",
+      "text": "What was the significance of 26 January 1930?",
+      "options": ["Gandhi started the Salt March", "It was celebrated as Independence Day", "Congress session began in Lahore", "Simon Commission report was published"],
+      "correctIndex": 1,
+      "explanation": "It was the date fixed by the Lahore Congress to celebrate Independence Day every year.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h2_q31",
+      "text": "The first World War created a new political and economic situation by:",
+      "options": ["Increasing defense expenditure", "Introducing income tax", "Leading to price rise", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "These factors led to extreme hardship for the common people in India.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h2_q32",
+      "text": "The 'Oudh Kisan Sabha' was set up by:",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru and Baba Ramchandra", "The Ali brothers", "The British Government"],
+      "correctIndex": 1,
+      "explanation": "Within a month, over 300 branches had been set up in the villages around the region.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h2_q33",
+      "text": "Who presided over the 1929 Lahore session of Congress?",
+      "options": ["Motilal Nehru", "Jawaharlal Nehru", "Sardar Patel", "Subhash Chandra Bose"],
+      "correctIndex": 1,
+      "explanation": "Under his leadership, the goal of Full Independence was declared.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h2_q34",
+      "text": "The feeling of nationalism was spread by:",
+      "options": ["Folklore and songs", "Popular prints and symbols", "Reinterpretation of history", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Cultural processes played a vital role in capturing people's imagination.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h2_q35",
+      "text": "Inland Emigration Act of 1859 prevented workers from leaving tea gardens in which state?",
+      "options": ["Bihar", "Assam", "Bengal", "Kerala"],
+      "correctIndex": 1,
+      "explanation": " Plantation workers in Assam had their own understanding of Gandhi and the notion of Swaraj.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_h2_q36",
+      "text": "The 'Swaraj Flag' designed by Gandhi had how many colors?",
+      "options": ["Two", "Three", "Four", "One"],
+      "correctIndex": 1,
+      "explanation": "It was a tricolour (red, green, and white) with a spinning wheel in the center.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_h2_q37",
+      "text": "Which movement was started to support the temporal powers of the Khalifa?",
+      "options": ["Swaraj", "Khilafat", "Quit India", "Civil Disobedience"],
+      "correctIndex": 1,
+      "explanation": "Gandhi saw this as an opportunity to bring Muslims and Hindus under the umbrella of a unified national movement.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h2_q38",
+      "text": "The Salt Satyagraha began from which place?",
+      "options": ["Dandi", "Sabarmati", "Wardha", "Champaran"],
+      "correctIndex": 1,
+      "explanation": "The march started from his ashram at Sabarmati to the coastal town of Dandi.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_h2_q39",
+      "text": "Who is the author of the novel 'Anandamath'?",
+      "options": ["Rabindranath Tagore", "Bankim Chandra Chattopadhyay", "Abanindranath Tagore", "Premchand"],
+      "correctIndex": 1,
+      "explanation": "This novel contains the hymn 'Vande Mataram' which became a slogan for nationalists.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_h2_q40",
+      "text": "The demand for separate electorates for Muslims was strongly put forward by:",
+      "options": ["Sir Sayyid Ahmed Khan", "Maulana Azad", "Muhammad Ali Jinnah", "Liaquat Ali Khan"],
+      "correctIndex": 2,
+      "explanation": "This was a major point of difference between the Congress and the Muslim League.",
+      "frequencyRating": 4
     }
   ]
 }

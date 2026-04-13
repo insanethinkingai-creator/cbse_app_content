@@ -7,43 +7,323 @@
   "version": "v1",
   "questions": [
     {
-      "id": "g10_e2_q1",
-      "text": "The sector that covers activities where natural products are changed into other forms through manufacturing is:",
-      "options": ["Primary Sector", "Secondary Sector", "Tertiary Sector", "Quaternary Sector"],
+      "id": "g10_ec2_q1",
+      "text": "Activities that are undertaken by directly using natural resources come under which sector?",
+      "options": ["Secondary Sector", "Primary Sector", "Tertiary Sector", "Information Technology"],
       "correctIndex": 1,
-      "explanation": "The secondary sector involves industrial activity where raw materials from the primary sector are processed into finished goods.",
+      "explanation": "Agriculture, dairy, fishing, and forestry are examples of primary sector activities.",
       "frequencyRating": 5
     },
     {
-      "id": "g10_e2_q2",
-      "text": "GDP is the total value of ________ produced during a particular year.",
-      "options": ["All goods and services", "All final goods and services", "All intermediate goods", "All consumer goods"],
-      "correctIndex": 1,
-      "explanation": "Gross Domestic Product (GDP) only counts 'final' goods and services to avoid double-counting intermediate products.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_e2_q3",
-      "text": "In which sector is the employment conditions generally secure and workers get benefits like paid leave?",
-      "options": ["Unorganized sector", "Organized sector", "Agricultural sector", "Small scale sector"],
-      "correctIndex": 1,
-      "explanation": "The organized sector follows government rules and regulations, providing job security and social security benefits.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_e2_q4",
-      "text": "Underemployment occurs when people are:",
-      "options": ["Not willing to work", "Working slowly", "Working less than what they are capable of", "Paid high wages"],
+      "id": "g10_ec2_q2",
+      "text": "The Secondary sector is also known as the ________ sector.",
+      "options": ["Agriculture", "Service", "Industrial", "Public"],
       "correctIndex": 2,
-      "explanation": "Underemployment (or disguised unemployment) is a situation where more people are working than necessary, and their potential is not fully utilized.",
+      "explanation": "This sector covers activities in which natural products are changed into other forms through manufacturing.",
       "frequencyRating": 5
     },
     {
-      "id": "g10_e2_q5",
-      "text": "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) 2005 guarantees how many days of employment?",
-      "options": ["50 days", "100 days", "150 days", "200 days"],
+      "id": "g10_ec2_q3",
+      "text": "Which sector provides services that help in the development of the primary and secondary sectors?",
+      "options": ["Primary", "Secondary", "Tertiary", "Quaternary"],
+      "correctIndex": 2,
+      "explanation": "The tertiary sector does not produce goods itself but aids the production process (e.g., transport, banking).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec2_q4",
+      "text": "Gross Domestic Product (GDP) is the total value of ________ produced during a particular year.",
+      "options": ["All goods and services", "All final goods and services", "All intermediate goods", "Only agricultural products"],
       "correctIndex": 1,
-      "explanation": "MGNREGA guarantees 100 days of wage employment in a financial year to every household whose adult members volunteer to do unskilled manual work.",
+      "explanation": "GDP only counts 'final' goods to avoid the problem of double counting intermediate materials.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec2_q5",
+      "text": "Who calculates the GDP in India?",
+      "options": ["Reserve Bank of India", "Central Government Ministry", "State Governments", "World Bank"],
+      "correctIndex": 1,
+      "explanation": "The Central Statistical Office under the Ministry of Statistics and Programme Implementation handles this task.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec2_q6",
+      "text": "The historical shift in developed countries shows a move from the primary sector towards:",
+      "options": ["Secondary and then Tertiary", "Only Secondary", "Directly to IT", "Back to Primary"],
+      "correctIndex": 0,
+      "explanation": "As farming methods improved, labour shifted to industries and eventually to services.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec2_q7",
+      "text": "In India, which sector has emerged as the largest producing sector in terms of GDP contribution?",
+      "options": ["Primary", "Secondary", "Tertiary", "Manufacturing"],
+      "correctIndex": 2,
+      "explanation": "While agriculture employs most people, the tertiary sector contributes more than half of India's GDP.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec2_q8",
+      "text": "What is 'disguised unemployment'?",
+      "options": ["When people are not looking for jobs", "When people are working but their productivity is zero", "When people lose jobs due to technology", "When people work in the unorganized sector"],
+      "correctIndex": 1,
+      "explanation": "This is a situation where more people are working than required; even if some are removed, production remains the same.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec2_q9",
+      "text": "Disguised unemployment is most common in which sector in India?",
+      "options": ["Agriculture", "Manufacturing", "Banking", "Tourism"],
+      "correctIndex": 0,
+      "explanation": "Many family members work on small plots of land because they have no better alternatives, even if they aren't fully needed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec2_q10",
+      "text": "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) was passed in:",
+      "options": ["2001", "2005", "2010", "2014"],
+      "correctIndex": 1,
+      "explanation": "This law guarantees 100 days of employment in a year to many rural households.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec2_q11",
+      "text": "The sector that covers enterprises where terms of employment are regular and people have assured work is:",
+      "options": ["Unorganized Sector", "Organized Sector", "Private Sector", "Informal Sector"],
+      "correctIndex": 1,
+      "explanation": "The organized sector is registered by the government and follows laws like the Factories Act.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec2_q12",
+      "text": "Which of the following is a feature of the unorganized sector?",
+      "options": ["Job Security", "Paid Leaves", "Fixed Working Hours", "Low and Irregular Wages"],
+      "correctIndex": 3,
+      "explanation": "Jobs here are often casual, with no benefits like medical leaves or pensions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec2_q13",
+      "text": "The Public Sector is characterized by:",
+      "options": ["Individual ownership", "Profit motive", "Government ownership and control", "No social welfare"],
+      "correctIndex": 2,
+      "explanation": "In the public sector, the government owns most assets and provides all services (e.g., Railways).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec2_q14",
+      "text": "The main motive of the Private Sector is:",
+      "options": ["Social Welfare", "Public Service", "To earn profit", "To create jobs only"],
+      "correctIndex": 2,
+      "explanation": "Companies like TISCO or Reliance are run to generate returns for their shareholders.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec2_q15",
+      "text": "Which sector is also called the 'Service Sector'?",
+      "options": ["Primary", "Secondary", "Tertiary", "Organized"],
+      "correctIndex": 2,
+      "explanation": "Since activities in this sector generate services rather than physical goods, it's called the service sector.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec2_q16",
+      "text": "Atmospheric pollution, hospitals, and schools are areas where the ________ sector must take the lead.",
+      "options": ["Private", "Public", "Unorganized", "Individual"],
+      "correctIndex": 1,
+      "explanation": "These services require huge investments and are essential for everyone, making them the government's responsibility.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec2_q17",
+      "text": "Workers in the ________ sector do not produce goods.",
+      "options": ["Primary", "Secondary", "Tertiary", "Agriculture"],
+      "correctIndex": 2,
+      "explanation": "Tertiary sector workers provide services like teaching, accounting, or hair cutting.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec2_q18",
+      "text": "A situation where people are working but all of them are working less than their potential is:",
+      "options": ["Employment", "Underemployment", "Over-employment", "Seasonal work"],
+      "correctIndex": 1,
+      "explanation": "This is another name for disguised unemployment.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec2_q19",
+      "text": "Which sector continues to be the largest employer in India as of 2017-18?",
+      "options": ["Primary", "Secondary", "Tertiary", "IT"],
+      "correctIndex": 0,
+      "explanation": "Despite contributing less to GDP, nearly 44% of India's population still works in agriculture.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec2_q20",
+      "text": "What does 'Final Goods' mean in GDP calculation?",
+      "options": ["Goods used for further production", "Goods that reach the consumers", "Unfinished goods", "Raw materials"],
+      "correctIndex": 1,
+      "explanation": "Final goods are ready for use and do not need further processing.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec2_q21",
+      "text": "Intermediate goods are not added to GDP because:",
+      "options": ["They have no value", "Their value is already included in the final goods", "They are illegal", "Government forgets them"],
+      "correctIndex": 1,
+      "explanation": "Adding them separately would lead to double counting of the same value.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec2_q22",
+      "text": "In the organized sector, employers follow which of the following?",
+      "options": ["Factories Act", "Minimum Wages Act", "Payment of Gratuity Act", "All of these"],
+      "correctIndex": 3,
+      "explanation": "The organized sector is governed by various labour laws to protect workers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec2_q23",
+      "text": "Who are the vulnerable people in the unorganized sector in urban areas?",
+      "options": ["Large farmers", "Casual workers in construction and trade", "Bank managers", "Software engineers"],
+      "correctIndex": 1,
+      "explanation": "These workers have no job security and very low earnings.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec2_q24",
+      "text": "Railways and Post Office are examples of:",
+      "options": ["Private sector", "Public sector", "Unorganized sector", "Tertiary sector only"],
+      "correctIndex": 1,
+      "explanation": "These are owned and managed by the Government of India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec2_q25",
+      "text": "Underemployment can also happen in which of these areas?",
+      "options": ["Only Agriculture", "Only Services", "Both Agriculture and Services", "Neither"],
+      "correctIndex": 2,
+      "explanation": "For example, painters or repair persons in cities who spend the whole day looking for work but find only a few hours of it.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_ec2_q26",
+      "text": "The development of ________ and ________ sectors leads to the development of the service sector.",
+      "options": ["Primary, Secondary", "IT, Education", "Private, Unorganized", "None"],
+      "correctIndex": 0,
+      "explanation": "More agriculture and industry create more demand for transport, storage, and trade.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec2_q27",
+      "text": "Tertiary sector activities include:",
+      "options": ["Mining", "Sugar making", "Communication and Banking", "Fishing"],
+      "correctIndex": 2,
+      "explanation": "These provide the framework for the modern economy to function.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec2_q28",
+      "text": "When we produce a good by exploiting natural resources, it is an activity of the ________ sector.",
+      "options": ["Secondary", "Tertiary", "Primary", "Industrial"],
+      "correctIndex": 2,
+      "explanation": "The term 'primary' is used because it forms the base for all subsequent products.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec2_q29",
+      "text": "TISCO and Reliance Industries Limited (RIL) are ________ owned.",
+      "options": ["Publicly", "Privately", "Jointly", "Foreign"],
+      "correctIndex": 1,
+      "explanation": "Ownership of assets and delivery of services is in the hands of private individuals or companies.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec2_q30",
+      "text": "The government supports the ________ sector by providing infrastructure like roads and electricity.",
+      "options": ["Private", "Primary", "Public", "All"],
+      "correctIndex": 3,
+      "explanation": "Infrastructure development is a basic task of the government that benefits all economic sectors.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec2_q31",
+      "text": "The task of measuring GDP in India is undertaken by a ________.",
+      "options": ["Private bank", "Central government ministry", "State assembly", "Local NGO"],
+      "correctIndex": 1,
+      "explanation": "Measuring the vast economic activity of a country requires the resources of the central government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec2_q32",
+      "text": "Which of these is NOT an example of a tertiary activity?",
+      "options": ["Teaching", "Banking", "Making bricks", "Transporting goods"],
+      "correctIndex": 2,
+      "explanation": "Making bricks is a secondary sector activity as it involves manufacturing a product.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec2_q33",
+      "text": "Why has the tertiary sector become so important in India?",
+      "options": ["Basic services like hospitals are needed", "Rise in income levels led to more eating out/tourism", "Development of IT", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "A combination of social needs, increasing wealth, and technological growth has fueled this expansion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec2_q34",
+      "text": "Where is disguised unemployment commonly seen?",
+      "options": ["In large factories", "In family-run small farms", "In government offices", "In software companies"],
+      "correctIndex": 1,
+      "explanation": "Small farms often have more family members working on them than necessary.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec2_q35",
+      "text": "The Right to Work is implemented through which act?",
+      "options": ["Factories Act", "MGNREGA 2005", "Minimum Wages Act", "Companies Act"],
+      "correctIndex": 1,
+      "explanation": "MGNREGA 2005 is the legal framework for providing guaranteed employment in rural areas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec2_q36",
+      "text": "The organized sector offers which of the following to its employees?",
+      "options": ["Fixed working hours", "Safe working environment", "Pensions", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "These benefits are legally mandated for companies in the organized sector.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec2_q37",
+      "text": "In India, about ________ percent of rural households are small and marginal farmers.",
+      "options": ["20%", "50%", "80%", "95%"],
+      "correctIndex": 2,
+      "explanation": "The vast majority of Indian farmers have very small landholdings and need support from the unorganized sector.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_ec2_q38",
+      "text": "Primary, Secondary, and Tertiary sectors are classified on the basis of:",
+      "options": ["Nature of economic activity", "Ownership of assets", "Employment conditions", "Number of workers"],
+      "correctIndex": 0,
+      "explanation": "This classification focuses on how goods are produced or services are provided.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec2_q39",
+      "text": "Public and Private sectors are classified on the basis of:",
+      "options": ["Employment conditions", "The nature of activity", "Ownership of enterprises", "Number of workers"],
+      "correctIndex": 2,
+      "explanation": "This classification looks at who owns the assets and is responsible for service delivery.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec2_q40",
+      "text": "The term 'GDP' stands for:",
+      "options": ["Gross Domestic Product", "Gross Daily Profit", "Great Domestic Production", "General Development Product"],
+      "correctIndex": 0,
+      "explanation": "GDP is the standard measure of the value of all final goods and services produced in a country.",
       "frequencyRating": 5
     }
   ]

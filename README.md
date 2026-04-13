@@ -219,6 +219,10 @@ This script automatically packages all chapters into `g7_v1.zip`, calculates its
 | 3 | Two Stories about Flying | ✅ v1 |
 | 4 | From the Diary of Anne Frank | ✅ v1 |
 | 5 | Glimpses of India | ✅ v1 |
+| 6 | Mijbil the Otter | ✅ v1 |
+| 7 | Madam Rides the Bus | ✅ v1 |
+| 8 | The Sermon at Benares | ✅ v1 |
+| 9 | The Proposal | ✅ v1 |
 
 ## Deployment & Android Integration Strategy
 

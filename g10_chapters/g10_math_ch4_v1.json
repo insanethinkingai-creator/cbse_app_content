@@ -8,340 +8,322 @@
   "questions": [
     {
       "id": "g10_m4_q1",
-      "text": "The standard form of a quadratic equation is ax² + bx + c = 0, where a, b, c are real numbers and:",
-      "options": ["a > 0", "a ≠ 0", "b ≠ 0", "a = 0"],
-      "text": "The standard form of a quadratic equation is ax² + bx + c = 0, where:",
-      "options": ["a = 0", "a ≠ 0", "b = 0", "c = 0"],
+      "text": "The standard form of a quadratic equation is:",
+      "options": ["ax + b = 0", "ax² + bx + c = 0, a ≠ 0", "ax³ + bx² + c = 0", "ax² + bx + c = 0, a = 0"],
       "correctIndex": 1,
-      "explanation": "In a quadratic equation, the coefficient of x² must be non-zero to maintain the degree of 2.",
-      "explanation": "In a quadratic equation, the coefficient of x² (a) must be non-zero to maintain the degree of 2.",
+      "explanation": "A quadratic equation must have a squared term, so the coefficient of x² (a) cannot be zero.",
       "frequencyRating": 5
     },
     {
       "id": "g10_m4_q2",
-      "text": "If the discriminant (b² - 4ac) of a quadratic equation is greater than zero, the roots are:",
-      "options": ["Real and equal", "Real and distinct", "No real roots", "Imaginary"],
-      "correctIndex": 1,
-      "explanation": "When D > 0, the quadratic formula yields two different real values.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_m4_q3",
       "text": "Which of the following is a quadratic equation?",
-      "options": ["x² + 2x + 1 = (4 - x)² + 3", "x³ - x² = (x - 1)³", "2x² - 3x = 0", "All of the above"],
-      "options": ["x² - 3√x + 2 = 0", "x + 1/x = x²", "x² + 2x + 1 = (4 - x)² + 3", "x³ - x² = (x - 1)³"],
-      "correctIndex": 3,
-      "explanation": "An equation is quadratic if it can be reduced to the form ax² + bx + c = 0 after simplification.",
-      "explanation": "In option D, the x³ terms cancel out when expanded, leaving a quadratic expression.",
+      "options": ["x² + 2x + 1 = (4-x)² + 3", "x³ - x² = (x-1)³", "(x+1)² = 2(x-3)", "x² + 3x + 1 = (x-2)²"],
+      "correctIndex": 2,
+      "explanation": "Expanding (x+1)² = 2(x-3) gives x²+2x+1 = 2x-6 => x²+7=0, which is quadratic. In D, x² cancels out.",
       "frequencyRating": 4
     },
     {
       "id": "g10_m4_q3",
-      "text": "The roots of the quadratic equation x² - 3x - 10 = 0 are:",
-      "options": ["2, -5", "-2, 5", "2, 5", "-2, -5"],
-      "correctIndex": 1,
-      "explanation": "Factoring: (x - 5)(x + 2) = 0 gives x = 5 and x = -2.",
+      "text": "The roots of the quadratic equation x² - 0.04 = 0 are:",
+      "options": ["± 0.2", "± 0.02", "0.4", "2"],
+      "correctIndex": 0,
+      "explanation": "x² = 0.04 => x = ±√0.04 = ± 0.2.",
       "frequencyRating": 5
     },
     {
       "id": "g10_m4_q4",
-      "text": "The discriminant (D) of the quadratic equation ax² + bx + c = 0 is given by:",
-      "options": ["b² + 4ac", "b² - 4ac", "√(b² - 4ac)", "2a"],
-      "text": "The roots of the equation 2x² - x - 6 = 0 are:",
-      "options": ["-2, 3/2", "2, -3/2", "-2, -3/2", "2, 3/2"],
-      "correctIndex": 1,
-      "explanation": "The discriminant D = b² - 4ac determines the nature of the roots.",
-      "explanation": "Factoring 2x² - x - 6 gives (2x + 3)(x - 2) = 0, so x = 2 or x = -3/2.",
+      "text": "If 1/2 is a root of the equation x² + kx - 5/4 = 0, then the value of k is:",
+      "options": ["2", "-2", "1/4", "1/2"],
+      "correctIndex": 0,
+      "explanation": "(1/2)² + k(1/2) - 5/4 = 0 => 1/4 + k/2 - 5/4 = 0 => k/2 = 1 => k = 2.",
       "frequencyRating": 5
     },
     {
       "id": "g10_m4_q5",
-      "text": "If D = 0, then the roots of the quadratic equation are:",
-      "options": ["Real and distinct", "Real and equal", "No real roots", "Imaginary"],
-      "correctIndex": 1,
-      "explanation": "When the discriminant is zero, the quadratic formula yields two identical real roots.",
+      "text": "The discriminant of the quadratic equation ax² + bx + c = 0 is:",
+      "options": ["b² - ac", "√(b² - 4ac)", "b² - 4ac", "b - 4ac"],
+      "correctIndex": 2,
+      "explanation": "The discriminant (D) is b² - 4ac, which determines the nature of roots.",
       "frequencyRating": 5
     },
     {
       "id": "g10_m4_q6",
-      "text": "If D > 0, the roots of the quadratic equation are:",
-      "options": ["Real and distinct", "Real and equal", "No real roots", "Undefined"],
-      "correctIndex": 0,
-      "explanation": "A positive discriminant indicates that the equation has two different real roots.",
+      "text": "If the discriminant D > 0, the roots of the quadratic equation are:",
+      "options": ["Real and equal", "Real and unequal", "No real roots", "Imaginary"],
+      "correctIndex": 1,
+      "explanation": "A positive discriminant implies two distinct (unequal) real roots.",
       "frequencyRating": 5
     },
     {
       "id": "g10_m4_q7",
-      "text": "If D < 0, the roots of the quadratic equation are:",
-      "options": ["Real and distinct", "Real and equal", "No real roots", "Rational"],
-      "correctIndex": 2,
-      "explanation": "A negative discriminant means there is no real number whose square is D, hence no real roots exist.",
+      "text": "If the discriminant D = 0, the roots are:",
+      "options": ["Real and equal", "Real and unequal", "Not real", "Infinite"],
+      "correctIndex": 0,
+      "explanation": "When D = 0, the quadratic formula gives x = -b/2a twice, meaning roots are coincident.",
       "frequencyRating": 5
     },
     {
       "id": "g10_m4_q8",
-      "text": "Find the value of k for which the equation 2x² + kx + 3 = 0 has two equal roots.",
-      "options": ["±2√6", "±√6", "±2", "±4"],
-      "correctIndex": 0,
-      "explanation": "For equal roots, D = 0. k² - 4(2)(3) = 0 => k² = 24 => k = ±2√6.",
+      "text": "If the discriminant D < 0, then the equation has:",
+      "options": ["Two real roots", "One real root", "No real roots", "Rational roots"],
+      "correctIndex": 2,
+      "explanation": "A negative value under the square root in the quadratic formula results in no real solutions.",
       "frequencyRating": 5
     },
     {
       "id": "g10_m4_q9",
-      "text": "The quadratic formula to find the roots of ax² + bx + c = 0 is:",
-      "options": ["x = (-b ± √D) / 2a", "x = (b ± √D) / 2a", "x = (-b ± D) / 2a", "x = -b / 2a"],
-      "correctIndex": 0,
-      "explanation": "The quadratic formula, also known as Shridharacharya's formula, is x = [-b ± √(b²-4ac)] / 2a.",
+      "text": "The roots of the equation 2x² - x - 6 = 0 are:",
+      "options": ["-2, 3/2", "2, -3/2", "-2, -3/2", "2, 3/2"],
+      "correctIndex": 1,
+      "explanation": "By factorization: 2x² - 4x + 3x - 6 = 0 => 2x(x-2)+3(x-2)=0. Roots are 2, -3/2.",
       "frequencyRating": 5
     },
     {
       "id": "g10_m4_q10",
-      "text": "The sum of the roots of the equation 3x² - 5x + 2 = 0 is:",
-      "options": ["2/3", "5/3", "-5/3", "-2/3"],
-      "correctIndex": 1,
-      "explanation": "Sum of roots = -b/a = -(-5)/3 = 5/3.",
+      "text": "The values of k for which the quadratic equation 2x² - kx + k = 0 has equal roots is:",
+      "options": ["0 only", "4", "8 only", "0, 8"],
+      "correctIndex": 3,
+      "explanation": "D = 0 => (-k)² - 4(2)(k) = 0 => k² - 8k = 0 => k(k-8)=0. So k=0 or k=8.",
       "frequencyRating": 4
     },
     {
       "id": "g10_m4_q11",
-      "text": "The product of the roots of the equation 3x² - 5x + 2 = 0 is:",
-      "options": ["2/3", "5/3", "-5/3", "3/2"],
-      "correctIndex": 0,
-      "explanation": "Product of roots = c/a = 2/3.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_m4_q12",
-      "text": "Is x = -2 a root of the equation 2x² + 5x + 2 = 0?",
-      "options": ["Yes", "No", "Cannot be determined", "Only if x is positive"],
-      "correctIndex": 0,
-      "explanation": "Substitute x = -2: 2(-2)² + 5(-2) + 2 = 8 - 10 + 2 = 0. So, it is a root.",
+      "text": "The quadratic formula was famously popularized by which Indian mathematician?",
+      "options": ["Aryabhata", "Sridharacharya", "Brahmagupta", "Bhaskara"],
+      "correctIndex": 1,
+      "explanation": "Sridharacharya derived the method of completing the square to solve quadratic equations.",
       "frequencyRating": 3
     },
     {
+      "id": "g10_m4_q12",
+      "text": "If the sum of the roots of the equation kx² + 2x + 3k = 0 is equal to their product, then k is:",
+      "options": ["1/3", "-1/3", "2/3", "-2/3"],
+      "correctIndex": 3,
+      "explanation": "Sum = -2/k, Product = 3k/k = 3. -2/k = 3 => k = -2/3.",
+      "frequencyRating": 4
+    },
+    {
       "id": "g10_m4_q13",
+      "text": "Which of the following equations has 2 as a root?",
+      "options": ["x² - 4x + 5 = 0", "x² + 3x - 12 = 0", "2x² - 7x + 6 = 0", "3x² - 6x - 2 = 0"],
+      "correctIndex": 2,
+      "explanation": "Substitute x=2 in 2x² - 7x + 6: 2(4) - 7(2) + 6 = 8 - 14 + 6 = 0.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m4_q14",
       "text": "The nature of the roots of 2x² - 4x + 3 = 0 is:",
-      "options": ["Real and equal", "Real and distinct", "No real roots", "Real"],
+      "options": ["Real and distinct", "Real and equal", "No real roots", "Equal to 0"],
       "correctIndex": 2,
       "explanation": "D = (-4)² - 4(2)(3) = 16 - 24 = -8. Since D < 0, there are no real roots.",
       "frequencyRating": 5
     },
     {
-      "id": "g10_m4_q14",
-      "text": "The roots of (x + 4)(x - 5) = 0 are:",
-      "options": ["4, 5", "-4, 5", "-4, -5", "4, -5"],
-      "correctIndex": 1,
-      "explanation": "Setting each factor to zero: x + 4 = 0 => x = -4; x - 5 = 0 => x = 5.",
-      "frequencyRating": 4
-    },
-    {
       "id": "g10_m4_q15",
-      "text": "If one root of the equation kx² - 14x + 8 = 0 is six times the other, then k is:",
-      "options": ["2", "3", "4", "1"],
-      "options": ["2", "3", "1", "4"],
+      "text": "The roots of the equation x² + 7x + 10 = 0 are:",
+      "options": ["2, 5", "-2, -5", "-2, 5", "2, -5"],
       "correctIndex": 1,
-      "explanation": "Let roots be α and 6α. Sum α+6α = 14/k, product α(6α) = 8/k. Solving gives k=3.",
-      "frequencyRating": 3
+      "explanation": "(x+2)(x+5) = 0 gives roots -2 and -5.",
+      "frequencyRating": 5
     },
     {
       "id": "g10_m4_q16",
-      "text": "The maximum number of real roots a quadratic equation can have is:",
-      "options": ["1", "2", "3", "Infinite"],
-      "correctIndex": 1,
-      "explanation": "Since the degree of a quadratic equation is 2, it can have at most 2 real roots.",
-      "frequencyRating": 5
+      "text": "If x=1 is a common root of ax² + ax + 3 = 0 and x² + x + b = 0, then ab is:",
+      "options": ["3", "3.5", "6", "-3"],
+      "correctIndex": 0,
+      "explanation": "From 1st: a+a+3=0 => a=-3/2. From 2nd: 1+1+b=0 => b=-2. ab = (-3/2)*(-2) = 3.",
+      "frequencyRating": 3
     },
     {
       "id": "g10_m4_q17",
-      "text": "The discriminant of the equation x² + x + 1 = 0 is:",
-      "options": ["1", "-3", "3", "0"],
+      "text": "A quadratic equation can have at most how many roots?",
+      "options": ["1", "2", "3", "Infinite"],
       "correctIndex": 1,
-      "explanation": "D = (1)² - 4(1)(1) = 1 - 4 = -3.",
-      "explanation": "Using relations between roots and coefficients (α + 6α = 14/k and α * 6α = 8/k), solving gives k = 3.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_m4_q18",
-      "text": "Which method is not used to solve quadratic equations in the current NCERT syllabus?",
-      "options": ["Factorization", "Quadratic Formula", "Completing the Square", "Graphical Method"],
-      "correctIndex": 2,
-      "explanation": "Completing the Square method was removed from the rationalised Class 10 syllabus.",
-      "frequencyRating": 3
-    },
-    {
-      "id": "g10_m4_q19",
-      "text": "If the roots of ax² + bx + c = 0 are reciprocal of each other, then:",
-      "options": ["a = b", "b = c", "a = c", "a + b + c = 0"],
-      "correctIndex": 2,
-      "explanation": "Product of roots = c/a. If roots are α and 1/α, then product is 1. So, c/a = 1 => a = c.",
+      "explanation": "The number of roots of a polynomial equation is equal to its degree.",
       "frequencyRating": 5
     },
     {
-      "id": "g10_m4_q20",
-      "text": "The roots of the equation x² - 0.04 = 0 are:",
-      "options": ["±0.2", "±0.02", "0.4", "2"],
+      "id": "g10_m4_q18",
+      "text": "The product of two consecutive positive integers is 306. The quadratic representation is:",
+      "options": ["x² + x - 306 = 0", "x² - x - 306 = 0", "x² + 2x - 306 = 0", "x² - 306 = 0"],
       "correctIndex": 0,
-      "explanation": "x² = 0.04 => x = ±√0.04 = ±0.2.",
-      "frequencyRating": 3
+      "explanation": "x(x+1) = 306 => x² + x - 306 = 0.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m4_q19",
+      "text": "The discriminant of 3x² - 2x + 1/3 = 0 is:",
+      "options": ["0", "1", "2", "3"],
+      "correctIndex": 0,
+      "explanation": "D = (-2)² - 4(3)(1/3) = 4 - 4 = 0.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m4_q20",
+      "text": "If the roots of px² + qx + 2 = 0 are reciprocal of each other, then:",
+      "options": ["p = 0", "p = 2", "p = q", "p = -2"],
+      "correctIndex": 1,
+      "explanation": "Product of roots = 1. c/a = 1 => 2/p = 1 => p = 2.",
+      "frequencyRating": 4
     },
     {
       "id": "g10_m4_q21",
-      "text": "If 1/2 is a root of the equation x² + kx - 5/4 = 0, then the value of k is:",
-      "options": ["2", "-2", "1/2", "3"],
-      "correctIndex": 0,
-      "explanation": "(1/2)² + k(1/2) - 5/4 = 0 => 1/4 + k/2 - 5/4 = 0 => k/2 - 1 = 0 => k = 2.",
+      "text": "Which of the following is the condition for real roots?",
+      "options": ["D < 0", "D > 0", "D ≥ 0", "D = 1"],
+      "correctIndex": 2,
+      "explanation": "Roots are real if the discriminant is either positive (distinct) or zero (equal).",
       "frequencyRating": 5
     },
     {
       "id": "g10_m4_q22",
-      "text": "A quadratic equation whose roots are 2 and 3 is:",
-      "options": ["x² - 5x + 6 = 0", "x² + 5x + 6 = 0", "x² - 5x - 6 = 0", "x² + 5x - 6 = 0"],
-      "correctIndex": 0,
-      "explanation": "Formula: x² - (sum)x + product = 0. x² - (2+3)x + (2*3) = x² - 5x + 6 = 0.",
-      "frequencyRating": 5
+      "text": "The roots of x² - 3x - m(m+3) = 0 are:",
+      "options": ["m, m+3", "-m, m+3", "m, -(m+3)", "-m, -(m+3)"],
+      "correctIndex": 1,
+      "explanation": "x² - (m+3)x + mx - m(m+3) = 0 => (x-(m+3))(x+m) = 0. Roots are m+3, -m.",
+      "frequencyRating": 2
     },
     {
       "id": "g10_m4_q23",
-      "text": "The roots of the equation x² - 7x + 12 = 0 are:",
-      "options": ["3, 4", "-3, -4", "3, -4", "-3, 4"],
-      "correctIndex": 0,
-      "explanation": "(x - 3)(x - 4) = 0 gives x = 3 and x = 4.",
-      "frequencyRating": 4
+      "text": "A quadratic equation whose roots are 2 and 3 is:",
+      "options": ["x² + 5x + 6 = 0", "x² - 5x + 6 = 0", "x² - 5x - 6 = 0", "x² + 5x - 6 = 0"],
+      "correctIndex": 1,
+      "explanation": "(x-2)(x-3) = x² - 5x + 6 = 0.",
+      "frequencyRating": 5
     },
     {
       "id": "g10_m4_q24",
-      "text": "The discriminant of the quadratic equation 2x² - 5x - 3 = 0 is:",
-      "options": ["1", "49", "25", "11"],
+      "text": "If roots of x² + kx + 12 = 0 are in ratio 1:3, then k is:",
+      "options": ["±4", "±8", "±7", "±10"],
       "correctIndex": 1,
-      "explanation": "D = (-5)² - 4(2)(-3) = 25 + 24 = 49.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_m4_q25",
-      "text": "If the discriminant of a quadratic equation is a perfect square, the roots are:",
-      "options": ["Irrational", "Rational", "Imaginary", "Equal"],
-      "correctIndex": 1,
-      "explanation": "If D is a perfect square, √D is a rational number, making the roots rational (if a, b, c are rational).",
+      "explanation": "Let roots be m, 3m. m(3m)=12 => 3m²=12 => m=±2. Roots are (2,6) or (-2,-6). Sum = ±8 = -k.",
       "frequencyRating": 3
     },
     {
+      "id": "g10_m4_q25",
+      "text": "The value of √6+√6+√6... is:",
+      "options": ["3", "2", "6", "1"],
+      "correctIndex": 0,
+      "explanation": "Let x = √6+x => x² - x - 6 = 0 => (x-3)(x+2)=0. x=3 (positive root).",
+      "frequencyRating": 2
+    },
+    {
       "id": "g10_m4_q26",
-      "text": "Every quadratic equation can have at most how many roots?",
-      "options": ["3", "1", "2", "No limit"],
-      "correctIndex": 2,
-      "explanation": "By the fundamental theorem of algebra, a polynomial of degree n has exactly n complex roots; for quadratic, n=2.",
-      "frequencyRating": 5
+      "text": "Sum of a number and its reciprocal is 2.5. The number is:",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 1,
+      "explanation": "2 + 1/2 = 2.5.",
+      "frequencyRating": 4
     },
     {
       "id": "g10_m4_q27",
-      "text": "Values of k for which the quadratic equation 2x² - kx + k = 0 has equal roots is:",
-      "options": ["0 only", "4 only", "8 only", "0, 8"],
+      "text": "If the roots of ax² + bx + c = 0 are equal, then c is:",
+      "options": ["-b/2a", "b/2a", "-b²/4a", "b²/4a"],
       "correctIndex": 3,
-      "explanation": "D = (-k)² - 4(2)(k) = 0 => k² - 8k = 0 => k(k - 8) = 0. So k = 0 or 8.",
-      "frequencyRating": 5
+      "explanation": "b² - 4ac = 0 => b² = 4ac => c = b²/4a.",
+      "frequencyRating": 4
     },
     {
       "id": "g10_m4_q28",
-      "text": "The values of x which satisfy x² - 3x = 0 are:",
-      "options": ["0, 3", "0, -3", "3, 3", "No solution"],
+      "text": "The perimeter of a rectangle is 20cm and its area is 24cm². The side lengths are roots of:",
+      "options": ["x² - 10x + 24 = 0", "x² + 10x + 24 = 0", "x² - 20x + 24 = 0", "x² + 20x + 24 = 0"],
       "correctIndex": 0,
-      "explanation": "x(x - 3) = 0 gives x = 0 and x = 3.",
+      "explanation": "l+b = 10, lb = 24. x² - (sum)x + product = 0.",
       "frequencyRating": 4
     },
     {
       "id": "g10_m4_q29",
-      "text": "If x = 1 is a common root of the equations ax² + ax + 3 = 0 and x² + x + b = 0, then ab is:",
-      "options": ["3", "3.5", "6", "-3"],
-      "correctIndex": 0,
-      "explanation": "From first eq: a(1)²+a(1)+3=0 => 2a=-3 => a=-3/2. From second: 1²+1+b=0 => b=-2. ab = (-3/2)(-2) = 3.",
-      "frequencyRating": 4
+      "text": "Every quadratic equation can have at most one real root.",
+      "options": ["True", "False", "Only if a=1", "Only if D=0"],
+      "correctIndex": 1,
+      "explanation": "It can have zero, one, or two real roots.",
+      "frequencyRating": 3
     },
     {
       "id": "g10_m4_q30",
-      "text": "The positive root of √(3x² + 6) = 9 is:",
-      "options": ["3", "4", "5", "√(25)"],
-      "correctIndex": 3,
-      "explanation": "3x² + 6 = 81 => 3x² = 75 => x² = 25 => x = 5.",
-      "frequencyRating": 3
+      "text": "The discriminant of x² + x + 1 = 0 is:",
+      "options": ["1", "0", "-3", "3"],
+      "correctIndex": 2,
+      "explanation": "1² - 4(1)(1) = -3.",
+      "frequencyRating": 4
     },
     {
       "id": "g10_m4_q31",
-      "text": "The sum of a number and its reciprocal is 2.5. The quadratic equation representing this is:",
-      "options": ["x² - 2.5x + 1 = 0", "x² + 2.5x + 1 = 0", "x² - 2.5x - 1 = 0", "x + 1/x = 2"],
+      "text": "Roots of x² - 5x = 0 are:",
+      "options": ["0, 5", "5, 5", "0, 0", "None"],
       "correctIndex": 0,
-      "explanation": "x + 1/x = 2.5 => (x² + 1)/x = 2.5 => x² + 1 = 2.5x => x² - 2.5x + 1 = 0.",
-      "frequencyRating": 4
+      "explanation": "x(x-5) = 0 => x=0 or x=5.",
+      "frequencyRating": 5
     },
     {
       "id": "g10_m4_q32",
-      "text": "If the discriminant of 5x² - 4x + 1 = 0 is D, then:",
-      "options": ["D > 0", "D = 0", "D < 0", "D = 1"],
-      "correctIndex": 2,
-      "explanation": "D = (-4)² - 4(5)(1) = 16 - 20 = -4. Thus D < 0.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_m4_q33",
-      "text": "The product of two consecutive positive integers is 306. To find the integers, we solve:",
-      "options": ["x(x + 1) = 306", "x + (x + 1) = 306", "x² + 1 = 306", "2x + 1 = 306"],
-      "correctIndex": 0,
-      "explanation": "Let integers be x and x+1. Their product is x(x+1) = 306.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_m4_q34",
-      "text": "The roots of the equation 4x² - 4x + 1 = 0 are:",
-      "options": ["1/2, 1/2", "-1/2, -1/2", "1/2, -1/2", "1, 1"],
-      "correctIndex": 0,
-      "explanation": "(2x - 1)² = 0 gives two equal roots x = 1/2.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_m4_q35",
-      "text": "If the sum of squares of two consecutive natural numbers is 25, the numbers are:",
-      "options": ["2, 3", "3, 4", "4, 5", "5, 6"],
+      "text": "If b² - 4ac is a perfect square, roots are:",
+      "options": ["Irrational", "Rational", "Imaginary", "Zero"],
       "correctIndex": 1,
-      "explanation": "3² + 4² = 9 + 16 = 25.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_m4_q36",
-      "text": "Which of the following is not a linear factor of x² - 5x + 6?",
-      "options": ["x - 2", "x - 3", "x + 2", "None of these"],
-      "correctIndex": 2,
-      "explanation": "x² - 5x + 6 = (x - 2)(x - 3). Therefore, x + 2 is not a factor.",
+      "explanation": "Square root of a perfect square is an integer, so the result is rational.",
       "frequencyRating": 3
     },
     {
-      "id": "g10_m4_q37",
-      "text": "The discriminant of the quadratic equation √2x² + 7x + 5√2 = 0 is:",
-      "options": ["9", "49", "25", "√2"],
-      "correctIndex": 0,
-      "explanation": "D = 7² - 4(√2)(5√2) = 49 - 40 = 9.",
+      "id": "g10_m4_q33",
+      "text": "Equation (x-2)² + 1 = 2x - 3 is:",
+      "options": ["Linear", "Quadratic", "Cubic", "Bi-quadratic"],
+      "correctIndex": 1,
+      "explanation": "x² - 4x + 4 + 1 = 2x - 3 => x² - 6x + 8 = 0.",
       "frequencyRating": 4
     },
     {
-      "id": "g10_m4_q38",
-      "text": "If roots of ax² + bx + c = 0 are equal, then c is equal to:",
-      "options": ["-b/2a", "b/2a", "b²/4a", "-b²/4a"],
+      "id": "g10_m4_q34",
+      "text": "Number of real roots of (x+1)² - x² = 0 is:",
+      "options": ["1", "2", "0", "None"],
+      "correctIndex": 0,
+      "explanation": "x² + 2x + 1 - x² = 0 => 2x + 1 = 0. This is a linear equation with 1 root.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m4_q35",
+      "text": "A quadratic equation with rational coefficients has one root 2+√3. The other root is:",
+      "options": ["2", "√3", "2-√3", "1/2+√3"],
       "correctIndex": 2,
-      "explanation": "D = 0 => b² - 4ac = 0 => 4ac = b² => c = b²/4a.",
-      "frequencyRating": 5
+      "explanation": "Irrational roots occur in conjugate pairs for rational coefficients.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m4_q36",
+      "text": "Constant term of a quadratic equation is 0. One root must be:",
+      "options": ["1", "0", "-1", "Cannot say"],
+      "correctIndex": 1,
+      "explanation": "ax² + bx = 0 => x(ax + b) = 0. So x=0 is always a root.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m4_q37",
+      "text": "If a and c have opposite signs, the equation ax² + bx + c = 0 has:",
+      "options": ["Real roots", "No real roots", "Equal roots", "None"],
+      "correctIndex": 0,
+      "explanation": "If a, c have opposite signs, -4ac is positive. b²-4ac is always positive, so roots are real.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m4_q38",
+      "text": "A quadratic equation with real coefficients can have one real and one imaginary root.",
+      "options": ["True", "False", "Only if a=0", "Only if c=0"],
+      "correctIndex": 1,
+      "explanation": "Imaginary roots always occur in pairs for real coefficients.",
+      "frequencyRating": 2
     },
     {
       "id": "g10_m4_q39",
-      "text": "The values of x for which x² - 9 = 0 are:",
-      "options": ["3", "-3", "±3", "9"],
-      "correctIndex": 2,
-      "explanation": "x² = 9 => x = ±√9 = ±3.",
+      "text": "If the discriminant is 49, roots are:",
+      "options": ["Real, distinct, rational", "Real, distinct, irrational", "Equal", "Imaginary"],
+      "correctIndex": 0,
+      "explanation": "49 > 0 and 49 is a perfect square.",
       "frequencyRating": 4
     },
     {
       "id": "g10_m4_q40",
-      "text": "The degree of a quadratic equation is:",
-      "options": ["1", "2", "3", "0"],
+      "text": "Standard form of x(2x+3) = 1 is:",
+      "options": ["2x² + 3x = 1", "2x² + 3x - 1 = 0", "x² + 3x - 1 = 0", "2x² - 3x + 1 = 0"],
       "correctIndex": 1,
-      "explanation": "By definition, a quadratic equation is a polynomial equation of degree 2.",
+      "explanation": "Multiply and move all terms to one side.",
       "frequencyRating": 5
     }
   ]

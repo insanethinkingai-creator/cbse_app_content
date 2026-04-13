@@ -45,6 +45,286 @@
       "correctIndex": 1,
       "explanation": "HCF(65, 117) = 13. Solving 65m - 117 = 13 gives 65m = 130, so m = 2.",
       "frequencyRating": 5
+    },
+    {
+      "id": "g10_m1_q6",
+      "text": "The HCF of 306 and 657 is 9. Find their LCM.",
+      "options": ["22338", "22438", "22538", "22638"],
+      "correctIndex": 0,
+      "explanation": "LCM = (a * b) / HCF = (306 * 657) / 9 = 22338.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m1_q7",
+      "text": "The largest number which divides 70 and 125, leaving remainders 5 and 8 respectively, is:",
+      "options": ["13", "65", "875", "1750"],
+      "correctIndex": 0,
+      "explanation": "We need HCF(70-5, 125-8) = HCF(65, 117) = 13.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m1_q8",
+      "text": "If two positive integers p and q can be expressed as p = ab² and q = a³b; a, b being prime numbers, then LCM (p, q) is:",
+      "options": ["ab", "a²b²", "a³b²", "a³b³"],
+      "correctIndex": 2,
+      "explanation": "LCM is the product of the highest power of each prime factor: a³ and b².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m1_q9",
+      "text": "The values of x and y in the given figure (Factor Tree) are:",
+      "options": ["x=10, y=14", "x=21, y=84", "x=21, y=25", "x=10, y=4"],
+      "correctIndex": 1,
+      "explanation": "Working upwards in a factor tree: x = 3*7 = 21, y = 4*x = 4*21 = 84.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m1_q10",
+      "text": "The ratio of HCF and LCM of the least composite and the least prime number is:",
+      "options": ["1 : 2", "2 : 1", "1 : 1", "1 : 3"],
+      "correctIndex": 0,
+      "explanation": "Least composite = 4, Least prime = 2. HCF(2, 4)=2, LCM(2, 4)=4. Ratio = 2:4 = 1:2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m1_q11",
+      "text": "n² - 1 is divisible by 8, if n is:",
+      "options": ["an integer", "a natural number", "an odd integer", "an even integer"],
+      "correctIndex": 2,
+      "explanation": "If n is odd, n = 2k+1. n²-1 = 4k²+4k = 4k(k+1). k(k+1) is always even, so 4*2 = 8.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m1_q12",
+      "text": "The exponent of 2 in the prime factorization of 144 is:",
+      "options": ["4", "5", "6", "3"],
+      "correctIndex": 0,
+      "explanation": "144 = 2⁴ * 3². The exponent of 2 is 4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m1_q13",
+      "text": "The sum of the exponents of the prime factors in the prime factorization of 196 is:",
+      "options": ["1", "2", "4", "6"],
+      "correctIndex": 2,
+      "explanation": "196 = 2² * 7². Sum of exponents = 2 + 2 = 4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m1_q14",
+      "text": "If HCF(a, b) = 1, then a and b are called:",
+      "options": ["Composite", "Co-prime", "Twin primes", "Perfect numbers"],
+      "correctIndex": 1,
+      "explanation": "Co-prime numbers are numbers that have only 1 as their common factor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m1_q15",
+      "text": "Which of the following is not irrational?",
+      "options": ["(2 - √3)²", "(√2 + √3)²", "(√2 - √3)(√2 + √3)", "2√7"],
+      "correctIndex": 2,
+      "explanation": "(√2 - √3)(√2 + √3) = (√2)² - (√3)² = 2 - 3 = -1, which is rational.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m1_q16",
+      "text": "The LCM of smallest two-digit composite number and smallest composite number is:",
+      "options": ["12", "4", "20", "44"],
+      "correctIndex": 2,
+      "explanation": "Smallest 2-digit composite = 10, smallest composite = 4. LCM(10, 4) = 20.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m1_q17",
+      "text": "For any positive integer n, 6ⁿ can never end with the digit:",
+      "options": ["6", "0", "5", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "6ⁿ = (2*3)ⁿ. Since it doesn't have 5 as a prime factor, it cannot end in 0 or 5.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m1_q18",
+      "text": "Total number of factors of a prime number is:",
+      "options": ["1", "2", "0", "3"],
+      "correctIndex": 1,
+      "explanation": "A prime number has exactly two factors: 1 and itself.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m1_q19",
+      "text": "If LCM(x, 18) = 36 and HCF(x, 18) = 2, then x is:",
+      "options": ["2", "3", "4", "5"],
+      "correctIndex": 2,
+      "explanation": "x * 18 = 36 * 2 => 18x = 72 => x = 4.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m1_q20",
+      "text": "The HCF of smallest prime number and the smallest composite number is:",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 1,
+      "explanation": "Smallest prime = 2, smallest composite = 4. HCF(2, 4) = 2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m1_q21",
+      "text": "The product of two co-prime numbers is 117. Their LCM should be:",
+      "options": ["1", "117", "0", "None"],
+      "correctIndex": 1,
+      "explanation": "For co-prime numbers, HCF = 1. LCM * 1 = Product = 117.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m1_q22",
+      "text": "Every composite number can be expressed as a product of primes. This is:",
+      "options": ["Euclid's Division Lemma", "Fundamental Theorem of Arithmetic", "Pythagoras Theorem", "Thales Theorem"],
+      "correctIndex": 1,
+      "explanation": "This theorem ensures the unique factorization of every integer > 1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m1_q23",
+      "text": "HCF of 95 and 152 is:",
+      "options": ["57", "1", "19", "38"],
+      "correctIndex": 2,
+      "explanation": "95 = 5 * 19, 152 = 2³ * 19. Common factor is 19.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m1_q24",
+      "text": "The LCM of 2.5, 0.5 and 0.175 is:",
+      "options": ["2.5", "5", "17.5", "0.875"],
+      "correctIndex": 2,
+      "explanation": "Convert to integers (multiply by 1000): 2500, 500, 175. LCM is 17500. Divide by 1000 = 17.5.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_m1_q25",
+      "text": "If a and b are two positive integers such that a = 14b, then HCF(a, b) is:",
+      "options": ["a", "b", "14", "1"],
+      "correctIndex": 1,
+      "explanation": "If b divides a, then HCF(a, b) = b.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m1_q26",
+      "text": "If HCF(a, b) = 12 and a*b = 1800, then LCM(a, b) is:",
+      "options": ["150", "900", "120", "15"],
+      "correctIndex": 0,
+      "explanation": "LCM = 1800 / 12 = 150.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m1_q27",
+      "text": "2 + √3 + √5 is:",
+      "options": ["a rational number", "an irrational number", "an integer", "a natural number"],
+      "correctIndex": 1,
+      "explanation": "The sum of a rational and irrational numbers is always irrational.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m1_q28",
+      "text": "Which of the following numbers has a terminating decimal expansion?",
+      "options": ["3/7", "7/80", "64/455", "29/343"],
+      "correctIndex": 1,
+      "explanation": "80 = 2⁴ * 5. Since the denominator is in the form 2ⁿ5ᵐ, it terminates.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m1_q29",
+      "text": "The decimal expansion of 14587 / 1250 will terminate after how many decimal places?",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 3,
+      "explanation": "1250 = 2 * 5⁴. The highest power is 4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m1_q30",
+      "text": "0.232323... is:",
+      "options": ["an integer", "a rational number", "an irrational number", "a whole number"],
+      "correctIndex": 1,
+      "explanation": "It's a non-terminating but recurring decimal, which can be expressed as 23/99.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m1_q31",
+      "text": "Three bells toll at intervals of 9, 12, 15 minutes. If they toll together at 6 am, when will they toll together next?",
+      "options": ["9 am", "10 am", "8 am", "11 am"],
+      "correctIndex": 0,
+      "explanation": "LCM(9, 12, 15) = 180 minutes = 3 hours. 6 am + 3 hours = 9 am.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m1_q32",
+      "text": "If HCF(26, 169) = 13, then LCM(26, 169) is:",
+      "options": ["26", "52", "338", "13"],
+      "correctIndex": 2,
+      "explanation": "LCM = (26 * 169) / 13 = 2 * 169 = 338.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m1_q33",
+      "text": "The HCF of 2⁴ * 3² * 5 * 7, 2³ * 3³ * 5² * 7² and 3 * 5³ * 7³ is:",
+      "options": ["3 * 5 * 7", "2 * 3 * 5", "3² * 5² * 7²", "2⁴ * 3³ * 5³ * 7³"],
+      "correctIndex": 0,
+      "explanation": "HCF is the product of smallest powers of common primes: 3¹ * 5¹ * 7¹.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_m1_q34",
+      "text": "√2 is:",
+      "options": ["a rational number", "an irrational number", "a terminating decimal", "a non-terminating recurring decimal"],
+      "correctIndex": 1,
+      "explanation": "√2 is a famous example of an irrational number.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m1_q35",
+      "text": "HCF of two consecutive even numbers is:",
+      "options": ["1", "2", "0", "4"],
+      "correctIndex": 1,
+      "explanation": "Consecutive even numbers like 2,4 or 10,12 always have 2 as their only common factor.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m1_q36",
+      "text": "HCF of two consecutive odd numbers is:",
+      "options": ["1", "2", "0", "3"],
+      "correctIndex": 0,
+      "explanation": "Consecutive odd numbers like 3,5 or 11,13 are always co-prime.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m1_q37",
+      "text": "The decimal expansion of π is:",
+      "options": ["Terminating", "Non-terminating recurring", "Non-terminating non-recurring", "Does not exist"],
+      "correctIndex": 2,
+      "explanation": "π is irrational, so its decimal expansion never ends and never repeats.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_m1_q38",
+      "text": "Product of two numbers = 1600 and HCF = 5. Find LCM.",
+      "options": ["1600", "8000", "320", "1605"],
+      "correctIndex": 2,
+      "explanation": "LCM = 1600 / 5 = 320.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m1_q39",
+      "text": "HCF of (2³ * 3²) and (2² * 3³) is:",
+      "options": ["2³ * 3³", "2² * 3²", "2³ * 3²", "2² * 3³"],
+      "correctIndex": 1,
+      "explanation": "Smallest powers: 2² and 3².",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_m1_q40",
+      "text": "Prime factorization of 120 is:",
+      "options": ["2² * 3 * 5", "2³ * 3 * 5", "2 * 3² * 5", "2³ * 3² * 5"],
+      "correctIndex": 1,
+      "explanation": "120 = 8 * 3 * 5 = 2³ * 3 * 5.",
+      "frequencyRating": 5
     }
   ]
 }

@@ -1,5 +1,6 @@
 import os
 import re
+import json
 
 def audit_g10_chapters():
     base_dir = os.path.dirname(os.path.abspath(__file__))
@@ -14,12 +15,10 @@ def audit_g10_chapters():
         "Geography": "geo",
         "Civics": "civ",
         "Economics": "eco",
-        "English": "eng",
-        "English_Supplementary": "eng_supp"
+        "English": "eng"
     }
 
     # Expected counts based on NCERT Rationalised Syllabus in README
-    # Note: English count increased to reflect full Prose + Footprints without Feet
     expected_structure = {
         "Mathematics": 14,
         "Science": 13,
@@ -27,8 +26,7 @@ def audit_g10_chapters():
         "Geography": 7,
         "Civics": 5,
         "Economics": 5,
-        "English": 9,
-        "English_Supplementary": 9
+        "English": 9
     }
 
     if not os.path.exists(chapters_dir):
@@ -39,6 +37,7 @@ def audit_g10_chapters():
     print("--- Grade 10 Content Audit ---")
     
     total_missing = 0
+    total_incomplete = 0
     total_found = 0
 
     for subject, count in expected_structure.items():
@@ -51,7 +50,16 @@ def audit_g10_chapters():
             expected_name = f"g10_{prefix}_ch{i}_v1.json"
             if expected_name in actual_files:
                 found_in_subject += 1
-                total_found += 1
+                file_path = os.path.join(chapters_dir, expected_name)
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    q_count = len(data.get("questions", []))
+                    
+                if q_count != 40:
+                    missing_indices.append(f"Ch{i} ({q_count}/40Q)")
+                    total_incomplete += 1
+                else:
+                    total_found += 1
             else:
                 missing_indices.append(str(i))
                 total_missing += 1
@@ -60,7 +68,8 @@ def audit_g10_chapters():
         print(f"{subject:12} : {found_in_subject}/{count} files found. {status}")
 
     print("-" * 30)
-    print(f"Total Found   : {total_found}")
+    print(f"Total Complete: {total_found}")
+    print(f"Total Incomplete: {total_incomplete}")
     print(f"Total Missing : {total_missing}")
     print(f"Total Expected: {sum(expected_structure.values())}")
 

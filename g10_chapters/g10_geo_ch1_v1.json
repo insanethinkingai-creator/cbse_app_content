@@ -8,43 +8,323 @@
   "questions": [
     {
       "id": "g10_g1_q1",
-      "text": "In which of the following states is terrace cultivation practised?",
-      "options": ["Punjab", "Plains of Uttar Pradesh", "Haryana", "Uttarakhand"],
-      "correctIndex": 3,
-      "explanation": "Terrace cultivation is practiced in hilly areas like Uttarakhand to prevent soil erosion and facilitate farming on slopes.",
+      "text": "Everything available in our environment which can be used to satisfy our needs, provided it is technologically accessible, economically feasible and culturally acceptable is called:",
+      "options": ["A Product", "A Resource", "A Commodity", "An Asset"],
+      "correctIndex": 1,
+      "explanation": "This is the comprehensive geographical definition of a resource.",
       "frequencyRating": 5
     },
     {
       "id": "g10_g1_q2",
-      "text": "Which one of the following is the main cause of land degradation in Punjab?",
-      "options": ["Intensive cultivation", "Deforestation", "Over irrigation", "Overgrazing"],
+      "text": "On the basis of origin, resources are classified as:",
+      "options": ["Renewable and Non-renewable", "Individual and Community", "Biotic and Abiotic", "Potential and Developed"],
       "correctIndex": 2,
-      "explanation": "In Punjab, Haryana, and Western Uttar Pradesh, over irrigation is responsible for land degradation due to waterlogging which increases salinity.",
+      "explanation": "Biotic resources are obtained from the biosphere (life), while abiotic resources are composed of non-living things.",
       "frequencyRating": 5
     },
     {
       "id": "g10_g1_q3",
-      "text": "Black soil is also known as:",
-      "options": ["Bangar", "Khadar", "Regur", "Laterite"],
-      "correctIndex": 2,
-      "explanation": "Black soil is ideal for growing cotton and is also known as regur soil. It is typical of the Deccan trap region.",
-      "frequencyRating": 5
+      "text": "Rocks and metals are examples of:",
+      "options": ["Biotic resources", "Abiotic resources", "Renewable resources", "International resources"],
+      "correctIndex": 1,
+      "explanation": "Since they are non-living, they are classified as abiotic.",
+      "frequencyRating": 4
     },
     {
       "id": "g10_g1_q4",
-      "text": "Where was the first International Earth Summit held in 1992?",
-      "options": ["Rio de Janeiro", "New York", "Geneva", "Johannesburg"],
-      "correctIndex": 0,
-      "explanation": "The first International Earth Summit was held in Rio de Janeiro, Brazil, to address urgent problems of environmental protection and socio-economic development.",
-      "frequencyRating": 4
+      "text": "Solar and wind energy, water, forests and wildlife are examples of:",
+      "options": ["Non-renewable resources", "Renewable resources", "Abiotic resources", "Individual resources"],
+      "correctIndex": 1,
+      "explanation": "These resources can be renewed or reproduced by physical, chemical or mechanical processes.",
+      "frequencyRating": 5
     },
     {
       "id": "g10_g1_q5",
+      "text": "The first International Earth Summit was held in June 1992 in:",
+      "options": ["New York", "London", "Rio de Janeiro", "Johannesburg"],
+      "correctIndex": 2,
+      "explanation": "More than 100 heads of states met in Brazil for the United Nations Conference on Environment and Development (UNCED).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g1_q6",
+      "text": "What was the main purpose of Agenda 21 adopted at the 1992 Earth Summit?",
+      "options": ["To increase industrial production", "To achieve global sustainable development", "To divide resources among nations", "To promote nuclear energy"],
+      "correctIndex": 1,
+      "explanation": "It is a declaration to combat environmental damage, poverty, and disease through global cooperation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g1_q7",
+      "text": "Resources which are found in a region but have not been utilized are called:",
+      "options": ["Developed resources", "Stock", "Potential resources", "Reserves"],
+      "correctIndex": 2,
+      "explanation": "For example, Rajasthan and Gujarat have enormous potential for solar and wind energy but they haven't been fully developed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g1_q8",
+      "text": "Which state in India is very rich in minerals and coal deposits but lacks in infrastructural development?",
+      "options": ["Arunachal Pradesh", "Rajasthan", "Jharkhand", "Ladakh"],
+      "correctIndex": 2,
+      "explanation": "Jharkhand, Chhattisgarh and Madhya Pradesh are rich in mineral resources.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g1_q9",
+      "text": "The subset of 'Stock', which can be put into use with existing technology but their use has not been started is called:",
+      "options": ["Potential", "Developed", "Reserves", "Biotic"],
+      "correctIndex": 2,
+      "explanation": "Reserves are kept for meeting future requirements.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g1_q10",
+      "text": "The total geographical area of India is:",
+      "options": ["2.28 million sq km", "3.28 million sq km", "4.28 million sq km", "5.28 million sq km"],
+      "correctIndex": 1,
+      "explanation": "India occupies 2.4% of the total world area with 3.28 million sq km.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g1_q11",
+      "text": "About ________ percent of the land area in India is plain, which provides facilities for agriculture and industry.",
+      "options": ["27%", "30%", "43%", "50%"],
+      "correctIndex": 2,
+      "explanation": "India has 43% plains, 30% mountains, and 27% plateaus.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g1_q12",
+      "text": "Which soil is most widely spread and important soil of India, covering the entire northern plains?",
+      "options": ["Black soil", "Alluvial soil", "Red soil", "Laterite soil"],
+      "correctIndex": 1,
+      "explanation": "Alluvial soil is deposited by the three important Himalayan river systems – the Indus, the Ganga and the Brahmaputra.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g1_q13",
+      "text": "Old alluvial soil is known as ________ and new alluvial soil is known as ________.",
+      "options": ["Khadar, Bangar", "Bangar, Khadar", "Regur, Bangar", "Terai, Khadar"],
+      "correctIndex": 1,
+      "explanation": "Bangar has more kankar nodules and is less fertile than Khadar.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g1_q14",
+      "text": "Black soil is also known as ________ soil.",
+      "options": ["Khadar", "Bangar", "Regur", "Laterite"],
+      "correctIndex": 2,
+      "explanation": "Regur comes from the Telugu word 'Reguda' meaning black cotton soil.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g1_q15",
+      "text": "Which soil is ideal for growing cotton?",
+      "options": ["Alluvial soil", "Red soil", "Black soil", "Desert soil"],
+      "correctIndex": 2,
+      "explanation": "Black soil is typical of the Deccan trap region and is very fine and clayey.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g1_q16",
+      "text": "Laterite has been derived from the Latin word 'later' which means:",
+      "options": ["Stone", "Brick", "Red", "Hard"],
+      "correctIndex": 1,
+      "explanation": "Laterite soil develops under tropical and subtropical climates with alternate wet and dry seasons.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g1_q17",
+      "text": "Which soil is very useful for growing tea and coffee?",
+      "options": ["Black soil", "Alluvial soil", "Laterite soil", "Arid soil"],
+      "correctIndex": 2,
+      "explanation": "Laterite soil in hilly areas of Karnataka, Kerala and Tamil Nadu is very useful for these crops.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g1_q18",
+      "text": "Red laterite soils in Tamil Nadu, Andhra Pradesh and Kerala are more suitable for crops like:",
+      "options": ["Cotton", "Cashew nut", "Rice", "Wheat"],
+      "correctIndex": 1,
+      "explanation": "Specific soil treatments make laterite suitable for cashew nuts.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g1_q19",
+      "text": "When the topsoil is washed away by water running over large areas, it is called:",
+      "options": ["Gully erosion", "Sheet erosion", "Wind erosion", "Deforestation"],
+      "correctIndex": 1,
+      "explanation": "Sheet erosion occurs on gentle slopes when the vegetative cover is thin.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g1_q20",
+      "text": "The running water cuts through the clayey soils and makes deep channels called:",
+      "options": ["Bad lands", "Gullies", "Ravines", "Basins"],
+      "correctIndex": 1,
+      "explanation": "Gully erosion makes the land unfit for cultivation, often seen in the Chambal basin.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g1_q21",
+      "text": "Which method of soil conservation involves planting lines of trees to create shelter?",
+      "options": ["Strip cropping", "Contour ploughing", "Shelter belts", "Terrace farming"],
+      "correctIndex": 2,
+      "explanation": "Shelter belts have contributed significantly to the stabilization of sand dunes in Western India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g1_q22",
+      "text": "Ploughing along the contour lines to decelerate the flow of water down the slopes is called:",
+      "options": ["Terrace cultivation", "Contour ploughing", "Strip cropping", "Shelter belts"],
+      "correctIndex": 1,
+      "explanation": "This is a key method for soil conservation in hilly regions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g1_q23",
+      "text": "Land left without cultivation for one or less than one agricultural year is called:",
+      "options": ["Culturable waste land", "Current fallow", "Permanent pasture", "Net sown area"],
+      "correctIndex": 1,
+      "explanation": "Fallow land is left uncultivated to allow the soil to regain its fertility naturally.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g1_q24",
+      "text": "Which state has the maximum area under the Net Sown Area in India?",
+      "options": ["Punjab", "Arunachal Pradesh", "Mizoram", "Jharkhand"],
+      "correctIndex": 0,
+      "explanation": "Punjab and Haryana have over 80% of their total area as net sown area.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g1_q25",
+      "text": "In which state is mining the main cause of land degradation?",
+      "options": ["Punjab", "Gujarat", "Jharkhand", "Maharashtra"],
+      "correctIndex": 2,
+      "explanation": "Mining sites are abandoned after excavation work is complete leaving deep scars.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g1_q26",
+      "text": "In states like Punjab, Haryana and western Uttar Pradesh, the main cause of land degradation is:",
+      "options": ["Mining", "Overgrazing", "Over irrigation", "Deforestation"],
+      "correctIndex": 2,
+      "explanation": "Over irrigation leads to waterlogging which increases salinity and alkalinity in the soil.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g1_q27",
       "text": "Resources which are surveyed and their quality and quantity have been determined for utilization are:",
       "options": ["Potential resources", "Developed resources", "Stock", "Reserves"],
       "correctIndex": 1,
-      "explanation": "Developed resources are those whose availability and quality have been assessed for immediate use using available technology.",
+      "explanation": "The development of resources depends on technology and level of their feasibility.",
       "frequencyRating": 4
+    },
+    {
+      "id": "g10_g1_q28",
+      "text": "Individual, Community, National and International are categories based on:",
+      "options": ["Origin", "Exhaustibility", "Ownership", "Status of Development"],
+      "correctIndex": 2,
+      "explanation": "This classification focuses on who has the right to use the resource.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g1_q29",
+      "text": "Territorial water of a country extends up to how many nautical miles from the coast?",
+      "options": ["10", "12", "20", "100"],
+      "correctIndex": 1,
+      "explanation": "12 nautical miles (about 22.2 km) is the limit of national oceanic territory.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g1_q30",
+      "text": "The Oceanic resources beyond 200 nautical miles of the Exclusive Economic Zone belong to:",
+      "options": ["The nearest nation", "International institutions", "The UN only", "Individual explorers"],
+      "correctIndex": 1,
+      "explanation": "No individual country can utilize these without the concurrence of international institutions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g1_q31",
+      "text": "What is the desired percentage of forest area in the country as outlined in the National Forest Policy (1952)?",
+      "options": ["21%", "25%", "33%", "40%"],
+      "correctIndex": 2,
+      "explanation": "33% is considered essential for the maintenance of the ecological balance.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g1_q32",
+      "text": "Land which is left uncultivated for more than 5 agricultural years is:",
+      "options": ["Current fallow", "Other than current fallow", "Culturable waste land", "Barren land"],
+      "correctIndex": 2,
+      "explanation": "This land can be brought under cultivation after some improvement measures.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_g1_q33",
+      "text": "Black soils are generally poor in ________ content.",
+      "options": ["Calcium carbonate", "Magnesium", "Phosphoric", "Potash"],
+      "correctIndex": 2,
+      "explanation": "They are rich in nutrients like lime and potash but lack phosphorous.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_g1_q34",
+      "text": "The lower horizons of the Arid soil are occupied by Kankar because of the increasing ________ content downwards.",
+      "options": ["Moisture", "Calcium", "Iron", "Nitrogen"],
+      "correctIndex": 1,
+      "explanation": "The Kankar layer formation restricts the infiltration of water.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_g1_q35",
+      "text": "Large fields divided into strips and leaving strips of grass to grow between crops is called:",
+      "options": ["Contour ploughing", "Terrace farming", "Strip cropping", "Shelter belts"],
+      "correctIndex": 2,
+      "explanation": "This breaks up the force of the wind, preventing soil erosion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g1_q36",
+      "text": "Sustainable development means:",
+      "options": ["Rapid industrial growth", "Development should take place without damaging the environment", "Using all resources now", "Only economic growth"],
+      "correctIndex": 1,
+      "explanation": "It emphasizes that development in the present should not compromise the needs of future generations.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g1_q37",
+      "text": "Which book introduced the concept of Resource Conservation for the first time in 1974?",
+      "options": ["Small is Beautiful", "Our Common Future", "The First Summit", "Green Earth"],
+      "correctIndex": 0,
+      "explanation": "Written by Schumacher, it presented Gandhian philosophy on conservation.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_g1_q38",
+      "text": "The Brundtland Commission Report (1987) introduced the concept of:",
+      "options": ["Global warming", "Sustainable Development", "Resource Planning", "Agenda 21"],
+      "correctIndex": 1,
+      "explanation": "This report was later published as a book entitled 'Our Common Future'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g1_q39",
+      "text": "Which of the following is NOT a human-made resource?",
+      "options": ["Buildings", "Machinery", "Forests", "Technology"],
+      "correctIndex": 2,
+      "explanation": "Forests are natural resources, while the others are created by humans using technology.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g1_q40",
+      "text": "The main aim of resource planning is:",
+      "options": ["To use resources as quickly as possible", "To identify and use resources judiciously", "To export resources", "To stop using resources"],
+      "correctIndex": 1,
+      "explanation": "Resource planning is essential for sustainable existence of all forms of life.",
+      "frequencyRating": 5
     }
   ]
 }

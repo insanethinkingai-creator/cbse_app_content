@@ -8,42 +8,322 @@
   "questions": [
     {
       "id": "g10_g2_q1",
-      "text": "Which of the following categories of forests are regarded as the most valuable as far as the conservation of nature is concerned?",
-      "options": ["Reserved forests", "Protected forests", "Unclassed forests", "Open forests"],
-      "correctIndex": 0,
-      "explanation": "Reserved forests are considered most valuable for conservation; more than half of the total forest land has been declared reserved.",
+      "text": "India is one of the world's richest countries in terms of its vast array of biological diversity and has nearly ________ percent of the total number of species in the world.",
+      "options": ["2%", "5%", "8%", "12%"],
+      "correctIndex": 2,
+      "explanation": "India has a high degree of biodiversity, estimated at 1.6 million species.",
       "frequencyRating": 5
     },
     {
       "id": "g10_g2_q2",
-      "text": "The Buxa Tiger Reserve in West Bengal is seriously threatened by:",
-      "options": ["Deforestation", "Dolomite mining", "Industrialization", "Agricultural expansion"],
-      "correctIndex": 1,
-      "explanation": "The ongoing dolomite mining in the Buxa Tiger Reserve has caused severe ecological damage and blocked migration routes of animals.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g10_g2_q3",
-      "text": "Species which are in danger of extinction are known as:",
-      "options": ["Vulnerable species", "Endangered species", "Rare species", "Endemic species"],
-      "correctIndex": 1,
-      "explanation": "Endangered species are those whose population has declined to levels where they are at risk of disappearing entirely.",
+      "text": "Which organization classifies different categories of existing plants and animal species?",
+      "options": ["UNICEF", "WWF", "IUCN", "UNESCO"],
+      "correctIndex": 2,
+      "explanation": "The International Union for Conservation of Nature and Natural Resources (IUCN) provides the standard classification.",
       "frequencyRating": 5
     },
     {
+      "id": "g10_g2_q3",
+      "text": "Species whose population levels are considered to be normal for their survival are called:",
+      "options": ["Rare species", "Vulnerable species", "Normal species", "Endemic species"],
+      "correctIndex": 2,
+      "explanation": "Examples include cattle, pine, and rodents.",
+      "frequencyRating": 4
+    },
+    {
       "id": "g10_g2_q4",
-      "text": "In which year was the Indian Wildlife (Protection) Act implemented?",
-      "options": ["1970", "1972", "1975", "1980"],
+      "text": "Species which are in danger of extinction are classified as:",
+      "options": ["Vulnerable species", "Endangered species", "Rare species", "Normal species"],
       "correctIndex": 1,
-      "explanation": "The Indian Wildlife (Protection) Act was implemented in 1972 with various provisions for protecting habitats and species.",
+      "explanation": "Examples include black buck, crocodile, Indian wild ass, and Indian rhino.",
       "frequencyRating": 5
     },
     {
       "id": "g10_g2_q5",
-      "text": "Which state has the largest area under permanent forests?",
-      "options": ["Odisha", "Madhya Pradesh", "Chhattisgarh", "Assam"],
+      "text": "Species whose population has declined to levels from where it is likely to move into the endangered category are:",
+      "options": ["Rare species", "Vulnerable species", "Extinct species", "Endemic species"],
       "correctIndex": 1,
-      "explanation": "Madhya Pradesh has the largest area under permanent forests, constituting 75% of its total forest area.",
+      "explanation": "Examples include blue sheep, Asiatic elephant, and Gangetic dolphin.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g2_q6",
+      "text": "Species with small population that may move into the endangered or vulnerable category if negative factors continue are:",
+      "options": ["Normal species", "Rare species", "Endemic species", "Extinct species"],
+      "correctIndex": 1,
+      "explanation": "Example includes the wild Asiatic buffalo and Hornbill.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g2_q7",
+      "text": "Species which are only found in some particular areas usually isolated by natural or geographical barriers are:",
+      "options": ["Extinct species", "Endemic species", "Rare species", "Vulnerable species"],
+      "correctIndex": 1,
+      "explanation": "Examples include Andaman teal, Nicobar pigeon, and Mithun in Arunachal Pradesh.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g2_q8",
+      "text": "The Asiatic Cheetah was declared extinct in India in the year:",
+      "options": ["1947", "1952", "1973", "1980"],
+      "correctIndex": 1,
+      "explanation": "Cheetahs were lost due to declining habitat and prey long ago.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g2_q9",
+      "text": "What was the greatest damage inflicted on Indian forests during the colonial period?",
+      "options": ["Local fuel wood collection", "Expansion of railways, agriculture, and mining", "Small scale farming", "Forest fires"],
+      "correctIndex": 1,
+      "explanation": "Large-scale commercial exploitation for colonial interests significantly reduced forest cover.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g2_q10",
+      "text": "Between 1951 and 1980, more than 26,200 sq km of forest area was converted into agricultural land all over India, particularly in:",
+      "options": ["Coastal regions", "Tribal belts", "Mountainous areas", "Deserts"],
+      "correctIndex": 1,
+      "explanation": "Especially in northeastern and central India, large forest tracts were cleared for cultivation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g2_q11",
+      "text": "What is the main cause of forest depletion in West Bengal (Buxa Tiger Reserve)?",
+      "options": ["Tourism", "Grazing", "Dolomite mining", "Illegal logging"],
+      "correctIndex": 2,
+      "explanation": "Mining has seriously threatened the reserve and blocked the migration route of animals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g2_q12",
+      "text": "The 'Himalayan Yew' (Taxus wallachiana) is a medicinal plant found in parts of:",
+      "options": ["Kerala and Tamil Nadu", "Himachal Pradesh and Arunachal Pradesh", "Gujarat and Rajasthan", "West Bengal and Odisha"],
+      "correctIndex": 1,
+      "explanation": "A chemical compound called 'taxol' is extracted from this tree to treat cancer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g2_q13",
+      "text": "The Indian Wildlife (Protection) Act was implemented in:",
+      "options": ["1952", "1960", "1972", "1980"],
+      "correctIndex": 2,
+      "explanation": "It provided various provisions for protecting habitats and banning hunting.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g2_q14",
+      "text": "When was 'Project Tiger' launched in India?",
+      "options": ["1970", "1973", "1985", "1992"],
+      "correctIndex": 1,
+      "explanation": "It is one of the most well-publicized wildlife campaigns in the world to save the tiger population.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g2_q15",
+      "text": "In which state is the Periyar Tiger Reserve located?",
+      "options": ["Assam", "West Bengal", "Kerala", "Madhya Pradesh"],
+      "correctIndex": 2,
+      "explanation": "Periyar is a famous reserve in the Western Ghats of Kerala.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g2_q16",
+      "text": "Forests which are regarded as most valuable as far as the conservation of forest and wildlife resources are concerned are:",
+      "options": ["Protected forests", "Reserved forests", "Unclassed forests", "Private forests"],
+      "correctIndex": 1,
+      "explanation": "More than half of the total forest land has been declared reserved forests.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g2_q17",
+      "text": "Which state has the largest area under permanent forests?",
+      "options": ["Arunachal Pradesh", "Madhya Pradesh", "Odisha", "Jammu and Kashmir"],
+      "correctIndex": 1,
+      "explanation": "Madhya Pradesh has 75% of its total forest area as permanent forest.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g2_q18",
+      "text": "Protected forests are those which are protected from any further:",
+      "options": ["Mining", "Depletion", "Tourism", "Afforestation"],
+      "correctIndex": 1,
+      "explanation": "Almost one-third of the total forest area is protected forest.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g2_q19",
+      "text": "The famous 'Chipko Movement' in the Himalayas was against:",
+      "options": ["Water pollution", "Deforestation", "Mining", "Soil erosion"],
+      "correctIndex": 1,
+      "explanation": "Communities successfully resisted the felling of trees in several areas by hugging them.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g2_q20",
+      "text": "The 'Beej Bachao Andolan' and 'Navdanya' were movements in which region?",
+      "options": ["Western Ghats", "Tehri", "Sunderbans", "Bastar"],
+      "correctIndex": 1,
+      "explanation": "These movements showed that adequate levels of diversified crop production without synthetic chemicals are possible.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g2_q21",
+      "text": "Joint Forest Management (JFM) programme in India depends on the formation of:",
+      "options": ["Private companies", "Local village institutions", "Military units", "International NGOs"],
+      "correctIndex": 1,
+      "explanation": "JFM involves local communities in the management and restoration of degraded forests.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g2_q22",
+      "text": "The first state to pass the resolution for Joint Forest Management was:",
+      "options": ["Odisha", "Madhya Pradesh", "Assam", "Gujarat"],
+      "correctIndex": 0,
+      "explanation": "Odisha passed this resolution in 1988.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g2_q23",
+      "text": "Nature worship is an age-old tribal belief. These patches of forest are known as:",
+      "options": ["Reserves", "Unclassed forests", "Sacred groves", "Village commons"],
+      "correctIndex": 2,
+      "explanation": "Sacred groves are often virgin forests left untouched by human interference.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g2_q24",
+      "text": "The Mundas and the Santhal of Chotanagpur region worship which trees?",
+      "options": ["Peepal and Banyan", "Mahua and Kadamba", "Mango and Neem", "Teak and Sal"],
+      "correctIndex": 1,
+      "explanation": "These trees are central to their religious and cultural practices.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g2_q25",
+      "text": "In many parts of India, which trees are specifically worshipped during weddings?",
+      "options": ["Mahua", "Mango and Tamarind", "Coconut", "Sal"],
+      "correctIndex": 1,
+      "explanation": "Worshipping specific trees is a common ritual in several Indian communities.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_g2_q26",
+      "text": "In Rajasthan, inhabitants of five villages in Alwar district have declared 1,200 hectares of forest as:",
+      "options": ["Reserved Forest", "Protected Forest", "Bhairodev Dakav 'Sonchuri'", "National Park"],
+      "correctIndex": 2,
+      "explanation": "They have their own set of rules and regulations which do not allow hunting.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g2_q27",
+      "text": "What percentage of India's flora are on the threatened list?",
+      "options": ["5%", "10%", "20%", "25%"],
+      "correctIndex": 1,
+      "explanation": "Nearly 10 percent of India's recorded wild flora are on the threatened list.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_g2_q28",
+      "text": "The primary threat to the 'Pink-headed duck' is that it is:",
+      "options": ["Vulnerable", "Rare", "Extinct", "Endangered"],
+      "correctIndex": 2,
+      "explanation": "It is one of the animals that has already been lost to extinction in India.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g2_q29",
+      "text": "The biological loss of forests is strongly correlated with the loss of:",
+      "options": ["Industry", "Cultural diversity", "Wealth", "Modernity"],
+      "correctIndex": 1,
+      "explanation": "Many indigenous communities depend directly on forest components for their livelihood and culture.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g2_q30",
+      "text": "Which of the following is NOT a tiger reserve in India?",
+      "options": ["Corbett", "Bandhavgarh", "Kaziranga", "Gir"],
+      "correctIndex": 3,
+      "explanation": "Gir is a National Park famous for Asiatic Lions, not a primary tiger reserve under Project Tiger.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g2_q31",
+      "text": "Taxol, used to treat cancer, is a chemical compound obtained from:",
+      "options": ["Bark, needles and roots of Himalayan Yew", "Flowers of Lotus", "Leaves of Neem", "Seeds of Sunflower"],
+      "correctIndex": 0,
+      "explanation": "Over-exploitation has made this medicinal plant vulnerable.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g2_q32",
+      "text": "The Buxa Tiger Reserve is located in:",
+      "options": ["Assam", "West Bengal", "Odisha", "Bihar"],
+      "correctIndex": 1,
+      "explanation": "It has been severely damaged by dolomite mining.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g2_q33",
+      "text": "Which movement was aimed at saving the forests of the Western Ghats from being submerged by a dam?",
+      "options": ["Chipko Movement", "Appiko Movement", "Narmada Bachao Andolan", "Save Silent Valley"],
+      "correctIndex": 3,
+      "explanation": "Silent Valley in Kerala was a major environmental victory in India.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_g2_q34",
+      "text": "Large scale development projects have significantly contributed to the loss of forests. Since 1951, over 5,000 sq km of forest was cleared for:",
+      "options": ["Housing", "River valley projects", "Industrial zones", "Roads"],
+      "correctIndex": 1,
+      "explanation": "Dams and reservoirs submerge large tracts of virgin forest.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g2_q35",
+      "text": "Which community in Rajasthan is known for protecting the black buck and Chinkara?",
+      "options": ["Bhil", "Gond", "Bishnoi", "Santhal"],
+      "correctIndex": 2,
+      "explanation": "The Bishnoi community considers wildlife protection a religious duty.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g2_q36",
+      "text": "Unclassed forests are:",
+      "options": ["Owned by the government only", "Owned by private individuals only", "Forests and wastelands belonging to both government and private individuals/communities", "Illegal forests"],
+      "correctIndex": 2,
+      "explanation": "These are common in the northeastern states and parts of Gujarat.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_g2_q37",
+      "text": "The main objective of the National Wildlife Action Plan is:",
+      "options": ["To increase tourism", "To provide a framework for conservation of wildlife", "To allow limited hunting", "To build more zoos"],
+      "correctIndex": 1,
+      "explanation": "It sets the policy for wildlife conservation in the country.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_g2_q38",
+      "text": "The term 'Flora' refers to:",
+      "options": ["Animal life", "Plant life", "Micro-organisms", "Fungi"],
+      "correctIndex": 1,
+      "explanation": "Flora is the collective plant life of a region.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g2_q39",
+      "text": "The term 'Fauna' refers to:",
+      "options": ["Plant life", "Animal life", "Insects only", "Soil types"],
+      "correctIndex": 1,
+      "explanation": "Fauna is the collective animal life of a region.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_g2_q40",
+      "text": "Conservation of biodiversity is important because:",
+      "options": ["It preserves our ecological life support systems", "It is required for aesthetic beauty only", "It helps in building cities", "It is not important"],
+      "correctIndex": 0,
+      "explanation": "Air, water and soil, which we need for survival, are maintained by biological processes.",
       "frequencyRating": 5
     }
   ]

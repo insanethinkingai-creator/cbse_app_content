@@ -8,42 +8,322 @@
   "questions": [
     {
       "id": "g10_s2_q1",
-      "text": "What gas is usually liberated when an acid reacts with a metal?",
-      "options": ["Oxygen", "Carbon dioxide", "Hydrogen", "Nitrogen"],
-      "correctIndex": 2,
-      "explanation": "When acids react with metals, they typically produce a salt and hydrogen gas (H2), which can be tested using a burning splinter (pop sound).",
+      "text": "A solution turns red litmus blue, its pH is likely to be:",
+      "options": ["1", "4", "5", "10"],
+      "correctIndex": 3,
+      "explanation": "Bases turn red litmus blue and have a pH greater than 7.",
       "frequencyRating": 5
     },
     {
       "id": "g10_s2_q2",
-      "text": "The pH of a solution is 3. This solution is:",
-      "options": ["Strongly alkaline", "Neutral", "Strongly acidic", "Weakly acidic"],
-      "correctIndex": 2,
-      "explanation": "On the pH scale, values from 0 to 7 are acidic. A value of 3 indicates a relatively strong acid, as it is closer to 0.",
+      "text": "A solution reacts with crushed egg-shells to give a gas that turns lime-water milky. The solution contains:",
+      "options": ["NaCl", "HCl", "LiCl", "KCl"],
+      "correctIndex": 1,
+      "explanation": "Egg shells are calcium carbonate. Reaction with HCl produces CO2, which turns lime water milky.",
       "frequencyRating": 5
     },
     {
       "id": "g10_s2_q3",
-      "text": "Which of the following is the chemical formula for Bleaching Powder?",
-      "options": ["CaSO4", "CaOCl2", "Ca(OH)2", "NaHCO3"],
-      "correctIndex": 1,
-      "explanation": "Bleaching powder is Calcium Oxychloride (CaOCl2), produced by the action of chlorine on dry slaked lime.",
+      "text": "Which gas is usually liberated when an acid reacts with a metal?",
+      "options": ["Oxygen", "Carbon dioxide", "Hydrogen", "Nitrogen"],
+      "correctIndex": 2,
+      "explanation": "Metals displace hydrogen from acids, forming a salt and hydrogen gas.",
       "frequencyRating": 5
     },
     {
       "id": "g10_s2_q4",
-      "text": "What is the color change observed when phenolphthalein is added to a basic solution?",
-      "options": ["Turns colorless", "Turns pink", "Turns blue", "Turns yellow"],
-      "correctIndex": 1,
-      "explanation": "Phenolphthalein is a synthetic indicator that remains colorless in acidic solutions but turns pink in basic (alkaline) solutions.",
-      "frequencyRating": 4
+      "text": "The reaction of an acid with a base to give a salt and water is known as:",
+      "options": ["Decomposition", "Combination", "Neutralization", "Hydrogenation"],
+      "correctIndex": 2,
+      "explanation": "In neutralization, H+ ions from acid and OH- ions from base combine to form water.",
+      "frequencyRating": 5
     },
     {
       "id": "g10_s2_q5",
-      "text": "Which salt is used for softening hard water?",
-      "options": ["Baking soda", "Washing soda", "Bleaching powder", "Plaster of Paris"],
+      "text": "What is the pH range of our body to work properly?",
+      "options": ["2.0 - 3.0", "5.0 - 5.8", "7.0 - 7.8", "9.0 - 10.5"],
+      "correctIndex": 2,
+      "explanation": "Living organisms can survive only in a narrow range of pH change.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q6",
+      "text": "Rain is called acid rain when its pH is below:",
+      "options": ["7", "6.5", "5.6", "4"],
+      "correctIndex": 2,
+      "explanation": "When the pH of rain water is less than 5.6, it is called acid rain.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q7",
+      "text": "Nettle sting contains which acid that causes burning pain?",
+      "options": ["Acetic acid", "Methanoic acid", "Citric acid", "Tartaric acid"],
       "correctIndex": 1,
-      "explanation": "Sodium carbonate (Washing soda, Na2CO3.10H2O) is widely used in industries and homes for removing the permanent hardness of water.",
+      "explanation": "Methanoic acid (formic acid) is injected by the stinging hair of nettle leaves.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s2_q8",
+      "text": "What is the chemical formula of Bleaching Powder?",
+      "options": ["CaSO4", "Ca(OH)2", "CaO", "CaOCl2"],
+      "correctIndex": 3,
+      "explanation": "Bleaching powder is produced by the action of chlorine on dry slaked lime.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q9",
+      "text": "The chemical name of Baking Soda is:",
+      "options": ["Sodium carbonate", "Sodium hydrogencarbonate", "Calcium carbonate", "Sodium hydroxide"],
+      "correctIndex": 1,
+      "explanation": "Baking soda is NaHCO3, used in cooking and as an antacid.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q10",
+      "text": "Which substance is used for making toys and decorative materials and also by doctors for supporting fractured bones?",
+      "options": ["Baking soda", "Washing soda", "Plaster of Paris", "Bleaching powder"],
+      "correctIndex": 2,
+      "explanation": "Plaster of Paris (Calcium sulphate hemihydrate) sets into a hard mass on mixing with water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q11",
+      "text": "Formula of Plaster of Paris is:",
+      "options": ["CaSO4.2H2O", "CaSO4.1/2H2O", "CaSO4.H2O", "2CaSO4.H2O"],
+      "correctIndex": 1,
+      "explanation": "It is CaSO4.1/2H2O. Note that CaSO4.2H2O is Gypsum.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q12",
+      "text": "What is the pH of a neutral solution?",
+      "options": ["0", "7", "14", "1"],
+      "correctIndex": 1,
+      "explanation": "A pH of 7 represents a neutral solution where H+ and OH- concentrations are equal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q13",
+      "text": "The atmosphere of Venus is made up of thick white and yellowish clouds of:",
+      "options": ["Hydrochloric acid", "Sulphuric acid", "Nitric acid", "Acetic acid"],
+      "correctIndex": 1,
+      "explanation": "Venus has clouds of Sulphuric acid, making life as we know it impossible.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s2_q14",
+      "text": "Tooth decay starts when the pH of the mouth is lower than:",
+      "options": ["7", "6.5", "5.5", "5.0"],
+      "correctIndex": 2,
+      "explanation": "Acid produced by bacteria in the mouth corrodes the tooth enamel (calcium phosphate).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q15",
+      "text": "Antacids like Milk of Magnesia are used to treat:",
+      "options": ["Headache", "Indigestion", "Fever", "Cough"],
+      "correctIndex": 1,
+      "explanation": "They neutralize excess acid produced in the stomach.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q16",
+      "text": "Which of the following is a natural indicator?",
+      "options": ["Phenolphthalein", "Methyl orange", "Litmus", "All of these"],
+      "correctIndex": 2,
+      "explanation": "Litmus is extracted from lichens. The others are synthetic indicators.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s2_q17",
+      "text": "Sodium hydroxide is also known as:",
+      "options": ["Baking soda", "Caustic soda", "Washing soda", "Slaked lime"],
+      "correctIndex": 1,
+      "explanation": "NaOH is a strong base commonly known as caustic soda.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s2_q18",
+      "text": "Chlor-alkali process produces:",
+      "options": ["Chlorine and Oxygen", "Chlorine and Hydrogen", "Chlorine, Hydrogen and Sodium hydroxide", "Sodium and Water"],
+      "correctIndex": 2,
+      "explanation": "Electrolysis of brine (NaCl solution) gives these three useful products.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q19",
+      "text": "Water of crystallisation is:",
+      "options": ["Free water in a salt", "Fixed number of water molecules chemically combined in one formula unit", "Impure water", "Steam"],
+      "correctIndex": 1,
+      "explanation": "It gives crystals their shape and sometimes color (like blue copper sulphate).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s2_q20",
+      "text": "Washing soda is produced by:",
+      "options": ["Heating gypsum", "Recrystallisation of sodium carbonate", "Reaction of NaOH with CO2", "Neutralizing HCl"],
+      "correctIndex": 1,
+      "explanation": "Na2CO3 + 10H2O -> Na2CO3.10H2O (Washing Soda).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q21",
+      "text": "Which acid is present in Tamarind?",
+      "options": ["Citric acid", "Oxalic acid", "Tartaric acid", "Acetic acid"],
+      "correctIndex": 2,
+      "explanation": "Tamarind contains tartaric acid, giving it a sour taste.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s2_q22",
+      "text": "The pH of basic solutions is always:",
+      "options": ["Less than 7", "Greater than 7", "Equal to 7", "Between 0 and 1"],
+      "correctIndex": 1,
+      "explanation": "Basic solutions have a higher concentration of OH- ions and pH > 7.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q23",
+      "text": "When a base reacts with a metal, it produces:",
+      "options": ["Hydrogen gas", "Oxygen gas", "Carbon dioxide", "No reaction"],
+      "correctIndex": 0,
+      "explanation": "Strong bases like NaOH react with active metals like Zinc to produce Hydrogen gas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s2_q24",
+      "text": "Which of the following does NOT contain water of crystallisation?",
+      "options": ["Blue vitriol", "Baking soda", "Washing soda", "Gypsum"],
+      "correctIndex": 1,
+      "explanation": "Baking soda (NaHCO3) is an anhydrous salt in its standard form.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s2_q25",
+      "text": "An olfactory indicator is one whose ________ changes in acidic or basic media.",
+      "options": ["Color", "Temperature", "Odour", "State"],
+      "correctIndex": 2,
+      "explanation": "Onion and vanilla are examples of olfactory indicators.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s2_q26",
+      "text": "Universal indicator is:",
+      "options": ["Another name for litmus", "A mixture of several indicators", "Methyl orange", "None"],
+      "correctIndex": 1,
+      "explanation": "It shows different colors at different concentrations of hydrogen ions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q27",
+      "text": "Acidic strength increases as pH:",
+      "options": ["Increases", "Decreases", "Stays same", "None"],
+      "correctIndex": 1,
+      "explanation": "Lower pH (closer to 0) indicates a higher concentration of H+ ions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q28",
+      "text": "Salt of a strong acid and a strong base will have a pH of:",
+      "options": ["7", "Less than 7", "More than 7", "0"],
+      "correctIndex": 0,
+      "explanation": "Such salts are neutral (e.g., NaCl).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s2_q29",
+      "text": "Copper sulphate crystals (Blue) turn white on heating because:",
+      "options": ["They burn", "They lose water of crystallisation", "They react with oxygen", "They melt"],
+      "correctIndex": 1,
+      "explanation": "Heating removes the 5 water molecules, leaving anhydrous CuSO4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s2_q30",
+      "text": "Which of the following is used in fire extinguishers?",
+      "options": ["Washing soda", "Baking soda", "Bleaching powder", "Common salt"],
+      "correctIndex": 1,
+      "explanation": "Sodium hydrogencarbonate reacts with acid to release CO2 gas, which extinguishes fire.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s2_q31",
+      "text": "pH of acidic strength 10^-2 M HCl is:",
+      "options": ["2", "12", "7", "10"],
+      "correctIndex": 0,
+      "explanation": "pH = -log[H+]. -log(10^-2) = 2.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s2_q32",
+      "text": "Curd should not be kept in copper or brass vessels because:",
+      "options": ["It spoils the vessel", "The acid in curd reacts with the metal to form toxic salts", "Curd loses its taste", "Metal becomes shiny"],
+      "correctIndex": 1,
+      "explanation": "Organic acids react with metals to form harmful compounds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q33",
+      "text": "When acid is added to water, the process is:",
+      "options": ["Exothermic", "Endothermic", "Physical change", "Neutral"],
+      "correctIndex": 0,
+      "explanation": "It releases a large amount of heat; always add acid to water, not water to acid.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q34",
+      "text": "What happens when a solution of an acid is mixed with a solution of a base in a test tube?",
+      "options": ["Temperature decreases", "Salt is formed", "Temperature increases", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "Neutralization is an exothermic reaction that produces salt.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s2_q35",
+      "text": "The term 'Alkali' refers to:",
+      "options": ["All bases", "Bases that are soluble in water", "All acids", "Dry bases"],
+      "correctIndex": 1,
+      "explanation": "Water-soluble bases like NaOH and KOH are called alkalis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q36",
+      "text": "Common salt (NaCl) is a raw material for:",
+      "options": ["Sodium hydroxide", "Baking soda", "Washing soda", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Common salt is the starting point for many industrial chemical processes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q37",
+      "text": "pH of pure water is 7. If we add some lemon juice, the pH will:",
+      "options": ["Increase", "Decrease", "Stay same", "Become 14"],
+      "correctIndex": 1,
+      "explanation": "Lemon juice contains citric acid, which increases H+ concentration and lowers pH.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s2_q38",
+      "text": "Mixing an acid or base with water results in decrease in concentration of ions per unit volume. This is called:",
+      "options": ["Neutralization", "Dilution", "Ionization", "Sublimation"],
+      "correctIndex": 1,
+      "explanation": "Dilution reduces the density of ions in the solution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s2_q39",
+      "text": "Non-metallic oxides are ________ in nature.",
+      "options": ["Acidic", "Basic", "Neutral", "Amphoteric"],
+      "correctIndex": 0,
+      "explanation": "Oxides like CO2 or SO2 react with water to form acids.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s2_q40",
+      "text": "Strong acids are those that:",
+      "options": ["Are very concentrated", "Ionize completely in water", "Ionize partially in water", "Do not ionize"],
+      "correctIndex": 1,
+      "explanation": "The degree of ionization determines the strength of the acid.",
       "frequencyRating": 5
     }
   ]

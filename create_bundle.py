@@ -6,7 +6,7 @@ from datetime import datetime
 import urllib.request
 
 # CDN Purge Configuration
-GITHUB_USER = "balajic"
+GITHUB_USER = "insanethinkingai-creator"
 GITHUB_REPO = "cbse_app_content"
 
 def calculate_md5(file_path):
@@ -36,7 +36,14 @@ def validate_json(file_path, is_manifest=False):
         for key in required_chapter:
             if key not in data:
                 raise ValueError(f"Schema Error in {file_path}: Missing key '{key}'")
-        
+
+        # Validate question count based on grade
+        grade = str(data.get("grade"))
+        expected_count = 10 if grade == "7" else 40
+        actual_count = len(data.get("questions", []))
+        if actual_count != expected_count:
+            raise ValueError(f"Data Error in {file_path}: Expected {expected_count} questions for Grade {grade}, but found {actual_count}")
+
         for i, q in enumerate(data.get("questions", [])):
             q_id = q.get("id", f"index_{i}")
             # Check required question keys
@@ -120,7 +127,7 @@ def create_bundles():
     print("Updated version.json successfully.")
 
     # Trigger CDN Purge for the manifest to ensure mirrors update immediately
-    purge_url = f"https://purge.jsdelivr.net/gh/{GITHUB_USER}/{GITHUB_REPO}@main/version.json"
+    purge_url = f"https://purge.jsdelivr.net/gh/{GITHUB_USER}/{GITHUB_REPO}@latest/version.json"
     print(f"Purging CDN cache for manifest: {purge_url}")
     try:
         with urllib.request.urlopen(purge_url) as response:

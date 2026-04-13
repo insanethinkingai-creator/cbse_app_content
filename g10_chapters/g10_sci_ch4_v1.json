@@ -8,42 +8,322 @@
   "questions": [
     {
       "id": "g10_s4_q1",
-      "text": "Which of the following belongs to the same homologous series as Ethane?",
-      "options": ["Ethene", "Ethyne", "Propane", "Methanol"],
+      "text": "Carbon forms bonds with other atoms by:",
+      "options": ["Gaining 4 electrons", "Losing 4 electrons", "Sharing 4 electrons", "Gaining 2 electrons"],
       "correctIndex": 2,
-      "explanation": "Ethane is an alkane (CnH2n+2). Propane (C3H8) also follows this general formula, making it part of the same homologous series.",
+      "explanation": "Carbon is tetravalent and achieves stability by sharing its valence electrons, forming covalent bonds.",
       "frequencyRating": 5
     },
     {
       "id": "g10_s4_q2",
-      "text": "The self-linking property of carbon atoms to form long chains is known as:",
+      "text": "The property of self-linking among identical atoms to form long chains is called:",
       "options": ["Tetravalency", "Catenation", "Isomerism", "Hydrogenation"],
       "correctIndex": 1,
-      "explanation": "Catenation is the unique ability of carbon to form bonds with other atoms of carbon, giving rise to large molecules.",
+      "explanation": "Catenation is unique to carbon because of its small size and strong C-C bond energy.",
       "frequencyRating": 5
     },
     {
       "id": "g10_s4_q3",
-      "text": "The functional group present in carboxylic acids is:",
-      "options": ["-OH", "-CHO", "-CO-", "-COOH"],
-      "correctIndex": 3,
-      "explanation": "-COOH is the carboxyl functional group found in organic acids like Acetic acid.",
+      "text": "Which allotrope of carbon is used as a lubricant and in pencil leads?",
+      "options": ["Diamond", "Fullerene", "Graphite", "Coal"],
+      "correctIndex": 2,
+      "explanation": "Graphite has a layered structure with weak van der Waals forces between layers, making it slippery.",
       "frequencyRating": 5
     },
     {
       "id": "g10_s4_q4",
-      "text": "Pentane has the molecular formula C5H12. It has:",
-      "options": ["5 covalent bonds", "12 covalent bonds", "16 covalent bonds", "17 covalent bonds"],
+      "text": "The first member of the alkyne homologous series is:",
+      "options": ["Ethane", "Ethene", "Ethyne", "Methane"],
       "correctIndex": 2,
-      "explanation": "In Pentane, there are 4 C-C bonds and 12 C-H bonds, totaling 16 covalent bonds.",
+      "explanation": "Alkynes contain a triple bond. The simplest stable alkyne is Ethyne (C2H2).",
       "frequencyRating": 4
     },
     {
       "id": "g10_s4_q5",
-      "text": "Which of the following is used to oxidize ethanol to ethanoic acid?",
-      "options": ["Alkaline KMnO4", "Concentrated H2SO4", "Acidified K2Cr2O7", "Both A and C"],
+      "text": "Saturated hydrocarbons generally burn with a ________ flame.",
+      "options": ["Sooty yellow", "Clean blue", "Red", "Green"],
+      "correctIndex": 1,
+      "explanation": "Saturated hydrocarbons undergo complete combustion in sufficient oxygen, producing a non-sooty blue flame.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q6",
+      "text": "Which functional group is present in CH3CH2OH?",
+      "options": ["Aldehyde", "Ketone", "Carboxylic acid", "Alcohol"],
       "correctIndex": 3,
-      "explanation": "Alkaline potassium permanganate or acidified potassium dichromate are strong oxidizing agents used in this conversion.",
+      "explanation": "The -OH group indicates an alcohol (Ethanol).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q7",
+      "text": "Butanone is a four-carbon compound with the functional group:",
+      "options": ["Carboxylic acid", "Aldehyde", "Ketone", "Alcohol"],
+      "correctIndex": 2,
+      "explanation": "The suffix '-one' denotes a ketone group.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q8",
+      "text": "Vegetable oils are converted into vegetable ghee using ________ gas.",
+      "options": ["Oxygen", "Nitrogen", "Hydrogen", "Chlorine"],
+      "correctIndex": 2,
+      "explanation": "This is an addition reaction called hydrogenation, usually in the presence of a Nickel catalyst.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q9",
+      "text": "Ethanoic acid is commonly called:",
+      "options": ["Formic acid", "Acetic acid", "Citric acid", "Tartaric acid"],
+      "correctIndex": 1,
+      "explanation": "Acetic acid is the main component of vinegar.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q10",
+      "text": "The reaction of an ester with an alkali to give back alcohol and sodium salt of carboxylic acid is:",
+      "options": ["Esterification", "Saponification", "Hydrogenation", "Combustion"],
+      "correctIndex": 1,
+      "explanation": "Saponification is the process used in the making of soap.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q11",
+      "text": "Soaps are sodium or potassium salts of long chain:",
+      "options": ["Alcohols", "Aldehydes", "Carboxylic acids", "Hydrocarbons"],
+      "correctIndex": 2,
+      "explanation": "Soaps are fatty acid salts.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s4_q12",
+      "text": "Detergents are generally effective in both soft and hard water because:",
+      "options": ["They do not form insoluble scums with Calcium and Magnesium ions", "They are cheaper", "They are made of wood", "They are insoluble"],
+      "correctIndex": 0,
+      "explanation": "Unlike soaps, detergents maintain their cleansing properties in hard water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q13",
+      "text": "A spherical aggregate of soap molecules in water is called a:",
+      "options": ["Crystal", "Micelle", "Isomer", "Polymer"],
+      "correctIndex": 1,
+      "explanation": "Soap molecules form micelles where the hydrophobic tails point inwards towards the oil/dirt.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q14",
+      "text": "Which of the following belongs to the same homologous series as Methane?",
+      "options": ["Ethene", "Ethyne", "Propane", "Methanol"],
+      "correctIndex": 2,
+      "explanation": "Methane and Propane are both alkanes following the CnH2n+2 formula.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s4_q15",
+      "text": "Compounds with the same molecular formula but different structures are called:",
+      "options": ["Allotropes", "Homologues", "Structural isomers", "Isotopes"],
+      "correctIndex": 2,
+      "explanation": "For example, Butane and Iso-butane are structural isomers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q16",
+      "text": "The next higher homologue of C2H4 is:",
+      "options": ["C2H6", "C3H6", "C3H8", "C4H8"],
+      "correctIndex": 1,
+      "explanation": "C2H4 is Ethene (alkene). The next member adds a -CH2- unit, becoming Propene (C3H6).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s4_q17",
+      "text": "Which catalyst is used in the addition reaction of ethene to ethane?",
+      "options": ["Iron", "Nickel", "Copper", "Manganese dioxide"],
+      "correctIndex": 1,
+      "explanation": "Palladium or Nickel are commonly used catalysts for hydrogenation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s4_q18",
+      "text": "What is the general formula for Alkanes?",
+      "options": ["CnH2n", "CnH2n-2", "CnH2n+2", "CnHn"],
+      "correctIndex": 2,
+      "explanation": "Alkanes are saturated hydrocarbons with single bonds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q19",
+      "text": "What happens when Ethanol reacts with Sodium metal?",
+      "options": ["Evolution of Oxygen", "Evolution of Hydrogen", "Formation of vinegar", "No reaction"],
+      "correctIndex": 1,
+      "explanation": "2Na + 2CH3CH2OH -> 2CH3CH2ONa + H2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q20",
+      "text": "5-8% solution of acetic acid in water is called:",
+      "options": ["Glacial acetic acid", "Vinegar", "Ester", "Brine"],
+      "correctIndex": 1,
+      "explanation": "Vinegar is widely used as a preservative in pickles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q21",
+      "text": "The hydrophilic end of a soap molecule is:",
+      "options": ["The hydrocarbon chain", "The ionic end", "The carbon atom", "The oxygen atom"],
+      "correctIndex": 1,
+      "explanation": "The ionic part (COONa) is water-loving (hydrophilic).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s4_q22",
+      "text": "Diamond is a non-conductor of electricity because:",
+      "options": ["It is very hard", "It has no free electrons", "It is made of carbon", "It has a layered structure"],
+      "correctIndex": 1,
+      "explanation": "In diamond, every valence electron is involved in a strong covalent bond.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s4_q23",
+      "text": "Which gas is evolved when Ethanoic acid reacts with Sodium Carbonate?",
+      "options": ["Hydrogen", "Carbon dioxide", "Carbon monoxide", "Oxygen"],
+      "correctIndex": 1,
+      "explanation": "Acids react with carbonates to produce CO2 gas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q24",
+      "text": "Oxidation of ethanol using alkaline KMnO4 produces:",
+      "options": ["Ethane", "Ethene", "Ethanoic acid", "Methanol"],
+      "correctIndex": 2,
+      "explanation": "Alkaline KMnO4 is a strong oxidizing agent that converts alcohols to acids.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q25",
+      "text": "The general formula for Alkenes is:",
+      "options": ["CnH2n+2", "CnH2n", "CnH2n-2", "CnHn"],
+      "correctIndex": 1,
+      "explanation": "Alkenes contain at least one double bond between carbon atoms.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q26",
+      "text": "How many single covalent bonds are present in a molecule of Pentane (C5H12)?",
+      "options": ["5", "12", "16", "14"],
+      "correctIndex": 2,
+      "explanation": "There are 4 C-C bonds and 12 C-H bonds, totaling 16.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s4_q27",
+      "text": "Which of the following represents the aldehyde functional group?",
+      "options": ["-OH", "-COOH", "-CHO", "-CO-"],
+      "correctIndex": 2,
+      "explanation": "-CHO is the aldehyde group, appearing at the end of a carbon chain.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q28",
+      "text": "Unsaturated hydrocarbons add hydrogen in the presence of catalysts to become saturated. This is a/an ________ reaction.",
+      "options": ["Substitution", "Addition", "Elimination", "Redox"],
+      "correctIndex": 1,
+      "explanation": "The pi bond breaks to allow new atoms to be added to the molecule.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q29",
+      "text": "Buckminsterfullerene is an allotrope of carbon with ________ atoms.",
+      "options": ["40", "50", "60", "80"],
+      "correctIndex": 2,
+      "explanation": "It has a shape like a football and contains 60 carbon atoms (C60).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s4_q30",
+      "text": "Why does carbon not form C4+ ions?",
+      "options": ["It requires too much energy to remove 4 electrons", "It is not a metal", "It has no protons", "It is too large"],
+      "correctIndex": 0,
+      "explanation": "Removing four electrons from a small carbon atom requires a massive amount of energy.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s4_q31",
+      "text": "Pure ethanoic acid has a melting point of 290K and freezes in winter, hence it is called:",
+      "options": ["Hard acid", "Glacial acetic acid", "Dry ice", "Solid vinegar"],
+      "correctIndex": 1,
+      "explanation": "It looks like ice in its solid form, giving it this name.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s4_q32",
+      "text": "Substitution reactions are characteristic of:",
+      "options": ["Alkenes", "Alkynes", "Saturated hydrocarbons (Alkanes)", "Alcohols"],
+      "correctIndex": 2,
+      "explanation": "In the presence of sunlight, Chlorine replaces Hydrogen atoms in alkanes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s4_q33",
+      "text": "The difference in molecular mass between two consecutive members of a homologous series is:",
+      "options": ["12 u", "14 u", "16 u", "2 u"],
+      "correctIndex": 1,
+      "explanation": "The members differ by a -CH2- unit (12 + 2*1 = 14).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q34",
+      "text": "Which of the following is used to test the presence of unsaturated hydrocarbons?",
+      "options": ["Lime water", "Bromine water", "Litmus paper", "Iodine solution"],
+      "correctIndex": 1,
+      "explanation": "Unsaturated compounds decolorize red-brown bromine water.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s4_q35",
+      "text": "Esterification involves the reaction between an acid and a/an ________.",
+      "options": ["Metal", "Base", "Alcohol", "Non-metal"],
+      "correctIndex": 2,
+      "explanation": "Acid + Alcohol -> Ester + Water (in presence of acid catalyst).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q36",
+      "text": "Esters are characterized by their ________ smell.",
+      "options": ["Rotten egg", "Pungent", "Sweet/fruity", "Odourless"],
+      "correctIndex": 2,
+      "explanation": "Because of their pleasant smell, esters are used in perfumes and flavouring agents.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q37",
+      "text": "Denatured alcohol is ethanol mixed with poisonous substances like ________ to prevent misuse.",
+      "options": ["Water", "Methanol", "Sugar", "Salt"],
+      "correctIndex": 1,
+      "explanation": "Methanol makes the ethanol unfit for human consumption.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_s4_q38",
+      "text": "Hard water contains salts of:",
+      "options": ["Sodium and Potassium", "Calcium and Magnesium", "Iron and Copper", "Aluminium and Zinc"],
+      "correctIndex": 1,
+      "explanation": "These ions react with soap to form insoluble scum.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_s4_q39",
+      "text": "The hydrophobic end of soap is ________ in water.",
+      "options": ["Soluble", "Insoluble", "Neutral", "Reacts"],
+      "correctIndex": 1,
+      "explanation": "The hydrocarbon chain avoids water but dissolves in oil/grease.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_s4_q40",
+      "text": "How many electrons are shared in a double covalent bond?",
+      "options": ["2", "4", "6", "8"],
+      "correctIndex": 1,
+      "explanation": "Two pairs of electrons (total 4) are shared between the two atoms.",
       "frequencyRating": 5
     }
   ]
