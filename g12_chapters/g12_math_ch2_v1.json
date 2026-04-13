@@ -1,0 +1,330 @@
+{
+  "id": "g12_math_ch2",
+  "grade": "12",
+  "subject": "Mathematics",
+  "number": "2",
+  "title": "Inverse Trigonometric Functions",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_m2_q1",
+      "text": "The principal value branch of sin⁻¹x is:",
+      "options": ["[0, π]", "[-π/2, π/2]", "(-π/2, π/2)", "[0, π] - {π/2}"],
+      "correctIndex": 1,
+      "explanation": "For the sine function to be invertible, its domain is restricted to [-π/2, π/2], which becomes the range (principal branch) of sin⁻¹x.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m2_q2",
+      "text": "The domain of the function cos⁻¹x is:",
+      "options": ["[0, π]", "[-1, 1]", "R", "R - (-1, 1)"],
+      "correctIndex": 1,
+      "explanation": "The cosine function takes values between -1 and 1, so the inverse function is defined for x in [-1, 1].",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m2_q3",
+      "text": "The principal value of cos⁻¹(-1/2) is:",
+      "options": ["-π/3", "π/3", "2π/3", "4π/3"],
+      "correctIndex": 2,
+      "explanation": "cos(2π/3) = cos(π - π/3) = -cos(π/3) = -1/2. 2π/3 lies in the principal branch [0, π].",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m2_q4",
+      "text": "The value of sin⁻¹(sin(2π/3)) is:",
+      "options": ["2π/3", "π/3", "-π/3", "π/6"],
+      "correctIndex": 1,
+      "explanation": "2π/3 is not in the principal branch [-π/2, π/2]. sin(2π/3) = sin(π - π/3) = sin(π/3). So sin⁻¹(sin(π/3)) = π/3.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m2_q5",
+      "text": "The range of tan⁻¹x is:",
+      "options": ["[-π/2, π/2]", "(-π/2, π/2)", "[0, π]", "R"],
+      "correctIndex": 1,
+      "explanation": "The tangent function is undefined at ±π/2, so the principal branch of its inverse is the open interval (-π/2, π/2).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m2_q6",
+      "text": "The value of tan⁻¹(√3) - sec⁻¹(-2) is:",
+      "options": ["π", "-π/3", "π/3", "2π/3"],
+      "correctIndex": 1,
+      "explanation": "tan⁻¹(√3) = π/3. sec⁻¹(-2) = π - sec⁻¹(2) = π - π/3 = 2π/3. π/3 - 2π/3 = -π/3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m2_q7",
+      "text": "The domain of sec⁻¹x is:",
+      "options": ["[-1, 1]", "R - [-1, 1]", "R - (-1, 1)", "R"],
+      "correctIndex": 2,
+      "explanation": "The secant function's range is (-∞, -1] ∪ [1, ∞), which becomes the domain of sec⁻¹x.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m2_q8",
+      "text": "Which of the following is the principal value branch of cosec⁻¹x?",
+      "options": ["(-π/2, π/2)", "[-π/2, π/2] - {0}", "[0, π]", "[-π/2, π/2]"],
+      "correctIndex": 1,
+      "explanation": "The cosecant function is not defined at 0, so it is excluded from the principal branch.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m2_q9",
+      "text": "The value of sin(π/3 - sin⁻¹(-1/2)) is:",
+      "options": ["1/2", "1", "-1", "0"],
+      "correctIndex": 1,
+      "explanation": "sin⁻¹(-1/2) = -π/6. sin(π/3 - (-π/6)) = sin(π/3 + π/6) = sin(π/2) = 1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m2_q10",
+      "text": "tan⁻¹(1) + cos⁻¹(-1/2) + sin⁻¹(-1/2) is equal to:",
+      "options": ["π/4", "3π/4", "9π/12", "11π/12"],
+      "correctIndex": 1,
+      "explanation": "π/4 + 2π/3 - π/6 = (3π + 8π - 2π)/12 = 9π/12 = 3π/4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m2_q11",
+      "text": "If sin⁻¹x = y, then:",
+      "options": ["0 ≤ y ≤ π", "-π/2 ≤ y ≤ π/2", "0 < y < π", "-π/2 < y < π/2"],
+      "correctIndex": 1,
+      "explanation": "This defines the principal value branch of the inverse sine function.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m2_q12",
+      "text": "The value of tan⁻¹(tan(3π/4)) is:",
+      "options": ["3π/4", "π/4", "-π/4", "7π/4"],
+      "correctIndex": 2,
+      "explanation": "3π/4 is not in (-π/2, π/2). tan(3π/4) = tan(π - π/4) = -tan(π/4) = tan(-π/4). So result is -π/4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m2_q13",
+      "text": "The principal value of cot⁻¹(-√3) is:",
+      "options": ["-π/6", "π/6", "5π/6", "7π/6"],
+      "correctIndex": 2,
+      "explanation": "cot⁻¹(-x) = π - cot⁻¹x. π - cot⁻¹(√3) = π - π/6 = 5π/6.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m2_q14",
+      "text": "The domain of sin⁻¹(2x) is:",
+      "options": ["[-1, 1]", "[-1/2, 1/2]", "[-2, 2]", "R"],
+      "correctIndex": 1,
+      "explanation": "-1 ≤ 2x ≤ 1 implies -1/2 ≤ x ≤ 1/2.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m2_q15",
+      "text": "The value of cos⁻¹(cos(7π/6)) is:",
+      "options": ["7π/6", "5π/6", "π/6", "-π/6"],
+      "correctIndex": 1,
+      "explanation": "7π/6 > π. cos(7π/6) = cos(2π - 5π/6) = cos(5π/6). 5π/6 lies in [0, π].",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m2_q16",
+      "text": "sin(tan⁻¹x), |x| < 1, is equal to:",
+      "options": ["x / √(1-x²)", "1 / √(1-x²)", "1 / √(1+x²)", "x / √(1+x²)"],
+      "correctIndex": 3,
+      "explanation": "Let θ = tan⁻¹x, so tanθ = x/1. Opposite = x, Adjacent = 1, Hypotenuse = √(1+x²). sinθ = x/√(1+x²).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m2_q17",
+      "text": "The value of cot(tan⁻¹a + cot⁻¹a) is:",
+      "options": ["0", "1", "1/2", "Undefined"],
+      "correctIndex": 0,
+      "explanation": "tan⁻¹x + cot⁻¹x = π/2. cot(π/2) = 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m2_q18",
+      "text": "If sin⁻¹(1-x) - 2sin⁻¹x = π/2, then x is equal to:",
+      "options": ["0, 1/2", "1, 1/2", "0", "1/2"],
+      "correctIndex": 2,
+      "explanation": "Substituting x=0 satisfies the equation. x=1/2 gives -π/6 which is not π/2.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m2_q19",
+      "text": "The principal value of cos⁻¹(1/2) + 2sin⁻¹(1/2) is:",
+      "options": ["π/3", "2π/3", "π/2", "π"],
+      "correctIndex": 1,
+      "explanation": "π/3 + 2(π/6) = π/3 + π/3 = 2π/3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m2_q20",
+      "text": "The value of tan⁻¹[2cos(2sin⁻¹(1/2))] is:",
+      "options": ["π/3", "π/4", "π/6", "π/2"],
+      "correctIndex": 1,
+      "explanation": "sin⁻¹(1/2) = π/6. 2cos(2*π/6) = 2cos(π/3) = 2(1/2) = 1. tan⁻¹(1) = π/4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m2_q21",
+      "text": "Which property is true for inverse trigonometric functions?",
+      "options": ["sin⁻¹(-x) = -sin⁻¹x", "cos⁻¹(-x) = -cos⁻¹x", "tan⁻¹(-x) = π - tan⁻¹x", "All of these"],
+      "correctIndex": 0,
+      "explanation": "sin⁻¹ is an odd function. cos⁻¹(-x) = π - cos⁻¹x.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m2_q22",
+      "text": "The value of tan⁻¹(√3) - cot⁻¹(-√3) is:",
+      "options": ["π", "π/2", "-π/2", "0"],
+      "correctIndex": 2,
+      "explanation": "π/3 - (π - π/6) = π/3 - 5π/6 = (2π - 5π)/6 = -3π/6 = -π/2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m2_q23",
+      "text": "Domain of cos⁻¹(2x-1) is:",
+      "options": ["[0, 1]", "[-1, 1]", "(-1, 1)", "[0, π]"],
+      "correctIndex": 0,
+      "explanation": "-1 ≤ 2x-1 ≤ 1 implies 0 ≤ 2x ≤ 2, so 0 ≤ x ≤ 1.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m2_q24",
+      "text": "Range of the function f(x) = sin⁻¹x + cos⁻¹x + tan⁻¹x is:",
+      "options": ["(0, π)", "[π/4, 3π/4]", "[0, π]", "(-π/2, π/2)"],
+      "correctIndex": 1,
+      "explanation": "f(x) = π/2 + tan⁻¹x. Since domain is [-1, 1], tan⁻¹x is in [-π/4, π/4]. Range is [π/2-π/4, π/2+π/4] = [π/4, 3π/4].",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_m2_q25",
+      "text": "The value of sin⁻¹(cos(33π/5)) is:",
+      "options": ["3π/10", "-π/10", "π/10", "-3π/10"],
+      "correctIndex": 1,
+      "explanation": "33π/5 = 6π + 3π/5. cos(33π/5) = cos(3π/5). sin⁻¹(sin(π/2 - 3π/5)) = sin⁻¹(sin(-π/10)) = -π/10.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m2_q26",
+      "text": "cot(sin⁻¹x) is equal to:",
+      "options": ["√(1-x²) / x", "x / √(1-x²)", "1/x", "√(1+x²) / x"],
+      "correctIndex": 0,
+      "explanation": "If sinθ = x, then cotθ = cosθ/sinθ = √(1-x²)/x.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m2_q27",
+      "text": "Inverse trigonometric functions are also known as:",
+      "options": ["Circular functions", "Cyclometric functions", "Periodic functions", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Cyclometric functions is a less common term for inverse trig functions.",
+      "frequencyRating": 1
+    },
+    {
+      "id": "g12_m2_q28",
+      "text": "The principal value of cosec⁻¹(2) is:",
+      "options": ["π/3", "π/6", "2π/3", "-π/6"],
+      "correctIndex": 1,
+      "explanation": "cosec(π/6) = 2 and π/6 is in the valid range.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m2_q29",
+      "text": "The value of sin⁻¹(-√3/2) is:",
+      "options": ["π/3", "-π/3", "2π/3", "4π/3"],
+      "correctIndex": 1,
+      "explanation": "sin⁻¹(-x) = -sin⁻¹x. -sin⁻¹(√3/2) = -π/3.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m2_q30",
+      "text": "If tan⁻¹x + tan⁻¹y = π/4, then x + y + xy is:",
+      "options": ["0", "1", "-1", "2"],
+      "correctIndex": 1,
+      "explanation": "(x+y)/(1-xy) = tan(π/4) = 1. So x+y = 1-xy => x+y+xy = 1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m2_q31",
+      "text": "The function sin⁻¹x is increasing in its domain.",
+      "options": ["Always True", "Always False", "Only for x > 0", "Only for x < 0"],
+      "correctIndex": 0,
+      "explanation": "The derivative 1/√(1-x²) is always positive in (-1, 1).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m2_q32",
+      "text": "The value of cos⁻¹(cos(-π/4)) is:",
+      "options": ["-π/4", "π/4", "3π/4", "7π/4"],
+      "correctIndex": 1,
+      "explanation": "cos(-θ) = cosθ. cos⁻¹(cos(π/4)) = π/4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m2_q33",
+      "text": "cos⁻¹(1/2) - 2sin⁻¹(-1/2) is:",
+      "options": ["0", "2π/3", "π/3", "π"],
+      "correctIndex": 1,
+      "explanation": "π/3 - 2(-π/6) = π/3 + π/3 = 2π/3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m2_q34",
+      "text": "The domain of f(x) = sin⁻¹x + cos x is:",
+      "options": ["R", "[-1, 1]", "[0, π]", "[-π/2, π/2]"],
+      "correctIndex": 1,
+      "explanation": "The intersection of domains of sin⁻¹x ([-1, 1]) and cos x (R) is [-1, 1].",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m2_q35",
+      "text": "The value of tan(cos⁻¹(4/5) + tan⁻¹(2/3)) is:",
+      "options": ["6/17", "17/6", "7/16", "11/17"],
+      "correctIndex": 1,
+      "explanation": "cos⁻¹(4/5) = tan⁻¹(3/4). tan(tan⁻¹(3/4) + tan⁻¹(2/3)) = (3/4 + 2/3) / (1 - 3/4*2/3) = (17/12) / (6/12) = 17/6.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m2_q36",
+      "text": "If cos(sin⁻¹(2/5) + cos⁻¹x) = 0, then x is:",
+      "options": ["1/5", "2/5", "0", "1"],
+      "correctIndex": 1,
+      "explanation": "sin⁻¹(2/5) + cos⁻¹x must be π/2. This happens when x = 2/5.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m2_q37",
+      "text": "The principal value of tan⁻¹(-1) is:",
+      "options": ["π/4", "-π/4", "3π/4", "7π/4"],
+      "correctIndex": 1,
+      "explanation": "tan(-π/4) = -1 and -π/4 lies in the principal range (-π/2, π/2).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m2_q38",
+      "text": "Domain of the function f(x) = √(sin⁻¹x) is:",
+      "options": ["[-1, 1]", "[0, 1]", "[0, π]", "R"],
+      "correctIndex": 1,
+      "explanation": "sin⁻¹x must be ≥ 0 and x must be in [-1, 1]. sin⁻¹x ≥ 0 implies x ≥ 0.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_m2_q39",
+      "text": "Which of the following is the principal value of sec⁻¹(√2)?",
+      "options": ["π/3", "π/4", "π/6", "2π/3"],
+      "correctIndex": 1,
+      "explanation": "sec(π/4) = √2 and π/4 is in the principal branch.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m2_q40",
+      "text": "The value of cot⁻¹(cot(5π/4)) is:",
+      "options": ["5π/4", "π/4", "-π/4", "π/2"],
+      "correctIndex": 1,
+      "explanation": "cot(5π/4) = cot(π + π/4) = cot(π/4). So result is π/4, which is in (0, π).",
+      "frequencyRating": 4
+    }
+  ]
+}

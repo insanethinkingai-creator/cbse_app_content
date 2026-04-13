@@ -1,0 +1,330 @@
+{
+  "id": "g12_chem_ch1",
+  "grade": "12",
+  "subject": "Chemistry",
+  "number": "1",
+  "title": "Solutions",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_c1_q1",
+      "text": "Which of the following concentration terms is independent of temperature?",
+      "options": ["Molarity", "Molality", "Normality", "Formality"],
+      "correctIndex": 1,
+      "explanation": "Molality is defined as moles of solute per kg of solvent (mass), which does not change with temperature, unlike volume-based units.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c1_q2",
+      "text": "Henry's law constant (KH) value:",
+      "options": ["Increases with increase in temperature", "Decreases with increase in temperature", "Remains constant", "Is independent of the gas"],
+      "correctIndex": 0,
+      "explanation": "Solubility of gases in liquids decreases with increasing temperature, implying KH increases.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c1_q3",
+      "text": "An example of a liquid-in-solid solution is:",
+      "options": ["Amalgam of mercury with sodium", "Salt in water", "Copper in gold", "Oxygen in nitrogen"],
+      "correctIndex": 0,
+      "explanation": "Mercury is liquid and sodium is solid. This mixture forms a homogeneous solid solution.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c1_q4",
+      "text": "For an ideal solution, the enthalpy of mixing (ΔH_mix) is:",
+      "options": ["> 0", "< 0", "0", "None"],
+      "correctIndex": 2,
+      "explanation": "In an ideal solution, the A-B interactions are identical to A-A and B-B, so no heat is evolved or absorbed during mixing.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c1_q5",
+      "text": "Which of the following properties is NOT a colligative property?",
+      "options": ["Osmotic pressure", "Relative lowering of vapor pressure", "Elevation in boiling point", "Surface tension"],
+      "correctIndex": 3,
+      "explanation": "Colligative properties depend only on the number of solute particles, not their nature.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c1_q6",
+      "text": "Raoult's law states that for a solution of volatile liquids, the partial vapor pressure of each component is proportional to its:",
+      "options": ["Molarity", "Molality", "Mole fraction", "Mass percent"],
+      "correctIndex": 2,
+      "explanation": "P_i = P_i° * x_i, where x_i is the mole fraction of the component in the solution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c1_q7",
+      "text": "Azeotropic mixtures are:",
+      "options": ["Binary mixtures having different compositions in liquid and vapor phase", "Binary mixtures having same composition in liquid and vapor phase", "Solid solutions", "Heterogeneous mixtures"],
+      "correctIndex": 1,
+      "explanation": "Azeotropes boil at a constant temperature and cannot be separated by simple distillation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c1_q8",
+      "text": "Solutions that show positive deviation from Raoult's law form:",
+      "options": ["Minimum boiling azeotropes", "Maximum boiling azeotropes", "Ideal solutions", "None"],
+      "correctIndex": 0,
+      "explanation": "Positive deviation means higher vapor pressure, leading to a lower boiling point.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c1_q9",
+      "text": "The value of Van't Hoff factor (i) for a solute that undergoes association is:",
+      "options": ["> 1", "< 1", "1", "0"],
+      "correctIndex": 1,
+      "explanation": "Association reduces the total number of particles in the solution, so i < 1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c1_q10",
+      "text": "Osmotic pressure (π) is given by the formula:",
+      "options": ["π = CRT", "π = nRT", "π = mRT", "π = kP"],
+      "correctIndex": 0,
+      "explanation": "π is directly proportional to molar concentration (C) and temperature (T).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c1_q11",
+      "text": "What happens to the boiling point of a solvent when a non-volatile solute is added?",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correctIndex": 0,
+      "explanation": "The solute lowers the vapor pressure, so a higher temperature is needed to make it equal to atmospheric pressure.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c1_q12",
+      "text": "Isotonic solutions have the same:",
+      "options": ["Vapor pressure", "Freezing point", "Osmotic pressure", "Boiling point"],
+      "correctIndex": 2,
+      "explanation": "By definition, isotonic solutions have equal osmotic pressures at the same temperature.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c1_q13",
+      "text": "The unit of molal elevation constant (Kb) is:",
+      "options": ["K kg mol^-1", "mol kg^-1", "K mol kg^-1", "kg mol^-1"],
+      "correctIndex": 0,
+      "explanation": "Kb = ΔTb / m, where m is molality.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c1_q14",
+      "text": "Which law describes the solubility of a gas in a liquid?",
+      "options": ["Raoult's Law", "Henry's Law", "Dalton's Law", "Charles's Law"],
+      "correctIndex": 1,
+      "explanation": "Henry's Law states p = KH * x.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c1_q15",
+      "text": "Reverse osmosis is used in:",
+      "options": ["Preparation of salt", "Desalination of sea water", "Measurement of density", "Checking purity of gold"],
+      "correctIndex": 1,
+      "explanation": "Applying pressure higher than osmotic pressure forces solvent from concentrated to dilute side through a semi-permeable membrane.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c1_q16",
+      "text": "Maximum boiling azeotropes are formed by solutions showing:",
+      "options": ["Positive deviation", "Negative deviation", "Zero deviation", "None"],
+      "correctIndex": 1,
+      "explanation": "Negative deviation results in lower vapor pressure and thus a higher boiling point.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c1_q17",
+      "text": "A solution of NaCl in water shows:",
+      "options": ["Positive deviation", "Negative deviation", "Ideal behavior", "Elevation in BP"],
+      "correctIndex": 3,
+      "explanation": "Adding any non-volatile solute to a solvent causes elevation in boiling point.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c1_q18",
+      "text": "Mole fraction of a component in a solution is always:",
+      "options": ["Greater than 1", "Less than 1", "Equal to 1", "0"],
+      "correctIndex": 1,
+      "explanation": "The sum of mole fractions of all components is 1, so each individual fraction is < 1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c1_q19",
+      "text": "If Van't Hoff factor i = 1, it means the solute:",
+      "options": ["Dissociates", "Associates", "Neither dissociates nor associates", "Reacts with solvent"],
+      "correctIndex": 2,
+      "explanation": "Substances like glucose or urea do not ionize or aggregate in water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c1_q20",
+      "text": "At high altitudes, the boiling point of water decreases because:",
+      "options": ["Atmospheric pressure is low", "Atmospheric pressure is high", "Temperature is low", "Air is less dense"],
+      "correctIndex": 0,
+      "explanation": "Boiling occurs when vapor pressure equals atmospheric pressure. If the latter is low, BP is lower.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c1_q21",
+      "text": "The sum of mole fractions of all components in a solution is:",
+      "options": ["0", "1", "100", "Varies"],
+      "correctIndex": 1,
+      "explanation": "Fundamental property of mole fraction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c1_q22",
+      "text": "Scuba divers carry oxygen tanks diluted with helium to avoid:",
+      "options": ["Nitrogen toxicity", "Bends", "Suffocation", "None"],
+      "correctIndex": 1,
+      "explanation": "Helium is less soluble in blood, reducing the formation of nitrogen bubbles (bends) during rapid ascent.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c1_q23",
+      "text": "Cryoscopic constant is another name for:",
+      "options": ["Molal elevation constant", "Molal depression constant", "Equilibrium constant", "Gas constant"],
+      "correctIndex": 1,
+      "explanation": "Kf is the molal depression constant, related to freezing point.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c1_q24",
+      "text": "Ideal solutions obey Raoult's law:",
+      "options": ["At high concentration", "At low temperature", "Over the entire range of concentration", "Only in gaseous state"],
+      "correctIndex": 2,
+      "explanation": "This is the primary definition of an ideal solution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c1_q25",
+      "text": "Molarity is expressed as:",
+      "options": ["mol/kg", "mol/L", "g/L", "No units"],
+      "correctIndex": 1,
+      "explanation": "Number of moles of solute per liter of solution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c1_q26",
+      "text": "A plant cell shrinks when placed in a ________ solution.",
+      "options": ["Isotonic", "Hypotonic", "Hypertonic", "Dilute"],
+      "correctIndex": 2,
+      "explanation": "Water moves out of the cell towards the more concentrated exterior via osmosis (plasmolysis).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c1_q27",
+      "text": "Relative lowering of vapor pressure is equal to:",
+      "options": ["Mole fraction of solute", "Mole fraction of solvent", "Molarity", "Molality"],
+      "correctIndex": 0,
+      "explanation": "(P° - P)/P° = x_solute.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c1_q28",
+      "text": "Adding ethylene glycol to water in car radiators is done to:",
+      "options": ["Lower the BP", "Raise the FP", "Lower the FP", "Prevent boiling only"],
+      "correctIndex": 2,
+      "explanation": "It acts as an anti-freeze by lowering the freezing point of water.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c1_q29",
+      "text": "For a solution of ethanol and acetone, the deviation from Raoult's law is:",
+      "options": ["Positive", "Negative", "Zero", "Unpredictable"],
+      "correctIndex": 0,
+      "explanation": "Ethanol molecules have hydrogen bonding which is weakened by acetone, making it easier to escape into vapor.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c1_q30",
+      "text": "Semi-permeable membrane allows the passage of:",
+      "options": ["Solute particles only", "Solvent particles only", "Both", "None"],
+      "correctIndex": 1,
+      "explanation": "Its pores are sized such that only small solvent molecules can pass, blocking larger solute particles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c1_q31",
+      "text": "Molar mass calculated from colligative properties is 'abnormal' when:",
+      "options": ["Solution is dilute", "Solution is ideal", "Solute dissociates or associates", "Solvent is water"],
+      "correctIndex": 2,
+      "explanation": "The properties depend on the number of particles; if particles split or clump, the result doesn't match the formula mass.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c1_q32",
+      "text": "The solubility of solids in liquids generally ________ with increase in temperature.",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correctIndex": 0,
+      "explanation": "Most dissolution processes are endothermic, so heat favors the forward reaction.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c1_q33",
+      "text": "Parts per million (ppm) is used to express concentration when the solute is present in:",
+      "options": ["Large quantities", "Trace quantities", "Equal quantities", "Gaseous form only"],
+      "correctIndex": 1,
+      "explanation": "Used for water pollutants or atmospheric gases where concentrations are very low.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c1_q34",
+      "text": "Value of i for K2SO4 assuming 100% dissociation is:",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 2,
+      "explanation": "K2SO4 -> 2K+ + SO4(2-). Total 3 ions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c1_q35",
+      "text": "In a mixture of A and B showing negative deviation, the A-B interactions are:",
+      "options": ["Stronger than A-A and B-B", "Weaker than A-A and B-B", "Equal to A-A", "Non-existent"],
+      "correctIndex": 0,
+      "explanation": "Stronger attractive forces keep molecules in the liquid phase, reducing vapor pressure.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c1_q36",
+      "text": "Osmotic pressure is better for determining molar mass of polymers because:",
+      "options": ["It is measured at room temperature", "Molarities are used", "Changes in BP/FP are too small to measure", "Both A and C"],
+      "correctIndex": 3,
+      "explanation": "Polymers have high molar masses, making their molal concentration very low, leading to negligible BP/FP changes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c1_q37",
+      "text": "Which condition satisfies a spontaneous osmosis process?",
+      "options": ["ΔG < 0", "ΔS_total > 0", "Both A and B", "None"],
+      "correctIndex": 2,
+      "explanation": "Osmosis is a spontaneous physical process driven by entropy and free energy reduction.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_c1_q38",
+      "text": "Solubility of a gas in a liquid decreases with:",
+      "options": ["Increase in pressure", "Decrease in temperature", "Increase in temperature", "Presence of helium"],
+      "correctIndex": 2,
+      "explanation": "Dissolving gas is exothermic; increasing temperature shifts the equilibrium back to gas phase.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c1_q39",
+      "text": "The molality of pure water is:",
+      "options": ["55.5 m", "18 m", "1 m", "100 m"],
+      "correctIndex": 0,
+      "explanation": "1000g / 18g/mol = 55.55 moles per kg.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c1_q40",
+      "text": "An example of a solution showing negative deviation is:",
+      "options": ["Ethanol + Acetone", "Phenol + Aniline", "Benzene + Toluene", "Carbon disulfide + Acetone"],
+      "correctIndex": 1,
+      "explanation": "Phenol and aniline form strong intermolecular hydrogen bonds, reducing vapor pressure.",
+      "frequencyRating": 4
+    }
+  ]
+}

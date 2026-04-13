@@ -1,0 +1,250 @@
+{
+  "id": "g12_math_ch5",
+  "grade": "12",
+  "subject": "Mathematics",
+  "number": "5",
+  "title": "Continuity and Differentiability",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_m5_q1",
+      "text": "A function f is continuous at x = c if:",
+      "options": ["lim x->c f(x) exists", "f(c) is defined", "lim x->c f(x) = f(c)", "f'(c) exists"],
+      "correctIndex": 2,
+      "explanation": "The mathematical definition of continuity at a point requires the limit to exist and equal the function value at that point.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m5_q2",
+      "text": "Every polynomial function is:",
+      "options": ["Continuous everywhere", "Differentiable everywhere", "Both A and B", "Neither A nor B"],
+      "correctIndex": 2,
+      "explanation": "Polynomials are smooth curves defined for all real numbers, making them both continuous and differentiable on R.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m5_q3",
+      "text": "If a function is differentiable at a point, it is necessarily ________ at that point.",
+      "options": ["Zero", "Continuous", "Discontinuous", "Constant"],
+      "correctIndex": 1,
+      "explanation": "Differentiability is a stronger condition than continuity; if f'(c) exists, f is continuous at c.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m5_q4",
+      "text": "The derivative of sin(x^2) with respect to x is:",
+      "options": ["cos(x^2)", "2x cos(x^2)", "2 sin x cos x", "cos(2x)"],
+      "correctIndex": 1,
+      "explanation": "Using the Chain Rule: d/dx[sin(u)] = cos(u) * du/dx, where u = x^2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m5_q5",
+      "text": "The derivative of e^x with respect to x is:",
+      "options": ["xe^(x-1)", "e^x", "log x", "1/x"],
+      "correctIndex": 1,
+      "explanation": "The exponential function e^x is unique because it is its own derivative.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m5_q6",
+      "text": "The derivative of log(x) (base e) is:",
+      "options": ["e^x", "1/x", "x", "1"],
+      "correctIndex": 1,
+      "explanation": "d/dx (ln x) = 1/x for x > 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m5_q7",
+      "text": "If y = tan⁻¹x, then dy/dx is:",
+      "options": ["1 / (1 + x²)", "1 / (1 - x²)", "1 / √(1 - x²)", "sec²x"],
+      "correctIndex": 0,
+      "explanation": "This is the standard formula for the derivative of the inverse tangent function.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m5_q8",
+      "text": "What is the derivative of |x| at x = 0?",
+      "options": ["1", "-1", "0", "Does not exist"],
+      "correctIndex": 3,
+      "explanation": "The left-hand derivative is -1 and the right-hand derivative is 1; since they aren't equal, the derivative doesn't exist at the origin.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m5_q9",
+      "text": "Logarithmic differentiation is useful when the function is of the form:",
+      "options": ["[f(x)]^[g(x)]", "f(x) * g(x) * h(x)", "Both A and B", "None of these"],
+      "correctIndex": 2,
+      "explanation": "Taking logs simplifies products into sums and variable exponents into products, making them easier to differentiate.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m5_q10",
+      "text": "The second order derivative of sin x is:",
+      "options": ["cos x", "-sin x", "-cos x", "sin x"],
+      "correctIndex": 1,
+      "explanation": "First derivative is cos x. Differentiating again gives -sin x.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m5_q11",
+      "text": "If x = a cos θ and y = a sin θ, then dy/dx is:",
+      "options": ["tan θ", "-cot θ", "-tan θ", "cot θ"],
+      "correctIndex": 1,
+      "explanation": "dy/dx = (dy/dθ) / (dx/dθ) = (a cos θ) / (-a sin θ) = -cot θ.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m5_q12",
+      "text": "Which function is continuous but not differentiable at x = 2?",
+      "options": ["x²", "|x - 2|", "sin x", "e^x"],
+      "correctIndex": 1,
+      "explanation": "Absolute value functions have a 'sharp corner' at their root, where the slope changes abruptly.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m5_q13",
+      "text": "The derivative of a constant function is:",
+      "options": ["1", "x", "0", "Constant"],
+      "correctIndex": 2,
+      "explanation": "A constant function does not change, so its rate of change (derivative) is zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m5_q14",
+      "text": "If y = e^(sin x), then dy/dx is:",
+      "options": ["e^(sin x)", "cos x * e^(sin x)", "sin x * e^(cos x)", "cos x"],
+      "correctIndex": 1,
+      "explanation": "By chain rule: d/dx(e^u) = e^u * du/dx, where u = sin x.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m5_q15",
+      "text": "The composite of two continuous functions is:",
+      "options": ["Always continuous", "Always discontinuous", "Continuous only at x=0", "Differentiable"],
+      "correctIndex": 0,
+      "explanation": "A fundamental theorem states that if f is continuous at g(c) and g is continuous at c, then f(g(x)) is continuous at c.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m5_q16",
+      "text": "The derivative of log₇x with respect to x is:",
+      "options": ["1/x", "1 / (x ln 7)", "ln 7 / x", "7/x"],
+      "correctIndex": 1,
+      "explanation": "Using change of base: log₇x = (ln x) / (ln 7). Differentiating gives 1 / (x ln 7).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m5_q17",
+      "text": "If f(x) = sin⁻¹(2x / (1 + x²)), it is a transformation of:",
+      "options": ["tan⁻¹x", "2 tan⁻¹x", "sin⁻¹x", "cos⁻¹x"],
+      "correctIndex": 1,
+      "explanation": "Using substitution x = tan θ, the expression becomes sin(2θ). Thus f(x) = 2θ = 2 tan⁻¹x.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m5_q18",
+      "text": "The function f(x) = [x] (Greatest Integer Function) is discontinuous at:",
+      "options": ["x = 0.5", "Every integer", "Only x = 0", "No point"],
+      "correctIndex": 1,
+      "explanation": "At any integer n, the left limit is n-1 and the right limit is n, causing a jump discontinuity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m5_q19",
+      "text": "Derivative of cos⁻¹x with respect to x is:",
+      "options": ["1 / √(1 - x²)", "-1 / √(1 - x²)", "1 / (1 + x²)", "-1 / (1 + x²)"],
+      "correctIndex": 1,
+      "explanation": "Standard derivative formula for inverse cosine.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m5_q20",
+      "text": "The derivative of a^x with respect to x is:",
+      "options": ["a^x", "a^x * log a", "x a^(x-1)", "log a"],
+      "correctIndex": 1,
+      "explanation": "Standard formula for differentiation of general exponential functions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m5_q21",
+      "text": "Which rule is used to differentiate the product of two functions?",
+      "options": ["Chain Rule", "Leibniz Rule (Product Rule)", "Quotient Rule", "Power Rule"],
+      "correctIndex": 1,
+      "explanation": "(uv)' = u'v + uv'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m5_q22",
+      "text": "If f(x) = x^x, then f'(x) is:",
+      "options": ["x * x^(x-1)", "x^x (1 + log x)", "x^x log x", "1 + log x"],
+      "correctIndex": 1,
+      "explanation": "Using logarithmic differentiation: ln y = x ln x. Differentiating: y'/y = 1 + ln x. So y' = x^x(1 + ln x).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m5_q23",
+      "text": "The derivative of sec x is:",
+      "options": ["sec²x", "sec x tan x", "tan²x", "-sec x tan x"],
+      "correctIndex": 1,
+      "explanation": "Standard trigonometric derivative.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m5_q24",
+      "text": "A function is continuous in a closed interval [a, b] if it is:",
+      "options": ["Continuous in (a, b)", "Right continuous at a", "Left continuous at b", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "This is the formal requirement for continuity over a closed interval.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m5_q25",
+      "text": "If f(x) = sin(cos x), then f'(x) is:",
+      "options": ["cos(cos x)", "-sin x cos(cos x)", "sin x sin(cos x)", "-cos x sin(cos x)"],
+      "correctIndex": 1,
+      "explanation": "Chain rule: d/dx[sin(u)] = cos(u) * u', where u = cos x and u' = -sin x.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m5_q26",
+      "text": "The value of dy/dx for x² + y² = r² is:",
+      "options": ["x/y", "-x/y", "y/x", "-y/x"],
+      "correctIndex": 1,
+      "explanation": "Implicit differentiation: 2x + 2y(dy/dx) = 0. Solving gives dy/dx = -x/y.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m5_q27",
+      "text": "The derivative of tan x is:",
+      "options": ["sec x", "sec²x", "tan²x", "1 + tan²x"],
+      "correctIndex": 1,
+      "explanation": "Standard trigonometric derivative.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m5_q28",
+      "text": "What is the derivative of e^(-x)?",
+      "options": ["e^(-x)", "-e^(-x)", "e^x", "1/e^x"],
+      "correctIndex": 1,
+      "explanation": "Chain rule with u = -x, where du/dx = -1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m5_q29",
+      "text": "The derivative of √(x) is:",
+      "options": ["1 / (2√x)", "2√x", "1/√x", "x / 2"],
+      "correctIndex": 0,
+      "explanation": "Using power rule for x^(1/2): (1/2)x^(-1/2).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m5_q30",
+      "text": "If f(x) = k (constant), then f''(x) is:",
+      "options": ["k", "1", "0", "Undefined"],
+      "correctIndex": 2,
+      "explanation": "Since the first derivative is already 0, the second derivative is also 0.",
+      "frequencyRating": 5
+    }
+  ]
+}

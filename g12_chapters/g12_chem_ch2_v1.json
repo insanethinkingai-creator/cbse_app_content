@@ -1,0 +1,330 @@
+{
+  "id": "g12_chem_ch2",
+  "grade": "12",
+  "subject": "Chemistry",
+  "number": "2",
+  "title": "Electrochemistry",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_c2_q1",
+      "text": "A device that converts chemical energy of a spontaneous redox reaction into electrical energy is:",
+      "options": ["Electrolytic cell", "Galvanic cell", "Fuel cell", "Dry cell"],
+      "correctIndex": 1,
+      "explanation": "Also known as a Voltaic cell (e.g., Daniel cell).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c2_q2",
+      "text": "In a Galvanic cell, oxidation takes place at the ________ which is ________ charged.",
+      "options": ["Anode, positively", "Anode, negatively", "Cathode, positively", "Cathode, negatively"],
+      "correctIndex": 1,
+      "explanation": "Anode is where electrons are released (oxidation), making it the negative terminal in a Galvanic cell.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c2_q3",
+      "text": "The electrode potential when all species involved are at unit concentration is called:",
+      "options": ["Cell potential", "Standard electrode potential", "EMF", "Reduction potential"],
+      "correctIndex": 1,
+      "explanation": "Denoted by E°, measured at 298K and 1 bar pressure.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c2_q4",
+      "text": "Standard Hydrogen Electrode (SHE) is assigned a potential of:",
+      "options": ["1.0 V", "0.5 V", "0.0 V", "-1.0 V"],
+      "correctIndex": 2,
+      "explanation": "It is used as a reference electrode to measure the potential of other electrodes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c2_q5",
+      "text": "The Nernst equation relates cell potential to:",
+      "options": ["Temperature", "Concentration of ions", "Pressure", "All of these"],
+      "correctIndex": 3,
+      "explanation": "E = E° - (RT/nF) ln Q. It accounts for non-standard conditions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c2_q6",
+      "text": "The relationship between Gibbs free energy change (ΔG) and cell potential (E) is:",
+      "options": ["ΔG = -nFE", "ΔG = nFE", "ΔG = -RT ln E", "ΔG = E / nF"],
+      "correctIndex": 0,
+      "explanation": "The maximum work done by the cell equals the decrease in Gibbs free energy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c2_q7",
+      "text": "Resistance (R) of a conductor is given by:",
+      "options": ["ρ (L/A)", "ρ (A/L)", "G (L/A)", "1/G"],
+      "correctIndex": 0,
+      "explanation": "Resistance is proportional to length and inversely proportional to area of cross-section.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c2_q8",
+      "text": "The SI unit of conductivity (κ) is:",
+      "options": ["Ω m", "S m⁻¹", "Ω⁻¹", "S m² mol⁻¹"],
+      "correctIndex": 1,
+      "explanation": "Conductivity is the inverse of resistivity (ρ). SI unit is Siemens per meter.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c2_q9",
+      "text": "Molar conductivity (Λm) is defined as:",
+      "options": ["κ / c", "κ * c", "c / κ", "1 / (κc)"],
+      "correctIndex": 0,
+      "explanation": "It is the conducting power of all the ions produced by dissolving one mole of electrolyte.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c2_q10",
+      "text": "With dilution, the conductivity (κ) of an electrolyte:",
+      "options": ["Increases", "Decreases", "Remains same", "First increases then decreases"],
+      "correctIndex": 1,
+      "explanation": "Number of ions per unit volume decreases upon dilution, leading to a decrease in conductivity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c2_q11",
+      "text": "With dilution, the molar conductivity (Λm) of an electrolyte:",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correctIndex": 0,
+      "explanation": "Although κ decreases, the volume containing one mole of electrolyte increases more significantly.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c2_q12",
+      "text": "Kohlrausch's law of independent migration of ions states that limiting molar conductivity of an electrolyte is the sum of:",
+      "options": ["Atomic masses", "Individual molar conductivities of ions", "Standard potentials", "None"],
+      "correctIndex": 1,
+      "explanation": "Λ°m = ν+λ°+ + ν-λ°-. Each ion makes a definite contribution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c2_q13",
+      "text": "Faraday's first law of electrolysis relates the mass (m) of substance deposited to:",
+      "options": ["Current", "Time", "Quantity of electricity (Q)", "Volume"],
+      "correctIndex": 2,
+      "explanation": "m = zQ = zIt.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c2_q14",
+      "text": "The quantity of electricity required to deposit one mole of a univalent ion is:",
+      "options": ["1 Faraday", "96487 C", "Both A and B", "1 Coulomb"],
+      "correctIndex": 2,
+      "explanation": "1 Faraday is the charge on 1 mole of electrons.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c2_q15",
+      "text": "A primary battery is one in which the reaction:",
+      "options": ["Is reversible", "Occurs only once (irreversible)", "Is continuous", "None"],
+      "correctIndex": 1,
+      "explanation": "Examples: Dry cell, Mercury cell. They cannot be recharged.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c2_q16",
+      "text": "Lead storage battery is an example of:",
+      "options": ["Primary battery", "Secondary battery", "Fuel cell", "Corrosion"],
+      "correctIndex": 1,
+      "explanation": "Secondary batteries can be recharged by passing current in the opposite direction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c2_q17",
+      "text": "During discharging of a lead storage battery, the electrolyte H2SO4 is:",
+      "options": ["Consumed", "Produced", "Constant", "Evaporated"],
+      "correctIndex": 0,
+      "explanation": "The concentration of sulfuric acid decreases during discharge.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c2_q18",
+      "text": "Galvanic cells that convert energy of combustion of fuels (like H2, CH4) directly into electrical energy are:",
+      "options": ["Dry cells", "Secondary batteries", "Fuel cells", "Leclanche cells"],
+      "correctIndex": 2,
+      "explanation": "H2-O2 fuel cell was used in the Apollo space program.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c2_q19",
+      "text": "Corrosion is essentially an ________ phenomenon.",
+      "options": ["Electrochemical", "Physical", "Biological", "Nuclear"],
+      "correctIndex": 0,
+      "explanation": "In rusting, iron acts as anode and the surface area with oxygen/moisture acts as cathode.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c2_q20",
+      "text": "Which method is used to prevent corrosion by coating iron with a more reactive metal like Zinc?",
+      "options": ["Alloying", "Painting", "Galvanization", "Greasing"],
+      "correctIndex": 2,
+      "explanation": "Zinc acts as a sacrificial anode.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c2_q21",
+      "text": "The value of 1 Faraday is approximately:",
+      "options": ["96500 C", "6.023 x 10^23 C", "1.6 x 10^-19 C", "3 x 10^8 C"],
+      "correctIndex": 0,
+      "explanation": "It's the product of Avogadro's number and the charge of an electron.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c2_q22",
+      "text": "Strong electrolytes like KCl show Λm value that ________ with concentration linearly.",
+      "options": ["Increases", "Decreases", "Remains constant", "Changes randomly"],
+      "correctIndex": 1,
+      "explanation": "Follows the Debye-Huckel-Onsager equation: Λm = Λ°m - A√c.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c2_q23",
+      "text": "Weak electrolytes show a ________ increase in Λm on dilution.",
+      "options": ["Linear", "Slight", "Steep", "No"],
+      "correctIndex": 2,
+      "explanation": "Due to increased degree of dissociation (α) at lower concentrations.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c2_q24",
+      "text": "Salt bridge is used to:",
+      "options": ["Complete the circuit", "Maintain electrical neutrality", "Prevent mixing of electrolytes", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "It contains inert electrolytes like KCl or KNO3 in agar-agar.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c2_q25",
+      "text": "If E°cell > 0, the reaction is:",
+      "options": ["Spontaneous", "Non-spontaneous", "At equilibrium", "Impossible"],
+      "correctIndex": 0,
+      "explanation": "A positive cell potential corresponds to a negative Gibbs free energy (ΔG = -nFE°).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c2_q26",
+      "text": "In a Daniel cell, the reaction is: Zn + Cu²+ -> Zn²+ + Cu. The anode is:",
+      "options": ["Zn", "Cu", "Zn²+", "Cu²+" ],
+      "correctIndex": 0,
+      "explanation": "Zinc is oxidized to Zn²+.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c2_q27",
+      "text": "Molar conductivity of a solution is 1.26 x 10⁻² S m² mol⁻¹. Its units in S cm² mol⁻¹ is:",
+      "options": ["126", "1.26", "0.0126", "1260"],
+      "correctIndex": 0,
+      "explanation": "Multiply by 10⁴.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_c2_q28",
+      "text": "Which of the following is the best oxidizing agent?",
+      "options": ["Li", "F2", "H2", "Au"],
+      "correctIndex": 1,
+      "explanation": "Fluorine has the highest standard reduction potential.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c2_q29",
+      "text": "Rust is chemically:",
+      "options": ["FeO", "Fe2O3", "Fe3O4", "Fe2O3 . xH2O"],
+      "correctIndex": 3,
+      "explanation": "It is hydrated ferric oxide.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c2_q30",
+      "text": "In dry cells, the electrolyte is a moist paste of:",
+      "options": ["KOH", "NH4Cl and ZnCl2", "H2SO4", "NaOH"],
+      "correctIndex": 1,
+      "explanation": "Also contains MnO2 and carbon powder.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c2_q31",
+      "text": "Mercury cell is used in low current devices like hearing aids because:",
+      "options": ["It is cheap", "Cell potential remains constant", "It is very large", "It uses water"],
+      "correctIndex": 1,
+      "explanation": "The overall reaction does not involve any ion in solution whose concentration can change.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c2_q32",
+      "text": "Specific conductance (κ) ________ with increase in concentration.",
+      "options": ["Increases", "Decreases", "No effect", "Remains constant"],
+      "correctIndex": 0,
+      "explanation": "Conductivity depends on number of ions per unit volume, which increases with concentration.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c2_q33",
+      "text": "Relation between Λ°m and degree of dissociation α is:",
+      "options": ["α = Λm / Λ°m", "α = Λ°m / Λm", "α = Λm * Λ°m", "α = 1 / Λm"],
+      "correctIndex": 0,
+      "explanation": "Used to find dissociation constant of weak acids.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c2_q34",
+      "text": "The cell constant (G*) is given by:",
+      "options": ["L/A", "A/L", "RA", "ρ/L"],
+      "correctIndex": 0,
+      "explanation": "Units are m⁻¹ or cm⁻¹.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c2_q35",
+      "text": "Cell potential E°cell is equal to:",
+      "options": ["E°cathode - E°anode", "E°anode - E°cathode", "E°cathode + E°anode", "None"],
+      "correctIndex": 0,
+      "explanation": "Always Right electrode potential minus Left electrode potential.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c2_q36",
+      "text": "For a hydrogen-oxygen fuel cell, the efficiency is about:",
+      "options": ["40%", "70%", "100%", "10%"],
+      "correctIndex": 1,
+      "explanation": "Compared to 40% for thermal plants.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c2_q37",
+      "text": "The amount of substance deposited by 1 Coulomb of electricity is its:",
+      "options": ["Equivalent weight", "Electrochemical equivalent", "Molecular weight", "Atomic mass"],
+      "correctIndex": 1,
+      "explanation": "Denoted by 'z' in Faraday's equations.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c2_q38",
+      "text": "Standard reduction potential of Li is the ________ in the series.",
+      "options": ["Highest", "Lowest", "Zero", "Positive"],
+      "correctIndex": 1,
+      "explanation": "Meaning Lithium is the strongest reducing agent.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c2_q39",
+      "text": "In electrolysis of acidified water, oxygen is evolved at:",
+      "options": ["Anode", "Cathode", "Both", "None"],
+      "correctIndex": 0,
+      "explanation": "2H2O -> O2 + 4H+ + 4e-.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c2_q40",
+      "text": "Conductance G is the reciprocal of:",
+      "options": ["Resistivity", "Resistance", "Conductivity", "Current"],
+      "correctIndex": 1,
+      "explanation": "Unit is Ω⁻¹ or S.",
+      "frequencyRating": 5
+    }
+  ]
+}

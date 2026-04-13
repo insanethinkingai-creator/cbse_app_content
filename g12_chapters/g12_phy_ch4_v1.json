@@ -1,0 +1,250 @@
+{
+  "id": "g12_phy_ch4",
+  "grade": "12",
+  "subject": "Physics",
+  "number": "4",
+  "title": "Moving Charges and Magnetism",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_p4_q1",
+      "text": "The source of a magnetic field is:",
+      "options": ["Static charge", "Moving charge", "Only permanent magnets", "None"],
+      "correctIndex": 1,
+      "explanation": "Oersted discovered that an electric current (moving charges) produces a magnetic field around it.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p4_q2",
+      "text": "The SI unit of magnetic field (B) is:",
+      "options": ["Weber", "Tesla", "Gauss", "Ampere-meter"],
+      "correctIndex": 1,
+      "explanation": "1 Tesla = 1 Newton / (Ampere * meter).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p4_q3",
+      "text": "Magnetic force on a charge 'q' moving with velocity 'v' in magnetic field 'B' is given by:",
+      "options": ["F = q(v . B)", "F = q(v x B)", "F = v(q x B)", "F = q v B²"],
+      "correctIndex": 1,
+      "explanation": "Lorentz force: F = qvB sin θ. The direction is perpendicular to both v and B.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p4_q4",
+      "text": "If a charged particle enters a magnetic field perpendicularly, its path will be:",
+      "options": ["Straight line", "Parabola", "Circular", "Helical"],
+      "correctIndex": 2,
+      "explanation": "The magnetic force acts as a centripetal force, keeping the speed constant but changing direction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p4_q5",
+      "text": "A charged particle moves through a magnetic field. Which of the following is NOT changed?",
+      "options": ["Velocity", "Momentum", "Kinetic Energy", "Direction of motion"],
+      "correctIndex": 2,
+      "explanation": "Since the force is always perpendicular to velocity, the work done is zero, so KE remains constant.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p4_q6",
+      "text": "The magnetic field due to a long straight current-carrying wire at distance 'r' varies as:",
+      "options": ["r", "1/r", "r²", "1/r²"],
+      "correctIndex": 1,
+      "explanation": "B = (μ₀ I) / (2π r).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p4_q7",
+      "text": "Biot-Savart law is the magnetic analog of:",
+      "options": ["Ohm's law", "Coulomb's law", "Faraday's law", "Gauss's law"],
+      "correctIndex": 1,
+      "explanation": "Both describe fields (electric and magnetic) produced by their respective sources (charge and current element).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p4_q8",
+      "text": "The magnetic field at the center of a circular current loop of radius 'R' is:",
+      "options": ["μ₀I / 2R", "μ₀I / R", "μ₀I / 4πR", "μ₀I R / 2"],
+      "correctIndex": 0,
+      "explanation": "Derived using Biot-Savart law; the field is perpendicular to the plane of the loop.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p4_q9",
+      "text": "Ampere's Circuital Law states that the line integral of B around a closed path is:",
+      "options": ["μ₀ / I", "μ₀ I", "I / μ₀", "Zero"],
+      "correctIndex": 1,
+      "explanation": "∮ B . dl = μ₀ I_enclosed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p4_q10",
+      "text": "The magnetic field inside a long ideal solenoid is:",
+      "options": ["Zero", "μ₀ n I", "μ₀ I / 2πr", "μ₀ n I / 2"],
+      "correctIndex": 1,
+      "explanation": "The field is uniform and parallel to the axis of the solenoid.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p4_q11",
+      "text": "The magnetic field at a point on the axis of a solenoid at one end is:",
+      "options": ["μ₀ n I", "1/2 μ₀ n I", "Zero", "2 μ₀ n I"],
+      "correctIndex": 1,
+      "explanation": "The field at the ends is half the field at the center.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p4_q12",
+      "text": "Force between two parallel wires carrying currents in the same direction is:",
+      "options": ["Repulsive", "Attractive", "Zero", "Perpendicular"],
+      "correctIndex": 1,
+      "explanation": "Parallel currents attract; anti-parallel currents repel.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p4_q13",
+      "text": "The definition of one Ampere is based on:",
+      "options": ["Heating effect", "Chemical effect", "Force between parallel currents", "Ohm's law"],
+      "correctIndex": 2,
+      "explanation": "One Ampere produces 2 x 10^-7 N/m force between two wires 1m apart in vacuum.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p4_q14",
+      "text": "Torque 'τ' on a current loop of area 'A' in magnetic field 'B' is:",
+      "options": ["m . B", "m x B", "m / B", "Zero"],
+      "correctIndex": 1,
+      "explanation": "τ = mB sin θ, where m = NIA is the magnetic dipole moment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p4_q15",
+      "text": "A moving coil galvanometer can be converted into an ammeter by connecting a ________ in ________.",
+      "options": ["High resistance, parallel", "Low resistance, parallel", "High resistance, series", "Low resistance, series"],
+      "correctIndex": 1,
+      "explanation": "A low resistance (shunt) allows most of the current to bypass the galvanometer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p4_q16",
+      "text": "A moving coil galvanometer can be converted into a voltmeter by connecting a ________ in ________.",
+      "options": ["High resistance, series", "Low resistance, series", "High resistance, parallel", "Low resistance, parallel"],
+      "correctIndex": 0,
+      "explanation": "A high resistance in series limits current and drops the required voltage.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p4_q17",
+      "text": "The magnetic dipole moment of a current loop is a ________ quantity directed ________ to the plane.",
+      "options": ["Scalar, parallel", "Vector, perpendicular", "Vector, parallel", "Scalar, perpendicular"],
+      "correctIndex": 1,
+      "explanation": "Its direction is given by the Right-Hand Thumb rule.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p4_q18",
+      "text": "Work done by a magnetic field on a moving charge is:",
+      "options": ["Positive", "Negative", "Zero", "Depends on velocity"],
+      "correctIndex": 2,
+      "explanation": "Force is always perpendicular to displacement (v dt).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p4_q19",
+      "text": "In a helical path of a charge, the pitch depends on:",
+      "options": ["v cos θ", "v sin θ", "B only", "Charge only"],
+      "correctIndex": 0,
+      "explanation": "Pitch is the distance moved along the field direction during one revolution.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p4_q20",
+      "text": "The magnetic field produced by a toroid is ________ in the empty space inside and outside the toroid.",
+      "options": ["Uniform", "Zero", "Infinite", "Variable"],
+      "correctIndex": 1,
+      "explanation": "The field is confined only within the core of the toroid.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p4_q21",
+      "text": "Lorentz force is the sum of ________ and ________ forces.",
+      "options": ["Gravitational, Electric", "Electric, Magnetic", "Strong, Weak", "Nuclear, Electric"],
+      "correctIndex": 1,
+      "explanation": "F = q(E + v x B).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p4_q22",
+      "text": "Current sensitivity of a galvanometer is defined as:",
+      "options": ["θ / I", "I / θ", "θ / V", "V / θ"],
+      "correctIndex": 0,
+      "explanation": "Deflection per unit current (NBA / k).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p4_q23",
+      "text": "Voltage sensitivity of a galvanometer is defined as:",
+      "options": ["θ / V", "V / θ", "θ / I", "I / θ"],
+      "correctIndex": 0,
+      "explanation": "Deflection per unit voltage applied (NBA / kR).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p4_q24",
+      "text": "If the current in a circular loop is doubled and radius is halved, the magnetic field at the center becomes:",
+      "options": ["Same", "Double", "4 times", "1/4 times"],
+      "correctIndex": 2,
+      "explanation": "B ∝ I/R. (2I) / (R/2) = 4 * (I/R).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p4_q25",
+      "text": "Which rule is used to find the direction of magnetic field due to a straight current?",
+      "options": ["Fleming's Left Hand", "Fleming's Right Hand", "Right Hand Thumb Rule", "Lenz's Law"],
+      "correctIndex": 2,
+      "explanation": "Thumb points along current, fingers curl along the magnetic field.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p4_q26",
+      "text": "Which rule is used to find the direction of force on a moving charge?",
+      "options": ["Right Hand Thumb", "Fleming's Left Hand", "Fleming's Right Hand", "Clock Rule"],
+      "correctIndex": 1,
+      "explanation": "Thumb (Force), Forefinger (Field), Center finger (Current/v).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p4_q27",
+      "text": "The permeability of free space μ₀ has the value:",
+      "options": ["4π x 10^-7 T m/A", "4π x 10^7 T m/A", "8.85 x 10^-12", "1 / 4πε₀"],
+      "correctIndex": 0,
+      "explanation": "Standard physical constant for magnetism in vacuum.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p4_q28",
+      "text": "A galvanometer can be made into a voltmeter of range V. To double the range, the series resistance must be:",
+      "options": ["Doubled", "Halved", "Increased", "Decreased"],
+      "correctIndex": 2,
+      "explanation": "Higher V requires higher total R since V = I_g * (G + R).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p4_q29",
+      "text": "Force on a current-carrying wire of length 'L' in field 'B' is:",
+      "options": ["ILB cos θ", "ILB sin θ", "I²LB", "B / IL"],
+      "correctIndex": 1,
+      "explanation": "Vector form: F = I (L x B).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p4_q30",
+      "text": "Cyclotron is a device used to accelerate ________ particles.",
+      "options": ["Electrons", "Neutrons", "Heavy charged particles (Protons, Alpha)", "Photons"],
+      "correctIndex": 2,
+      "explanation": "Note: Electrons are not accelerated in cyclotrons because their mass increases relativistically too quickly.",
+      "frequencyRating": 3
+    }
+  ]
+}

@@ -8,43 +8,323 @@
   "questions": [
     {
       "id": "g10_c2_q1",
-      "text": "Subjects like Defense, Foreign Affairs, and Banking are part of the:",
-      "options": ["State List", "Union List", "Concurrent List", "Residuary List"],
+      "text": "Federalism is a system of government in which power is divided between a central authority and:",
+      "options": ["The Judiciary", "Various constituent units of the country", "The Military", "International organizations"],
       "correctIndex": 1,
-      "explanation": "The Union List includes subjects of national importance which require a uniform policy across the country.",
+      "explanation": "Usually, a federation has two levels of government: one for the entire country and others at the level of provinces or states.",
       "frequencyRating": 5
     },
     {
       "id": "g10_c2_q2",
-      "text": "Which level of government has the power to legislate on 'Residuary' subjects?",
-      "options": ["Union Government", "State Government", "Local Government", "Both Union and State"],
-      "correctIndex": 0,
-      "explanation": "According to the Indian Constitution, the Union Government has the power to legislate on subjects not mentioned in any of the three lists.",
+      "text": "In a unitary system of government:",
+      "options": ["Power is divided between levels", "There is only one level of government or sub-units are subordinate to the central government", "States are sovereign", "Courts have no power"],
+      "correctIndex": 1,
+      "explanation": "The central government can pass on orders to the provincial or local governments in a unitary system.",
       "frequencyRating": 5
     },
     {
       "id": "g10_c2_q3",
-      "text": "What was the main purpose of the constitutional amendment in 1992?",
-      "options": ["To strengthen the central government", "To make the three-tier democracy more powerful and effective", "To abolish the state list", "To change the official language"],
-      "correctIndex": 1,
-      "explanation": "The 1992 amendment decentralized power to local government bodies (Panchayats and Municipalities).",
+      "text": "Which of the following is NOT a key feature of federalism?",
+      "options": ["Two or more levels of government", "Different tiers govern the same citizens", "The center can change the constitution unilaterally", "Sources of revenue are clearly specified"],
+      "correctIndex": 2,
+      "explanation": "Fundamental provisions of the constitution cannot be unilaterally changed by one level of government in a federation.",
       "frequencyRating": 5
     },
     {
       "id": "g10_c2_q4",
-      "text": "A system of government in which power is divided between a central authority and various constituent units is called:",
-      "options": ["Dictatorship", "Unitary system", "Federalism", "Monarchy"],
-      "correctIndex": 2,
-      "explanation": "Federalism involves at least two levels of government, each with its own jurisdiction.",
+      "text": "Which type of federation involves independent states coming together on their own to form a bigger unit?",
+      "options": ["Holding together federation", "Coming together federation", "Unitary federation", "Regional federation"],
+      "correctIndex": 1,
+      "explanation": "Examples include the USA, Switzerland and Australia.",
       "frequencyRating": 5
     },
     {
       "id": "g10_c2_q5",
-      "text": "Which of the following is an example of 'Coming Together' federation?",
-      "options": ["India", "USA", "Spain", "Belgium"],
+      "text": "India, Spain and Belgium are examples of which type of federation?",
+      "options": ["Coming together federation", "Holding together federation", "Unitary system", "Decentralized system"],
       "correctIndex": 1,
-      "explanation": "In 'Coming Together' federations like the USA, Switzerland, and Australia, independent states come together on their own to form a bigger unit.",
+      "explanation": "In this system, a large country decides to divide its power between the constituent states and the national government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q6",
+      "text": "Which list includes subjects of national importance such as defense, foreign affairs, banking, and currency?",
+      "options": ["State List", "Union List", "Concurrent List", "Residuary List"],
+      "correctIndex": 1,
+      "explanation": "Only the Union Government can make laws on the subjects mentioned in the Union List.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q7",
+      "text": "Which list contains subjects of common interest to both the Union and State Governments, such as education, forest, trade unions, marriage, and adoption?",
+      "options": ["Union List", "State List", "Concurrent List", "Residuary List"],
+      "correctIndex": 2,
+      "explanation": "Both governments can make laws, but if their laws conflict, the law made by the Union Government prevails.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q8",
+      "text": "Subjects like computer software that came up after the constitution was made are called:",
+      "options": ["Union subjects", "Concurrent subjects", "Residuary subjects", "State subjects"],
+      "correctIndex": 2,
+      "explanation": "According to our constitution, the Union Government has the power to legislate on these 'residuary' subjects.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q9",
+      "text": "Which of the following Indian states had its own constitution until 2019 (under Article 370)?",
+      "options": ["Nagaland", "Assam", "Jammu and Kashmir", "Mizoram"],
+      "correctIndex": 2,
+      "explanation": "Article 370 gave special status to J&K, which was revoked in August 2019.",
       "frequencyRating": 4
+    },
+    {
+      "id": "g10_c2_q10",
+      "text": "Areas which are too small to become an independent state but which could not be merged with any of the existing states are called:",
+      "options": ["Villages", "Townships", "Union Territories", "Districts"],
+      "correctIndex": 2,
+      "explanation": "Examples include Chandigarh, Lakshadweep and the capital city of Delhi.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q11",
+      "text": "The creation of ________ was the first and a major test for democratic politics in India.",
+      "options": ["Language policy", "Linguistic States", "Panchayats", "Coalition governments"],
+      "correctIndex": 1,
+      "explanation": "After 1947, boundaries of several old states were changed to create new states to ensure people who spoke the same language lived in the same state.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q12",
+      "text": "How many languages are recognized as Scheduled Languages by the Indian Constitution?",
+      "options": ["15", "18", "22", "25"],
+      "correctIndex": 2,
+      "explanation": "These languages are listed in the Eighth Schedule of the Constitution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q13",
+      "text": "According to the Constitution, the use of English for official purposes was to stop in:",
+      "options": ["1950", "1965", "1975", "1990"],
+      "correctIndex": 1,
+      "explanation": "However, many non-Hindi speaking states demanded that the use of English continue.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c2_q14",
+      "text": "When no single party gets a clear majority in the Lok Sabha, the major national parties form an alliance with many regional parties to form a:",
+      "options": ["Unitary government", "Coalition government", "State government", "Dictatorship"],
+      "correctIndex": 1,
+      "explanation": "This led to a new culture of power sharing and respect for the autonomy of State Governments.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q15",
+      "text": "When power is taken away from Central and State governments and given to local government, it is called:",
+      "options": ["Centralization", "Decentralization", "Democratization", "Federalization"],
+      "correctIndex": 1,
+      "explanation": "The basic idea is that there are many problems which are best settled at the local level.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q16",
+      "text": "A major step towards decentralization was taken in ________ by amending the constitution.",
+      "options": ["1952", "1972", "1992", "2002"],
+      "correctIndex": 2,
+      "explanation": "The 73rd and 74th Amendments made the third tier of democracy more powerful and effective.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q17",
+      "text": "What percentage of seats are reserved for women in local government bodies in India?",
+      "options": ["25%", "33%", "50%", "10%"],
+      "correctIndex": 1,
+      "explanation": "At least one-third of all positions are reserved for women.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q18",
+      "text": "The head of the Gram Panchayat is called:",
+      "options": ["Mayor", "Sarpanch", "Commissioner", "Governor"],
+      "correctIndex": 1,
+      "explanation": "The Sarpanch is the president of the village council.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q19",
+      "text": "A few Gram Panchayats are grouped together to form what is usually called a:",
+      "options": ["Zila Parishad", "Panchayat Samiti", "Gram Sabha", "Municipal Council"],
+      "correctIndex": 1,
+      "explanation": "It is also known as a block or mandal.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c2_q20",
+      "text": "All the Panchayat Samitis or Mandals in a district together constitute the:",
+      "options": ["Gram Sabha", "Zila Parishad", "State Assembly", "Municipal Corporation"],
+      "correctIndex": 1,
+      "explanation": "The Zila Parishad chairperson is the political head of the district level local government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q21",
+      "text": "The political head of a Municipal Corporation is the:",
+      "options": ["Sarpanch", "Mayor", "Prime Minister", "Chief Minister"],
+      "correctIndex": 1,
+      "explanation": "Municipal Corporations are the local government bodies for big cities.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q22",
+      "text": "Which body conducts elections for Panchayats and Municipalities in each state?",
+      "options": ["Election Commission of India", "State Election Commission", "Supreme Court", "The Governor"],
+      "correctIndex": 1,
+      "explanation": "An independent institution called the State Election Commission has been created in each state.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q23",
+      "text": "The system of 'Panchayati Raj' is an example of:",
+      "options": ["Direct Democracy", "Representative Democracy", "Unitary Government", "Monarchy"],
+      "correctIndex": 0,
+      "explanation": "At the village level, through the Gram Sabha, citizens participate directly in decision making.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c2_q24",
+      "text": "Which of the following is NOT a level of government in the Indian federation?",
+      "options": ["Union Government", "State Government", "Village Government (Local)", "Military Government"],
+      "correctIndex": 3,
+      "explanation": "India has a three-tier system: Union, State, and Local (Panchayats/Municipalities).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q25",
+      "text": "In a holding together federation, the central government tends to be ________ than the states.",
+      "options": ["Weaker", "More powerful", "Equal", "Subordinate"],
+      "correctIndex": 1,
+      "explanation": "Very often different constituent units of the federation have unequal powers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c2_q26",
+      "text": "What is the role of the Judiciary in a federal system?",
+      "options": ["To make laws", "To execute laws", "To interpret the constitution and settle disputes between levels of government", "To collect taxes"],
+      "correctIndex": 2,
+      "explanation": "Courts act as an umpire if disputes arise between different levels of government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q27",
+      "text": "Which state was NOT created on the basis of language but to recognize differences based on culture, ethnicity or geography?",
+      "options": ["Andhra Pradesh", "Nagaland", "Maharashtra", "Punjab"],
+      "correctIndex": 1,
+      "explanation": "States like Nagaland, Uttarakhand and Jharkhand were created for these reasons.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c2_q28",
+      "text": "The Hindi language is the mother tongue of only about ________ percent of Indians.",
+      "options": ["20%", "40%", "60%", "80%"],
+      "correctIndex": 1,
+      "explanation": "Therefore, there were many safeguards to protect other languages.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c2_q29",
+      "text": "The period after 1990 saw the rise of ________ political parties in many states of the country.",
+      "options": ["National", "Regional", "International", "Foreign"],
+      "correctIndex": 1,
+      "explanation": "The rise of regional parties led to the era of coalition governments at the Centre.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c2_q30",
+      "text": "The 1992 amendment made it constitutionally mandatory to hold regular elections to local government bodies.",
+      "options": ["True", "False", "Only in cities", "Only in villages"],
+      "correctIndex": 0,
+      "explanation": "Before 1992, elections were not held regularly and local bodies lacked power.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q31",
+      "text": "The Gram Sabha consists of:",
+      "options": ["Only the Sarpanch", "Only the Ward members", "All the voters in the village", "Only the elders"],
+      "correctIndex": 2,
+      "explanation": "It has to meet at least twice or thrice in a year to approve the annual budget.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c2_q32",
+      "text": "Which institution has been strengthened by the system of local government in India?",
+      "options": ["Monarchy", "Democracy", "Dictatorship", "Colonialism"],
+      "correctIndex": 1,
+      "explanation": "Local government is the largest experiment in democracy conducted anywhere in the world.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q33",
+      "text": "One of the dual objectives of a federal system is to safeguard and promote the unity of the country while at the same time accommodate:",
+      "options": ["Global trends", "Regional diversity", "Military strength", "Industrial growth"],
+      "correctIndex": 1,
+      "explanation": "Accommodation of diversity is a core reason for adopting federalism.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q34",
+      "text": "Which of these is a subject in the State List?",
+      "options": ["Defense", "Police", "Banking", "Foreign Affairs"],
+      "correctIndex": 1,
+      "explanation": "Police, trade, commerce, agriculture and irrigation are in the State List.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q35",
+      "text": "If there is a conflict in the Concurrent List between State and Union law, which law prevails?",
+      "options": ["State law", "Union law", "Both are invalid", "The Supreme Court decides"],
+      "correctIndex": 1,
+      "explanation": "The Constitution specifies that the law made by the Union Government shall prevail.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q36",
+      "text": "Which state has a special provision under Article 371 of the Constitution?",
+      "options": ["Nagaland", "Maharashtra", "Gujarat", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Article 371 provides special provisions for several states to protect their unique cultures and interests.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_c2_q37",
+      "text": "The vertical division of power is also known as:",
+      "options": ["Checks and Balances", "Federal division of power", "Separation of powers", "Unitary system"],
+      "correctIndex": 1,
+      "explanation": "It involves sharing power among governments at different levels.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c2_q38",
+      "text": "Jurisdiction is the ________ over which someone has legal authority.",
+      "options": ["Time", "Financial budget", "Area", "Population"],
+      "correctIndex": 2,
+      "explanation": "The area may be defined in terms of geographical boundaries or in terms of certain kinds of subjects.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_c2_q39",
+      "text": "Which tier of government was added to the Indian federation by the 1992 amendment?",
+      "options": ["First", "Second", "Third", "Fourth"],
+      "correctIndex": 2,
+      "explanation": "A third-tier of government in the form of Panchayats and Municipalities was added.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c2_q40",
+      "text": "The success of federalism in India is attributed to its:",
+      "options": ["Wealth", "Large population", "Nature of democratic politics", "Strong army"],
+      "correctIndex": 2,
+      "explanation": "The respect for diversity and desire for living together became shared ideals in our country.",
+      "frequencyRating": 5
     }
   ]
 }

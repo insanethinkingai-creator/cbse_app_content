@@ -1,0 +1,330 @@
+{
+  "id": "g12_eng_ch2",
+  "grade": "12",
+  "subject": "English",
+  "number": "2",
+  "title": "Lost Spring",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_e2_q1",
+      "text": "Who is the author of the story 'Lost Spring'?",
+      "options": ["Anees Jung", "Alphonse Daudet", "Selma Lagerlof", "Louis Fischer"],
+      "correctIndex": 0,
+      "explanation": "Anees Jung is an Indian author known for her focus on the plight of the poor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e2_q2",
+      "text": "What does the title 'Lost Spring' symbolize?",
+      "options": ["Lost wealth", "Lost childhood", "Lost season", "Lost money"],
+      "correctIndex": 1,
+      "explanation": "Spring is the 'springtime' of life; the story highlights how poverty steals childhood from millions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e2_q3",
+      "text": "Who is Saheb-e-Alam?",
+      "options": ["A schoolboy", "A ragpicker", "A bangle maker", "A shopkeeper"],
+      "correctIndex": 1,
+      "explanation": "Saheb is a young boy from Seemapuri who picks rags for survival.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e2_q4",
+      "text": "What is the meaning of Saheb's full name, 'Saheb-e-Alam'?",
+      "options": ["Lord of the universe", "Poor boy", "King of ragpickers", "Owner of gold"],
+      "correctIndex": 0,
+      "explanation": "Ironically, his name means 'Lord of the Universe', yet he lacks even shoes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e2_q5",
+      "text": "Where did Saheb and his family come from?",
+      "options": ["Dhaka, Bangladesh", "Delhi, India", "Firozabad, India", "Lahore, Pakistan"],
+      "correctIndex": 0,
+      "explanation": "They left Dhaka because storms swept away their fields and homes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e2_q6",
+      "text": "Where is Seemapuri located?",
+      "options": ["Center of Delhi", "Periphery of Delhi", "Inside Dhaka", "Near Firozabad"],
+      "correctIndex": 1,
+      "explanation": "It is located on the outskirts of Delhi, yet it is worlds away from the city's development.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e2_q7",
+      "text": "What is the main occupation of the people living in Seemapuri?",
+      "options": ["Bangle making", "Ragpicking", "Agriculture", "Mining"],
+      "correctIndex": 1,
+      "explanation": "For the people of Seemapuri, ragpicking is their means of survival.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e2_q8",
+      "text": "For the children of Seemapuri, garbage is wrapped in ________.",
+      "options": ["Gold", "Silver", "Wonder", "Cloth"],
+      "correctIndex": 2,
+      "explanation": "While it is a means of survival for elders, for children it is a mysterious hunt for treasure.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e2_q9",
+      "text": "Why does Saheb not go to school?",
+      "options": ["He is lazy", "There is no school in his neighborhood", "He hates studies", "His parents forbid him"],
+      "correctIndex": 1,
+      "explanation": "He tells the author that when a school is built, he will go.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e2_q10",
+      "text": "What does Saheb find in the garbage sometimes?",
+      "options": ["A rupee note", "A ten-rupee note", "A silver coin", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "The hope of finding more keeps the children digging through the trash.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e2_q11",
+      "text": "At the end of the first part, where does Saheb start working?",
+      "options": ["A school", "A tea stall", "A bangle factory", "A garbage dump"],
+      "correctIndex": 1,
+      "explanation": "He gets a job at a tea stall but loses his freedom and happiness.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e2_q12",
+      "text": "Why is Saheb unhappy working at the tea stall?",
+      "options": ["He earns less money", "The master is cruel", "He is no longer his own master", "He has to work hard"],
+      "correctIndex": 2,
+      "explanation": "The steel canister feels heavier than the plastic bag he once carried as a free boy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e2_q13",
+      "text": "The second part of the story is set in which town?",
+      "options": ["Seemapuri", "Firozabad", "Dhaka", "Bareilly"],
+      "correctIndex": 1,
+      "explanation": "Firozabad is the center of India’s glass-blowing industry.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e2_q14",
+      "text": "Who is Mukesh in the story?",
+      "options": ["A ragpicker", "A child laborer in a bangle factory", "A teacher", "Saheb's brother"],
+      "correctIndex": 1,
+      "explanation": "Mukesh belongs to a family of bangle makers in Firozabad.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e2_q15",
+      "text": "What does Mukesh want to become?",
+      "options": ["A bangle maker", "A motor mechanic", "A pilot", "A doctor"],
+      "correctIndex": 1,
+      "explanation": "He dares to dream differently from his family tradition.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e2_q16",
+      "text": "Every other family in Firozabad is engaged in making ________.",
+      "options": ["Shoes", "Bangles", "Clothes", "Sweets"],
+      "correctIndex": 1,
+      "explanation": "Firozabad is famous for its glass bangles, supplying the whole country.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e2_q17",
+      "text": "What are the health hazards of working in glass bangle factories?",
+      "options": ["Loss of eyesight", "Skin diseases", "Lung problems", "Both A and C"],
+      "correctIndex": 3,
+      "explanation": "The dark, dingy cells and dust from polishing glass cause blindness and respiratory issues.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e2_q18",
+      "text": "The people of Firozabad believe their occupation is a 'God-given ________'.",
+      "options": ["Gift", "Lineage", "Curse", "Destiny"],
+      "correctIndex": 1,
+      "explanation": "They feel they are born into the caste of bangle makers and cannot change it.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e2_q19",
+      "text": "What stops the bangle makers from forming a cooperative?",
+      "options": ["Lack of money", "Fear of the police and middlemen", "Lack of leadership", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "The 'vicious circle' of middlemen, sahukars, and the police keeps them trapped.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e2_q20",
+      "text": "The bangle makers are trapped in a vicious circle of ________.",
+      "options": ["Middlemen", "Police", "Politicians", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "The entire socio-political system works against their upliftment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e2_q21",
+      "text": "What does 'survival in Seemapuri' mean?",
+      "options": ["Education", "Ragpicking", "Wealth", "Crime"],
+      "correctIndex": 1,
+      "explanation": "Ragpicking is the only way to earn a living in Seemapuri.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e2_q22",
+      "text": "Mukesh's grandmother thinks that one can never break his ________.",
+      "options": ["Bangles", "Karma", "Dreams", "Luck"],
+      "correctIndex": 1,
+      "explanation": "Her fatalistic attitude accepts poverty as their destiny.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e2_q23",
+      "text": "How is Mukesh's attitude towards his situation different from Saheb's?",
+      "options": ["He is more pessimistic", "He is hopeful and determined", "He is lazy", "He is indifferent"],
+      "correctIndex": 1,
+      "explanation": "While Saheb accepts a job at a tea stall, Mukesh insists on becoming a mechanic.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e2_q24",
+      "text": "What does the author mean by 'garbage is gold' to them?",
+      "options": ["Garbage contains real gold", "It is their daily bread", "It makes them rich", "None of these"],
+      "correctIndex": 1,
+      "explanation": "It is their only source of income and survival.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e2_q25",
+      "text": "The people in Seemapuri live in structures of ________.",
+      "options": ["Concrete", "Mud with roofs of tin and tarpaulin", "Wood", "Bricks"],
+      "correctIndex": 1,
+      "explanation": "The housing reflects their extreme poverty and lack of basic amenities.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e2_q26",
+      "text": "Which of the following is NOT present in Seemapuri?",
+      "options": ["Sewage system", "Drainage", "Running water", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "It is a squatters' settlement without basic municipal services.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e2_q27",
+      "text": "What makes the author feel embarrassed in the first part?",
+      "options": ["Saheb's poverty", "Her hollow promise of a school", "The dirty streets", "Saheb's name"],
+      "correctIndex": 1,
+      "explanation": "She realizes that such promises are frequent in the world of the poor but never fulfilled.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e2_q28",
+      "text": "Savita is a young girl in Firozabad seen ________.",
+      "options": ["Going to school", "Soldering pieces of glass", "Playing in the park", "Begging"],
+      "correctIndex": 1,
+      "explanation": "She is shown as another victim of the child labor industry in Firozabad.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e2_q29",
+      "text": "What does the author suggest about the 'burden' on the children in Firozabad?",
+      "options": ["They carry heavy glass", "They carry the burden of family tradition", "They carry bags of food", "None of these"],
+      "correctIndex": 1,
+      "explanation": "They are burdened by a lineage they cannot escape.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e2_q30",
+      "text": "The story describes two worlds. One is of the family trapped in poverty, the other is of ________.",
+      "options": ["Rich businessmen", "The sahukars, middlemen, and police", "Honest politicians", "Foreign tourists"],
+      "correctIndex": 1,
+      "explanation": "The author contrasts the poor with those who exploit them.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e2_q31",
+      "text": "Why are the bangle makers unable to organize themselves?",
+      "options": ["They are illiterate", "Police harassment", "Vicious circle of middlemen", "All of these"],
+      "correctIndex": 3,
+      "explanation": "A combination of lack of awareness and external suppression keeps them disorganized.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e2_q32",
+      "text": "What does 'unaware of the holiness' mean regarding Savita and bangles?",
+      "options": ["She doesn't know they are sacred", "She doesn't know they symbolize Indian woman's suhaag", "She hates bangles", "She is a child"],
+      "correctIndex": 1,
+      "explanation": "Bangles symbolize auspiciousness in marriage, which the young girl Savita is still oblivious to.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e2_q33",
+      "text": "Saheb's plastic bag belonged to ________, while the steel canister belonged to ________.",
+      "options": ["His master, Him", "Him, His master", "The garbage, The stall", "None"],
+      "correctIndex": 1,
+      "explanation": "The plastic bag represented his freedom; the canister represents his servitude.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e2_q34",
+      "text": "In Firozabad, children often lose the ________ of their eyes before they become adults.",
+      "options": ["Color", "Brightness", "Vision", "Size"],
+      "correctIndex": 1,
+      "explanation": "The poor lighting and glass dust lead to early vision loss.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e2_q35",
+      "text": "How many children are estimated to work in the glass furnaces of Firozabad?",
+      "options": ["10,000", "20,000", "50,000", "1,00,000"],
+      "correctIndex": 1,
+      "explanation": "The author mentions that 20,000 children work illegally in these furnaces.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e2_q36",
+      "text": "What is Mukesh's house like?",
+      "options": ["A palace", "A clean apartment", "A half-built shack in a stinking lane", "A farm house"],
+      "correctIndex": 2,
+      "explanation": "It highlights the squalor they live in despite their hard work.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e2_q37",
+      "text": "The author describes Saheb as 'carrying the world's ________ on his shoulders'.",
+      "options": ["Gold", "Bags", "Sorrow", "None"],
+      "correctIndex": 2,
+      "explanation": "It metaphorically refers to the intense poverty and lack of hope.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_e2_q38",
+      "text": "According to the author, what is 'daring' for Mukesh?",
+      "options": ["Working in the factory", "Leaving Firozabad", "Dreaming of being a mechanic", "Talking to the author"],
+      "correctIndex": 2,
+      "explanation": "In a community where everyone accepts their fate, dreaming of change is an act of courage.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e2_q39",
+      "text": "Does Mukesh want to fly airplanes too?",
+      "options": ["Yes, definitely", "He is content with cars for now", "He hates planes", "He doesn't know what they are"],
+      "correctIndex": 1,
+      "explanation": "He is grounded in reality; few planes fly over Firozabad, but he sees cars everyday.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e2_q40",
+      "text": "Anees Jung's 'Lost Spring' is an excerpt from which of her works?",
+      "options": ["Beyond the Courtyard", "Unveiling India", "Stories of Stolen Childhood", "The Song of India"],
+      "correctIndex": 2,
+      "explanation": "The book title 'Stories of Stolen Childhood' directly reflects the theme of the chapter.",
+      "frequencyRating": 4
+    }
+  ]
+}

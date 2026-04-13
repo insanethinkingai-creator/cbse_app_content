@@ -7,43 +7,323 @@
   "version": "v1",
   "questions": [
     {
-      "id": "g10_e1_q1",
-      "text": "What is the main criterion used by the World Bank in classifying different countries?",
-      "options": ["Literacy rate", "Health status", "Per capita income", "Population growth"],
+      "id": "g10_ec1_q1",
+      "text": "What is the most common indicator used by the World Bank to compare the development of different countries?",
+      "options": ["Literacy Rate", "Health Status", "Per Capita Income", "Life Expectancy"],
       "correctIndex": 2,
-      "explanation": "The World Bank uses Per Capita Income (Average Income) to classify countries into high, middle, or low-income categories.",
+      "explanation": "The World Bank's World Development Reports use per capita income (average income) as the primary criterion for classifying countries.",
       "frequencyRating": 5
     },
     {
-      "id": "g10_e1_q2",
-      "text": "The Human Development Index (HDI) is published by:",
-      "options": ["World Bank", "UNDP", "IMF", "WHO"],
+      "id": "g10_ec1_q2",
+      "text": "Developmental goals of different sections of our society can be achieved by:",
+      "options": ["Force", "Democratic political process", "Violent agitation", "Terrorism"],
       "correctIndex": 1,
-      "explanation": "The United Nations Development Programme (UNDP) publishes the HDI, which compares countries based on health, education, and per capita income.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g10_e1_q3",
-      "text": "What does BMI stand for?",
-      "options": ["Body Mass Index", "Body Measurement Index", "Basic Mass Indicator", "Basic Metabolic Index"],
-      "correctIndex": 0,
-      "explanation": "BMI (Body Mass Index) is a tool used to calculate whether an adult is undernourished or overweight based on weight and height.",
+      "explanation": "In a democracy, different groups can negotiate and achieve their goals through peaceful political participation.",
       "frequencyRating": 4
     },
     {
-      "id": "g10_e1_q4",
-      "text": "Sustainable development refers to development that:",
-      "options": ["Focuses only on economic growth", "Uses up all natural resources", "Meets the needs of the present without compromising the future", "Is only for developed nations"],
-      "correctIndex": 2,
-      "explanation": "Sustainable development ensures that resources are used carefully so that future generations also have access to them.",
+      "id": "g10_ec1_q3",
+      "text": "If women are engaged in paid work, their ________ in the household and society increases.",
+      "options": ["Workload", "Dignity", "Burden", "Pressure"],
+      "correctIndex": 1,
+      "explanation": "Paid work provides financial independence, which enhances a woman's status and respect in society.",
       "frequencyRating": 5
     },
     {
-      "id": "g10_e1_q5",
-      "text": "Which state in India has a high Human Development Index despite having lower per capita income than others like Haryana?",
-      "options": ["Kerala", "Punjab", "Bihar", "Gujarat"],
+      "id": "g10_ec1_q4",
+      "text": "Which of the following is a non-material goal of development?",
+      "options": ["High Wages", "Better Prices for crops", "Equal Treatment", "More Days of work"],
+      "correctIndex": 2,
+      "explanation": "Besides income, people seek things like freedom, security, and respect, which are non-material goals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec1_q5",
+      "text": "Total income of the country divided by its total population is called:",
+      "options": ["National Income", "Per Capita Income", "Gross Income", "Net Income"],
+      "correctIndex": 1,
+      "explanation": "Per capita income is also known as the 'average income' of a person in a country.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec1_q6",
+      "text": "Countries with per capita income of US$ 49300 per annum and above in 2019 are called:",
+      "options": ["Low-income countries", "Developing countries", "Rich countries", "Middle-income countries"],
+      "correctIndex": 2,
+      "explanation": "These are high-income countries, primarily located in Europe, North America, and parts of the Middle East.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec1_q7",
+      "text": "In which category does India fall based on its per capita income in 2019?",
+      "options": ["Rich countries", "Low middle-income countries", "Low-income countries", "High-income countries"],
+      "correctIndex": 1,
+      "explanation": "India's per capita income in 2019 was US$ 6700 per annum (at purchasing power parity).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec1_q8",
+      "text": "What is the main limitation of using 'Average Income' as a measure of development?",
+      "options": ["It is hard to calculate", "It hides disparities in income distribution", "It only includes rich people", "It ignores the population"],
+      "correctIndex": 1,
+      "explanation": "Average income does not show how income is actually distributed among the citizens.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec1_q9",
+      "text": "The number of children that die before the age of one year as a proportion of 1000 live births is:",
+      "options": ["Birth Rate", "Death Rate", "Infant Mortality Rate", "Literacy Rate"],
+      "correctIndex": 2,
+      "explanation": "IMR is a crucial indicator of the quality of healthcare and nutrition in a region.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec1_q10",
+      "text": "Literacy rate measures the proportion of literate population in the age group of:",
+      "options": ["5 and above", "7 and above", "10 and above", "18 and above"],
+      "correctIndex": 1,
+      "explanation": "In India, any person aged 7 or above who can read and write with understanding is considered literate.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec1_q11",
+      "text": "Which state in India has the lowest Infant Mortality Rate according to the textbook data?",
+      "options": ["Haryana", "Kerala", "Bihar", "Uttar Pradesh"],
+      "correctIndex": 1,
+      "explanation": "Kerala's low IMR is attributed to its strong focus on basic health and educational facilities.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec1_q12",
+      "text": "Public facilities like education and health are important because:",
+      "options": ["They make people rich", "Money in your pocket cannot buy everything you need to live well", "They are free", "They are for the government"],
+      "correctIndex": 1,
+      "explanation": "Many essential services like a pollution-free environment or protection from infectious diseases cannot be bought individually.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec1_q13",
+      "text": "What is the Body Mass Index (BMI) of a person who is undernourished?",
+      "options": ["Less than 18.5", "Between 18.5 and 25", "More than 25", "Exactly 20"],
       "correctIndex": 0,
-      "explanation": "Kerala has a higher HDI due to its excellent performance in health and educational indicators like low Infant Mortality Rate and high Literacy Rate.",
+      "explanation": "BMI is calculated as weight divided by height squared (kg/m²). A value below 18.5 indicates undernourishment.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec1_q14",
+      "text": "The Human Development Report is published annually by:",
+      "options": ["World Bank", "UNDP", "IMF", "WHO"],
+      "correctIndex": 1,
+      "explanation": "The United Nations Development Programme (UNDP) uses health, education, and income to rank countries.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec1_q15",
+      "text": "Life Expectancy at birth denotes:",
+      "options": ["Average expected length of life of a person", "Total number of years a person lives", "Death rate of adults", "Healthcare quality"],
+      "correctIndex": 0,
+      "explanation": "It is an estimate of the number of years a newborn is expected to live based on current mortality rates.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec1_q16",
+      "text": "Sustainable development refers to development that meets the needs of the present without compromising:",
+      "options": ["The needs of the rich", "The ability of future generations to meet their own needs", "The government budget", "Industrial growth"],
+      "correctIndex": 1,
+      "explanation": "Sustainability ensures that resources are used judiciously so they are available for the future.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec1_q17",
+      "text": "Which of the following is a renewable resource?",
+      "options": ["Crude Oil", "Coal", "Groundwater", "Iron Ore"],
+      "correctIndex": 2,
+      "explanation": "Groundwater is replenished by nature (rain), though it can be overused.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec1_q18",
+      "text": "Consequences of environmental degradation do not respect ________ boundaries.",
+      "options": ["National or State", "Personal", "Cultural", "Religious"],
+      "correctIndex": 0,
+      "explanation": "Pollution and climate change are global issues that affect everyone regardless of where they live.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec1_q19",
+      "text": "Different persons can have different developmental goals and what may be development for one:",
+      "options": ["Is development for all", "May not be development for the other", "Is always beneficial", "Is always destructive"],
+      "correctIndex": 1,
+      "explanation": "For example, a dam may provide electricity to industrialists but displace local tribals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec1_q20",
+      "text": "The proportion of children in the 14-15 age group attending school is called:",
+      "options": ["Attendance rate", "Net Attendance Ratio", "Literacy rate", "Enrollment ratio"],
+      "correctIndex": 1,
+      "explanation": "This ratio indicates the level of participation in secondary education.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec1_q21",
+      "text": "A country's HDI rank is based on which of the following?",
+      "options": ["Only income", "Only health", "Only education", "Health, education and income"],
+      "correctIndex": 3,
+      "explanation": "The Human Development Index is a composite statistic of these three dimensions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec1_q22",
+      "text": "Which neighboring country of India has a better performance in terms of human development than India (based on 2019 data)?",
+      "options": ["Pakistan", "Sri Lanka", "Nepal", "Bangladesh"],
+      "correctIndex": 1,
+      "explanation": "Sri Lanka is much ahead of India in all parameters of the Human Development Index.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec1_q23",
+      "text": "Groundwater is an example of overuse in which regions of India?",
+      "options": ["Punjab and Western UP", "Kerala and Tamil Nadu", "Rajasthan", "North-east India"],
+      "correctIndex": 0,
+      "explanation": "Agricultural intensity in these regions has led to a significant decline in groundwater levels.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec1_q24",
+      "text": "Non-renewable resources are those which will:",
+      "options": ["Never end", "Be exhausted after years of use", "Be replaced by rain", "Increase with time"],
+      "correctIndex": 1,
+      "explanation": "These resources have a fixed stock on earth and cannot be replenished.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec1_q25",
+      "text": "Development is a ________ process.",
+      "options": ["Static", "Continuous", "Ending", "Fast"],
+      "correctIndex": 1,
+      "explanation": "The desire for improvement and the questions about how we ought to live are always with us.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_ec1_q26",
+      "text": "The PDS (Public Distribution System) helps in maintaining the ________ status of the people.",
+      "options": ["Financial", "Nutritional", "Educational", "Social"],
+      "correctIndex": 1,
+      "explanation": "By providing food grains at subsidized rates, it ensures basic nutrition for the poor.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec1_q27",
+      "text": "Per capita income is also called:",
+      "options": ["Net income", "Average income", "Total income", "Marginal income"],
+      "correctIndex": 1,
+      "explanation": "It averages the national income over the entire population.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec1_q28",
+      "text": "Kerala's high literacy rate is a result of:",
+      "options": ["Its rich soil", "Strong government focus on primary education", "Its location", "Its high PCI"],
+      "correctIndex": 1,
+      "explanation": "The state government prioritized social sectors like education and health for decades.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec1_q29",
+      "text": "What is the developmental goal for a landless rural labourer?",
+      "options": ["Buying a car", "More days of work and better wages", "Moving to a city", "Sending children abroad"],
+      "correctIndex": 1,
+      "explanation": "For someone without land, basic employment and survival are the primary goals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec1_q30",
+      "text": "What does 'National Development' imply?",
+      "options": ["Building more roads", "A country's ability to improve the well-being of its citizens", "Winning wars", "Increasing the population"],
+      "correctIndex": 1,
+      "explanation": "It refers to the holistic improvement in the living standards and opportunities for all people in a nation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec1_q31",
+      "text": "Which of these is NOT a component of HDI?",
+      "options": ["Life Expectancy", "Gross Enrollment Ratio", "Per Capita Income", "Pollution Level"],
+      "correctIndex": 3,
+      "explanation": "While important, environmental factors are not currently direct components of the standard HDI formula.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec1_q32",
+      "text": "A prosperous farmer from Punjab would likely want:",
+      "options": ["Low support prices for crops", "Cheap labour and high family income", "Less rain", "High taxes"],
+      "correctIndex": 1,
+      "explanation": "Their goal is to maximize profit through low costs and high selling prices.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec1_q33",
+      "text": "Crude oil is a ________ resource.",
+      "options": ["Renewable", "Non-renewable", "Potential", "International"],
+      "correctIndex": 1,
+      "explanation": "Once used, it cannot be replaced by natural processes in a human timeframe.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec1_q34",
+      "text": "Sustainability of development is a relatively ________ area of knowledge.",
+      "options": ["Old", "New", "Useless", "Simple"],
+      "correctIndex": 1,
+      "explanation": "Scientists, economists, and philosophers are only recently working together on this critical issue.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_ec1_q35",
+      "text": "High per capita income is a ________ condition for development, but not sufficient.",
+      "options": ["Necessary", "Negative", "Harmful", "Useless"],
+      "correctIndex": 0,
+      "explanation": "While wealth is needed, health and education are equally important for true development.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec1_q36",
+      "text": "Which of the following is a material goal?",
+      "options": ["Freedom", "Equality", "Money", "Security"],
+      "correctIndex": 2,
+      "explanation": "Material goals are those that involve physical goods and services that can be bought.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec1_q37",
+      "text": "The World Development Report is published by:",
+      "options": ["United Nations", "World Bank", "WTO", "RBI"],
+      "correctIndex": 1,
+      "explanation": "The World Bank uses its report to classify nations by their economic status.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec1_q38",
+      "text": "How many days of work does MGNREGA guarantee?",
+      "options": ["50 days", "100 days", "150 days", "200 days"],
+      "correctIndex": 1,
+      "explanation": "The Mahatma Gandhi National Rural Employment Guarantee Act ensures 100 days of manual work.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_ec1_q39",
+      "text": "The BMI of an adult is calculated by dividing weight in kg by:",
+      "options": ["Height in cm", "Height in meters", "Square of height in meters", "Age"],
+      "correctIndex": 2,
+      "explanation": "The formula is weight (kg) / [height (m)]².",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_ec1_q40",
+      "text": "Development involves thinking about the ________ and the ways in which we can work towards our goals.",
+      "options": ["Past", "Present", "Future", "None"],
+      "correctIndex": 2,
+      "explanation": "Development is inherently forward-looking and aspirational.",
       "frequencyRating": 5
     }
   ]

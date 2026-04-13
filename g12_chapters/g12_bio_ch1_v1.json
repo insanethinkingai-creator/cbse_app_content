@@ -1,0 +1,330 @@
+{
+  "id": "g12_bio_ch1",
+  "grade": "12",
+  "subject": "Biology",
+  "number": "1",
+  "title": "Sexual Reproduction in Flowering Plants",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_b1_q1",
+      "text": "The male reproductive organ of a flower is called:",
+      "options": ["Gynoecium", "Androecium", "Calyx", "Corolla"],
+      "correctIndex": 1,
+      "explanation": "The androecium consists of a whorl of stamens.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b1_q2",
+      "text": "A typical angiosperm anther is ________ and ________.",
+      "options": ["Monothecous, bisporangiate", "Bithecous, tetrasporangiate", "Bithecous, bisporangiate", "Monothecous, tetrasporangiate"],
+      "correctIndex": 1,
+      "explanation": "Each of the two lobes of the anther contains two pollen sacs (sporangia).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b1_q3",
+      "text": "The innermost layer of the anther wall which provides nourishment to developing pollen is:",
+      "options": ["Epidermis", "Endothecium", "Middle layers", "Tapetum"],
+      "correctIndex": 3,
+      "explanation": "Tapetum cells are multinucleate and possess dense cytoplasm to nourish microspores.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b1_q4",
+      "text": "The hard outer layer of pollen grains is called 'exine' and is made of:",
+      "options": ["Cellulose", "Sporopollenin", "Pectin", "Lignin"],
+      "correctIndex": 1,
+      "explanation": "Sporopollenin is one of the most resistant organic materials known.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b1_q5",
+      "text": "Pollen grains are well preserved as fossils because of the presence of:",
+      "options": ["Intine", "Sporopollenin", "Germ pores", "Cytoplasm"],
+      "correctIndex": 1,
+      "explanation": "Sporopollenin can withstand high temperatures and strong acids/alkalis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b1_q6",
+      "text": "The two cells found in a mature pollen grain are:",
+      "options": ["Generative cell and Vegetative cell", "Egg cell and Synergids", "Antipodals and Central cell", "Male gametes only"],
+      "correctIndex": 0,
+      "explanation": "The vegetative cell is larger with abundant food reserves, and the generative cell floats in its cytoplasm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b1_q7",
+      "text": "The process of formation of microspores from a pollen mother cell (PMC) through meiosis is:",
+      "options": ["Megasporogenesis", "Microsporogenesis", "Pollination", "Fertilization"],
+      "correctIndex": 1,
+      "explanation": "Microsporogenesis occurs within the microsporangia of anthers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b1_q8",
+      "text": "The ovule is attached to the placenta by a stalk called:",
+      "options": ["Hilum", "Funicle", "Micropyle", "Chalaza"],
+      "correctIndex": 1,
+      "explanation": "Funicle is the stalk while Hilum is the point of attachment between body and stalk.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b1_q9",
+      "text": "The mass of cells enclosed within the integuments of an ovule is called:",
+      "options": ["Embryo sac", "Nucellus", "Endosperm", "Zygote"],
+      "correctIndex": 1,
+      "explanation": "Nucellus cells have abundant reserve food materials.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b1_q10",
+      "text": "A mature angiosperm embryo sac is ________ nucleate and ________ celled.",
+      "options": ["7, 8", "8, 7", "8, 8", "7, 7"],
+      "correctIndex": 1,
+      "explanation": "It contains 3 antipodals, 2 synergids, 1 egg cell (all haploid) and 1 large central cell with 2 polar nuclei.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b1_q11",
+      "text": "Transfer of pollen grains from the anther to the stigma of the same flower is:",
+      "options": ["Autogamy", "Geitonogamy", "Xenogamy", "Cleistogamy"],
+      "correctIndex": 0,
+      "explanation": "Autogamy is self-pollination within a single flower.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b1_q12",
+      "text": "Transfer of pollen grains from anther to stigma of another flower of the same plant is:",
+      "options": ["Autogamy", "Geitonogamy", "Xenogamy", "Allogamy"],
+      "correctIndex": 1,
+      "explanation": "Geitonogamy is functionally cross-pollination but genetically similar to autogamy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b1_q13",
+      "text": "Flowers which do not open at all are called:",
+      "options": ["Chasmogamous", "Cleistogamous", "Anemophilous", "Hydrophilous"],
+      "correctIndex": 1,
+      "explanation": "Cleistogamous flowers ensure seed setting even in the absence of pollinators through autogamy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b1_q14",
+      "text": "Pollination by wind is called:",
+      "options": ["Hydrophily", "Anemophily", "Entomophily", "Ornithophily"],
+      "correctIndex": 1,
+      "explanation": "Anemophilous flowers produce large amounts of light, non-sticky pollen.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b1_q15",
+      "text": "Which of the following is an example of a water-pollinated plant?",
+      "options": ["Water lily", "Vallisneria", "Lotus", "Water hyacinth"],
+      "correctIndex": 1,
+      "explanation": "While lilies and hyacinths grow in water, they are pollinated by insects/wind. Vallisneria uses water currents.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b1_q16",
+      "text": "The filiform apparatus is found in:",
+      "options": ["Synergids", "Antipodals", "Egg cell", "Central cell"],
+      "correctIndex": 0,
+      "explanation": "It guides the entry of the pollen tube into the synergid.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b1_q17",
+      "text": "Double fertilization involves:",
+      "options": ["Syngamy and Triple fusion", "Two syngamies", "Two triple fusions", "None"],
+      "correctIndex": 0,
+      "explanation": "Unique to angiosperms: one male gamete fuses with egg (zygote), other with polar nuclei (PEN).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b1_q18",
+      "text": "Triple fusion results in the formation of:",
+      "options": ["Zygote", "Primary Endosperm Nucleus (PEN)", "Embryo", "Seed coat"],
+      "correctIndex": 1,
+      "explanation": "The fusion of one male gamete with two polar nuclei forms the triploid PEN.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b1_q19",
+      "text": "Endosperm is consumed by the developing embryo in:",
+      "options": ["Pea and Groundnut", "Castor and Coconut", "Maize", "Wheat"],
+      "correctIndex": 0,
+      "explanation": "Non-albuminous seeds lack endosperm at maturity as it is fully utilized during development.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b1_q20",
+      "text": "The coconut water from tender coconut represents:",
+      "options": ["Free nuclear endosperm", "Cellular endosperm", "Embryo", "Perisperm"],
+      "correctIndex": 0,
+      "explanation": "The liquid is free-nuclear endosperm, while the white kernel is cellular endosperm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b1_q21",
+      "text": "Remnants of nucellus that are persistent in some seeds like black pepper are called:",
+      "options": ["Endosperm", "Perisperm", "Pericarp", "Scutellum"],
+      "correctIndex": 1,
+      "explanation": "Perisperm is the persistent nucellus used for nourishment.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b1_q22",
+      "text": "A fruit developed from the ovary without fertilization is called:",
+      "options": ["Parthenocarpic fruit", "True fruit", "False fruit", "Apomictic fruit"],
+      "correctIndex": 0,
+      "explanation": "Example: Banana. These fruits are generally seedless.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b1_q23",
+      "text": "The production of seeds without fertilization is called:",
+      "options": ["Parthenocarpy", "Apomixis", "Polyembryony", "Amphimixis"],
+      "correctIndex": 1,
+      "explanation": "Apomixis is a form of asexual reproduction that mimics sexual reproduction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b1_q24",
+      "text": "Apple and strawberry are examples of 'false fruits' because:",
+      "options": ["They are developed from the thalamus", "They have no seeds", "They are developed from nucellus", "They are not edible"],
+      "correctIndex": 0,
+      "explanation": "False fruits are those where parts other than the ovary (like the thalamus) contribute to fruit formation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b1_q25",
+      "text": "The shield-shaped single cotyledon of monocots (like grass) is:",
+      "options": ["Coleoptile", "Coleorhiza", "Scutellum", "Epiblast"],
+      "correctIndex": 2,
+      "explanation": "Scutellum is located towards one side of the embryonal axis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b1_q26",
+      "text": "Emasculation is the process of:",
+      "options": ["Removing stigma", "Removing anthers from a bisexual flower", "Removing petals", "Adding pollen"],
+      "correctIndex": 1,
+      "explanation": "Done in artificial hybridization to prevent self-pollination.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b1_q27",
+      "text": "Which part of the flower attracts insects for pollination?",
+      "options": ["Sepals", "Petals", "Stamen", "Carpel"],
+      "correctIndex": 1,
+      "explanation": "Brightly colored petals often produce nectar and scent to attract pollinators.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_b1_q28",
+      "text": "Pollen-pistil interaction is a ________ process.",
+      "options": ["Physical", "Dynamic chemical", "Static", "Mechanical"],
+      "correctIndex": 1,
+      "explanation": "It involves continuous dialogue mediated by chemical components of pollen and pistil.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b1_q29",
+      "text": "Bagging in hybridization experiments prevents:",
+      "options": ["Emasculation", "Contamination of stigma with unwanted pollen", "Growth of flower", "Pollination"],
+      "correctIndex": 1,
+      "explanation": "Emasculated flowers are covered with bags (usually made of butter paper).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b1_q30",
+      "text": "Presence of more than one embryo in a seed is:",
+      "options": ["Polyembryony", "Apomixis", "Parthenocarpy", "Hybridization"],
+      "correctIndex": 0,
+      "explanation": "Often seen in Citrus and Mango where nucellar cells start dividing and protrude into the embryo sac.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b1_q31",
+      "text": "The pollen tube usually enters the ovule through the:",
+      "options": ["Chalaza", "Integument", "Micropyle", "Funicle"],
+      "correctIndex": 2,
+      "explanation": "Micropyle is the small opening in the integuments at the tip of the ovule.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b1_q32",
+      "text": "In over 60% of angiosperms, pollen grains are shed at the:",
+      "options": ["1-celled stage", "2-celled stage", "3-celled stage", "4-celled stage"],
+      "correctIndex": 1,
+      "explanation": "The vegetative cell and generative cell stages.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b1_q33",
+      "text": "Viability of pollen grains of rice and wheat is lost within:",
+      "options": ["30 minutes", "1 day", "1 month", "1 year"],
+      "correctIndex": 0,
+      "explanation": "Pollen viability varies greatly; some last minutes, others months (like Rosaceae).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_b1_q34",
+      "text": "Cryopreservation of pollen grains is done in liquid nitrogen at:",
+      "options": ["0°C", "-100°C", "-196°C", "-80°C"],
+      "correctIndex": 2,
+      "explanation": "Used for long-term storage in pollen banks.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b1_q35",
+      "text": "Apocarpous gynoecium means:",
+      "options": ["Carpels are fused", "Carpels are free", "Only one carpel is present", "No carpels"],
+      "correctIndex": 1,
+      "explanation": "Example: Michelia. Fused carpels are called syncarpous.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b1_q36",
+      "text": "The functional megaspore develops into the:",
+      "options": ["Embryo", "Embryo sac", "Ovule", "Endosperm"],
+      "correctIndex": 1,
+      "explanation": "Usually, only the chalazal megaspore remains functional.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b1_q37",
+      "text": "Pollination by animals (like bees, butterflies) is:",
+      "options": ["Anemophily", "Hydrophily", "Zoophily", "Autogamy"],
+      "correctIndex": 2,
+      "explanation": "Biotic agents are the most common pollinators in angiosperms.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b1_q38",
+      "text": "The wall of the fruit developed from the ovary wall is:",
+      "options": ["Perisperm", "Pericarp", "Testa", "Tegmen"],
+      "correctIndex": 1,
+      "explanation": "Pericarp can be fleshy (mango) or dry (mustard).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b1_q39",
+      "text": "Which part of the embryo sac degenerates after fertilization?",
+      "options": ["Zygote", "Synergids and Antipodals", "Central cell", "None"],
+      "correctIndex": 1,
+      "explanation": "These cells serve specific functions before and during fertilization but are not needed afterward.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b1_q40",
+      "text": "The entry of the pollen tube into one of the synergids is guided by:",
+      "options": ["Chemotropism", "Filiform apparatus", "Nucellus", "Antipodals"],
+      "correctIndex": 1,
+      "explanation": "The filiform apparatus provides a chemical and physical guide.",
+      "frequencyRating": 5
+    }
+  ]
+}

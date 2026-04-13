@@ -1,12 +1,13 @@
-# CBSE Grade 7 & 10 Quiz App Content
+# CBSE Grade 7, 10 & 12 Quiz App Content
 
-This directory contains structured JSON data for Grade 7 and Grade 10 MCQ Quiz Apps, strictly aligned with the **NCERT Rationalised Syllabus (2023-24 onwards)** and historical exam frequency patterns.
+This directory contains structured JSON data for Grade 7, Grade 10, and Grade 12 MCQ Quiz Apps, strictly aligned with the **NCERT Rationalised Syllabus (2023-24 onwards)** and historical exam frequency patterns.
 
 ## File Structure
 
 - `version.json`: The manifest file tracking the latest versions of all available chapters.
 - `g7_chapters/`: Grade 7 chapter files (10 MCQs each).
 - `g10_chapters/`: Grade 10 chapter files (40 MCQs each).
+- `g12_chapters/`: Grade 12 chapter files (40 MCQs each).
 
 ## Data Schema
 
@@ -15,7 +16,7 @@ Each chapter JSON file follows a strict schema to ensure compatibility with the 
 | Key | Type | Description |
 | :--- | :--- | :--- |
 | `id` | String | Unique identifier (e.g., `g7_math_ch1`) |
-| `grade` | String | "7" or "10" |
+| `grade` | String | "7", "10" or "12" |
 | `subject` | String | e.g., "Mathematics", "Science", "History", etc. |
 | `number` | String | Chapter number as per NCERT |
 | `title` | String | Official chapter name |
@@ -219,6 +220,56 @@ This script automatically packages all chapters into `g7_v1.zip`, calculates its
 | 3 | Two Stories about Flying | ✅ v1 |
 | 4 | From the Diary of Anne Frank | ✅ v1 |
 | 5 | Glimpses of India | ✅ v1 |
+| 6 | Mijbil the Otter | ✅ v1 |
+| 7 | Madam Rides the Bus | ✅ v1 |
+| 8 | The Sermon at Benares | ✅ v1 |
+| 9 | The Proposal | ✅ v1 |
+
+## Class 12 Syllabus Coverage (NCERT Rationalised)
+
+### Mathematics (40 Questions per Chapter)
+| Ch # | Chapter Title | Status |
+| :--- | :--- | :--- |
+| 1 | Relations and Functions | ✅ v1 |
+| 2 | Inverse Trigonometric Functions | ✅ v1 |
+| 3 | Matrices | ⏳ Pending |
+| 4 | Determinants | ⏳ Pending |
+| 5 | Continuity and Differentiability | ⏳ Pending |
+| 6 | Application of Derivatives | ⏳ Pending |
+| 7 | Integrals | ⏳ Pending |
+| 8 | Application of Integrals | ⏳ Pending |
+| 9 | Differential Equations | ⏳ Pending |
+| 10 | Vector Algebra | ⏳ Pending |
+| 11 | Three Dimensional Geometry | ⏳ Pending |
+| 12 | Linear Programming | ⏳ Pending |
+| 13 | Probability | ⏳ Pending |
+
+### Physics (40 Questions per Chapter)
+| Ch # | Chapter Title | Status |
+| :--- | :--- | :--- |
+| 1 | Electric Charges and Fields | ✅ v1 |
+| 2 | Electrostatic Potential and Capacitance | ⏳ Pending |
+| 3 | Current Electricity | ⏳ Pending |
+| 4 | Moving Charges and Magnetism | ⏳ Pending |
+| 5 | Magnetism and Matter | ⏳ Pending |
+| 6 | Electromagnetic Induction | ⏳ Pending |
+| 7 | Alternating Current | ⏳ Pending |
+| 8 | Electromagnetic Waves | ⏳ Pending |
+| 9 | Ray Optics and Optical Instruments | ⏳ Pending |
+| 10 | Wave Optics | ⏳ Pending |
+| 11 | Dual Nature of Radiation and Matter | ⏳ Pending |
+| 12 | Atoms | ⏳ Pending |
+| 13 | Nuclei | ⏳ Pending |
+| 14 | Semiconductor Electronics | ⏳ Pending |
+
+### English - Flamingo (40 Questions per Chapter)
+| Ch # | Chapter Title | Status |
+| :--- | :--- | :--- |
+| 1 | The Last Lesson | ✅ v1 |
+| 2 | Lost Spring | ⏳ Pending |
+| 3 | Deep Water | ⏳ Pending |
+| 4 | The Rattrap | ⏳ Pending |
+| 5 | Indigo | ⏳ Pending |
 
 ## Deployment & Android Integration Strategy
 

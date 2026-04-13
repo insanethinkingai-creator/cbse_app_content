@@ -45,6 +45,286 @@
       "correctIndex": 1,
       "explanation": "Horizontal distribution allows different organs of government placed at the same level to exercise different powers, ensuring a system of checks and balances.",
       "frequencyRating": 5
+    },
+    {
+      "id": "g10_c1_q6",
+      "text": "What is the ethnic composition of Belgium's capital, Brussels?",
+      "options": ["80% Dutch, 20% French", "80% French, 20% Dutch", "50% Dutch, 50% French", "90% German, 10% French"],
+      "correctIndex": 1,
+      "explanation": "In Brussels, 80% speak French while 20% are Dutch-speaking, which is the opposite of the country's overall composition.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c1_q7",
+      "text": "The majority of the population in Belgium lives in the ________ region and speaks ________ language.",
+      "options": ["Wallonia, French", "Flemish, Dutch", "Wallonia, Dutch", "Flemish, French"],
+      "correctIndex": 1,
+      "explanation": "59% of the population lives in the Flemish region and speaks the Dutch language.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c1_q8",
+      "text": "In Sri Lanka, the ________ community makes up 74% of the population.",
+      "options": ["Tamil", "Sinhala", "Muslim", "Christian"],
+      "correctIndex": 1,
+      "explanation": "The Sinhala-speakers are the majority ethnic group in Sri Lanka.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c1_q9",
+      "text": "Sri Lanka emerged as an independent country in:",
+      "options": ["1947", "1948", "1950", "1956"],
+      "correctIndex": 1,
+      "explanation": "Sri Lanka gained independence from British rule in 1948.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c1_q10",
+      "text": "Which religious group is predominantly followed by Sinhala speakers in Sri Lanka?",
+      "options": ["Hinduism", "Islam", "Buddhism", "Christianity"],
+      "correctIndex": 2,
+      "explanation": "Most of the Sinhala-speaking people are Buddhists.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c1_q11",
+      "text": "A belief that the majority community should be able to rule a country in whichever way it wants is called:",
+      "options": ["Democracy", "Majoritarianism", "Federalism", "Prudentialism"],
+      "correctIndex": 1,
+      "explanation": "Majoritarianism disregards the needs and wishes of the minority.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c1_q12",
+      "text": "The distrust between the Sinhala and Tamil communities in Sri Lanka led to a:",
+      "options": ["World War", "Cold War", "Civil War", "Revolution"],
+      "correctIndex": 2,
+      "explanation": "The ethnic conflict eventually escalated into a long-lasting Civil War.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c1_q13",
+      "text": "How many times was the Constitution of Belgium amended between 1970 and 1993?",
+      "options": ["Two times", "Three times", "Four times", "Five times"],
+      "correctIndex": 2,
+      "explanation": "The constitution was amended four times to work out an arrangement that would let everyone live together.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c1_q14",
+      "text": "Which city was chosen as the headquarters of the European Union?",
+      "options": ["Paris", "Berlin", "London", "Brussels"],
+      "correctIndex": 3,
+      "explanation": "Brussels was chosen as the HQ because of its successful model of power sharing.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c1_q15",
+      "text": "The idea of power sharing is based on which set of reasons?",
+      "options": ["Prudential and Moral", "Economic and Political", "Social and Cultural", "Internal and External"],
+      "correctIndex": 0,
+      "explanation": "Prudential reasons focus on better outcomes, while moral reasons focus on the value of democracy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c1_q16",
+      "text": "Which reason for power sharing emphasizes that it reduces the possibility of conflict between social groups?",
+      "options": ["Moral reason", "Prudential reason", "Legal reason", "Economic reason"],
+      "correctIndex": 1,
+      "explanation": "Prudential reasons are based on a careful calculation of gains and losses.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c1_q17",
+      "text": "Power sharing is the 'very spirit' of democracy. This is a ________ reason.",
+      "options": ["Prudential", "Moral", "Political", "Social"],
+      "correctIndex": 1,
+      "explanation": "Moral reasons emphasize the intrinsic worth of the act of power sharing.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c1_q18",
+      "text": "Horizontal distribution of power allows different organs of government to check each other. This is also called a system of:",
+      "options": ["Balance of Power", "Checks and Balances", "Separation of powers", "Centralization"],
+      "correctIndex": 1,
+      "explanation": "This ensures that none of the organs can exercise unlimited power.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c1_q19",
+      "text": "The division of power between the Union Government and the State Governments is an example of:",
+      "options": ["Horizontal sharing", "Vertical sharing", "Social sharing", "Political sharing"],
+      "correctIndex": 1,
+      "explanation": "This is a federal division of power at different levels.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c1_q20",
+      "text": "In India, power is shared among social groups such as ________ to give them a space in the government.",
+      "options": ["Religious groups", "Linguistic groups", "Reserved constituencies", "All of the above"],
+      "correctIndex": 2,
+      "explanation": "Reserved constituencies in assemblies and parliament are a way to share power with socially weaker sections.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c1_q21",
+      "text": "Coalition governments are an example of power sharing among:",
+      "options": ["Organs of government", "Levels of government", "Political parties", "Social groups"],
+      "correctIndex": 2,
+      "explanation": "When two or more parties form an alliance to contest elections or form a government, they share power.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c1_q22",
+      "text": "What is the official religion of Sri Lanka according to its constitution?",
+      "options": ["Hinduism", "Christianity", "Buddhism", "No official religion"],
+      "correctIndex": 2,
+      "explanation": "The Sri Lankan constitution stipulates that the state shall protect and foster Buddhism.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c1_q23",
+      "text": "Which community feels alienated in Sri Lanka due to government policies?",
+      "options": ["Sinhala", "Sri Lankan Tamils", "Muslims", "Indian Tamils"],
+      "correctIndex": 1,
+      "explanation": "Majoritarian policies made Tamils feel that their language and culture were being ignored.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c1_q24",
+      "text": "What does the term 'Ethnic' mean?",
+      "options": ["A religious group", "A social division based on shared culture", "A political faction", "A type of government"],
+      "correctIndex": 1,
+      "explanation": "People belonging to the same ethnic group believe in their common descent because of similarities of physical type or culture.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c1_q25",
+      "text": "The Walloon region of Belgium is predominantly:",
+      "options": ["Dutch-speaking", "French-speaking", "German-speaking", "Bilingual"],
+      "correctIndex": 1,
+      "explanation": "40% of Belgium's people live in Wallonia and speak French.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c1_q26",
+      "text": "In Belgium, the number of Dutch and French-speaking ministers ________ in the Central Government.",
+      "options": ["Shall be equal", "Is based on population", "Is decided by the King", "Shall be 2:1"],
+      "correctIndex": 0,
+      "explanation": "The constitution prescribes that the number of ministers from both linguistic groups shall be equal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c1_q27",
+      "text": "Brussels has a separate government in which both the communities have ________ representation.",
+      "options": ["Proportional", "Equal", "Majority", "Minority"],
+      "correctIndex": 1,
+      "explanation": "The French-speaking people accepted equal representation in Brussels because the Dutch had accepted it in the Central Government.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c1_q28",
+      "text": "Which group demanded an independent 'Tamil Eelam' in Sri Lanka?",
+      "options": ["Sinhala", "Sri Lankan Tamils", "Indian Tamils", "Christians"],
+      "correctIndex": 1,
+      "explanation": "The Tamils in the North and East demanded a separate state due to long-standing discrimination.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c1_q29",
+      "text": "Power sharing helps to avoid:",
+      "options": ["Elections", "Political instability", "Taxes", "Public debates"],
+      "correctIndex": 1,
+      "explanation": "By reducing social conflict, power sharing ensures the stability of the political order.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c1_q30",
+      "text": "Who exercises power in a democratic system?",
+      "options": ["Only the President", "The Army", "The People through their representatives", "Rich businessmen"],
+      "correctIndex": 2,
+      "explanation": "In a democracy, people are the source of all political power.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c1_q31",
+      "text": "Which of these is NOT a form of power sharing?",
+      "options": ["Horizontal distribution", "Vertical division", "Sharing among pressure groups", "Dictatorship"],
+      "correctIndex": 3,
+      "explanation": "Dictatorship is a system where power is concentrated in one hand, the opposite of power sharing.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c1_q32",
+      "text": "Pressure groups and movements help in sharing power by:",
+      "options": ["Fighting elections", "Influencing those in power", "Making laws directly", "Paying bribes"],
+      "correctIndex": 1,
+      "explanation": "By organizing interest groups, they ensure that power does not remain in one hand.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_c1_q33",
+      "text": "Indian Tamils in Sri Lanka are those whose forefathers came from India as ________ workers.",
+      "options": ["Factory", "Plantation", "Construction", "Government"],
+      "correctIndex": 1,
+      "explanation": "They were brought over during the colonial period to work on plantations.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g10_c1_q34",
+      "text": "What was the main reason for the 1950s tensions in Belgium?",
+      "options": ["Religion", "Economic inequality between Dutch and French", "Land disputes", "Foreign invasion"],
+      "correctIndex": 1,
+      "explanation": "The Dutch-speaking community got the benefit of economic development much later than the French.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c1_q35",
+      "text": "Majoritarianism in Sri Lanka led to ________.",
+      "options": ["Peace", "Economic boom", "Civil War", "European Union membership"],
+      "correctIndex": 2,
+      "explanation": "The exclusion of the minority led to a violent and long-lasting conflict.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c1_q36",
+      "text": "The Belgian model of power sharing is often called ________.",
+      "options": ["Federal", "Accommodative", "Unitary", "Strict"],
+      "correctIndex": 1,
+      "explanation": "Belgium's leaders took a path of accommodation to keep the country together.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c1_q37",
+      "text": "What percentage of Belgians speak German?",
+      "options": ["10%", "5%", "1%", "0.1%"],
+      "correctIndex": 2,
+      "explanation": "The German-speaking minority makes up 1% of the total population.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g10_c1_q38",
+      "text": "Judges are appointed by the executive but they can check the functioning of executive. This is an example of:",
+      "options": ["Checks and Balances", "Vertical division", "Federalism", "Majoritarianism"],
+      "correctIndex": 0,
+      "explanation": "This is the essence of horizontal power sharing.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g10_c1_q39",
+      "text": "In a democracy, the ________ have the power to choose their rulers.",
+      "options": ["Military", "Rich", "Citizens", "Priests"],
+      "correctIndex": 2,
+      "explanation": "Universal adult franchise ensures that all citizens have a role in choosing the government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g10_c1_q40",
+      "text": "The moral reason for power sharing emphasizes that it is:",
+      "options": ["Effective", "Valuable in itself", "Profitable", "Safe"],
+      "correctIndex": 1,
+      "explanation": "It emphasizes that a democratic rule involves sharing power with those affected by its exercise.",
+      "frequencyRating": 5
     }
   ]
 }

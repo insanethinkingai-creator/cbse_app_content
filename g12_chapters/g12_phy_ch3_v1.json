@@ -1,0 +1,330 @@
+{
+  "id": "g12_phy_ch3",
+  "grade": "12",
+  "subject": "Physics",
+  "number": "3",
+  "title": "Current Electricity",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_p3_q1",
+      "text": "The rate of flow of electric charge through any cross-section of a conductor is called:",
+      "options": ["Potential", "Resistance", "Electric Current", "Conductance"],
+      "correctIndex": 2,
+      "explanation": "I = q / t. The SI unit is Ampere.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p3_q2",
+      "text": "Which of the following is the SI unit of electric current?",
+      "options": ["Volt", "Ohm", "Ampere", "Watt"],
+      "correctIndex": 2,
+      "explanation": "One Ampere is the flow of one Coulomb of charge per second.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p3_q3",
+      "text": "The average velocity with which free electrons in a conductor get drifted towards the positive terminal under the influence of an electric field is:",
+      "options": ["RMS velocity", "Drift velocity", "Average thermal velocity", "Escape velocity"],
+      "correctIndex": 1,
+      "explanation": "Drift velocity (vd) is typically of the order of 10^-4 m/s.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p3_q4",
+      "text": "Ohm's law relates:",
+      "options": ["V and I", "V and R", "I and R", "All of these"],
+      "correctIndex": 0,
+      "explanation": "V = IR, stating that current through a conductor is directly proportional to potential difference across it.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p3_q5",
+      "text": "The resistance of a conductor is directly proportional to its ________ and inversely proportional to its ________.",
+      "options": ["Area, Length", "Length, Area", "Density, Area", "Temperature, Length"],
+      "correctIndex": 1,
+      "explanation": "R = ρ (L / A).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p3_q6",
+      "text": "The reciprocal of resistance is called:",
+      "options": ["Resistivity", "Conductance", "Conductivity", "Current density"],
+      "correctIndex": 1,
+      "explanation": "G = 1/R. Unit is mho or Siemens.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p3_q7",
+      "text": "The SI unit of resistivity is:",
+      "options": ["Ohm", "Ohm-meter", "Ohm/meter", "Siemens"],
+      "correctIndex": 1,
+      "explanation": "From R = ρL/A, ρ = RA/L. Units: Ohm * m^2 / m = Ohm-m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p3_q8",
+      "text": "With an increase in temperature, the resistance of a metallic conductor:",
+      "options": ["Increases", "Decreases", "Remains constant", "First increases then decreases"],
+      "correctIndex": 0,
+      "explanation": "Increased thermal vibration of lattice ions increases collisions for electrons.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p3_q9",
+      "text": "The resistance of a semiconductor ________ with increase in temperature.",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correctIndex": 1,
+      "explanation": "For semiconductors, the temperature coefficient of resistance is negative because more charge carriers are released at higher temperatures.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p3_q10",
+      "text": "Drift velocity (vd) and electric field (E) are related as:",
+      "options": ["vd ∝ E", "vd ∝ E^2", "vd ∝ 1/E", "vd ∝ √E"],
+      "correctIndex": 0,
+      "explanation": "vd = (eEτ / m), where τ is relaxation time.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p3_q11",
+      "text": "Current density 'j' is defined as:",
+      "options": ["I / A", "I * A", "V / I", "R / A"],
+      "correctIndex": 0,
+      "explanation": "It is the current flowing per unit area of cross-section held normal to the direction of current.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p3_q12",
+      "text": "EMF of a cell is the potential difference between terminals when:",
+      "options": ["Current is flowing", "No current is flowing", "Cell is short-circuited", "Internal resistance is zero"],
+      "correctIndex": 1,
+      "explanation": "Electromotive Force is the maximum potential difference in an open circuit.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p3_q13",
+      "text": "Internal resistance of a cell depends on:",
+      "options": ["Distance between electrodes", "Nature of electrolyte", "Area of electrodes", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Internal resistance is caused by the opposition offered by the electrolyte to the flow of ions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p3_q14",
+      "text": "Kirchhoff's First Law (Junction Rule) is based on the conservation of:",
+      "options": ["Energy", "Charge", "Momentum", "Mass"],
+      "correctIndex": 1,
+      "explanation": "Total current entering a junction must equal total current leaving it.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p3_q15",
+      "text": "Kirchhoff's Second Law (Loop Rule) is based on the conservation of:",
+      "options": ["Charge", "Energy", "Potential", "Mass"],
+      "correctIndex": 1,
+      "explanation": "The algebraic sum of changes in potential around any closed loop is zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p3_q16",
+      "text": "A Wheatstone bridge is balanced when:",
+      "options": ["P/Q = R/S", "P+Q = R+S", "PQ = RS", "P/R = S/Q"],
+      "correctIndex": 0,
+      "explanation": "Under balanced condition, no current flows through the galvanometer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p3_q17",
+      "text": "Electric power P is given by:",
+      "options": ["V I", "I^2 R", "V^2 / R", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Power is the rate at which electrical energy is dissipated.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p3_q18",
+      "text": "Terminal potential difference V of a cell of EMF E and internal resistance r when discharging is:",
+      "options": ["V = E + Ir", "V = E - Ir", "V = E", "V = Ir"],
+      "correctIndex": 1,
+      "explanation": "Potential drops across the internal resistance when current I is drawn.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p3_q19",
+      "text": "Relation between current I and drift velocity vd is:",
+      "options": ["I = neAvd", "I = nvd", "I = eAvd", "I = nA/vd"],
+      "correctIndex": 0,
+      "explanation": "n is number density of electrons, e is charge, A is area.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p3_q20",
+      "text": "The relaxation time (τ) in a conductor ________ with increase in temperature.",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes infinite"],
+      "correctIndex": 1,
+      "explanation": "Collisions become more frequent at higher temperatures, reducing the time between them.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p3_q21",
+      "text": "Materials which do not obey Ohm's law are called:",
+      "options": ["Ohmic conductors", "Non-ohmic conductors", "Superconductors", "Insulators"],
+      "correctIndex": 1,
+      "explanation": "Examples include vacuum tubes, semi-conductor diodes, and electrolytes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p3_q22",
+      "text": "Mobility (μ) of a charge carrier is defined as:",
+      "options": ["vd / E", "vd * E", "E / vd", "1 / vd"],
+      "correctIndex": 0,
+      "explanation": "It is the magnitude of drift velocity per unit electric field.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p3_q23",
+      "text": "SI unit of mobility is:",
+      "options": ["m^2 V^-1 s^-1", "m V s", "m^2 / s", "V / m"],
+      "correctIndex": 0,
+      "explanation": "Derived from (m/s) / (V/m) = m^2 / (Vs).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p3_q24",
+      "text": "When n identical cells each of EMF E and internal resistance r are connected in series, the total EMF is:",
+      "options": ["E", "nE", "E/n", "n^2 E"],
+      "correctIndex": 1,
+      "explanation": "Series connection adds up the EMFs.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p3_q25",
+      "text": "When n identical cells each of EMF E and internal resistance r are connected in parallel, the total EMF is:",
+      "options": ["E", "nE", "E/n", "n^2 E"],
+      "correctIndex": 0,
+      "explanation": "In parallel, the potential difference across the combination remains equal to the EMF of a single cell.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p3_q26",
+      "text": "A wire of resistance R is stretched to double its length. Its new resistance will be:",
+      "options": ["2R", "4R", "R/2", "R/4"],
+      "correctIndex": 1,
+      "explanation": "When L doubles, area A halves (volume is constant). R' = ρ(2L)/(A/2) = 4ρL/A = 4R.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p3_q27",
+      "text": "Kilowatt-hour (kWh) is a unit of:",
+      "options": ["Power", "Electric Energy", "Force", "Potential"],
+      "correctIndex": 1,
+      "explanation": "1 kWh = 3.6 * 10^6 Joules.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p3_q28",
+      "text": "The drift velocity is very small, yet electric bulbs light up almost instantly because:",
+      "options": ["Electrons move very fast", "Electric field is established at speed of light", "Wire is short", "None"],
+      "correctIndex": 1,
+      "explanation": "The field pushes every electron in the circuit simultaneously.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p3_q29",
+      "text": "Current is a ________ quantity.",
+      "options": ["Vector", "Scalar", "Tensor", "None"],
+      "correctIndex": 1,
+      "explanation": "Although it has direction, it does not follow vector addition laws.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p3_q30",
+      "text": "Resistance of an ideal ammeter is:",
+      "options": ["Zero", "Infinite", "High", "Low"],
+      "correctIndex": 0,
+      "explanation": "An ammeter is connected in series; zero resistance ensures it doesn't change the current in the circuit.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p3_q31",
+      "text": "Resistance of an ideal voltmeter is:",
+      "options": ["Zero", "Infinite", "High", "Low"],
+      "correctIndex": 1,
+      "explanation": "Voltmeter is connected in parallel; infinite resistance ensures it draws no current from the branch.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p3_q32",
+      "text": "In a potentiometer, for a constant current, the potential drop is proportional to:",
+      "options": ["Area", "Length", "Resistance", "1/Length"],
+      "correctIndex": 1,
+      "explanation": "V = IR = I (ρL/A). Since I, ρ, A are constant, V ∝ L.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p3_q33",
+      "text": "Which material is used to make standard resistors due to low temperature coefficient?",
+      "options": ["Copper", "Silver", "Manganin", "Aluminum"],
+      "correctIndex": 2,
+      "explanation": "Manganin and Constantan show very little change in resistance with temperature.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p3_q34",
+      "text": "During charging of a cell, terminal potential V is:",
+      "options": ["V = E + Ir", "V = E - Ir", "V = E", "V = Ir"],
+      "correctIndex": 0,
+      "explanation": "Current flows into the positive terminal during charging.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p3_q35",
+      "text": "The resistivity of insulators is of the order of:",
+      "options": ["10^-8 Ωm", "10^4 Ωm", "10^12 to 10^16 Ωm", "1 Ωm"],
+      "correctIndex": 2,
+      "explanation": "Insulators have extremely high resistance to current flow.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_p3_q36",
+      "text": "Condition of balanced Wheatstone bridge is used in:",
+      "options": ["Meter Bridge", "Ammeter", "Voltmeter", "Galvanometer"],
+      "correctIndex": 0,
+      "explanation": "Meter bridge is a practical form of Wheatstone bridge used to measure unknown resistance.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p3_q37",
+      "text": "When cells are connected in series, the total internal resistance is:",
+      "options": ["r", "nr", "r/n", "n^2 r"],
+      "correctIndex": 1,
+      "explanation": "Resistance adds up in series.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p3_q38",
+      "text": "Two resistors R1 and R2 are in parallel. Equivalent resistance Rp is:",
+      "options": ["R1 + R2", "R1 R2 / (R1 + R2)", "(R1 + R2) / R1 R2", "√(R1 R2)"],
+      "correctIndex": 1,
+      "explanation": "1/Rp = 1/R1 + 1/R2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p3_q39",
+      "text": "The path of electrons in a conductor in the absence of electric field is:",
+      "options": ["Straight line", "Circular", "Parabolic", "Random zig-zag"],
+      "correctIndex": 3,
+      "explanation": "Due to random thermal collisions with ions.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p3_q40",
+      "text": "The color code of a resistor with 5% tolerance ends with a ________ band.",
+      "options": ["Silver", "Gold", "Red", "Brown"],
+      "correctIndex": 1,
+      "explanation": "Gold represents 5%, Silver represents 10% tolerance.",
+      "frequencyRating": 4
+    }
+  ]
+}

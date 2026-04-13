@@ -3,7 +3,7 @@ import json
 import sys
 
 # Configuration
-GITHUB_USER = "balajic"
+GITHUB_USER = "insanethinkingai-creator"
 GITHUB_REPO = "cbse_app_content"
 TARGET_FILE = "version.json"
 
@@ -11,7 +11,7 @@ def purge_jsdelivr_cache(file_path):
     """
     Triggers a cache purge on jsDelivr for a specific file.
     """
-    purge_url = f"https://purge.jsdelivr.net/gh/{GITHUB_USER}/{GITHUB_REPO}@main/{file_path}"
+    purge_url = f"https://purge.jsdelivr.net/gh/{GITHUB_USER}/{GITHUB_REPO}@latest/{file_path}"
     
     print(f"--- CDN Purge Utility ---")
     print(f"Target: {GITHUB_USER}/{GITHUB_REPO} -> {file_path}")

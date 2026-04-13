@@ -1,0 +1,250 @@
+{
+  "id": "g12_phy_ch5",
+  "grade": "12",
+  "subject": "Physics",
+  "number": "5",
+  "title": "Magnetism and Matter",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_p5_q1",
+      "text": "Magnetic field lines form ________ loops.",
+      "options": ["Open", "Continuous closed", "Circular only", "Rectangular"],
+      "correctIndex": 1,
+      "explanation": "Unlike electric field lines, magnetic field lines have no beginning or end.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p5_q2",
+      "text": "The direction of magnetic field lines outside a bar magnet is from:",
+      "options": ["South to North", "North to South", "East to West", "Center to ends"],
+      "correctIndex": 1,
+      "explanation": "Outside the magnet lines emerge from North and enter South.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p5_q3",
+      "text": "The SI unit of magnetic dipole moment is:",
+      "options": ["Tesla", "Ampere-meter²", "Weber", "Newton/Ampere"],
+      "correctIndex": 1,
+      "explanation": "M = NIA, where I is current and A is area.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p5_q4",
+      "text": "According to Gauss's Law for magnetism, the net magnetic flux through any closed surface is:",
+      "options": ["μ₀ * enclosed current", "Zero", "enclosed charge / ε₀", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "This indicates that isolated magnetic poles (monopoles) do not exist.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p5_q5",
+      "text": "The magnetic potential energy of a dipole in a uniform magnetic field is U = ",
+      "options": ["-m . B", "m . B", "m x B", "Zero"],
+      "correctIndex": 0,
+      "explanation": "U = -mB cos θ. It is minimum when m is parallel to B.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p5_q6",
+      "text": "Which of the following is NOT an element of Earth's magnetic field?",
+      "options": ["Magnetic Declination", "Magnetic Inclination (Dip)", "Horizontal Component", "Magnetic Flux"],
+      "correctIndex": 3,
+      "explanation": "Declination, Dip, and Horizontal component are the three parameters that define Earth's magnetic field at a place.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p5_q7",
+      "text": "At the magnetic poles of Earth, the angle of dip is:",
+      "options": ["0°", "45°", "90°", "180°"],
+      "correctIndex": 2,
+      "explanation": "At poles, the field lines are vertical, so the needle stands perpendicular to the surface.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p5_q8",
+      "text": "At the magnetic equator, the angle of dip is:",
+      "options": ["0°", "90°", "45°", "None"],
+      "correctIndex": 0,
+      "explanation": "At the equator, the magnetic field is horizontal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p5_q9",
+      "text": "Substances which develop weak magnetization in the direction opposite to the external field are:",
+      "options": ["Paramagnetic", "Ferromagnetic", "Diamagnetic", "Non-magnetic"],
+      "correctIndex": 2,
+      "explanation": "Diamagnetism is a universal property but is very weak and often masked by other types.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p5_q10",
+      "text": "Substances which develop strong magnetization in the direction of the external field are:",
+      "options": ["Paramagnetic", "Ferromagnetic", "Diamagnetic", "Insulators"],
+      "correctIndex": 1,
+      "explanation": "Ferromagnetic materials (like Iron) show strong alignment of domains.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p5_q11",
+      "text": "The temperature above which a ferromagnetic material becomes paramagnetic is called:",
+      "options": ["Curie temperature", "Critical temperature", "Boiling point", "Boyle temperature"],
+      "correctIndex": 0,
+      "explanation": "At high temperatures, thermal agitation destroys the domain alignment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p5_q12",
+      "text": "Magnetic susceptibility (χ) is negative for:",
+      "options": ["Paramagnetic materials", "Ferromagnetic materials", "Diamagnetic materials", "All materials"],
+      "correctIndex": 2,
+      "explanation": "Negative χ means the material opposes the applied field.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p5_q13",
+      "text": "Curie's Law for paramagnetic materials states that susceptibility is inversely proportional to:",
+      "options": ["Pressure", "Absolute Temperature", "Magnetic Field", "Density"],
+      "correctIndex": 1,
+      "explanation": "χ = C / T, where C is Curie constant.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p5_q14",
+      "text": "Soft iron is used to make electromagnets because it has:",
+      "options": ["High retentivity, high coercivity", "Low retentivity, low coercivity", "High permeability, low retentivity", "Low permeability, high coercivity"],
+      "correctIndex": 2,
+      "explanation": "Electromagnets need to be easily magnetized and demagnetized.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p5_q15",
+      "text": "The property of a material to retain its magnetism even after the external field is removed is:",
+      "options": ["Coercivity", "Retentivity", "Susceptibility", "Permeability"],
+      "correctIndex": 1,
+      "explanation": "High retentivity is required for permanent magnets.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p5_q16",
+      "text": "The magnetic field produced by a bar magnet at a large distance 'r' on its axis varies as:",
+      "options": ["1/r", "1/r²", "1/r³", "r"],
+      "correctIndex": 2,
+      "explanation": "B_axial ≈ (μ₀ / 4π) * (2m / r³).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p5_q17",
+      "text": "The work done in rotating a magnetic dipole from θ₁ to θ₂ in a magnetic field is:",
+      "options": ["mB(cos θ₁ - cos θ₂)", "mB(sin θ₁ - sin θ₂)", "mB(cos θ₂ - cos θ₁)", "Zero"],
+      "correctIndex": 0,
+      "explanation": "Derived from W = ∫ τ dθ = ∫ mB sin θ dθ.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p5_q18",
+      "text": "A compass needle is a ________ magnet.",
+      "options": ["Permanent", "Temporary", "Large", "None"],
+      "correctIndex": 0,
+      "explanation": "It is a small magnetized needle that aligns with Earth's magnetic field.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p5_q19",
+      "text": "The angle between the geographic meridian and magnetic meridian at a place is:",
+      "options": ["Angle of Dip", "Magnetic Declination", "Azimuth", "Inclination"],
+      "correctIndex": 1,
+      "explanation": "This angle varies from place to place on Earth's surface.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p5_q20",
+      "text": "The vertical component of Earth's magnetic field at the equator is:",
+      "options": ["Maximum", "Zero", "Equal to horizontal component", "None"],
+      "correctIndex": 1,
+      "explanation": "Since dip is 0°, B_v = B sin 0° = 0.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p5_q21",
+      "text": "Relative permeability (μᵣ) and susceptibility (χ) are related as:",
+      "options": ["μᵣ = 1 + χ", "μᵣ = 1 - χ", "χ = 1 + μᵣ", "μᵣ = χ"],
+      "correctIndex": 0,
+      "explanation": "Dimensionless relation between material properties.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p5_q22",
+      "text": "For a diamagnetic substance, relative permeability μᵣ is:",
+      "options": ["> 1", "< 1", "Equal to 1", "Zero"],
+      "correctIndex": 1,
+      "explanation": "Since χ is negative, μᵣ = 1 + χ will be less than 1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p5_q23",
+      "text": "Permanent magnets are made of materials with:",
+      "options": ["High retentivity, low coercivity", "Low retentivity, high coercivity", "High retentivity, high coercivity", "Low retentivity, low coercivity"],
+      "correctIndex": 2,
+      "explanation": "Materials like Steel or Alnico are used so the magnetism is not easily lost.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p5_q24",
+      "text": "Liquid oxygen is ________ in nature.",
+      "options": ["Diamagnetic", "Paramagnetic", "Ferromagnetic", "Anti-ferromagnetic"],
+      "correctIndex": 1,
+      "explanation": "Oxygen molecules have unpaired electrons, making it paramagnetic.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_p5_q25",
+      "text": "The phenomenon of lagging of intensity of magnetization behind the magnetic field is:",
+      "options": ["Resonance", "Hysteresis", "Induction", "Saturation"],
+      "correctIndex": 1,
+      "explanation": "Derived from the Greek word meaning 'to lag behind'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p5_q26",
+      "text": "Magnetic poles ________ be separated.",
+      "options": ["Can", "Cannot", "Can at high temp", "Can at low temp"],
+      "correctIndex": 1,
+      "explanation": "Breaking a magnet results in two smaller magnets, each with both poles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p5_q27",
+      "text": "Magnetic field at a point on the equatorial line of a bar magnet is ________ to its dipole moment.",
+      "options": ["Parallel", "Anti-parallel", "Perpendicular", "At 45°"],
+      "correctIndex": 1,
+      "explanation": "B_equatorial = -(μ₀ / 4π) * (m / r³). The negative sign indicates opposite direction.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p5_q28",
+      "text": "Neutral point is a point where the external field is balanced by:",
+      "options": ["Electric field", "Horizontal component of Earth's field", "Gravitational field", "None"],
+      "correctIndex": 1,
+      "explanation": "At a neutral point, the net magnetic field is zero.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p5_q29",
+      "text": "Magnetization 'M' is defined as magnetic moment per unit:",
+      "options": ["Area", "Mass", "Volume", "Length"],
+      "correctIndex": 2,
+      "explanation": "Units: A/m.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p5_q30",
+      "text": "Superconductors exhibit ________ diamagnetism.",
+      "options": ["Weak", "Zero", "Perfect", "Temporary"],
+      "correctIndex": 2,
+      "explanation": "This is known as the Meissner Effect; they expel all magnetic flux.",
+      "frequencyRating": 3
+    }
+  ]
+}

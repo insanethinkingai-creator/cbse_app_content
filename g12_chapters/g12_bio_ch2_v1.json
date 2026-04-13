@@ -1,0 +1,250 @@
+{
+  "id": "g12_bio_ch2",
+  "grade": "12",
+  "subject": "Biology",
+  "number": "2",
+  "title": "Human Reproduction",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_b2_q1",
+      "text": "The primary sex organs in males are:",
+      "options": ["Penis", "Testes", "Prostate gland", "Seminal vesicles"],
+      "correctIndex": 1,
+      "explanation": "Testes produce sperms and male sex hormones like testosterone.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q2",
+      "text": "The pouch-like sac where testes are situated outside the abdominal cavity is:",
+      "options": ["Scrotum", "Epididymis", "Vas deferens", "Urethra"],
+      "correctIndex": 0,
+      "explanation": "Scrotum maintains a temperature 2-2.5°C lower than body temperature for spermatogenesis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q3",
+      "text": "The structural and functional units of testes where sperms are produced are:",
+      "options": ["Rete testis", "Seminiferous tubules", "Vasa efferentia", "Interstitial cells"],
+      "correctIndex": 1,
+      "explanation": "Each lobule contains 1 to 3 highly coiled seminiferous tubules.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q4",
+      "text": "Leydig cells (interstitial cells) secrete:",
+      "options": ["Estrogen", "Progesterone", "Androgens (Testosterone)", "Inhibin"],
+      "correctIndex": 2,
+      "explanation": "Leydig cells are found in the regions outside seminiferous tubules.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q5",
+      "text": "The path of sperm transport is: Rete testis -> ________ -> Epididymis -> Vas deferens.",
+      "options": ["Seminal vesicle", "Vasa efferentia", "Ejaculatory duct", "Urethra"],
+      "correctIndex": 1,
+      "explanation": "Vasa efferentia leave the testis and open into the epididymis.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b2_q6",
+      "text": "The secretion of which glands constitute the seminal plasma?",
+      "options": ["Seminal vesicles", "Prostate gland", "Bulbourethral glands", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Seminal plasma is rich in fructose, calcium and certain enzymes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q7",
+      "text": "In females, the primary sex organs are:",
+      "options": ["Uterus", "Ovaries", "Fallopian tubes", "Vagina"],
+      "correctIndex": 1,
+      "explanation": "Ovaries produce the female gamete (ovum) and steroid hormones.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q8",
+      "text": "Fertilization usually occurs in which part of the female reproductive system?",
+      "options": ["Uterus", "Cervix", "Ampullary-isthmic junction of Fallopian tube", "Vagina"],
+      "correctIndex": 2,
+      "explanation": "The ovum and sperm must be transported simultaneously to this junction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q9",
+      "text": "The innermost lining of the uterus that undergoes cyclic changes during the menstrual cycle is:",
+      "options": ["Perimetrium", "Myometrium", "Endometrium", "Mesometrium"],
+      "correctIndex": 2,
+      "explanation": "Endometrium is glandular and is shed during menstruation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q10",
+      "text": "The process of formation of mature female gametes is:",
+      "options": ["Spermatogenesis", "Oogenesis", "Gestation", "Parturition"],
+      "correctIndex": 1,
+      "explanation": "Oogenesis is initiated during the embryonic development stage.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q11",
+      "text": "Spermatogenesis is initiated at puberty due to the increase in secretion of:",
+      "options": ["GnRH", "Thyroxine", "Adrenaline", "Melatonin"],
+      "correctIndex": 0,
+      "explanation": "Gonadotropin Releasing Hormone (GnRH) stimulates the pituitary to release LH and FSH.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q12",
+      "text": "The part of the sperm that contains enzymes to help in penetration of the ovum is:",
+      "options": ["Head", "Neck", "Middle piece", "Acrosome"],
+      "correctIndex": 3,
+      "explanation": "Acrosome is a cap-like structure at the anterior portion of the head.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q13",
+      "text": "Ovulation is the release of secondary oocyte from the:",
+      "options": ["Primary follicle", "Secondary follicle", "Tertiary follicle", "Graafian follicle"],
+      "correctIndex": 3,
+      "explanation": "The Graafian follicle ruptures to release the ovum around the 14th day of the cycle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q14",
+      "text": "The phase of the menstrual cycle where the endometrium regenerates through proliferation is:",
+      "options": ["Menstrual phase", "Follicular phase", "Luteal phase", "Secretory phase"],
+      "correctIndex": 1,
+      "explanation": "Also known as the proliferative phase, stimulated by estrogen.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q15",
+      "text": "The temporary endocrine gland formed in the ovary after ovulation is:",
+      "options": ["Graafian follicle", "Corpus luteum", "Corpus albicans", "Polar body"],
+      "correctIndex": 1,
+      "explanation": "Corpus luteum secretes large amounts of progesterone essential for maintaining the endometrium.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q16",
+      "text": "Cessation of menstrual cycles around age 50 is called:",
+      "options": ["Menarche", "Menopause", "Puberty", "Implantation"],
+      "correctIndex": 1,
+      "explanation": "Menarche is the beginning, menopause is the end of reproductive life.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q17",
+      "text": "The layer of the ovum that the sperm first comes in contact with is:",
+      "options": ["Corona radiata", "Zona pellucida", "Perivitelline space", "Plasma membrane"],
+      "correctIndex": 1,
+      "explanation": "Binding to zona pellucida induces changes in the membrane to block entry of additional sperms.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q18",
+      "text": "The zygote undergoes mitotic division called 'cleavage' to form a 8-16 celled embryo called:",
+      "options": ["Trophoblast", "Blastocyst", "Morula", "Gastrula"],
+      "correctIndex": 2,
+      "explanation": "Morula resembles a little mulberry.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q19",
+      "text": "Implantation occurs when the ________ becomes embedded in the endometrium.",
+      "options": ["Zygote", "Morula", "Blastocyst", "Secondary oocyte"],
+      "correctIndex": 2,
+      "explanation": "The trophoblast layer of blastocyst attaches to the uterine wall.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q20",
+      "text": "The structure that acts as an endocrine tissue and provides nutrients/oxygen to the fetus is:",
+      "options": ["Umbilical cord", "Amnion", "Placenta", "Yolk sac"],
+      "correctIndex": 2,
+      "explanation": "Placenta connects the fetal and maternal blood systems for exchange of materials.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q21",
+      "text": "Which hormone is produced in women only during pregnancy?",
+      "options": ["hCG", "hPL", "Relaxin", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Human chorionic gonadotropin (hCG), human placental lactogen (hPL) and relaxin are pregnancy-specific.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q22",
+      "text": "The first sign of growing fetus after one month of pregnancy is:",
+      "options": ["Movement of limbs", "Formation of heart", "Opening of eyes", "Appearance of hair"],
+      "correctIndex": 1,
+      "explanation": "The heart sound can be heard through a stethoscope.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b2_q23",
+      "text": "Parturition is the process of:",
+      "options": ["Egg formation", "Sperm release", "Delivery of the fetus", "Milk production"],
+      "correctIndex": 2,
+      "explanation": "It is induced by a complex neuroendocrine mechanism.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q24",
+      "text": "The hormone that causes strong uterine contractions during labor is:",
+      "options": ["Estrogen", "Oxytocin", "Progesterone", "Prolactin"],
+      "correctIndex": 1,
+      "explanation": "Oxytocin is released from the maternal pituitary gland.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q25",
+      "text": "The first milk produced after childbirth which contains essential antibodies (IgA) is:",
+      "options": ["Lactose", "Colostrum", "Casein", "Serum"],
+      "correctIndex": 1,
+      "explanation": "Colostrum provides passive immunity to the newborn.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q26",
+      "text": "How many sperms are produced from one primary spermatocyte?",
+      "options": ["1", "2", "4", "8"],
+      "correctIndex": 2,
+      "explanation": "One diploid primary spermatocyte undergoes meiosis to produce four haploid spermatids.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b2_q27",
+      "text": "The middle piece of sperm contains ________ to provide energy for movement.",
+      "options": ["Nucleus", "Ribosomes", "Mitochondria", "Centrioles"],
+      "correctIndex": 2,
+      "explanation": "Numerous mitochondria power the tail for motility.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q28",
+      "text": "The finger-like projections at the edges of the Fallopian tube infundibulum are:",
+      "options": ["Villi", "Fimbriae", "Cilia", "Flagella"],
+      "correctIndex": 1,
+      "explanation": "Fimbriae help in collection of the ovum after ovulation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b2_q29",
+      "text": "The sex of the human baby is determined by the:",
+      "options": ["Mother", "Father", "Both", "Chance only"],
+      "correctIndex": 1,
+      "explanation": "Father provides either X or Y chromosome; the presence of Y determines male sex.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q30",
+      "text": "Spermiogenesis is the process of conversion of spermatids into:",
+      "options": ["Spermatogonia", "Spermatocytes", "Spermatozoa (sperms)", "Primary germ cells"],
+      "correctIndex": 2,
+      "explanation": "This is the final step of sperm maturation.",
+      "frequencyRating": 4
+    }
+  ]
+}
