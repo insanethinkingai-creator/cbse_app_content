@@ -1,0 +1,250 @@
+{
+  "id": "g12_chem_ch4",
+  "grade": "12",
+  "subject": "Chemistry",
+  "number": "4",
+  "title": "d-and f-Block Elements",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_c4_q1",
+      "text": "Transition elements are those which have partially filled ________ in their ground state or common oxidation states.",
+      "options": ["s-orbitals", "p-orbitals", "d-orbitals", "f-orbitals"],
+      "correctIndex": 2,
+      "explanation": "Elements like Zn, Cd, Hg are not technically transition elements because they have full d-orbitals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c4_q2",
+      "text": "Which of the following is NOT a transition element?",
+      "options": ["Iron", "Copper", "Zinc", "Manganese"],
+      "correctIndex": 2,
+      "explanation": "Zinc has a fully filled 3d¹⁰ configuration in its ground state and Zn²+ ion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c4_q3",
+      "text": "The general electronic configuration of d-block elements is:",
+      "options": ["(n-1)d¹⁻¹⁰ ns¹⁻²", "(n-1)d¹⁻¹⁰ ns⁰⁻²", "nd¹⁻¹⁰ ns²", "ns² np⁶ nd¹⁰"],
+      "correctIndex": 1,
+      "explanation": "The (n-1)d subshell is filled before the ns subshell is fully utilized in some cases.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c4_q4",
+      "text": "Which element in the 3d series shows the maximum number of oxidation states?",
+      "options": ["Scandium", "Manganese", "Iron", "Zinc"],
+      "correctIndex": 1,
+      "explanation": "Manganese shows oxidation states from +2 to +7.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c4_q5",
+      "text": "Transition elements show paramagnetic behavior due to the presence of:",
+      "options": ["Paired electrons", "Unpaired electrons", "Empty orbitals", "High nuclear charge"],
+      "correctIndex": 1,
+      "explanation": "Paramagnetism increases with the number of unpaired electrons.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c4_q6",
+      "text": "The 'spin-only' formula for magnetic moment (μ) is:",
+      "options": ["μ = √[n(n+2)]", "μ = √[n(n+1)]", "μ = n(n+2)", "μ = 2n + 1"],
+      "correctIndex": 0,
+      "explanation": "n is the number of unpaired electrons. Unit is Bohr Magneton (BM).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c4_q7",
+      "text": "The color of transition metal ions is due to ________ transitions.",
+      "options": ["s-s", "p-p", "d-d", "f-f"],
+      "correctIndex": 2,
+      "explanation": "Electrons are excited from a lower energy d-orbital to a higher energy d-orbital by absorbing visible light.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c4_q8",
+      "text": "Transition metals and their compounds are good catalysts because:",
+      "options": ["They have variable oxidation states", "They provide large surface area", "They can form intermediates", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Compounds like V₂O₅ and Fe are widely used in industrial processes like Haber and Contact processes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c4_q9",
+      "text": "Interstitial compounds are formed when small atoms like ________ are trapped inside the crystal lattice of metals.",
+      "options": ["H, C, N", "Na, K, Ca", "He, Ne, Ar", "Pb, Sn, Sb"],
+      "correctIndex": 0,
+      "explanation": "These compounds are usually non-stoichiometric and very hard.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c4_q10",
+      "text": "The steady decrease in atomic and ionic radii of lanthanoid elements with increase in atomic number is called:",
+      "options": ["Actinoid contraction", "Lanthanoid contraction", "Shielding effect", "Electronegativity"],
+      "correctIndex": 1,
+      "explanation": "It is due to poor shielding of 4f electrons.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c4_q11",
+      "text": "Because of lanthanoid contraction, which pairs of elements have nearly identical radii?",
+      "options": ["Zr and Hf", "Ti and Zr", "Fe and Co", "Sc and Y"],
+      "correctIndex": 0,
+      "explanation": "Zirconium (4d) and Hafnium (5d) have almost the same size, leading to similar chemical properties.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c4_q12",
+      "text": "The most common oxidation state of lanthanoids is:",
+      "options": ["+2", "+3", "+4", "+5"],
+      "correctIndex": 1,
+      "explanation": "While some show +2 or +4, +3 is the dominant state for all lanthanoids.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c4_q13",
+      "text": "Actinoids show a wider range of oxidation states than lanthanoids because:",
+      "options": ["5f, 6d and 7s levels are comparable in energy", "4f electrons shield better", "They are all radioactive", "They are larger in size"],
+      "correctIndex": 0,
+      "explanation": "The energy gap between subshells is smaller in actinoids, allowing more electrons to participate in bonding.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c4_q14",
+      "text": "Mischmetall is an alloy containing mostly:",
+      "options": ["Lanthanoid metals", "Actinoid metals", "Transition metals", "Alkali metals"],
+      "correctIndex": 0,
+      "explanation": "Used in cigarette lighters and toys; contains ~95% lanthanoids and ~5% iron.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c4_q15",
+      "text": "Which ion is colorless in aqueous solution?",
+      "options": ["Ti⁴+", "Cu²+", "Fe³+", "Ni²+" ],
+      "correctIndex": 0,
+      "explanation": "Ti⁴+ has a 3d⁰ configuration (no d-electrons), so d-d transition is not possible.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c4_q16",
+      "text": "The magnetic moment of a divalent ion with atomic number 25 is:",
+      "options": ["5.92 BM", "4.90 BM", "3.87 BM", "1.73 BM"],
+      "correctIndex": 0,
+      "explanation": "Z=25 is Mn. Mn²+ is 3d⁵. n=5. μ = √[5(7)] = √35 ≈ 5.92.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c4_q17",
+      "text": "KMnO₄ acts as a strong ________ agent in acidic medium.",
+      "options": ["Reducing", "Oxidizing", "Dehydrating", "Catalytic"],
+      "correctIndex": 1,
+      "explanation": "Mn is reduced from +7 to +2 in acidic solution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c4_q18",
+      "text": "The chromate ion (CrO₄²⁻) changes to dichromate ion (Cr₂O₇²⁻) in ________ medium.",
+      "options": ["Acidic", "Basic", "Neutral", "Gaseous"],
+      "correctIndex": 0,
+      "explanation": "2 CrO₄²⁻ + 2 H⁺ -> Cr₂O₇²⁻ + H₂O.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c4_q19",
+      "text": "Which of the following has the highest melting point?",
+      "options": ["Cr", "Mn", "Fe", "Cu"],
+      "correctIndex": 0,
+      "explanation": "Cr has more unpaired electrons available for metallic bonding compared to Mn (which has a stable half-filled shell).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c4_q20",
+      "text": "Standard electrode potential (E°) for Cu²+/Cu is:",
+      "options": ["Positive", "Negative", "Zero", "Variable"],
+      "correctIndex": 0,
+      "explanation": "Copper is unique in the 3d series for having a positive E° value (+0.34V), meaning it is not easily oxidized by acids.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c4_q21",
+      "text": "The silver-white metal used in making stainless steel is:",
+      "options": ["Ni", "Cr", "Co", "V"],
+      "correctIndex": 1,
+      "explanation": "Chromium provides corrosion resistance.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c4_q22",
+      "text": "Inner transition elements are also known as:",
+      "options": ["d-block elements", "f-block elements", "s-block elements", "Noble gases"],
+      "correctIndex": 1,
+      "explanation": "The last electron enters the (n-2)f subshell.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c4_q23",
+      "text": "Which element is the last member of the lanthanoid series?",
+      "options": ["Lanthanum", "Lutetium", "Cerium", "Promethium"],
+      "correctIndex": 1,
+      "explanation": "Lutetium (Lu) has atomic number 71.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c4_q24",
+      "text": "Alloys of transition metals are formed easily because:",
+      "options": ["They have similar atomic sizes", "They have high melting points", "They are all solids", "They belong to the same group"],
+      "correctIndex": 0,
+      "explanation": "Small difference in radii allows one metal atom to replace another in the crystal lattice.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c4_q25",
+      "text": "Which actinoid is used as fuel in nuclear reactors?",
+      "options": ["Thorium", "Uranium", "Plutonium", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Heavy actinoids are significant sources of nuclear energy.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c4_q26",
+      "text": "Formation of complexes is a characteristic property of transition metals due to:",
+      "options": ["Small size of metal ions", "High ionic charge", "Availability of vacant d-orbitals", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "These factors facilitate the acceptance of electron pairs from ligands.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c4_q27",
+      "text": "The electronic configuration of Gd (Z=64) is:",
+      "options": ["[Xe] 4f⁷ 5d¹ 6s²", "[Xe] 4f⁸ 6s²", "[Xe] 4f⁷ 5d² 6s¹", "[Xe] 4f⁹ 6s²"],
+      "correctIndex": 0,
+      "explanation": "Gadolinium has an extra electron in 5d to maintain the stable half-filled 4f⁷ state.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c4_q28",
+      "text": "Cerium (IV) is a strong ________ because it tends to reach the +3 state.",
+      "options": ["Oxidizing agent", "Reducing agent", "Acid", "Base"],
+      "correctIndex": 0,
+      "explanation": "Ce⁴⁺ + e⁻ -> Ce³⁺ (Standard state).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c4_q29",
+      "text": "The catalyst used in the manufacture of polyethylene (Ziegler-Natta catalyst) is a mixture of TiCl₄ and:",
+      "options": ["Al(C₂H₅)₃", "V₂O₅", "PdCl₂", "Fe"],
+      "correctIndex": 0,
+      "explanation": "Triethylaluminium is used with titanium tetrachloride.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c4_q30",
+      "text": "In the volumetric estimation of Fe²+ ions, which reagent is used as self-indicator?",
+      "options": ["K₂Cr₂O₇", "KMnO₄", "Iodine", "Oxalic acid"],
+      "correctIndex": 1,
+      "explanation": "Potassium permanganate acts as its own indicator as its pink color disappears until the endpoint.",
+      "frequencyRating": 4
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "id": "g12_chem_ch3",
+  "grade": "12",
+  "subject": "Chemistry",
+  "number": "3",
+  "title": "Chemical Kinetics",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_c3_q1",
+      "text": "The rate of a chemical reaction is defined as:",
+      "options": ["Change in concentration of reactant per unit time", "Change in concentration of product per unit time", "Both A and B", "Mass of reactant used"],
+      "correctIndex": 2,
+      "explanation": "Rate = -d[R]/dt = d[P]/dt.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c3_q2",
+      "text": "For a reaction A + B -> C, the rate law is Rate = k[A]^x[B]^y. The overall order of reaction is:",
+      "options": ["x", "y", "x + y", "x * y"],
+      "correctIndex": 2,
+      "explanation": "The order of a reaction is the sum of the powers of the concentration terms in the rate law expression.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c3_q3",
+      "text": "The unit of rate constant (k) for a zero-order reaction is:",
+      "options": ["s⁻¹", "mol L⁻¹ s⁻¹", "L mol⁻¹ s⁻¹", "L² mol⁻² s⁻¹"],
+      "correctIndex": 1,
+      "explanation": "In zero order, Rate = k. Thus, the unit of k is the same as the unit of rate.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c3_q4",
+      "text": "The unit of rate constant (k) for a first-order reaction is:",
+      "options": ["mol L⁻¹ s⁻¹", "s⁻¹", "L mol⁻¹ s⁻¹", "mol L⁻¹"],
+      "correctIndex": 1,
+      "explanation": "Rate = k[A] => k = Rate/[A] = (mol/Ls) / (mol/L) = s⁻¹.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c3_q5",
+      "text": "Molecularity of a reaction is defined only for:",
+      "options": ["Complex reactions", "Elementary reactions", "Reversible reactions", "Photochemical reactions"],
+      "correctIndex": 1,
+      "explanation": "Molecularity is the number of reacting species taking part in an elementary step.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c3_q6",
+      "text": "Which of the following can be zero or a fraction?",
+      "options": ["Order of reaction", "Molecularity", "Both A and B", "None"],
+      "correctIndex": 0,
+      "explanation": "Order is an experimental quantity and can be 0 or fractional; molecularity is always a whole number.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c3_q7",
+      "text": "For a first-order reaction, the half-life (t1/2) is ________ of the initial concentration.",
+      "options": ["Directly proportional", "Inversely proportional", "Independent", "Proportional to square root"],
+      "correctIndex": 2,
+      "explanation": "t1/2 = 0.693 / k. It does not contain [A]₀.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c3_q8",
+      "text": "The Arrhenius equation is given by:",
+      "options": ["k = A e^(-Ea/RT)", "k = A e^(Ea/RT)", "k = A log(Ea/RT)", "Rate = k[A]"],
+      "correctIndex": 0,
+      "explanation": "It shows the dependence of the rate constant on temperature and activation energy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c3_q9",
+      "text": "A catalyst increases the rate of reaction by:",
+      "options": ["Increasing activation energy", "Decreasing activation energy", "Changing enthalpy", "Increasing pressure"],
+      "correctIndex": 1,
+      "explanation": "A catalyst provides an alternative pathway with a lower activation energy barrier.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c3_q10",
+      "text": "For every 10° rise in temperature, the rate constant approximately:",
+      "options": ["Stays same", "Doubles", "Halves", "Increases 10 times"],
+      "correctIndex": 1,
+      "explanation": "This is a general observation for many reactions (Temperature Coefficient).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c3_q11",
+      "text": "The minimum energy required by reacting molecules to form an activated complex is called:",
+      "options": ["Kinetic energy", "Potential energy", "Activation energy", "Free energy"],
+      "correctIndex": 2,
+      "explanation": "Only collisions with energy >= Ea lead to a reaction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c3_q12",
+      "text": "In a zero-order reaction, if the concentration of reactant is doubled, the half-life:",
+      "options": ["Doubles", "Halves", "Remains same", "Becomes zero"],
+      "correctIndex": 0,
+      "explanation": "For zero order, t1/2 = [A]₀ / 2k. It is directly proportional to initial concentration.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c3_q13",
+      "text": "A plot of log k vs 1/T is a straight line with slope equal to:",
+      "options": ["-Ea / 2.303R", "Ea / R", "-Ea / R", "2.303R / Ea"],
+      "correctIndex": 0,
+      "explanation": "Derived from the logarithmic form of the Arrhenius equation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c3_q14",
+      "text": "In Collision Theory, the factor 'P' in Rate = P Z e^(-Ea/RT) is called:",
+      "options": ["Pressure factor", "Probability or Steric factor", "Pre-exponential factor", "Polarization factor"],
+      "correctIndex": 1,
+      "explanation": "It accounts for the requirement that molecules must be oriented properly to react.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c3_q15",
+      "text": "Pseudofirst-order reactions are those which are higher order but follow first-order kinetics due to:",
+      "options": ["Catalyst", "One reactant being in large excess", "High temperature", "Low pressure"],
+      "correctIndex": 1,
+      "explanation": "Example: Hydrolysis of ester where water concentration is constant.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c3_q16",
+      "text": "The slowest step in a complex reaction is called the:",
+      "options": ["Main step", "Rate determining step", "Molecular step", "Intermediate step"],
+      "correctIndex": 1,
+      "explanation": "The overall rate of a complex reaction depends on its slowest elementary step.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c3_q17",
+      "text": "A reaction follows the rate law Rate = k[A][B]^2. If [B] is doubled, the rate increases by factor of:",
+      "options": ["2", "4", "8", "6"],
+      "correctIndex": 1,
+      "explanation": "[2B]^2 = 4[B]^2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c3_q18",
+      "text": "The integrated rate equation for a first-order reaction is:",
+      "options": ["k = (2.303/t) log([A]₀/[A])", "k = ([A]₀-[A])/t", "k = 1/t([A]₀-[A])", "log k = log A - Ea/RT"],
+      "correctIndex": 0,
+      "explanation": "Standard formula for first-order kinetics.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c3_q19",
+      "text": "Radioactive decay follows ________ order kinetics.",
+      "options": ["Zero", "First", "Second", "Third"],
+      "correctIndex": 1,
+      "explanation": "The rate of decay is proportional only to the amount of substance present.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c3_q20",
+      "text": "A plot of [A] vs time for a zero-order reaction is a straight line with slope:",
+      "options": ["k", "-k", "k/2.303", "Zero"],
+      "correctIndex": 1,
+      "explanation": "[A] = -kt + [A]₀. Slope is -k.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c3_q21",
+      "text": "Threshold energy is equal to:",
+      "options": ["Activation energy + Energy of reactants", "Activation energy - Energy of reactants", "Potential energy", "None"],
+      "correctIndex": 0,
+      "explanation": "Threshold energy is the total energy molecules must possess to react.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c3_q22",
+      "text": "Which of the following factors does NOT affect the rate constant (k)?",
+      "options": ["Temperature", "Catalyst", "Concentration of reactants", "Nature of reactants"],
+      "correctIndex": 2,
+      "explanation": "k is independent of concentration; changing concentration changes the rate, but not the rate constant itself.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c3_q23",
+      "text": "If half-life of a first-order reaction is 69.3s, the rate constant is:",
+      "options": ["0.01 s⁻¹", "0.1 s⁻¹", "1 s⁻¹", "10 s⁻¹"],
+      "correctIndex": 0,
+      "explanation": "k = 0.693 / 69.3 = 0.01.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c3_q24",
+      "text": "The reaction 2HI -> H2 + I2 on gold surface is an example of:",
+      "options": ["First order", "Zero order", "Second order", "Third order"],
+      "correctIndex": 1,
+      "explanation": "At high pressure, the surface is saturated, making rate independent of concentration.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c3_q25",
+      "text": "The decomposition of ammonia on platinum surface at high pressure is ________ order.",
+      "options": ["Zero", "First", "Second", "Half"],
+      "correctIndex": 0,
+      "explanation": "Classic example of a surface-catalyzed zero-order reaction.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c3_q26",
+      "text": "Molecularity cannot be greater than ________ because probability of simultaneous collision is low.",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 2,
+      "explanation": "Simultaneous collision of more than 3 particles is statistically very rare.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c3_q27",
+      "text": "Units of k for a second-order reaction are:",
+      "options": ["s⁻¹", "mol⁻¹ L s⁻¹", "mol L⁻¹ s⁻¹", "L² mol⁻² s⁻¹"],
+      "correctIndex": 1,
+      "explanation": "k = Rate / [A]² = (mol/Ls) / (mol/L)² = L/(mol s).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c3_q28",
+      "text": "In Arrhenius equation, A is called:",
+      "options": ["Activation factor", "Frequency factor", "Rate factor", "Boltzmann constant"],
+      "correctIndex": 1,
+      "explanation": "Also known as pre-exponential factor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c3_q29",
+      "text": "For a reaction to occur, collisions must have ________ and ________.",
+      "options": ["High speed, low mass", "Proper orientation, Sufficient energy", "Color change, heat", "None"],
+      "correctIndex": 1,
+      "explanation": "The two requirements for effective collisions according to collision theory.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c3_q30",
+      "text": "Initial concentration of reactant is 0.8M. After 20 mins it is 0.4M. After 40 mins it is 0.2M. The order is:",
+      "options": ["Zero", "First", "Second", "Third"],
+      "correctIndex": 1,
+      "explanation": "The half-life is constant (20 mins), which is a characteristic of first-order reactions.",
+      "frequencyRating": 4
+    }
+  ]
+}

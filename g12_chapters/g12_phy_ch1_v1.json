@@ -1,0 +1,330 @@
+{
+  "id": "g12_phy_ch1",
+  "grade": "12",
+  "subject": "Physics",
+  "number": "1",
+  "title": "Electric Charges and Fields",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_p1_q1",
+      "text": "The SI unit of electric charge is:",
+      "options": ["Ampere", "Volt", "Coulomb", "Farad"],
+      "correctIndex": 2,
+      "explanation": "One Coulomb is the charge flowing through a wire in 1s if the current is 1A.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p1_q2",
+      "text": "What is the value of the charge on an electron?",
+      "options": ["1.6 x 10⁻¹⁹ C", "-1.6 x 10⁻¹⁹ C", "9.1 x 10⁻³¹ C", "1.6 x 10⁻²⁷ C"],
+      "correctIndex": 1,
+      "explanation": "The magnitude is 1.6 x 10⁻¹⁹ C, but the charge itself is negative.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p1_q3",
+      "text": "Quantization of charge implies that charge can only exist in integral multiples of:",
+      "options": ["Proton mass", "Neutron charge", "Elementary charge 'e'", "1 Coulomb"],
+      "correctIndex": 2,
+      "explanation": "Q = ±ne, where n is an integer and e is the charge of an electron.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p1_q4",
+      "text": "Coulomb's Law for the force between two point charges q1 and q2 separated by distance r is:",
+      "options": ["F = k q1q2 / r", "F = k q1q2 / r²", "F = k (q1+q2) / r²", "F = k q1q2 r²"],
+      "correctIndex": 1,
+      "explanation": "The force is inversely proportional to the square of the distance between the charges.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p1_q5",
+      "text": "The value of permittivity of free space (ε₀) is approximately:",
+      "options": ["9 x 10⁹ N m²/C²", "8.854 x 10⁻¹² C²/N m²", "1.6 x 10⁻¹⁹ C", "6.67 x 10⁻¹¹ N m²/kg²"],
+      "correctIndex": 1,
+      "explanation": "ε₀ is a fundamental constant used in electrostatics.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p1_q6",
+      "text": "Electric field intensity at a point is defined as:",
+      "options": ["Force per unit mass", "Work done per unit charge", "Force experienced by a unit positive test charge", "Potential energy per unit charge"],
+      "correctIndex": 2,
+      "explanation": "E = F / q₀. It is a vector quantity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p1_q7",
+      "text": "The SI unit of electric field intensity is:",
+      "options": ["N/C", "V/m", "Both A and B", "J/C"],
+      "correctIndex": 2,
+      "explanation": "N/C comes from F/q, and V/m comes from the potential gradient formula.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p1_q8",
+      "text": "The direction of electric field lines for a negative point charge is:",
+      "options": ["Radially outwards", "Radially inwards", "Circular", "Depends on the observer"],
+      "correctIndex": 1,
+      "explanation": "Field lines originate from positive charges and terminate on negative charges.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p1_q9",
+      "text": "An electric dipole consists of two charges q and -q separated by a small distance 2a. The dipole moment vector p points from:",
+      "options": ["Positive to negative charge", "Negative to positive charge", "North to south", "Center to outside"],
+      "correctIndex": 1,
+      "explanation": "By convention, the electric dipole moment is directed from -q to +q.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p1_q10",
+      "text": "The torque τ acting on a dipole placed in a uniform electric field E is:",
+      "options": ["p . E", "p x E", "p / E", "E x p"],
+      "correctIndex": 1,
+      "explanation": "τ = pE sinθ, which is the magnitude of the cross product p x E.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p1_q11",
+      "text": "Electric flux (Φ) through a surface is given by:",
+      "options": ["∫ E . dA", "E / A", "q / E", "∫ F . dr"],
+      "correctIndex": 0,
+      "explanation": "Flux represents the total number of electric field lines passing through a given area.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p1_q12",
+      "text": "Gauss's Law states that the total flux through a closed surface is equal to:",
+      "options": ["q / ε₀", "q * ε₀", "ε₀ / q", "Zero"],
+      "correctIndex": 0,
+      "explanation": "The net flux depends only on the charge enclosed within the Gaussian surface.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p1_q13",
+      "text": "The electric field inside a uniformly charged thin spherical shell is:",
+      "options": ["Maximum", "Minimum", "Zero", "k q / r²"],
+      "correctIndex": 2,
+      "explanation": "Since no charge is enclosed inside the shell, by Gauss's law, the internal electric field is zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p1_q14",
+      "text": "The electric field E due to an infinitely long straight charged wire varies with distance r as:",
+      "options": ["E ∝ r", "E ∝ 1/r", "E ∝ 1/r²", "E ∝ 1/r³"],
+      "correctIndex": 1,
+      "explanation": "E = λ / (2π ε₀ r), where λ is the linear charge density.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p1_q15",
+      "text": "The electric field E near an infinite plane sheet of charge with surface charge density σ is:",
+      "options": ["σ / ε₀", "σ / 2ε₀", "2σ / ε₀", "σ² / ε₀"],
+      "correctIndex": 1,
+      "explanation": "Interestingly, the field near an infinite sheet is independent of the distance from the sheet.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p1_q16",
+      "text": "If a glass rod is rubbed with silk, the glass rod acquires ________ charge.",
+      "options": ["Negative", "Positive", "Neutral", "No"],
+      "correctIndex": 1,
+      "explanation": "Electrons are transferred from the glass rod to the silk.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p1_q17",
+      "text": "The process of charging a conductor by bringing a charged object near it without physical contact is:",
+      "options": ["Conduction", "Induction", "Friction", "Radiation"],
+      "correctIndex": 1,
+      "explanation": "Induction involves the redistribution of charges within the conductor due to the external field.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p1_q18",
+      "text": "Two charges are placed in a medium of dielectric constant K. Compared to vacuum, the force between them:",
+      "options": ["Increases K times", "Decreases K times", "Stays same", "Becomes zero"],
+      "correctIndex": 1,
+      "explanation": "F_medium = F_vacuum / K. Dielectric constant is also known as relative permittivity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p1_q19",
+      "text": "The SI unit of electric dipole moment is:",
+      "options": ["C m", "C/m", "C/m²", "N m"],
+      "correctIndex": 0,
+      "explanation": "Dipole moment p = q * 2a, so units are Coulomb-meter.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p1_q20",
+      "text": "Electric field lines ________ each other.",
+      "options": ["Always intersect", "Never intersect", "Intersect at the center", "None of these"],
+      "correctIndex": 1,
+      "explanation": "If they intersected, the field would have two different directions at the point of intersection, which is impossible.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p1_q21",
+      "text": "Surface charge density σ is defined as:",
+      "options": ["Charge per unit length", "Charge per unit area", "Charge per unit volume", "Area per unit charge"],
+      "correctIndex": 1,
+      "explanation": "σ = ΔQ / ΔA. Units are C/m².",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p1_q22",
+      "text": "The potential energy of an electric dipole in a uniform electric field is minimum when the angle between p and E is:",
+      "options": ["0°", "90°", "180°", "270°"],
+      "correctIndex": 0,
+      "explanation": "U = -pE cosθ. For θ=0°, U = -pE, which is the minimum (stable equilibrium).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p1_q23",
+      "text": "A point charge q is placed at the center of a cube. The flux through each face of the cube is:",
+      "options": ["q / ε₀", "q / 6ε₀", "6q / ε₀", "Zero"],
+      "correctIndex": 1,
+      "explanation": "Total flux is q/ε₀. Since the cube is symmetrical, flux is distributed equally among the 6 faces.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p1_q24",
+      "text": "The force between two parallel wires carrying currents is a result of:",
+      "options": ["Electrostatic forces", "Magnetic forces", "Gravitational forces", "Nuclear forces"],
+      "correctIndex": 1,
+      "explanation": "Moving charges (currents) create magnetic fields that interact.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p1_q25",
+      "text": "SI unit of permittivity ε₀ is:",
+      "options": ["N m²/C²", "C²/N m²", "C m/N", "V m/C"],
+      "correctIndex": 1,
+      "explanation": "Derived from Coulomb's law: ε₀ = q1q2 / (4π F r²).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p1_q26",
+      "text": "Which property of charge is used when we add individual charges like scalars?",
+      "options": ["Quantization", "Additivity", "Conservation", "Induction"],
+      "correctIndex": 1,
+      "explanation": "Additivity means total charge is the algebraic sum of all individual charges.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p1_q27",
+      "text": "If the distance between two charges is doubled, the electrostatic force becomes:",
+      "options": ["Double", "Half", "One-fourth", "Four times"],
+      "correctIndex": 2,
+      "explanation": "Force varies as 1/r². (1/2)² = 1/4.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p1_q28",
+      "text": "Electric field lines contract lengthwise. This explains:",
+      "options": ["Attraction between unlike charges", "Repulsion between like charges", "Conservation of charge", "None of these"],
+      "correctIndex": 0,
+      "explanation": "The tension in field lines causes them to pull unlike charges together.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_p1_q29",
+      "text": "An electric dipole is placed in a non-uniform electric field. It experiences:",
+      "options": ["Only a force", "Only a torque", "Both a force and a torque", "Neither force nor torque"],
+      "correctIndex": 2,
+      "explanation": "In a non-uniform field, the net force is usually not zero, and there is still a torque.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p1_q30",
+      "text": "The principle of superposition states that the total force on a charge due to multiple charges is:",
+      "options": ["The arithmetic sum of forces", "The vector sum of forces", "The average of forces", "The product of forces"],
+      "correctIndex": 1,
+      "explanation": "Forces are vectors, so they must be added using vector addition rules.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p1_q31",
+      "text": "What happens to the total charge of an isolated system?",
+      "options": ["It increases", "It decreases", "It remains conserved", "It becomes zero"],
+      "correctIndex": 2,
+      "explanation": "Law of Conservation of Charge: Charge can neither be created nor destroyed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p1_q32",
+      "text": "The value of 1 / (4π ε₀) is:",
+      "options": ["8.85 x 10⁻¹²", "9 x 10⁹ N m²/C²", "1.6 x 10⁻¹⁹", "1"],
+      "correctIndex": 1,
+      "explanation": "This is the constant 'k' used in Coulomb's Law in SI units.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p1_q33",
+      "text": "Electric field lines are always ________ to the surface of a conductor in static equilibrium.",
+      "options": ["Parallel", "Perpendicular", "At 45°", "None of these"],
+      "correctIndex": 1,
+      "explanation": "If there were a tangential component, charges would move, contradicting the static state.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p1_q34",
+      "text": "Dimensional formula for electric charge is:",
+      "options": ["[M L T A]", "[A T]", "[M L² T⁻³ A⁻¹]", "[A/T]"],
+      "correctIndex": 1,
+      "explanation": "Current I = Q/t, so Q = I*t. Dimensions [A][T].",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p1_q35",
+      "text": "A soap bubble is given a negative charge. Its radius:",
+      "options": ["Increases", "Decreases", "Remains unchanged", "Becomes zero"],
+      "correctIndex": 0,
+      "explanation": "Mutual repulsion between like charges on the surface causes the bubble to expand.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p1_q36",
+      "text": "Coulomb's force is a:",
+      "options": ["Central force", "Conservative force", "Both A and B", "Non-conservative force"],
+      "correctIndex": 2,
+      "explanation": "It acts along the line joining centers and the work done is independent of the path.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p1_q37",
+      "text": "When 10¹⁹ electrons are removed from a neutral metal plate, the charge on it is:",
+      "options": ["1.6 C", "-1.6 C", "10¹⁹ C", "10⁻¹⁹ C"],
+      "correctIndex": 0,
+      "explanation": "Q = ne = 10¹⁹ * 1.6 x 10⁻¹⁹ = 1.6 C. Since electrons are removed, charge is positive.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p1_q38",
+      "text": "Linear charge density λ is measured in:",
+      "options": ["C m", "C/m", "C/m²", "C/m³"],
+      "correctIndex": 1,
+      "explanation": "It is charge per unit length.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p1_q39",
+      "text": "The net electric flux through any closed surface enclosing an electric dipole is:",
+      "options": ["q / ε₀", "2q / ε₀", "Zero", "Depends on position"],
+      "correctIndex": 2,
+      "explanation": "Total enclosed charge q + (-q) = 0. By Gauss's Law, flux is zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p1_q40",
+      "text": "Electric field lines do not form closed loops. This is because:",
+      "options": ["Electric field is conservative", "Electric field is non-conservative", "Charges are stationary", "None of these"],
+      "correctIndex": 0,
+      "explanation": "Conservative nature implies that work done in a closed loop is zero, which means field lines must have sources and sinks.",
+      "frequencyRating": 4
+    }
+  ]
+}

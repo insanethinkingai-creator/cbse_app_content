@@ -1,0 +1,330 @@
+{
+  "id": "g12_math_ch3",
+  "grade": "12",
+  "subject": "Mathematics",
+  "number": "3",
+  "title": "Matrices",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_m3_q1",
+      "text": "If a matrix has 8 elements, what are the possible orders it can have?",
+      "options": ["1x8, 8x1, 2x4, 4x2", "1x8, 8x1, 2x2", "4x4, 2x4", "8x8, 1x1"],
+      "correctIndex": 0,
+      "explanation": "Possible orders are pairs (m, n) such that m*n = 8. These are (1,8), (8,1), (2,4), and (4,2).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m3_q2",
+      "text": "A matrix A = [a_ij]_mxn is a square matrix if:",
+      "options": ["m < n", "m > n", "m = n", "None of these"],
+      "correctIndex": 2,
+      "explanation": "A square matrix is defined as a matrix where the number of rows is equal to the number of columns.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m3_q3",
+      "text": "Which of the following is an identity matrix of order 3?",
+      "options": ["[[1,0,0],[0,1,0],[0,0,1]]", "[[1,1,1],[1,1,1],[1,1,1]]", "[[0,0,1],[0,1,0],[1,0,0]]", "[[1,0,0],[0,1,0]]"],
+      "correctIndex": 0,
+      "explanation": "An identity matrix is a diagonal matrix where all diagonal elements are 1 and all others are 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m3_q4",
+      "text": "If A and B are two matrices of the same order, then (A + B)' is equal to:",
+      "options": ["A' - B'", "B' + A'", "A'B'", "AB'"],
+      "correctIndex": 1,
+      "explanation": "The transpose of the sum of two matrices is the sum of their transposes: (A+B)' = A' + B'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m3_q5",
+      "text": "A square matrix A is called symmetric if:",
+      "options": ["A' = -A", "A' = A", "A^2 = I", "A = 0"],
+      "correctIndex": 1,
+      "explanation": "A symmetric matrix is one where the transpose of the matrix is equal to the matrix itself.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m3_q6",
+      "text": "The diagonal elements of a skew-symmetric matrix are always:",
+      "options": ["1", "0", "Any real number", "Purely imaginary"],
+      "correctIndex": 1,
+      "explanation": "For skew-symmetric matrices, a_ij = -a_ji. When i=j, a_ii = -a_ii, which implies 2a_ii = 0, so a_ii = 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m3_q7",
+      "text": "If A is a square matrix, then A + A' is a:",
+      "options": ["Skew-symmetric matrix", "Identity matrix", "Symmetric matrix", "Null matrix"],
+      "correctIndex": 2,
+      "explanation": "(A + A')' = A' + (A')' = A' + A = A + A'. Therefore, it is symmetric.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m3_q8",
+      "text": "The inverse of a symmetric matrix is:",
+      "options": ["Symmetric", "Skew-symmetric", "Diagonal", "None of these"],
+      "correctIndex": 0,
+      "explanation": "If A is symmetric, A' = A. Then (A^-1)' = (A')^-1 = A^-1. Thus A^-1 is symmetric.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m3_q9",
+      "text": "If A is a 2x3 matrix and B is a 3x4 matrix, the order of AB is:",
+      "options": ["3x3", "2x4", "4x2", "3x2"],
+      "correctIndex": 1,
+      "explanation": "For product AB, the order is (rows of A) x (columns of B), which is 2x4.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m3_q10",
+      "text": "For any square matrix A with real number entries, A - A' is a:",
+      "options": ["Symmetric matrix", "Skew-symmetric matrix", "Identity matrix", "Zero matrix"],
+      "correctIndex": 1,
+      "explanation": "(A - A')' = A' - (A')' = A' - A = -(A - A'). Therefore, it is skew-symmetric.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m3_q11",
+      "text": "If A and B are symmetric matrices of the same order, then AB - BA is a:",
+      "options": ["Skew-symmetric matrix", "Symmetric matrix", "Zero matrix", "Identity matrix"],
+      "correctIndex": 0,
+      "explanation": "(AB - BA)' = (AB)' - (BA)' = B'A' - A'B' = BA - AB = -(AB - BA).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m3_q12",
+      "text": "If A = [[cos x, -sin x], [sin x, cos x]], then A + A' = I if the value of x is:",
+      "options": ["π/6", "π/3", "π", "3π/2"],
+      "correctIndex": 1,
+      "explanation": "A+A' = [[2cos x, 0], [0, 2cos x]]. Setting 2cos x = 1 gives cos x = 1/2, so x = π/3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m3_q13",
+      "text": "Matrices A and B will be inverse of each other only if:",
+      "options": ["AB = BA", "AB = BA = 0", "AB = 0, BA = I", "AB = BA = I"],
+      "correctIndex": 3,
+      "explanation": "By definition, two square matrices A and B are inverses if their product in either order results in the Identity matrix.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m3_q14",
+      "text": "If A is a square matrix such that A^2 = A, then (I + A)^3 - 7A is equal to:",
+      "options": ["A", "I - A", "I", "3A"],
+      "correctIndex": 2,
+      "explanation": "(I+A)^3 = I + 3A + 3A^2 + A^3. Since A^2=A and A^3=A, it becomes I + 3A + 3A + A = I + 7A. Then (I+7A) - 7A = I.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m3_q15",
+      "text": "The number of all possible matrices of order 3x3 with each entry 0 or 1 is:",
+      "options": ["27", "18", "81", "512"],
+      "correctIndex": 3,
+      "explanation": "There are 9 positions in a 3x3 matrix. Each can be filled in 2 ways (0 or 1). Total = 2^9 = 512.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m3_q16",
+      "text": "If A and B are matrices of order mxn and nxp respectively, then (AB)' is:",
+      "options": ["A'B'", "B'A'", "AB", "B'A"],
+      "correctIndex": 1,
+      "explanation": "The Reversal Law of Transpose states that the transpose of a product is the product of the transposes in reverse order.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m3_q17",
+      "text": "If a matrix A is both symmetric and skew-symmetric, then:",
+      "options": ["A is a diagonal matrix", "A is a zero matrix", "A is a square matrix", "None of these"],
+      "correctIndex": 1,
+      "explanation": "A' = A and A' = -A implies A = -A, so 2A = 0, which means A is a zero matrix.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m3_q18",
+      "text": "Total number of elements in a matrix of order 4x3 is:",
+      "options": ["7", "1", "12", "43"],
+      "correctIndex": 2,
+      "explanation": "The total number of elements is the product of the number of rows and columns (4 * 3 = 12).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m3_q19",
+      "text": "The element a_23 of a matrix refers to:",
+      "options": ["2nd row, 3rd column", "3rd row, 2nd column", "Product of 2 and 3", "23rd element"],
+      "correctIndex": 0,
+      "explanation": "In matrix notation a_ij, i denotes the row index and j denotes the column index.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m3_q20",
+      "text": "If [[x+y, 2], [5+z, xy]] = [[6, 2], [5, 8]], then values of x and y are:",
+      "options": ["4, 2 or 2, 4", "4, 1 or 1, 4", "3, 3", "None of these"],
+      "correctIndex": 0,
+      "explanation": "x+y = 6 and xy = 8. Solving the quadratic t^2 - 6t + 8 = 0 gives roots 4 and 2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m3_q21",
+      "text": "Which property of matrix multiplication is generally NOT true?",
+      "options": ["Associative Law", "Distributive Law", "Commutative Law", "Existence of Identity"],
+      "correctIndex": 2,
+      "explanation": "In general, AB is not equal to BA for matrices.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m3_q22",
+      "text": "A diagonal matrix in which all diagonal elements are equal (but not 1) is called a:",
+      "options": ["Identity matrix", "Scalar matrix", "Unit matrix", "Zero matrix"],
+      "correctIndex": 1,
+      "explanation": "A scalar matrix is a diagonal matrix where all diagonal entries are the same constant.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m3_q23",
+      "text": "If A is a 3x3 matrix and |A| = 0, then A is called:",
+      "options": ["Singular matrix", "Non-singular matrix", "Identity matrix", "Symmetric matrix"],
+      "correctIndex": 0,
+      "explanation": "A matrix with a determinant of zero is called a singular matrix.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m3_q24",
+      "text": "In matrix addition, A + B = B + A. This is called:",
+      "options": ["Associative Law", "Distributive Law", "Commutative Law", "Inverse Law"],
+      "correctIndex": 2,
+      "explanation": "Commutativity means the order of addition does not change the result.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m3_q25",
+      "text": "If A is a matrix of order mxn, then kA is a matrix of order:",
+      "options": ["mxn", "nxm", "km x kn", "km x n"],
+      "correctIndex": 0,
+      "explanation": "Scalar multiplication of a matrix does not change its order; it only scales every element by k.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m3_q26",
+      "text": "Every square matrix can be uniquely expressed as a sum of:",
+      "options": ["Two identity matrices", "A symmetric and a skew-symmetric matrix", "Two diagonal matrices", "A scalar and a unit matrix"],
+      "correctIndex": 1,
+      "explanation": "A = 1/2(A + A') + 1/2(A - A'), where the first part is symmetric and the second is skew-symmetric.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m3_q27",
+      "text": "If A = [a_ij] is a 2x2 matrix such that a_ij = i + j, then A is:",
+      "options": ["[[2, 3], [3, 4]]", "[[1, 2], [2, 3]]", "[[2, 1], [1, 2]]", "[[0, 1], [1, 2]]"],
+      "correctIndex": 0,
+      "explanation": "a_11=2, a_12=3, a_21=3, a_22=4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m3_q28",
+      "text": "If AB = 0, does it imply A = 0 or B = 0?",
+      "options": ["Yes, always", "No, not necessarily", "Only if they are square matrices", "Only if they are identity matrices"],
+      "correctIndex": 1,
+      "explanation": "Matrix multiplication can result in a zero matrix even if neither factor is a zero matrix.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m3_q29",
+      "text": "The trace of a matrix is the sum of:",
+      "options": ["All elements", "Diagonal elements", "First row elements", "First column elements"],
+      "correctIndex": 1,
+      "explanation": "The trace of a square matrix is defined as the sum of its principal diagonal elements.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m3_q30",
+      "text": "If A' is the transpose of matrix A, then (A')' is:",
+      "options": ["-A", "A", "A^2", "I"],
+      "correctIndex": 1,
+      "explanation": "Transposing a matrix twice returns the original matrix.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m3_q31",
+      "text": "A horizontal matrix is a matrix where:",
+      "options": ["Rows > Columns", "Rows < Columns", "Rows = Columns", "Rows = 1"],
+      "correctIndex": 1,
+      "explanation": "A matrix appears horizontal if the number of columns is greater than the number of rows.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_m3_q32",
+      "text": "If k is a scalar and A is a matrix, then (kA)' is:",
+      "options": ["k A'", "k' A", "A'", "kA"],
+      "correctIndex": 0,
+      "explanation": "The transpose of a scalar times a matrix is the scalar times the transpose of the matrix.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m3_q33",
+      "text": "Which of the following is true for invertible matrices A and B of the same order?",
+      "options": ["(AB)^-1 = A^-1 B^-1", "(AB)^-1 = B^-1 A^-1", "(AB)^-1 = AB", "(AB)^-1 = A+B"],
+      "correctIndex": 1,
+      "explanation": "The reversal law applies to inverses of products, similar to transposes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m3_q34",
+      "text": "The elementary operation R_i <-> R_j denotes:",
+      "options": ["Multiplying row i by j", "Interchanging row i and row j", "Adding row i to j", "Dividing row i by j"],
+      "correctIndex": 1,
+      "explanation": "This notation is used for the row interchange elementary transformation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m3_q35",
+      "text": "If A is a square matrix, A^n is defined as:",
+      "options": ["A*n", "A*A*... (n times)", "n^A", "A+n"],
+      "correctIndex": 1,
+      "explanation": "Matrix exponentiation is repeated multiplication of the matrix by itself.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m3_q36",
+      "text": "A square matrix A = [a_ij] is an upper triangular matrix if:",
+      "options": ["a_ij = 0 for i > j", "a_ij = 0 for i < j", "a_ij = 0 for i = j", "All a_ij = 1"],
+      "correctIndex": 0,
+      "explanation": "In an upper triangular matrix, all elements below the main diagonal must be zero.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m3_q37",
+      "text": "Two matrices are equal if they have the same order and:",
+      "options": ["Sum of elements is same", "Corresponding elements are equal", "Determinants are same", "They are both square"],
+      "correctIndex": 1,
+      "explanation": "Equality of matrices requires identical dimensions and identical entries at every corresponding position.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m3_q38",
+      "text": "If the order of A is 3x2 and B is 2x3, then BA is of order:",
+      "options": ["3x3", "2x2", "3x2", "2x3"],
+      "correctIndex": 1,
+      "explanation": "B(2x3) * A(3x2) results in a matrix of order 2x2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m3_q39",
+      "text": "An identity matrix is always a:",
+      "options": ["Square matrix", "Diagonal matrix", "Scalar matrix", "All of these"],
+      "correctIndex": 3,
+      "explanation": "An identity matrix satisfies all these definitions (it is square, all non-diagonal elements are 0, and diagonal elements are equal).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m3_q40",
+      "text": "If A is an invertible matrix, then (A^-1)^-1 is:",
+      "options": ["I", "A", "A'", "1/A"],
+      "correctIndex": 1,
+      "explanation": "The inverse of an inverse matrix is the original matrix.",
+      "frequencyRating": 5
+    }
+  ]
+}

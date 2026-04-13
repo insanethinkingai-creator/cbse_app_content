@@ -1,0 +1,250 @@
+{
+  "id": "g12_math_ch7",
+  "grade": "12",
+  "subject": "Mathematics",
+  "number": "7",
+  "title": "Integrals",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_m7_q1",
+      "text": "Integration is considered as the inverse process of:",
+      "options": ["Multiplication", "Differentiation", "Addition", "Logarithm"],
+      "correctIndex": 1,
+      "explanation": "The Fundamental Theorem of Calculus establishes that integration and differentiation are inverse operations.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m7_q2",
+      "text": "The integral ∫ xⁿ dx (where n ≠ -1) is equal to:",
+      "options": ["nxⁿ⁻¹ + C", "(xⁿ⁺¹)/(n+1) + C", "xⁿ/n + C", "log x + C"],
+      "correctIndex": 1,
+      "explanation": "This is the Power Rule for integration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m7_q3",
+      "text": "The integral ∫ (1/x) dx is equal to:",
+      "options": ["log|x| + C", "x⁻¹ + C", "1 + C", "-1/x² + C"],
+      "correctIndex": 0,
+      "explanation": "The derivative of log|x| is 1/x, making log|x| its antiderivative.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m7_q4",
+      "text": "What is the integral of sin x with respect to x?",
+      "options": ["cos x + C", "-cos x + C", "sin x + C", "sec²x + C"],
+      "correctIndex": 1,
+      "explanation": "Standard trigonometric integral.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m7_q5",
+      "text": "The integral ∫ eˣ dx is:",
+      "options": ["xeˣ⁻¹ + C", "eˣ + C", "log eˣ + C", "eˣ/x + C"],
+      "correctIndex": 1,
+      "explanation": "The exponential function eˣ is its own integral and derivative.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m7_q6",
+      "text": "Which of the following is ∫ sec²x dx?",
+      "options": ["tan x + C", "cot x + C", "sec x tan x + C", "-tan x + C"],
+      "correctIndex": 0,
+      "explanation": "Since the derivative of tan x is sec²x, the integral of sec²x is tan x.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m7_q7",
+      "text": "∫ tan x dx is equal to:",
+      "options": ["log|sec x| + C", "log|cos x| + C", "sec²x + C", "-log|sec x| + C"],
+      "correctIndex": 0,
+      "explanation": "∫ (sin x / cos x) dx = -log|cos x| + C = log|sec x| + C.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m7_q8",
+      "text": "The technique of 'Integration by Parts' is used for the integral of:",
+      "options": ["Sum of functions", "Product of functions", "Quotient of functions", "Composite functions"],
+      "correctIndex": 1,
+      "explanation": "∫ uv dx = u ∫v dx - ∫[u' ∫v dx] dx.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m7_q9",
+      "text": "In the 'ILATE' rule for choosing the first function 'u', 'A' stands for:",
+      "options": ["Arithmetic", "Algebraic", "Absolute", "Average"],
+      "correctIndex": 1,
+      "explanation": "Inverse Trigonometric, Logarithmic, Algebraic, Trigonometric, Exponential.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m7_q10",
+      "text": "∫ (1 / √(1-x²)) dx is equal to:",
+      "options": ["sin⁻¹x + C", "cos⁻¹x + C", "tan⁻¹x + C", "sec⁻¹x + C"],
+      "correctIndex": 0,
+      "explanation": "Standard integral leading to an inverse trigonometric function.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m7_q11",
+      "text": "Definite integrals represent the ________ under a curve.",
+      "options": ["Slope", "Area", "Length", "Volume"],
+      "correctIndex": 1,
+      "explanation": "∫[a,b] f(x) dx gives the signed area between the x-axis and the curve f(x).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m7_q12",
+      "text": "The property ∫[a,b] f(x) dx = -∫[b,a] f(x) dx refers to:",
+      "options": ["Change of variables", "Interchanging limits", "Splitting the interval", "None"],
+      "correctIndex": 1,
+      "explanation": "Swapping the lower and upper limits changes the sign of the definite integral.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m7_q13",
+      "text": "If f(x) is an odd function, then ∫[-a, a] f(x) dx is:",
+      "options": ["2 ∫[0, a] f(x) dx", "0", "a", "f(a)"],
+      "correctIndex": 1,
+      "explanation": "For odd functions, areas on either side of the origin cancel out.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m7_q14",
+      "text": "If f(x) is an even function, then ∫[-a, a] f(x) dx is:",
+      "options": ["0", "∫[0, a] f(x) dx", "2 ∫[0, a] f(x) dx", "f(a)"],
+      "correctIndex": 2,
+      "explanation": "For even functions, the area is symmetric about the y-axis, doubling the result from [0, a].",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m7_q15",
+      "text": "∫ (1 / (x² + a²)) dx is equal to:",
+      "options": ["(1/a) tan⁻¹(x/a) + C", "tan⁻¹(x/a) + C", "(1/a) sin⁻¹(x/a) + C", "log|x² + a²| + C"],
+      "correctIndex": 0,
+      "explanation": "Standard special integral used frequently in rational function integration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m7_q16",
+      "text": "∫ eˣ [f(x) + f'(x)] dx is equal to:",
+      "options": ["eˣ f(x) + C", "eˣ f'(x) + C", "f(x) + C", "eˣ + C"],
+      "correctIndex": 0,
+      "explanation": "A very useful special form derived from integration by parts.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m7_q17",
+      "text": "What is the integral of log x dx?",
+      "options": ["1/x + C", "x log x + C", "x log x - x + C", "log(log x) + C"],
+      "correctIndex": 2,
+      "explanation": "Solved using integration by parts with u = log x and v = 1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m7_q18",
+      "text": "∫ cosec x dx is:",
+      "options": ["log|cosec x - cot x| + C", "log|cosec x + cot x| + C", "-cosec x cot x + C", "tan(x/2) + C"],
+      "correctIndex": 0,
+      "explanation": "Standard trigonometric integral.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m7_q19",
+      "text": "Partial fractions are used to integrate:",
+      "options": ["Irrational functions", "Rational functions", "Trigonometric functions", "Exponential functions"],
+      "correctIndex": 1,
+      "explanation": "It decomposes complex rational expressions into simpler terms that are easily integrable.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m7_q20",
+      "text": "The substitution method is essentially the reverse of:",
+      "options": ["Product rule", "Chain rule", "Quotient rule", "Power rule"],
+      "correctIndex": 1,
+      "explanation": "u-substitution handles composite functions in integration just as chain rule does in differentiation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m7_q21",
+      "text": "∫ (1 / √(x² - a²)) dx is:",
+      "options": ["log|x + √(x² - a²)| + C", "sin⁻¹(x/a) + C", "log|x - √(x² - a²)| + C", "1/a sec⁻¹(x/a) + C"],
+      "correctIndex": 0,
+      "explanation": "One of the standard integrals for square root denominators.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m7_q22",
+      "text": "Definite integral ∫[0, π/2] sin x dx is:",
+      "options": ["0", "1", "-1", "π/2"],
+      "correctIndex": 1,
+      "explanation": "[-cos x] from 0 to π/2 = -cos(π/2) - (-cos 0) = 0 + 1 = 1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m7_q23",
+      "text": "The value of ∫[a, b] x dx is:",
+      "options": ["b - a", "(b² - a²)/2", "b² - a²", "ab"],
+      "correctIndex": 1,
+      "explanation": "[x²/2] from a to b = b²/2 - a²/2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m7_q24",
+      "text": "∫[0, a] f(x) dx is equal to which property?",
+      "options": ["∫[0, a] f(a-x) dx", "∫[0, a] f(x-a) dx", "-∫[0, a] f(x) dx", "None"],
+      "correctIndex": 0,
+      "explanation": "A key property often used to simplify integrals of trigonometric functions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m7_q25",
+      "text": "∫ aˣ dx is equal to:",
+      "options": ["aˣ + C", "aˣ log a + C", "aˣ / log a + C", "x aˣ⁻¹ + C"],
+      "correctIndex": 2,
+      "explanation": "General exponential integration formula.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m7_q26",
+      "text": "∫ (1 / (x² - a²)) dx is equal to:",
+      "options": ["(1/2a) log|(x-a)/(x+a)| + C", "(1/2a) log|(x+a)/(x-a)| + C", "1/a tan⁻¹(x/a) + C", "log|x-a| + C"],
+      "correctIndex": 0,
+      "explanation": "Special integral derived using partial fractions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m7_q27",
+      "text": "∫ √(a² - x²) dx involves ________ substitution.",
+      "options": ["x = a tan θ", "x = a sin θ", "x = a sec θ", "x = a eᵗ"],
+      "correctIndex": 1,
+      "explanation": "Using x = a sin θ simplifies the expression under the square root to a cos θ.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m7_q28",
+      "text": "What is ∫[0, 1] (1 / (1 + x²)) dx?",
+      "options": ["π/2", "π/4", "1", "0"],
+      "correctIndex": 1,
+      "explanation": "[tan⁻¹x] from 0 to 1 = tan⁻¹(1) - tan⁻¹(0) = π/4 - 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m7_q29",
+      "text": "The integral ∫ cot x dx is:",
+      "options": ["log|sin x| + C", "-log|sin x| + C", "log|cos x| + C", "-cosec²x + C"],
+      "correctIndex": 0,
+      "explanation": "∫ (cos x / sin x) dx = log|sin x| + C.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m7_q30",
+      "text": "The constant of integration 'C' is added in:",
+      "options": ["Definite integrals", "Indefinite integrals", "Both", "None"],
+      "correctIndex": 1,
+      "explanation": "Indefinite integrals represent a family of curves, while definite integrals have a fixed value.",
+      "frequencyRating": 5
+    }
+  ]
+}

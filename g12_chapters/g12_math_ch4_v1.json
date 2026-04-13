@@ -1,0 +1,330 @@
+{
+  "id": "g12_math_ch4",
+  "grade": "12",
+  "subject": "Mathematics",
+  "number": "4",
+  "title": "Determinants",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_m4_q1",
+      "text": "The determinant of a 1x1 matrix [a] is:",
+      "options": ["0", "1", "a", "|a|"],
+      "correctIndex": 2,
+      "explanation": "For a matrix of order 1, the determinant is the element itself.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m4_q2",
+      "text": "If A is a square matrix of order n, then |kA| is equal to:",
+      "options": ["k|A|", "k^n |A|", "n^k |A|", "n|A|"],
+      "correctIndex": 1,
+      "explanation": "When a scalar k is multiplied by a matrix of order n, each of the n rows is multiplied by k, so the factor k^n comes out of the determinant.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m4_q3",
+      "text": "A square matrix A is singular if:",
+      "options": ["|A| = 1", "|A| = 0", "|A| != 0", "A = I"],
+      "correctIndex": 1,
+      "explanation": "By definition, a singular matrix is a square matrix whose determinant is zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m4_q4",
+      "text": "The area of a triangle with vertices (x1, y1), (x2, y2), and (x3, y3) using determinants is:",
+      "options": ["1/2 |x1(y2-y3) + x2(y3-y1) + x3(y1-y2)|", "1/2 |det([[x1,y1,1],[x2,y2,1],[x3,y3,1]])|", "Both A and B", "None of these"],
+      "correctIndex": 2,
+      "explanation": "The determinant formula is a compact way to represent the standard coordinate geometry formula for the area of a triangle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m4_q5",
+      "text": "If the area of a triangle is 0, then the three vertices are:",
+      "options": ["Vertices of a right triangle", "Collinear", "Equidistant from origin", "None of these"],
+      "correctIndex": 1,
+      "explanation": "An area of zero implies the points lie on a single straight line.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m4_q6",
+      "text": "The minor of an element a_ij is denoted by:",
+      "options": ["A_ij", "M_ij", "C_ij", "m_ij"],
+      "correctIndex": 1,
+      "explanation": "Minor M_ij is the determinant obtained by deleting the i-th row and j-th column.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m4_q7",
+      "text": "The cofactor A_ij is related to minor M_ij by the formula:",
+      "options": ["A_ij = M_ij", "A_ij = (-1)^(i+j) M_ij", "A_ij = (-1)^(i-j) M_ij", "A_ij = 1/M_ij"],
+      "correctIndex": 1,
+      "explanation": "Cofactors are signed minors, where the sign depends on the sum of row and column indices.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m4_q8",
+      "text": "For a square matrix A, A(adj A) is equal to:",
+      "options": ["|A| I", "I", "adj A", "0"],
+      "correctIndex": 0,
+      "explanation": "A fundamental property of adjoints is that A * adj(A) = adj(A) * A = |A| * I.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m4_q9",
+      "text": "A square matrix A is invertible if and only if:",
+      "options": ["A is singular", "A is non-singular", "A is symmetric", "A is skew-symmetric"],
+      "correctIndex": 1,
+      "explanation": "A matrix must have a non-zero determinant (|A| != 0) to have an inverse.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m4_q10",
+      "text": "If A is an invertible matrix of order 2, then det(A^-1) is equal to:",
+      "options": ["det(A)", "1/det(A)", "1", "0"],
+      "correctIndex": 1,
+      "explanation": "Since A * A^-1 = I, taking determinants on both sides gives |A| * |A^-1| = |I| = 1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m4_q11",
+      "text": "If A is a square matrix of order 3 and |A| = 5, then |adj A| is:",
+      "options": ["5", "25", "125", "1/5"],
+      "correctIndex": 1,
+      "explanation": "|adj A| = |A|^(n-1). For n=3, |adj A| = 5^(3-1) = 5^2 = 25.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m4_q12",
+      "text": "A system of equations AX = B is consistent if:",
+      "options": ["It has no solution", "It has one or more solutions", "det(A) = 0", "B = 0"],
+      "correctIndex": 1,
+      "explanation": "Consistency implies the existence of at least one set of values that satisfies all equations.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m4_q13",
+      "text": "If |A| != 0, the unique solution for AX = B is given by:",
+      "options": ["X = AB", "X = B A^-1", "X = A^-1 B", "X = adj(A) B"],
+      "correctIndex": 2,
+      "explanation": "Multiplying both sides by A^-1 from the left gives A^-1AX = A^-1B, so IX = A^-1B.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m4_q14",
+      "text": "If |A| = 0 and (adj A)B != 0, then the system has:",
+      "options": ["Unique solution", "Infinite solutions", "No solution", "None of these"],
+      "correctIndex": 2,
+      "explanation": "When the determinant is zero and the product of adjoint and B is non-zero, the system is inconsistent.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m4_q15",
+      "text": "The determinant of a skew-symmetric matrix of odd order is always:",
+      "options": ["1", "Positive", "0", "Negative"],
+      "correctIndex": 2,
+      "explanation": "Property: |A| = |A'| = |-A| = (-1)^n |A|. For odd n, |A| = -|A|, so 2|A|=0.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m4_q16",
+      "text": "Which of the following values of x makes the determinant [[x, 2], [18, x]] = [[6, 2], [18, 6]]?",
+      "options": ["6", "-6", "+- 6", "0"],
+      "correctIndex": 2,
+      "explanation": "x^2 - 36 = 36 - 36 => x^2 - 36 = 0 => x^2 = 36.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m4_q17",
+      "text": "The sum of products of elements of any row with their own cofactors is equal to:",
+      "options": ["0", "1", "Determinant value", "None of these"],
+      "correctIndex": 2,
+      "explanation": "This is the definition of expanding a determinant by a row.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m4_q18",
+      "text": "The sum of products of elements of any row with cofactors of another row is:",
+      "options": ["Determinant value", "0", "1", "-1"],
+      "correctIndex": 1,
+      "explanation": "This is a key property of determinants used in matrix inversion proofs.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m4_q19",
+      "text": "Adjoint of a symmetric matrix is:",
+      "options": ["Symmetric", "Skew-symmetric", "Diagonal", "Identity"],
+      "correctIndex": 0,
+      "explanation": "The adjoint operation preserves the symmetry of a matrix.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m4_q20",
+      "text": "If A is a square matrix, then det(A) = det(A'). This statement is:",
+      "options": ["Always True", "Always False", "True only for order 2", "True only for order 3"],
+      "correctIndex": 0,
+      "explanation": "The determinant of a matrix and its transpose are always equal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m4_q21",
+      "text": "If any two rows (or columns) of a determinant are identical, its value is:",
+      "options": ["1", "0", "-1", "Double"],
+      "correctIndex": 1,
+      "explanation": "Identical rows/columns make the determinant zero (linear dependence).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m4_q22",
+      "text": "If all elements of a row are zero, the determinant is:",
+      "options": ["1", "Undefined", "0", "The product of other elements"],
+      "correctIndex": 2,
+      "explanation": "Expanding along the zero row yields 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m4_q23",
+      "text": "For two square matrices A and B of the same order, |AB| is equal to:",
+      "options": ["|A| + |B|", "|A| - |B|", "|A| * |B|", "|A| / |B|"],
+      "correctIndex": 2,
+      "explanation": "The determinant of a product is the product of the determinants.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m4_q24",
+      "text": "If A is a scalar matrix of order n with diagonal elements k, then |A| is:",
+      "options": ["k", "nk", "k^n", "n^k"],
+      "correctIndex": 2,
+      "explanation": "For a diagonal matrix, the determinant is the product of diagonal elements.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m4_q25",
+      "text": "A system of linear equations is called homogeneous if B is:",
+      "options": ["Identity matrix", "Zero matrix", "Symmetric matrix", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Homogeneous systems are of the form AX = 0.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m4_q26",
+      "text": "The determinant of an identity matrix of any order is:",
+      "options": ["0", "1", "n", "n!"],
+      "correctIndex": 1,
+      "explanation": "Product of diagonal elements (1 * 1 * ...) is always 1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m4_q27",
+      "text": "If A is a square matrix of order 3, then |2A| = ",
+      "options": ["2|A|", "4|A|", "6|A|", "8|A|"],
+      "correctIndex": 3,
+      "explanation": "2^3 = 8.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m4_q28",
+      "text": "Which of the following is correct?",
+      "options": ["Determinant is a square matrix", "Determinant is a number associated to a matrix", "Determinant is a number associated to a square matrix", "None of these"],
+      "correctIndex": 2,
+      "explanation": "Determinants are defined only for square matrices.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m4_q29",
+      "text": "If A is an invertible matrix, then adj(A) is:",
+      "options": ["|A| A^-1", "A^-1 / |A|", "A^-1", "|A| I"],
+      "correctIndex": 0,
+      "explanation": "Since A^-1 = (1/|A|) adj A, then adj A = |A| A^-1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m4_q30",
+      "text": "The number of solutions of a system AX = B where |A| != 0 is:",
+      "options": ["0", "1", "2", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "Non-singular matrices always provide a unique solution for the system.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m4_q31",
+      "text": "If x, y, z are non-zero real numbers, then inverse of [[x,0,0],[0,y,0],[0,0,z]] is:",
+      "options": ["[[1/x,0,0],[0,1/y,0],[0,0,1/z]]", "[[x,0,0],[0,y,0],[0,0,z]]", "xyz I", "None of these"],
+      "correctIndex": 0,
+      "explanation": "The inverse of a diagonal matrix is a diagonal matrix with the reciprocal of its elements.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m4_q32",
+      "text": "The determinant of a diagonal matrix is:",
+      "options": ["Sum of diagonal elements", "Product of diagonal elements", "Zero", "One"],
+      "correctIndex": 1,
+      "explanation": "Expansion along any row/column reduces to the product of diagonals.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m4_q33",
+      "text": "The value of det [[1, a, b+c], [1, b, c+a], [1, c, a+b]] is:",
+      "options": ["a+b+c", "0", "1", "abc"],
+      "correctIndex": 1,
+      "explanation": "C3 -> C3 + C2 makes C3 = [a+b+c, a+b+c, a+b+c]. Taking common, C1 and C3 become identical.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m4_q34",
+      "text": "For a 3x3 matrix, if every element is multiplied by 3, the determinant becomes:",
+      "options": ["3 times", "9 times", "27 times", "81 times"],
+      "correctIndex": 2,
+      "explanation": "3^3 = 27.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m4_q35",
+      "text": "Inverse of matrix A exists only if matrix A is:",
+      "options": ["Singular", "Non-singular", "Null", "Rectangular"],
+      "correctIndex": 1,
+      "explanation": "Inverse exists if |A| != 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m4_q36",
+      "text": "If A and B are invertible matrices of same order, then (AB)^-1 is:",
+      "options": ["A^-1 B^-1", "B^-1 A^-1", "AB", "BA"],
+      "correctIndex": 1,
+      "explanation": "The inverse of product is the product of inverses in reverse order.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m4_q37",
+      "text": "If A is a square matrix, then adj(A') is:",
+      "options": ["(adj A)'", "adj A", "-adj A", "I"],
+      "correctIndex": 0,
+      "explanation": "Transposing and finding the adjoint are commutative operations.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m4_q38",
+      "text": "A homogeneous system always has at least the solution X = 0, called the:",
+      "options": ["Trivial solution", "Non-trivial solution", "Infinite solution", "Zero solution"],
+      "correctIndex": 0,
+      "explanation": "X=0 is always a valid solution for AX=0.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m4_q39",
+      "text": "The determinant of an orthogonal matrix (A'A = I) is:",
+      "options": ["0", "1", "+- 1", "Any real number"],
+      "correctIndex": 2,
+      "explanation": "|A'A| = |I| => |A'| |A| = 1 => |A|^2 = 1.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_m4_q40",
+      "text": "Calculating the determinant of a 3x3 matrix involves:",
+      "options": ["Expansion along one row", "Expansion along one column", "Both A and B", "Multiplication of all 9 elements"],
+      "correctIndex": 2,
+      "explanation": "A determinant can be evaluated by expanding along any row or column.",
+      "frequencyRating": 5
+    }
+  ]
+}

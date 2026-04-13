@@ -1,0 +1,330 @@
+{
+  "id": "g12_eng_ch1",
+  "grade": "12",
+  "subject": "English",
+  "number": "1",
+  "title": "The Last Lesson",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_e1_q1",
+      "text": "Who is the author of 'The Last Lesson'?",
+      "options": ["Alphonse Daudet", "Anees Jung", "William Douglas", "Selma Lagerlöf"],
+      "correctIndex": 0,
+      "explanation": "Alphonse Daudet was a French novelist and short-story writer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e1_q2",
+      "text": "In which year was the story 'The Last Lesson' set?",
+      "options": ["1870-1871", "1914-1918", "1939-1945", "1850-1851"],
+      "correctIndex": 0,
+      "explanation": "The story is set in the days of the Franco-Prussian War.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e1_q3",
+      "text": "Which districts of France passed into Prussian hands in the story?",
+      "options": ["Paris and Lyon", "Alsace and Lorraine", "Berlin and Munich", "Bordeaux and Nice"],
+      "correctIndex": 1,
+      "explanation": "Following the French defeat, these two border districts were ceded to Prussia.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e1_q4",
+      "text": "Who is the narrator of 'The Last Lesson'?",
+      "options": ["M. Hamel", "A villager", "A young schoolboy named Franz", "A Prussian soldier"],
+      "correctIndex": 2,
+      "explanation": "Franz provides a child's perspective on the sudden political and cultural changes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e1_q5",
+      "text": "Why was Franz afraid of going to school that morning?",
+      "options": ["He was sick", "He hadn't prepared the lesson on participles", "He had lost his books", "He wanted to go fishing"],
+      "correctIndex": 1,
+      "explanation": "M. Hamel had said he would question them on participles, and Franz didn't know the first word about them.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e1_q6",
+      "text": "What was the 'temptation' Franz felt on his way to school?",
+      "options": ["To run away and spend the day outdoors", "To join the Prussian army", "To go to the market", "To sleep under a tree"],
+      "correctIndex": 0,
+      "explanation": "The warm weather and the chirping birds were more attractive than rules of grammar.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e1_q7",
+      "text": "What did Franz see in front of the town hall bulletin-board?",
+      "options": ["A parade", "A crowd of people", "Prussian soldiers", "Children playing"],
+      "correctIndex": 1,
+      "explanation": "For two years, all the bad news had come from that bulletin board.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e1_q8",
+      "text": "Who was the blacksmith who told Franz not to go so fast?",
+      "options": ["Hauser", "Wachter", "Muller", "Schulz"],
+      "correctIndex": 1,
+      "explanation": "Wachter was reading the bulletin and knew the news about the schools.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e1_q9",
+      "text": "What was unusual about the school on that day?",
+      "options": ["It was very noisy", "It was as quiet as a Sunday morning", "There was no school", "The roof was leaking"],
+      "correctIndex": 1,
+      "explanation": "Usually there was a great bustle, but that day everything was still.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e1_q10",
+      "text": "What was M. Hamel wearing that he only wore on special days?",
+      "options": ["A black silk cap", "A beautiful green coat and frilled shirt", "A red tie", "A leather jacket"],
+      "correctIndex": 1,
+      "explanation": "He wore his formal Sunday clothes to mark the importance of his final lesson.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e1_q11",
+      "text": "Who was sitting on the back benches that were usually empty?",
+      "options": ["Prussian soldiers", "The village people (Hauser, former mayor, etc.)", "Inspectors from Berlin", "Parents of the children"],
+      "correctIndex": 1,
+      "explanation": "The elders of the village came to show their respect for the teacher and their language.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e1_q12",
+      "text": "What order had come from Berlin?",
+      "options": ["To close the school", "To teach only German in the schools of Alsace and Lorraine", "To arrest M. Hamel", "To recruit students for the army"],
+      "correctIndex": 1,
+      "explanation": "This order represents the beginning of cultural and linguistic imposition.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e1_q13",
+      "text": "M. Hamel told the students that French is the most ________ language in the world.",
+      "options": ["Difficult", "Modern", "Beautiful, clearest, and most logical", "Common"],
+      "correctIndex": 2,
+      "explanation": "He urged them to guard their language among themselves.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e1_q14",
+      "text": "How did Franz feel about his books after hearing the news?",
+      "options": ["He was glad to be rid of them", "They felt like old friends that he couldn't give up", "He wanted to burn them", "He was indifferent"],
+      "correctIndex": 1,
+      "explanation": "The realization of loss changed his perspective on his studies and his teacher.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e1_q15",
+      "text": "What did M. Hamel say when Franz could not recite the rule for the participle?",
+      "options": ["He scolded him severely", "He told him he wouldn't scold him because he must feel bad enough already", "He gave him extra homework", "He sent him out of the class"],
+      "correctIndex": 1,
+      "explanation": "M. Hamel used the moment to reflect on the procrastination of the people of Alsace.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e1_q16",
+      "text": "Whom did M. Hamel blame for the neglect of learning among the students?",
+      "options": ["Only the students", "Only the parents", "The parents, the students, and himself", "The Prussians"],
+      "correctIndex": 2,
+      "explanation": "He admitted he often sent students to water his flowers or gave them a holiday when he went fishing.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e1_q17",
+      "text": "M. Hamel said that when a people are enslaved, as long as they hold fast to their language, it is as if:",
+      "options": ["They are free", "They have the key to their prison", "They are strong", "They can fight back"],
+      "correctIndex": 1,
+      "explanation": "Language is portrayed as a tool for preserving national identity and survival under occupation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e1_q18",
+      "text": "What new copies did M. Hamel bring for the students that day?",
+      "options": ["Grammar books", "Copies with 'France, Alsace, France, Alsace' written in a beautiful round hand", "History of Germany", "Poetry collections"],
+      "correctIndex": 1,
+      "explanation": "These copies looked like little flags floating everywhere in the schoolroom.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e1_q19",
+      "text": "What thought came to Franz's mind when he heard the pigeons cooing on the roof?",
+      "options": ["Will they fly to Berlin?", "Will they make them sing in German, even the pigeons?", "Are they also being enslaved?", "When will they stop?"],
+      "correctIndex": 1,
+      "explanation": "This reflects the absurdity of trying to impose linguistic control over natural instincts and identity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e1_q20",
+      "text": "For how many years had M. Hamel served the school?",
+      "options": ["Twenty years", "Thirty years", "Forty years", "Fifty years"],
+      "correctIndex": 2,
+      "explanation": "He had stayed in the same place for forty years with his garden outside the window.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e1_q21",
+      "text": "What sound announced the end of the class?",
+      "options": ["The school bell", "The church clock striking twelve and the Angelus", "The Prussian trumpets", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "The overlapping sounds of the church and the military signified the finality of the moment.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e1_q22",
+      "text": "What did M. Hamel write on the blackboard at the very end?",
+      "options": ["Long live France", "Vive La France!", "Au Revoir", "Goodbye students"],
+      "correctIndex": 1,
+      "explanation": "He wrote it as large as he could, using all his strength.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e1_q23",
+      "text": "What gesture did M. Hamel make to dismiss the class?",
+      "options": ["He shouted 'Go!'", "He leaned his head against the wall and gestured with his hand", "He shook hands with everyone", "He packed his bags"],
+      "correctIndex": 1,
+      "explanation": "He was too choked with emotion to speak.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e1_q24",
+      "text": "The phrase 'Viva La France' means:",
+      "options": ["France is great", "Long live France", "Victory to France", "God save France"],
+      "correctIndex": 1,
+      "explanation": "It is an expression of French patriotism.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e1_q25",
+      "text": "The story 'The Last Lesson' highlights which human tendency?",
+      "options": ["Greed", "Procrastination", "Violence", "Pride"],
+      "correctIndex": 1,
+      "explanation": "The story emphasizes how people put off learning until it's too late.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e1_q26",
+      "text": "What does the 'Last Lesson' symbolize?",
+      "options": ["Loss of freedom and language", "Beginning of a new career", "Summer vacation", "The death of a teacher"],
+      "correctIndex": 0,
+      "explanation": "It symbolizes the cultural impact of political defeat.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e1_q27",
+      "text": "Why were the villagers repenting?",
+      "options": ["For not going to school more often", "For not paying the teacher well", "For losing the war", "For fighting with each other"],
+      "correctIndex": 0,
+      "explanation": "They came to school to thank M. Hamel and expressed regret for their lack of education.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e1_q28",
+      "text": "What was M. Hamel's sister doing in the room above?",
+      "options": ["Cooking", "Packing their trunks", "Crying", "Singing"],
+      "correctIndex": 1,
+      "explanation": "They had to leave the country the next day.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e1_q29",
+      "text": "The theme of 'Linguistic Chauvinism' refers to:",
+      "options": ["Learning many languages", "The unreasonable belief that one's own language is superior", "Promoting world peace", "Translating books"],
+      "correctIndex": 1,
+      "explanation": "The story shows the pain of having one's native language taken away by force.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e1_q30",
+      "text": "Franz was surprised because M. Hamel ________ when he was late.",
+      "options": ["Hit him with a ruler", "Was very kind and told him to go to his place", "Called his parents", "Made him stand in the corner"],
+      "correctIndex": 1,
+      "explanation": "The teacher's unusual kindness was the first hint that the day was different.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e1_q31",
+      "text": "What was the blacksmith's real intention when he told Franz there was 'plenty of time'?",
+      "options": ["To make fun of him", "Because he knew it was the last lesson and school didn't matter anymore", "He was being helpful", "He was confused"],
+      "correctIndex": 1,
+      "explanation": "It was a sarcastic or resigned remark based on the news from Berlin.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e1_q32",
+      "text": "The story 'The Last Lesson' is written in the ________ person.",
+      "options": ["First", "Second", "Third", "Omniscient"],
+      "correctIndex": 0,
+      "explanation": "It is narrated by Franz using 'I'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e1_q33",
+      "text": "What did M. Hamel compare the French language to?",
+      "options": ["A key to a prison", "A sharp sword", "A beautiful flower", "A high mountain"],
+      "correctIndex": 0,
+      "explanation": "He believed language was the ultimate defense for an oppressed nation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e1_q34",
+      "text": "Who had been sitting in the back of the room with a three-cornered hat?",
+      "options": ["The Mayor", "Old Hauser", "The Postmaster", "The Blacksmith"],
+      "correctIndex": 1,
+      "explanation": "Hauser had even brought an old primer to follow along.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e1_q35",
+      "text": "Why did M. Hamel stay motionless in his chair during the lesson?",
+      "options": ["He was lazy", "He was gazing at everything as if he wanted to fix it in his mind", "He was sleeping", "He was angry"],
+      "correctIndex": 1,
+      "explanation": "He was mentally recording every detail of his home of 40 years.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e1_q36",
+      "text": "How did the students react to the writing lesson?",
+      "options": ["They were bored", "Everyone set to work and it was very quiet", "They were laughing", "They refused to write"],
+      "correctIndex": 1,
+      "explanation": "Only the scratching of pens over paper could be heard.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e1_q37",
+      "text": "What does the 'Angelus' refer to?",
+      "options": ["A Prussian officer", "A Catholic prayer/bell", "A school book", "A French dish"],
+      "correctIndex": 1,
+      "explanation": "The ringing of the Angelus bell coincided with the end of the school day.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e1_q38",
+      "text": "Why does the story end with a gesture rather than words?",
+      "options": ["M. Hamel lost his voice", "Emotion made it impossible for him to speak", "He was in a hurry", "He wanted to be dramatic"],
+      "correctIndex": 1,
+      "explanation": "The emotional weight of the 'last lesson' overwhelmed him.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e1_q39",
+      "text": "What had been the source of all 'bad news' for the people of Alsace?",
+      "options": ["The newspaper", "The radio", "The town hall bulletin-board", "The priest"],
+      "correctIndex": 2,
+      "explanation": "News of lost battles and drafts were posted there.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e1_q40",
+      "text": "Which of these is NOT a feeling Franz experienced during the day?",
+      "options": ["Guilt", "Sudden love for his language", "Respect for M. Hamel", "Joy at the Prussians' arrival"],
+      "correctIndex": 2,
+      "explanation": "Franz was deeply saddened and felt a sense of loss for his culture.",
+      "frequencyRating": 5
+    }
+  ]
+}

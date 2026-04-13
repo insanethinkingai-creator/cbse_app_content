@@ -1,0 +1,330 @@
+{
+  "id": "g12_phy_ch2",
+  "grade": "12",
+  "subject": "Physics",
+  "number": "2",
+  "title": "Electrostatic Potential and Capacitance",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_p2_q1",
+      "text": "Electrostatic potential at a point is defined as the work done in bringing a unit positive charge from ________ to that point.",
+      "options": ["Origin", "Surface", "Infinity", "Center"],
+      "correctIndex": 2,
+      "explanation": "Infinity is taken as the reference point where potential is assumed to be zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p2_q2",
+      "text": "The SI unit of electrostatic potential is:",
+      "options": ["Joule", "Newton", "Volt", "Coulomb"],
+      "correctIndex": 2,
+      "explanation": "1 Volt = 1 Joule / 1 Coulomb.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p2_q3",
+      "text": "The electrostatic potential due to a point charge 'q' at a distance 'r' varies as:",
+      "options": ["1/r", "1/r^2", "r", "r^2"],
+      "correctIndex": 0,
+      "explanation": "Potential V = (1 / 4πε₀) * (q/r).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p2_q4",
+      "text": "The work done in moving a charge over an equipotential surface is:",
+      "options": ["Positive", "Negative", "Zero", "Infinite"],
+      "correctIndex": 2,
+      "explanation": "Work done W = q(V2 - V1). Since V2 = V1 on an equipotential surface, W = 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p2_q5",
+      "text": "Electric field is always ________ to the equipotential surface at every point.",
+      "options": ["Parallel", "Perpendicular", "At 45 degrees", "Tangential"],
+      "correctIndex": 1,
+      "explanation": "If there were a tangential component, work would be done moving a charge along the surface, contradicting the definition of equipotential.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p2_q6",
+      "text": "For a uniform electric field along the x-axis, the equipotential surfaces are planes parallel to:",
+      "options": ["XY plane", "YZ plane", "XZ plane", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Equipotential surfaces are perpendicular to the field lines.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p2_q7",
+      "text": "The electrostatic potential at any point on the axial line of an electric dipole is:",
+      "options": ["Zero", "Proportional to 1/r", "Proportional to 1/r^2", "Proportional to 1/r^3"],
+      "correctIndex": 2,
+      "explanation": "V = (1 / 4πε₀) * (p / r^2) for large distances r.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p2_q8",
+      "text": "The electrostatic potential at any point on the equatorial plane of an electric dipole is:",
+      "options": ["Zero", "Maximum", "Minimum", "Infinite"],
+      "correctIndex": 0,
+      "explanation": "On the equatorial line, the potential due to +q and -q charges cancels out exactly.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p2_q9",
+      "text": "Capacitance of a conductor depends on:",
+      "options": ["Geometry of conductor", "Nature of surrounding medium", "Presence of other conductors", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Capacitance C = Q/V is a property determined by the physical configuration and environment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p2_q10",
+      "text": "The SI unit of capacitance is:",
+      "options": ["Farad", "Henry", "Tesla", "Ohm"],
+      "correctIndex": 0,
+      "explanation": "1 Farad = 1 Coulomb / 1 Volt.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p2_q11",
+      "text": "The capacitance of a parallel plate capacitor is given by C = ",
+      "options": ["ε₀A / d", "ε₀d / A", "A d / ε₀", "ε₀ / (Ad)"],
+      "correctIndex": 0,
+      "explanation": "C is directly proportional to area A and inversely proportional to separation d.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p2_q12",
+      "text": "When a dielectric slab is inserted between the plates of a capacitor, its capacitance:",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correctIndex": 0,
+      "explanation": "The dielectric reduces the effective electric field, decreasing potential and thus increasing C (since C = Q/V).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p2_q13",
+      "text": "The energy stored in a capacitor of capacitance C and potential V is:",
+      "options": ["CV", "1/2 CV^2", "CV^2", "1/2 C^2 V"],
+      "correctIndex": 1,
+      "explanation": "U = 1/2 CV^2 = 1/2 QV = Q^2 / 2C.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p2_q14",
+      "text": "In a series combination of n capacitors, which quantity remains the same for each?",
+      "options": ["Potential difference", "Energy", "Charge", "Capacitance"],
+      "correctIndex": 2,
+      "explanation": "In series, the same charge Q flows through every capacitor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p2_q15",
+      "text": "In a parallel combination of capacitors, which quantity remains the same for each?",
+      "options": ["Charge", "Potential difference", "Energy", "None"],
+      "correctIndex": 1,
+      "explanation": "Capacitors in parallel are connected across the same two points, ensuring identical V.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p2_q16",
+      "text": "Dielectric constant K is defined as the ratio of:",
+      "options": ["Capacitance with dielectric to capacitance in vacuum", "Field in vacuum to field in dielectric", "Permittivity of medium to permittivity of vacuum", "All of these"],
+      "correctIndex": 3,
+      "explanation": "K is a dimensionless factor representing the factor by which the field is reduced or capacitance increased.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p2_q17",
+      "text": "The potential energy of a system of two point charges q1 and q2 separated by distance r is:",
+      "options": ["(1/4πε₀) * (q1q2/r)", "(1/4πε₀) * (q1q2/r^2)", "q1q2 r", "Zero"],
+      "correctIndex": 0,
+      "explanation": "Work done in bringing q2 into the potential field of q1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p2_q18",
+      "text": "A polar molecule is one in which the center of positive and negative charges:",
+      "options": ["Coincide", "Do not coincide", "Are at infinity", "None"],
+      "correctIndex": 1,
+      "explanation": "Polar molecules (like H2O) have a permanent dipole moment.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p2_q19",
+      "text": "The maximum electric field that a dielectric medium can withstand without break-down is called its:",
+      "options": ["Dielectric constant", "Dielectric strength", "Capacitance", "Polarization"],
+      "correctIndex": 1,
+      "explanation": "It is measured in V/m. Above this limit, the insulating property fails.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p2_q20",
+      "text": "The relation between electric field E and potential V is:",
+      "options": ["E = dV/dr", "E = -dV/dr", "V = -dE/dr", "E = V*r"],
+      "correctIndex": 1,
+      "explanation": "The electric field is the negative gradient of the electrostatic potential.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p2_q21",
+      "text": "Total capacitance of three capacitors C1, C2, C3 in parallel is:",
+      "options": ["C1 + C2 + C3", "1/C1 + 1/C2 + 1/C3", "(C1C2C3)/(C1+C2+C3)", "None"],
+      "correctIndex": 0,
+      "explanation": "Parallel combination adds the storage capacities directly.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p2_q22",
+      "text": "Potential energy of a dipole in a uniform electric field is minimum when θ is:",
+      "options": ["0", "90", "180", "270"],
+      "correctIndex": 0,
+      "explanation": "U = -pE cos θ. At θ=0, U = -pE (minimum/stable equilibrium).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p2_q23",
+      "text": "A capacitor of 4μF is charged to 50V. The energy stored is:",
+      "options": ["5 mJ", "10 mJ", "2.5 mJ", "20 mJ"],
+      "correctIndex": 0,
+      "explanation": "U = 1/2 * (4e-6) * (50)^2 = 0.5 * 4e-6 * 2500 = 5000e-6 = 5e-3 J.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p2_q24",
+      "text": "Non-polar molecules (like O2, H2) have a permanent dipole moment equal to:",
+      "options": ["1", "Infinity", "Zero", "Changing"],
+      "correctIndex": 2,
+      "explanation": "Their centers of positive and negative charges coincide in the absence of an external field.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p2_q25",
+      "text": "If two capacitors of 6μF each are connected in series, the equivalent capacitance is:",
+      "options": ["12 μF", "3 μF", "6 μF", "1 μF"],
+      "correctIndex": 1,
+      "explanation": "1/Cs = 1/6 + 1/6 = 2/6 = 1/3, so Cs = 3 μF.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p2_q26",
+      "text": "One Electron Volt (eV) is equal to:",
+      "options": ["1.6 x 10^-19 J", "1 J", "9.1 x 10^-31 J", "6.6 x 10^-34 J"],
+      "correctIndex": 0,
+      "explanation": "It is the kinetic energy gained by an electron when accelerated through a potential difference of 1 Volt.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p2_q27",
+      "text": "The capacitance of a spherical conductor of radius R is:",
+      "options": ["4πε₀R", "4πε₀R^2", "R / 4πε₀", "ε₀R"],
+      "correctIndex": 0,
+      "explanation": "Derived from V = Q / 4πε₀R and C = Q/V.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p2_q28",
+      "text": "Sharp pointed ends of a conductor have ________ surface charge density.",
+      "options": ["Zero", "Low", "High", "Negative"],
+      "correctIndex": 2,
+      "explanation": "Charge density σ is inversely proportional to the radius of curvature.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p2_q29",
+      "text": "Work done in moving a charge from one point to another in an electric field depends on:",
+      "options": ["Path followed", "Only initial and final positions", "Velocity of charge", "Mass of charge"],
+      "correctIndex": 1,
+      "explanation": "Electrostatic force is a conservative force, so work is path-independent.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p2_q30",
+      "text": "The polarization of a dielectric is proportional to:",
+      "options": ["Potential", "Electric Field", "Capacitance", "Charge density"],
+      "correctIndex": 1,
+      "explanation": "P = χₑ E, where χₑ is electrical susceptibility.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p2_q31",
+      "text": "What happens to the potential at a point if the distance from the point charge is doubled?",
+      "options": ["Doubled", "Halved", "Quadrupled", "Remains same"],
+      "correctIndex": 1,
+      "explanation": "V ∝ 1/r. If r becomes 2r, V becomes V/2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p2_q32",
+      "text": "Earth is considered to be a conductor at ________ potential.",
+      "options": ["Infinite", "Zero", "Positive", "Negative"],
+      "correctIndex": 1,
+      "explanation": "Earth is so large that its potential doesn't change significantly when charge is added/removed; thus it's used as a zero reference.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p2_q33",
+      "text": "When two capacitors are joined in parallel, they share the:",
+      "options": ["Charge", "Energy", "Potential", "None"],
+      "correctIndex": 2,
+      "explanation": "Parallel components always share the same potential difference.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p2_q34",
+      "text": "A dielectric ________ the electric field within it.",
+      "options": ["Increases", "Decreases", "Zeroes", "Has no effect on"],
+      "correctIndex": 1,
+      "explanation": "Induced charges create an internal field opposite to the external field, reducing the net field.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p2_q35",
+      "text": "Potential energy of a dipole is maximum (unstable equilibrium) when θ is:",
+      "options": ["0", "90", "180", "270"],
+      "correctIndex": 2,
+      "explanation": "At 180°, cos θ = -1, so U = -pE(-1) = +pE.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p2_q36",
+      "text": "Which of the following is a unit of energy density of electric field?",
+      "options": ["V/m", "J/m^3", "F/m", "C/m^2"],
+      "correctIndex": 1,
+      "explanation": "Energy density is energy per unit volume.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_p2_q37",
+      "text": "If distance between plates of a parallel plate capacitor is halved, capacitance becomes:",
+      "options": ["Half", "Double", "Four times", "One-fourth"],
+      "correctIndex": 1,
+      "explanation": "C ∝ 1/d. If d becomes d/2, C becomes 2C.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p2_q38",
+      "text": "Electric potential is a:",
+      "options": ["Vector quantity", "Scalar quantity", "Tensor quantity", "Dimensionless quantity"],
+      "correctIndex": 1,
+      "explanation": "Potential is defined by work/charge, both of which are scalars.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p2_q39",
+      "text": "Equipotential surfaces due to a single point charge are:",
+      "options": ["Concentric spheres", "Parallel planes", "Cylinders", "None"],
+      "correctIndex": 0,
+      "explanation": "Since V = kQ/r, all points at the same distance r (forming a sphere) have the same potential.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p2_q40",
+      "text": "The formula for energy density 'u' in a capacitor is:",
+      "options": ["1/2 ε₀E^2", "ε₀E", "1/2 CV^2", "Q^2 / 2C"],
+      "correctIndex": 0,
+      "explanation": "u represents energy stored per unit volume in the electric field between plates.",
+      "frequencyRating": 4
+    }
+  ]
+}
