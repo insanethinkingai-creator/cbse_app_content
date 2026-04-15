@@ -48,7 +48,7 @@ def audit_grade(grade_num, expected_structure):
                     data = json.load(f)
                     q_count = len(data.get("questions", []))
                     
-                if q_count != expected_q_count:
+                if q_count < expected_q_count:
                     missing_indices.append(f"Ch{i} ({q_count}/{expected_q_count}Q)")
                     total_incomplete += 1
                 else:

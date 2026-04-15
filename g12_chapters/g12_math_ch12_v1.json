@@ -1,0 +1,330 @@
+{
+  "id": "g12_math_ch12",
+  "grade": "12",
+  "subject": "Mathematics",
+  "number": "12",
+  "title": "Linear Programming",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_m12_q1",
+      "text": "The linear function Z = ax + by, which is to be maximized or minimized, is called a/an:",
+      "options": ["Constraint", "Objective function", "Decision variable", "Feasible region"],
+      "correctIndex": 1,
+      "explanation": "The objective function is the linear function that we aim to optimize (maximize or minimize) in a linear programming problem.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m12_q2",
+      "text": "The linear inequalities or equations or restrictions on the variables of a linear programming problem are called:",
+      "options": ["Optimal solutions", "Decision variables", "Constraints", "Linear functions"],
+      "correctIndex": 2,
+      "explanation": "Constraints are the conditions or limitations under which the objective function must be optimized.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m12_q3",
+      "text": "In a typical LPP, the variables x and y (decision variables) satisfy x \u2265 0 and y \u2265 0. These are called:",
+      "options": ["Non-negative constraints", "Redundant constraints", "Optimal constraints", "Infeasible constraints"],
+      "correctIndex": 0,
+      "explanation": "In most practical problems, variables represent physical quantities that cannot be negative.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m12_q4",
+      "text": "The common region determined by all the constraints of a linear programming problem is called the:",
+      "options": ["Infeasible region", "Feasible region", "Optimal region", "Unbounded region"],
+      "correctIndex": 1,
+      "explanation": "The feasible region is the set of all points (x, y) that satisfy all constraints and non-negativity restrictions simultaneously.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m12_q5",
+      "text": "Any point in the feasible region that gives the maximum or minimum value of the objective function is called a/an:",
+      "options": ["Optimal solution", "Basic solution", "Feasible point", "Boundary point"],
+      "correctIndex": 0,
+      "explanation": "An optimal solution is the specific feasible solution that achieves the best value for the objective function.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m12_q6",
+      "text": "The feasible region for a linear programming problem is always a:",
+      "options": ["Concave set", "Convex set", "Disjoint set", "Open set"],
+      "correctIndex": 1,
+      "explanation": "A fundamental property of LPP is that the feasible region is always a convex polygon or polyhedron.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m12_q7",
+      "text": "According to the Corner Point Theorem, the optimal value of the objective function Z must occur at:",
+      "options": ["The origin", "The center of the region", "One of the corner points of the feasible region", "Any interior point"],
+      "correctIndex": 2,
+      "explanation": "Theorem 1 states that if an optimal solution exists, it will be found at one of the vertices of the feasible region.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m12_q8",
+      "text": "If the feasible region R is bounded, then the objective function Z = ax + by has:",
+      "options": ["Only a maximum value", "Only a minimum value", "Both a maximum and a minimum value", "No optimal value"],
+      "correctIndex": 2,
+      "explanation": "In a bounded feasible region, the objective function is guaranteed to reach both a global maximum and a global minimum.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m12_q9",
+      "text": "If two corner points of a feasible region yield the same maximum value for Z, then:",
+      "options": ["The solution is unique", "No maximum value exists", "Every point on the line segment joining these two points is also an optimal solution", "The region is unbounded"],
+      "correctIndex": 2,
+      "explanation": "When two adjacent vertices give the same optimal value, the entire edge connecting them is also optimal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m12_q10",
+      "text": "A linear programming problem with an empty feasible region has:",
+      "options": ["One solution", "Infinite solutions", "No optimal solution", "A solution at the origin"],
+      "correctIndex": 2,
+      "explanation": "If there is no feasible region (inconsistent constraints), there can be no point that satisfies all conditions, hence no solution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m12_q11",
+      "text": "The corner points of the region determined by x + y \u2264 4, x \u2265 0, y \u2265 0 are:",
+      "options": ["(0,0), (4,0), (0,4)", "(0,0), (2,2), (4,4)", "(4,0), (0,4)", "(1,1), (2,2)"],
+      "correctIndex": 0,
+      "explanation": "The vertices are the intersections of x=0 with y=0, x+y=4 with x=0, and x+y=4 with y=0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m12_q12",
+      "text": "Maximize Z = 3x + 4y subject to x + y \u2264 4, x \u2265 0, y \u2265 0.",
+      "options": ["12", "16", "7", "0"],
+      "correctIndex": 1,
+      "explanation": "Calculating at vertices: (0,0)->0, (4,0)->12, (0,4)->16. The maximum is 16.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m12_q13",
+      "text": "In an unbounded feasible region, the objective function Z = ax + by:",
+      "options": ["Always has a maximum", "Always has a minimum", "May or may not have an optimal value", "Is always zero"],
+      "correctIndex": 2,
+      "explanation": "For unbounded regions, an optimal value exists only if the corresponding half-plane shares no common points with the feasible region.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m12_q14",
+      "text": "Diet problems in LPP typically aim to:",
+      "options": ["Maximize cost", "Minimize the amount of food", "Minimize the cost of meeting nutritional requirements", "Maximize the number of vitamins"],
+      "correctIndex": 2,
+      "explanation": "The objective is usually to satisfy nutritional constraints at the lowest possible cost.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m12_q15",
+      "text": "Which of the following is a convex set?",
+      "options": ["A square", "A circle", "A line segment", "All of these"],
+      "correctIndex": 3,
+      "explanation": "In each case, any two points in the set can be joined by a segment that lies entirely within the set.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m12_q16",
+      "text": "The point (3, 2) is a feasible solution for the constraint x + y \u2264 5 if:",
+      "options": ["3 + 2 \u2264 5", "3 + 2 > 5", "3 = 2", "3 - 2 \u2264 5"],
+      "correctIndex": 0,
+      "explanation": "A point is feasible if it satisfies the inequality: 3 + 2 = 5, which satisfies \u2264 5.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m12_q17",
+      "text": "The region represented by x \u2265 0, y \u2265 0 is the:",
+      "options": ["Entire plane", "First quadrant", "Upper half plane", "Right half plane"],
+      "correctIndex": 1,
+      "explanation": "x \u2265 0 and y \u2265 0 restricts points to the first quadrant where both coordinates are non-negative.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m12_q18",
+      "text": "A redundant constraint in an LPP:",
+      "options": ["Makes the problem impossible", "Changes the optimal solution", "Does not affect the feasible region", "Is always an objective function"],
+      "correctIndex": 2,
+      "explanation": "Redundant constraints are those that are already covered by other constraints and don't change the set of feasible solutions.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m12_q19",
+      "text": "In a manufacturing problem, the constraints usually represent limitations on:",
+      "options": ["Labor hours and raw materials", "Profit margin", "Customer satisfaction", "Selling price"],
+      "correctIndex": 0,
+      "explanation": "Production is typically limited by available resources like machine time, labor, and materials.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m12_q20",
+      "text": "Transportation problems aim to minimize total transportation cost from 'm' plants to 'n' destinations. The number of constraints (excluding non-negativity) is usually:",
+      "options": ["m + n", "m * n", "m - n", "2"],
+      "correctIndex": 0,
+      "explanation": "There are 'm' supply constraints and 'n' demand constraints, totaling m + n.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m12_q21",
+      "text": "The minimum value of Z = 3x + 5y for the feasible region with corner points (0,2), (3,0), (6,0) is:",
+      "options": ["10", "9", "18", "0"],
+      "correctIndex": 1,
+      "explanation": "Z(0,2)=10, Z(3,0)=9, Z(6,0)=18. The minimum is 9.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m12_q22",
+      "text": "The line ax + by = c divides the 2D plane into:",
+      "options": ["Two half-planes", "Four quadrants", "One region", "Finite segments"],
+      "correctIndex": 0,
+      "explanation": "A line partitions the plane into two regions: ax + by < c and ax + by > c.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m12_q23",
+      "text": "Which of these is NOT a step in solving an LPP graphically?",
+      "options": ["Drawing constraint lines", "Finding corner points", "Finding the derivative of Z", "Evaluating Z at vertices"],
+      "correctIndex": 2,
+      "explanation": "LPP graphical method uses geometric properties of convex sets, not calculus/derivatives.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m12_q24",
+      "text": "The feasible region for x + y \u2265 2, x + y \u2264 1, x, y \u2265 0 is:",
+      "options": ["A triangle", "A line", "An empty set", "Infinite"],
+      "correctIndex": 2,
+      "explanation": "There is no value that is both \u2264 1 and \u2265 2. The constraints are inconsistent.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m12_q25",
+      "text": "If a feasible region has no corner points (e.g., an open half-plane x > 0), then:",
+      "options": ["An optimal solution always exists", "Optimal solution may not exist", "Origin is the solution", "It is not an LPP"],
+      "correctIndex": 1,
+      "explanation": "LPP standard theory requires a closed convex region to guarantee vertex solutions.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_m12_q26",
+      "text": "In a linear programming problem, the objective function must be:",
+      "options": ["Linear", "Quadratic", "Exponential", "Constant"],
+      "correctIndex": 0,
+      "explanation": "As the name 'Linear Programming' implies, the objective function and all constraints must be linear.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m12_q27",
+      "text": "The origin (0,0) is part of the feasible region for the inequality 2x + 3y \u2264 12 because:",
+      "options": ["0 \u2264 12 is true", "0 + 0 = 0", "Origin is always feasible", "12 is positive"],
+      "correctIndex": 0,
+      "explanation": "By substituting x=0, y=0 into the inequality, we get 0 \u2264 12, which is a true statement.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m12_q28",
+      "text": "A LPP can have:",
+      "options": ["Exactly one optimal solution", "Infinite optimal solutions", "No optimal solution", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Depending on the constraints and objective function, any of these outcomes is possible.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m12_q29",
+      "text": "Which quadrant contains the feasible region if x \u2264 0 and y \u2265 0?",
+      "options": ["1st", "2nd", "3rd", "4th"],
+      "correctIndex": 1,
+      "explanation": "In the second quadrant, x is negative (or zero) and y is positive (or zero).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m12_q30",
+      "text": "An iso-profit line is a line where:",
+      "options": ["Profit is zero", "Profit is constant", "Constraints are met", "Cost is minimized"],
+      "correctIndex": 1,
+      "explanation": "All points on an iso-profit line yield the same value for the objective function Z.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m12_q31",
+      "text": "The maximum value of Z = 4x + y for vertices (0,0), (3,0), (0,5), (2,3) is:",
+      "options": ["12", "5", "11", "15"],
+      "correctIndex": 0,
+      "explanation": "Z(0,0)=0, Z(3,0)=12, Z(0,5)=5, Z(2,3)=11. Max is 12.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m12_q32",
+      "text": "The objective function in a LPP is usually written as Z = ax + by. Here, a and b are called:",
+      "options": ["Decision variables", "Cost/Profit coefficients", "Constraints", "Slopes"],
+      "correctIndex": 1,
+      "explanation": "The constants a and b represent the contribution per unit of x and y to the total objective value.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m12_q33",
+      "text": "A feasible region that can be enclosed within a circle is said to be:",
+      "options": ["Bounded", "Unbounded", "Infinite", "Infeasible"],
+      "correctIndex": 0,
+      "explanation": "If a region has finite extent in all directions, it is called bounded.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m12_q34",
+      "text": "A feasible region that extends infinitely in at least one direction is:",
+      "options": ["Bounded", "Unbounded", "Closed", "Empty"],
+      "correctIndex": 1,
+      "explanation": "Unbounded regions do not have a finite area/volume and continue to infinity.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m12_q35",
+      "text": "Which type of problem in LPP involves distributing products from several sources to various sinks?",
+      "options": ["Diet problem", "Manufacturing problem", "Transportation problem", "Investment problem"],
+      "correctIndex": 2,
+      "explanation": "Transportation problems are a specific class of LPP dealing with logistics and distribution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m12_q36",
+      "text": "If Z = x + y, and the feasible region is x + y \u2265 10, x \u2265 0, y \u2265 0, then the maximum value of Z is:",
+      "options": ["10", "0", "Does not exist", "Infinity"],
+      "correctIndex": 2,
+      "explanation": "Since the region is unbounded in the direction of increasing x and y, Z can increase indefinitely.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m12_q37",
+      "text": "The number of decision variables in LPP problems solved graphically in Grade 12 is:",
+      "options": ["1", "2", "3", "Any number"],
+      "correctIndex": 1,
+      "explanation": "The graphical method is limited to 2D space, which corresponds to two decision variables.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m12_q38",
+      "text": "If the constraints are 2x + y \u2264 4 and x + 2y \u2264 4, and Z = x + y, the corner point providing max Z is:",
+      "options": ["(0,2)", "(2,0)", "(4/3, 4/3)", "(0,0)"],
+      "correctIndex": 2,
+      "explanation": "Z(0,2)=2, Z(2,0)=2, Z(4/3, 4/3) = 8/3 \u2248 2.66. Max is at intersection (4/3, 4/3).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m12_q39",
+      "text": "Mathematical formulation of a real-life problem into LPP is called:",
+      "options": ["Optimization", "Modeling", "Simulation", "Linearization"],
+      "correctIndex": 1,
+      "explanation": "Creating a mathematical model with an objective function and constraints is known as modeling.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m12_q40",
+      "text": "The optimal value in LPP is always unique if:",
+      "options": ["The feasible region is bounded", "The objective function is not parallel to any boundary", "The origin is a corner point", "There are only two constraints"],
+      "correctIndex": 1,
+      "explanation": "If the slope of the objective function differs from all constraint slopes, a unique corner point solution is guaranteed.",
+      "frequencyRating": 3
+    }
+  ]
+}

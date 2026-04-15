@@ -1,0 +1,331 @@
+{
+  "id": "g12_bio_ch13",
+  "grade": "12",
+  "subject": "Biology",
+  "number": "13",
+  "title": "Biodiversity and Conservation",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_b13_q1",
+      "text": "Who popularized the term 'Biodiversity'?",
+      "options": ["Edward Wilson", "Robert May", "Alexander von Humboldt", "Paul Ehrlich"],
+      "correctIndex": 0,
+      "explanation": "Edward Wilson, a sociobiologist, used it to describe combined diversity at all levels of biological organization.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q2",
+      "text": "Diversity at the species level is called:",
+      "options": ["Genetic diversity", "Species diversity", "Ecological diversity", "Niche diversity"],
+      "correctIndex": 1,
+      "explanation": "Example: Western Ghats have a greater amphibian species diversity than Eastern Ghats.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q3",
+      "text": "India has more than 50,000 genetically different strains of rice. This is an example of:",
+      "options": ["Species diversity", "Genetic diversity", "Ecological diversity", "Alpha diversity"],
+      "correctIndex": 1,
+      "explanation": "Genetic diversity refers to variations within a single species.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q4",
+      "text": "According to IUCN (2004), the total number of plant and animal species described so far is slightly more than:",
+      "options": ["1.5 million", "7 million", "10 million", "0.5 million"],
+      "correctIndex": 0,
+      "explanation": "Robert May's global estimate, however, places the number at about 7 million.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q5",
+      "text": "More than 70% of all the species recorded are:",
+      "options": ["Plants", "Animals", "Fungi", "Bacteria"],
+      "correctIndex": 1,
+      "explanation": "Among animals, insects are the most species-rich taxonomic group (70%).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q6",
+      "text": "India has only 2.4% of the world's land area, but its share of global species diversity is:",
+      "options": ["2.4%", "8.1%", "12%", "5%"],
+      "correctIndex": 1,
+      "explanation": "This makes India one of the 12 mega-diversity countries of the world.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q7",
+      "text": "Biodiversity increases as we move:",
+      "options": ["From equator to poles", "From poles to equator", "Low to high altitude", "High to low temperature"],
+      "correctIndex": 1,
+      "explanation": "Tropical regions (near equator) harbor more species than temperate or polar regions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q8",
+      "text": "The Species-Area relationship was given by:",
+      "options": ["Alexander von Humboldt", "David Tilman", "Paul Ehrlich", "Robert May"],
+      "correctIndex": 0,
+      "explanation": "He observed that within a region, species richness increased with increasing explored area, but only up to a limit.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q9",
+      "text": "The 'Rivet Popper Hypothesis' was proposed by:",
+      "options": ["Paul Ehrlich", "Edward Wilson", "Robert May", "Alexander von Humboldt"],
+      "correctIndex": 0,
+      "explanation": "He used the analogy of an airplane to explain the importance of every species in an ecosystem.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q10",
+      "text": "The 'Evil Quartet' refers to:",
+      "options": ["Four major causes of biodiversity loss", "Four mega-diverse countries", "Four types of ecosystems", "Four extinct species"],
+      "correctIndex": 0,
+      "explanation": "Habitat loss/fragmentation, Over-exploitation, Alien species invasion, and Co-extinctions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q11",
+      "text": "Which of the following is the most important cause driving animals and plants to extinction?",
+      "options": ["Habitat loss and fragmentation", "Over-exploitation", "Alien species invasion", "Co-extinction"],
+      "correctIndex": 0,
+      "explanation": "Tropical rain forests once covering 14% of land now cover less than 6%.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q12",
+      "text": "The Nile Perch introduced into Lake Victoria led to the extinction of:",
+      "options": ["Cichlid fish", "Gambusia", "Catfish", "Indigenous plants"],
+      "correctIndex": 0,
+      "explanation": "More than 200 species of cichlid fish became extinct due to this alien species invasion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q13",
+      "text": "Steller's sea cow and Passenger pigeon became extinct due to:",
+      "options": ["Habitat loss", "Over-exploitation by humans", "Alien species", "Pollution"],
+      "correctIndex": 1,
+      "explanation": "When 'need' turns to 'greed', it leads to over-exploitation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q14",
+      "text": "Lantana, Parthenium, and Eichhornia are examples of:",
+      "options": ["Endangered species", "Endemic species", "Invasive alien weed species", "Pioneer species"],
+      "correctIndex": 2,
+      "explanation": "These species cause environmental damage and threaten native species.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q15",
+      "text": "In-situ conservation refers to:",
+      "options": ["Off-site conservation", "On-site conservation", "Cryopreservation", "Botanical gardens"],
+      "correctIndex": 1,
+      "explanation": "Protecting the whole ecosystem to save a species (e.g., National Parks).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q16",
+      "text": "How many 'Biodiversity Hotspots' are identified in the world?",
+      "options": ["25", "34", "12", "50"],
+      "correctIndex": 1,
+      "explanation": "Initially 25, now total 34 hotspots are identified for high endemism and accelerated habitat loss.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q17",
+      "text": "Which of the following is NOT an In-situ conservation method?",
+      "options": ["Biosphere reserves", "National Parks", "Wildlife Sanctuaries", "Zoological Parks"],
+      "correctIndex": 3,
+      "explanation": "Zoological parks are Ex-situ (off-site) conservation methods.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q18",
+      "text": "Sacred groves are found in:",
+      "options": ["Khasi and Jaintia Hills (Meghalaya)", "Aravalli Hills (Rajasthan)", "Sarguja and Bastar (MP)", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "These are forest patches protected by communities for religious reasons.",
+      "explanation": "Sacred groves are often the last refuges for many rare plants.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q19",
+      "text": "The 'Earth Summit' (1992) was held in:",
+      "options": ["Johannesburg", "Rio de Janeiro", "New York", "Stockholm"],
+      "correctIndex": 1,
+      "explanation": "It was held for the conservation of biodiversity and sustainable utilization of its benefits.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q20",
+      "text": "Cryopreservation of gametes is a part of:",
+      "options": ["In-situ conservation", "Ex-situ conservation", "Natural selection", "None"],
+      "correctIndex": 1,
+      "explanation": "It involves preserving threatened species' gametes in viable conditions at low temperatures.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q21",
+      "text": "The 'World Summit' on Sustainable Development (2002) was held in:",
+      "options": ["Rio de Janeiro", "Johannesburg", "Paris", "Tokyo"],
+      "correctIndex": 1,
+      "explanation": "190 countries pledged to reduce the rate of biodiversity loss by 2010.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q22",
+      "text": "Species restricted to a specific region and not found anywhere else are:",
+      "options": ["Exotic species", "Endemic species", "Rare species", "Extinct species"],
+      "correctIndex": 1,
+      "explanation": "Biodiversity hotspots have high levels of species richness and endemism.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q23",
+      "text": "The graph of log S = log C + Z log A is a:",
+      "options": ["Hyperbola", "Straight line", "Parabola", "Sigmoid curve"],
+      "correctIndex": 1,
+      "explanation": "On a logarithmic scale, the species-area relationship is a straight line.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b13_q24",
+      "text": "Value of regression coefficient 'Z' for frugivorous birds in tropical forests is:",
+      "options": ["0.1", "0.6", "1.15", "0.2"],
+      "correctIndex": 2,
+      "explanation": "In very large areas like entire continents, the slope (Z) is much steeper.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_b13_q25",
+      "text": "Which of the following is an argument for 'Narrowly Utilitarian' biodiversity conservation?",
+      "options": ["Oxygen production", "Pollination", "Drugs and medicines", "Aesthetic pleasure"],
+      "correctIndex": 2,
+      "explanation": "Narrowly utilitarian reasons focus on direct economic benefits like food, fiber, and medicine.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q26",
+      "text": "What percentage of drugs currently sold in the market are derived from plants?",
+      "options": ["10%", "25%", "50%", "75%"],
+      "correctIndex": 1,
+      "explanation": "Plants contribute significantly to modern medicine.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b13_q27",
+      "text": "Exploring molecular, genetic, and species-level diversity for products of economic importance is:",
+      "options": ["Biopiracy", "Bioprospecting", "Biomagnification", "Bioremediation"],
+      "correctIndex": 1,
+      "explanation": "Bioprospecting helps in discovering new medicines or resources.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q28",
+      "text": "The Amazon rain forest is often called:",
+      "options": ["Lungs of the planet", "Heart of the planet", "Desert of the planet", "Niche of the world"],
+      "correctIndex": 0,
+      "explanation": "It is estimated to produce 20% of the total oxygen in Earth's atmosphere.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q29",
+      "text": "When a host fish species becomes extinct, its unique assemblage of parasites also meets the same fate. This is:",
+      "options": ["Co-extinction", "Over-exploitation", "Alien invasion", "Fragmentation"],
+      "correctIndex": 0,
+      "explanation": "This occurs when two species are obligatorily associated.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q30",
+      "text": "The recent extinction of Dodo occurred in:",
+      "options": ["Mauritius", "Russia", "Africa", "Australia"],
+      "correctIndex": 0,
+      "explanation": "The Dodo (Mauritius), Quagga (Africa), and Thylacine (Australia) are examples of recent extinctions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q31",
+      "text": "Which group of animals is most vulnerable to extinction?",
+      "options": ["Mammals", "Birds", "Amphibians", "Fishes"],
+      "correctIndex": 2,
+      "explanation": "Globally, 32% of all amphibian species face the threat of extinction.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b13_q32",
+      "text": "Biodiversity 'hotspots' cover less than ________ of the Earth's land area.",
+      "options": ["2%", "5%", "10%", "1%"],
+      "correctIndex": 0,
+      "explanation": "Despite the small area, they harbor a massive number of species.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b13_q33",
+      "text": "One of the Ex-situ conservation methods for plants is:",
+      "options": ["National Park", "Seed Bank", "Wildlife Sanctuary", "Biosphere Reserve"],
+      "correctIndex": 1,
+      "explanation": "Seed banks store seeds of different genetic strains of commercially important plants for long periods.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q34",
+      "text": "The historical convention on Biological Diversity held in 1992 was called:",
+      "options": ["The World Summit", "The Earth Summit", "Copenhagen meeting", "Paris Agreement"],
+      "correctIndex": 1,
+      "explanation": "Held in Rio de Janeiro, it was a turning point for global biodiversity awareness.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q35",
+      "text": "How many National Parks are there in India? (Approx)",
+      "options": ["90", "25", "448", "14"],
+      "correctIndex": 0,
+      "explanation": "As per NCERT, India has 90 National Parks and 448 Wildlife Sanctuaries.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b13_q36",
+      "text": "The Western Ghats of India is a:",
+      "options": ["Biosphere reserve", "Hotspot", "Wildlife Sanctuary", "All of these"],
+      "correctIndex": 1,
+      "explanation": "The Western Ghats-Sri Lanka region is one of the world's biodiversity hotspots.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q37",
+      "text": "Which of the following is NOT a reason for tropical biodiversity richness?",
+      "options": ["Constant environment", "More solar energy", "Long evolutionary time", "Frequent glaciations"],
+      "correctIndex": 3,
+      "explanation": "Unlike temperate regions, tropics have been free from glaciations for millions of years.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b13_q38",
+      "text": "Genetic diversity of 'Rauwolfia vomitoria' relates to the concentration of:",
+      "options": ["Quinine", "Reserpine", "Caffeine", "Morphine"],
+      "correctIndex": 1,
+      "explanation": "The medicinal plant shows variations in the potency and concentration of reserpine.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b13_q39",
+      "text": "Introduction of Clarias gariepinus (African catfish) for aquaculture poses a threat to:",
+      "options": ["Native birds", "Indigenous catfish", "Human health", "Plant life"],
+      "correctIndex": 1,
+      "explanation": "It is an illegal alien species that competes with local catfish.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b13_q40",
+      "text": "The ethical argument for conservation says:",
+      "options": ["Nature has economic value", "Nature has intrinsic value", "Nature provides oxygen", "Nature is for research"],
+      "correctIndex": 1,
+      "explanation": "Every species has an intrinsic right to exist; we have a moral duty to care for them.",
+      "frequencyRating": 5
+    }
+  ]
+}

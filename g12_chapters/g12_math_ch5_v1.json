@@ -246,5 +246,86 @@
       "explanation": "Since the first derivative is already 0, the second derivative is also 0.",
       "frequencyRating": 5
     }
+    ,
+    {
+      "id": "g12_m5_q31",
+      "text": "The derivative of cot x with respect to x is:",
+      "options": ["cosec²x", "-cosec²x", "sec²x", "-sec²x"],
+      "correctIndex": 1,
+      "explanation": "Standard trigonometric derivative: d/dx(cot x) = -cosec²x.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m5_q32",
+      "text": "The derivative of sec⁻¹x for |x| > 1 is:",
+      "options": ["1 / (x√(x² - 1))", "1 / (|x|√(x² - 1))", "-1 / (x√(x² - 1))", "1 / (1 + x²)"],
+      "correctIndex": 1,
+      "explanation": "Standard derivative for the inverse secant function.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m5_q33",
+      "text": "If a function f is continuous on [a, b] and differentiable on (a, b), then there exists c in (a, b) such that f'(c) = [f(b)-f(a)]/(b-a). This is:",
+      "options": ["Rolle's Theorem", "Mean Value Theorem", "Taylor's Theorem", "Leibniz Theorem"],
+      "correctIndex": 1,
+      "explanation": "This is the statement of the Mean Value Theorem (Lagrange's MVT).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m5_q34",
+      "text": "The derivative of sin⁻¹x + cos⁻¹x with respect to x is:",
+      "options": ["1", "0", "π/2", "-1"],
+      "correctIndex": 1,
+      "explanation": "Since sin⁻¹x + cos⁻¹x = π/2 (a constant) for x in [-1, 1], its derivative is zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m5_q35",
+      "text": "If y = log(log x), then dy/dx is:",
+      "options": ["1 / (x log x)", "1 / log x", "1/x", "(log x) / x"],
+      "correctIndex": 0,
+      "explanation": "Using chain rule: d/dx(log u) = 1/u * du/dx. Here u = log x, so 1/(log x) * 1/x.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m5_q36",
+      "text": "The second order derivative of x³ + 7 is:",
+      "options": ["3x²", "6x", "6", "0"],
+      "correctIndex": 1,
+      "explanation": "First derivative is 3x². Differentiating again gives 6x.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m5_q37",
+      "text": "The derivative of cosec x is:",
+      "options": ["cosec x cot x", "-cosec x cot x", "-cosec²x", "sec x tan x"],
+      "correctIndex": 1,
+      "explanation": "Standard trigonometric derivative: d/dx(cosec x) = -cosec x cot x.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m5_q38",
+      "text": "If f(x) = |x|³, then f'(0) is:",
+      "options": ["0", "1", "-1", "Does not exist"],
+      "correctIndex": 0,
+      "explanation": "While |x| is not differentiable at 0, |x|³ is differentiable and its derivative at 0 is 0.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m5_q39",
+      "text": "Parametric differentiation for x = f(t) and y = g(t) calculates dy/dx as:",
+      "options": ["(dy/dt) / (dx/dt)", "(dx/dt) / (dy/dt)", "(dy/dt) * (dx/dt)", "None"],
+      "correctIndex": 0,
+      "explanation": "dy/dx = (dy/dt) / (dx/dt), provided dx/dt is not zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m5_q40",
+      "text": "The derivative of e^(cos x) is:",
+      "options": ["e^(cos x)", "-sin x e^(cos x)", "cos x e^(cos x)", "sin x e^(cos x)"],
+      "correctIndex": 1,
+      "explanation": "Chain rule: d/dx(e^u) = e^u * du/dx. Here u = cos x, so du/dx = -sin x.",
+      "frequencyRating": 5
+    }
   ]
 }

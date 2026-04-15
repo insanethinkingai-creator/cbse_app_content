@@ -1,0 +1,330 @@
+{
+  "id": "g12_chem_ch8",
+  "grade": "12",
+  "subject": "Chemistry",
+  "number": "8",
+  "title": "The d- and f-Block Elements",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_c8_q1",
+      "text": "The general electronic configuration of transition elements is:",
+      "options": ["(n-1)d¹⁻¹⁰ ns¹⁻²", "(n-1)d¹⁻¹⁰ ns⁰⁻²", "(n-1)d¹⁻⁵ ns¹", "(n-1)d¹⁰ ns²"],
+      "correctIndex": 1,
+      "explanation": "This configuration accounts for the filling of (n-1)d orbitals and the variation in ns orbital occupancy (like in Cr or Cu).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c8_q2",
+      "text": "Which of the following is NOT considered a transition element?",
+      "options": ["Fe", "Cu", "Zn", "Ag"],
+      "correctIndex": 2,
+      "explanation": "Zn, Cd, and Hg have completely filled d-orbitals in their ground state and common oxidation states, thus are not 'transition' elements by definition.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c8_q3",
+      "text": "Transition elements show variable oxidation states because of small energy difference between:",
+      "options": ["ns and np orbitals", "(n-1)d and ns orbitals", "(n-1)d and (n-1)p orbitals", "ns and (n+1)s orbitals"],
+      "correctIndex": 1,
+      "explanation": "Electrons from both (n-1)d and ns subshells can participate in bond formation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c8_q4",
+      "text": "Which element in the 3d series shows the maximum number of oxidation states?",
+      "options": ["Sc", "Fe", "Mn", "Cu"],
+      "correctIndex": 2,
+      "explanation": "Manganese (Mn) shows oxidation states from +2 to +7 due to maximum number of unpaired electrons.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c8_q5",
+      "text": "The highest oxidation state of transition metals is usually found in their:",
+      "options": ["Chlorides", "Fluorides and Oxides", "Sulfides", "Bromides"],
+      "correctIndex": 1,
+      "explanation": "F and O are the most electronegative and small atoms, capable of stabilizing high oxidation states.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c8_q6",
+      "text": "Which transition metal ion is colorless in aqueous solution?",
+      "options": ["Ti³⁺", "V³⁺", "Sc³⁺", "Fe²⁺"],
+      "correctIndex": 2,
+      "explanation": "Sc³⁺ has a [Ar]3d⁰ configuration. Color arises from d-d transitions, which require at least one d-electron.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c8_q7",
+      "text": "Magnetic moment (μ) is calculated using the formula √(n(n+2)) BM. If an ion has 3 unpaired electrons, its μ is:",
+      "options": ["1.73 BM", "2.83 BM", "3.87 BM", "4.90 BM"],
+      "correctIndex": 2,
+      "explanation": "μ = √(3(3+2)) = √15 ≈ 3.87 BM.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c8_q8",
+      "text": "The catalytic activity of transition metals is due to:",
+      "options": ["Large surface area", "Ability to show multiple oxidation states", "Empty d-orbitals", "All of these"],
+      "correctIndex": 3,
+      "explanation": "They provide a surface for reactants and form unstable intermediate complexes using variable valency.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c8_q9",
+      "text": "Interstitial compounds are formed when small atoms like H, C, or N are trapped inside the:",
+      "options": ["Nucleus", "Crystal lattice of metals", "d-orbitals", "Valence shell"],
+      "correctIndex": 1,
+      "explanation": "These compounds are usually non-stoichiometric and harder than the pure metal.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c8_q10",
+      "text": "Alloy formation is easy among transition metals because:",
+      "options": ["They are all metals", "Their atomic sizes are very similar", "They have same melting points", "They are highly reactive"],
+      "correctIndex": 1,
+      "explanation": "Because radii differ by less than 15%, one metal atom can easily replace another in the crystal lattice.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c8_q11",
+      "text": "In the titration of KMnO₄ vs Oxalic acid, the self-indicator is:",
+      "options": ["Phenolphthalein", "Methyl orange", "KMnO₄", "Starch"],
+      "correctIndex": 2,
+      "explanation": "The intense purple color of MnO₄⁻ disappears at the end point, making KMnO₄ act as its own indicator.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c8_q12",
+      "text": "The steady decrease in atomic and ionic radii of Lanthanoids with increase in atomic number is called:",
+      "options": ["Actinoid contraction", "Lanthanoid contraction", "Shielding effect", "Electronegativity"],
+      "correctIndex": 1,
+      "explanation": "This is due to poor shielding of nuclear charge by 4f electrons.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c8_q13",
+      "text": "Because of Lanthanoid contraction, which pair of elements has nearly identical atomic radii?",
+      "options": ["Ti and Zr", "Zr and Hf", "Sc and Y", "Fe and Ni"],
+      "correctIndex": 1,
+      "explanation": "The filling of the 4f subshell before 5d series cancels the expected size increase between 2nd and 3rd transition series.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c8_q14",
+      "text": "Chromate ion (CrO₄²⁻) and Dichromate ion (Cr₂O₇²⁻) exist in equilibrium. At low pH (acidic):",
+      "options": ["CrO₄²⁻ is predominant", "Cr₂O₇²⁻ is predominant", "Both are equal", "Cr³⁺ is formed"],
+      "correctIndex": 1,
+      "explanation": "In acidic medium, yellow chromate changes to orange dichromate.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c8_q15",
+      "text": "Actinoids show more oxidation states than Lanthanoids because:",
+      "options": ["5f is closer to nucleus", "Energy gap between 5f, 6d and 7s is very small", "They are radioactive", "They are larger"],
+      "correctIndex": 1,
+      "explanation": "The comparable energies of these shells allow more electrons to participate in bonding compared to 4f/5d/6s.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c8_q16",
+      "text": "Which of the following lanthanoid ions is paramagnetic?",
+      "options": ["La³⁺", "Lu³⁺", "Ce⁴⁺", "Eu²⁺"],
+      "correctIndex": 3,
+      "explanation": "Eu²⁺ has unpaired 4f electrons. La³⁺, Lu³⁺, and Ce⁴⁺ have f⁰ or f¹⁴ configurations.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c8_q17",
+      "text": "The standard electrode potential (E°) for Cu²⁺/Cu is +0.34V. This positive value is due to:",
+      "options": ["High atomization enthalpy", "Low hydration enthalpy", "High 2nd ionization enthalpy", "Both 1 and 2"],
+      "correctIndex": 3,
+      "explanation": "The high energy required to transform Cu(s) to Cu²⁺(aq) is not compensated by its hydration enthalpy.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c8_q18",
+      "text": "Mischmetall, an alloy used in cigarette lighters, contains primarily:",
+      "options": ["Transition metals", "Lanthanoid metals", "Actinoids", "Alkali metals"],
+      "correctIndex": 1,
+      "explanation": "It consists of about 95% Lanthanoid metals (mostly Ce) and 5% Fe.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c8_q19",
+      "text": "K₂Cr₂O₇ is a preferred primary standard in volumetry over Na₂Cr₂O₇ because:",
+      "options": ["It is cheaper", "It is orange", "It is not hygroscopic", "It is more soluble"],
+      "correctIndex": 2,
+      "explanation": "Sodium dichromate is hygroscopic (absorbs moisture), making it difficult to weigh accurately.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c8_q20",
+      "text": "The color of transition metal complexes is primarily due to:",
+      "options": ["s-p transitions", "d-d transitions", "Charge transfer", "Both 2 and 3"],
+      "correctIndex": 3,
+      "explanation": "Most color comes from d-d transitions, but some (like MnO₄⁻) come from charge transfer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c8_q21",
+      "text": "Which element has the highest melting point in the 3d series?",
+      "options": ["Sc", "Cr", "Mn", "Zn"],
+      "correctIndex": 1,
+      "explanation": "Chromium has a high number of unpaired electrons which leads to strong metallic bonding.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c8_q22",
+      "text": "V₂O₅ is used as a catalyst in which process?",
+      "options": ["Haber Process", "Contact Process", "Ostwald Process", "Deacon's Process"],
+      "correctIndex": 1,
+      "explanation": "It catalyzes the oxidation of SO₂ to SO₃ in the manufacture of sulfuric acid.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c8_q23",
+      "text": "The magnetic property shown by Zn²⁺ is:",
+      "options": ["Paramagnetic", "Diamagnetic", "Ferromagnetic", "Antiferromagnetic"],
+      "correctIndex": 1,
+      "explanation": "Zn²⁺ has a 3d¹⁰ configuration. No unpaired electrons means it is diamagnetic.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c8_q24",
+      "text": "Potassium permanganate acts as a strong ________ agent in all media.",
+      "options": ["Reducing", "Oxidizing", "Dehydrating", "Complexing"],
+      "correctIndex": 1,
+      "explanation": "Mn in +7 state readily accepts electrons to reduce to +2, +4, or +6.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c8_q25",
+      "text": "The structure of the Manganate ion (MnO₄²⁻) is:",
+      "options": ["Linear", "Square planar", "Tetrahedral", "Octahedral"],
+      "correctIndex": 2,
+      "explanation": "Both permanganate and manganate ions are tetrahedral.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c8_q26",
+      "text": "Which of the following is an inner transition element?",
+      "options": ["Eu", "Cr", "Ag", "Pt"],
+      "correctIndex": 0,
+      "explanation": "Europium (Eu) belongs to the f-block (Lanthanoids), which are called inner transition elements.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c8_q27",
+      "text": "The element with atomic number 101 belongs to:",
+      "options": ["Lanthanoids", "Actinoids", "d-block", "p-block"],
+      "correctIndex": 1,
+      "explanation": "Actinoids span from atomic number 90 to 103.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c8_q28",
+      "text": "Enthalpy of atomization of transition metals is high because of:",
+      "options": ["Large size", "Presence of unpaired d-electrons", "Weak metallic bond", "High electronegativity"],
+      "correctIndex": 1,
+      "explanation": "Unpaired electrons contribute to stronger inter-atomic metallic bonding.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c8_q29",
+      "text": "Transition metals are typically:",
+      "options": ["Soft", "Hard and have high boiling points", "Low density", "Non-malleable"],
+      "correctIndex": 1,
+      "explanation": "They exhibit typical metallic properties due to strong bonding.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c8_q30",
+      "text": "In acidic medium, MnO₄⁻ is reduced to:",
+      "options": ["Mn²⁺", "MnO₂", "MnO₄²⁻", "Mn"],
+      "correctIndex": 0,
+      "explanation": "MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c8_q31",
+      "text": "Which of the following ions has the highest magnetic moment?",
+      "options": ["Cu²⁺", "Ni²⁺", "Co²⁺", "Fe³⁺"],
+      "correctIndex": 3,
+      "explanation": "Fe³⁺ (3d⁵) has 5 unpaired electrons, the maximum possible in the 3d series.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c8_q32",
+      "text": "Coinage metals are elements of:",
+      "options": ["Group 10", "Group 11", "Group 12", "Group 1"],
+      "correctIndex": 1,
+      "explanation": "Cu, Ag, and Au belong to Group 11.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c8_q33",
+      "text": "Lanthanoid contraction is responsible for the fact that:",
+      "options": ["Zr and Y have same radius", "Zr and Nb have same radius", "Zr and Hf have same radius", "Zr and Zn have same radius"],
+      "correctIndex": 2,
+      "explanation": "Hf follows the lanthanoids, so the contraction makes it similar in size to Zr.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c8_q34",
+      "text": "The common oxidation state of all Lanthanoids is:",
+      "options": ["+2", "+3", "+4", "+5"],
+      "correctIndex": 1,
+      "explanation": "While some show +2 or +4, +3 is the most stable and common for all.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c8_q35",
+      "text": "Cerium (IV) is a good:",
+      "options": ["Reducing agent", "Oxidizing agent", "Catalyst", "Dehydrating agent"],
+      "correctIndex": 1,
+      "explanation": "Ce⁴⁺ tends to revert to the more stable +3 state by gaining an electron.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c8_q36",
+      "text": "Which f-block element is radioactive and man-made?",
+      "options": ["Promethium", "Uranium", "Thorium", "Plutonium"],
+      "correctIndex": 3,
+      "explanation": "Plutonium is a transuranic element produced in nuclear reactors.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_c8_q37",
+      "text": "What is the change in oxidation number of Mn in the reaction of KMnO₄ with I⁻ in alkaline medium?",
+      "options": ["+7 to +2", "+7 to +4", "+7 to +6", "No change"],
+      "correctIndex": 1,
+      "explanation": "In neutral or faintly alkaline medium, MnO₄⁻ is reduced to MnO₂ (+4).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c8_q38",
+      "text": "The basicity of Lanthanoid hydroxides ________ with increase in atomic number.",
+      "options": ["Increases", "Decreases", "Remains same", "First increases then decreases"],
+      "correctIndex": 1,
+      "explanation": "As size decreases, the covalent character of M-OH bond increases, making them less basic.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c8_q39",
+      "text": "In the ionic equation for the oxidation of Fe²⁺ by Cr₂O₇²⁻, how many moles of Fe²⁺ are oxidized by 1 mole of dichromate?",
+      "options": ["1", "3", "6", "5"],
+      "correctIndex": 2,
+      "explanation": "Cr₂O₇²⁻ + 14H⁺ + 6e⁻ → 2Cr³⁺ + 7H₂O. Since Cr reduces by 6, it oxidizes 6 Fe²⁺ to Fe³⁺.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c8_q40",
+      "text": "Iron is a transition metal, but it is not found in the highest group oxidation state (+8).",
+      "options": ["True", "False", "Only in oxides", "Only in fluorides"],
+      "correctIndex": 0,
+      "explanation": "The energy required to remove 8 electrons is too high; Fe usually stops at +3 or +6.",
+      "frequencyRating": 3
+    }
+  ]
+}

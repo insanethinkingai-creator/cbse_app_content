@@ -1,0 +1,330 @@
+{
+  "id": "g12_phy_ch10",
+  "grade": "12",
+  "subject": "Physics",
+  "number": "10",
+  "title": "Wave Optics",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_p10_q1",
+      "text": "A locus of all points in a medium vibrating in the same phase is called:",
+      "options": ["Wavelength", "Wavefront", "Ray", "Frequency"],
+      "correctIndex": 1,
+      "explanation": "A wavefront is defined as a surface of constant phase.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p10_q2",
+      "text": "According to Huygens' principle, each point on a wavefront acts as a source of:",
+      "options": ["Primary waves", "Secondary wavelets", "Light rays", "Standing waves"],
+      "correctIndex": 1,
+      "explanation": "Every point on a primary wavefront behaves as a source of new disturbances called secondary wavelets.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p10_q3",
+      "text": "For a point source at a finite distance, the wavefront is:",
+      "options": ["Cylindrical", "Spherical", "Plane", "Elliptical"],
+      "correctIndex": 1,
+      "explanation": "Disturbances from a point source spread out in all directions uniformly, forming spheres.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p10_q4",
+      "text": "The wavefront of light coming from a very distant source (like a star) is practically:",
+      "options": ["Spherical", "Cylindrical", "Plane", "Conical"],
+      "correctIndex": 2,
+      "explanation": "At very large distances, a small portion of a large spherical wavefront appears flat or plane.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p10_q5",
+      "text": "The phenomenon of redirection of light energy due to the superposition of waves is:",
+      "options": ["Reflection", "Interference", "Dispersion", "Scattering"],
+      "correctIndex": 1,
+      "explanation": "Interference is the redistribution of light intensity resulting from the overlapping of two or more coherent waves.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p10_q6",
+      "text": "Two sources of light are said to be coherent if they emit waves of:",
+      "options": ["Same amplitude", "Same intensity", "Same frequency and constant phase difference", "Different wavelengths"],
+      "correctIndex": 2,
+      "explanation": "Coherence is the essential condition for a stable interference pattern.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p10_q7",
+      "text": "In Young's Double Slit Experiment (YDSE), the path difference for a bright fringe is:",
+      "options": ["nλ", "(n + 1/2)λ", "λ/2", "Zero only"],
+      "correctIndex": 0,
+      "explanation": "Constructive interference occurs when waves arrive in phase, requiring a path difference of integer multiples of wavelength.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p10_q8",
+      "text": "The width of a fringe (β) in YDSE is given by the formula:",
+      "options": ["λd/D", "λD/d", "Dd/λ", "d/λD"],
+      "correctIndex": 1,
+      "explanation": "β = λD/d, where D is screen distance and d is slit separation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p10_q9",
+      "text": "If the distance between the slits (d) is doubled, the fringe width becomes:",
+      "options": ["Doubled", "Four times", "Halved", "Unchanged"],
+      "correctIndex": 2,
+      "explanation": "Since fringe width β is inversely proportional to d, doubling d results in β/2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p10_q10",
+      "text": "The ratio of maximum to minimum intensity in interference is given by:",
+      "options": ["(a1 + a2)² / (a1 - a2)²", "a1 / a2", "a1² / a2²", "(a1 + a2) / (a1 - a2)"],
+      "correctIndex": 0,
+      "explanation": "Intensity is proportional to the square of amplitude. I_max ∝ (a1+a2)² and I_min ∝ (a1-a2)².",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p10_q11",
+      "text": "The bending of light around the corners of an obstacle is known as:",
+      "options": ["Refraction", "Interference", "Diffraction", "Polarization"],
+      "correctIndex": 2,
+      "explanation": "Diffraction is the phenomenon of spreading of light into the geometrical shadow of an object.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p10_q12",
+      "text": "For diffraction to be noticeable, the size of the obstacle should be:",
+      "options": ["Very large", "Comparable to the wavelength of light", "Much smaller than wavelength", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "Diffraction effects are prominent only when aperture/obstacle dimensions are of the same order as wavelength.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p10_q13",
+      "text": "In a single slit diffraction pattern, the central peak is:",
+      "options": ["Narrow and dark", "Broad and bright", "Same width as others", "Always blue"],
+      "correctIndex": 1,
+      "explanation": "The central maximum is twice as wide as the secondary maxima and is the most intense part of the pattern.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p10_q14",
+      "text": "Resolving power of a microscope increases when:",
+      "options": ["Wavelength increases", "Numerical aperture increases", "Focal length increases", "Objective size decreases"],
+      "correctIndex": 1,
+      "explanation": "RP = 2nsinθ / λ. Increasing the numerical aperture (nsinθ) allows for better resolution.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p10_q15",
+      "text": "The phenomenon which confirms that light is a transverse wave is:",
+      "options": ["Interference", "Diffraction", "Polarization", "Refraction"],
+      "correctIndex": 2,
+      "explanation": "Only transverse waves can be polarized; longitudinal waves (like sound) cannot be polarized.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p10_q16",
+      "text": "According to Brewster's Law, at the polarizing angle (i_p):",
+      "options": ["n = sin(i_p)", "n = cos(i_p)", "n = tan(i_p)", "n = cot(i_p)"],
+      "correctIndex": 2,
+      "explanation": "The refractive index of the medium is equal to the tangent of the polarizing angle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p10_q17",
+      "text": "When light is incident at Brewster's angle, the angle between reflected and refracted rays is:",
+      "options": ["0°", "45°", "90°", "180°"],
+      "correctIndex": 2,
+      "explanation": "At the polarizing angle, the reflected and refracted rays are perpendicular to each other.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p10_q18",
+      "text": "Malus' Law states that the intensity of light transmitted through an analyzer is proportional to:",
+      "options": ["cos θ", "sin θ", "cos² θ", "tan θ"],
+      "correctIndex": 2,
+      "explanation": "I = I_0 cos² θ, where θ is the angle between the transmission axes of the polarizer and analyzer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p10_q19",
+      "text": "Polaroids are used in:",
+      "options": ["Sunglasses", "3D movies", "Car windshields", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Polaroids help reduce glare and are essential in modern optical technologies.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p10_q20",
+      "text": "A wavefront always travels ________ to the rays.",
+      "options": ["Parallel", "Perpendicular", "At 45 degrees", "Opposite"],
+      "correctIndex": 1,
+      "explanation": "Rays are defined as the lines perpendicular to wavefronts, indicating the direction of energy flow.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p10_q21",
+      "text": "In YDSE, if the entire apparatus is immersed in water, the fringe width:",
+      "options": ["Increases", "Decreases", "Stays same", "Becomes zero"],
+      "correctIndex": 1,
+      "explanation": "Since λ_water = λ_air / n, and β ∝ λ, the fringe width decreases.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p10_q22",
+      "text": "Conservation of ________ holds true in the phenomenon of interference.",
+      "options": ["Momentum", "Mass", "Energy", "Charge"],
+      "correctIndex": 2,
+      "explanation": "Energy is not created or destroyed; it is simply redistributed from dark regions to bright regions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p10_q23",
+      "text": "The colors seen in a thin soap film are due to:",
+      "options": ["Dispersion", "Scattering", "Interference", "Diffraction"],
+      "correctIndex": 2,
+      "explanation": "Light reflects from both the top and bottom surfaces of the thin film, causing interference.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p10_q24",
+      "text": "In single slit diffraction, the condition for the nth secondary minimum is:",
+      "options": ["asinθ = nλ", "asinθ = (n+1/2)λ", "asinθ = λ/2", "asinθ = 0"],
+      "correctIndex": 0,
+      "explanation": "Minima occur when the path difference between extremes of the slit is an integer multiple of wavelength.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p10_q25",
+      "text": "What is the shape of the wavefront for a linear source like a slit?",
+      "options": ["Spherical", "Cylindrical", "Plane", "Circular"],
+      "correctIndex": 1,
+      "explanation": "A line source generates a wavefront that is a cylinder centered on the source.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p10_q26",
+      "text": "If white light is used in YDSE, the central fringe is:",
+      "options": ["Dark", "Colored", "White", "Red"],
+      "correctIndex": 2,
+      "explanation": "At the center, path difference is zero for all wavelengths, so they all interfere constructively to give white light.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p10_q27",
+      "text": "Fresnel distance (z_F) is the distance up to which:",
+      "options": ["Wave optics is valid", "Ray optics is a good approximation", "Light doesn't travel", "Diffraction is maximum"],
+      "correctIndex": 1,
+      "explanation": "It is the distance where the spreading due to diffraction is equal to the size of the aperture.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p10_q28",
+      "text": "Which of the following does NOT change when light enters from air to glass?",
+      "options": ["Speed", "Wavelength", "Frequency", "Amplitude"],
+      "correctIndex": 2,
+      "explanation": "Frequency is determined by the source and remains invariant during refraction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p10_q29",
+      "text": "Unpolarized light can be converted to polarized light by:",
+      "options": ["Reflection", "Scattering", "Double refraction", "All of these"],
+      "correctIndex": 3,
+      "explanation": "All three physical processes can filter light vibrations to a single plane.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p10_q30",
+      "text": "In YDSE, if one slit is closed, the pattern on the screen becomes:",
+      "options": ["Faint interference fringes", "Single slit diffraction pattern", "Uniform illumination", "No light"],
+      "correctIndex": 1,
+      "explanation": "Interference requires two sources; with one slit, we only see the diffraction from that slit.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p10_q31",
+      "text": "The resolving power of a telescope depends on:",
+      "options": ["Focal length", "Aperture of objective", "Length of tube", "Magnification"],
+      "correctIndex": 1,
+      "explanation": "RP = D / (1.22λ). A larger objective diameter (D) improves resolution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p10_q32",
+      "text": "Blue light has a higher resolving power than red light because:",
+      "options": ["It is brighter", "It has a shorter wavelength", "It travels faster", "It is more energetic"],
+      "correctIndex": 1,
+      "explanation": "Resolving power is inversely proportional to wavelength.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p10_q33",
+      "text": "The phase difference (φ) and path difference (Δx) are related as:",
+      "options": ["φ = (2π/λ) * Δx", "φ = (λ/2π) * Δx", "φ = 2π * Δx", "φ = Δx / λ"],
+      "correctIndex": 0,
+      "explanation": "This is the fundamental geometric relation for wave phase.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p10_q34",
+      "text": "Newton's corpuscular theory failed to explain:",
+      "options": ["Reflection", "Rectilinear propagation", "Interference and Diffraction", "Shadows"],
+      "correctIndex": 2,
+      "explanation": "Particle theory could not account for the wave-like behavior of light.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p10_q35",
+      "text": "In the single slit experiment, if the slit width 'a' is decreased, the central maximum:",
+      "options": ["Becomes wider", "Becomes narrower", "Disappears", "Remains same"],
+      "correctIndex": 0,
+      "explanation": "The angular width is inversely proportional to the slit width (θ ∝ λ/a).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p10_q36",
+      "text": "In Brewster's experiment, the reflected light is:",
+      "options": ["Unpolarized", "Partially polarized", "Completely plane polarized", "Circularly polarized"],
+      "correctIndex": 2,
+      "explanation": "At Brewster's angle, the reflected light contains only vibrations perpendicular to the plane of incidence.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p10_q37",
+      "text": "Interference happens with:",
+      "options": ["Transverse waves only", "Longitudinal waves only", "Both types of waves", "Electromagnetic waves only"],
+      "correctIndex": 2,
+      "explanation": "Interference is a general property of all waves, including sound and light.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p10_q38",
+      "text": "For two coherent sources of intensities I1 and I2, the maximum intensity is:",
+      "options": ["I1 + I2", "(√I1 + √I2)²", "I1 * I2", "√I1 + √I2"],
+      "correctIndex": 1,
+      "explanation": "Since amplitude A = √I, the resultant amplitude is √I1 + √I2, and intensity is the square.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p10_q39",
+      "text": "What is the path difference for the first secondary maximum in diffraction?",
+      "options": ["λ", "3λ/2", "2λ", "λ/2"],
+      "correctIndex": 1,
+      "explanation": "Maxima occur approximately halfway between the minima (nλ).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p10_q40",
+      "text": "Huygens' wave theory was initially unable to explain:",
+      "options": ["Refraction", "Polarization", "Interference", "Diffraction"],
+      "correctIndex": 1,
+      "explanation": "Initial wave theory assumed light was longitudinal; polarization requires transverse waves.",
+      "frequencyRating": 2
+    }
+  ]
+}

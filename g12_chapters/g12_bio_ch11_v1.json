@@ -1,0 +1,330 @@
+{
+  "id": "g12_bio_ch11",
+  "grade": "12",
+  "subject": "Biology",
+  "number": "11",
+  "title": "Organisms and Populations",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_b11_q1",
+      "text": "The sum total of all the biological and physical factors in the surroundings of an organism is called:",
+      "options": ["Ecology", "Environment", "Habitat", "Biome"],
+      "correctIndex": 1,
+      "explanation": "The environment encompasses all biotic and abiotic factors influencing an organism.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q2",
+      "text": "Which of the following is an abiotic factor?",
+      "options": ["Pathogens", "Parasites", "Temperature", "Predators"],
+      "correctIndex": 2,
+      "explanation": "Temperature, light, water, and soil are the major abiotic (physico-chemical) factors.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q3",
+      "text": "Organisms that can tolerate a wide range of temperatures are called:",
+      "options": ["Eurythermal", "Stenothermal", "Endotherms", "Ectotherms"],
+      "correctIndex": 0,
+      "explanation": "Eury- means wide; these organisms can survive in various thermal conditions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q4",
+      "text": "The saline concentration (salinity) of the sea is:",
+      "options": ["< 5 ppm", "30-35 ppm", "> 100 ppm", "0 ppm"],
+      "correctIndex": 1,
+      "explanation": "Salinity is measured as parts per thousand (ppt/ppm). Sea is 30-35, while inland waters are < 5.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b11_q5",
+      "text": "What is diapause?",
+      "options": ["Deep sleep in winter", "Stage of suspended development", "Deep sleep in summer", "Migration to warmer lands"],
+      "correctIndex": 1,
+      "explanation": "Many zooplankton species in lakes and ponds enter diapause under unfavorable conditions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q6",
+      "text": "According to Allen's Rule, mammals from colder climates generally have:",
+      "options": ["Longer ears and limbs", "Shorter ears and limbs", "Thicker fur only", "Higher metabolic rate"],
+      "correctIndex": 1,
+      "explanation": "Shorter extremities help to minimize heat loss from the body.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q7",
+      "text": "Population density is also known as:",
+      "options": ["Natality", "Mortality", "Population size (N)", "Dispersion"],
+      "correctIndex": 2,
+      "explanation": "It refers to the number of individuals of a species per unit area or volume.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q8",
+      "text": "If natality is B and mortality is D, the population increases when:",
+      "options": ["B > D", "D > B", "B = D", "B = 0"],
+      "correctIndex": 0,
+      "explanation": "When birth rate exceeds death rate, the population grows.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q9",
+      "text": "The sigmoid (S-shaped) growth curve is characteristic of:",
+      "options": ["Exponential growth", "Logistic growth", "Linear growth", "Geometric growth"],
+      "correctIndex": 1,
+      "explanation": "Logistic growth occurs when resources are limited, reaching a carrying capacity (K).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q10",
+      "text": "The interaction where one species is benefitted and the other is neither harmed nor benefitted is:",
+      "options": ["Mutualism", "Commensalism", "Parasitism", "Amensalism"],
+      "correctIndex": 1,
+      "explanation": "Example: Orchid growing on a mango branch (+, 0).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q11",
+      "text": "An interaction where both species benefit is called:",
+      "options": ["Symbiosis", "Mutualism", "Commensalism", "Protocooperation"],
+      "correctIndex": 1,
+      "explanation": "Example: Lichens (Algae and Fungi).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q12",
+      "text": "Competitive exclusion principle was proposed by:",
+      "options": ["Darwin", "Gause", "MacArthur", "Verhulst-Pearl"],
+      "correctIndex": 1,
+      "explanation": "Gause's principle states that two closely related species competing for the same resources cannot co-exist indefinitely.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q13",
+      "text": "Camouflage is a mechanism used by prey to:",
+      "options": ["Attract mates", "Avoid predators", "Kill prey", "Conserve water"],
+      "correctIndex": 1,
+      "explanation": "Cryptic coloration helps organisms blend with their environment to stay hidden.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q14",
+      "text": "Ectoparasites live on the ________ of the host.",
+      "options": ["Inside", "Outside", "Blood", "Cells"],
+      "correctIndex": 1,
+      "explanation": "Examples include lice on humans and ticks on dogs.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b11_q15",
+      "text": "Cuscuta (Dodder) is an example of:",
+      "options": ["Predator", "Parasitic plant", "Commensal", "Saprophyte"],
+      "correctIndex": 1,
+      "explanation": "It is a total stem parasite that lost its chlorophyll during evolution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q16",
+      "text": "Brood parasitism is seen in:",
+      "options": ["Cuckoo and Crow", "Lice and Humans", "Ticks and Dogs", "Female mosquito and Humans"],
+      "correctIndex": 0,
+      "explanation": "The cuckoo lays eggs in the crow's nest, and the crow hatches them.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q17",
+      "text": "The carrying capacity (K) refers to:",
+      "options": ["Max births", "Max deaths", "Max population size a habitat can support", "Min population size"],
+      "correctIndex": 2,
+      "explanation": "K is the upper limit of the logistic growth model.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q18",
+      "text": "Vertical distribution of different species occupying different levels is:",
+      "options": ["Zonation", "Stratification", "Succession", "Niche"],
+      "correctIndex": 1,
+      "explanation": "Common in forests where trees occupy the top layer, shrubs the middle, and herbs the bottom.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b11_q19",
+      "text": "Which of the following shows 'Resource Partitioning'?",
+      "options": ["Competing species change feeding times", "One species kills the other", "Both species share same niche", "No interaction"],
+      "correctIndex": 0,
+      "explanation": "MacArthur showed that warblers could co-exist by changing foraging patterns.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b11_q20",
+      "text": "Altitude sickness is due to:",
+      "options": ["High atmospheric pressure", "Low atmospheric pressure", "High temperature", "Low CO₂"],
+      "correctIndex": 1,
+      "explanation": "Low pressure at high altitudes leads to lower oxygen availability.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q21",
+      "text": "Regulators are organisms that:",
+      "options": ["Change body temp with environment", "Maintain constant internal environment", "Migrate every winter", "Always hibernate"],
+      "correctIndex": 1,
+      "explanation": "Humans are regulators who maintain 37°C body temperature (Homeostasis).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q22",
+      "text": "Conformers are those who:",
+      "options": ["Maintain homeostasis", "Cannot maintain constant internal environment", "Are eurythermal", "Live only in deserts"],
+      "correctIndex": 1,
+      "explanation": "99% of animals and nearly all plants are conformers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q23",
+      "text": "What is the key to 'Sexual Deceit' shown by Mediterranean orchid Ophrys?",
+      "options": ["Produces nectar", "One petal resembles female bee", "Attracts birds", "Mimics male bee"],
+      "correctIndex": 1,
+      "explanation": "The male bee attempts to 'pseudocopulate' with the flower, aiding in pollination.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q24",
+      "text": "If 'r' is the intrinsic rate of natural increase, the exponential growth equation is:",
+      "options": ["dN/dt = rN", "dN/dt = r", "dt/dN = rN", "N = rdt"],
+      "correctIndex": 0,
+      "explanation": "In unlimited resources, population grows exponentially as dN/dt = rN.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q25",
+      "text": "The Monarch butterfly is highly distasteful to its predator because of:",
+      "options": ["Its bright color", "A special chemical acquired during caterpillar stage", "Its bad smell", "The thorns on its wings"],
+      "correctIndex": 1,
+      "explanation": "It acquires the chemical by feeding on a poisonous weed in its larval stage.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q26",
+      "text": "The herbivore-plant relationship is a type of:",
+      "options": ["Mutualism", "Commensalism", "Predation", "Amensalism"],
+      "correctIndex": 2,
+      "explanation": "Ecologically, herbivores are predators of plants.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_b11_q27",
+      "text": "Mycorrhizae are associations between:",
+      "options": ["Algae and Fungi", "Fungi and Roots of higher plants", "Bacteria and Roots", "Algae and Roots"],
+      "correctIndex": 1,
+      "explanation": "This is a mutualistic relationship; fungi help in nutrient absorption and plant provides energy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q28",
+      "text": "Which of the following shows the highest degree of adaptation to desert life?",
+      "options": ["Polar bear", "Kangaroo rat", "Crow", "Tiger"],
+      "correctIndex": 1,
+      "explanation": "Kangaroo rat can fulfill water requirements through internal fat oxidation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q29",
+      "text": "Which interaction is represented by (+, -)?",
+      "options": ["Mutualism", "Parasitism", "Commensalism", "Competition"],
+      "correctIndex": 1,
+      "explanation": "Parasitism and Predation involve benefit to one and harm to the other.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q30",
+      "text": "The age pyramid with a broad base represents:",
+      "options": ["Declining population", "Stable population", "Expanding population", "None"],
+      "correctIndex": 2,
+      "explanation": "A broad base means a high percentage of young individuals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q31",
+      "text": "What happens in Amensalism?",
+      "options": ["Both species harmed", "One species harmed, other unaffected", "One benefitted, other unaffected", "Both benefitted"],
+      "correctIndex": 1,
+      "explanation": "Represented as (-, 0). Example: Antibiotic producing fungi.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b11_q32",
+      "text": "Piscivores are animals that eat:",
+      "options": ["Insects", "Plants", "Fish", "Birds"],
+      "correctIndex": 2,
+      "explanation": "The prefix 'pisci-' refers to fish.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_b11_q33",
+      "text": "The prickly pear cactus introduced in Australia was controlled by:",
+      "options": ["Chemicals", "A moth (predator)", "Fire", "Human removal"],
+      "correctIndex": 1,
+      "explanation": "This is a classic example of biological control through predation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b11_q34",
+      "text": "Organisms that can tolerate only a narrow range of salinity are:",
+      "options": ["Stenohaline", "Euryhaline", "Stenothermal", "Eurythermal"],
+      "correctIndex": 0,
+      "explanation": "Steno- means narrow; -haline refers to salt.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b11_q35",
+      "text": "The formula for Logistic growth is:",
+      "options": ["dN/dt = rN [(K-N)/K]", "dN/dt = rN", "Nt = N0 + B - D", "None"],
+      "correctIndex": 0,
+      "explanation": "This is the Verhulst-Pearl Logistic Growth equation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q36",
+      "text": "Abingdon tortoise in Galapagos became extinct because of:",
+      "options": ["Climate change", "Introduction of goats", "Hunting by humans", "Predation by tigers"],
+      "correctIndex": 1,
+      "explanation": "Goats had greater browsing efficiency, leading to the extinction of tortoises through competition.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b11_q37",
+      "text": "Ecological niche is:",
+      "options": ["Physical space of an organism", "Functional role of an organism", "Reproductive rate", "None"],
+      "correctIndex": 1,
+      "explanation": "Niche refers to the specific functional role and conditions an organism needs to survive.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q38",
+      "text": "Benthic organisms live:",
+      "options": ["On mountains", "In air", "At the bottom of water bodies", "On tree tops"],
+      "correctIndex": 2,
+      "explanation": "Benthic refers to the lowest level of a water body like a lake or ocean.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_b11_q39",
+      "text": "An example of a seasonal migrant is:",
+      "options": ["Siberian crane", "Tiger", "Earthworm", "Frog"],
+      "correctIndex": 0,
+      "explanation": "Siberian cranes migrate to Keoladeo National Park in Bharatpur every winter.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b11_q40",
+      "text": "What is the relationship between Fig tree and Wasps?",
+      "options": ["Parasitism", "Commensalism", "Mutualism", "Competition"],
+      "correctIndex": 2,
+      "explanation": "The fig depends on the wasp for pollination, and the wasp uses the fig fruit as a nursery for its larvae.",
+      "frequencyRating": 5
+    }
+  ]
+}

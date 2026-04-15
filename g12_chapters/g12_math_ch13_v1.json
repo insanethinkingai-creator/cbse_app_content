@@ -1,0 +1,330 @@
+{
+  "id": "g12_math_ch13",
+  "grade": "12",
+  "subject": "Mathematics",
+  "number": "13",
+  "title": "Probability",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_m13_q1",
+      "text": "If A and B are two events such that P(A) \u2260 0, the conditional probability of B given that A has occurred is:",
+      "options": ["P(A \u2229 B) / P(A)", "P(A \u2229 B) / P(B)", "P(A \u222a B) / P(A)", "P(A) / P(B)"],
+      "correctIndex": 0,
+      "explanation": "By definition, P(B|A) = P(A \u2229 B) / P(A).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m13_q2",
+      "text": "If A and B are independent events, then P(A \u2229 B) is equal to:",
+      "options": ["P(A) + P(B)", "P(A) * P(B)", "P(A) / P(B)", "1 - P(A \u222a B)"],
+      "correctIndex": 1,
+      "explanation": "Two events are independent if and only if the probability of their intersection is the product of their individual probabilities.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m13_q3",
+      "text": "If P(A) = 0.4, P(B) = 0.8 and P(B|A) = 0.6, find P(A \u2229 B).",
+      "options": ["0.24", "0.32", "0.48", "0.5"],
+      "correctIndex": 0,
+      "explanation": "P(A \u2229 B) = P(A) * P(B|A) = 0.4 * 0.6 = 0.24.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m13_q4",
+      "text": "If A and B are two events such that P(A|B) = P(B|A), then:",
+      "options": ["A \u2282 B", "A = B", "P(A) = P(B)", "A \u2229 B = \u2205"],
+      "correctIndex": 2,
+      "explanation": "P(A \u2229 B)/P(B) = P(A \u2229 B)/P(A) implies P(A) = P(B).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m13_q5",
+      "text": "The probability of obtaining an even prime number on each die when a pair of dice is rolled is:",
+      "options": ["1/36", "1/12", "1/6", "0"],
+      "correctIndex": 0,
+      "explanation": "The only even prime is 2. Favorable outcome: (2,2). Total: 36. P = 1/36.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m13_q6",
+      "text": "If A and B are independent events, then A' and B' are:",
+      "options": ["Dependent", "Mutually exclusive", "Independent", "Exhaustive"],
+      "correctIndex": 2,
+      "explanation": "A property of independence is that if A and B are independent, so are their complements.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m13_q7",
+      "text": "Bayes' Theorem is used to find:",
+      "options": ["Prior probability", "Posterior probability", "Likelihood", "Standard deviation"],
+      "correctIndex": 1,
+      "explanation": "Bayes' Theorem calculates the probability of a cause given an effect (posterior probability).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m13_q8",
+      "text": "A random variable X has a probability distribution P(X). The sum of all probabilities \u03a3P(x_i) is always:",
+      "options": ["0", "0.5", "1", "Depends on X"],
+      "correctIndex": 2,
+      "explanation": "The total probability of all possible values of a random variable must sum to 1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m13_q9",
+      "text": "The mean (expected value) of a random variable X is given by:",
+      "options": ["\u03a3 x_i P(x_i)", "\u03a3 P(x_i)", "\u03a3 x_i\u00b2 P(x_i)", "(\u03a3 x_i P(x_i))\u00b2"],
+      "correctIndex": 0,
+      "explanation": "Mean E(X) is the weighted average of the values, weighted by their probabilities.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m13_q10",
+      "text": "Bernoulli trials are those where:",
+      "options": ["Trials are dependent", "Each trial has exactly two outcomes", "Probabilities change in each trial", "Number of trials is infinite"],
+      "correctIndex": 1,
+      "explanation": "Bernoulli trials must have exactly two outcomes (success/failure) and constant probability of success.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m13_q11",
+      "text": "In a Binomial Distribution B(n, p), the probability of 'k' successes is given by:",
+      "options": ["nCk * p^k * q^(n-k)", "nCk * p^(n-k) * q^k", "p^k * q^(n-k)", "n * p * q"],
+      "correctIndex": 0,
+      "explanation": "This is the standard formula where q = 1-p.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m13_q12",
+      "text": "The mean of a Binomial Distribution with parameters n and p is:",
+      "options": ["npq", "np", "nq", "\u221anpq"],
+      "correctIndex": 1,
+      "explanation": "For a binomial distribution, Expected value E(X) = n * p.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m13_q13",
+      "text": "Two events A and B are mutually exclusive if:",
+      "options": ["P(A \u2229 B) = 0", "P(A \u2229 B) = P(A)P(B)", "P(A) + P(B) = 1", "P(A|B) = 1"],
+      "correctIndex": 0,
+      "explanation": "Mutually exclusive events cannot occur at the same time, so their intersection is an empty set with probability 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m13_q14",
+      "text": "If P(A) = 1/2, P(B) = 0, then P(A|B) is:",
+      "options": ["0", "1/2", "Not defined", "1"],
+      "correctIndex": 2,
+      "explanation": "Conditional probability P(A|B) = P(A \u2229 B) / P(B) is undefined when P(B) = 0.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m13_q15",
+      "text": "If P(A) = 3/5 and P(B) = 1/5, and A and B are independent, find P(A \u2229 B).",
+      "options": ["4/5", "2/5", "3/25", "1/5"],
+      "correctIndex": 2,
+      "explanation": "P(A \u2229 B) = (3/5) * (1/5) = 3/25.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m13_q16",
+      "text": "A and B are independent events. If P(A) = 0.3 and P(B) = 0.4, find P(A \u222a B).",
+      "options": ["0.7", "0.12", "0.58", "0.82"],
+      "correctIndex": 2,
+      "explanation": "P(A \u222a B) = P(A) + P(B) - P(A \u2229 B) = 0.3 + 0.4 - (0.3*0.4) = 0.7 - 0.12 = 0.58.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m13_q17",
+      "text": "If A, B, C are three mutually independent events, then P(A \u2229 B \u2229 C) =",
+      "options": ["P(A)P(B)P(C)", "P(A)+P(B)+P(C)", "P(A|B)P(C)", "0"],
+      "correctIndex": 0,
+      "explanation": "Mutual independence implies the product rule holds for any combination of the events.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m13_q18",
+      "text": "In Bayes' Theorem, if E1, E2, ... En are partitions of S, then the denominator \u03a3 P(Ei)P(A|Ei) represents:",
+      "options": ["P(A)", "P(S)", "P(Ei|A)", "1"],
+      "correctIndex": 0,
+      "explanation": "According to the Law of Total Probability, this sum equals the total probability of event A.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m13_q19",
+      "text": "A card is drawn from a deck. A is the event 'it is a spade' and B is 'it is an ace'. Are A and B independent?",
+      "options": ["Yes", "No", "Depends on the deck", "Mutually exclusive"],
+      "correctIndex": 0,
+      "explanation": "P(A)=13/52=1/4, P(B)=4/52=1/13, P(A\u2229B)=1/52. Since 1/4 * 1/13 = 1/52, they are independent.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m13_q20",
+      "text": "If X follows B(10, 0.5), find P(X=0).",
+      "options": ["0", "(0.5)^10", "1", "10 * (0.5)^10"],
+      "correctIndex": 1,
+      "explanation": "P(X=0) = 10C0 * (0.5)^0 * (0.5)^10 = (0.5)^10.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m13_q21",
+      "text": "Probability of solving a problem by A is 1/2 and by B is 1/3. If both try independently, probability that problem is solved is:",
+      "options": ["1/6", "5/6", "2/3", "1/2"],
+      "correctIndex": 2,
+      "explanation": "P(solved) = 1 - P(none solve) = 1 - (1/2 * 2/3) = 1 - 1/3 = 2/3.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m13_q22",
+      "text": "The variance of a random variable X is defined as:",
+      "options": ["E(X^2) - [E(X)]^2", "[E(X)]^2 - E(X^2)", "E(X^2)", "E(X)"],
+      "correctIndex": 0,
+      "explanation": "Variance measures spread and is calculated as the expectation of the square minus the square of the expectation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m13_q23",
+      "text": "If E and F are events such that P(E) = 0.6, P(F) = 0.3 and P(E \u2229 F) = 0.2, find P(E|F).",
+      "options": ["2/3", "1/3", "1/2", "0.1"],
+      "correctIndex": 0,
+      "explanation": "P(E|F) = P(E \u2229 F) / P(F) = 0.2 / 0.3 = 2/3.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m13_q24",
+      "text": "Which of the following cannot be a probability distribution of a random variable?",
+      "options": ["X:0,1; P(X):0.4,0.6", "X:1,2,3; P(X):0.1,0.2,0.7", "X:0,1,2; P(X):0.6,0.1,0.2", "X:-1,0,1; P(X):0.3,0.3,0.4"],
+      "correctIndex": 2,
+      "explanation": "In option C, the sum is 0.6+0.1+0.2 = 0.9, which is not 1. A distribution must sum to 1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m13_q25",
+      "text": "In 10 tosses of a fair coin, what is the probability of getting exactly 5 heads?",
+      "options": ["1/2", "10C5 / 2^10", "1/2^10", "5/10"],
+      "correctIndex": 1,
+      "explanation": "Using binomial distribution: 10C5 * (1/2)^5 * (1/2)^5 = 10C5 / 2^10.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m13_q26",
+      "text": "Two events A and B are such that P(A) > 0 and P(B) \u2260 1. Then P(A'|B') equals:",
+      "options": ["1 - P(A|B)", "1 - P(A|B')", "[1 - P(A \u222a B)] / P(B')", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "P(A'|B') = P(A' \u2229 B') / P(B') = [1 - P(A \u222a B)] / P(B') = 1 - P(A|B').",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_m13_q27",
+      "text": "A bag contains 5 red and 3 blue balls. If 2 balls are drawn without replacement, find probability both are red.",
+      "options": ["25/64", "5/14", "10/28", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "(5/8) * (4/7) = 20/56 = 5/14 = 10/28.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m13_q28",
+      "text": "Events are said to be exhaustive if their union is:",
+      "options": ["Sample space S", "Null set", "Intersection", "Always 1"],
+      "correctIndex": 0,
+      "explanation": "Exhaustive events cover all possible outcomes of an experiment.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m13_q29",
+      "text": "If P(A) = 0.8 and P(B|A) = 0.4, then P(A \u2229 B) is:",
+      "options": ["0.32", "0.5", "1.2", "0.4"],
+      "correctIndex": 0,
+      "explanation": "P(A \u2229 B) = P(A)P(B|A) = 0.8 * 0.4 = 0.32.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m13_q30",
+      "text": "A problem is given to 3 students whose chances of solving are 1/2, 1/3, 1/4. What is probability that at least one solves it?",
+      "options": ["1/24", "23/24", "3/4", "1/4"],
+      "correctIndex": 2,
+      "explanation": "1 - (1/2 * 2/3 * 3/4) = 1 - 1/4 = 3/4.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m13_q31",
+      "text": "If A and B are events such that P(A \u222a B) = 3/4, P(A \u2229 B) = 1/4 and P(A') = 2/3, then P(B) is:",
+      "options": ["1/3", "2/3", "1/2", "1/4"],
+      "correctIndex": 1,
+      "explanation": "P(A)=1/3. P(A \u222a B) = P(A) + P(B) - P(A \u2229 B) => 3/4 = 1/3 + P(B) - 1/4 => P(B) = 3/4 + 1/4 - 1/3 = 1 - 1/3 = 2/3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m13_q32",
+      "text": "The probability of hitting a target is 1/4. If he fires 7 times, the probability of hitting at least once is:",
+      "options": ["1 - (3/4)^7", "(1/4)^7", "1 - (1/4)^7", "(3/4)^7"],
+      "correctIndex": 0,
+      "explanation": "P(at least one) = 1 - P(none) = 1 - (3/4)^7.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m13_q33",
+      "text": "In a distribution, E(X) = 5. What is E(2X + 3)?",
+      "options": ["10", "13", "5", "8"],
+      "correctIndex": 1,
+      "explanation": "E(aX + b) = aE(X) + b. So 2(5) + 3 = 13.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m13_q34",
+      "text": "If A and B are independent, which is true?",
+      "options": ["P(A|B) = P(A)", "P(B|A) = P(B)", "P(A \u2229 B) = P(A)P(B)", "All of these"],
+      "correctIndex": 3,
+      "explanation": "These are all equivalent definitions/properties of independent events.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m13_q35",
+      "text": "Bayes' Theorem denominator is an application of:",
+      "options": ["Multiplication Rule", "Law of Total Probability", "Addition Rule", "Permutations"],
+      "correctIndex": 1,
+      "explanation": "The denominator sums the probabilities of the event A under different partitions, which is the Law of Total Probability.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m13_q36",
+      "text": "An experiment has 4 independent trials. Prob of success is 1/3. Find Var(X).",
+      "options": ["4/3", "4/9", "8/9", "2/3"],
+      "correctIndex": 2,
+      "explanation": "Var(X) = npq = 4 * (1/3) * (2/3) = 8/9.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m13_q37",
+      "text": "If P(A) = 0.4 and P(A \u222a B) = 0.7, find P(B) if A and B are independent.",
+      "options": ["0.3", "0.5", "0.2", "0.7"],
+      "correctIndex": 1,
+      "explanation": "0.7 = 0.4 + P(B) - 0.4P(B) => 0.3 = 0.6P(B) => P(B) = 0.5.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m13_q38",
+      "text": "A coin is tossed 3 times. X is number of heads. The possible values of X are:",
+      "options": ["1, 2, 3", "0, 1, 2, 3", "H, T", "3"],
+      "correctIndex": 1,
+      "explanation": "You can get zero, one, two, or three heads.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m13_q39",
+      "text": "A and B are events such that P(A) = 0.5, P(B) = 0.6, P(A \u222a B) = 0.8. Are they independent?",
+      "options": ["Yes", "No", "Cannot determine", "Mutually exclusive"],
+      "correctIndex": 0,
+      "explanation": "P(A\u2229B) = 0.5+0.6-0.8 = 0.3. Since 0.5 * 0.6 = 0.3, they are independent.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m13_q40",
+      "text": "If A and B are mutually exclusive, P(A|B) is:",
+      "options": ["0", "1", "P(A)", "Undefined"],
+      "correctIndex": 0,
+      "explanation": "Since P(A \u2229 B) = 0, P(A|B) = 0 / P(B) = 0.",
+      "frequencyRating": 5
+    }
+  ]
+}

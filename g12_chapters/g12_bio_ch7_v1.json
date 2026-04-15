@@ -1,0 +1,330 @@
+{
+  "id": "g12_bio_ch7",
+  "grade": "12",
+  "subject": "Biology",
+  "number": "7",
+  "title": "Evolution",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_b7_q1",
+      "text": "The theory that life originated from pre-existing non-living organic molecules is:",
+      "options": ["Theory of special creation", "Theory of spontaneous generation", "Chemical evolution", "Panspermia"],
+      "correctIndex": 2,
+      "explanation": "Oparin and Haldane proposed that the first form of life could have come from pre-existing non-living organic molecules.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b7_q2",
+      "text": "S.L. Miller created primitive earth conditions in a laboratory. What were the gases used?",
+      "options": ["CH₄, H₂, NH₃, water vapor", "CO₂, O₂, N₂, H₂", "CH₄, O₂, NH₃, water vapor", "NH₃, H₂, CO₂, O₂"],
+      "correctIndex": 0,
+      "explanation": "Miller used a closed flask containing these gases at 800°C and electric discharge.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b7_q3",
+      "text": "Which of the following was NOT found in Miller's experiment?",
+      "options": ["Amino acids", "Sugars", "Nitrogen bases", "DNA"],
+      "correctIndex": 3,
+      "explanation": "Miller observed the formation of simple organic compounds but not complex polymers like DNA.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b7_q4",
+      "text": "The wings of a bird and the wings of a butterfly are ________ organs.",
+      "options": ["Homologous", "Analogous", "Vestigial", "Phylogenetic"],
+      "correctIndex": 1,
+      "explanation": "They have different anatomical structures but perform the same function (flying).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b7_q5",
+      "text": "The presence of homologous organs indicates:",
+      "options": ["Convergent evolution", "Divergent evolution", "Parallel evolution", "No evolution"],
+      "correctIndex": 1,
+      "explanation": "Homology is based on common ancestry and shows how the same structure evolved in different directions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b7_q6",
+      "text": "Analogous organs are a result of:",
+      "options": ["Divergent evolution", "Convergent evolution", "Genetic drift", "Mutation"],
+      "correctIndex": 1,
+      "explanation": "Unrelated organisms evolve similar traits to adapt to similar environments.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b7_q7",
+      "text": "Which of the following is a vestigial organ in humans?",
+      "options": ["Heart", "Wisdom teeth", "Lungs", "Brain"],
+      "correctIndex": 1,
+      "explanation": "Vestigial organs are remnants of structures that were functional in ancestors.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b7_q8",
+      "text": "The industrial melanism observed in the peppered moth (Biston betularia) is an example of:",
+      "options": ["Natural selection", "Mutation", "Genetic engineering", "Artificial selection"],
+      "correctIndex": 0,
+      "explanation": "Dark moths had a survival advantage in soot-covered industrial areas, showing selection in action.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b7_q9",
+      "text": "Darwin's finches in Galapagos islands show:",
+      "options": ["Parallel evolution", "Adaptive radiation", "Saltation", "Mutation"],
+      "correctIndex": 1,
+      "explanation": "Different species evolved from a single ancestral seed-eating finch to occupy different niches.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b7_q10",
+      "text": "Lamarck's theory of evolution was based on:",
+      "options": ["Natural selection", "Survival of the fittest", "Inheritance of acquired characters", "Genetic drift"],
+      "correctIndex": 2,
+      "explanation": "Lamarck believed that use and disuse of organs led to changes inherited by offspring.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b7_q11",
+      "text": "Who proposed the 'Mutation Theory'?",
+      "options": ["Charles Darwin", "Hugo de Vries", "Lamarck", "Wallace"],
+      "correctIndex": 1,
+      "explanation": "Hugo de Vries worked on evening primrose and suggested that large mutations cause evolution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b7_q12",
+      "text": "According to Darwin, the main cause of evolution is:",
+      "options": ["Large mutations", "Small variations", "Environmental changes only", "Saltation"],
+      "correctIndex": 1,
+      "explanation": "Darwin emphasized small, continuous, and directional variations.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b7_q13",
+      "text": "The Hardy-Weinberg principle states that allele frequencies in a population remain constant in the absence of:",
+      "options": ["Gene flow", "Genetic drift", "Mutation and Selection", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Genetic equilibrium is maintained if there is no evolutionary force acting on the population.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b7_q14",
+      "text": "In the equation p² + 2pq + q² = 1, the term 2pq represents the frequency of:",
+      "options": ["Homozygous dominant", "Homozygous recessive", "Heterozygous individuals", "Total population"],
+      "correctIndex": 2,
+      "explanation": "p and q are allele frequencies; p² and q² are homozygous frequencies; 2pq is the carrier frequency.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b7_q15",
+      "text": "When a small group of individuals migrates to a new location and establishes a new population, it is called:",
+      "options": ["Bottleneck effect", "Founder effect", "Mutation", "Gene flow"],
+      "correctIndex": 1,
+      "explanation": "The genetic makeup of the new population reflects the small sample of the founders.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b7_q16",
+      "text": "Which type of natural selection favors both extreme phenotypes and acts against the mean?",
+      "options": ["Stabilizing selection", "Directional selection", "Disruptive selection", "Artificial selection"],
+      "correctIndex": 2,
+      "explanation": "Disruptive selection leads to two peaks in the phenotypic distribution.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b7_q17",
+      "text": "Stabilizing selection results in:",
+      "options": ["Peak shifting in one direction", "Peak becoming higher and narrower", "Two peaks forming", "Elimination of species"],
+      "correctIndex": 1,
+      "explanation": "It favors the intermediate phenotype and reduces variation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b7_q18",
+      "text": "The chronological order of human evolution is:",
+      "options": ["Ramapithecus -> Australopithecus -> Homo habilis -> Homo erectus", "Australopithecus -> Ramapithecus -> Homo erectus -> Homo habilis", "Homo habilis -> Homo erectus -> Australopithecus -> Ramapithecus", "Homo sapiens -> Homo erectus -> Neanderthals"],
+      "correctIndex": 0,
+      "explanation": "This follows the fossil record from ape-like ancestors to modern humans.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b7_q19",
+      "text": "Which human ancestor was the first to use fire?",
+      "options": ["Homo habilis", "Homo erectus", "Neanderthal man", "Australopithecus"],
+      "correctIndex": 1,
+      "explanation": "Homo erectus (Java man/Peking man) is associated with the first use of fire and stone tools.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b7_q20",
+      "text": "The brain capacity of Neanderthal man was approximately:",
+      "options": ["650-800 cc", "900 cc", "1400 cc", "1600 cc"],
+      "correctIndex": 2,
+      "explanation": "Neanderthals had a large brain size, similar to or even slightly larger than modern humans.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b7_q21",
+      "text": "The first human-like hominid was:",
+      "options": ["Ramapithecus", "Australopithecus", "Homo habilis", "Homo erectus"],
+      "correctIndex": 2,
+      "explanation": "Homo habilis is often called the 'handy man' and is considered the first of the genus Homo.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b7_q22",
+      "text": "The term 'Saltation' used by Hugo de Vries refers to:",
+      "options": ["Gradual change", "Single step large mutation", "Migration", "Sexual reproduction"],
+      "correctIndex": 1,
+      "explanation": "He believed evolution was a jerky process driven by large mutations.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b7_q23",
+      "text": "Fitness, according to Darwin, refers ultimately to:",
+      "options": ["Physical strength", "Intelligence", "Reproductive fitness", "Longevity"],
+      "correctIndex": 2,
+      "explanation": "Organisms that leave more progeny are considered more fit in an evolutionary sense.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b7_q24",
+      "text": "The concept of 'Omnis cellula-e cellula' was given by:",
+      "options": ["Darwin", "Pasteur", "Rudolf Virchow", "Oparin"],
+      "correctIndex": 2,
+      "explanation": "It means all cells arise from pre-existing cells, supporting the idea that life doesn't arise spontaneously.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_b7_q25",
+      "text": "The Big Bang theory explains the origin of:",
+      "options": ["Life", "Earth", "Universe", "Solar system"],
+      "correctIndex": 2,
+      "explanation": "It describes a singular huge explosion that led to the expansion of the universe about 20 billion years ago.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b7_q26",
+      "text": "Which of the following is NOT a pre-requisite for Hardy-Weinberg equilibrium?",
+      "options": ["Random mating", "No mutation", "Small population size", "No selection"],
+      "correctIndex": 2,
+      "explanation": "Hardy-Weinberg equilibrium requires a large population to minimize the effects of genetic drift.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b7_q27",
+      "text": "Marsupial radiation in Australia is an example of:",
+      "options": ["Adaptive radiation", "Convergent evolution", "Artificial selection", "Hybridization"],
+      "correctIndex": 0,
+      "explanation": "A variety of marsupials evolved from a common ancestor within the isolated continent.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b7_q28",
+      "text": "Flippers of Penguins and Dolphins are:",
+      "options": ["Homologous", "Analogous", "Vestigial", "Skeletal"],
+      "correctIndex": 1,
+      "explanation": "They are similar in function (swimming) but have different anatomical origins.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b7_q29",
+      "text": "Louis Pasteur disproved spontaneous generation by using:",
+      "options": ["Swan-neck flask", "Miller's apparatus", "Darwin's ship", "Microscope"],
+      "correctIndex": 0,
+      "explanation": "He showed that life did not appear in sterilized broth unless exposed to dust/microbes from the air.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b7_q30",
+      "text": "The first non-cellular forms of life could have originated ________ years ago.",
+      "options": ["4.5 billion", "3 billion", "2000 million", "500 million"],
+      "correctIndex": 1,
+      "explanation": "The first non-cellular forms like RNA/proteins are thought to have appeared 3 billion years ago.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_b7_q31",
+      "text": "Evolution is a ________ process.",
+      "options": ["Stochastic", "Deterministic", "Sudden", "Planned"],
+      "correctIndex": 0,
+      "explanation": "Evolution is based on chance events in nature and chance mutations in organisms.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_b7_q32",
+      "text": "Herbaceous lycopods and arborescent lycopods evolved from:",
+      "options": ["Zosterophyllum", "Psilophyton", "Rhynia", "Chlorophyte"],
+      "correctIndex": 0,
+      "explanation": "Zosterophyllum was a common ancestor for early vascular plants.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_b7_q33",
+      "text": "The 'Age of Reptiles' was the:",
+      "options": ["Paleozoic era", "Mesozoic era", "Cenozoic era", "Proterozoic era"],
+      "correctIndex": 1,
+      "explanation": "Dinosaurs and other reptiles dominated the Mesozoic era.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b7_q34",
+      "text": "Coelacanth is considered a:",
+      "options": ["Missing link", "Living fossil", "Extinct bird", "Amphibian"],
+      "correctIndex": 1,
+      "explanation": "It was thought to be extinct but was found alive, representing a lineage of lobefinned fish.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b7_q35",
+      "text": "Human settled in caves and started cave art about:",
+      "options": ["18,000 years ago", "10,000 years ago", "75,000 years ago", "1 million years ago"],
+      "correctIndex": 0,
+      "explanation": "Pre-historic cave art developed around 18,000 years ago during the ice age.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_b7_q36",
+      "text": "Which of the following is the 'Missing Link' between reptiles and birds?",
+      "options": ["Archaeopteryx", "Pteranodon", "Ichthyosaurus", "Triceratops"],
+      "correctIndex": 0,
+      "explanation": "Archaeopteryx had both reptilian (teeth, tail) and avian (feathers, wings) characteristics.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b7_q37",
+      "text": "Biogenetic Law (Ontogeny recapitulates Phylogeny) was proposed by:",
+      "options": ["Ernst Haeckel", "Von Baer", "Darwin", "Mendel"],
+      "correctIndex": 0,
+      "explanation": "He suggested that the development of an embryo repeats the evolutionary stages of its ancestors.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_b7_q38",
+      "text": "Which factor increases variations in a population?",
+      "options": ["Inbreeding", "Mutation", "Selection", "Stability"],
+      "correctIndex": 1,
+      "explanation": "Mutations introduce new alleles and increase the genetic diversity of a population.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b7_q39",
+      "text": "Darwin traveled in which ship?",
+      "options": ["HMS Beagle", "Titanic", "Mayflower", "Santa Maria"],
+      "correctIndex": 0,
+      "explanation": "He went on a 5-year voyage around the world on the HMS Beagle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b7_q40",
+      "text": "Agriculture and human settlements started about:",
+      "options": ["10,000 years ago", "5,000 years ago", "20,000 years ago", "1,000 years ago"],
+      "correctIndex": 0,
+      "explanation": "Neolithic revolution (agriculture) began roughly 10,000 years ago.",
+      "frequencyRating": 4
+    }
+  ]
+}

@@ -246,5 +246,86 @@
       "explanation": "This is known as the Meissner Effect; they expel all magnetic flux.",
       "frequencyRating": 3
     }
+    ,
+    {
+      "id": "g12_p5_q31",
+      "text": "The vertical component of Earth's magnetic field at a place where the dip angle is 60° and horizontal component is B_H is:",
+      "options": ["B_H tan 60°", "B_H cos 60°", "B_H sin 60°", "B_H cot 60°"],
+      "correctIndex": 0,
+      "explanation": "B_V = B sin θ and B_H = B cos θ, so B_V = B_H tan θ.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p5_q32",
+      "text": "Which of the following has the highest permeability?",
+      "options": ["Diamagnetic", "Paramagnetic", "Ferromagnetic", "Vacuum"],
+      "correctIndex": 2,
+      "explanation": "Ferromagnetic materials strongly concentrate magnetic field lines.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p5_q33",
+      "text": "The magnetic declination is the angle between:",
+      "options": ["Magnetic and Geographic meridians", "Magnetic and Geographic equators", "Field and Horizontal", "None"],
+      "correctIndex": 0,
+      "explanation": "It accounts for the fact that magnetic North is not the same as true Geographic North.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p5_q34",
+      "text": "Core of a transformer is made of soft iron to reduce:",
+      "options": ["Hysteresis loss", "Eddy current loss", "Copper loss", "None"],
+      "correctIndex": 0,
+      "explanation": "Soft iron has a narrow hysteresis loop, meaning energy lost per cycle is small.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p5_q35",
+      "text": "For a diamagnetic substance, susceptibility χ is:",
+      "options": ["Small and negative", "Small and positive", "Large and positive", "Zero"],
+      "correctIndex": 0,
+      "explanation": "Diamagnets develop weak magnetization opposite to the applied field.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p5_q36",
+      "text": "Magnetic susceptibility of a paramagnetic material varies with absolute temperature T as:",
+      "options": ["χ ∝ T", "χ ∝ 1/T", "χ ∝ T²", "χ ∝ 1/T²"],
+      "correctIndex": 1,
+      "explanation": "This is Curie's Law.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p5_q37",
+      "text": "The magnetic induction B and intensity of magnetization M are related by:",
+      "options": ["B = μ₀(H + M)", "B = μ₀(H - M)", "B = H + 4πM", "B = μ₀H / M"],
+      "correctIndex": 0,
+      "explanation": "Standard relation in magnetic media where H is magnetic field intensity.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p5_q38",
+      "text": "Relative permeability μᵣ of a medium is:",
+      "options": ["μ / μ₀", "μ * μ₀", "1 + χ", "Both A and C"],
+      "correctIndex": 3,
+      "explanation": "μᵣ is the ratio of permeability of medium to vacuum, also equal to 1 + susceptibility.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p5_q39",
+      "text": "The susceptibility of a vacuum is:",
+      "options": ["1", "Zero", "-1", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "Vacuum cannot be magnetized.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p5_q40",
+      "text": "Which property is used to distinguish between a magnet and a non-magnetic iron bar using another magnet?",
+      "options": ["Attraction", "Repulsion", "Induction", "Length"],
+      "correctIndex": 1,
+      "explanation": "Repulsion is the sure test of magnetism; a magnet can attract both another magnet and an unmagnetized iron bar.",
+      "frequencyRating": 3
+    }
   ]
 }

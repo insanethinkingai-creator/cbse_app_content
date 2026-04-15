@@ -1,0 +1,330 @@
+{
+  "id": "g12_eng_ch5",
+  "grade": "12",
+  "subject": "English",
+  "number": "5",
+  "title": "Indigo",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_e5_q1",
+      "text": "Who is the author of the lesson 'Indigo'?",
+      "options": ["Louis Fischer", "Anees Jung", "William Douglas", "Alphonse Daudet"],
+      "correctIndex": 0,
+      "explanation": "Louis Fischer, an American journalist and biographer of Gandhi, wrote 'Indigo'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e5_q2",
+      "text": "The lesson 'Indigo' is an excerpt from which book?",
+      "options": ["The Life of Mahatma Gandhi", "My Experiments with Truth", "Freedom at Midnight", "The Discovery of India"],
+      "correctIndex": 0,
+      "explanation": "It is taken from Fischer's famous biography titled 'The Life of Mahatma Gandhi'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e5_q3",
+      "text": "In which year did the incident of Champaran take place?",
+      "options": ["1915", "1916", "1917", "1920"],
+      "correctIndex": 2,
+      "explanation": "The Champaran Satyagraha, Gandhi's first major civil disobedience movement in India, occurred in 1917.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e5_q4",
+      "text": "Who was Rajkumar Shukla?",
+      "options": ["A rich landlord", "A government official", "A poor, illiterate sharecropper", "A lawyer"],
+      "correctIndex": 2,
+      "explanation": "Rajkumar Shukla was a determined peasant from Champaran who sought Gandhi's help.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e5_q5",
+      "text": "Why did Rajkumar Shukla want to meet Gandhi?",
+      "options": ["To ask for money", "To invite him to a wedding", "To complain about the injustice of the landlord system", "To join the Congress party"],
+      "correctIndex": 2,
+      "explanation": "He wanted Gandhi to address the grievances of the sharecroppers in Champaran.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e5_q6",
+      "text": "Where did the annual convention of the Indian National Congress take place in 1916?",
+      "options": ["Lucknow", "Delhi", "Calcutta", "Madras"],
+      "correctIndex": 0,
+      "explanation": "Shukla first approached Gandhi at the Lucknow convention in December 1916.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e5_q7",
+      "text": "What did the British landlords force the peasants to grow on 15% of their land?",
+      "options": ["Cotton", "Indigo", "Rice", "Wheat"],
+      "correctIndex": 1,
+      "explanation": "The long-term contract required peasants to plant indigo on 15% of their holdings.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e5_q8",
+      "text": "What was the 'bait' or the problem for the British landlords regarding Indigo later on?",
+      "options": ["Low demand", "Natural disaster", "Germany developed synthetic indigo", "Government ban"],
+      "correctIndex": 2,
+      "explanation": "Synthetic indigo from Germany made natural indigo cultivation unprofitable for the landlords.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e5_q9",
+      "text": "Gandhi's first visit with Rajkumar Shukla in Bihar was to the house of:",
+      "options": ["Dr. Rajendra Prasad", "J.B. Kripalani", "Braj Kishor Babu", "Mahadev Desai"],
+      "correctIndex": 0,
+      "explanation": "Shukla took Gandhi to Patna, to the house of a lawyer named Rajendra Prasad, who later became the President of India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e5_q10",
+      "text": "Why did the servants at Rajendra Prasad's house mistake Gandhi for another peasant?",
+      "options": ["He was wearing a suit", "He was with Shukla and dressed simply", "He didn't speak English", "He looked very old"],
+      "correctIndex": 1,
+      "explanation": "Gandhi's simple appearance and the company of Shukla led the servants to assume he was just another sharecropper.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e5_q11",
+      "text": "Why was Gandhi not allowed to draw water from the well at Rajendra Prasad's house?",
+      "options": ["The well was dry", "They feared he would pollute the source (untouchability)", "The water was poisoned", "He didn't have a bucket"],
+      "correctIndex": 1,
+      "explanation": "The servants were not sure if Gandhi was an untouchable and didn't want him to pollute the entire well.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e5_q12",
+      "text": "Gandhi went to Muzzafarpur first to:",
+      "options": ["Meet the landlords", "Get more complete information than Shukla could give", "Rest for a few days", "Give a speech"],
+      "correctIndex": 1,
+      "explanation": "He wanted to gather facts and details from the local lawyers and scholars.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e5_q13",
+      "text": "Who received Gandhi at the Muzzafarpur railway station?",
+      "options": ["J.B. Kripalani", "Rajendra Prasad", "Louis Fischer", "The Commissioner"],
+      "correctIndex": 0,
+      "explanation": "Professor J.B. Kripalani of the Arts College in Muzzafarpur received him with a large body of students.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e5_q14",
+      "text": "Why did Gandhi chide the lawyers of Muzzafarpur?",
+      "options": ["For not supporting Shukla", "For charging high fees from the poor peasants", "For losing the cases", "For being afraid"],
+      "correctIndex": 1,
+      "explanation": "Gandhi believed it was shameful to take large fees from the exploited and terror-stricken peasants.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e5_q15",
+      "text": "What, according to Gandhi, was more important than taking cases to court?",
+      "options": ["Paying the British", "Freeing the peasants from fear", "Asking for money", "Running for elections"],
+      "correctIndex": 1,
+      "explanation": "Gandhi felt that law courts were useless as long as the peasants were crushed and fear-stricken.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e5_q16",
+      "text": "How did the British landlords react when they realized synthetic indigo was available?",
+      "options": ["They freed the peasants", "They asked for compensation to release peasants from the 15% agreement", "They lowered the taxes", "They left Champaran"],
+      "correctIndex": 1,
+      "explanation": "They tried to extort money from the peasants as 'compensation' for ending the old contract.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e5_q17",
+      "text": "When Gandhi reached Champaran, what was the first thing he did?",
+      "options": ["Met the sharecroppers", "Tried to get the facts from the Secretary of the British Landlords' Association", "Went to jail", "Met the Governor"],
+      "correctIndex": 1,
+      "explanation": "He sought information from official sources before starting any action.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e5_q18",
+      "text": "How did the British Commissioner of Tirhut division treat Gandhi?",
+      "options": ["He was very polite", "He bullied him and advised him to leave Tirhut", "He ignored him", "He offered him a seat"],
+      "correctIndex": 1,
+      "explanation": "The official was hostile and ordered Gandhi to leave the district immediately.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e5_q19",
+      "text": "Instead of leaving Tirhut, where did Gandhi go?",
+      "options": ["Back to Lucknow", "To Motihari", "To Patna", "To Sewagram"],
+      "correctIndex": 1,
+      "explanation": "Motihari was the capital of Champaran, and he continued his investigation there.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e5_q20",
+      "text": "Why was Gandhi served an official notice to quit Champaran?",
+      "options": ["For stealing", "Because his presence was causing trouble", "For not paying taxes", "To visit another city"],
+      "correctIndex": 1,
+      "explanation": "The British authorities viewed his inquiry as a threat to their authority and peace.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e5_q21",
+      "text": "When Gandhi refused to obey the order to leave, what happened the next day?",
+      "options": ["He was arrested", "He was summoned to appear in court", "He was deported", "Nothing happened"],
+      "correctIndex": 1,
+      "explanation": "He was asked to appear in the Motihari court for disobeying the government order.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e5_q22",
+      "text": "What was the result of thousands of peasants gathering around the courthouse in Motihari?",
+      "options": ["The police attacked them", "The officials felt powerless and the trial was postponed", "Gandhi was sent to jail immediately", "The peasants were arrested"],
+      "correctIndex": 1,
+      "explanation": "The 'spontaneous demonstration' was the beginning of their liberation from the fear of the British.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e5_q23",
+      "text": "Gandhi told the court that he was involved in a 'conflict of duties'. What were they?",
+      "options": ["Being a lawyer vs being a politician", "Law-breaking vs humanitarian/national service", "Family vs Country", "Religion vs State"],
+      "correctIndex": 1,
+      "explanation": "He didn't want to set a bad example as a law-breaker, but he had to obey the higher law of conscience.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e5_q24",
+      "text": "What did the prominent lawyers decide to do if Gandhi was sent to jail?",
+      "options": ["Go home", "Follow him into jail", "Call more lawyers", "Fight the case for the landlords"],
+      "correctIndex": 1,
+      "explanation": "Initially they wanted to leave, but Gandhi's willingness to go to jail for strangers moved them to join him.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e5_q25",
+      "text": "When the Lieutenant-Governor dropped the case against Gandhi, it was the first triumph of:",
+      "options": ["The Congress party", "Civil Disobedience in modern India", "The British legal system", "Violence"],
+      "correctIndex": 1,
+      "explanation": "Gandhi and the lawyers had successfully challenged an unjust law through non-violent means.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e5_q26",
+      "text": "What percentage of refund did the landlords eventually offer to the peasants?",
+      "options": ["10%", "25%", "50%", "100%"],
+      "correctIndex": 1,
+      "explanation": "They offered 25%, thinking Gandhi would demand 50% and they could block the deal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e5_q27",
+      "text": "Why did Gandhi agree to a 25% refund when the peasants were entitled to more?",
+      "options": ["He was tired", "The amount was less important than the landlords' loss of prestige", "The lawyers forced him", "He was afraid of the landlords"],
+      "correctIndex": 1,
+      "explanation": "For Gandhi, the surrender of the landlords' prestige and money was a psychological victory for the peasants.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e5_q28",
+      "text": "What health issues did Gandhi address in Champaran?",
+      "options": ["Lack of hospitals", "Miserable health conditions and lack of sanitation", "Malaria outbreak", "High infant mortality"],
+      "correctIndex": 1,
+      "explanation": "Gandhi noticed the filthy state of clothes and villages and called for volunteers for medical and educational help.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e5_q29",
+      "text": "Who volunteered to teach in the primary schools opened in Champaran villages?",
+      "options": ["Mahadev Desai and Narhari Parikh", "Rajendra Prasad", "Louis Fischer", "The British"],
+      "correctIndex": 0,
+      "explanation": "Two young men who had just become disciples of Gandhi, along with their wives, volunteered.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e5_q30",
+      "text": "Who was Charles Freer Andrews?",
+      "options": ["A British landlord", "A pacifist and devoted follower of Gandhi", "A judge", "A journalist"],
+      "correctIndex": 1,
+      "explanation": "He was an English pacifist who became a close associate of Gandhi.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e5_q31",
+      "text": "Why did Gandhi refuse the lawyers' help to keep Charles Freer Andrews in Champaran?",
+      "options": ["He didn't like Andrews", "To teach them self-reliance", "Andrews was too busy", "It was illegal"],
+      "correctIndex": 1,
+      "explanation": "Gandhi wanted the lawyers to rely on their own strength rather than looking for a 'prop' in an Englishman.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e5_q32",
+      "text": "What were the three medicines available in the Champaran medical camp?",
+      "options": ["Aspirin, Penicillin, Quinine", "Castor oil, Quinine, Sulphur ointment", "Paracetamol, Vitamin C, Iron", "Cough syrup, Glucose, Saline"],
+      "correctIndex": 1,
+      "explanation": "These simple medicines were used to treat a variety of common ailments in the village.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e5_q33",
+      "text": "How long did Gandhi stay in Champaran for the initial visit?",
+      "options": ["Seven days", "Seven months", "One year", "Two years"],
+      "correctIndex": 1,
+      "explanation": "The initial uninterrupted stay lasted for seven months, followed by several shorter visits.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e5_q34",
+      "text": "Champaran satyagraha was not just a political movement; it was also a:",
+      "options": ["Business deal", "Social and economic reform", "Religious conflict", "War"],
+      "correctIndex": 1,
+      "explanation": "Gandhi worked to remove the cultural and social backwardness of the Champaran villages.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e5_q35",
+      "text": "The theme of 'Indigo' centers around:",
+      "options": ["The beauty of Bihar", "The struggle of the underprivileged against oppression", "Gandhi's life in South Africa", "How to grow Indigo"],
+      "correctIndex": 1,
+      "explanation": "It highlights how leadership and non-violence can empower the poor to fight for their rights.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e5_q36",
+      "text": "What did Gandhi tell his wife Kasturba to do in the villages?",
+      "options": ["Cook food", "Talk to women about personal cleanliness", "Sew clothes", "Teach English"],
+      "correctIndex": 1,
+      "explanation": "She was asked to teach the women hygiene and how to keep their surroundings clean.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e5_q37",
+      "text": "How did Gandhi describe the Champaran episode?",
+      "options": ["As a failure", "As a turning point in his life", "As a minor incident", "As a personal tragedy"],
+      "correctIndex": 1,
+      "explanation": "He saw it as a moment where he realized the British could not order him around in his own country.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e5_q38",
+      "text": "What did 'Civil Disobedience' look like to the British?",
+      "options": ["Chaos", "Law and order problem", "A challenge to their moral authority", "An armed rebellion"],
+      "correctIndex": 2,
+      "explanation": "It showed that the power of truth and non-violence was stronger than the might of the Empire.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e5_q39",
+      "text": "Which attribute of Gandhi is most highlighted in this lesson?",
+      "options": ["His wealth", "His stubbornness", "His empathy and pragmatic leadership", "His oratorical skills"],
+      "correctIndex": 2,
+      "explanation": "Gandhi's ability to combine high ideals with practical, day-to-day problems of the people is central to the story.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e5_q40",
+      "text": "What did the Champaran episode prove to the peasants?",
+      "options": ["That the British were kind", "That they had rights and defenders", "That they should leave India", "That Indigo was a good crop"],
+      "correctIndex": 1,
+      "explanation": "It gave them the courage to stand up and taught them that they had legal and moral rights.",
+      "frequencyRating": 5
+    }
+  ]
+}

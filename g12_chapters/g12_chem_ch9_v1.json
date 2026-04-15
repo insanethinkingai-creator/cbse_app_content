@@ -1,0 +1,330 @@
+{
+  "id": "g12_chem_ch9",
+  "grade": "12",
+  "subject": "Chemistry",
+  "number": "9",
+  "title": "Coordination Compounds",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_c9_q1",
+      "text": "According to Werner's theory, the primary valency of a central metal atom is:",
+      "options": ["Satisfied by ligands", "Ionizable and corresponds to oxidation state", "Non-ionizable", "Corresponds to coordination number"],
+      "correctIndex": 1,
+      "explanation": "Primary valency is equivalent to the oxidation state and is ionizable, whereas secondary valency is non-ionizable.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c9_q2",
+      "text": "A ligand that can coordinate to a metal through two different atoms is called a/an:",
+      "options": ["Unidentate ligand", "Chelating ligand", "Ambidentate ligand", "Macrocyclic ligand"],
+      "correctIndex": 2,
+      "explanation": "Ambidentate ligands like SCN⁻ or NO₂⁻ have two different donor atoms but coordinate through only one at a time.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c9_q3",
+      "text": "The coordination number of 'Fe' in [Fe(C₂O₄)₃]³⁻ is:",
+      "options": ["3", "4", "6", "2"],
+      "correctIndex": 2,
+      "explanation": "Oxalate (C₂O₄²⁻) is a didentate ligand. 3 ligands x 2 donor sites = 6.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c9_q4",
+      "text": "What is the IUPAC name of [Pt(NH₃)₂Cl(NO₂)]?",
+      "options": ["Diamminechloridonitritoplatinum(II)", "Diamminechloronitroplatinum(IV)", "Chloridonitritodiammineplatinum(II)", "Diamminenitritochloridoplatinum(II)"],
+      "correctIndex": 0,
+      "explanation": "Ligands are named alphabetically (ammine, chlorido, nitrito) followed by the metal and its oxidation state.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c9_q5",
+      "text": "Which of the following ligands shows the 'Chelate effect'?",
+      "options": ["Cl⁻", "NH₃", "edta⁴⁻", "CN⁻"],
+      "correctIndex": 2,
+      "explanation": "Polydentate ligands form ring structures with the metal, which are significantly more stable than unidentate complexes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c9_q6",
+      "text": "EDTA is a ________ ligand.",
+      "options": ["Didentate", "Tridentate", "Tetradentate", "Hexadentate"],
+      "correctIndex": 3,
+      "explanation": "Ethylene diamine tetraacetate has six donor atoms (two N and four O).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c9_q7",
+      "text": "The type of isomerism shown by [Co(NH₃)₅(SO₄)]Br and [Co(NH₃)₅Br]SO₄ is:",
+      "options": ["Linkage isomerism", "Ionization isomerism", "Coordination isomerism", "Solvate isomerism"],
+      "correctIndex": 1,
+      "explanation": "These isomers produce different ions in solution (Br⁻ vs SO₄²⁻).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c9_q8",
+      "text": "Geometrical isomerism (cis-trans) is NOT possible in which geometry?",
+      "options": ["Square planar", "Octahedral", "Tetrahedral", "None of these"],
+      "correctIndex": 2,
+      "explanation": "In tetrahedral geometry, all positions are adjacent to each other, so no cis-trans variation exists.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c9_q9",
+      "text": "Facial (fac) and meridional (mer) isomerism is associated with which type of complex?",
+      "options": ["[Ma₃b₃]", "[Ma₂b₄]", "[Ma₄b₂]", "[Ma₂b₂]"],
+      "correctIndex": 0,
+      "explanation": "This specific geometrical isomerism occurs in octahedral complexes with three ligands of one type and three of another.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c9_q10",
+      "text": "According to Valence Bond Theory (VBT), a complex with sp³d² hybridization has ________ geometry.",
+      "options": ["Inner orbital octahedral", "Outer orbital octahedral", "Square planar", "Tetrahedral"],
+      "correctIndex": 1,
+      "explanation": "sp³d² uses the outer 'd' orbitals, resulting in high-spin outer orbital complexes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c9_q11",
+      "text": "The complex [Ni(CN)₄]²⁻ is diamagnetic and has dsp² hybridization. Its shape is:",
+      "options": ["Tetrahedral", "Square planar", "Octahedral", "Linear"],
+      "correctIndex": 1,
+      "explanation": "dsp² hybridization always corresponds to square planar geometry.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c9_q12",
+      "text": "Crystal Field Theory (CFT) considers the metal-ligand bond to be:",
+      "options": ["Covalent", "Purely electrostatic (ionic)", "Coordinate covalent", "Metallic"],
+      "correctIndex": 1,
+      "explanation": "CFT assumes ligands are point charges and the interaction is purely electrostatic.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c9_q13",
+      "text": "In an octahedral crystal field, the d-orbitals split into two sets called:",
+      "options": ["s and p", "t₂g and eg", "e and t₂", "dxy and dz²"],
+      "correctIndex": 1,
+      "explanation": "t₂g (lower energy: dxy, dyz, dzx) and eg (higher energy: dx²-y², dz²).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c9_q14",
+      "text": "Which of the following is a strong field ligand according to the spectrochemical series?",
+      "options": ["I⁻", "H₂O", "CN⁻", "F⁻"],
+      "correctIndex": 2,
+      "explanation": "CN⁻ and CO are at the high end of the series, causing large crystal field splitting.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c9_q15",
+      "text": "For a d⁴ ion in an octahedral field with a strong ligand (Δo > P), the configuration is:",
+      "options": ["t₂g³ eg¹", "t₂g⁴ eg⁰", "t₂g² eg²", "t₂g¹ eg³"],
+      "correctIndex": 1,
+      "explanation": "Since splitting energy is higher than pairing energy, the fourth electron pairs up in the t₂g level.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c9_q16",
+      "text": "The color of coordination compounds is usually due to:",
+      "options": ["s-s transitions", "d-d transitions", "p-p transitions", "Vibrations"],
+      "correctIndex": 1,
+      "explanation": "Electronic transitions between the split d-orbital levels absorb specific wavelengths of visible light.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c9_q17",
+      "text": "What happens to the color of [Ti(H₂O)₆]Cl₃ when it is heated?",
+      "options": ["Becomes more intense", "Becomes colorless", "Changes to red", "Remains same"],
+      "correctIndex": 1,
+      "explanation": "Heating removes the water ligands; without the crystal field splitting from ligands, d-d transitions stop and color is lost.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c9_q18",
+      "text": "Which complex is used in the treatment of cancer?",
+      "options": ["Cis-platin", "Wilkinson's catalyst", "EDTA", "Chlorophyll"],
+      "correctIndex": 0,
+      "explanation": "cis-[Pt(NH₃)₂Cl₂] is a widely used chemotherapy drug.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c9_q19",
+      "text": "Chlorophyll contains which metal ion?",
+      "options": ["Fe²⁺", "Mg²⁺", "Co²⁺", "Zn²⁺"],
+      "correctIndex": 1,
+      "explanation": "Chlorophyll is a coordination compound of magnesium.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c9_q20",
+      "text": "Vitamin B12 is a coordination complex of:",
+      "options": ["Iron", "Cobalt", "Magnesium", "Copper"],
+      "correctIndex": 1,
+      "explanation": "Vitamin B12 (cyanocobalamin) contains cobalt.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c9_q21",
+      "text": "The IUPAC name of [Ni(CO)₄] is:",
+      "options": ["Tetracarbonylnickel(II)", "Tetracarbonylnickelate(0)", "Tetracarbonylnickel(0)", "Nickel tetracarbonyl"],
+      "correctIndex": 2,
+      "explanation": "Carbonyl is a neutral ligand, and the metal is named normally with its zero oxidation state.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c9_q22",
+      "text": "In the complex K₄[Fe(CN)₆], the 'counter ion' is:",
+      "options": ["Fe", "CN", "K⁺", "Hexacyanoferrate"],
+      "correctIndex": 2,
+      "explanation": "Counter ions are the ionizable groups outside the coordination sphere.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c9_q23",
+      "text": "Which of the following is a homoleptic complex?",
+      "options": ["[Co(NH₃)₄Cl₂]⁺", "[Ni(CN)₄]²⁻", "[Pt(NH₃)₂Cl₂]", "[Co(NH₃)₅Cl]Cl₂"],
+      "correctIndex": 1,
+      "explanation": "Homoleptic complexes have only one type of ligand (all four are CN⁻ in this case).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c9_q24",
+      "text": "The crystal field splitting energy for tetrahedral complexes (Δt) is related to octahedral (Δo) as:",
+      "options": ["Δt = 4/9 Δo", "Δt = 9/4 Δo", "Δt = Δo", "Δt = 1/2 Δo"],
+      "correctIndex": 0,
+      "explanation": "Tetrahedral splitting is always smaller than octahedral splitting.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c9_q25",
+      "text": "Which of the following shows linkage isomerism?",
+      "options": ["NH₃", "H₂O", "NO₂⁻", "en"],
+      "correctIndex": 2,
+      "explanation": "Ambidentate ligands like NO₂⁻ can link via N (nitro) or O (nitrito).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c9_q26",
+      "text": "A complex with coordination number 4 can have which geometries?",
+      "options": ["Tetrahedral", "Square planar", "Both 1 and 2", "Octahedral"],
+      "correctIndex": 2,
+      "explanation": "Depending on hybridization (sp³ or dsp²), it can be tetrahedral or square planar.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c9_q27",
+      "text": "In naming anionic complexes, the metal name ends with:",
+      "options": ["-ide", "-ate", "-ite", "-ic"],
+      "correctIndex": 1,
+      "explanation": "For example, iron becomes ferrate, cobalt becomes cobaltate.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c9_q28",
+      "text": "Optical isomerism is most common in which type of coordination compounds?",
+      "options": ["Square planar", "Didentate octahedral complexes", "Tetrahedral", "Linear"],
+      "correctIndex": 1,
+      "explanation": "Octahedral complexes with chelating ligands (like [Co(en)₃]³⁺) often lack a plane of symmetry.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c9_q29",
+      "text": "Synergic bonding involves:",
+      "options": ["Sigma bond only", "Pi bond only", "Both sigma donation and pi back-donation", "Ionic transfer"],
+      "correctIndex": 2,
+      "explanation": "Typical in metal carbonyls, where CO donates electrons and metal back-donates to CO pi-antibonding orbitals.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c9_q30",
+      "text": "Which complex is used to remove lead poisoning from the body?",
+      "options": ["Cis-platin", "Ca-EDTA chelate", "Magnesium sulfate", "Iron oxide"],
+      "correctIndex": 1,
+      "explanation": "EDTA forms a stable complex with lead which is then excreted from the body.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c9_q31",
+      "text": "The magnetic moment of [MnCl₆]³⁻ (high spin) is approximately:",
+      "options": ["1.73 BM", "3.87 BM", "4.90 BM", "5.92 BM"],
+      "correctIndex": 2,
+      "explanation": "Mn³⁺ is d⁴. High spin means 4 unpaired electrons. μ = √(4(6)) = √24 ≈ 4.90 BM.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c9_q32",
+      "text": "A heteroleptic complex is one where:",
+      "options": ["Metal has zero oxidation state", "There is more than one type of ligand", "Ligand is ambidentate", "It is insoluble"],
+      "correctIndex": 1,
+      "explanation": "Heteroleptic refers to 'different' ligands.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c9_q33",
+      "text": "How many moles of AgCl will be precipitated when excess AgNO₃ is added to 1 mole of [Co(NH₃)₄Cl₂]Cl?",
+      "options": ["1", "2", "3", "0"],
+      "correctIndex": 0,
+      "explanation": "Only the chloride ion outside the coordination bracket is ionizable.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c9_q34",
+      "text": "The d-orbital used in dsp² hybridization is:",
+      "options": ["dz²", "dx²-y²", "dxy", "dyz"],
+      "correctIndex": 1,
+      "explanation": "The dx²-y² orbital lies in the plane of the ligands in square planar geometry.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c9_q35",
+      "text": "Haemoglobin is a coordination compound of:",
+      "options": ["Copper", "Iron", "Cobalt", "Zinc"],
+      "correctIndex": 1,
+      "explanation": "Haemoglobin is the red pigment of blood containing iron(II) porphyrin complex.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c9_q36",
+      "text": "Which of the following complexes will have the highest molar conductivity?",
+      "options": ["[Co(NH₃)₆]Cl₃", "[Co(NH₃)₅Cl]Cl₂", "[Co(NH₃)₄Cl₂]Cl", "[Co(NH₃)₃Cl₃]"],
+      "correctIndex": 0,
+      "explanation": "Option 1 produces 4 ions per molecule, which is more than any other option.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c9_q37",
+      "text": "What is the coordination number of 'Ca' in [Ca(EDTA)]²⁻?",
+      "options": ["2", "4", "6", "1"],
+      "correctIndex": 2,
+      "explanation": "Since EDTA is hexadentate, the coordination number is 6.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c9_q38",
+      "text": "Transition metal carbonyls are stable due to:",
+      "options": ["Ionic bonding", "Hydrogen bonding", "Synergic effect", "Van der waals forces"],
+      "correctIndex": 2,
+      "explanation": "The M-C bond is strengthened by the simultaneous sigma and pi interactions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c9_q39",
+      "text": "The spectrochemical series arranges ligands in order of their:",
+      "options": ["Size", "Charge", "Crystal field splitting strength", "Molecular weight"],
+      "correctIndex": 2,
+      "explanation": "It determines whether a complex will be high-spin or low-spin.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c9_q40",
+      "text": "Octahedral complexes of the type [Ma₂b₂c₂] can show:",
+      "options": ["Optical isomerism only", "Geometrical isomerism only", "Both geometrical and optical isomerism", "No isomerism"],
+      "correctIndex": 2,
+      "explanation": "They can have multiple geometrical forms, some of which are chiral.",
+      "frequencyRating": 2
+    }
+  ]
+}

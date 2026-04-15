@@ -246,5 +246,86 @@
       "explanation": "The half-life is constant (20 mins), which is a characteristic of first-order reactions.",
       "frequencyRating": 4
     }
+    ,
+    {
+      "id": "g12_c3_q31",
+      "text": "The unit of rate constant for a second-order reaction is:",
+      "options": ["s⁻¹", "mol L⁻¹ s⁻¹", "L mol⁻¹ s⁻¹", "L² mol⁻² s⁻¹"],
+      "correctIndex": 2,
+      "explanation": "For second order, k = Rate / [A]² = (mol L⁻¹ s⁻¹) / (mol L⁻¹)² = L mol⁻¹ s⁻¹.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c3_q32",
+      "text": "The slope of the Arrhenius plot (log k vs 1/T) is:",
+      "options": ["-Ea / R", "-Ea / 2.303R", "Ea / R", "A"],
+      "correctIndex": 1,
+      "explanation": "From log k = log A - Ea / (2.303RT), the slope is -Ea / 2.303R.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c3_q33",
+      "text": "Pseudo-first order reactions occur when:",
+      "options": ["Both reactants are in equal concentration", "One reactant is in large excess", "Temperature is very high", "Catalyst is present"],
+      "correctIndex": 1,
+      "explanation": "Example: Acid-catalyzed hydrolysis of ethyl acetate where water is in excess.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c3_q34",
+      "text": "For a reaction to occur, the colliding molecules must possess energy equal to or greater than:",
+      "options": ["Activation energy", "Potential energy", "Threshold energy", "Kinetic energy"],
+      "correctIndex": 2,
+      "explanation": "Threshold energy is the minimum total energy colliding molecules must have for an effective collision.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c3_q35",
+      "text": "The molecularity of a complex reaction is:",
+      "options": ["The sum of coefficients", "The number of steps", "Not defined", "One"],
+      "correctIndex": 2,
+      "explanation": "Molecularity is only defined for elementary (single-step) reactions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c3_q36",
+      "text": "Which of the following is the integrated rate equation for a zero-order reaction?",
+      "options": ["k = ([A]₀ - [A]) / t", "k = 2.303/t log([A]₀/[A])", "k = 1/t (1/[A] - 1/[A]₀)", "None"],
+      "correctIndex": 0,
+      "explanation": "For zero order, [A] = -kt + [A]₀.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c3_q37",
+      "text": "A catalyst increases the rate of reaction by:",
+      "options": ["Decreasing activation energy", "Increasing enthalpy", "Decreasing entropy", "Increasing threshold energy"],
+      "correctIndex": 0,
+      "explanation": "It provides an alternative path with a lower energy barrier.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c3_q38",
+      "text": "The half-life of a zero-order reaction is ________ to the initial concentration.",
+      "options": ["Directly proportional", "Inversely proportional", "Independent", "Proportional to square"],
+      "correctIndex": 0,
+      "explanation": "t1/2 = [A]₀ / 2k.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c3_q39",
+      "text": "Radioactive decay follows which order kinetics?",
+      "options": ["Zero", "First", "Second", "Third"],
+      "correctIndex": 1,
+      "explanation": "All natural and artificial radioactive decay reactions take place by first order kinetics.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c3_q40",
+      "text": "The rate of a chemical reaction ________ as the reaction proceeds.",
+      "options": ["Increases", "Decreases", "Stays same", "Fluctuates"],
+      "correctIndex": 1,
+      "explanation": "As reactants are consumed, their concentration decreases, which usually decreases the rate.",
+      "frequencyRating": 4
+    }
   ]
 }

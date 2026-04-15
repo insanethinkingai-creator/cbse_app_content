@@ -1,3 +1,4 @@
+
 {
   "id": "g12_chem_ch4",
   "grade": "12",
@@ -245,6 +246,87 @@
       "correctIndex": 1,
       "explanation": "Potassium permanganate acts as its own indicator as its pink color disappears until the endpoint.",
       "frequencyRating": 4
+    }
+    ,
+    {
+      "id": "g12_c4_q31",
+      "text": "The electronic configuration of Gadolinium (Z=64) is:",
+      "options": ["[Xe] 4f⁷ 5d¹ 6s²", "[Xe] 4f⁸ 6s²", "[Xe] 4f⁷ 5d² 6s¹", "[Xe] 4f⁹ 6s²"],
+      "correctIndex": 0,
+      "explanation": "Gd has a half-filled 4f subshell which provides extra stability.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c4_q32",
+      "text": "Which of the following is an effect of lanthanoid contraction?",
+      "options": ["Zr and Hf have similar radii", "Fe and Co have similar radii", "Na and K have similar radii", "None"],
+      "correctIndex": 0,
+      "explanation": "Zirconium (4d) and Hafnium (5d) have almost identical atomic and ionic radii.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c4_q33",
+      "text": "Mischmetall is an alloy widely used in cigarette lighters. It contains mainly:",
+      "options": ["Lanthanoid metals", "Actinoid metals", "Transition metals", "Alkali metals"],
+      "correctIndex": 0,
+      "explanation": "It typically contains ~95% lanthanoids and ~5% iron.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c4_q34",
+      "text": "In acidic medium, KMnO₄ oxidizes oxalate ion to:",
+      "options": ["CO₂", "CO", "C", "HCOOH"],
+      "correctIndex": 0,
+      "explanation": "The titration of KMnO₄ against oxalic acid is a standard lab experiment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c4_q35",
+      "text": "Which transition metal shows the highest oxidation state of +8?",
+      "options": ["Mn", "Cr", "Os", "Fe"],
+      "correctIndex": 2,
+      "explanation": "Osmium (Os) and Ruthenium (Ru) can show the +8 oxidation state.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c4_q36",
+      "text": "Transition elements form alloys easily because of their:",
+      "options": ["Similar atomic sizes", "High melting points", "Variable oxidation states", "Magnetic properties"],
+      "correctIndex": 0,
+      "explanation": "Because their sizes are similar, one metal can replace another in the crystal lattice.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c4_q37",
+      "text": "K₂Cr₂O₇ is prepared from its ore:",
+      "options": ["Chromite", "Magnetite", "Bauxite", "Pyrolusite"],
+      "correctIndex": 0,
+      "explanation": "Chromite ore (FeCr₂O₄) is the starting material for dichromate production.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c4_q38",
+      "text": "Chromate ion (CrO₄²⁻) is yellow while dichromate ion (Cr₂O₇²⁻) is:",
+      "options": ["Orange", "Green", "Blue", "Purple"],
+      "correctIndex": 0,
+      "explanation": "They are interconvertible depending on the pH of the solution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c4_q39",
+      "text": "Interstitial compounds are usually:",
+      "options": ["Stoichiometric", "Non-stoichiometric", "Liquid", "Soft"],
+      "correctIndex": 1,
+      "explanation": "Small atoms like C or H fit into the metal lattice without forming regular stoichiometric bonds.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c4_q40",
+      "text": "Why are transition metals good catalysts?",
+      "options": ["Variable oxidation states", "Large surface area", "Ability to form complexes", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "These factors allow them to lower activation energy and provide reaction sites.",
+      "frequencyRating": 5
     }
   ]
 }

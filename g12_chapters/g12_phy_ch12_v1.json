@@ -1,0 +1,330 @@
+{
+  "id": "g12_phy_ch12",
+  "grade": "12",
+  "subject": "Physics",
+  "number": "12",
+  "title": "Atoms",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_p12_q1",
+      "text": "In Rutherford's alpha-particle scattering experiment, most of the alpha particles:",
+      "options": ["Bounced back", "Deflected by 90°", "Passed through the foil undeflected", "Absorbed by the foil"],
+      "correctIndex": 2,
+      "explanation": "Most particles passed straight through, indicating that most of the atom is empty space.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p12_q2",
+      "text": "The size of the nucleus is of the order of:",
+      "options": ["10⁻¹⁰ m", "10⁻¹⁵ m", "10⁻⁸ m", "10⁻¹² m"],
+      "correctIndex": 1,
+      "explanation": "The nucleus is approximately 10⁻¹⁵ m (1 fermi), while the atom is 10⁻¹⁰ m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p12_q3",
+      "text": "Rutherford's model could not explain:",
+      "options": ["Presence of nucleus", "Scattering of alpha particles", "Stability of atoms", "Empty space in atom"],
+      "correctIndex": 2,
+      "explanation": "According to classical EM theory, an orbiting electron should radiate energy and spiral into the nucleus.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p12_q4",
+      "text": "The distance of closest approach is a measure of:",
+      "options": ["Atomic size", "Nucleus size", "Electron orbit", "Ionization energy"],
+      "correctIndex": 1,
+      "explanation": "It gives an upper limit on the size of the nucleus where K.E. converts fully to P.E.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p12_q5",
+      "text": "Bohr's first postulate states that electrons revolve in:",
+      "options": ["Any orbit", "Elliptical orbits", "Stationary orbits", "Vibrating orbits"],
+      "correctIndex": 2,
+      "explanation": "Bohr proposed electrons exist in specific non-radiating 'stationary' orbits.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p12_q6",
+      "text": "The angular momentum of an electron in Bohr's stationary orbit is an integral multiple of:",
+      "options": ["h / 2π", "h / π", "2π / h", "h / 4π"],
+      "correctIndex": 0,
+      "explanation": "L = mvr = nh / 2π, where n is the principal quantum number.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p12_q7",
+      "text": "The energy of an electron in the ground state of Hydrogen atom is:",
+      "options": ["+13.6 eV", "-13.6 eV", "0 eV", "-3.4 eV"],
+      "correctIndex": 1,
+      "explanation": "E₁ = -13.6 / 1² = -13.6 eV.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p12_q8",
+      "text": "The radius of the nth orbit in Bohr model is proportional to:",
+      "options": ["n", "1/n", "n²", "1/n²"],
+      "correctIndex": 2,
+      "explanation": "rₙ = a₀ * n²/Z, where a₀ is the Bohr radius.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p12_q9",
+      "text": "The velocity of an electron in Bohr's nth orbit is proportional to:",
+      "options": ["n", "1/n", "n²", "1/n²"],
+      "correctIndex": 1,
+      "explanation": "vₙ ∝ Z/n.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p12_q10",
+      "text": "When an electron jumps from n=2 to n=1, the spectral line belongs to:",
+      "options": ["Balmer series", "Paschen series", "Lyman series", "Brackett series"],
+      "correctIndex": 2,
+      "explanation": "Lyman series involves transitions to the ground state (n=1).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p12_q11",
+      "text": "The Balmer series lies in the:",
+      "options": ["Ultraviolet region", "Visible region", "Infrared region", "Far infrared region"],
+      "correctIndex": 1,
+      "explanation": "Balmer series lines (transitions to n=2) are the only ones in the visible spectrum.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p12_q12",
+      "text": "Total energy of an electron in an atom is negative because:",
+      "options": ["It is repulsive", "The electron is bound to the nucleus", "Mass is negative", "It is zero"],
+      "correctIndex": 1,
+      "explanation": "Negative energy indicates a bound system; energy must be supplied to remove the electron.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p12_q13",
+      "text": "The Rydberg constant (R) has dimensions of:",
+      "options": ["L", "L⁻¹", "T⁻¹", "M"],
+      "correctIndex": 1,
+      "explanation": "1/λ = R(1/n₁² - 1/n₂²). Since 1/λ is in m⁻¹, R is in m⁻¹ (L⁻¹).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p12_q14",
+      "text": "The ratio of K.E. to Total Energy (E) of an electron in Bohr orbit is:",
+      "options": ["1 : 1", "1 : -1", "2 : 1", "1 : 2"],
+      "correctIndex": 1,
+      "explanation": "K = -E and U = 2E. So K/E = -1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p12_q15",
+      "text": "If n=3, the number of possible spectral lines when returning to ground state is:",
+      "options": ["2", "3", "4", "6"],
+      "correctIndex": 1,
+      "explanation": "Lines = n(n-1)/2 = 3(2)/2 = 3 (3→1, 3→2, 2→1).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p12_q16",
+      "text": "The impact parameter is zero for an alpha particle that:",
+      "options": ["Is undeflected", "Is deflected by 90°", "Rebounds at 180°", "Glances the nucleus"],
+      "correctIndex": 2,
+      "explanation": "A head-on collision has zero impact parameter, resulting in a 180° scatter.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p12_q17",
+      "text": "Bohr model is valid for:",
+      "options": ["All atoms", "H-like atoms", "Only Hydrogen", "Heavy atoms"],
+      "correctIndex": 1,
+      "explanation": "It works for single-electron systems like H, He⁺, Li²⁺.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p12_q18",
+      "text": "Ionization energy of Hydrogen atom is:",
+      "options": ["-13.6 eV", "13.6 eV", "3.4 eV", "0 eV"],
+      "correctIndex": 1,
+      "explanation": "Energy required to take electron from n=1 to n=∞ is 0 - (-13.6) = 13.6 eV.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p12_q19",
+      "text": "The ratio of radii of the first three Bohr orbits is:",
+      "options": ["1:2:3", "1:4:9", "1:8:27", "1:1:1"],
+      "correctIndex": 1,
+      "explanation": "r ∝ n², so 1²:2²:3² = 1:4:9.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p12_q20",
+      "text": "What happens to the energy difference between consecutive levels as 'n' increases?",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correctIndex": 1,
+      "explanation": "Level spacing decreases as we go further from the nucleus (10.2 eV, 1.89 eV, etc.).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p12_q21",
+      "text": "The wave number of the longest wavelength line in Lyman series is (R is Rydberg constant):",
+      "options": ["R", "3R/4", "5R/36", "R/4"],
+      "correctIndex": 1,
+      "explanation": "Longest λ is for transition 2→1. 1/λ = R(1/1² - 1/2²) = 3R/4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p12_q22",
+      "text": "Which series of Hydrogen spectrum lies in the infrared region?",
+      "options": ["Paschen", "Brackett", "Pfund", "All of these"],
+      "correctIndex": 3,
+      "explanation": "All series with final state n > 2 lie in the infrared region.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p12_q23",
+      "text": "As the electron moves to higher orbits, its orbital K.E.:",
+      "options": ["Increases", "Decreases", "Remains constant", "First increases then decreases"],
+      "correctIndex": 1,
+      "explanation": "K.E. = 13.6 Z²/n². As n increases, K.E. decreases.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p12_q24",
+      "text": "The ground state energy of He⁺ is:",
+      "options": ["-13.6 eV", "-54.4 eV", "-27.2 eV", "-3.4 eV"],
+      "correctIndex": 1,
+      "explanation": "E = -13.6 * Z²/n² = -13.6 * 2²/1² = -54.4 eV.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p12_q25",
+      "text": "Who established that most of the mass of an atom is concentrated in the nucleus?",
+      "options": ["J.J. Thomson", "Rutherford", "Niels Bohr", "Dalton"],
+      "correctIndex": 1,
+      "explanation": "Rutherford concluded this from the large-angle scattering of alpha particles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p12_q26",
+      "text": "The limit of a spectral series refers to the transition from:",
+      "options": ["n=2", "n=1", "n=∞", "n=0"],
+      "correctIndex": 2,
+      "explanation": "The series limit is the shortest wavelength, occurring for transition from infinity.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p12_q27",
+      "text": "Ratio of angular momentum of electrons in 2nd and 4th orbit is:",
+      "options": ["1:2", "2:1", "1:4", "4:1"],
+      "correctIndex": 0,
+      "explanation": "L = nh/2π. L₂/L₄ = 2/4 = 1/2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p12_q28",
+      "text": "The force responsible for alpha particle scattering in Rutherford's experiment is:",
+      "options": ["Gravitational", "Magnetic", "Coulomb", "Nuclear"],
+      "correctIndex": 2,
+      "explanation": "The repulsive electrostatic (Coulomb) force between positive alpha particles and the positive nucleus causes scattering.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p12_q29",
+      "text": "In H-atom, the ratio of energy of n=2 and n=4 levels is:",
+      "options": ["1:2", "4:1", "2:1", "1:4"],
+      "correctIndex": 1,
+      "explanation": "E ∝ 1/n². E₂/E₄ = (4/2)² = 4:1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p12_q30",
+      "text": "Bohr radius (a₀) is approximately:",
+      "options": ["0.53 Å", "1.0 Å", "0.053 Å", "5.3 Å"],
+      "correctIndex": 0,
+      "explanation": "Bohr radius for n=1, Z=1 is 0.529 Å.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p12_q31",
+      "text": "When an atom is excited, the electron:",
+      "options": ["Falls to lower level", "Jumps to higher level", "Leaves the atom", "Stays at ground state"],
+      "correctIndex": 1,
+      "explanation": "Excitation involves absorption of energy to move to a higher energy state.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p12_q32",
+      "text": "The short wavelength limit of Balmer series is (R = Rydberg constant):",
+      "options": ["4/R", "1/R", "R/4", "9/R"],
+      "correctIndex": 0,
+      "explanation": "1/λ = R(1/2² - 1/∞²) = R/4 => λ = 4/R.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p12_q33",
+      "text": "Ratio of potential energy to total energy in Bohr orbit is:",
+      "options": ["2", "1", "-1", "0.5"],
+      "correctIndex": 0,
+      "explanation": "U = 2E. So U/E = 2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p12_q34",
+      "text": "In an atom, the velocity of electron is maximum in:",
+      "options": ["1st orbit", "2nd orbit", "3rd orbit", "Last orbit"],
+      "correctIndex": 0,
+      "explanation": "v ∝ 1/n. Smallest n (1) gives maximum velocity.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p12_q35",
+      "text": "The angular momentum of an electron in 3rd Bohr orbit is:",
+      "options": ["h/2π", "3h/2π", "1.5h/π", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "L = 3h/2π = 1.5h/π.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p12_q36",
+      "text": "According to de Broglie, Bohr's quantization condition L = nh/2π is due to:",
+      "options": ["Particle nature", "Constructive interference of matter waves", "Nuclear force", "Centripetal force"],
+      "correctIndex": 1,
+      "explanation": "Stationary orbits correspond to standing matter waves where 2πr = nλ.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p12_q37",
+      "text": "Impact parameter (b) is related to scattering angle (θ) as:",
+      "options": ["b ∝ cot(θ/2)", "b ∝ tan(θ/2)", "b ∝ sin(θ/2)", "b ∝ cos(θ/2)"],
+      "correctIndex": 0,
+      "explanation": "The formula is b = (Ze²/4πε₀K) cot(θ/2).",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_p12_q38",
+      "text": "H-alpha line in Balmer series occurs for transition:",
+      "options": ["2→1", "3→2", "4→2", "∞→2"],
+      "correctIndex": 1,
+      "explanation": "H-alpha is the first line of the Balmer series (n=3 to n=2).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p12_q39",
+      "text": "The energy needed to excite an electron in H-atom from ground state to first excited state is:",
+      "options": ["13.6 eV", "3.4 eV", "10.2 eV", "1.89 eV"],
+      "correctIndex": 2,
+      "explanation": "E₂ - E₁ = -3.4 - (-13.6) = 10.2 eV.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p12_q40",
+      "text": "The spectral series of Hydrogen that lies partially in UV and partially in visible is:",
+      "options": ["Lyman", "Balmer", "Paschen", "None"],
+      "correctIndex": 1,
+      "explanation": "While most of Balmer is visible, its higher order lines approach the UV limit.",
+      "frequencyRating": 2
+    }
+  ]
+}

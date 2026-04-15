@@ -1,0 +1,330 @@
+{
+  "id": "g12_phy_ch8",
+  "grade": "12",
+  "subject": "Physics",
+  "number": "8",
+  "title": "Electromagnetic Waves",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_p8_q1",
+      "text": "Which scientist theoretically predicted the existence of electromagnetic waves?",
+      "options": ["Maxwell", "Hertz", "Marconi", "Jagadish Chandra Bose"],
+      "correctIndex": 0,
+      "explanation": "James Clerk Maxwell theoretically predicted EM waves by unifying electricity, magnetism, and light.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p8_q2",
+      "text": "The displacement current arises due to:",
+      "options": ["Flow of electrons", "Flow of ions", "Changing electric flux", "Steady magnetic field"],
+      "correctIndex": 2,
+      "explanation": "Displacement current is proportional to the rate of change of electric flux (dΦE/dt).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p8_q3",
+      "text": "The speed of electromagnetic waves in vacuum is given by:",
+      "options": ["1/√(μ₀ε₀)", "√(μ₀ε₀)", "μ₀/ε₀", "ε₀/μ₀"],
+      "correctIndex": 0,
+      "explanation": "The speed of light c = 1/√(μ₀ε₀) ≈ 3 × 10⁸ m/s.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p8_q4",
+      "text": "In an electromagnetic wave, the phase difference between the electric field (E) and magnetic field (B) vectors is:",
+      "options": ["0", "π/2", "π", "π/4"],
+      "correctIndex": 0,
+      "explanation": "The electric and magnetic fields in an EM wave oscillate in phase, reaching maxima and minima at the same time.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p8_q5",
+      "text": "The direction of propagation of an electromagnetic wave is given by the direction of:",
+      "options": ["E vector", "B vector", "E × B", "B × E"],
+      "correctIndex": 2,
+      "explanation": "The Poynting vector, which gives the direction of energy flow, is proportional to E × B.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p8_q6",
+      "text": "Which of the following has the shortest wavelength in the EM spectrum?",
+      "options": ["Radio waves", "Infrared", "Ultraviolet", "Gamma rays"],
+      "correctIndex": 3,
+      "explanation": "Gamma rays have the highest frequency and therefore the shortest wavelength.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p8_q7",
+      "text": "Which waves are used in radar systems for aircraft navigation?",
+      "options": ["Microwaves", "Infrared", "Radio waves", "X-rays"],
+      "correctIndex": 0,
+      "explanation": "Microwaves are used in radar due to their short wavelengths, which allow them to be reflected by small objects.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p8_q8",
+      "text": "Infrared waves are also known as:",
+      "options": ["Heat waves", "Cold waves", "Visible waves", "Ionizing waves"],
+      "correctIndex": 0,
+      "explanation": "Infrared waves are produced by hot bodies and produce a heating effect upon absorption.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p8_q9",
+      "text": "The ozone layer in the atmosphere absorbs:",
+      "options": ["Visible light", "Infrared", "Ultraviolet radiation", "Radio waves"],
+      "correctIndex": 2,
+      "explanation": "The ozone layer protects Earth by absorbing harmful UV radiation from the Sun.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p8_q10",
+      "text": "X-rays are produced by:",
+      "options": ["Radioactive decay", "Bombarding a metal target with high energy electrons", "Hot bodies", "Oscillating LC circuits"],
+      "correctIndex": 1,
+      "explanation": "Sudden deceleration of fast-moving electrons hitting a metal target produces X-rays (Bremsstrahlung).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p8_q11",
+      "text": "The ratio of the magnitudes of electric field and magnetic field (E/B) in an EM wave is equal to:",
+      "options": ["Speed of the wave", "Frequency of the wave", "Wavelength", "Energy density"],
+      "correctIndex": 0,
+      "explanation": "E₀/B₀ = c, where c is the speed of light in that medium.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p8_q12",
+      "text": "Electromagnetic waves carry:",
+      "options": ["Energy only", "Momentum only", "Both energy and momentum", "Neither energy nor momentum"],
+      "correctIndex": 2,
+      "explanation": "EM waves transport both energy and linear momentum through space.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p8_q13",
+      "text": "Radiation pressure is exerted by EM waves because they:",
+      "options": ["Are transverse", "Carry momentum", "Have high frequency", "Travel at speed of light"],
+      "correctIndex": 1,
+      "explanation": "When an EM wave is absorbed or reflected by a surface, it transfers momentum, resulting in pressure.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p8_q14",
+      "text": "The frequency range of visible light is approximately:",
+      "options": ["4 × 10¹⁴ Hz to 7 × 10¹⁴ Hz", "10 Hz to 100 Hz", "10¹⁸ Hz to 10²² Hz", "10⁶ Hz to 10⁹ Hz"],
+      "correctIndex": 0,
+      "explanation": "This corresponds to wavelengths from about 400nm to 700nm.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p8_q15",
+      "text": "Microwave ovens work on the principle of:",
+      "options": ["Photoelectric effect", "Resonant frequency of water molecules", "Optical fiber transmission", "Nuclear fission"],
+      "correctIndex": 1,
+      "explanation": "The frequency of microwaves is matched to the resonant frequency of water molecules, causing them to vibrate and heat the food.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p8_q16",
+      "text": "Which EM waves are used to treat muscular strain?",
+      "options": ["Infrared", "UV rays", "X-rays", "Microwaves"],
+      "correctIndex": 0,
+      "explanation": "Infrared lamps are used in physical therapy for their deep heating effect.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p8_q17",
+      "text": "The energy of an EM wave is divided between E and B fields in the ratio:",
+      "options": ["1:1", "1:2", "2:1", "Depends on frequency"],
+      "correctIndex": 0,
+      "explanation": "The average energy density of the electric field equals the average energy density of the magnetic field.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p8_q18",
+      "text": "Welders wear special glass goggles to protect their eyes from:",
+      "options": ["Infrared", "Ultraviolet radiation", "Microwaves", "Radio waves"],
+      "correctIndex": 1,
+      "explanation": "Electric arcs produce high amounts of UV radiation, which can damage the eyes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p8_q19",
+      "text": "Greenhouse effect is mainly caused by the trapping of ________ by the atmosphere.",
+      "options": ["UV rays", "Infrared radiation", "X-rays", "Gamma rays"],
+      "correctIndex": 1,
+      "explanation": "Visible light enters, is absorbed by Earth, and re-emitted as long-wavelength infrared, which is trapped by greenhouse gases.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p8_q20",
+      "text": "Who first experimentally demonstrated EM waves in a laboratory?",
+      "options": ["Maxwell", "Hertz", "Marconi", "Newton"],
+      "correctIndex": 1,
+      "explanation": "Heinrich Hertz used a spark-gap transmitter to generate and detect EM waves, confirming Maxwell's theory.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p8_q21",
+      "text": "The wavelength of Gamma rays is of the order of:",
+      "options": ["10⁻¹² m", "10⁻⁶ m", "10³ m", "10⁻³ m"],
+      "correctIndex": 0,
+      "explanation": "Gamma rays have the smallest wavelengths, typically less than 10⁻¹¹ meters.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p8_q22",
+      "text": "Television remote controls usually use:",
+      "options": ["Radio waves", "Microwaves", "Infrared waves", "Visible light"],
+      "correctIndex": 2,
+      "explanation": "Most remote controls use IR LEDs to transmit coded signals to the receiver.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p8_q23",
+      "text": "The source of electromagnetic waves is:",
+      "options": ["A charge at rest", "A charge moving with constant velocity", "An accelerating charge", "A neutral particle"],
+      "correctIndex": 2,
+      "explanation": "Only an accelerating or oscillating charge produces a time-varying electric and magnetic field that propagates as a wave.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p8_q24",
+      "text": "Which part of the EM spectrum is used in 'LASIK' eye surgery?",
+      "options": ["Infrared", "Microwaves", "Ultraviolet", "Visible"],
+      "correctIndex": 2,
+      "explanation": "UV radiation (Excimer laser) is used for precision cutting of the cornea.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_p8_q25",
+      "text": "Amper-Maxwell law is expressed as:",
+      "options": ["∮B·dl = μ₀(I + ε₀ dΦE/dt)", "∮E·dl = -dΦB/dt", "∮B·dA = 0", "∮E·dA = Q/ε₀"],
+      "correctIndex": 0,
+      "explanation": "This equation includes both conduction current and displacement current.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p8_q26",
+      "text": "The velocity of EM waves in a medium of refractive index 'n' is:",
+      "options": ["c/n", "cn", "c/n²", "c√n"],
+      "correctIndex": 0,
+      "explanation": "Refractive index n = c/v, so v = c/n.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p8_q27",
+      "text": "Which of the following cannot be polarized?",
+      "options": ["Radio waves", "Light waves", "Sound waves", "X-rays"],
+      "correctIndex": 2,
+      "explanation": "Only transverse waves can be polarized. Sound waves in air are longitudinal.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p8_q28",
+      "text": "The frequency of a wave remains constant when it passes from one medium to another.",
+      "options": ["True", "False", "Only for light", "Only for vacuum"],
+      "correctIndex": 0,
+      "explanation": "Frequency is a property of the source, whereas wavelength and speed change with the medium.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p8_q29",
+      "text": "High frequency radio waves (short wave band) are used for long distance communication by reflection from:",
+      "options": ["Troposphere", "Ionosphere", "Stratosphere", "Ozone layer"],
+      "correctIndex": 1,
+      "explanation": "The ionosphere contains free electrons and ions that reflect certain radio frequencies back to Earth.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p8_q30",
+      "text": "Which scientist showed that light is an electromagnetic wave?",
+      "options": ["Newton", "Huygens", "Maxwell", "Einstein"],
+      "correctIndex": 2,
+      "explanation": "Maxwell calculated the speed of EM waves and found it matched the experimental speed of light.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p8_q31",
+      "text": "Cellular phones use which part of the EM spectrum?",
+      "options": ["X-rays", "Radio waves/Microwaves", "Infrared", "Gamma rays"],
+      "correctIndex": 1,
+      "explanation": "Mobile phones operate in the radio/microwave frequency bands.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p8_q32",
+      "text": "Which radiation is used in satellite communication?",
+      "options": ["Microwaves", "Infrared", "UV rays", "Visible light"],
+      "correctIndex": 0,
+      "explanation": "Microwaves can penetrate the atmosphere and travel to satellites in orbit.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p8_q33",
+      "text": "Water purification systems often use bulbs emitting ________ to kill germs.",
+      "options": ["Visible light", "UV rays", "Infrared", "Radio waves"],
+      "correctIndex": 1,
+      "explanation": "UV radiation can destroy the DNA of bacteria and viruses, making it a powerful disinfectant.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p8_q34",
+      "text": "In an EM wave, if the electric field oscillates in the y-direction and the wave propagates in the z-direction, the magnetic field oscillates in the:",
+      "options": ["x-direction", "y-direction", "z-direction", "None"],
+      "correctIndex": 0,
+      "explanation": "E, B, and the direction of propagation are mutually perpendicular.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p8_q35",
+      "text": "The discovery of X-rays was made by:",
+      "options": ["Becquerel", "Roentgen", "Curie", "Fermi"],
+      "correctIndex": 1,
+      "explanation": "W.C. Roentgen discovered X-rays in 1895 while working with cathode rays.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p8_q36",
+      "text": "Radio waves are produced by:",
+      "options": ["Rapidly oscillating electrical circuits", "Atomic transitions", "Nuclear reactions", "Hot bodies"],
+      "correctIndex": 0,
+      "explanation": "Oscillating charges in antennas generate radio waves.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p8_q37",
+      "text": "Which radiation is emitted during radioactive decay of nuclei?",
+      "options": ["X-rays", "Gamma rays", "UV rays", "Microwaves"],
+      "correctIndex": 1,
+      "explanation": "Gamma rays are high-energy photons emitted when a nucleus transitions to a lower energy state.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p8_q38",
+      "text": "Night vision goggles detect:",
+      "options": ["UV rays", "X-rays", "Infrared radiation", "Visible light"],
+      "correctIndex": 2,
+      "explanation": "They amplify thermal radiation (Infrared) emitted by objects.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p8_q39",
+      "text": "Total energy density 'u' of an EM wave is:",
+      "options": ["ε₀E²", "B²/μ₀", "1/2 ε₀E² + 1/2 B²/μ₀", "ε₀E² + B²/μ₀"],
+      "correctIndex": 2,
+      "explanation": "It is the sum of the energy densities of the electric and magnetic fields.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p8_q40",
+      "text": "Electromagnetic waves are ________ in nature.",
+      "options": ["Longitudinal", "Transverse", "Stationary", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Since the field vectors oscillate perpendicular to the direction of propagation, they are transverse waves.",
+      "frequencyRating": 5
+    }
+  ]
+}

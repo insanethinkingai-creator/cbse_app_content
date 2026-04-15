@@ -1,0 +1,331 @@
+{
+  "id": "g12_bio_ch10",
+  "grade": "12",
+  "subject": "Biology",
+  "number": "10",
+  "title": "Biotechnology: Principles and Processes",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_b10_q1",
+      "text": "The definition of Biotechnology as 'The integration of natural science and organisms... for products and services' was given by:",
+      "options": ["WHO", "EFB (European Federation of Biotechnology)", "UNESCO", "IARI"],
+      "correctIndex": 1,
+      "explanation": "The EFB definition encompasses both traditional and modern molecular biotechnology.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q2",
+      "text": "The two core techniques that enabled modern biotechnology are:",
+      "options": ["Genetics and Evolution", "Genetic Engineering and Chemical Engineering", "Botany and Zoology", "Microbiology and Biochemistry"],
+      "correctIndex": 1,
+      "explanation": "Genetic engineering allows DNA manipulation, and chemical engineering ensures sterile environments for large-scale growth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q3",
+      "text": "Who constructed the first recombinant DNA molecule?",
+      "options": ["Watson and Crick", "Stanley Cohen and Herbert Boyer", "Arber and Nathans", "Meselson and Stahl"],
+      "correctIndex": 1,
+      "explanation": "In 1972, they linked an antibiotic resistance gene with a native plasmid of Salmonella typhimurium.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q4",
+      "text": "Restriction enzymes are also known as:",
+      "options": ["Molecular scissors", "Biological glue", "Vectors", "Markers"],
+      "correctIndex": 0,
+      "explanation": "They cut DNA at specific base sequences.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q5",
+      "text": "The first restriction endonuclease discovered was:",
+      "options": ["EcoRI", "Hind II", "BamHI", "PstI"],
+      "correctIndex": 1,
+      "explanation": "Hind II always cuts DNA at a specific six base pair sequence.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q6",
+      "text": "In the naming of EcoRI, the letter 'R' stands for:",
+      "options": ["Restriction", "The species name", "The strain of the bacterium", "The order of discovery"],
+      "correctIndex": 2,
+      "explanation": "E comes from genus Escherichia, co from species coli, and R from the strain RY 13.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q7",
+      "text": "Restriction enzymes belong to a larger class of enzymes called:",
+      "options": ["Polymerases", "Nucleases", "Ligases", "Transferases"],
+      "correctIndex": 1,
+      "explanation": "Nucleases are divided into exonucleases (cut at ends) and endonucleases (cut at specific internal sites).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q8",
+      "text": "The specific sequence of DNA recognized by a restriction enzyme is called:",
+      "options": ["Promoter", "Palindromic nucleotide sequence", "Poly-A tail", "Exon"],
+      "correctIndex": 1,
+      "explanation": "A palindrome reads the same on the two strands when reading in the same direction (5' to 3').",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q9",
+      "text": "EcoRI produces 'sticky ends' by cutting between which bases?",
+      "options": ["G and A", "A and T", "C and G", "T and C"],
+      "correctIndex": 0,
+      "explanation": "It cuts between G and A when the sequence GAATTC is present.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q10",
+      "text": "The enzyme used to join DNA fragments is:",
+      "options": ["DNA Polymerase", "DNA Ligase", "Helicase", "Primase"],
+      "correctIndex": 1,
+      "explanation": "Ligase creates phosphodiester bonds between the sugar-phosphate backbones of DNA fragments.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q11",
+      "text": "DNA fragments are negatively charged and move towards the ________ in electrophoresis.",
+      "options": ["Anode (+)", "Cathode (-)", "Center", "Top"],
+      "correctIndex": 0,
+      "explanation": "Opposite charges attract; negative DNA moves through the gel towards the positive electrode.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q12",
+      "text": "The matrix most commonly used in gel electrophoresis is:",
+      "options": ["Agarose", "Silica", "Polyacrylamide", "Starch"],
+      "correctIndex": 0,
+      "explanation": "Agarose is a natural polymer extracted from sea weeds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q13",
+      "text": "DNA fragments can be visualized after staining with ________ and exposure to UV light.",
+      "options": ["Methylene blue", "Ethidium bromide", "Safranin", "Acetocarmine"],
+      "correctIndex": 1,
+      "explanation": "Ethidium bromide intercalates with DNA and glows bright orange under UV light.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q14",
+      "text": "The process of extracting DNA fragments from the agarose gel is called:",
+      "options": ["Elution", "Transformation", "Transduction", "Annealing"],
+      "correctIndex": 0,
+      "explanation": "Elution involves cutting the band out and extracting the DNA from the gel piece.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q15",
+      "text": "Which of the following is essential for a cloning vector?",
+      "options": ["Origin of replication (ori)", "Selectable marker", "Cloning sites", "All of these"],
+      "correctIndex": 3,
+      "explanation": "These features ensure DNA can be replicated and identified in the host cell.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q16",
+      "text": "Which selectable marker is present in the plasmid pBR322?",
+      "options": ["Ampicillin resistance gene", "Tetracycline resistance gene", "Both 1 and 2", "LacZ gene"],
+      "correctIndex": 2,
+      "explanation": "pBR322 contains genes for resistance against two antibiotics, helping in selection.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q17",
+      "text": "The method of using a 'Gene Gun' to introduce DNA is suitable for:",
+      "options": ["Animal cells", "Bacteria", "Plant cells", "Viruses"],
+      "correctIndex": 2,
+      "explanation": "Also called biolistics, it bombards plant cells with gold or tungsten particles coated with DNA.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q18",
+      "text": "In 'Insertional Inactivation', recombinants are identified by their failure to produce color in the presence of:",
+      "options": ["X-gal", "Ampicillin", "Tetracycline", "Ethidium bromide"],
+      "correctIndex": 0,
+      "explanation": "Interruption of the beta-galactosidase gene prevents the blue color production, leaving recombinants white.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q19",
+      "text": "Which organism is commonly used as a 'natural genetic engineer' for plant cells?",
+      "options": ["E. coli", "Agrobacterium tumefaciens", "Thermus aquaticus", "Salmonella"],
+      "correctIndex": 1,
+      "explanation": "It transfers a piece of DNA (T-DNA) into the plant genome to transform normal cells into tumor cells.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q20",
+      "text": "To make host cells 'competent' to take up DNA, they are treated with a specific concentration of:",
+      "options": ["Sodium ions", "Divalent cations like Calcium", "Potassium ions", "UV light"],
+      "correctIndex": 1,
+      "explanation": "Calcium treatment followed by heat shock facilitates the entry of plasmid into the bacterium.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q21",
+      "text": "PCR stands for:",
+      "options": ["Protein Chain Reaction", "Polymerase Chain Reaction", "Polymerized Cloning Result", "Primary Cell Replication"],
+      "correctIndex": 1,
+      "explanation": "PCR is used to amplify a specific segment of DNA into billions of copies.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q22",
+      "text": "The correct sequence of steps in a single cycle of PCR is:",
+      "options": ["Annealing -> Denaturation -> Extension", "Denaturation -> Annealing -> Extension", "Extension -> Annealing -> Denaturation", "Denaturation -> Extension -> Annealing"],
+      "correctIndex": 1,
+      "explanation": "Denaturation separates strands, Annealing binds primers, and Extension synthesizes new DNA.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q23",
+      "text": "Taq polymerase is used in PCR because it is:",
+      "options": ["Very fast", "Thermostable (heat resistant)", "Cheap", "Found in humans"],
+      "correctIndex": 1,
+      "explanation": "It remains active during the high temperature (94°C) denaturation step.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q24",
+      "text": "Thermus aquaticus is a:",
+      "options": ["Fungus", "Bacterium", "Virus", "Plant"],
+      "correctIndex": 1,
+      "explanation": "It is a bacterium that lives in hot springs, from which Taq polymerase is isolated.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q25",
+      "text": "Large scale production of recombinant proteins is done in:",
+      "options": ["Test tubes", "Petri dishes", "Bioreactors", "Greenhouses"],
+      "correctIndex": 2,
+      "explanation": "Bioreactors provide optimal conditions (temp, pH, oxygen) for large-scale cell growth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q26",
+      "text": "Downstream processing includes:",
+      "options": ["Separation and Purification", "Cloning", "PCR", "Transformation"],
+      "correctIndex": 0,
+      "explanation": "It refers to the recovery and purification of the biosynthetic product.",
+      "explanation": "It refers to the recovery and purification of the biosynthetic product.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q27",
+      "text": "The most commonly used bioreactors are of:",
+      "options": ["Stirred-tank type", "Solid state type", "Closed loop", "None of these"],
+      "correctIndex": 0,
+      "explanation": "Stirred-tank bioreactors ensure even mixing and oxygen availability throughout.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q28",
+      "text": "Chitinase enzyme is used to isolate DNA from:",
+      "options": ["Bacteria", "Plants", "Fungi", "Animals"],
+      "correctIndex": 2,
+      "explanation": "It breaks down the chitin present in fungal cell walls.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b10_q29",
+      "text": "Precipitation of DNA after its isolation is achieved by adding:",
+      "options": ["Hot water", "Chilled Ethanol", "Hydrochloric acid", "Ether"],
+      "correctIndex": 1,
+      "explanation": "DNA is insoluble in cold ethanol and appears as fine threads.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q30",
+      "text": "Lysozyme is used to break the cell wall of:",
+      "options": ["Plants", "Bacteria", "Fungi", "Algae"],
+      "correctIndex": 1,
+      "explanation": "Lysozyme digests the peptidoglycan in bacterial cell walls.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b10_q31",
+      "text": "The DNA polymerase used in PCR extends the primers using:",
+      "options": ["Ribonucleotides", "Deoxynucleotides", "Amino acids", "Peptides"],
+      "correctIndex": 1,
+      "explanation": "dNTPs are the building blocks for the new DNA strands.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b10_q32",
+      "text": "Which part of the stirred-tank bioreactor facilitates oxygen transfer?",
+      "options": ["Agitator system", "Sparger", "Foam breaker", "pH control system"],
+      "correctIndex": 1,
+      "explanation": "The sparger bubbles air through the medium to increase the surface area for oxygen.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_b10_q33",
+      "text": "A 'Chimeric DNA' is another name for:",
+      "options": ["Native DNA", "Recombinant DNA", "Mitochondrial DNA", "Viral RNA"],
+      "correctIndex": 1,
+      "explanation": "It is DNA formed by combining sequences from different sources.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_b10_q34",
+      "text": "Which of the following describes 'micro-injection'?",
+      "options": ["DNA is bombarded on cells", "DNA is injected directly into the nucleus of an animal cell", "Cells are dipped in DNA", "Viruses carry the DNA"],
+      "correctIndex": 1,
+      "explanation": "It uses a tiny needle to insert DNA into an egg or embryo.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b10_q35",
+      "text": "In agarose gel electrophoresis, smaller DNA fragments move:",
+      "options": ["Slower", "Farther/Faster", "Not at all", "Towards the negative end"],
+      "correctIndex": 1,
+      "explanation": "Smaller fragments navigate the gel pores more easily than larger ones.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q36",
+      "text": "Palindromic sequences are usually ________ base pairs long.",
+      "options": ["2-4", "4-8", "10-20", "100+"],
+      "correctIndex": 1,
+      "explanation": "Most type II restriction enzymes recognize 4, 6, or 8 bp sequences.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b10_q37",
+      "text": "Plasmid is an extrachromosomal DNA found in:",
+      "options": ["Eukaryotic nucleus", "Bacteria", "Viruses", "Ribosomes"],
+      "correctIndex": 1,
+      "explanation": "Plasmids are circular, self-replicating DNA molecules in bacteria.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q38",
+      "text": "The term 'Disarmed Pathogen' vector refers to:",
+      "options": ["A virus that cannot cause disease but can still deliver DNA", "A bacterium with no DNA", "A broken syringe", "A dead microbe"],
+      "correctIndex": 0,
+      "explanation": "The harmful genes are removed so the vector safely transfers the desired gene.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b10_q39",
+      "text": "The process of 'Annealing' in PCR involves:",
+      "options": ["Heating DNA to 94°C", "Cooling to allow primers to bind to DNA template", "Synthesizing new DNA", "Adding ligase"],
+      "correctIndex": 1,
+      "explanation": "Primers bind to the complementary sequences on the single-stranded DNA.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b10_q40",
+      "text": "Which tool is used to cut out a specific DNA band from a gel?",
+      "options": ["Scalpel", "PCR", "Ligase", "Centrifuge"],
+      "correctIndex": 0,
+      "explanation": "A clean scalpel is used to physically excise the gel slice containing the DNA of interest.",
+      "frequencyRating": 2
+    }
+  ]
+}

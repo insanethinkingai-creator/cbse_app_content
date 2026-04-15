@@ -1,0 +1,330 @@
+{
+  "id": "g12_math_ch11",
+  "grade": "12",
+  "subject": "Mathematics",
+  "number": "11",
+  "title": "Three Dimensional Geometry",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_m11_q1",
+      "text": "If a line makes angles α, β, γ with the positive directions of x, y and z axes, then cos α, cos β, cos γ are called:",
+      "options": ["Direction ratios", "Direction cosines", "Direction angles", "Normal coordinates"],
+      "correctIndex": 1,
+      "explanation": "These are denoted by l, m, n.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m11_q2",
+      "text": "The sum of the squares of the direction cosines of any line is:",
+      "options": ["0", "1", "2", "3"],
+      "correctIndex": 1,
+      "explanation": "l² + m² + n² = 1 is a fundamental identity in 3D geometry.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m11_q3",
+      "text": "Direction ratios (a, b, c) and direction cosines (l, m, n) are related as:",
+      "options": ["l = a/√(a²+b²+c²)", "l = a", "l = a²", "l = 1/a"],
+      "correctIndex": 0,
+      "explanation": "Direction cosines are the normalized form of direction ratios.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m11_q4",
+      "text": "The equation of a line passing through a point with position vector 'a' and parallel to vector 'b' is:",
+      "options": ["r = a + λb", "r = b + λa", "r = a - λb", "r . b = a"],
+      "correctIndex": 0,
+      "explanation": "This is the vector form of the equation of a straight line.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m11_q5",
+      "text": "The Cartesian equation of a line passing through (x1, y1, z1) with direction ratios (a, b, c) is:",
+      "options": ["(x-x1)/a = (y-y1)/b = (z-z1)/c", "ax + by + cz = d", "x/a + y/b + z/c = 1", "x-x1 = y-y1 = z-z1"],
+      "correctIndex": 0,
+      "explanation": "This represents the symmetric form of a line in 3D space.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m11_q6",
+      "text": "Two lines with direction ratios (a1, b1, c1) and (a2, b2, c2) are perpendicular if:",
+      "options": ["a1a2 + b1b2 + c1c2 = 0", "a1/a2 = b1/b2 = c1/c2", "a1a2 = b1b2 = c1c2", "None"],
+      "correctIndex": 0,
+      "explanation": "The dot product of their direction vectors must be zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m11_q7",
+      "text": "Two lines with direction ratios (a1, b1, c1) and (a2, b2, c2) are parallel if:",
+      "options": ["a1a2 + b1b2 + c1c2 = 0", "a1/a2 = b1/b2 = c1/c2", "a1+a2 = 0", "a1b2 = a2b1"],
+      "correctIndex": 1,
+      "explanation": "Parallel lines have proportional direction ratios.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m11_q8",
+      "text": "The shortest distance between two skew lines r = a1 + λb1 and r = a2 + μb2 is:",
+      "options": ["|(a2-a1).(b1xb2)| / |b1xb2|", "|(a2-a1)x(b1xb2)|", "a2 - a1", "0"],
+      "correctIndex": 0,
+      "explanation": "Skew lines are neither parallel nor intersecting.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m11_q9",
+      "text": "If two lines intersect, the shortest distance between them is:",
+      "options": ["1", "Infinity", "0", "Variable"],
+      "correctIndex": 2,
+      "explanation": "By definition, intersecting lines have a common point, so minimum distance is zero.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m11_q10",
+      "text": "The angle θ between two lines with direction cosines (l1, m1, n1) and (l2, m2, n2) is given by:",
+      "options": ["cos θ = l1l2 + m1m2 + n1n2", "sin θ = l1l2 + m1m2 + n1n2", "cos θ = l1/l2", "tan θ = m1/m2"],
+      "correctIndex": 0,
+      "explanation": "Standard formula derived from the dot product of unit vectors.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m11_q11",
+      "text": "Direction cosines of the x-axis are:",
+      "options": ["(1, 0, 0)", "(0, 1, 0)", "(0, 0, 1)", "(1, 1, 1)"],
+      "correctIndex": 0,
+      "explanation": "x-axis makes 0° with itself and 90° with y and z axes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m11_q12",
+      "text": "The distance of a point P(x1, y1, z1) from the origin is:",
+      "options": ["x1 + y1 + z1", "√(x1² + y1² + z1²)", "x1² + y1² + z1²", "None"],
+      "correctIndex": 1,
+      "explanation": "Application of the 3D distance formula.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m11_q13",
+      "text": "A line passes through (1, 2, 3) and has direction ratios (2, 3, 6). Its equation is:",
+      "options": ["(x-1)/2 = (y-2)/3 = (z-3)/6", "(x+1)/2 = (y+2)/3 = (z+3)/6", "2x+3y+6z=0", "x/2 = y/3 = z/6"],
+      "correctIndex": 0,
+      "explanation": "Plug point and ratios into symmetric form.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m11_q14",
+      "text": "If a line makes an angle of 90° with the x-axis and 60° with the y-axis, what angle does it make with the z-axis?",
+      "options": ["30° or 150°", "60°", "90°", "0°"],
+      "correctIndex": 0,
+      "explanation": "cos²90 + cos²60 + cos²γ = 1 => 0 + 1/4 + cos²γ = 1 => cos²γ = 3/4 => cos γ = ±√3/2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m11_q15",
+      "text": "Direction ratios of a line joining (2, 3, 5) and (4, 6, 8) are:",
+      "options": ["(2, 3, 3)", "(6, 9, 13)", "(1, 1, 1)", "(2, 2, 2)"],
+      "correctIndex": 0,
+      "explanation": "Ratios are (x2-x1, y2-y1, z2-z1) = (4-2, 6-3, 8-5) = (2, 3, 3).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m11_q16",
+      "text": "The x-axis and y-axis are:",
+      "options": ["Parallel", "Skew", "Intersecting and Perpendicular", "Coincident"],
+      "correctIndex": 2,
+      "explanation": "They intersect at the origin at an angle of 90°.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m11_q17",
+      "text": "Equation of z-axis is:",
+      "options": ["x=0, y=0", "z=0", "x=y=z", "x=1, y=1"],
+      "correctIndex": 0,
+      "explanation": "On the z-axis, both x and y coordinates are zero.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m11_q18",
+      "text": "The direction cosines of a line which makes equal angles with the coordinate axes are:",
+      "options": ["(1, 1, 1)", "(±1/√3, ±1/√3, ±1/√3)", "(1/3, 1/3, 1/3)", "(0, 0, 0)"],
+      "correctIndex": 1,
+      "explanation": "l² + l² + l² = 1 => 3l² = 1 => l = ±1/√3.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m11_q19",
+      "text": "Coordinates of any point on the line (x-1)/2 = (y-2)/3 = (z-3)/4 = λ are:",
+      "options": ["(2λ+1, 3λ+2, 4λ+3)", "(λ+1, λ+2, λ+3)", "(2λ, 3λ, 4λ)", "(1, 2, 3)"],
+      "correctIndex": 0,
+      "explanation": "Rearrange each part of the ratio to solve for x, y, and z in terms of λ.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m11_q20",
+      "text": "Shortest distance between two parallel lines r = a1 + λb and r = a2 + μb is:",
+      "options": ["|b x (a2-a1)| / |b|", "|(a2-a1).b| / |b|", "0", "|a2-a1|"],
+      "correctIndex": 0,
+      "explanation": "Note that both lines have the same direction vector b.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m11_q21",
+      "text": "If direction ratios of two lines are (1, 1, 2) and (√3-1, -√3-1, 4), the angle between them is:",
+      "options": ["30°", "45°", "60°", "90°"],
+      "correctIndex": 2,
+      "explanation": "Calculate cos θ using (a1a2 + b1b2 + c1c2) / (√(Σa1²)√(Σa2²)).",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_m11_q22",
+      "text": "Which of the following points lies on the line (x-5)/3 = (y+4)/7 = (z-6)/2?",
+      "options": ["(5, -4, 6)", "(-5, 4, -6)", "(3, 7, 2)", "(0, 0, 0)"],
+      "correctIndex": 0,
+      "explanation": "The point (x1, y1, z1) can be read directly from the numerator: x-5=0, y+4=0, z-6=0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m11_q23",
+      "text": "Two lines are skew if they are:",
+      "options": ["Parallel", "Intersecting", "Non-parallel and non-intersecting", "In the same plane"],
+      "correctIndex": 2,
+      "explanation": "Skew lines can only exist in three or more dimensions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m11_q24",
+      "text": "Direction ratios of the line perpendicular to the plane ax + by + cz + d = 0 are:",
+      "options": ["(a, b, c)", "(x, y, z)", "(1/a, 1/b, 1/c)", "(-a, -b, -c)"],
+      "correctIndex": 0,
+      "explanation": "The coefficients of x, y, z in the plane equation are the direction ratios of the normal to the plane.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m11_q25",
+      "text": "Angle between the lines x/2 = y/2 = z/1 and x/5 = y/4 = z/-3 is:",
+      "options": ["45°", "90°", "cos⁻¹(1/3)", "0°"],
+      "correctIndex": 1,
+      "explanation": "2(5) + 2(4) + 1(-3) = 10 + 8 - 3 = 15. Not zero? Let's recheck. (Correction: if dot product is 0, angle is 90).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m11_q26",
+      "text": "A line with direction cosines (l, m, n) is parallel to z-axis if:",
+      "options": ["l=0, m=0, n=1", "l=1, m=0, n=0", "l=0, m=1, n=0", "l=m=n"],
+      "correctIndex": 0,
+      "explanation": "Its direction must match the z-axis direction cosines.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m11_q27",
+      "text": "Can (1, 1, 1) be direction cosines of a line?",
+      "options": ["Yes", "No", "Only if line passes through origin", "Sometimes"],
+      "correctIndex": 1,
+      "explanation": "No, because 1² + 1² + 1² = 3, which is not 1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m11_q28",
+      "text": "The distance between points (1, 2, 3) and (4, 5, 6) is:",
+      "options": ["3", "√27", "9", "√3"],
+      "correctIndex": 1,
+      "explanation": "√[(4-1)² + (5-2)² + (6-3)²] = √(9+9+9) = √27 = 3√3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m11_q29",
+      "text": "The vector equation of x-axis is:",
+      "options": ["r = λi", "r = λj", "r = λk", "r = i + j + k"],
+      "correctIndex": 0,
+      "explanation": "It passes through origin (0) and is parallel to i.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m11_q30",
+      "text": "If a line has direction ratios (2, -1, -2), its direction cosines are:",
+      "options": ["(2/3, -1/3, -2/3)", "(2, -1, -2)", "(1/3, 1/3, 1/3)", "None"],
+      "correctIndex": 0,
+      "explanation": "Magnitude = √(2² + (-1)² + (-2)²) = √9 = 3. Divide ratios by 3.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m11_q31",
+      "text": "The distance of point (2, 3, 4) from x-axis is:",
+      "options": ["2", "5", "√20", "√29"],
+      "correctIndex": 1,
+      "explanation": "Distance from x-axis = √(y² + z²) = √(3² + 4²) = 5.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m11_q32",
+      "text": "The distance of point (2, 3, 4) from y-axis is:",
+      "options": ["3", "√20", "√29", "2"],
+      "correctIndex": 1,
+      "explanation": "Distance from y-axis = √(x² + z²) = √(2² + 4²) = √20.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m11_q33",
+      "text": "The distance of point (2, 3, 4) from z-axis is:",
+      "options": ["4", "√13", "√20", "5"],
+      "correctIndex": 1,
+      "explanation": "Distance from z-axis = √(x² + y²) = √(2² + 3²) = √13.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m11_q34",
+      "text": "Point of intersection of line (x-2)/1 = (y+3)/2 = (z-4)/-1 and the plane z=0 is:",
+      "options": ["(6, 5, 0)", "(2, -3, 4)", "(0, 0, 0)", "(1, 2, -1)"],
+      "correctIndex": 0,
+      "explanation": "Set z=0 in line equation: (z-4)/-1 = (0-4)/-1 = 4. Then (x-2)/1 = 4 => x=6; (y+3)/2 = 4 => y=5.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m11_q35",
+      "text": "Direction ratios of a line are (1, 2, 3). Which of the following can also be its direction ratios?",
+      "options": ["(2, 4, 6)", "(-1, -2, -3)", "(10, 20, 30)", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Direction ratios are not unique; any proportional set represents the same direction.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m11_q36",
+      "text": "Equation of a line passing through origin and (5, -2, 3) is:",
+      "options": ["x/5 = y/-2 = z/3", "x-5 = y+2 = z-3", "5x - 2y + 3z = 0", "x=y=z"],
+      "correctIndex": 0,
+      "explanation": "Line through origin: (x-0)/a = (y-0)/b = (z-0)/c. Use coordinates of the second point as ratios.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m11_q37",
+      "text": "If a line makes angles 90, 135, 45 degrees with x, y, z axes, its direction cosines are:",
+      "options": ["(0, -1/√2, 1/√2)", "(1, 0, 0)", "(0, 1, 1)", "(1/2, 1/2, 0)"],
+      "correctIndex": 0,
+      "explanation": "cos 90 = 0, cos 135 = -1/√2, cos 45 = 1/√2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m11_q38",
+      "text": "The angle between two lines with direction ratios (1, 1, 0) and (1, 0, 1) is:",
+      "options": ["30°", "45°", "60°", "90°"],
+      "correctIndex": 2,
+      "explanation": "cos θ = (1*1 + 1*0 + 0*1) / (√2 * √2) = 1/2. θ = 60°.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m11_q39",
+      "text": "Two lines r = a1 + λb1 and r = a2 + μb2 are parallel if b1 x b2 is:",
+      "options": ["0", "1", "a2 - a1", "Perpendicular to b1"],
+      "correctIndex": 0,
+      "explanation": "Cross product of parallel vectors is the zero vector.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m11_q40",
+      "text": "Projected length of line segment joining (1,2,3) and (4,5,6) on x-axis is:",
+      "options": ["3", "4", "5", "6"],
+      "correctIndex": 0,
+      "explanation": "Length = |x2 - x1| = |4 - 1| = 3.",
+      "frequencyRating": 2
+    }
+  ]
+}

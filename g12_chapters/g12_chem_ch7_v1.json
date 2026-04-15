@@ -1,0 +1,330 @@
+{
+  "id": "g12_chem_ch7",
+  "grade": "12",
+  "subject": "Chemistry",
+  "number": "7",
+  "title": "The p-Block Elements",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_c7_q1",
+      "text": "Which of the following elements does not show allotropy in Group 15?",
+      "options": ["Nitrogen", "Phosphorus", "Arsenic", "Antimony"],
+      "correctIndex": 0,
+      "explanation": "Nitrogen is the only element in Group 15 that does not show allotropy under normal conditions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c7_q2",
+      "text": "The maximum covalency of Nitrogen is:",
+      "options": ["3", "4", "5", "6"],
+      "correctIndex": 1,
+      "explanation": "Nitrogen lacks d-orbitals in its valence shell, so its covalency is restricted to 4 (as in NH₄⁺).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c7_q3",
+      "text": "Which of the following Group 15 hydrides is the strongest reducing agent?",
+      "options": ["NH₃", "PH₃", "AsH₃", "BiH₃"],
+      "correctIndex": 3,
+      "explanation": "Reducing character increases down the group as M-H bond strength decreases; BiH₃ is least stable.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c7_q4",
+      "text": "Nitrogen is chemically inert at room temperature due to:",
+      "options": ["High electronegativity", "Small atomic size", "High bond dissociation enthalpy", "Presence of d-orbitals"],
+      "correctIndex": 2,
+      "explanation": "The triple bond (N≡N) is extremely strong and requires high energy to break.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c7_q5",
+      "text": "In the Haber process for ammonia, the catalyst used is:",
+      "options": ["Pt", "V₂O₅", "Iron oxide with Mo", "Ni"],
+      "correctIndex": 2,
+      "explanation": "Finely divided iron with small amounts of K₂O and Al₂O₃ (previously Mo) is used as a catalyst.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c7_q6",
+      "text": "The brown ring test is used for the detection of:",
+      "options": ["Nitrites", "Nitrates", "Ammonia", "Nitrogen dioxide"],
+      "correctIndex": 1,
+      "explanation": "It depends on the reduction of nitrate to nitric oxide, which reacts with Fe²⁺ to form a brown complex.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c7_q7",
+      "text": "Which allotrope of phosphorus is most reactive?",
+      "options": ["White Phosphorus", "Red Phosphorus", "Black Phosphorus", "Violet Phosphorus"],
+      "correctIndex": 0,
+      "explanation": "White phosphorus is highly reactive due to angular strain in P₄ molecules (bond angle 60°).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c7_q8",
+      "text": "PH₃ (Phosphine) has a ________ smell.",
+      "options": ["Rotten egg", "Rotten fish", "Pungent", "Odorless"],
+      "correctIndex": 1,
+      "explanation": "Pure phosphine is non-inflammable but it has a characteristic rotten fish odor.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c7_q9",
+      "text": "Which of the following is called 'laughing gas'?",
+      "options": ["NO", "N₂O", "NO₂", "N₂O₅"],
+      "correctIndex": 1,
+      "explanation": "Nitrous oxide (N₂O) is known as laughing gas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c7_q10",
+      "text": "Ozone is an allotrope of:",
+      "options": ["Sulfur", "Oxygen", "Nitrogen", "Carbon"],
+      "correctIndex": 1,
+      "explanation": "Ozone (O₃) is a triatomic allotrope of oxygen.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c7_q11",
+      "text": "In Group 16, the boiling point increases down the group from H₂S to H₂Te, but H₂O has an abnormally high boiling point due to:",
+      "options": ["High molecular weight", "Hydrogen bonding", "Covalent character", "Van der Waals forces"],
+      "correctIndex": 1,
+      "explanation": "Strong intermolecular hydrogen bonding in water makes it a liquid with a high boiling point.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c7_q12",
+      "text": "The catalyst used in the Contact Process for sulfuric acid is:",
+      "options": ["Pt", "Ni", "V₂O₅", "Fe"],
+      "correctIndex": 2,
+      "explanation": "Vanadium pentoxide (V₂O₅) is used for the oxidation of SO₂ to SO₃.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c7_q13",
+      "text": "Which of the following is a 'super-halogen'?",
+      "options": ["Fluorine", "Chlorine", "Bromine", "Iodine"],
+      "correctIndex": 0,
+      "explanation": "Fluorine is the most electronegative and reactive of all halogens.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c7_q14",
+      "text": "Electron gain enthalpy of Chlorine is higher than that of Fluorine because:",
+      "options": ["F is more electronegative", "Small size of F leads to inter-electronic repulsions", "F has d-orbitals", "Cl is a gas"],
+      "correctIndex": 1,
+      "explanation": "The small size of the 2p orbital in F makes the incoming electron feel significant repulsion from the electrons already present.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c7_q15",
+      "text": "Bleaching action of Chlorine is due to:",
+      "options": ["Reduction", "Oxidation", "Hydrogenation", "Hydrolysis"],
+      "correctIndex": 1,
+      "explanation": "Chlorine in the presence of moisture releases nascent oxygen, which oxidizes colored matter to colorless.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c7_q16",
+      "text": "Interhalogen compounds are more reactive than halogens (except F₂) because:",
+      "options": ["They are ionic", "X-X' bond is weaker than X-X bond", "They are symmetrical", "They are larger"],
+      "correctIndex": 1,
+      "explanation": "The polarity of the X-X' bond makes it easier to break than the non-polar X-X bond.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c7_q17",
+      "text": "Which noble gas has the lowest boiling point of any known substance?",
+      "options": ["Helium", "Neon", "Argon", "Krypton"],
+      "correctIndex": 0,
+      "explanation": "Helium (4.2 K) has the lowest boiling point due to extremely weak dispersion forces.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c7_q18",
+      "text": "The first noble gas compound synthesized by Neil Bartlett was:",
+      "options": ["XeF₂", "XeF₄", "Xe⁺PtF₆⁻", "XeO₃"],
+      "correctIndex": 2,
+      "explanation": "He reacted Xenon with PtF₆ after observing PtF₆ could oxidize molecular oxygen.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c7_q19",
+      "text": "The shape of XeF₂ is:",
+      "options": ["Bent", "Linear", "T-shaped", "Square planar"],
+      "correctIndex": 1,
+      "explanation": "According to VSEPR theory, it has 2 bond pairs and 3 lone pairs in equatorial positions, making it linear.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c7_q20",
+      "text": "The oxidation state of Oxygen in OF₂ is:",
+      "options": ["-2", "-1", "+1", "+2"],
+      "correctIndex": 3,
+      "explanation": "Since Fluorine is more electronegative than Oxygen, O shows a +2 oxidation state here.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c7_q21",
+      "text": "Which Group 15 element forms the most basic hydride?",
+      "options": ["N", "P", "As", "Sb"],
+      "correctIndex": 0,
+      "explanation": "NH₃ is the most basic because the lone pair is concentrated on a small nitrogen atom.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c7_q22",
+      "text": "Sulphuric acid is known as:",
+      "options": ["Oil of Vitriol", "Muriatic acid", "Aqua fortis", "King of metals"],
+      "correctIndex": 0,
+      "explanation": "It was historically obtained by distilling green vitriol and is called Oil of Vitriol.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c7_q23",
+      "text": "Which noble gas is used in diving equipment to dilute oxygen?",
+      "options": ["Argon", "Helium", "Neon", "Radon"],
+      "correctIndex": 1,
+      "explanation": "Helium is less soluble in blood than Nitrogen, preventing 'bends' when divers resurface.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c7_q24",
+      "text": "Catenation tendency is maximum in:",
+      "options": ["Oxygen", "Sulfur", "Selenium", "Tellurium"],
+      "correctIndex": 1,
+      "explanation": "The S-S bond is stronger than the O-O bond due to lone pair repulsions in O-O.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c7_q25",
+      "text": "Which of the following oxoacids of sulfur contains a peroxide link?",
+      "options": ["H₂SO₄", "H₂S₂O₇", "H₂S₂O₈", "H₂SO₃"],
+      "correctIndex": 2,
+      "explanation": "H₂S₂O₈ (Marshall's acid) contains a peroxo group (-O-O-).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c7_q26",
+      "text": "In the reaction of copper with dilute HNO₃, the gas evolved is:",
+      "options": ["NO", "NO₂", "N₂O", "H₂"],
+      "correctIndex": 0,
+      "explanation": "3Cu + 8dil.HNO₃ → 3Cu(NO₃)₂ + 2NO + 4H₂O.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c7_q27",
+      "text": "Noble gases are mostly chemically inert because:",
+      "options": ["They are monatomic", "High ionization enthalpy", "Completely filled valence shells", "Both 2 and 3"],
+      "correctIndex": 3,
+      "explanation": "They have stable ns²np⁶ configurations and very high energies are required to remove electrons.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c7_q28",
+      "text": "Helium is used in balloons because it is:",
+      "options": ["Cheap", "Combustible", "Non-combustible and light", "Found in atmosphere"],
+      "correctIndex": 2,
+      "explanation": "It is safer than Hydrogen because it does not burn.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c7_q29",
+      "text": "The hybridization of Xe in XeF₄ is:",
+      "options": ["sp³", "sp³d", "sp³d²", "d²sp³"],
+      "correctIndex": 2,
+      "explanation": "Xe has 4 bond pairs and 2 lone pairs, requiring 6 hybrid orbitals (sp³d²).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c7_q30",
+      "text": "Chlorine reacts with excess ammonia to give:",
+      "options": ["NCl₃ and HCl", "NH₄Cl and N₂", "N₂ and HCl", "NH₄Cl and NO₂"],
+      "correctIndex": 1,
+      "explanation": "8NH₃ (excess) + 3Cl₂ → 6NH₄Cl + N₂.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c7_q31",
+      "text": "PCl₅ exists in the solid state as:",
+      "options": ["PCl₅ molecules", "[PCl₄]⁺[PCl₆]⁻", "[PCl₃]⁺[PCl₇]⁻", "A polymer"],
+      "correctIndex": 1,
+      "explanation": "In solid state, it ionicizes into tetrahedral [PCl₄]⁺ and octahedral [PCl₆]⁻.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c7_q32",
+      "text": "Which halogen is a liquid at room temperature?",
+      "options": ["Fluorine", "Chlorine", "Bromine", "Iodine"],
+      "correctIndex": 2,
+      "explanation": "Bromine is a reddish-brown liquid at standard conditions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c7_q33",
+      "text": "Which element has the highest negative electron gain enthalpy in the periodic table?",
+      "options": ["Fluorine", "Chlorine", "Oxygen", "Sulfur"],
+      "correctIndex": 1,
+      "explanation": "Chlorine releases the most energy when it accepts an electron.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c7_q34",
+      "text": "HF is a liquid while other hydrogen halides are gases because of:",
+      "options": ["Strong covalent bond", "High bond energy", "Hydrogen bonding", "Van der Waals forces"],
+      "correctIndex": 2,
+      "explanation": "Strong H-bonding results in association of HF molecules.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c7_q35",
+      "text": "The strongest oxoacid among the following is:",
+      "options": ["HClO", "HClO₂", "HClO₃", "HClO₄"],
+      "correctIndex": 3,
+      "explanation": "Acidic strength increases with increase in the oxidation state of the central atom.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c7_q36",
+      "text": "Which of the following is an amphoteric oxide?",
+      "options": ["N₂O", "P₄O₁₀", "As₄O₆", "Bi₂O₃"],
+      "correctIndex": 2,
+      "explanation": "Oxides of As and Sb are amphoteric; N and P are acidic, Bi is basic.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c7_q37",
+      "text": "Aqua regia is a mixture of:",
+      "options": ["3 HCl + 1 HNO₃", "1 HCl + 3 HNO₃", "3 H₂SO₄ + 1 HCl", "1 H₂SO₄ + 3 HNO₃"],
+      "correctIndex": 0,
+      "explanation": "It is a 3:1 molar mixture of conc. HCl and conc. HNO₃ used to dissolve noble metals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c7_q38",
+      "text": "Which of the following is paramagnetic in gaseous state?",
+      "options": ["S₂", "O₂", "N₂", "Both 1 and 2"],
+      "correctIndex": 3,
+      "explanation": "In vapor state, sulfur exists as S₂ which has two unpaired electrons like O₂.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c7_q39",
+      "text": "Red phosphorus is less reactive than white phosphorus because:",
+      "options": ["It is polymeric", "It is monatomic", "It is ionic", "It has low melting point"],
+      "correctIndex": 0,
+      "explanation": "Red phosphorus consists of chains of P₄ tetrahedra linked together.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c7_q40",
+      "text": "The structure of white phosphorus is:",
+      "options": ["Planar", "Tetrahedral", "Linear", "Square"],
+      "correctIndex": 1,
+      "explanation": "It exists as discrete P₄ tetrahedral molecules.",
+      "frequencyRating": 5
+    }
+  ]
+}

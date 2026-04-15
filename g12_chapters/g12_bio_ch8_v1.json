@@ -1,0 +1,330 @@
+{
+  "id": "g12_bio_ch8",
+  "grade": "12",
+  "subject": "Biology",
+  "number": "8",
+  "title": "Human Health and Disease",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_b8_q1",
+      "text": "Health is defined as a state of complete ________ well-being.",
+      "options": ["Physical", "Mental", "Social", "All of these"],
+      "correctIndex": 3,
+      "explanation": "According to WHO, health is not just the absence of disease but total physical, mental, and social well-being.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q2",
+      "text": "Which of the following is a bacterial disease?",
+      "options": ["Common cold", "Malaria", "Typhoid", "Amoebiasis"],
+      "correctIndex": 2,
+      "explanation": "Typhoid is caused by Salmonella typhi, a bacterium.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q3",
+      "text": "Widal test is used for the diagnosis of:",
+      "options": ["AIDS", "Cancer", "Typhoid", "Pneumonia"],
+      "correctIndex": 2,
+      "explanation": "The Widal test detects antibodies against the Salmonella bacteria causing typhoid fever.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q4",
+      "text": "Common cold is caused by:",
+      "options": ["Rhino viruses", "Streptococcus", "Plasmodium", "Retrovirus"],
+      "correctIndex": 0,
+      "explanation": "Rhino viruses infect the nose and respiratory passage but not the lungs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q5",
+      "text": "Malaria is transmitted by the bite of:",
+      "options": ["Male Anopheles mosquito", "Female Anopheles mosquito", "Culex mosquito", "Aedes mosquito"],
+      "correctIndex": 1,
+      "explanation": "The female Anopheles mosquito acts as the vector for the Plasmodium parasite.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q6",
+      "text": "The infectious stage of Plasmodium for humans is:",
+      "options": ["Trophozoite", "Merozoite", "Sporozoite", "Gametocyte"],
+      "correctIndex": 2,
+      "explanation": "Sporozoites are injected into the human blood when an infected mosquito bites.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q7",
+      "text": "The malignant malaria is caused by:",
+      "options": ["P. vivax", "P. malariae", "P. falciparum", "P. ovale"],
+      "correctIndex": 2,
+      "explanation": "Plasmodium falciparum causes the most serious and often fatal type of malaria.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q8",
+      "text": "Amoebic dysentery (Amoebiasis) is caused by:",
+      "options": ["Entamoeba histolytica", "Ascaris", "Wuchereria", "Plasmodium"],
+      "correctIndex": 0,
+      "explanation": "It is a protozoan parasite found in the large intestine of humans.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q9",
+      "text": "Elephantiasis (Filariasis) is caused by:",
+      "options": ["Ascaris", "Wuchereria bancrofti", "Salmonella", "Ringworm"],
+      "correctIndex": 1,
+      "explanation": "The filarial worms cause chronic inflammation of the lymphatic vessels, usually of lower limbs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q10",
+      "text": "Ringworm is a ________ disease.",
+      "options": ["Bacterial", "Viral", "Fungal", "Protozoan"],
+      "correctIndex": 2,
+      "explanation": "Fungi belonging to genera Microsporum, Trichophyton, and Epidermophyton cause ringworm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q11",
+      "text": "The immunity present from birth is called:",
+      "options": ["Acquired immunity", "Innate immunity", "Passive immunity", "Cellular immunity"],
+      "correctIndex": 1,
+      "explanation": "Innate immunity is non-specific and provides barriers to entry of foreign agents.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q12",
+      "text": "Interferons are secreted by:",
+      "options": ["Bacteria", "Fungi", "Virus-infected cells", "Normal cells"],
+      "correctIndex": 2,
+      "explanation": "Interferons protect non-infected cells from further viral infection.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q13",
+      "text": "Which cells produce antibodies?",
+      "options": ["T-lymphocytes", "B-lymphocytes", "NK cells", "Macrophages"],
+      "correctIndex": 1,
+      "explanation": "B-cells produce an army of proteins (antibodies) into our blood to fight pathogens.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q14",
+      "text": "The antibody found in colostrum (mother's milk) is:",
+      "options": ["IgG", "IgM", "IgE", "IgA"],
+      "correctIndex": 3,
+      "explanation": "IgA provides passive immunity to the newborn baby.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q15",
+      "text": "Which of the following is an example of active immunity?",
+      "options": ["Injection of anti-tetanus serum", "Receiving antibodies through placenta", "Immunity developed after recovering from an infection", "Breastfeeding"],
+      "correctIndex": 2,
+      "explanation": "Active immunity is produced by the host's own body in response to antigens.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b8_q16",
+      "text": "Allergies are due to the release of chemicals like ________ from mast cells.",
+      "options": ["Histamine and Serotonin", "Adrenaline", "Insulin", "Dopamine"],
+      "correctIndex": 0,
+      "explanation": "These chemicals trigger the inflammatory response seen in allergies.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q17",
+      "text": "AIDS is caused by HIV, which belongs to the group:",
+      "options": ["Bacteriophages", "Retroviruses", "Adenoviruses", "Viroids"],
+      "correctIndex": 1,
+      "explanation": "Retroviruses have an RNA genome and use reverse transcriptase to replicate.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q18",
+      "text": "HIV attacks which cells in the human body?",
+      "options": ["B-cells", "Helper T-cells (TH)", "RBCs", "Platelets"],
+      "correctIndex": 1,
+      "explanation": "Destruction of helper T-lymphocytes leads to a progressive decrease in immunity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q19",
+      "text": "The diagnostic test for AIDS is:",
+      "options": ["Widal test", "ELISA", "Biopsy", "MRI"],
+      "correctIndex": 1,
+      "explanation": "Enzyme Linked Immuno-Sorbent Assay (ELISA) is a widely used screening test for HIV.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q20",
+      "text": "The property of normal cells by which they inhibit the growth of other cells is:",
+      "options": ["Cell division", "Contact inhibition", "Metastasis", "Apoptosis"],
+      "correctIndex": 1,
+      "explanation": "Cancer cells lose this property, leading to uncontrolled proliferation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q21",
+      "text": "The movement of cancer cells to distant sites through blood is called:",
+      "options": ["Benign growth", "Metastasis", "Malignancy", "Transformation"],
+      "correctIndex": 1,
+      "explanation": "Metastasis is the most feared property of malignant tumors.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q22",
+      "text": "Opioids like Heroin are obtained from:",
+      "options": ["Cannabis sativa", "Papaver somniferum", "Erythroxylum coca", "Atropa belladonna"],
+      "correctIndex": 1,
+      "explanation": "Heroin is a semi-synthetic derivative obtained by acetylation of morphine from the poppy plant.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q23",
+      "text": "Cannabinoids generally affect which system of the body?",
+      "options": ["Digestive system", "Respiratory system", "Cardiovascular system", "Excretory system"],
+      "correctIndex": 2,
+      "explanation": "These drugs are known for their effects on the heart and blood vessels.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b8_q24",
+      "text": "Cocaine is obtained from 'Coca' plant, which is native to:",
+      "options": ["India", "South America", "Africa", "Australia"],
+      "correctIndex": 1,
+      "explanation": "Erythroxylum coca is native to South America and interferes with dopamine transport.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b8_q25",
+      "text": "Tobacco contains nicotine which stimulates the ________ gland.",
+      "options": ["Thyroid", "Adrenal", "Pancreas", "Pituitary"],
+      "correctIndex": 1,
+      "explanation": "Nicotine triggers the release of adrenaline and nor-adrenaline, increasing blood pressure.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q26",
+      "text": "Cirrhosis of the liver is caused by chronic intake of:",
+      "options": ["Opium", "Cocaine", "Alcohol", "Tobacco"],
+      "correctIndex": 2,
+      "explanation": "Long-term alcohol abuse leads to severe liver damage and scarring.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q27",
+      "text": "Which of the following is an autoimmune disease?",
+      "options": ["Myasthenia gravis", "Rheumatoid arthritis", "Type I Diabetes", "All of these"],
+      "correctIndex": 3,
+      "explanation": "In autoimmune diseases, the body's immune system attacks its own cells.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b8_q28",
+      "text": "MALT (Mucosal Associated Lymphoid Tissue) constitutes about ________ percent of lymphoid tissue in humans.",
+      "options": ["10%", "25%", "50%", "75%"],
+      "correctIndex": 2,
+      "explanation": "MALT is found lining the major tracts (respiratory, digestive, urogenital).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_b8_q29",
+      "text": "Which of the following is a primary lymphoid organ?",
+      "options": ["Spleen", "Tonsils", "Bone marrow", "Peyer's patches"],
+      "correctIndex": 2,
+      "explanation": "Primary lymphoid organs (bone marrow and thymus) are where lymphocytes mature.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b8_q30",
+      "text": "In the structure of an antibody, how many light and heavy chains are present?",
+      "options": ["1L, 1H", "2L, 2H", "4L, 2H", "2L, 4H"],
+      "correctIndex": 1,
+      "explanation": "An antibody molecule is represented as H2L2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q31",
+      "text": "Pneumonia is an infection of the:",
+      "options": ["Nose", "Trachea", "Alveoli (lungs)", "Heart"],
+      "correctIndex": 2,
+      "explanation": "Alveoli get filled with fluid, leading to severe problems in respiration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q32",
+      "text": "Symptoms like internal bleeding, muscular pain, and fever after consuming contaminated water indicate:",
+      "options": ["Ascariasis", "Filariasis", "Malaria", "Typhoid"],
+      "correctIndex": 0,
+      "explanation": "Ascaris lumbricoides is an intestinal parasite transmitted through contaminated water and vegetables.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b8_q33",
+      "text": "Haemozoin is a toxic substance released during ________ which causes chills.",
+      "options": ["Amoebiasis", "Malaria", "Cancer", "AIDS"],
+      "correctIndex": 1,
+      "explanation": "It is released when RBCs rupture during the life cycle of Plasmodium.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q34",
+      "text": "The vector for Dengue and Chikungunya is:",
+      "options": ["Anopheles", "Culex", "Aedes", "Housefly"],
+      "correctIndex": 2,
+      "explanation": "Aedes aegypti mosquitoes spread these viral diseases.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q35",
+      "text": "Which immune response is responsible for graft rejection during organ transplant?",
+      "options": ["Humoral immune response", "Cell-mediated immune response (CMI)", "Innate immune response", "Passive immunity"],
+      "correctIndex": 1,
+      "explanation": "T-lymphocytes are responsible for CMI, which recognizes and attacks non-self tissue.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q36",
+      "text": "Cancer causing agents are called:",
+      "options": ["Pathogens", "Carcinogens", "Mutagens", "Antigens"],
+      "correctIndex": 1,
+      "explanation": "Physical, chemical, or biological agents that transform normal cells into cancerous cells.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b8_q37",
+      "text": "NACO stands for:",
+      "options": ["National AIDS Control Organisation", "National Air Control Office", "Nodal AIDS Care Order", "None"],
+      "correctIndex": 0,
+      "explanation": "NACO and NGOs work to educate people about AIDS prevention.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_b8_q38",
+      "text": "LSD is obtained from:",
+      "options": ["Cannabis", "Claviceps purpurea (Fungus)", "Poppy", "Coca"],
+      "correctIndex": 1,
+      "explanation": "Lysergic acid diethylamide (LSD) is a powerful hallucinogen.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_b8_q39",
+      "text": "Biological response modifiers like ________ are given to cancer patients.",
+      "options": ["Antibiotics", "Alpha-interferons", "Insulin", "Vaccines"],
+      "correctIndex": 1,
+      "explanation": "These help the immune system in identifying and destroying the tumor cells.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b8_q40",
+      "text": "Withdrawal syndrome is characterized by:",
+      "options": ["Anxiety and shakiness", "Nausea and sweating", "Relief when drug use is resumed", "All of these"],
+      "correctIndex": 3,
+      "explanation": "It occurs when a person suddenly stops using a substance they are addicted to.",
+      "frequencyRating": 5
+    }
+  ]
+}

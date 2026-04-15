@@ -1,0 +1,330 @@
+{
+  "id": "g12_chem_ch5",
+  "grade": "12",
+  "subject": "Chemistry",
+  "number": "5",
+  "title": "Coordination Compounds",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_c5_q1",
+      "text": "The primary valency of the central metal ion in [Co(NH₃)₆]Cl₃ is:",
+      "options": ["3", "6", "0", "9"],
+      "correctIndex": 0,
+      "explanation": "Primary valency corresponds to the oxidation state of the metal. Here Co is in +3 state to balance 3 Cl⁻ ions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c5_q2",
+      "text": "Which of the following ligands is an example of an ambidentate ligand?",
+      "options": ["H₂O", "NH₃", "SCN⁻", "en"],
+      "correctIndex": 2,
+      "explanation": "Ambidentate ligands like SCN⁻ can coordinate through two different atoms (S or N).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c5_q3",
+      "text": "The coordination number of Cr in [Cr(en)₃]³⁺ is:",
+      "options": ["3", "6", "4", "2"],
+      "correctIndex": 1,
+      "explanation": "Ethane-1,2-diamine (en) is a didentate ligand. 3 ligands × 2 donor sites = 6.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c5_q4",
+      "text": "According to Crystal Field Theory, for an octahedral complex with d⁴ configuration, if Δo < P, the configuration is:",
+      "options": ["t2g³ eg¹", "t2g⁴ eg⁰", "t2g² eg²", "eg⁴ t2g⁰"],
+      "correctIndex": 0,
+      "explanation": "If pairing energy (P) is greater than splitting (Δo), electrons will enter eg rather than pairing, leading to high spin.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c5_q5",
+      "text": "The IUPAC name of [Pt(NH₃)₂Cl(NO₂)] is:",
+      "options": ["Diamminechloronitritoplatinum(II)", "Diamminenitritochloroplatinum(II)", "Diamminechloronitroplatinum(II)", "Chloronitrodiammineplatinum(II)"],
+      "correctIndex": 0,
+      "explanation": "Ligands are named alphabetically: diammine, chloro, nitrito-N.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c5_q6",
+      "text": "Which type of isomerism is shown by [Co(NH₃)₅(SO₄)]Br and [Co(NH₃)₅Br]SO₄?",
+      "options": ["Linkage", "Coordination", "Ionisation", "Solvate"],
+      "correctIndex": 2,
+      "explanation": "These produce different ions (Br⁻ vs SO₄²⁻) in solution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c5_q7",
+      "text": "Optical isomerism is most commonly shown by:",
+      "options": ["Square planar complexes", "Tetrahedral complexes", "Octahedral complexes with chelating ligands", "Linear complexes"],
+      "correctIndex": 2,
+      "explanation": "Cis-isomers of octahedral complexes with didentate ligands lack a plane of symmetry.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c5_q8",
+      "text": "The shape of [Ni(CN)₄]²⁻ is:",
+      "options": ["Tetrahedral", "Square planar", "Octahedral", "Pyramidal"],
+      "correctIndex": 1,
+      "explanation": "CN⁻ is a strong field ligand causing dsp² hybridization in Ni²⁺.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c5_q9",
+      "text": "A complex with Δo > P is called:",
+      "options": ["High spin", "Low spin", "Inner orbital", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "When splitting is large, electrons pair up (low spin) using inner d-orbitals.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c5_q10",
+      "text": "Which of the following is a neutral ligand?",
+      "options": ["CN⁻", "CO", "C₂O₄²⁻", "Cl⁻"],
+      "correctIndex": 1,
+      "explanation": "Carbonyl (CO) is a neutral ligand; others are anionic.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c5_q11",
+      "text": "The magnetic moment of [NiCl₄]²⁻ is (Atomic no. Ni = 28):",
+      "options": ["0 BM", "2.82 BM", "1.73 BM", "5.92 BM"],
+      "correctIndex": 1,
+      "explanation": "Ni²⁺ is d⁸. Cl⁻ is weak, so it is sp³ tetrahedral with 2 unpaired electrons. μ = √[2(2+2)] = √8 ≈ 2.82.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c5_q12",
+      "text": "EDTA⁴⁻ is a ________ ligand.",
+      "options": ["Bidentate", "Tetradentate", "Hexadentate", "Unidentate"],
+      "correctIndex": 2,
+      "explanation": "EDTA has 4 oxygen and 2 nitrogen donor atoms.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c5_q13",
+      "text": "What is the EAN of Fe in [Fe(CN)₆]⁴⁻?",
+      "options": ["34", "35", "36", "37"],
+      "correctIndex": 2,
+      "explanation": "EAN = Z - ON + 2(CN) = 26 - 2 + 12 = 36.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c5_q14",
+      "text": "Linkage isomerism arises in complexes containing:",
+      "options": ["Didentate ligands", "Ambidentate ligands", "Neutral ligands", "Water molecules"],
+      "correctIndex": 1,
+      "explanation": "It occurs when a ligand can bind to the metal through different donor atoms.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c5_q15",
+      "text": "The complex [Co(NH₃)₄Cl₂]Cl shows:",
+      "options": ["Geometrical isomerism", "Optical isomerism", "Linkage isomerism", "No isomerism"],
+      "correctIndex": 0,
+      "explanation": "It exists in cis and trans forms.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c5_q16",
+      "text": "In crystal field splitting in tetrahedral complexes:",
+      "options": ["eg is higher than t2g", "t2g is higher than eg", "Splitting is greater than octahedral", "None"],
+      "correctIndex": 1,
+      "explanation": "In tetrahedral complexes, t2 orbitals (dxy, dyz, dzx) are raised higher in energy than e orbitals.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c5_q17",
+      "text": "Which of the following is most stable?",
+      "options": ["[Fe(H₂O)₆]³⁺", "[Fe(NH₃)₆]³⁺", "[Fe(C₂O₄)₃]³⁻", "[FeCl₆]³⁻"],
+      "correctIndex": 2,
+      "explanation": "The presence of chelating ligands (like oxalate) increases stability (Chelate effect).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c5_q18",
+      "text": "According to Werner, secondary valency is:",
+      "options": ["Ionizable", "Non-ionizable", "Equal to oxidation state", "Variable"],
+      "correctIndex": 1,
+      "explanation": "Secondary valency is non-ionizable and corresponds to the coordination number.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c5_q19",
+      "text": "The number of ions given by [Pt(NH₃)₄Cl₂]Cl₂ in water is:",
+      "options": ["2", "3", "4", "5"],
+      "correctIndex": 1,
+      "explanation": "It dissociates into one [Pt(NH₃)₄Cl₂]²⁺ ion and two Cl⁻ ions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c5_q20",
+      "text": "Fac-mer isomerism is associated with complexes of type:",
+      "options": ["[MA₄B₂]", "[MA₃B₃]", "[MA₂B₂]", "[MA₅B]"],
+      "correctIndex": 1,
+      "explanation": "Facial (fac) and Meridional (mer) isomers occur in octahedral complexes with MA₃B₃ stoichiometry.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c5_q21",
+      "text": "Which ligand is used for estimation of hardness of water?",
+      "options": ["Cl⁻", "en", "EDTA", "NH₃"],
+      "correctIndex": 2,
+      "explanation": "EDTA forms stable complexes with Ca²⁺ and Mg²⁺ ions responsible for hardness.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c5_q22",
+      "text": "The spectrochemical series is based on:",
+      "options": ["Werner theory", "VBT", "CFT", "Molecular Orbital Theory"],
+      "correctIndex": 2,
+      "explanation": "It arranges ligands in increasing order of their crystal field splitting energy (CFSE).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c5_q23",
+      "text": "Which ion is paramagnetic?",
+      "options": ["[Zn(NH₃)₄]²⁺", "[Cu(NH₃)₄]²⁺", "[Ag(NH₃)₂]⁺", "[Ni(CO)₄]"],
+      "correctIndex": 1,
+      "explanation": "Cu²⁺ is d⁹, having one unpaired electron. Others are d¹⁰ or have paired electrons.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c5_q24",
+      "text": "Synergic bonding is observed in:",
+      "options": ["Metal ammines", "Metal carbonyls", "Metal halides", "Metal hydrates"],
+      "correctIndex": 1,
+      "explanation": "Synergic bonding involves σ-donation from ligand and π-back donation from metal to ligand anti-bonding orbitals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c5_q25",
+      "text": "The correct order of field strength of ligands is:",
+      "options": ["Cl⁻ < F⁻ < CN⁻ < NH₃", "F⁻ < Cl⁻ < NH₃ < CN⁻", "Cl⁻ < F⁻ < NH₃ < CN⁻", "NH₃ < F⁻ < Cl⁻ < CN⁻"],
+      "correctIndex": 2,
+      "explanation": "Halides are weak field; CN⁻ is a strong field ligand.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c5_q26",
+      "text": "A homoleptic complex is one which:",
+      "options": ["Contains two metals", "Contains only one type of ligand", "Is neutral", "Is highly stable"],
+      "correctIndex": 1,
+      "explanation": "Example: [Co(NH₃)₆]³⁺. If it has different types of ligands, it is heteroleptic.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c5_q27",
+      "text": "Chlorophyll is a coordination compound of:",
+      "options": ["Fe", "Mg", "Co", "Zn"],
+      "correctIndex": 1,
+      "explanation": "Chlorophyll contains a magnesium porphyrin complex.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c5_q28",
+      "text": "Hemoglobin contains coordination compound of:",
+      "options": ["Fe", "Mg", "Cu", "Co"],
+      "correctIndex": 0,
+      "explanation": "Hemoglobin contains heme, which is an iron-porphyrin complex.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c5_q29",
+      "text": "Vitamin B₁₂ contains coordination compound of:",
+      "options": ["Fe", "Mg", "Co", "Mn"],
+      "correctIndex": 2,
+      "explanation": "Vitamin B₁₂ (Cyanocobalamin) contains cobalt.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c5_q30",
+      "text": "Wilkinson's catalyst is used in:",
+      "options": ["Hydrogenation", "Oxidation", "Reduction", "Hydrolysis"],
+      "correctIndex": 0,
+      "explanation": "[(Ph₃P)₃RhCl] is used for the selective hydrogenation of alkenes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c5_q31",
+      "text": "In [Ni(CO)₄], the hybridization of Ni is:",
+      "options": ["sp³", "dsp²", "d²sp³", "sp³d²"],
+      "correctIndex": 0,
+      "explanation": "Ni is in 0 oxidation state (d⁸s²). CO is strong, causing pairing and d¹⁰ state. Hybridization is sp³.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c5_q32",
+      "text": "Cis-platin is used in the treatment of:",
+      "options": ["Malaria", "Cancer", "Diabetes", "Tuberculosis"],
+      "correctIndex": 1,
+      "explanation": "Cis-[Pt(NH₃)₂Cl₂] is a common chemotherapy drug.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c5_q33",
+      "text": "Which of the following is an inner orbital complex?",
+      "options": ["[CoF₆]³⁻", "[Co(NH₃)₆]³⁺", "[Ni(NH₃)₆]²⁺", "[Fe(H₂O)₆]³⁺"],
+      "correctIndex": 1,
+      "explanation": "NH₃ is a strong field ligand for Co³⁺, using 3d orbitals for d²sp³ hybridization.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c5_q34",
+      "text": "The unit of crystal field splitting energy is:",
+      "options": ["cm⁻¹", "kJ/mol", "eV", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Energy can be expressed in various units including wave numbers (cm⁻¹).",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_c5_q35",
+      "text": "The coordination number of metal in [M(en)₂(C₂O₄)]Cl is:",
+      "options": ["4", "5", "6", "3"],
+      "correctIndex": 2,
+      "explanation": "en (bidentate) × 2 + C₂O₄ (bidentate) × 1 = 4 + 2 = 6.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c5_q36",
+      "text": "Optical isomerism is NOT possible in:",
+      "options": ["Cis-[Co(en)₂Cl₂]⁺", "Trans-[Co(en)₂Cl₂]⁺", "[Co(en)₃]³⁺", "[Cr(ox)₃]³⁻"],
+      "correctIndex": 1,
+      "explanation": "The trans isomer has a center of symmetry and is optically inactive (achiral).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c5_q37",
+      "text": "The ratio of Δt to Δo is approximately:",
+      "options": ["1", "0.5", "4/9", "9/4"],
+      "correctIndex": 2,
+      "explanation": "Δt = 4/9 Δo. Splitting is much smaller in tetrahedral fields.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c5_q38",
+      "text": "Ligands are ________ in nature.",
+      "options": ["Lewis acids", "Lewis bases", "Neutral", "Both A and B"],
+      "correctIndex": 1,
+      "explanation": "Ligands donate a pair of electrons to the metal atom, acting as Lewis bases.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c5_q39",
+      "text": "The complex [Fe(CN)₆]³⁻ is:",
+      "options": ["Diamagnetic", "Paramagnetic", "Ferromagnetic", "Antiferromagnetic"],
+      "correctIndex": 1,
+      "explanation": "Fe³⁺ is d⁵. CN⁻ is strong, so configuration is t2g⁵ with one unpaired electron.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c5_q40",
+      "text": "In IUPAC naming, the name of anionic ligand Cl⁻ is:",
+      "options": ["Chlorine", "Chloride", "Chlorido", "Chlorine atom"],
+      "correctIndex": 2,
+      "explanation": "Anionic ligands end in '-o'.",
+      "frequencyRating": 5
+    }
+  ]
+}

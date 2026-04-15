@@ -1,0 +1,330 @@
+{
+  "id": "g12_math_ch9",
+  "grade": "12",
+  "subject": "Mathematics",
+  "number": "9",
+  "title": "Differential Equations",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_m9_q1",
+      "text": "The order of a differential equation is defined as:",
+      "options": ["The highest power of the independent variable", "The order of the highest order derivative present", "The sum of all powers of derivatives", "The number of variables"],
+      "correctIndex": 1,
+      "explanation": "The order is the highest derivative that appearing in the equation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m9_q2",
+      "text": "The degree of a differential equation is the power of the highest order derivative, provided the equation is a ________ in its derivatives.",
+      "options": ["Linear function", "Polynomial", "Logarithmic function", "Exponential function"],
+      "correctIndex": 1,
+      "explanation": "A differential equation must be expressible as a polynomial in its derivatives to have a defined degree.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m9_q3",
+      "text": "What is the order and degree of (d²y/dx²)³ + (dy/dx)² + sin(dy/dx) + 1 = 0?",
+      "options": ["Order 2, Degree 3", "Order 2, Degree Not Defined", "Order 3, Degree 2", "Order 1, Degree 3"],
+      "correctIndex": 1,
+      "explanation": "The highest derivative is 2nd order. The degree is not defined because the equation is not a polynomial in derivatives due to the sin(dy/dx) term.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m9_q4",
+      "text": "A general solution of a differential equation contains ________ arbitrary constants.",
+      "options": ["Zero", "One", "Equal to the order of the equation", "Infinity"],
+      "correctIndex": 2,
+      "explanation": "The number of arbitrary constants in a general solution matches the order of the differential equation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m9_q5",
+      "text": "A particular solution of a differential equation contains ________ arbitrary constants.",
+      "options": ["Zero", "One", "Equal to the order", "Two"],
+      "correctIndex": 0,
+      "explanation": "A particular solution is obtained by assigning specific values to the arbitrary constants of the general solution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m9_q6",
+      "text": "Which method is used to solve dy/dx = f(x)g(y)?",
+      "options": ["Homogeneous method", "Variable Separable method", "Integrating Factor method", "Substitution method"],
+      "correctIndex": 1,
+      "explanation": "We can write dy/g(y) = f(x) dx and integrate both sides.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m9_q7",
+      "text": "A differential equation dy/dx = F(x, y) is homogeneous if F(λx, λy) is equal to:",
+      "options": ["λ F(x, y)", "λⁿ F(x, y) with n=0", "F(x, y) / λ", "F(λx, y)"],
+      "correctIndex": 1,
+      "explanation": "A function is homogeneous of degree zero if scaling both variables by λ does not change the function value.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m9_q8",
+      "text": "To solve a homogeneous differential equation, the standard substitution is:",
+      "options": ["x = vy", "y = vx", "y = x + v", "v = xy"],
+      "correctIndex": 1,
+      "explanation": "Substituting y = vx reduces the homogeneous equation to a variable separable form.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m9_q9",
+      "text": "For a linear differential equation dy/dx + Py = Q (where P, Q are functions of x), the Integrating Factor (I.F.) is:",
+      "options": ["e^(∫ P dx)", "e^(∫ Q dx)", "∫ P dx", "log(∫ P dx)"],
+      "correctIndex": 0,
+      "explanation": "Multiplying the equation by e^(∫ P dx) makes the left side a perfect derivative of (y * I.F.).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m9_q10",
+      "text": "The solution of the linear differential equation dy/dx + Py = Q is given by:",
+      "options": ["y * I.F. = ∫ (Q * I.F.) dx + C", "y = ∫ (P * Q) dx", "y * I.F. = Q + C", "y + I.F. = ∫ Q dx"],
+      "correctIndex": 0,
+      "explanation": "Standard solution format for first-order linear differential equations.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m9_q11",
+      "text": "Find the order of the differential equation: d³y/dx³ + 2(d²y/dx²)² - dy/dx + y = 0.",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 2,
+      "explanation": "The highest order derivative present is the 3rd derivative.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m9_q12",
+      "text": "Which of the following is a homogeneous differential equation?",
+      "options": ["(x² + y) dx = x dy", "(x - y) dy = (x + 2y) dx", "dy/dx + y/x = x²", "xy dx = (x² + 1) dy"],
+      "correctIndex": 1,
+      "explanation": "In (x - y) dy = (x + 2y) dx, dy/dx = (x + 2y)/(x - y). Both numerator and denominator are linear polynomials.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m9_q13",
+      "text": "The integrating factor of dy/dx - y/x = 2x² is:",
+      "options": ["x", "1/x", "log x", "-x"],
+      "correctIndex": 1,
+      "explanation": "P = -1/x. I.F. = e^(∫ -1/x dx) = e^(-log x) = e^(log 1/x) = 1/x.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m9_q14",
+      "text": "The number of arbitrary constants in the particular solution of a differential equation of order 3 is:",
+      "options": ["3", "2", "1", "0"],
+      "correctIndex": 3,
+      "explanation": "Particular solutions have no arbitrary constants as they represent a specific member of the solution family.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m9_q15",
+      "text": "Solving dy/dx = e^(x-y) leads to the solution:",
+      "options": ["e^y = e^x + C", "e^x + e^y = C", "e^y - e^x = C", "xy = C"],
+      "correctIndex": 0,
+      "explanation": "dy/dx = e^x / e^y => e^y dy = e^x dx. Integrating gives e^y = e^x + C.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m9_q16",
+      "text": "A linear differential equation of the form dx/dy + P₁x = Q₁ has integrating factor:",
+      "options": ["e^(∫ P₁ dx)", "e^(∫ P₁ dy)", "e^(∫ Q₁ dy)", "∫ P₁ dy"],
+      "correctIndex": 1,
+      "explanation": "When x is the dependent variable, we integrate P₁ with respect to y.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m9_q17",
+      "text": "Order of the differential equation of family of circles passing through origin and having centers on x-axis is:",
+      "options": ["1", "2", "3", "0"],
+      "correctIndex": 0,
+      "explanation": "Equation is (x-a)² + y² = a², which simplifies to x² + y² - 2ax = 0. Since there is only one arbitrary constant 'a', the order is 1.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m9_q18",
+      "text": "The differential equation y' + y = 1 is:",
+      "options": ["Linear", "Homogeneous", "Variable Separable", "Both A and C"],
+      "correctIndex": 3,
+      "explanation": "It is linear (dy/dx + Py = Q) and also variable separable (dy / (1-y) = dx).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m9_q19",
+      "text": "Degree of differential equation (y'')² + (y')³ + y⁴ = 0 is:",
+      "options": ["2", "3", "4", "1"],
+      "correctIndex": 0,
+      "explanation": "The highest order derivative is y'' (2nd order), and its power is 2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m9_q20",
+      "text": "The general solution of dy/dx = y/x is:",
+      "options": ["y = kx", "x = ky", "xy = k", "y = x + k"],
+      "correctIndex": 0,
+      "explanation": "dy/y = dx/x => log y = log x + log k => y = kx.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m9_q21",
+      "text": "Integrating factor of cos x dy/dx + y sin x = 1 is:",
+      "options": ["cos x", "sec x", "tan x", "sin x"],
+      "correctIndex": 1,
+      "explanation": "Divide by cos x: dy/dx + y tan x = sec x. P = tan x. I.F. = e^(∫ tan x dx) = e^(log sec x) = sec x.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m9_q22",
+      "text": "The differential equation representing family of curves y = e^(cx) is:",
+      "options": ["y' = cy", "y' / y = (log y) / x", "y' = y log x", "None"],
+      "correctIndex": 1,
+      "explanation": "log y = cx => c = (log y) / x. Differentiating y = e^(cx) gives y' = c e^(cx) = cy. Substituting c gives y' = y (log y)/x.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m9_q23",
+      "text": "The order of differential equation of all parabolas with axis parallel to y-axis is:",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 2,
+      "explanation": "Equation is y = ax² + bx + c. Three arbitrary constants mean the order is 3.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_m9_q24",
+      "text": "Integration Factor of (1 - x²) dy/dx - xy = 1 is:",
+      "options": ["√(1-x²)", "1 / √(1-x²)", "1-x²", "log(1-x²)"],
+      "correctIndex": 0,
+      "explanation": "Standard linear form solution: P = -x/(1-x²). ∫ P dx = 1/2 log(1-x²). I.F. = e^(log √(1-x²)).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m9_q25",
+      "text": "General solution of dy/dx = 1 + x + y + xy is:",
+      "options": ["log(1+y) = x + x²/2 + C", "log(1+x) = y + y²/2 + C", "y = x + C", "1+y = 1+x"],
+      "correctIndex": 0,
+      "explanation": "dy/dx = (1+x)(1+y) => dy/(1+y) = (1+x) dx. Integrating gives the result.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m9_q26",
+      "text": "A differential equation is called linear if the dependent variable and its derivatives appear in:",
+      "options": ["First degree only", "Product form", "Any power", "Denominator"],
+      "correctIndex": 0,
+      "explanation": "Also, they should not be multiplied together.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m9_q27",
+      "text": "Solution of dy/dx = cos x is:",
+      "options": ["y = sin x + C", "y = -sin x + C", "y = tan x + C", "y = cos x + C"],
+      "correctIndex": 0,
+      "explanation": "Direct integration of the function of x.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m9_q28",
+      "text": "Formation of differential equation involves ________ arbitrary constants.",
+      "options": ["Adding", "Eliminating", "Multiplying", "Integrating"],
+      "correctIndex": 1,
+      "explanation": "To find the DE of a family of curves, we differentiate and remove the constants.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m9_q29",
+      "text": "Integrating factor of x dy/dx - y = 2x² is:",
+      "options": ["x", "1/x", "e^x", "log x"],
+      "correctIndex": 1,
+      "explanation": "dy/dx - y/x = 2x. P = -1/x. I.F. = 1/x.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m9_q30",
+      "text": "The degree of differential equation d²y/dx² + (dy/dx)³ + y⁴ = 0 is:",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 0,
+      "explanation": "The power of the highest order derivative (d²y/dx²) is 1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m9_q31",
+      "text": "The particular solution of dy/dx = 2x passing through (0, 1) is:",
+      "options": ["y = x²", "y = x² + 1", "y = x² - 1", "y = 2x + 1"],
+      "correctIndex": 1,
+      "explanation": "Integrating dy = 2x dx gives y = x² + C. At (0,1), 1 = 0 + C, so C=1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m9_q32",
+      "text": "The general solution of dy/dx + y = 0 is:",
+      "options": ["y = Ceˣ", "y = Ce⁻ˣ", "y = x + C", "y = log x + C"],
+      "correctIndex": 1,
+      "explanation": "dy/y = -dx => log y = -x + k => y = e⁻ˣ⁺ᵏ = Ce⁻ˣ.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m9_q33",
+      "text": "The number of arbitrary constants in the general solution of a DE of order 'n' is:",
+      "options": ["n-1", "n", "n+1", "0"],
+      "correctIndex": 1,
+      "explanation": "A general solution always contains as many arbitrary constants as the order of the differential equation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m9_q34",
+      "text": "The integrating factor of dy/dx + P(x)y = Q(x) is intended to make the left side:",
+      "options": ["A perfect square", "Zero", "An exact derivative of (y * I.F.)", "A constant"],
+      "correctIndex": 2,
+      "explanation": "Multiplying by I.F. allows the LHS to be written as d/dx(y * I.F.).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m9_q35",
+      "text": "Degree of the differential equation (d²y/dx²)² + sin(y) = 0 is:",
+      "options": ["1", "2", "Not defined", "0"],
+      "correctIndex": 1,
+      "explanation": "The equation is a polynomial in derivatives. sin(y) does not affect the degree; only sin(dy/dx) would.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m9_q36",
+      "text": "The order of the differential equation of all non-vertical lines in a plane is:",
+      "options": ["1", "2", "3", "0"],
+      "correctIndex": 1,
+      "explanation": "The equation is y = mx + c. There are two arbitrary constants (m and c), so the order is 2.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m9_q37",
+      "text": "Which of the following substitutions is used for dx/dy = h(x/y)?",
+      "options": ["y = vx", "x = vy", "x + y = v", "xy = v"],
+      "correctIndex": 1,
+      "explanation": "For equations where x/y is the functional form, we substitute x = vy.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m9_q38",
+      "text": "The solution of dy/dx = e⁻ʸ is:",
+      "options": ["eʸ = x + C", "e⁻ʸ = x + C", "y = log x", "eʸ = eˣ + C"],
+      "correctIndex": 0,
+      "explanation": "eʸ dy = dx => Integrating both sides gives eʸ = x + C.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m9_q39",
+      "text": "Integrating factor for dy/dx - y = 1 is:",
+      "options": ["eˣ", "e⁻ˣ", "x", "-x"],
+      "correctIndex": 1,
+      "explanation": "P = -1, so I.F. = e^(∫-1 dx) = e⁻ˣ.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m9_q40",
+      "text": "The differential equation of the family of curves y = a cos(x + b) is of order:",
+      "options": ["1", "2", "3", "0"],
+      "correctIndex": 1,
+      "explanation": "There are two arbitrary constants 'a' and 'b', hence the order is 2.",
+      "frequencyRating": 4
+    }
+  ]
+}

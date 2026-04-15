@@ -246,5 +246,86 @@
       "explanation": "Note: Electrons are not accelerated in cyclotrons because their mass increases relativistically too quickly.",
       "frequencyRating": 3
     }
+    ,
+    {
+      "id": "g12_p4_q31",
+      "text": "The magnetic field at a point on the axis of a solenoid at one end is:",
+      "options": ["μ₀ n I", "1/2 μ₀ n I", "Zero", "2 μ₀ n I"],
+      "correctIndex": 1,
+      "explanation": "The field at the ends of a long solenoid is half the field in the middle.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p4_q32",
+      "text": "A charged particle moves in a helical path in a uniform magnetic field. The pitch of the helix depends on:",
+      "options": ["v cos θ", "v sin θ", "B only", "Charge only"],
+      "correctIndex": 0,
+      "explanation": "Pitch is the distance moved along the field direction during one revolution, determined by the parallel component of velocity.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p4_q33",
+      "text": "The magnetic moment of an electron revolving in an atom is called:",
+      "options": ["Bohr Magneton", "Faraday Constant", "Gyromagnetic Ratio", "Permeability"],
+      "correctIndex": 0,
+      "explanation": "Bohr Magneton (μ_B) is the natural unit for expressing the magnetic moment of an electron.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p4_q34",
+      "text": "In a velocity selector, the condition for a particle to pass undeflected through crossed E and B fields is:",
+      "options": ["v = E / B", "v = B / E", "v = E * B", "v = E² / B"],
+      "correctIndex": 0,
+      "explanation": "The electric force (qE) must be balanced by the magnetic force (qvB).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p4_q35",
+      "text": "The force per unit length between two long parallel current-carrying wires is:",
+      "options": ["μ₀ I₁ I₂ / 2πr", "μ₀ I₁ I₂ / r", "μ₀ I₁ / 2πr", "Zero"],
+      "correctIndex": 0,
+      "explanation": "This formula is used to define the unit 'Ampere'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p4_q36",
+      "text": "The magnetic field produced by a circular arc of radius R carrying current I at its center, subtending angle θ, is:",
+      "options": ["(μ₀ I θ) / (4π R)", "(μ₀ I θ) / (2π R)", "μ₀ I / 2R", "Zero"],
+      "correctIndex": 0,
+      "explanation": "Derived from Biot-Savart Law; θ must be in radians.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p4_q37",
+      "text": "Which of the following does NOT experience a force when placed in a uniform magnetic field?",
+      "options": ["A stationary charge", "A moving charge", "A current carrying wire", "A magnetic dipole"],
+      "correctIndex": 0,
+      "explanation": "Magnetic force F = q(v x B). If v = 0, F = 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p4_q38",
+      "text": "Current sensitivity of a galvanometer can be increased by:",
+      "options": ["Increasing number of turns", "Increasing area of coil", "Increasing magnetic field", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Sensitivity S = NBA / k, where k is the torsional constant.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p4_q39",
+      "text": "The ratio of magnetic moment to angular momentum of an electron is called:",
+      "options": ["Gyromagnetic ratio", "Bohr Magneton", "Permittivity", "Mobility"],
+      "correctIndex": 0,
+      "explanation": "The value is e / 2m and is constant for an electron.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p4_q40",
+      "text": "A toroid is essentially a solenoid bent into the shape of a:",
+      "options": ["Circle (Doughnut)", "Square", "Straight line", "Cylinder"],
+      "correctIndex": 0,
+      "explanation": "It is an endless solenoid with the field confined within its core.",
+      "frequencyRating": 4
+    }
   ]
 }
