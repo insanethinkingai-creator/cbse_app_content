@@ -1,0 +1,120 @@
+{
+  "id": "g11_chem_ch6",
+  "grade": "11",
+  "subject": "Chemistry",
+  "number": "6",
+  "title": "Equilibrium",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_c6_q1",
+      "text": "At equilibrium, the rate of forward reaction is _____ the rate of backward reaction.",
+      "options": ["Greater than", "Less than", "Equal to", "Zero"],
+      "correctIndex": 2,
+      "explanation": "This is the definition of dynamic equilibrium.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c6_q2",
+      "text": "The relation between Kp and Kc is:",
+      "options": ["Kp = Kc (RT)^Δn", "Kc = Kp (RT)^Δn", "Kp = Kc + RT", "Kp = Kc"],
+      "correctIndex": 0,
+      "explanation": "Δn is the change in number of moles of gaseous products and reactants.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c6_q3",
+      "text": "According to Le Chatelier’s Principle, increasing pressure on the system N₂(g) + 3H₂(g) ⇌ 2NH₃(g) will shift equilibrium to:",
+      "options": ["Left", "Right", "No change", "Depends on catalyst"],
+      "correctIndex": 1,
+      "explanation": "Equilibrium shifts to the side with fewer moles of gas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c6_q4",
+      "text": "A Bronsted-Lowry acid is a substance that:",
+      "options": ["Accepts a proton", "Donates a proton", "Accepts an electron pair", "Donates an electron pair"],
+      "correctIndex": 1,
+      "explanation": "Proton (H⁺) donor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c6_q5",
+      "text": "The pH of a 0.01 M HCl solution is:",
+      "options": ["1", "2", "7", "12"],
+      "correctIndex": 1,
+      "explanation": "pH = -log[H⁺] = -log(10⁻²) = 2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c6_q6",
+      "text": "A Lewis base is a species that can:",
+      "options": ["Donate a proton", "Accept a proton", "Donate an electron pair", "Accept an electron pair"],
+      "correctIndex": 2,
+      "explanation": "Example: NH₃ has a lone pair to donate.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c6_q7",
+      "text": "The ionic product of water (Kw) at 298 K is:",
+      "options": ["10⁻⁷", "10⁻¹⁴", "10⁷", "10¹⁴"],
+      "correctIndex": 1,
+      "explanation": "Kw = [H⁺][OH⁻] = 1.0 x 10⁻¹⁴.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c6_q8",
+      "text": "Which of the following is a buffer solution?",
+      "options": ["HCl + NaCl", "NaOH + NaCl", "CH₃COOH + CH₃COONa", "H₂SO₄ + Na₂SO₄"],
+      "correctIndex": 2,
+      "explanation": "A weak acid and its salt with a strong base form an acidic buffer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c6_q9",
+      "text": "For a sparingly soluble salt AB₂, the solubility product Ksp is related to solubility S as:",
+      "options": ["Ksp = S²", "Ksp = 4S³", "Ksp = S³", "Ksp = 2S²"],
+      "correctIndex": 1,
+      "explanation": "AB₂ ⇌ A²⁺ + 2B⁻. Ksp = (S)(2S)² = 4S³.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c6_q10",
+      "text": "If the reaction quotient Q > Kc, the reaction will proceed in:",
+      "options": ["Forward direction", "Backward direction", "Will not move", "Explosive manner"],
+      "correctIndex": 1,
+      "explanation": "The system will try to reduce the concentration of products.",
+      "frequencyRating": 5
+    },
+    { "id": "g11_c6_q11", "text": "Adding a catalyst to an equilibrium mixture:", "options": ["Increases Kc", "Shifts equilibrium to right", "Decreases Kc", "Does not change equilibrium position"], "correctIndex": 3, "explanation": "Catalyst only helps reach equilibrium faster.", "frequencyRating": 5 },
+    { "id": "g11_c6_q12", "text": "pH + pOH is always equal to:", "options": ["7", "14", "0", "1"], "correctIndex": 1, "explanation": "At 25°C.", "frequencyRating": 5 },
+    { "id": "g11_c6_q13", "text": "Conjugate base of HSO₄⁻ is:", "options": ["H₂SO₄", "SO₄²⁻", "H⁺", "OH⁻"], "correctIndex": 1, "explanation": "Base formed after an acid donates H⁺.", "frequencyRating": 4 },
+    { "id": "g11_c6_q14", "text": "An aqueous solution with pH 9 is:", "options": ["Acidic", "Basic", "Neutral", "Amphoteric"], "correctIndex": 1, "explanation": "pH > 7 is basic.", "frequencyRating": 5 },
+    { "id": "g11_c6_q15", "text": "Which salt undergoes cationic hydrolysis?", "options": ["NaCl", "CH₃COONa", "NH₄Cl", "K₂SO₄"], "correctIndex": 2, "explanation": "Salt of weak base and strong acid.", "frequencyRating": 4 },
+    { "id": "g11_c6_q16", "text": "Common ion effect _____ the solubility of a sparingly soluble salt.", "options": ["Increases", "Decreases", "Does not affect", "First increases then decreases"], "correctIndex": 1, "explanation": "Presence of a common ion shifts equilibrium to left (precipitation).", "frequencyRating": 5 },
+    { "id": "g11_c6_q17", "text": "Inert gas addition at constant volume _____ the equilibrium.", "options": ["Shifts to right", "Shifts to left", "Has no effect on", "Depends on moles"], "correctIndex": 2, "explanation": "Total pressure increases but partial pressures remain same.", "frequencyRating": 4 },
+    { "id": "g11_c6_q18", "text": "Ostwald's Dilution Law is applicable to:", "options": ["Strong electrolytes", "Weak electrolytes", "Non-electrolytes", "All"], "correctIndex": 1, "explanation": "Relates degree of dissociation to concentration.", "frequencyRating": 4 },
+    { "id": "g11_c6_q19", "text": "Henderson-Hasselbalch equation is used to calculate:", "options": ["Equilibrium constant", "pH of a buffer", "Solubility", "Bond energy"], "correctIndex": 1, "explanation": "pH = pKa + log([Salt]/[Acid]).", "frequencyRating": 5 },
+    { "id": "g11_c6_q20", "text": "Degree of dissociation (α) increases with:", "options": ["Increase in concentration", "Increase in dilution", "Decrease in temperature", "Addition of salt"], "correctIndex": 1, "explanation": "As per Ostwald's law.", "frequencyRating": 4 },
+    { "id": "g11_c6_q21", "text": "Value of K depends only on:", "options": ["Initial concentration", "Pressure", "Temperature", "Volume"], "correctIndex": 2, "explanation": "It is a characteristic constant for a reaction at a specific T.", "frequencyRating": 5 },
+    { "id": "g11_c6_q22", "text": "Exothermic reactions are favoured by _____ temperature.", "options": ["High", "Low", "Constant", "None"], "correctIndex": 1, "explanation": "Reducing heat shifts equilibrium to exothermic side.", "frequencyRating": 5 },
+    { "id": "g11_c6_q23", "text": "Which gas is used to maintain pH of blood?", "options": ["O₂", "CO₂", "N₂", "He"], "correctIndex": 1, "explanation": "Bicarbonate/Carbonic acid buffer system.", "frequencyRating": 3 },
+    { "id": "g11_c6_q24", "text": "Salt of strong acid and strong base gives a _____ solution.", "options": ["Acidic", "Basic", "Neutral", "Amphoteric"], "correctIndex": 2, "explanation": "Neither ion undergoes hydrolysis.", "frequencyRating": 5 },
+    { "id": "g11_c6_q25", "text": "Units of Kc for H₂(g) + I₂(g) ⇌ 2HI(g) are:", "options": ["mol/L", "mol²/L²", "No units", "L/mol"], "correctIndex": 2, "explanation": "Δn = 0.", "frequencyRating": 4 },
+    { "id": "g11_c6_q26", "text": "Which indicator is used for titration of strong acid and strong base?", "options": ["Phenolphthalein", "Methyl orange", "Both", "None"], "correctIndex": 2, "explanation": "Both show sharp color change at pH 7.", "frequencyRating": 4 },
+    { "id": "g11_c6_q27", "text": "Solubility of AgCl in NaCl solution is _____ than in pure water.", "options": ["Less", "More", "Same", "Zero"], "correctIndex": 0, "explanation": "Due to common ion Cl⁻.", "frequencyRating": 5 },
+    { "id": "g11_c6_q28", "text": "Active mass of a solid is taken as:", "options": ["Its density", "Its molarity", "1", "0"], "correctIndex": 2, "explanation": "Concentration of pure solids is constant.", "frequencyRating": 5 },
+    { "id": "g11_c6_q29", "text": "Kp is used for reactions involving:", "options": ["Solids", "Liquids", "Gases", "Aqueous"], "correctIndex": 2, "explanation": "Partial pressures apply only to gases.", "frequencyRating": 5 },
+    { "id": "g11_c6_q30", "text": "If Δn is negative, then:", "options": ["Kp > Kc", "Kp < Kc", "Kp = Kc", "None"], "correctIndex": 1, "explanation": "From Kp = Kc (RT)^Δn.", "frequencyRating": 4 },
+    { "id": "g11_c6_q31", "text": "Ammonia is a _____ according to Lewis concept.", "options": ["Acid", "Base", "Neutral", "None"], "correctIndex": 1, "explanation": "It has a lone pair on N.", "frequencyRating": 5 },
+    { "id": "g11_c6_q32", "text": "The conjugate acid of NH₃ is:", "options": ["NH₂⁻", "NH₄⁺", "N₂", "H⁺"], "correctIndex": 1, "explanation": "Formed by adding H⁺.", "frequencyRating": 5 },
+    { "id": "g11_c6_q33", "text": "Degree of ionization depends on:", "options": ["Nature of solute", "Nature of solvent", "Concentration", "All of these"], "correctIndex": 3, "explanation": "Multiple factors affect electrolyte strength.", "frequencyRating": 4 },
+    { "id": "g11_c6_q34", "text": "Human blood pH is approx:", "options": ["6.4", "7.4", "8.4", "1.0"], "correctIndex": 1, "explanation": "Slightly basic.", "frequencyRating": 5 },
+    { "id": "g11_c6_q35", "text": "Physical equilibrium example is:", "options": ["Melting of ice", "Burning coal", "Neutralization", "Respiration"], "correctIndex": 0, "explanation": "Change of state.", "frequencyRating": 4 },
+    { "id": "g11_c6_q36", "text": "Kc value for reaction reverse is:", "options": ["Kc", "-Kc", "1/Kc", "sqrt(Kc)"], "correctIndex": 2, "explanation": "Standard property of equilibrium constants.", "frequencyRating": 5 },
+    { "id": "g11_c6_q37", "text": "Addition of product to an equilibrium mixture shifts it to:", "options": ["Right", "Left", "Up", "No shift"], "correctIndex": 1, "explanation": "Le Chatelier's principle.", "frequencyRating": 5 },
+    { "id": "g11_c6_q38", "text": "Strong electrolytes dissociate _____ in water.", "options": ["Completely", "Partially", "Not at all", "Only on heating"], "correctIndex": 0, "explanation": "Examples: HCl, NaOH, NaCl.", "frequencyRating": 5 },
+    { "id": "g11_c6_q39", "text": "Heterogeneous equilibrium involves phase(s):", "options": ["Only one", "More than one", "Only gas", "Only liquid"], "correctIndex": 1, "explanation": "Reactants/products in different physical states.", "frequencyRating": 4 },
+    { "id": "g11_c6_q40", "text": "Ksp is temperature dependent.", "options": ["True", "False", "Only for solids", "None"], "correctIndex": 0, "explanation": "Like all equilibrium constants.", "frequencyRating": 5 }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "g11_math_ch4",
+  "grade": "11",
+  "subject": "Mathematics",
+  "number": "4",
+  "title": "Complex Numbers and Quadratic Equations",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_m4_q1",
+      "text": "The value of i¹⁹ is:",
+      "options": ["i", "-i", "1", "-1"],
+      "correctIndex": 1,
+      "explanation": "i¹⁹ = (i⁴)⁴ * i³ = (1)⁴ * (-i) = -i.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m4_q2",
+      "text": "If z = a + ib, then the conjugate of z (z̄) is:",
+      "options": ["a - ib", "-a + ib", "-a - ib", "a + ib"],
+      "correctIndex": 0,
+      "explanation": "The conjugate of a complex number is obtained by changing the sign of the imaginary part.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m4_q3",
+      "text": "The modulus of the complex number z = 3 - 4i is:",
+      "options": ["7", "1", "5", "25"],
+      "correctIndex": 2,
+      "explanation": "|z| = √(3² + (-4)²) = √(9 + 16) = √25 = 5.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m4_q4",
+      "text": "The multiplicative inverse of z = 1 + i is:",
+      "options": ["1 - i", "(1 - i)/2", "(1 + i)/2", "i - 1"],
+      "correctIndex": 1,
+      "explanation": "z⁻¹ = z̄/|z|² = (1 - i) / (1² + 1²) = (1 - i)/2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m4_q5",
+      "text": "The value of i + i² + i³ + i⁴ is:",
+      "options": ["i", "0", "1", "-1"],
+      "correctIndex": 1,
+      "explanation": "i + (-1) + (-i) + 1 = 0. The sum of four consecutive powers of i is always zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m4_q6",
+      "text": "If x + iy = 2 + 3i, then (x, y) is:",
+      "options": ["(3, 2)", "(2, 3)", "(2, -3)", "(-2, -3)"],
+      "correctIndex": 1,
+      "explanation": "By equality of complex numbers, real parts and imaginary parts must be equal separately.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m4_q7",
+      "text": "The roots of the quadratic equation x² + 1 = 0 are:",
+      "options": ["1, -1", "i, -i", "0, 1", "Real"],
+      "correctIndex": 1,
+      "explanation": "x² = -1 => x = ±√(-1) = ±i.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m4_q8",
+      "text": "The value of √(-25) * √(-9) is:",
+      "options": ["15", "-15", "15i", "-15i"],
+      "correctIndex": 1,
+      "explanation": "5i * 3i = 15i² = -15. Note that √a * √b = √ab only if at least one of a, b is non-negative.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m4_q9",
+      "text": "The additive inverse of -5 + 7i is:",
+      "options": ["5 - 7i", "-5 - 7i", "5 + 7i", "0"],
+      "correctIndex": 0,
+      "explanation": "The additive inverse of z is -z. -(-5 + 7i) = 5 - 7i.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m4_q10",
+      "text": "The Argand plane is a plane where complex numbers are represented as:",
+      "options": ["Lines", "Vectors only", "Points", "Angles"],
+      "correctIndex": 2,
+      "explanation": "A complex number z = x + iy is represented by the point (x, y) in the Cartesian plane.",
+      "frequencyRating": 4
+    },
+    { "id": "g11_m4_q11", "text": "If z = i, then |z| is:", "options": ["0", "1", "-1", "i"], "correctIndex": 1, "explanation": "|i| = √(0² + 1²) = 1.", "frequencyRating": 5 },
+    { "id": "g11_m4_q12", "text": "The value of (1+i)⁴ is:", "options": ["4", "-4", "4i", "-4i"], "correctIndex": 1, "explanation": "(1+i)² = 1 + 2i + i² = 2i. Then (2i)² = 4i² = -4.", "frequencyRating": 4 },
+    { "id": "g11_m4_q13", "text": "If z = a + ib, then z * z̄ is:", "options": ["a² - b²", "a² + b²", "|z|", "0"], "correctIndex": 1, "explanation": "(a+ib)(a-ib) = a² - (ib)² = a² + b² = |z|².", "frequencyRating": 5 },
+    { "id": "g11_m4_q14", "text": "The discriminant of x² + x + 1 = 0 is:", "options": ["1", "3", "-3", "0"], "correctIndex": 2, "explanation": "D = b² - 4ac = 1² - 4(1)(1) = -3.", "frequencyRating": 5 },
+    { "id": "g11_m4_q15", "text": "The square root of -i is:", "options": ["(1-i)/√2", "(1+i)/√2", "i", "-i"], "correctIndex": 0, "explanation": "Verification: ((1-i)/√2)² = (1 - 2i - 1)/2 = -2i/2 = -i.", "frequencyRating": 2 },
+    { "id": "g11_m4_q16", "text": "If |z| = 0, then z is:", "options": ["1", "i", "0", "Undefined"], "correctIndex": 2, "explanation": "The only complex number with zero modulus is the origin (0 + 0i).", "frequencyRating": 5 },
+    { "id": "g11_m4_q17", "text": "The value of i⁻³⁵ is:", "options": ["i", "-i", "1", "-1"], "correctIndex": 0, "explanation": "1/i³⁵ = 1/(i³² * i³) = 1/(1 * -i) = -1/i = i.", "frequencyRating": 3 },
+    { "id": "g11_m4_q18", "text": "Real part of (1+i)/(1-i) is:", "options": ["1", "0", "-1", "1/2"], "correctIndex": 1, "explanation": "(1+i)² / (1²+1²) = 2i/2 = i. Real part is 0.", "frequencyRating": 4 },
+    { "id": "g11_m4_q19", "text": "The polar form of z = 1 + i√3 has modulus r equal to:", "options": ["1", "2", "4", "√2"], "correctIndex": 1, "explanation": "r = √(1² + (√3)²) = √4 = 2.", "frequencyRating": 4 },
+    { "id": "g11_m4_q20", "text": "The argument of z = 1 + i is:", "options": ["π/2", "π/3", "π/4", "0"], "correctIndex": 2, "explanation": "tan θ = y/x = 1/1 = 1 => θ = π/4.", "frequencyRating": 5 },
+    { "id": "g11_m4_q21", "text": "Complex numbers z₁ and z₂ are equal if:", "options": ["|z₁| = |z₂|", "arg(z₁) = arg(z₂)", "Re(z₁) = Re(z₂) and Im(z₁) = Im(z₂)", "z₁ = z̄₂"], "correctIndex": 2, "explanation": "Fundamental property of complex equality.", "frequencyRating": 5 },
+    { "id": "g11_m4_q22", "text": "The value of (i + 1/i) is:", "options": ["2i", "0", "1", "-1"], "correctIndex": 1, "explanation": "i + (-i) = 0 since 1/i = -i.", "frequencyRating": 4 },
+    { "id": "g11_m4_q23", "text": "If z = 2 - 3i, then Im(z) is:", "options": ["2", "3", "-3", "3i"], "correctIndex": 2, "explanation": "Imaginary part is the coefficient of i.", "frequencyRating": 5 },
+    { "id": "g11_m4_q24", "text": "Every real number is also a complex number.", "options": ["True", "False", "Only for positive numbers", "Only for zero"], "correctIndex": 0, "explanation": "A real number 'a' can be written as a + 0i.", "frequencyRating": 4 },
+    { "id": "g11_m4_q25", "text": "The product of a complex number and its conjugate is always:", "options": ["Imaginary", "Negative", "Non-negative real", "Zero"], "correctIndex": 2, "explanation": "z * z̄ = a² + b², which is a sum of squares of real numbers.", "frequencyRating": 5 },
+    { "id": "g11_m4_q26", "text": "The triangle inequality states |z₁ + z₂| is:", "options": ["≤ |z₁| + |z₂|", "≥ |z₁| + |z₂|", "= |z₁| + |z₂|", "< |z₁| + |z₂|"], "correctIndex": 0, "explanation": "Fundamental property of modulus.", "frequencyRating": 4 },
+    { "id": "g11_m4_q27", "text": "The value of i⁴ⁿ⁺³ where n is a natural number:", "options": ["i", "-i", "1", "-1"], "correctIndex": 1, "explanation": "i⁴ⁿ * i³ = 1 * -i = -i.", "frequencyRating": 3 },
+    { "id": "g11_m4_q28", "text": "Solving x² + 3 = 0 gives x = :", "options": ["±3", "±√3", "±i√3", "±3i"], "correctIndex": 2, "explanation": "x² = -3 => x = ±i√3.", "frequencyRating": 5 },
+    { "id": "g11_m4_q29", "text": "Multiplicative identity for complex numbers is:", "options": ["1 + i", "i", "1 + 0i", "0 + 0i"], "correctIndex": 2, "explanation": "Multiplying any z by 1 leaves it unchanged.", "frequencyRating": 4 },
+    { "id": "g11_m4_q30", "text": "If z lies on the imaginary axis, its real part is:", "options": ["1", "i", "0", "Any value"], "correctIndex": 2, "explanation": "Purely imaginary numbers have x=0.", "frequencyRating": 4 },
+    { "id": "g11_m4_q31", "text": "The sum of a complex number and its conjugate is:", "options": ["2 * Real part", "2 * Imaginary part", "0", "Real squared"], "correctIndex": 0, "explanation": "(a+ib) + (a-ib) = 2a.", "frequencyRating": 4 },
+    { "id": "g11_m4_q32", "text": "The difference between a complex number and its conjugate is:", "options": ["Real", "Purely imaginary", "0", "1"], "correctIndex": 1, "explanation": "(a+ib) - (a-ib) = 2ib.", "frequencyRating": 3 },
+    { "id": "g11_m4_q33", "text": "Number of roots of a quadratic equation is always:", "options": ["1", "2", "0", "Depends on D"], "correctIndex": 1, "explanation": "By Fundamental Theorem of Algebra, degree 2 has 2 roots.", "frequencyRating": 5 },
+    { "id": "g11_m4_q34", "text": "If D < 0 for ax² + bx + c = 0, the roots are:", "options": ["Real and Equal", "Real and Distinct", "Complex Conjugates", "Rational"], "correctIndex": 2, "explanation": "Roots are (-b ± i√|D|)/2a.", "frequencyRating": 5 },
+    { "id": "g11_m4_q35", "text": "i¹⁰⁰ is equal to:", "options": ["i", "-i", "1", "-1"], "correctIndex": 2, "explanation": "100 is a multiple of 4.", "frequencyRating": 4 },
+    { "id": "g11_m4_q36", "text": "The point representing -2 - 3i lies in quadrant:", "options": ["I", "II", "III", "IV"], "correctIndex": 2, "explanation": "Both coordinates (-2, -3) are negative.", "frequencyRating": 4 },
+    { "id": "g11_m4_q37", "text": "The distance of point (a, b) from origin in Argand plane is:", "options": ["a + b", "a² + b²", "√(a² + b²)", "ab"], "correctIndex": 2, "explanation": "This is the modulus |z|.", "frequencyRating": 5 },
+    { "id": "g11_m4_q38", "text": "Which of the following is purely imaginary?", "options": ["2 + 0i", "0 + 3i", "i²", "1 + i"], "correctIndex": 1, "explanation": "Real part must be zero.", "frequencyRating": 4 },
+    { "id": "g11_m4_q39", "text": "z = -5 is purely real.", "options": ["True", "False", "Sometimes", "Only in Argand plane"], "correctIndex": 0, "explanation": "Imaginary part is zero.", "frequencyRating": 3 },
+    { "id": "g11_m4_q40", "text": "arg(z) + arg(z̄) is equal to:", "options": ["π", "π/2", "0", "2π"], "correctIndex": 2, "explanation": "θ + (-θ) = 0.", "frequencyRating": 2 }
+  ]
+}

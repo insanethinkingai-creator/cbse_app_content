@@ -1,0 +1,120 @@
+{
+  "id": "g11_chem_ch7",
+  "grade": "11",
+  "subject": "Chemistry",
+  "number": "7",
+  "title": "Redox Reactions",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_c7_q1",
+      "text": "Oxidation is defined as the _____ of electrons.",
+      "options": ["Gain", "Loss", "Sharing", "None"],
+      "correctIndex": 1,
+      "explanation": "Remember 'LEO' (Loss of Electrons is Oxidation).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c7_q2",
+      "text": "In a redox reaction, the reducing agent:",
+      "options": ["Gains electrons", "Loses electrons", "Is reduced", "Stays neutral"],
+      "correctIndex": 1,
+      "explanation": "The reducing agent reduces others by giving up its own electrons (it is oxidized).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c7_q3",
+      "text": "The oxidation number of Oxygen in most compounds is:",
+      "options": ["+2", "-2", "0", "-1"],
+      "correctIndex": 1,
+      "explanation": "Exceptions include peroxides (-1) and superoxides (-1/2).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c7_q4",
+      "text": "What is the oxidation number of Sulfur in H₂SO₄?",
+      "options": ["+4", "+6", "-2", "+2"],
+      "correctIndex": 1,
+      "explanation": "2(+1) + S + 4(-2) = 0 => 2 + S - 8 = 0 => S = +6.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c7_q5",
+      "text": "The oxidation number of an element in its free (uncombined) state is:",
+      "options": ["+1", "-1", "0", "Its valency"],
+      "correctIndex": 2,
+      "explanation": "Examples: Na, H₂, O₂, Cl₂ all have oxidation number 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c7_q6",
+      "text": "In the reaction Zn + Cu²⁺ → Zn²⁺ + Cu, which species is oxidized?",
+      "options": ["Cu²⁺", "Cu", "Zn", "Zn²⁺"],
+      "correctIndex": 2,
+      "explanation": "Zn loses two electrons to become Zn²⁺.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c7_q7",
+      "text": "Oxidation number of Manganese in KMnO₄ is:",
+      "options": ["+2", "+4", "+7", "+6"],
+      "correctIndex": 2,
+      "explanation": "+1 + Mn + 4(-2) = 0 => Mn = +7.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c7_q8",
+      "text": "A disproportionation reaction is one in which:",
+      "options": ["Two different elements are oxidized", "The same element is both oxidized and reduced", "No oxidation occurs", "Only reduction occurs"],
+      "correctIndex": 1,
+      "explanation": "Example: 2H₂O₂ → 2H₂O + O₂ (Oxygen goes from -1 to -2 and 0).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c7_q9",
+      "text": "Which of the following is a strong oxidizing agent?",
+      "options": ["Li", "H₂", "F₂", "Na"],
+      "correctIndex": 2,
+      "explanation": "Fluorine has the highest tendency to gain electrons.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c7_q10",
+      "text": "In a galvanic cell, oxidation occurs at the:",
+      "options": ["Cathode", "Anode", "Salt bridge", "Electrolyte"],
+      "correctIndex": 1,
+      "explanation": "Anode is the electrode where loss of electrons happens.",
+      "frequencyRating": 5
+    },
+    { "id": "g11_c7_q11", "text": "Reduction is defined as the _____ of electrons.", "options": ["Loss", "Gain", "Sharing", "None"], "correctIndex": 1, "explanation": "Remember 'GER' (Gain of Electrons is Reduction).", "frequencyRating": 5 },
+    { "id": "g11_c7_q12", "text": "Oxidation number of Hydrogen in metal hydrides (like LiH) is:", "options": ["+1", "-1", "0", "+2"], "correctIndex": 1, "explanation": "Metals are more electropositive than Hydrogen.", "frequencyRating": 5 },
+    { "id": "g11_c7_q13", "text": "Standard reduction potential of Hydrogen electrode is:", "options": ["1 V", "0 V", "0.5 V", "-1 V"], "correctIndex": 1, "explanation": "Reference point for electrochemical series.", "frequencyRating": 5 },
+    { "id": "g11_c7_q14", "text": "Oxidation number of Cr in K₂Cr₂O₇ is:", "options": ["+3", "+6", "+12", "+7"], "correctIndex": 1, "explanation": "2(+1) + 2(Cr) + 7(-2) = 0 => 2Cr = 12 => Cr = +6.", "frequencyRating": 5 },
+    { "id": "g11_c7_q15", "text": "Which method is used to balance redox reactions?", "options": ["Ion-electron method", "Oxidation number method", "Both", "None"], "correctIndex": 2, "explanation": "Standard procedures in redox chemistry.", "frequencyRating": 5 },
+    { "id": "g11_c7_q16", "text": "Oxidation number of Cl in ClO₄⁻ is:", "options": ["+1", "+3", "+5", "+7"], "correctIndex": 3, "explanation": "Cl + 4(-2) = -1 => Cl = +7.", "frequencyRating": 4 },
+    { "id": "g11_c7_q17", "text": "The salt bridge in a cell maintains:", "options": ["Current", "Electrical neutrality", "Voltage", "Chemical reaction"], "correctIndex": 1, "explanation": "By allowing ions to flow between half-cells.", "frequencyRating": 5 },
+    { "id": "g11_c7_q18", "text": "Which is not a redox reaction?", "options": ["Combustion", "Neutralization", "Photosynthesis", "Respiration"], "correctIndex": 1, "explanation": "Acid-base neutralization involves H⁺ transfer, not electron transfer.", "frequencyRating": 4 },
+    { "id": "g11_c7_q19", "text": "Electrochemical series lists elements in order of their:", "options": ["Atomic number", "Reduction potentials", "Mass", "Reactivity with water only"], "correctIndex": 1, "explanation": "Predicts feasibility of redox reactions.", "frequencyRating": 5 },
+    { "id": "g11_c7_q20", "text": "Oxidation number of Fluorine is always:", "options": ["-1", "+1", "0", "Variable"], "correctIndex": 0, "explanation": "Most electronegative element; never positive.", "frequencyRating": 5 },
+    { "id": "g11_c7_q21", "text": "In CH₄, oxidation number of Carbon is:", "options": ["+4", "-4", "0", "+2"], "correctIndex": 1, "explanation": "C + 4(+1) = 0.", "frequencyRating": 4 },
+    { "id": "g11_c7_q22", "text": "An oxidizing agent gets _____ in a reaction.", "options": ["Oxidized", "Reduced", "Remains same", "Neutralized"], "correctIndex": 1, "explanation": "It gains electrons from others.", "frequencyRating": 5 },
+    { "id": "g11_c7_q23", "text": "Standard Hydrogen Electrode (SHE) uses _____ catalyst.", "options": ["Iron", "Platinum", "Nickel", "Copper"], "correctIndex": 1, "explanation": "Platinized platinum foil is used.", "frequencyRating": 4 },
+    { "id": "g11_c7_q24", "text": "Which metal can displace Copper from CuSO₄?", "options": ["Silver", "Gold", "Zinc", "Mercury"], "correctIndex": 2, "explanation": "Zinc is above Copper in the electrochemical series.", "frequencyRating": 5 },
+    { "id": "g11_c7_q25", "text": "Sum of oxidation numbers in a neutral molecule is:", "options": ["1", "0", "-1", "Variable"], "correctIndex": 1, "explanation": "Fundamental rule for O.N. calculations.", "frequencyRating": 5 },
+    { "id": "g11_c7_q26", "text": "Oxidation number of Carbon in CO₂ is:", "options": ["+2", "+4", "-2", "-4"], "correctIndex": 1, "explanation": "C + 2(-2) = 0.", "frequencyRating": 5 },
+    { "id": "g11_c7_q27", "text": "In Daniel cell, Zn electrode is:", "options": ["Cathode", "Anode", "Positive", "None"], "correctIndex": 1, "explanation": "Zn is oxidized to Zn²⁺.", "frequencyRating": 5 },
+    { "id": "g11_c7_q28", "text": "Reduction potential of Li is highly negative, making it a powerful:", "options": ["Oxidizing agent", "Reducing agent", "Acid", "Base"], "correctIndex": 1, "explanation": "It has a very high tendency to lose electrons.", "frequencyRating": 4 },
+    { "id": "g11_c7_q29", "text": "The reaction Fe + Sn²⁺ → Fe²⁺ + Sn is spontaneous because:", "options": ["Fe is more reactive than Sn", "Sn is more reactive than Fe", "Iron is a gas", "None"], "correctIndex": 0, "explanation": "Fe has lower reduction potential than Sn.", "frequencyRating": 4 },
+    { "id": "g11_c7_q30", "text": "Oxidation number of Oxygen in OF₂ is:", "options": ["-2", "+2", "-1", "+1"], "correctIndex": 1, "explanation": "Fluorine is more electronegative than Oxygen.", "frequencyRating": 4 },
+    { "id": "g11_c7_q31", "text": "Combination of half-reactions gives a _____ reaction.", "options": ["Partial", "Full redox", "Neutral", "Chain"], "correctIndex": 1, "explanation": "Sum of oxidation and reduction halves.", "frequencyRating": 5 },
+    { "id": "g11_c7_q32", "text": "A negative E° value implies the electrode is a better _____ than Hydrogen.", "options": ["Reducing agent", "Oxidizing agent", "Insulator", "None"], "correctIndex": 0, "explanation": "It loses electrons more easily than H₂.", "frequencyRating": 4 },
+    { "id": "g11_c7_q33", "text": "Oxidation number of P in PO₄³⁻ is:", "options": ["+3", "+5", "-3", "+4"], "correctIndex": 1, "explanation": "P + 4(-2) = -3 => P = +5.", "frequencyRating": 5 },
+    { "id": "g11_c7_q34", "text": "Stock notation uses _____ to represent oxidation states.", "options": ["Arabic numerals", "Roman numerals", "Symbols", "Greek letters"], "correctIndex": 1, "explanation": "Example: Iron(III) oxide.", "frequencyRating": 4 },
+    { "id": "g11_c7_q35", "text": "In acidic medium, KMnO₄ is reduced to:", "options": ["Mn²⁺", "MnO₂", "K₂MnO₄", "Mn"], "correctIndex": 0, "explanation": "Change in O.N. from +7 to +2.", "frequencyRating": 5 },
+    { "id": "g11_c7_q36", "text": "Balancing charge in ion-electron method is done by adding:", "options": ["H⁺", "OH⁻", "Electrons", "Water"], "correctIndex": 2, "explanation": "Added to the side with more positive charge.", "frequencyRating": 5 },
+    { "id": "g11_c7_q37", "text": "Cathode is _____ charged in an electrolytic cell.", "options": ["Positively", "Negatively", "Neutral", "Variable"], "correctIndex": 1, "explanation": "It attracts cations.", "frequencyRating": 4 },
+    { "id": "g11_c7_q38", "text": "Oxidation number of N in NH₄⁺ is:", "options": ["-3", "+3", "-4", "+5"], "correctIndex": 0, "explanation": "N + 4(+1) = +1 => N = -3.", "frequencyRating": 4 },
+    { "id": "g11_c7_q39", "text": "Rusting of iron is a _____ process.", "options": ["Redox", "Non-redox", "Physical", "None"], "correctIndex": 0, "explanation": "Iron is oxidized by oxygen in presence of moisture.", "frequencyRating": 5 },
+    { "id": "g11_c7_q40", "text": "Redox reactions are used in:", "options": ["Batteries", "Metallurgy", "Biological processes", "All of these"], "correctIndex": 3, "explanation": "Redox is fundamental to many fields.", "frequencyRating": 5 }
+  ]
+}

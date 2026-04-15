@@ -1,0 +1,260 @@
+{
+  "id": "g11_phy_ch11",
+  "grade": "11",
+  "subject": "Physics",
+  "number": "11",
+  "title": "Thermodynamics",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_p11_q1",
+      "text": "Which law of thermodynamics defines temperature?",
+      "options": ["First Law", "Second Law", "Third Law", "Zeroth Law"],
+      "correctIndex": 3,
+      "explanation": "Zeroth Law states if A and B are in thermal equilibrium with C, they are in equilibrium with each other.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p11_q2",
+      "text": "The internal energy of an ideal gas depends only on its:",
+      "options": ["Volume", "Pressure", "Temperature", "Density"],
+      "correctIndex": 2,
+      "explanation": "U is a function of T for an ideal gas (no intermolecular PE).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p11_q3",
+      "text": "First Law of Thermodynamics is a statement of conservation of:",
+      "options": ["Mass", "Momentum", "Energy", "Entropy"],
+      "correctIndex": 2,
+      "explanation": "ΔQ = ΔU + ΔW.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p11_q4",
+      "text": "In an isothermal process, which quantity remains constant?",
+      "options": ["Pressure", "Volume", "Temperature", "Heat"],
+      "correctIndex": 2,
+      "explanation": "Iso = same, Thermal = temperature.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p11_q5",
+      "text": "In an adiabatic process:",
+      "options": ["ΔQ = 0", "ΔT = 0", "ΔU = 0", "ΔW = 0"],
+      "correctIndex": 0,
+      "explanation": "No heat exchange between the system and surroundings.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p11_q6",
+      "text": "Work done in an isochoric process is:",
+      "options": ["PΔV", "Zero", "nRT ln(V2/V1)", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "Volume is constant (ΔV = 0), so work W = ∫PdV = 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p11_q7",
+      "text": "The efficiency of a Carnot engine depends only on:",
+      "options": ["Nature of working substance", "Temperature of source and sink", "Pressure of gas", "Volume of cylinder"],
+      "correctIndex": 1,
+      "explanation": "η = 1 - T2/T1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p11_q8",
+      "text": "Which of the following is NOT a state variable?",
+      "options": ["Pressure", "Volume", "Heat", "Temperature"],
+      "correctIndex": 2,
+      "explanation": "Heat and Work are path functions, while P, V, T, and U are state functions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p11_q9",
+      "text": "An adiabatic process follows the equation:",
+      "options": ["PV = constant", "PV^γ = constant", "P/V = constant", "V/T = constant"],
+      "correctIndex": 1,
+      "explanation": "γ is the ratio of specific heats (Cp/Cv).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p11_q10",
+      "text": "The Second Law of Thermodynamics introduces the concept of:",
+      "options": ["Internal Energy", "Entropy", "Temperature", "Work"],
+      "correctIndex": 1,
+      "explanation": "Entropy of an isolated system always increases in irreversible processes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p11_q11",
+      "text": "In a cyclic process, the change in internal energy is:",
+      "options": ["Positive", "Negative", "Zero", "Depends on path"],
+      "correctIndex": 2,
+      "explanation": "Internal energy is a state function; after one cycle, system returns to initial state.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p11_q12",
+      "text": "Mayer's Formula relates Cp and Cv as:",
+      "options": ["Cp - Cv = R", "Cv - Cp = R", "Cp/Cv = R", "Cp + Cv = R"],
+      "correctIndex": 0,
+      "explanation": "Relationship between molar heat capacities of an ideal gas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p11_q13",
+      "text": "Carnot engine is a:",
+      "options": ["Real engine", "Reversible engine", "Irreversible engine", "None"],
+      "correctIndex": 1,
+      "explanation": "An idealized theoretical heat engine operating on a reversible cycle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p11_q14",
+      "text": "A refrigerator is basically a heat engine working in:",
+      "options": ["Forward direction", "Reverse direction", "Isothermal mode", "Adiabatic mode"],
+      "correctIndex": 1,
+      "explanation": "It transfers heat from a cold body to a hot body using external work.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p11_q15",
+      "text": "The slope of an adiabatic PV curve is _____ than isothermal.",
+      "options": ["Steeper", "Lesser", "Equal", "Zero"],
+      "correctIndex": 0,
+      "explanation": "Adiabatic slope is γ times the isothermal slope.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p11_q16",
+      "text": "Kelvin-Planck statement is related to:",
+      "options": ["Heat pumps", "Heat engines", "Refrigerators", "Zeroth law"],
+      "correctIndex": 1,
+      "explanation": "States it is impossible to convert all heat from a source into work.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p11_q17",
+      "text": "CP / CV (γ) for a monatomic gas is:",
+      "options": ["5/3", "7/5", "4/3", "1"],
+      "correctIndex": 0,
+      "explanation": "Approx 1.67.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p11_q18",
+      "text": "Work done during expansion of a gas is taken as:",
+      "options": ["Positive", "Negative", "Zero", "Variable"],
+      "correctIndex": 0,
+      "explanation": "By physics convention, work done BY the system is positive.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p11_q19",
+      "text": "Which process is generally very slow?",
+      "options": ["Adiabatic", "Isothermal", "Explosion", "Isobaric"],
+      "correctIndex": 1,
+      "explanation": "Requires constant temperature, allowing enough time for heat exchange.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p11_q20",
+      "text": "Total work done in a cyclic process is equal to:",
+      "options": ["Change in U", "Net heat added", "Zero", "Infinity"],
+      "correctIndex": 1,
+      "explanation": "From 1st Law, since ΔU = 0, Q_net = W_net.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p11_q21",
+      "text": "Absolute zero temperature (0 K) can never be reached. This is:",
+      "options": ["Zeroth Law", "First Law", "Second Law", "Third Law"],
+      "correctIndex": 3,
+      "explanation": "Third Law of Thermodynamics.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p11_q22",
+      "text": "Coefficient of Performance (COP) is used for:",
+      "options": ["Heat Engine", "Refrigerator", "Electric motor", "Turbine"],
+      "correctIndex": 1,
+      "explanation": "Measures the effectiveness of heat transfer in cooling.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p11_q23",
+      "text": "Heat cannot by itself flow from a colder body to a hotter body. This is:",
+      "options": ["Clausius statement", "Kelvin statement", "Planck's law", "Boyle's law"],
+      "correctIndex": 0,
+      "explanation": "The Second Law of Thermodynamics.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p11_q24",
+      "text": "In a p-V diagram, work done is represented by:",
+      "options": ["Slope", "Area under curve", "Intercept", "Origin"],
+      "correctIndex": 1,
+      "explanation": "W = ∫p dV.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p11_q25",
+      "text": "Internal energy of an ideal gas is purely:",
+      "options": ["Potential", "Kinetic", "Chemical", "Nuclear"],
+      "correctIndex": 1,
+      "explanation": "No intermolecular forces mean zero potential energy.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p11_q26",
+      "text": "Which process is generally very fast?",
+      "options": ["Isothermal", "Adiabatic", "Isobaric", "Isochoric"],
+      "correctIndex": 1,
+      "explanation": "Occurs so quickly that no heat exchange can take place (e.g., sound waves, tire burst).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p11_q27",
+      "text": "For an adiabatic process, the work done is proportional to:",
+      "options": ["Change in pressure", "Change in temperature", "Volume squared", "None"],
+      "correctIndex": 1,
+      "explanation": "W = nR(T1-T2)/(γ-1).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p11_q28",
+      "text": "Efficiency of Carnot engine is 100% only if sink temperature is:",
+      "options": ["0°C", "273 K", "0 K", "Boiling"],
+      "correctIndex": 2,
+      "explanation": "η = 1 - 0/T1 = 1 (Impossible practically).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p11_q29",
+      "text": "Entropy of the universe is constantly:",
+      "options": ["Decreasing", "Increasing", "Constant", "Zero"],
+      "correctIndex": 1,
+      "explanation": "Natural processes are irreversible and increase disorder.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p11_q30",
+      "text": "Which variable is NOT involved in the Ideal Gas Law?",
+      "options": ["Pressure", "Volume", "Entropy", "Temperature"],
+      "correctIndex": 2,
+      "explanation": "PV = nRT.",
+      "frequencyRating": 4
+    },
+    { "id": "g11_p11_q31", "text": "Isobaric process involves constant:", "options": ["Pressure", "Volume", "Temperature", "Internal Energy"], "correctIndex": 0, "explanation": "Baros = weight/pressure.", "frequencyRating": 5 },
+    { "id": "g11_p11_q32", "text": "Unit of Entropy is:", "options": ["J/K", "Joule", "Watt", "K/J"], "correctIndex": 0, "explanation": "dS = dQ/T.", "frequencyRating": 4 },
+    { "id": "g11_p11_q33", "text": "For a monatomic gas, γ is:", "options": ["1.67", "1.40", "1.33", "2.0"], "correctIndex": 0, "explanation": "5/3.", "frequencyRating": 5 },
+    { "id": "g11_p11_q34", "text": "For a diatomic gas, γ is:", "options": ["1.67", "1.40", "1.33", "1.2"], "correctIndex": 1, "explanation": "7/5.", "frequencyRating": 5 },
+    { "id": "g11_p11_q35", "text": "Reversible processes are:", "options": ["Real", "Idealized", "Fast", "Common"], "correctIndex": 1, "explanation": "They require no friction or dissipation.", "frequencyRating": 4 },
+    { "id": "g11_p11_q36", "text": "The p-V curve for an isothermal expansion is a:", "options": ["Straight line", "Parabola", "Hyperbola", "Circle"], "correctIndex": 2, "explanation": "PV = constant is the equation of a rectangular hyperbola.", "frequencyRating": 4 },
+    { "id": "g11_p11_q37", "text": "If work is done on the system, ΔW is:", "options": ["Positive", "Negative", "Zero", "Depends on Q"], "correctIndex": 1, "explanation": "Physics convention.", "frequencyRating": 5 },
+    { "id": "g11_p11_q38", "text": "Change in internal energy depends on:", "options": ["Path", "Initial and Final states", "Work done", "All"], "correctIndex": 1, "explanation": "It is a state function.", "frequencyRating": 5 },
+    { "id": "g11_p11_q39", "text": "Heat engine converts heat into:", "options": ["Internal energy", "Mechanical work", "Electricity", "Light"], "correctIndex": 1, "explanation": "Fundamental purpose.", "frequencyRating": 5 },
+    { "id": "g11_p11_q40", "text": "Degree of freedom for monatomic gas is:", "options": ["3", "5", "6", "1"], "correctIndex": 0, "explanation": "Translational motion in 3 axes.", "frequencyRating": 5 }
+  ]
+}

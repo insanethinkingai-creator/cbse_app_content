@@ -1,0 +1,330 @@
+{
+  "id": "g11_phy_ch4",
+  "grade": "11",
+  "subject": "Physics",
+  "number": "4",
+  "title": "Laws of Motion",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_p4_q1",
+      "text": "The property of a body to resist change in its state of rest or uniform motion is:",
+      "options": ["Momentum", "Force", "Inertia", "Acceleration"],
+      "correctIndex": 2,
+      "explanation": "Inertia is the inherent property of mass described in Newton's First Law.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p4_q2",
+      "text": "Newton's Second Law of Motion gives the measure of:",
+      "options": ["Inertia", "Force", "Momentum", "Work"],
+      "correctIndex": 1,
+      "explanation": "F = dp/dt = ma.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p4_q3",
+      "text": "A rocket works on the principle of conservation of:",
+      "options": ["Mass", "Energy", "Linear Momentum", "Angular Momentum"],
+      "correctIndex": 2,
+      "explanation": "Based on the ejection of gases providing upward thrust (Newton's 3rd Law).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p4_q4",
+      "text": "Static friction is:",
+      "options": ["Always constant", "Self-adjusting", "Less than kinetic friction", "Non-conservative"],
+      "correctIndex": 1,
+      "explanation": "It increases with the applied force up to the limiting value.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p4_q5",
+      "text": "When a bus starts suddenly, passengers fall backwards. This is due to:",
+      "options": ["Inertia of rest", "Inertia of motion", "Newton's 3rd Law", "Conservation of Momentum"],
+      "correctIndex": 0,
+      "explanation": "The lower body moves with the bus while the upper body tends to stay at rest.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p4_q6",
+      "text": "The SI unit of impulse is:",
+      "options": ["Newton", "Newton-second", "Joule", "Watt"],
+      "correctIndex": 1,
+      "explanation": "Impulse = Force × Time (N s).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p4_q7",
+      "text": "A body of mass 2 kg moves with acceleration 5 m/s². The net force is:",
+      "options": ["2 N", "5 N", "10 N", "7 N"],
+      "correctIndex": 2,
+      "explanation": "F = ma = 2 * 5 = 10 N.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p4_q8",
+      "text": "The coefficient of static friction is usually _____ than kinetic friction.",
+      "options": ["Greater", "Smaller", "Equal", "Half"],
+      "correctIndex": 0,
+      "explanation": "It takes more force to start motion than to maintain it.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p4_q9",
+      "text": "Action and reaction forces act on:",
+      "options": ["Same body", "Different bodies", "Same body in same direction", "None"],
+      "correctIndex": 1,
+      "explanation": "Newton's 3rd law pairs act on two interacting objects.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p4_q10",
+      "text": "Frictional force is a:",
+      "options": ["Contact force", "Non-contact force", "Basic force of nature", "None"],
+      "correctIndex": 0,
+      "explanation": "It requires physical contact between surfaces.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p4_q11",
+      "text": "The maximum value of static friction is called:",
+      "options": ["Kinetic friction", "Rolling friction", "Limiting friction", "Normal force"],
+      "correctIndex": 2,
+      "explanation": "F_lim = μ_s N.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p4_q12",
+      "text": "A man is standing in a lift moving upwards with acceleration 'a'. His apparent weight is:",
+      "options": ["mg", "m(g+a)", "m(g-a)", "Zero"],
+      "correctIndex": 1,
+      "explanation": "Normal force N = mg + ma.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p4_q13",
+      "text": "If the net external force on a system is zero, the total momentum:",
+      "options": ["Changes", "Becomes zero", "Remains constant", "Doubles"],
+      "correctIndex": 2,
+      "explanation": "Principle of Conservation of Linear Momentum.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p4_q14",
+      "text": "Which of the following is the weakest basic force in nature?",
+      "options": ["Gravitational force", "Electromagnetic force", "Strong nuclear force", "Weak nuclear force"],
+      "correctIndex": 0,
+      "explanation": "Despite its dominance in space, gravity is the weakest at the particle level.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p4_q15",
+      "text": "The banking of roads is done to provide necessary:",
+      "options": ["Centripetal force", "Centrifugal force", "Friction", "Normal reaction"],
+      "correctIndex": 0,
+      "explanation": "To allow cars to take turns at higher speeds safely.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p4_q16",
+      "text": "Impulse is equal to change in:",
+      "options": ["Mass", "Force", "Momentum", "Velocity"],
+      "correctIndex": 2,
+      "explanation": "Impulse-Momentum Theorem.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p4_q17",
+      "text": "A fielder pulls his hands back while catching a ball to:",
+      "options": ["Increase force", "Decrease time", "Decrease rate of change of momentum", "Increase momentum"],
+      "correctIndex": 2,
+      "explanation": "Increasing time reduces the impact force (F = Δp/Δt).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p4_q18",
+      "text": "Angle of friction (θ) is related to coefficient of friction (μ) as:",
+      "options": ["μ = sin θ", "μ = cos θ", "μ = tan θ", "μ = cot θ"],
+      "correctIndex": 2,
+      "explanation": "tan θ = f/N = μN/N = μ.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p4_q19",
+      "text": "Recoil of a gun is an example of:",
+      "options": ["Newton's 1st Law", "Newton's 2nd Law", "Newton's 3rd Law", "Conservation of Energy"],
+      "correctIndex": 2,
+      "explanation": "Action (bullet forward) and Reaction (gun backward).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p4_q20",
+      "text": "Why is it easier to pull a lawn mower than to push it?",
+      "options": ["Friction is less in pulling", "Normal force decreases in pulling", "Both A and B", "Normal force increases in pulling"],
+      "correctIndex": 2,
+      "explanation": "Pulling has a vertical component that opposes weight, reducing N and thus friction.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p4_q21",
+      "text": "Rolling friction is _____ than sliding friction.",
+      "options": ["Much less", "More", "Equal", "Slightly less"],
+      "correctIndex": 0,
+      "explanation": "Reason why wheels were invented.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p4_q22",
+      "text": "Normal reaction is always _____ to the surface.",
+      "options": ["Parallel", "Perpendicular", "At 45°", "None"],
+      "correctIndex": 1,
+      "explanation": "'Normal' means perpendicular.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p4_q23",
+      "text": "Which law is called the 'Real Law of Motion'?",
+      "options": ["1st Law", "2nd Law", "3rd Law", "Universal Law"],
+      "correctIndex": 1,
+      "explanation": "1st and 3rd laws can be derived from the 2nd law.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p4_q24",
+      "text": "A body is in equilibrium if the net force is:",
+      "options": ["Constant", "Zero", "Maximum", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "Equilibrium means acceleration is zero, hence net force is zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p4_q25",
+      "text": "The direction of friction is always _____ to motion.",
+      "options": ["Opposite", "Along", "Perpendicular", "At 60°"],
+      "correctIndex": 0,
+      "explanation": "Friction opposes relative motion or the tendency of motion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p4_q26",
+      "text": "Lubrication is used to:",
+      "options": ["Increase friction", "Decrease friction", "Increase weight", "Decrease normal force"],
+      "correctIndex": 1,
+      "explanation": "Oil/Grease provides a smooth layer between surfaces.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p4_q27",
+      "text": "Tension in a string is a form of:",
+      "options": ["Gravity", "Electromagnetic force", "Friction", "Internal force"],
+      "correctIndex": 1,
+      "explanation": "Intermolecular forces within the string.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p4_q28",
+      "text": "A horse cannot pull a cart in empty space because there is no:",
+      "options": ["Friction", "Reaction from ground", "Air", "Gravity"],
+      "correctIndex": 1,
+      "explanation": "Walking requires pushing the ground backward to get a forward reaction.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p4_q29",
+      "text": "Apparent weight of a man in a freely falling lift is:",
+      "options": ["mg", "2mg", "Zero", "m(g+a)"],
+      "correctIndex": 2,
+      "explanation": "a = g, so N = m(g-g) = 0. Weightlessness.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p4_q30",
+      "text": "Force is a _____ quantity.",
+      "options": ["Scalar", "Vector", "Dimensionless", "Tensor"],
+      "correctIndex": 1,
+      "explanation": "It has both magnitude and direction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p4_q31",
+      "text": "The unit of force, Newton, is equivalent to:",
+      "options": ["kg m/s", "kg m/s²", "kg² m/s", "kg m²/s"],
+      "correctIndex": 1,
+      "explanation": "From F = ma.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p4_q32",
+      "text": "Swimming is possible due to Newton's:",
+      "options": ["1st Law", "2nd Law", "3rd Law", "None"],
+      "correctIndex": 2,
+      "explanation": "Pushing water back (action) results in forward motion (reaction).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p4_q33",
+      "text": "Momentum (p) is defined as:",
+      "options": ["m/v", "mv", "ma", "½mv²"],
+      "correctIndex": 1,
+      "explanation": "The quantity of motion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p4_q34",
+      "text": "Inertia of a body depends on its:",
+      "options": ["Velocity", "Mass", "Shape", "Size"],
+      "correctIndex": 1,
+      "explanation": "Mass is the quantitative measure of inertia.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p4_q35",
+      "text": "If a body is moving on a frictionless horizontal surface with constant velocity, the force required to keep it moving is:",
+      "options": ["ma", "mg", "Zero", "Infinite"],
+      "correctIndex": 2,
+      "explanation": "Newton's 1st law: No net force is needed to maintain uniform motion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p4_q36",
+      "text": "Centrifugal force is a:",
+      "options": ["Real force", "Pseudo force", "Basic force", "Nuclear force"],
+      "correctIndex": 1,
+      "explanation": "Observed only in non-inertial (rotating) frames of reference.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p4_q37",
+      "text": "Angle of repose is equal to:",
+      "options": ["Angle of friction", "90°", "0°", "Twice the angle of friction"],
+      "correctIndex": 0,
+      "explanation": "The angle at which an object just starts to slide down an inclined plane.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p4_q38",
+      "text": "Concurrent forces are those that:",
+      "options": ["Are parallel", "Act at the same point", "Act on different bodies", "Are equal"],
+      "correctIndex": 1,
+      "explanation": "Their lines of action intersect at a single point.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p4_q39",
+      "text": "Friction can be reduced by using:",
+      "options": ["Ball bearings", "Polishing", "Streamlining", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Methods to reduce resistance to motion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p4_q40",
+      "text": "If a force of 10N acts on a mass of 10kg, its acceleration is:",
+      "options": ["1 m/s²", "10 m/s²", "100 m/s²", "Zero"],
+      "correctIndex": 0,
+      "explanation": "a = F/m = 10/10 = 1.",
+      "frequencyRating": 5
+    }
+  ]
+}

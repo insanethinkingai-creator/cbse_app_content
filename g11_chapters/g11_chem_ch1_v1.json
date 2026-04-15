@@ -1,0 +1,120 @@
+{
+  "id": "g11_chem_ch1",
+  "grade": "11",
+  "subject": "Chemistry",
+  "number": "1",
+  "title": "Some Basic Concepts of Chemistry",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_c1_q1",
+      "text": "The number of significant figures in 0.0025 is:",
+      "options": ["2", "4", "3", "5"],
+      "correctIndex": 0,
+      "explanation": "Leading zeros are not significant.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c1_q2",
+      "text": "The law which states that 'Matter can neither be created nor destroyed' is:",
+      "options": ["Law of Definite Proportions", "Law of Multiple Proportions", "Law of Conservation of Mass", "Avogadro's Law"],
+      "correctIndex": 2,
+      "explanation": "Proposed by Antoine Lavoisier.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c1_q3",
+      "text": "1 mole of any substance contains exactly _____ particles.",
+      "options": ["6.022 x 10²²", "6.022 x 10²³", "3.011 x 10²³", "1.66 x 10⁻²⁴"],
+      "correctIndex": 1,
+      "explanation": "This is known as the Avogadro constant.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c1_q4",
+      "text": "The empirical formula of glucose (C6H12O6) is:",
+      "options": ["CH2O", "CHO", "C2H4O2", "C6H12O6"],
+      "correctIndex": 0,
+      "explanation": "Empirical formula is the simplest whole-number ratio of atoms.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c1_q5",
+      "text": "Which of the following depends on temperature?",
+      "options": ["Molality", "Molarity", "Mole fraction", "Mass percentage"],
+      "correctIndex": 1,
+      "explanation": "Molarity is moles/volume, and volume changes with temperature.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c1_q6",
+      "text": "What is the mass of 1 mole of CO2?",
+      "options": ["28 g", "44 g", "32 g", "12 g"],
+      "correctIndex": 1,
+      "explanation": "C(12) + 2*O(16) = 12 + 32 = 44.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c1_q7",
+      "text": "The reactant which gets consumed first in a reaction is called:",
+      "options": ["Excess reagent", "Limiting reagent", "Catalyst", "Product"],
+      "correctIndex": 1,
+      "explanation": "It limits the amount of product formed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c1_q8",
+      "text": "The SI unit of amount of substance is:",
+      "options": ["Kilogram", "Gram", "Mole", "Candela"],
+      "correctIndex": 2,
+      "explanation": "Mole is one of the seven base SI units.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c1_q9",
+      "text": "How many moles are present in 18g of water?",
+      "options": ["1", "2", "18", "0.5"],
+      "correctIndex": 0,
+      "explanation": "n = mass/molar mass = 18/18 = 1 mole.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c1_q10",
+      "text": "Gay Lussac's Law of Gaseous Volumes is applicable only to:",
+      "options": ["Solids", "Liquids", "Gases", "All of these"],
+      "correctIndex": 2,
+      "explanation": "It relates the volumes of reacting gases.",
+      "frequencyRating": 4
+    },
+    { "id": "g11_c1_q11", "text": "Molar mass of Oxygen molecule (O2) is:", "options": ["16 u", "32 u", "16 g", "32 g"], "correctIndex": 3, "explanation": "Molar mass is usually expressed in g/mol.", "frequencyRating": 5 },
+    { "id": "g11_c1_q12", "text": "The law of multiple proportions was proposed by:", "options": ["Dalton", "Proust", "Lavoisier", "Gay Lussac"], "correctIndex": 0, "explanation": "John Dalton in 1803.", "frequencyRating": 4 },
+    { "id": "g11_c1_q13", "text": "1 amu is equal to:", "options": ["1/12 mass of C-12", "Mass of H-1", "1 g", "1/16 mass of O-16"], "correctIndex": 0, "explanation": "Definition of unified atomic mass unit.", "frequencyRating": 5 },
+    { "id": "g11_c1_q14", "text": "Mole fraction of a solute in a solution is always:", "options": ["< 1", "> 1", "Equal to 1", "0"], "correctIndex": 0, "explanation": "Sum of all mole fractions is 1.", "frequencyRating": 5 },
+    { "id": "g11_c1_q15", "text": "A solution is a _____ mixture.", "options": ["Heterogeneous", "Homogeneous", "Colloidal", "None"], "correctIndex": 1, "explanation": "Uniform composition throughout.", "frequencyRating": 5 },
+    { "id": "g11_c1_q16", "text": "Standard temperature and pressure (STP) in chemistry is:", "options": ["0°C, 1 bar", "25°C, 1 atm", "0°C, 1 atm", "100°C, 1 bar"], "correctIndex": 0, "explanation": "273.15 K and 10⁵ Pa.", "frequencyRating": 4 },
+    { "id": "g11_c1_q17", "text": "Rounding 1.235 to three significant figures gives:", "options": ["1.23", "1.24", "1.20", "1.30"], "correctIndex": 1, "explanation": "If digit is 5 and previous is odd, round up.", "frequencyRating": 3 },
+    { "id": "g11_c1_q18", "text": "Atomic mass of Nitrogen is:", "options": ["7 u", "14 u", "28 u", "1 u"], "correctIndex": 1, "explanation": "Based on 7 protons and 7 neutrons.", "frequencyRating": 5 },
+    { "id": "g11_c1_q19", "text": "Molarity (M) is defined as:", "options": ["moles/kg", "moles/L", "g/L", "mass/vol"], "correctIndex": 1, "explanation": "Standard unit for concentration.", "frequencyRating": 5 },
+    { "id": "g11_c1_q20", "text": "Molality (m) is defined as:", "options": ["moles/kg solvent", "moles/L solution", "moles/kg solution", "g/kg"], "correctIndex": 0, "explanation": "Independent of temperature.", "frequencyRating": 5 },
+    { "id": "g11_c1_q21", "text": "Density of a substance is:", "options": ["Mass/Volume", "Volume/Mass", "Mass*Volume", "Force/Area"], "correctIndex": 0, "explanation": "SI unit kg/m³.", "frequencyRating": 5 },
+    { "id": "g11_c1_q22", "text": "Avogadro's hypothesis states equal volumes of gases at same T, P contain equal:", "options": ["Mass", "Atoms", "Molecules", "Density"], "correctIndex": 2, "explanation": "V ∝ n.", "frequencyRating": 5 },
+    { "id": "g11_c1_q23", "text": "Sum of mass percentage of all components is:", "options": ["1", "10", "100", "Depends on mass"], "correctIndex": 2, "explanation": "Percentage totals 100.", "frequencyRating": 5 },
+    { "id": "g11_c1_q24", "text": "Molar mass of NaOH is:", "options": ["40 g", "30 g", "23 g", "17 g"], "correctIndex": 0, "explanation": "23(Na) + 16(O) + 1(H) = 40.", "frequencyRating": 5 },
+    { "id": "g11_c1_q25", "text": "Mole fraction has units:", "options": ["mol/L", "mol/kg", "No units", "g/mol"], "correctIndex": 2, "explanation": "It is a ratio of same quantities.", "frequencyRating": 5 },
+    { "id": "g11_c1_q26", "text": "A compound contains 75% C and 25% H by mass. Its empirical formula is:", "options": ["CH", "CH2", "CH3", "CH4"], "correctIndex": 3, "explanation": "C: 75/12=6.25; H: 25/1=25. Ratio 1:4.", "frequencyRating": 4 },
+    { "id": "g11_c1_q27", "text": "Mass of 1 electron is approx:", "options": ["9.1 x 10⁻³¹ kg", "1.6 x 10⁻²⁷ kg", "1.6 x 10⁻¹⁹ kg", "9.1 x 10⁻³¹ g"], "correctIndex": 0, "explanation": "Fundamental constant.", "frequencyRating": 5 },
+    { "id": "g11_c1_q28", "text": "Isotopes have same _____ but different _____.", "options": ["Mass, Atomic number", "Atomic number, Mass", "Protons, Electrons", "None"], "correctIndex": 1, "explanation": "Vary in number of neutrons.", "frequencyRating": 5 },
+    { "id": "g11_c1_q29", "text": "Which prefix represents 10⁻⁹?", "options": ["Micro", "Nano", "Pico", "Femto"], "correctIndex": 1, "explanation": "Standard SI prefix.", "frequencyRating": 5 },
+    { "id": "g11_c1_q30", "text": "Which prefix represents 10⁻¹²?", "options": ["Nano", "Pico", "Micro", "Atto"], "correctIndex": 1, "explanation": "Standard SI prefix.", "frequencyRating": 5 },
+    { "id": "g11_c1_q31", "text": "Accuracy refers to:", "options": ["Closeness to true value", "Reproducibility", "Number of digits", "None"], "correctIndex": 0, "explanation": "Difference between measured and true.", "frequencyRating": 4 },
+    { "id": "g11_c1_q32", "text": "Precision refers to:", "options": ["Closeness to true value", "Closeness of multiple measurements", "Exactness", "None"], "correctIndex": 1, "explanation": "Consistency of data.", "frequencyRating": 4 },
+    { "id": "g11_c1_q33", "text": "Pure substances are classified into:", "options": ["Mixtures and solutions", "Elements and compounds", "Solids and liquids", "Metals and non-metals"], "correctIndex": 1, "explanation": "Basic classification of matter.", "frequencyRating": 5 },
+    { "id": "g11_c1_q34", "text": "Number of atoms in 1 mole of helium is:", "options": ["6.022 x 10²³", "12.044 x 10²³", "3.011 x 10²³", "1"], "correctIndex": 0, "explanation": "Helium is monatomic.", "frequencyRating": 4 },
+    { "id": "g11_c1_q35", "text": "In a balanced equation, sum of atoms on both sides is:", "options": ["Equal", "Different", "Zero", "Always even"], "correctIndex": 0, "explanation": "Law of conservation of mass.", "frequencyRating": 5 },
+    { "id": "g11_c1_q36", "text": "Which is a derived unit?", "options": ["Second", "Mole", "Joule", "Kelvin"], "correctIndex": 2, "explanation": "Joule = kg m²/s².", "frequencyRating": 4 },
+    { "id": "g11_c1_q37", "text": "Volume of 16g of oxygen gas (O2) at STP is:", "options": ["22.4 L", "11.2 L", "5.6 L", "44.8 L"], "correctIndex": 1, "explanation": "16g is 0.5 moles. 0.5 * 22.4 = 11.2.", "frequencyRating": 4 },
+    { "id": "g11_c1_q38", "text": "Law of constant proportions was given by:", "options": ["Joseph Proust", "Lavoisier", "Dalton", "Berzelius"], "correctIndex": 0, "explanation": "Elements are always in same ratio by mass.", "frequencyRating": 4 },
+    { "id": "g11_c1_q39", "text": "Mass of 1 atom of C-12 is:", "options": ["12 g", "12 u", "1.99 x 10⁻²³ g", "1.66 x 10⁻²⁴ g"], "correctIndex": 1, "explanation": "Defined as 12u exactly.", "frequencyRating": 5 },
+    { "id": "g11_c1_q40", "text": "What is the molarity of pure water?", "options": ["1 M", "18 M", "55.5 M", "0.1 M"], "correctIndex": 2, "explanation": "1000g / 18g/mol = 55.55 mol/L.", "frequencyRating": 3 }
+  ]
+}

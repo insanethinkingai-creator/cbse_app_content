@@ -1,0 +1,119 @@
+{
+  "id": "g11_chem_ch5",
+  "grade": "11",
+  "subject": "Chemistry",
+  "number": "5",
+  "title": "Chemical Thermodynamics",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_c5_q1",
+      "text": "A system which can exchange both matter and energy with the surroundings is:",
+      "options": ["Closed system", "Isolated system", "Open system", "Isothermal system"],
+      "correctIndex": 2,
+      "explanation": "Example: Boiling water in an open beaker.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c5_q2",
+      "text": "Which of the following is an intensive property?",
+      "options": ["Mass", "Volume", "Temperature", "Internal energy"],
+      "correctIndex": 2,
+      "explanation": "Intensive properties do not depend on the amount of matter.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c5_q3",
+      "text": "The First Law of Thermodynamics is expressed mathematically as:",
+      "options": ["ΔU = q + w", "ΔH = ΔU + PΔV", "q = mcΔT", "ΔG = ΔH - TΔS"],
+      "correctIndex": 0,
+      "explanation": "Law of conservation of energy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c5_q4",
+      "text": "For an adiabatic process, which of the following is true?",
+      "options": ["ΔT = 0", "q = 0", "w = 0", "ΔV = 0"],
+      "correctIndex": 1,
+      "explanation": "No heat enters or leaves the system.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c5_q5",
+      "text": "The enthalpy of all elements in their standard state is:",
+      "options": ["Unity", "Zero", "Negative", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "By convention, standard enthalpy of formation of pure elements is zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c5_q6",
+      "text": "In an exothermic reaction, the sign of ΔH is:",
+      "options": ["Positive", "Negative", "Zero", "Depends on temperature"],
+      "correctIndex": 1,
+      "explanation": "Heat is released to the surroundings.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c5_q7",
+      "text": "Hess's Law states that the total enthalpy change of a reaction is:",
+      "options": ["Always zero", "Path dependent", "Independent of the path", "Equal to activation energy"],
+      "correctIndex": 2, "explanation": "It depends only on initial and final states.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c5_q8",
+      "text": "Entropy is a measure of:",
+      "options": ["Heat content", "Disorder or Randomness", "Total energy", "Work potential"],
+      "correctIndex": 1,
+      "explanation": "Higher entropy means more randomness.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c5_q9",
+      "text": "A reaction is spontaneous at all temperatures if:",
+      "options": ["ΔH is +ve, ΔS is +ve", "ΔH is -ve, ΔS is +ve", "ΔH is -ve, ΔS is -ve", "ΔH is +ve, ΔS is -ve"],
+      "correctIndex": 1,
+      "explanation": "In ΔG = ΔH - TΔS, ΔG will always be negative.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c5_q10",
+      "text": "The Third Law of Thermodynamics states that the entropy of a perfectly crystalline substance at absolute zero is:",
+      "options": ["Zero", "Maximum", "Infinite", "Negative"],
+      "correctIndex": 0,
+      "explanation": "At 0 K, all molecular motion stops in a perfect crystal.",
+      "frequencyRating": 5
+    },
+    { "id": "g11_c5_q11", "text": "Work done in an isolated system is:", "options": ["q", "ΔU", "Zero", "-ΔU"], "correctIndex": 2, "explanation": "Isolated systems do not interact with surroundings.", "frequencyRating": 4 },
+    { "id": "g11_c5_q12", "text": "Cp - Cv for 1 mole of an ideal gas is:", "options": ["R", "2R", "R/2", "0"], "correctIndex": 0, "explanation": "Mayer's relation.", "frequencyRating": 5 },
+    { "id": "g11_c5_q13", "text": "Which is a state function?", "options": ["Heat", "Work", "Enthalpy", "Distance"], "correctIndex": 2, "explanation": "Values depend only on the state, not how it was reached.", "frequencyRating": 5 },
+    { "id": "g11_c5_q14", "text": "Unit of Entropy is:", "options": ["J/K", "J/mol", "J K", "Watt"], "correctIndex": 0, "explanation": "Entropy S = q/T.", "frequencyRating": 5 },
+    { "id": "g11_c5_q15", "text": "For a spontaneous process in an isolated system, ΔS is:", "options": ["> 0", "< 0", "0", "-1"], "correctIndex": 0, "explanation": "Disorder increases over time.", "frequencyRating": 5 },
+    { "id": "g11_c5_q16", "text": "Standard Gibbs energy (ΔG°) is related to equilibrium constant (K) as:", "options": ["ΔG° = -RT ln K", "ΔG° = RT ln K", "ΔG° = K", "None"], "correctIndex": 0, "explanation": "Fundamental thermodynamic relation.", "frequencyRating": 5 },
+    { "id": "g11_c5_q17", "text": "If ΔG is zero, the system is at:", "options": ["Spontaneity", "Equilibrium", "Non-spontaneity", "Absolute zero"], "correctIndex": 1, "explanation": "No net change occurs.", "frequencyRating": 5 },
+    { "id": "g11_c5_q18", "text": "Internal energy change at constant volume is equal to:", "options": ["qp", "qv", "ΔH", "w"], "correctIndex": 1, "explanation": "ΔU = q + w; at constant V, w=0.", "frequencyRating": 4 },
+    { "id": "g11_c5_q19", "text": "Enthalpy change at constant pressure is equal to:", "options": ["qp", "qv", "ΔU", "None"], "correctIndex": 0, "explanation": "ΔH = qp by definition.", "frequencyRating": 4 },
+    { "id": "g11_c5_q20", "text": "Bomb calorimeter is used to measure:", "options": ["ΔH", "ΔU", "ΔG", "ΔS"], "correctIndex": 1, "explanation": "It measures heat at constant volume.", "frequencyRating": 4 },
+    { "id": "g11_c5_q21", "text": "Specific heat is the heat needed to raise the temp of _____ by 1°C.", "options": ["1 kg", "1 g", "1 mole", "Whole body"], "correctIndex": 1, "explanation": "Standard unit definition (J/g·K).", "frequencyRating": 5 },
+    { "id": "g11_c5_q22", "text": "Bond dissociation energy is always:", "options": ["Positive", "Negative", "Zero", "Depends on bond"], "correctIndex": 0, "explanation": "Energy must be supplied to break a bond.", "frequencyRating": 5 },
+    { "id": "g11_c5_q23", "text": "Which of the following is an extensive property?", "options": ["Density", "Molar heat capacity", "Volume", "Viscosity"], "correctIndex": 2, "explanation": "Volume depends on the amount of substance.", "frequencyRating": 5 },
+    { "id": "g11_c5_q24", "text": "ΔH and ΔU are related as ΔH = ΔU + _____:", "options": ["PΔV", "ΔnRT", "Both A and B", "None"], "correctIndex": 2, "explanation": "Equivalent expressions for P-V work.", "frequencyRating": 5 },
+    { "id": "g11_c5_q25", "text": "Enthalpy of neutralization of strong acid and strong base is approx:", "options": ["-57.1 kJ", "+57.1 kJ", "0 kJ", "-13.7 kJ"], "correctIndex": 0, "explanation": "Constant for H⁺ + OH⁻ -> H₂O.", "frequencyRating": 4 },
+    { "id": "g11_c5_q26", "text": "Enthalpy of combustion is always:", "options": ["Negative", "Positive", "Zero", "Variable"], "correctIndex": 0, "explanation": "Combustion is always an exothermic process.", "frequencyRating": 5 },
+    { "id": "g11_c5_q27", "text": "Lattice enthalpy depends on:", "options": ["Charge of ions", "Size of ions", "Both", "None"], "correctIndex": 2, "explanation": "U ∝ (q1q2)/r.", "frequencyRating": 4 },
+    { "id": "g11_c5_q28", "text": "Isothermal expansion of ideal gas into vacuum results in work done equal to:", "options": ["Positive", "Negative", "Zero", "Infinite"], "correctIndex": 2, "explanation": "P_ext = 0, so w = -PΔV = 0.", "frequencyRating": 4 },
+    { "id": "g11_c5_q29", "text": "Entropy of vaporisation is _____ than entropy of fusion.", "options": ["Higher", "Lower", "Equal", "Zero"], "correctIndex": 0, "explanation": "Gases have much more disorder than liquids.", "frequencyRating": 4 },
+    { "id": "g11_c5_q30", "text": "Gibbs Helmholtz equation is:", "options": ["ΔG = ΔH - TΔS", "ΔG = ΔH + TΔS", "ΔH = ΔG - TΔS", "None"], "correctIndex": 0, "explanation": "Relates enthalpy, entropy and free energy.", "frequencyRating": 5 },
+    { "id": "g11_c5_q31", "text": "A coffee cup calorimeter measures heat at constant:", "options": ["Volume", "Pressure", "Temperature", "Entropy"], "correctIndex": 1, "explanation": "Open to atmosphere.", "frequencyRating": 3 },
+    { "id": "g11_c5_q32", "text": "Standard conditions in thermodynamics mean:", "options": ["298 K, 1 bar", "273 K, 1 atm", "0 K", "100°C"], "correctIndex": 0, "explanation": "Standard state definitions.", "frequencyRating": 5 },
+    { "id": "g11_c5_q33", "text": "Heat of formation of Diamond is _____ while Graphite is zero.", "options": ["Positive", "Negative", "Zero", "Infinity"], "correctIndex": 0, "explanation": "Graphite is the most stable allotrope.", "frequencyRating": 4 },
+    { "id": "g11_c5_q34", "text": "If ΔH is -ve and ΔS is -ve, reaction is spontaneous at:", "options": ["Low T", "High T", "All T", "No T"], "correctIndex": 0, "explanation": "Lower T makes -TΔS term smaller than negative ΔH.", "frequencyRating": 4 },
+    { "id": "g11_c5_q35", "text": "Work done on the system is _____ in chemistry.", "options": ["Positive", "Negative", "Zero", "None"], "correctIndex": 0, "explanation": "IUPAC convention.", "frequencyRating": 5 },
+    { "id": "g11_c5_q36", "text": "Work done by the system is _____ in chemistry.", "options": ["Positive", "Negative", "Zero", "None"], "correctIndex": 1, "explanation": "IUPAC convention.", "frequencyRating": 5 },
+    { "id": "g11_c5_q37", "text": "Standard molar entropy of a gas is _____ than solid.", "options": ["Higher", "Lower", "Same", "Zero"], "correctIndex": 0, "explanation": "Due to molecular movement.", "frequencyRating": 5 },
+    { "id": "g11_c5_q38", "text": "Reversible processes are _____ while irreversible are _____.", "options": ["Slow, Fast", "Fast, Slow", "Common, Rare", "None"], "correctIndex": 0, "explanation": "Reversible occurs in infinite steps.", "frequencyRating": 4 },
+    { "id": "g11_c5_q39", "text": "Units of Gibbs Free Energy are:", "options": ["Joule", "J/K", "J/mol", "Watt"], "correctIndex": 2, "explanation": "Usually expressed per mole.", "frequencyRating": 5 },
+    { "id": "g11_c5_q40", "text": "Entropy increases when solid turns to liquid.", "options": ["True", "False", "Sometimes", "None"], "correctIndex": 0, "explanation": "Increase in mobility increases disorder.", "frequencyRating": 5 }
+  ]
+}

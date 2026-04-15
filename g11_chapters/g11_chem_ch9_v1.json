@@ -1,0 +1,124 @@
+{
+  "id": "g11_chem_ch9",
+  "grade": "11",
+  "subject": "Chemistry",
+  "number": "9",
+  "title": "s-Block Elements",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_c9_q1",
+      "text": "Which of the following elements is an alkali metal?",
+      "options": ["Magnesium", "Calcium", "Potassium", "Aluminum"],
+      "correctIndex": 2,
+      "explanation": "Potassium (K) is in Group 1, the alkali metals. Mg, Ca are alkaline earth metals, Al is a p-block element.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c9_q2",
+      "text": "Alkali metals are characterized by their tendency to:",
+      "options": ["Gain electrons", "Lose one electron", "Lose two electrons", "Form covalent bonds"],
+      "correctIndex": 1,
+      "explanation": "They have one valence electron which they readily lose to form +1 ions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c9_q3",
+      "text": "Which of the following alkali metals has the lowest ionization enthalpy?",
+      "options": ["Lithium", "Sodium", "Potassium", "Cesium"],
+      "correctIndex": 3,
+      "explanation": "Ionization enthalpy decreases down the group due to increasing atomic size and shielding effect.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c9_q4",
+      "text": "Alkaline earth metals are found in which group of the periodic table?",
+      "options": ["Group 1", "Group 2", "Group 13", "Group 14"],
+      "correctIndex": 1,
+      "explanation": "Group 2 elements are called alkaline earth metals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c9_q5",
+      "text": "Which of the following alkaline earth metals has the highest hydration enthalpy?",
+      "options": ["Beryllium", "Magnesium", "Calcium", "Barium"],
+      "correctIndex": 0,
+      "explanation": "Hydration enthalpy decreases down the group due to increasing ionic size.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c9_q6",
+      "text": "The general electronic configuration of s-block elements is:",
+      "options": ["ns¹", "ns²", "ns¹⁻²", "np¹⁻⁶"],
+      "correctIndex": 2,
+      "explanation": "Group 1 elements have ns¹ and Group 2 elements have ns².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c9_q7",
+      "text": "Which alkali metal is stored under kerosene oil to prevent reaction with air and moisture?",
+      "options": ["Lithium", "Sodium", "Rubidium", "Cesium"],
+      "correctIndex": 1,
+      "explanation": "Sodium is highly reactive and reacts vigorously with oxygen and water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c9_q8",
+      "text": "The diagonal relationship exists between Lithium and:",
+      "options": ["Sodium", "Magnesium", "Beryllium", "Aluminum"],
+      "correctIndex": 1,
+      "explanation": "Li and Mg show similar properties due to similar charge/radius ratio.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c9_q9",
+      "text": "Which of the following compounds is used as an antacid?",
+      "options": ["NaOH", "Ca(OH)₂", "Mg(OH)₂", "KOH"],
+      "correctIndex": 2,
+      "explanation": "Magnesium hydroxide (Milk of Magnesia) is a common antacid.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c9_q10",
+      "text": "Plaster of Paris is chemically:",
+      "options": ["Calcium sulphate dihydrate", "Calcium sulphate hemihydrate", "Calcium carbonate", "Calcium oxide"],
+      "correctIndex": 1,
+      "explanation": "CaSO₄·½H₂O. It is used in casts and sculptures.",
+      "frequencyRating": 5
+    },
+    { "id": "g11_c9_q11", "text": "The flame color produced by Sodium is:", "options": ["Crimson red", "Golden yellow", "Lilac", "Apple green"], "correctIndex": 1, "explanation": "Characteristic flame test color for Na.", "frequencyRating": 5 },
+    { "id": "g11_c9_q12", "text": "Which of the following is an anhydrous salt?", "options": ["Washing soda", "Gypsum", "Epsom salt", "Dead burnt plaster"], "correctIndex": 3, "explanation": "Dead burnt plaster is anhydrous CaSO₄, formed by strong heating of gypsum.", "frequencyRating": 4 },
+    { "id": "g11_c9_q13", "text": "The solubility of alkaline earth metal hydroxides _____ down the group.", "options": ["Increases", "Decreases", "Remains constant", "First increases then decreases"], "correctIndex": 0, "explanation": "Lattice energy decreases more slowly than hydration energy.", "frequencyRating": 4 },
+    { "id": "g11_c9_q14", "text": "Which of the following is used in the Solvay process for the manufacture of sodium carbonate?", "options": ["NaOH", "NaCl", "Na₂SO₄", "NaNO₃"], "correctIndex": 1, "explanation": "Brine (NaCl solution) is a key raw material.", "frequencyRating": 5 },
+    { "id": "g11_c9_q15", "text": "Beryllium shows anomalous behavior compared to other alkaline earth metals due to:", "options": ["Small size", "High electronegativity", "Absence of d-orbitals", "All of these"], "correctIndex": 3, "explanation": "These factors contribute to its covalent character and unique properties.", "frequencyRating": 4 },
+    { "id": "g11_c9_q16", "text": "Which of the following is a component of chlorophyll?", "options": ["Calcium", "Magnesium", "Sodium", "Potassium"], "correctIndex": 1, "explanation": "Magnesium is the central metal ion in the chlorophyll molecule.", "frequencyRating": 5 },
+    { "id": "g11_c9_q17", "text": "Lithium reacts with nitrogen to form:", "options": ["Li₃N", "LiN", "Li₂N", "LiNO₃"], "correctIndex": 0, "explanation": "Lithium is the only alkali metal that directly reacts with nitrogen to form a nitride.", "frequencyRating": 4 },
+    { "id": "g11_c9_q18", "text": "The reducing power of alkali metals _____ down the group.", "options": ["Increases", "Decreases", "Remains constant", "First increases then decreases"], "correctIndex": 0, "explanation": "Ease of losing electrons increases, making them stronger reducing agents.", "frequencyRating": 5 },
+    { "id": "g11_c9_q19", "text": "Which of the following is known as 'milk of magnesia'?", "options": ["MgO", "Mg(OH)₂", "MgSO₄", "MgCl₂"], "correctIndex": 1, "explanation": "A suspension of magnesium hydroxide in water.", "frequencyRating": 5 },
+    { "id": "g11_c9_q20", "text": "The stability of peroxides and superoxides of alkali metals _____ down the group.", "options": ["Increases", "Decreases", "Remains constant", "None"], "correctIndex": 0, "explanation": "Larger cations stabilize larger anions (peroxide O₂²⁻, superoxide O₂⁻).", "frequencyRating": 4 },
+    { "id": "g11_c9_q21", "text": "Which of the following is used in the manufacture of cement?", "options": ["NaCl", "CaCO₃", "NaOH", "KOH"], "correctIndex": 1, "explanation": "Limestone (CaCO₃) is a primary raw material for cement production.", "frequencyRating": 5 },
+    { "id": "g11_c9_q22", "text": "The biological importance of sodium ions includes:", "options": ["Maintaining osmotic balance", "Nerve impulse transmission", "Both A and B", "Bone formation"], "correctIndex": 2, "explanation": "Na⁺ and K⁺ ions play crucial roles in biological systems.", "frequencyRating": 5 },
+    { "id": "g11_c9_q23", "text": "Which of the following is a strong base?", "options": ["LiOH", "NaOH", "Mg(OH)₂", "Be(OH)₂"], "correctIndex": 1, "explanation": "NaOH is a strong alkali. Mg(OH)₂ and Be(OH)₂ are weaker bases.", "frequencyRating": 5 },
+    { "id": "g11_c9_q24", "text": "The flame color produced by Calcium is:", "options": ["Brick red", "Apple green", "Lilac", "Golden yellow"], "correctIndex": 0, "explanation": "Characteristic flame test color for Ca.", "frequencyRating": 5 },
+    { "id": "g11_c9_q25", "text": "The density of alkali metals _____ down the group.", "options": ["Increases", "Decreases", "Remains constant", "First increases then decreases"], "correctIndex": 0, "explanation": "Atomic mass increases more rapidly than atomic volume.", "frequencyRating": 4 },
+    { "id": "g11_c9_q26", "text": "Which of the following is used in the treatment of bipolar disorders?", "options": ["NaCl", "Li₂CO₃", "KOH", "CaCO₃"], "correctIndex": 1, "explanation": "Lithium carbonate is a common medication for bipolar disorder.", "frequencyRating": 3 },
+    { "id": "g11_c9_q27", "text": "The melting points of alkali metals _____ down the group.", "options": ["Increases", "Decreases", "Remains constant", "None"], "correctIndex": 1, "explanation": "Due to decreasing metallic bonding strength.", "frequencyRating": 4 },
+    { "id": "g11_c9_q28", "text": "Which of the following is an example of a super-oxide?", "options": ["Na₂O", "Na₂O₂", "KO₂", "K₂O"], "correctIndex": 2, "explanation": "Superoxides contain the O₂⁻ ion.", "frequencyRating": 5 },
+    { "id": "g11_c9_q29", "text": "The reducing power of alkaline earth metals _____ down the group.", "options": ["Increases", "Decreases", "Remains constant", "None"], "correctIndex": 0, "explanation": "Ease of losing electrons increases.", "frequencyRating": 5 },
+    { "id": "g11_c9_q30", "text": "Which of the following is used as a drying agent?", "options": ["CaCl₂", "CaO", "Both A and B", "None"], "correctIndex": 2, "explanation": "Both calcium chloride and calcium oxide are effective drying agents.", "frequencyRating": 4 },
+    { "id": "g11_c9_q31", "text": "The basic character of hydroxides of alkaline earth metals _____ down the group.", "options": ["Increases", "Decreases", "Remains constant", "None"], "correctIndex": 0, "explanation": "Due to increasing ionic character and decreasing electronegativity.", "frequencyRating": 5 },
+    { "id": "g11_c9_q32", "text": "Which of the following is used in photography?", "options": ["NaCl", "NaBr", "AgBr", "KCl"], "correctIndex": 2, "explanation": "Silver bromide is light-sensitive and used in photographic films.", "frequencyRating": 3 },
+    { "id": "g11_c9_q33", "text": "The hydration enthalpy of alkali metal ions _____ down the group.", "options": ["Increases", "Decreases", "Remains constant", "None"], "correctIndex": 1, "explanation": "Due to increasing ionic size.", "frequencyRating": 5 },
+    { "id": "g11_c9_q34", "text": "Which of the following is used in street lights?", "options": ["Lithium", "Sodium", "Potassium", "Cesium"], "correctIndex": 1, "explanation": "Sodium vapor lamps produce a characteristic golden-yellow light.", "frequencyRating": 5 },
+    { "id": "g11_c9_q35", "text": "The thermal stability of carbonates of alkaline earth metals _____ down the group.", "options": ["Increases", "Decreases", "Remains constant", "None"], "correctIndex": 0, "explanation": "Larger cations stabilize larger anions (CO₃²⁻).", "frequencyRating": 4 },
+    { "id": "g11_c9_q36", "text": "Which of the following is used in the preparation of hydrogen?", "options": ["NaOH", "CaH₂", "Mg(OH)₂", "NaCl"], "correctIndex": 1, "explanation": "Calcium hydride (hydrolith) reacts with water to produce hydrogen.", "frequencyRating": 4 },
+    { "id": "g11_c9_q37", "text": "The flame color produced by Barium is:", "options": ["Apple green", "Crimson red", "Lilac", "Golden yellow"], "correctIndex": 0, "explanation": "Characteristic flame test color for Ba.", "frequencyRating": 4 },
+    { "id": "g11_c9_q38", "text": "Which of the following is used as a flux in metallurgy?", "options": ["CaCO₃", "CaO", "Both A and B", "None"], "correctIndex": 2, "explanation": "Limestone and quicklime are used to remove impurities in metal extraction.", "frequencyRating": 4 },
+    { "id": "g11_c9_q39", "text": "The density of alkaline earth metals _____ down the group.", "options": ["Increases", "Decreases", "Remains constant", "First increases then decreases"], "correctIndex": 0, "explanation": "Atomic mass increases more rapidly than atomic volume.", "frequencyRating": 4 },
+    { "id": "g11_c9_q40", "text": "Which of the following is used in the treatment of cancer?", "options": ["Sodium", "Potassium", "Cesium", "Radium"],
+      "correctIndex": 3,
+      "explanation": "Radium (a radioactive alkaline earth metal) was historically used in radiotherapy.",
+      "frequencyRating": 3
+    }
+  ]
+}

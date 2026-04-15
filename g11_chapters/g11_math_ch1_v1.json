@@ -1,0 +1,330 @@
+{
+  "id": "g11_math_ch1",
+  "grade": "11",
+  "subject": "Mathematics",
+  "number": "1",
+  "title": "Sets",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_m1_q1",
+      "text": "A set is a well-defined collection of:",
+      "options": ["Numbers only", "Objects", "Alphabet letters", "Variable data"],
+      "correctIndex": 1,
+      "explanation": "By definition, a set is a well-defined collection of distinct objects.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q2",
+      "text": "The set of all vowels in the English alphabet is represented in roster form as:",
+      "options": ["{a, b, c, d, e}", "{a, e, i, o, u}", "{vowels}", "{a, i, u}"],
+      "correctIndex": 1,
+      "explanation": "Roster form lists all elements separated by commas within braces.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q3",
+      "text": "A set containing no elements is called a/an:",
+      "options": ["Singleton set", "Finite set", "Empty set", "Universal set"],
+      "correctIndex": 2,
+      "explanation": "An empty set (or null set/void set) is denoted by φ or {}.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q4",
+      "text": "If A = {1, 2} and B = {1, 2, 3}, then:",
+      "options": ["A is a subset of B", "B is a subset of A", "A = B", "A and B are disjoint"],
+      "correctIndex": 0,
+      "explanation": "Every element of A is also an element of B, so A ⊂ B.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q5",
+      "text": "The number of subsets of a set with 'n' elements is:",
+      "options": ["n²", "2n", "2^n", "n^n"],
+      "correctIndex": 2,
+      "explanation": "The power set of a set with n elements has 2^n elements.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q6",
+      "text": "The intersection of two disjoint sets is:",
+      "options": ["The universal set", "The first set", "The empty set", "The union of the sets"],
+      "correctIndex": 2,
+      "explanation": "Disjoint sets have no common elements, so their intersection is φ.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q7",
+      "text": "If A = {1, 2, 3} and B = {3, 4, 5}, then A ∪ B is:",
+      "options": ["{3}", "{1, 2, 3, 4, 5}", "{1, 2, 4, 5}", "{1, 2, 3, 3, 4, 5}"],
+      "correctIndex": 1,
+      "explanation": "Union combines all elements, but duplicates are written only once.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q8",
+      "text": "The complement of the universal set is:",
+      "options": ["The universal set itself", "The empty set", "A subset", "A singleton set"],
+      "correctIndex": 1,
+      "explanation": "U' = U - U = φ.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m1_q9",
+      "text": "A set with only one element is called a:",
+      "options": ["Unit set", "Singleton set", "Empty set", "Finite set"],
+      "correctIndex": 1,
+      "explanation": "Example: {5} is a singleton set.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m1_q10",
+      "text": "In set-builder notation, A = {x : x is an even natural number < 10} is:",
+      "options": ["{2, 4, 6, 8, 10}", "{2, 4, 6, 8}", "{0, 2, 4, 6, 8}", "{1, 2, 4, 6, 8}"],
+      "correctIndex": 1,
+      "explanation": "Natural numbers start from 1. Even numbers less than 10 are 2, 4, 6, 8.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q11",
+      "text": "The set of real numbers is denoted by:",
+      "options": ["N", "Z", "Q", "R"],
+      "correctIndex": 3,
+      "explanation": "R stands for Real numbers, Q for Rationals, Z for Integers, N for Naturals.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m1_q12",
+      "text": "If A ⊂ B, then A ∪ B equals:",
+      "options": ["A", "B", "φ", "U"],
+      "correctIndex": 1,
+      "explanation": "If A is contained in B, their union is simply the larger set B.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q13",
+      "text": "If A ⊂ B, then A ∩ B equals:",
+      "options": ["A", "B", "φ", "U"],
+      "correctIndex": 0,
+      "explanation": "If A is contained in B, their common elements are exactly the elements of A.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q14",
+      "text": "The difference A - B consists of elements that are in:",
+      "options": ["Both A and B", "B but not A", "A but not B", "Either A or B"],
+      "correctIndex": 2,
+      "explanation": "A - B contains elements belonging to A that do not belong to B.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q15",
+      "text": "Which of the following is an infinite set?",
+      "options": ["{x : x ∈ N, x < 100}", "Set of days in a week", "Set of points on a line", "{1, 2, 3}"],
+      "correctIndex": 2,
+      "explanation": "A line segment contains infinitely many points.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m1_q16",
+      "text": "According to De Morgan's Law, (A ∪ B)' is equal to:",
+      "options": ["A' ∪ B'", "A' ∩ B'", "A ∩ B", "A' - B'"],
+      "correctIndex": 1,
+      "explanation": "The complement of the union is the intersection of the complements.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q17",
+      "text": "What is the cardinality of the set A = {x : x is a letter in the word 'MATHEMATICS'}?",
+      "options": ["11", "8", "9", "10"],
+      "correctIndex": 1,
+      "explanation": "Unique letters: M, A, T, H, E, I, C, S. Count is 8.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m1_q18",
+      "text": "If n(A) = 20, n(B) = 30 and n(A ∪ B) = 40, then n(A ∩ B) is:",
+      "options": ["10", "50", "70", "0"],
+      "correctIndex": 0,
+      "explanation": "n(A ∪ B) = n(A) + n(B) - n(A ∩ B) => 40 = 20 + 30 - x => x = 10.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q19",
+      "text": "The power set of an empty set has ________ elements.",
+      "options": ["0", "1", "2", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "P(φ) = {φ}. It contains one element.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m1_q20",
+      "text": "Venn diagrams were named after:",
+      "options": ["John Venn", "Leonhard Euler", "Georg Cantor", "Bertrand Russell"],
+      "correctIndex": 0,
+      "explanation": "John Venn popularized these diagrams to represent set relationships.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m1_q21",
+      "text": "In a Venn diagram, the universal set is usually represented by a:",
+      "options": ["Circle", "Rectangle", "Triangle", "Square"],
+      "correctIndex": 1,
+      "explanation": "The rectangle represents the universal set, and circles represent its subsets.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q22",
+      "text": "The symmetric difference of A and B is (A - B) ∪ (B - A). This represents elements in:",
+      "options": ["Both A and B", "Either A or B but not both", "Only A", "Universal set"],
+      "correctIndex": 1,
+      "explanation": "It excludes the intersection of the two sets.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m1_q23",
+      "text": "Two sets A and B are equal if:",
+      "options": ["n(A) = n(B)", "A ⊂ B and B ⊂ A", "A ∪ B = φ", "A ∩ B = U"],
+      "correctIndex": 1,
+      "explanation": "This is the formal definition of set equality.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q24",
+      "text": "If A = {φ, {φ}}, then the number of elements in A is:",
+      "options": ["0", "1", "2", "3"],
+      "correctIndex": 2,
+      "explanation": "The elements are 'φ' and the set '{φ}'.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m1_q25",
+      "text": "The set {x : x ∈ R, a < x < b} is called a/an:",
+      "options": ["Closed interval", "Open interval", "Semi-open interval", "Finite set"],
+      "correctIndex": 1,
+      "explanation": "Open intervals exclude the endpoints and are denoted by (a, b).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q26",
+      "text": "The set {x : x ∈ R, a ≤ x ≤ b} is denoted by:",
+      "options": ["(a, b)", "[a, b]", "[a, b)", "(a, b]"],
+      "correctIndex": 1,
+      "explanation": "Brackets [] indicate that the endpoints are included (closed interval).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q27",
+      "text": "If A is a set with 3 elements, how many elements are in P(P(A))? (Note: P is Power Set)",
+      "options": ["8", "64", "256", "16"],
+      "correctIndex": 2,
+      "explanation": "n(P(A)) = 2³ = 8. n(P(P(A))) = 2⁸ = 256.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m1_q28",
+      "text": "For any set A, (A')' is:",
+      "options": ["A", "A'", "φ", "U"],
+      "correctIndex": 0,
+      "explanation": "The complement of a complement is the original set itself.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q29",
+      "text": "A ∩ (B ∪ C) = (A ∩ B) ∪ (A ∩ C) is the ________ property.",
+      "options": ["Commutative", "Associative", "Distributive", "Idempotent"],
+      "correctIndex": 2,
+      "explanation": "Intersection distributes over union.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q30",
+      "text": "The set of all irrational numbers is denoted by:",
+      "options": ["R - Q", "Q'", "T", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Irrational numbers are real numbers that are not rational.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g11_m1_q31",
+      "text": "If n(A - B) = 10, n(B - A) = 15 and n(A ∩ B) = 5, then n(A ∪ B) is:",
+      "options": ["20", "25", "30", "35"],
+      "correctIndex": 2,
+      "explanation": "n(A ∪ B) = n(A-B) + n(B-A) + n(A ∩ B) = 10 + 15 + 5 = 30.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m1_q32",
+      "text": "Two finite sets have m and n elements. The total number of subsets of the first is 56 more than the second. The values of m and n are:",
+      "options": ["6, 3", "7, 6", "5, 1", "8, 7"],
+      "correctIndex": 0,
+      "explanation": "2^m - 2^n = 56. 2^n (2^{m-n} - 1) = 8 * 7 = 2³(2³ - 1). So n=3, m-n=3 => m=6.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m1_q33",
+      "text": "Which of the following is true for any two sets A and B?",
+      "options": ["A - B = A ∩ B'", "A - B = A ∪ B'", "A - B = B - A", "A - B = A' ∩ B"],
+      "correctIndex": 0,
+      "explanation": "The difference A - B is equivalent to the intersection of A with the complement of B.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q34",
+      "text": "The set {x : x² = 9 and 2x = 4} is:",
+      "options": ["{3}", "{-3}", "{2}", "φ"],
+      "correctIndex": 3,
+      "explanation": "x²=9 gives x=±3. 2x=4 gives x=2. No value satisfies both.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m1_q35",
+      "text": "If A is the set of even numbers and B is the set of odd numbers, then A ∩ B is:",
+      "options": ["{0}", "{1}", "φ", "N"],
+      "correctIndex": 2,
+      "explanation": "No number can be both even and odd.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q36",
+      "text": "The number of elements in the power set of {1, 2, 3, 4} is:",
+      "options": ["4", "8", "16", "32"],
+      "correctIndex": 2,
+      "explanation": "2⁴ = 16.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q37",
+      "text": "A ∪ A' equals:",
+      "options": ["A", "A'", "φ", "U"],
+      "correctIndex": 3,
+      "explanation": "The union of a set and its complement covers the entire universal set.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q38",
+      "text": "A ∩ A' equals:",
+      "options": ["A", "A'", "φ", "U"],
+      "correctIndex": 2,
+      "explanation": "A set and its complement have no common elements.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q39",
+      "text": "In a group of 70 people, 37 like coffee, 52 like tea. If each person likes at least one drink, how many like both?",
+      "options": ["19", "15", "10", "20"],
+      "correctIndex": 0,
+      "explanation": "n(C ∩ T) = n(C) + n(T) - n(C ∪ T) = 37 + 52 - 70 = 19.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q40",
+      "text": "Who is the founder of Set Theory?",
+      "options": ["Isaac Newton", "Georg Cantor", "Rene Descartes", "Euclid"],
+      "correctIndex": 1,
+      "explanation": "German mathematician Georg Cantor developed the theory of sets.",
+      "frequencyRating": 3
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "id": "g11_phy_ch3",
+  "grade": "11",
+  "subject": "Physics",
+  "number": "3",
+  "title": "Motion in a Plane",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_p3_q1",
+      "text": "A physical quantity that has both magnitude and direction is called:",
+      "options": ["Scalar", "Vector", "Tensor", "Phasor"],
+      "correctIndex": 1,
+      "explanation": "Vectors are defined by both magnitude and direction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p3_q2",
+      "text": "The angle for which the horizontal range of a projectile is maximum is:",
+      "options": ["30°", "45°", "60°", "90°"],
+      "correctIndex": 1,
+      "explanation": "Range R = (u² sin 2θ)/g. R is max when sin 2θ = 1, i.e., 2θ = 90° or θ = 45°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p3_q3",
+      "text": "The path followed by a projectile is called its:",
+      "options": ["Orbit", "Range", "Trajectory", "Tangent"],
+      "correctIndex": 2,
+      "explanation": "The curve traced by a projectile is a trajectory (specifically a parabola).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p3_q4",
+      "text": "Centripetal acceleration is directed:",
+      "options": ["Tangentially", "Towards the center", "Away from center", "Upwards"],
+      "correctIndex": 1,
+      "explanation": "It always acts towards the center of the circular path.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p3_q5",
+      "text": "If two vectors are perpendicular, their dot product is:",
+      "options": ["1", "Zero", "-1", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "A·B = |A||B| cos 90° = 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p3_q6",
+      "text": "The resultant of two vectors A and B acting at an angle θ is:",
+      "options": ["A+B", "sqrt(A²+B²)", "sqrt(A²+B²+2AB cos θ)", "sqrt(A²+B²-2AB cos θ)"],
+      "correctIndex": 2,
+      "explanation": "Parallelogram law of vector addition formula.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p3_q7",
+      "text": "A vector whose magnitude is zero and has an arbitrary direction is:",
+      "options": ["Unit vector", "Null vector", "Position vector", "Displacement vector"],
+      "correctIndex": 1,
+      "explanation": "Also called a zero vector.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p3_q8",
+      "text": "The vertical component of velocity of a projectile at its highest point is:",
+      "options": ["u sin θ", "u cos θ", "Zero", "g"],
+      "correctIndex": 2,
+      "explanation": "At the peak, vertical motion stops momentarily; only horizontal velocity (u cos θ) remains.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p3_q9",
+      "text": "In uniform circular motion, which of the following remains constant?",
+      "options": ["Velocity", "Acceleration", "Speed", "Displacement"],
+      "correctIndex": 2,
+      "explanation": "Direction changes continuously, so velocity and acceleration change, but the magnitude of velocity (speed) is constant.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p3_q10",
+      "text": "The unit vector along the x-axis is denoted by:",
+      "options": ["ĵ", "k̂", "î", "n̂"],
+      "correctIndex": 2,
+      "explanation": "Standard notation for Cartesian axes: î(x), ĵ(y), k̂(z).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p3_q11",
+      "text": "A scalar product of a vector with itself is:",
+      "options": ["Zero", "Its magnitude", "Square of its magnitude", "Its direction"],
+      "correctIndex": 2,
+      "explanation": "A·A = |A||A| cos 0° = |A|².",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p3_q12",
+      "text": "The cross product of two parallel vectors is:",
+      "options": ["Product of magnitudes", "Zero", "1", "A unit vector"],
+      "correctIndex": 1,
+      "explanation": "|AxB| = |A||B| sin 0° = 0.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p3_q13",
+      "text": "The time of flight of a projectile is:",
+      "options": ["(u sin θ)/g", "(2u sin θ)/g", "(u² sin 2θ)/g", "(u² sin² θ)/2g"],
+      "correctIndex": 1,
+      "explanation": "Time to rise + time to fall.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p3_q14",
+      "text": "Maximum height of a projectile is given by:",
+      "options": ["(u² sin² θ)/2g", "(u² sin 2θ)/g", "(u sin θ)/g", "(2u sin θ)/g"],
+      "correctIndex": 0,
+      "explanation": "Derived from kinematic equations for vertical motion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p3_q15",
+      "text": "Which of the following is NOT a scalar quantity?",
+      "options": ["Mass", "Temperature", "Weight", "Time"],
+      "correctIndex": 2,
+      "explanation": "Weight is a force (vector), while others are scalars.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p3_q16",
+      "text": "The magnitude of a vector A = 3î + 4ĵ is:",
+      "options": ["7", "1", "5", "25"],
+      "correctIndex": 2,
+      "explanation": "sqrt(3² + 4²) = 5.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p3_q17",
+      "text": "The acceleration in uniform circular motion is called:",
+      "options": ["Tangential acceleration", "Centripetal acceleration", "Angular acceleration", "Linear acceleration"],
+      "correctIndex": 1,
+      "explanation": "It is the acceleration required to keep an object moving in a circle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p3_q18",
+      "text": "Resolution of vectors means:",
+      "options": ["Adding vectors", "Splitting a vector into components", "Multiplying vectors", "Finding magnitude"],
+      "correctIndex": 1,
+      "explanation": "Usually into mutually perpendicular components like x and y.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p3_q19",
+      "text": "If A·B = |AxB|, the angle between A and B is:",
+      "options": ["0°", "45°", "90°", "180°"],
+      "correctIndex": 1,
+      "explanation": "cos θ = sin θ => tan θ = 1 => θ = 45°.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p3_q20",
+      "text": "The direction of angular velocity (ω) is along:",
+      "options": ["The radius", "The tangent", "The axis of rotation", "None"],
+      "correctIndex": 2,
+      "explanation": "Determined by the right-hand thumb rule.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p3_q21",
+      "text": "Projectile motion is a combination of:",
+      "options": ["Uniform horizontal velocity and constant vertical acceleration", "Constant horizontal acceleration and uniform vertical velocity", "Uniform motion in both", "Accelerated motion in both"],
+      "correctIndex": 0,
+      "explanation": "Gravity affects vertical motion; no force affects horizontal motion (ignoring air resistance).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p3_q22",
+      "text": "Relation between linear velocity (v) and angular velocity (ω) is:",
+      "options": ["v = ωr", "v = ω/r", "v = r/ω", "v = ω²r"],
+      "correctIndex": 0,
+      "explanation": "Linear velocity is the product of angular velocity and radius.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p3_q23",
+      "text": "The range of a projectile depends on:",
+      "options": ["Initial velocity", "Angle of projection", "Gravity", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Formula: R = (u² sin 2θ)/g.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p3_q24",
+      "text": "If a boat can travel at 5m/s in still water and the river flows at 3m/s, the shortest time to cross is when it rows:",
+      "options": ["Upstream", "Downstream", "Perpendicular to current", "At 45°"],
+      "correctIndex": 2,
+      "explanation": "Crossing time depends only on the component of velocity perpendicular to the banks.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p3_q25",
+      "text": "Two projectiles are fired at angles θ and (90-θ). Their horizontal ranges are:",
+      "options": ["Different", "Same", "Zero", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "sin 2θ = sin 2(90-θ) = sin(180-2θ).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p3_q26",
+      "text": "Which law states that vectors can be added by placing the tail of one on the head of another?",
+      "options": ["Parallelogram law", "Triangle law", "Polygon law", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "Triangle and Polygon laws use head-to-tail addition.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p3_q27",
+      "text": "A unit vector has a magnitude of:",
+      "options": ["0", "1", "Infinity", "Depends on vector"],
+      "correctIndex": 1,
+      "explanation": "The primary purpose of a unit vector is to specify direction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p3_q28",
+      "text": "Centripetal acceleration formula is:",
+      "options": ["v²/r", "vr", "v/r²", "v²r"],
+      "correctIndex": 0,
+      "explanation": "Derived from the geometry of circular motion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p3_q29",
+      "text": "Angular displacement is measured in:",
+      "options": ["Degree", "Radian", "Steradian", "Meter"],
+      "correctIndex": 1,
+      "explanation": "Radian is the SI unit for plane angles.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p3_q30",
+      "text": "The vector product î x ĵ is:",
+      "options": ["0", "1", "k̂", "-k̂"],
+      "correctIndex": 2,
+      "explanation": "Cyclic order: î -> ĵ -> k̂.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p3_q31",
+      "text": "In non-uniform circular motion, net acceleration is the vector sum of:",
+      "options": ["Centripetal and Tangential acceleration", "Linear and Angular acceleration", "Radial and Vertical acceleration", "None"],
+      "correctIndex": 0,
+      "explanation": "Centripetal changes direction; Tangential changes speed.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p3_q32",
+      "text": "If the angle between A and B is 180°, their resultant is:",
+      "options": ["A + B", "|A - B|", "0", "sqrt(A²+B²)"],
+      "correctIndex": 1,
+      "explanation": "The vectors are anti-parallel.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p3_q33",
+      "text": "Which of the following remains constant in projectile motion (no air resistance)?",
+      "options": ["Vertical velocity", "Horizontal velocity", "Momentum", "Potential energy"],
+      "correctIndex": 1,
+      "explanation": "Horizontal velocity u cos θ remains constant as there is no horizontal force.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p3_q34",
+      "text": "Angle between velocity and acceleration in uniform circular motion is:",
+      "options": ["0°", "45°", "90°", "180°"],
+      "correctIndex": 2,
+      "explanation": "Velocity is tangential, acceleration is radial.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p3_q35",
+      "text": "The dot product of î and ĵ is:",
+      "options": ["0", "1", "k̂", "-1"],
+      "correctIndex": 0,
+      "explanation": "Orthogonal vectors have zero dot product.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p3_q36",
+      "text": "For two vectors A and B, A + B = B + A represents:",
+      "options": ["Associative Law", "Distributive Law", "Commutative Law", "None"],
+      "correctIndex": 2,
+      "explanation": "Vector addition is commutative.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p3_q37",
+      "text": "Frequency (f) of circular motion is related to time period (T) as:",
+      "options": ["f = T", "f = 1/T", "f = 2π/T", "f = T²"],
+      "correctIndex": 1,
+      "explanation": "Frequency is the reciprocal of the time period.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p3_q38",
+      "text": "The maximum range of a projectile is 400m. The maximum height attained will be:",
+      "options": ["400m", "200m", "100m", "800m"],
+      "correctIndex": 2,
+      "explanation": "For θ=45°, R_max = u²/g. H = (u² sin² 45)/2g = u²/(4g) = R_max / 4.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p3_q39",
+      "text": "Displacement is always:",
+      "options": ["Path independent", "Path dependent", "Equal to distance", "None"],
+      "correctIndex": 0,
+      "explanation": "Displacement depends only on initial and final positions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p3_q40",
+      "text": "The unit of angular acceleration (α) is:",
+      "options": ["rad/s", "rad/s²", "m/s²", "Degree/s"],
+      "correctIndex": 1,
+      "explanation": "Rate of change of angular velocity.",
+      "frequencyRating": 4
+    }
+  ]
+}

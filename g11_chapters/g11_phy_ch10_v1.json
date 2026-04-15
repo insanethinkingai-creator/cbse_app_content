@@ -1,0 +1,260 @@
+{
+  "id": "g11_phy_ch10",
+  "grade": "11",
+  "subject": "Physics",
+  "number": "10",
+  "title": "Thermal Properties of Matter",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_p10_q1",
+      "text": "The Triple Point of water is at:",
+      "options": ["0 K", "273.16 K", "373.15 K", "100 K"],
+      "correctIndex": 1,
+      "explanation": "The temperature at which ice, water, and water vapor coexist in equilibrium.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p10_q2",
+      "text": "Coefficient of linear expansion (α), area expansion (β), and volume expansion (γ) are related as:",
+      "options": ["α:β:γ = 1:2:3", "α:β:γ = 3:2:1", "α:β:γ = 1:1:1", "None"],
+      "correctIndex": 0,
+      "explanation": "β ≈ 2α and γ ≈ 3α for isotropic solids.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p10_q3",
+      "text": "Which substance has the highest specific heat capacity?",
+      "options": ["Iron", "Copper", "Water", "Mercury"],
+      "correctIndex": 2,
+      "explanation": "Water has an exceptionally high specific heat (~4186 J/kg·K).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p10_q4",
+      "text": "The heat required to change the state of a substance without temperature change is:",
+      "options": ["Specific heat", "Latent heat", "Molar heat", "Internal energy"],
+      "correctIndex": 1,
+      "explanation": "Q = mL. Latent means 'hidden'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p10_q5",
+      "text": "Newton's Law of Cooling is applicable when the temperature difference is:",
+      "options": ["Very large", "Small", "Zero", "None"],
+      "correctIndex": 1,
+      "explanation": "Rate of loss of heat is proportional to temperature difference for small differences.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p10_q6",
+      "text": "In which mode of heat transfer is no medium required?",
+      "options": ["Conduction", "Convection", "Radiation", "All"],
+      "correctIndex": 2,
+      "explanation": "Radiation travels through vacuum as electromagnetic waves.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p10_q7",
+      "text": "Wien's Displacement Law relates the peak wavelength (λ) to absolute temperature (T) as:",
+      "options": ["λT = constant", "λ/T = constant", "λ²T = constant", "T/λ = constant"],
+      "correctIndex": 0,
+      "explanation": "As T increases, peak wavelength shifts towards shorter wavelengths (blue).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p10_q8",
+      "text": "The amount of heat radiated by a black body per unit area per unit time is proportional to:",
+      "options": ["T", "T²", "T³", "T⁴"],
+      "correctIndex": 3,
+      "explanation": "Stefan-Boltzmann Law: E = σT⁴.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p10_q9",
+      "text": "Thermal conductivity (k) depends on:",
+      "options": ["Nature of material", "Area of cross section", "Thickness", "None"],
+      "correctIndex": 0,
+      "explanation": "It is a characteristic property of the material.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p10_q10",
+      "text": "An anomalous expansion is shown by water between:",
+      "options": ["0°C to 4°C", "4°C to 10°C", "-10°C to 0°C", "100°C to 110°C"],
+      "correctIndex": 0,
+      "explanation": "Water contracts on heating and expands on cooling in this range; density is max at 4°C.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p10_q11",
+      "text": "Heat transfer in liquids and gases primarily occurs by:",
+      "options": ["Conduction", "Convection", "Radiation", "None"],
+      "correctIndex": 1,
+      "explanation": "Involves the actual movement of heated particles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p10_q12",
+      "text": "The SI unit of Thermal Conductivity is:",
+      "options": ["W m⁻¹ K⁻¹", "J m⁻¹ K⁻¹", "W m K", "W/K"],
+      "correctIndex": 0,
+      "explanation": "From Q/t = kAΔT/L.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p10_q13",
+      "text": "Which of the following temperature scales does not have negative values?",
+      "options": ["Celsius", "Fahrenheit", "Kelvin", "Reaumur"],
+      "correctIndex": 2,
+      "explanation": "Kelvin scale starts from absolute zero (0 K).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p10_q14",
+      "text": "At what temperature do the Celsius and Fahrenheit scales coincide?",
+      "options": ["40", "-40", "0", "100"],
+      "correctIndex": 1,
+      "explanation": "Using C/5 = (F-32)/9, setting C=F gives x = -40.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p10_q15",
+      "text": "Specific heat of a gas in an isothermal process is:",
+      "options": ["Zero", "Infinite", "Negative", "Constant"],
+      "correctIndex": 1,
+      "explanation": "s = Q / mΔT. Since ΔT = 0, s is infinite.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p10_q16",
+      "text": "A perfect black body is one which:",
+      "options": ["Is black in color", "Reflects all radiation", "Absorbs all radiation falling on it", "Transmits all radiation"],
+      "correctIndex": 2,
+      "explanation": "Its absorption coefficient is 1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p10_q17",
+      "text": "The rate of loss of heat from a body depends on:",
+      "options": ["Temperature of body", "Temperature of surroundings", "Surface area", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Based on cooling laws and Stefan's law.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p10_q18",
+      "text": "A bimetallic strip works on the principle of:",
+      "options": ["Thermal conductivity", "Differential thermal expansion", "Specific heat", "Latent heat"],
+      "correctIndex": 1,
+      "explanation": "Two different metals expand differently, causing the strip to bend.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p10_q19",
+      "text": "Regelation is the phenomenon of:",
+      "options": ["Ice melting under pressure", "Water boiling at high pressure", "Steam condensing", "None"],
+      "correctIndex": 0,
+      "explanation": "Refreezing occurs when pressure is released.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p10_q20",
+      "text": "Cooking is faster in a pressure cooker because:",
+      "options": ["Heat is trapped", "Boiling point of water increases", "Steam is hotter", "Pressure is lower"],
+      "correctIndex": 1,
+      "explanation": "Increased pressure raises the boiling point, allowing water to reach higher temperatures.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p10_q21",
+      "text": "Temperature is a measure of:",
+      "options": ["Total energy", "Average Kinetic Energy of molecules", "Heat content", "Potential energy"],
+      "correctIndex": 1,
+      "explanation": "Higher temperature means faster molecular motion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p10_q22",
+      "text": "Heat flows from high temperature to low temperature. This is related to:",
+      "options": ["Zeroth Law", "First Law", "Second Law", "Third Law"],
+      "correctIndex": 2,
+      "explanation": "Entropy and direction of heat flow.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p10_q23",
+      "text": "Units of Latent Heat are:",
+      "options": ["J/kg", "J/kg·K", "Joule", "Watt"],
+      "correctIndex": 0,
+      "explanation": "Q = mL => L = Q/m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p10_q24",
+      "text": "Emissivity of a perfect black body is:",
+      "options": ["0", "0.5", "1", "Infinite"],
+      "correctIndex": 2,
+      "explanation": "It is a perfect emitter as well as a perfect absorber.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p10_q25",
+      "text": "Greenhouse effect is due to absorption of:",
+      "options": ["Visible light", "UV rays", "Infrared radiation", "X-rays"],
+      "correctIndex": 2,
+      "explanation": "Earth's surface radiates IR, which is trapped by CO₂ and other gases.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p10_q26",
+      "text": "Absolute Zero is the temperature at which:",
+      "options": ["Water freezes", "Molecular motion ceases", "Molecules stop existing", "None"],
+      "correctIndex": 1,
+      "explanation": "Theoretical temperature where kinetic energy is zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p10_q27",
+      "text": "Relation between C and K is:",
+      "options": ["K = C + 273.15", "C = K + 273.15", "K = C - 273.15", "K = 273.15 - C"],
+      "correctIndex": 0,
+      "explanation": "Kelvin is Celsius shifted by 273.15.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p10_q28",
+      "text": "Molar heat capacity at constant pressure (Cp) is _____ than Cv.",
+      "options": ["Greater", "Smaller", "Equal", "Zero"],
+      "correctIndex": 0,
+      "explanation": "Cp = Cv + R. Extra heat is needed for expansion work.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p10_q29",
+      "text": "Calorimeters are usually made of:",
+      "options": ["Iron", "Wood", "Copper", "Plastic"],
+      "correctIndex": 2,
+      "explanation": "Copper has low specific heat and is a good conductor, reaching equilibrium quickly.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p10_q30",
+      "text": "Which color absorbs the most heat?",
+      "options": ["White", "Yellow", "Red", "Black"],
+      "correctIndex": 3,
+      "explanation": "Black is the best absorber of all wavelengths.",
+      "frequencyRating": 5
+    },
+    { "id": "g11_p10_q31", "text": "Good absorbers are good emitters. This is:", "options": ["Stefan's law", "Kirchhoff's law", "Wien's law", "Newton's law"], "correctIndex": 1, "explanation": "Basic law of radiation.", "frequencyRating": 4 },
+    { "id": "g11_p10_q32", "text": "Thermos flask prevents heat loss by:", "options": ["Conduction", "Convection", "Radiation", "All of these"], "correctIndex": 3, "explanation": "Vacuum, silvering, and cork are used.", "frequencyRating": 4 },
+    { "id": "g11_p10_q33", "text": "Specific heat of water is:", "options": ["1 cal/g°C", "4.186 J/g°C", "Both", "None"], "correctIndex": 2, "explanation": "Standard values.", "frequencyRating": 5 },
+    { "id": "g11_p10_q34", "text": "Unit of Stefan constant (σ) is:", "options": ["W m⁻² K⁻⁴", "J s⁻¹", "W/K", "m·K"], "correctIndex": 0, "explanation": "From E = σT⁴.", "frequencyRating": 3 },
+    { "id": "g11_p10_q35", "text": "Latent heat of fusion of ice is approx:", "options": ["80 cal/g", "540 cal/g", "10 cal/g", "100 cal/g"], "correctIndex": 0, "explanation": "Value for melting ice.", "frequencyRating": 4 },
+    { "id": "g11_p10_q36", "text": "Latent heat of vaporization of water is approx:", "options": ["80 cal/g", "540 cal/g", "100 cal/g", "2260 cal/g"], "correctIndex": 1, "explanation": "Requires much more energy than melting.", "frequencyRating": 4 },
+    { "id": "g11_p10_q37", "text": "Thermal expansion of gases is _____ than solids.", "options": ["Much greater", "Smaller", "Equal", "None"], "correctIndex": 0, "explanation": "Weak intermolecular forces.", "frequencyRating": 5 },
+    { "id": "g11_p10_q38", "text": "Cooling is caused by:", "options": ["Conduction", "Evaporation", "Radiation only", "Internal energy increase"], "correctIndex": 1, "explanation": "Evaporating molecules take heat from the surface.", "frequencyRating": 5 },
+    { "id": "g11_p10_q39", "text": "Heat capacity is:", "options": ["Q/mΔT", "Q/ΔT", "mΔT/Q", "Q·m"], "correctIndex": 1, "explanation": "Depends on mass of object.", "frequencyRating": 4 },
+    { "id": "g11_p10_q40", "text": "Dimensional formula of Specific Heat is:", "options": ["[L²T⁻²K⁻¹]", "[ML²T⁻²K⁻¹]", "[MLT⁻²K⁻¹]", "[L²T⁻¹K⁻¹]"], "correctIndex": 0, "explanation": "Heat/Mass*Temp.", "frequencyRating": 3 }
+  ]
+}

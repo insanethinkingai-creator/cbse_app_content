@@ -1,0 +1,330 @@
+{
+  "id": "g11_bio_ch2",
+  "grade": "11",
+  "subject": "Biology",
+  "number": "2",
+  "title": "Biological Classification",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_b2_q1",
+      "text": "Who proposed the Five Kingdom Classification?",
+      "options": ["Aristotle", "Linnaeus", "R.H. Whittaker", "Bentham and Hooker"],
+      "correctIndex": 2,
+      "explanation": "Whittaker proposed it in 1969 based on cell structure, body organization, mode of nutrition, etc.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q2",
+      "text": "The five kingdoms are Monera, Protista, Fungi, Plantae and:",
+      "options": ["Algae", "Animalia", "Virus", "Bacteria"],
+      "correctIndex": 1,
+      "explanation": "Animalia is the fifth kingdom.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q3",
+      "text": "The only kingdom that consists of prokaryotic organisms is:",
+      "options": ["Monera", "Protista", "Fungi", "Plantae"],
+      "correctIndex": 0,
+      "explanation": "Bacteria are the sole members of Kingdom Monera.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q4",
+      "text": "Bacteria that live in extreme salty areas are called:",
+      "options": ["Methanogens", "Halophiles", "Thermoacidophiles", "Cyanobacteria"],
+      "correctIndex": 1,
+      "explanation": "Archaebacteria differ from other bacteria in having a different cell wall structure.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q5",
+      "text": "Cyanobacteria are also known as:",
+      "options": ["Golden algae", "Blue-green algae", "Red algae", "Slime moulds"],
+      "correctIndex": 1,
+      "explanation": "They are photosynthetic autotrophs similar to green plants.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q6",
+      "text": "The smallest living cells known that can survive without oxygen are:",
+      "options": ["Mycoplasma", "Nostoc", "Anabaena", "Vibrio"],
+      "correctIndex": 0,
+      "explanation": "Mycoplasma lack a cell wall and are pathogenic in animals and plants.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q7",
+      "text": "Kingdom Protista includes:",
+      "options": ["Multicellular prokaryotes", "Unicellular eukaryotes", "Unicellular prokaryotes", "Multicellular eukaryotes"],
+      "correctIndex": 1,
+      "explanation": "Boundaries of this kingdom are not well defined.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q8",
+      "text": "Diatoms belong to which group of Protista?",
+      "options": ["Chrysophytes", "Dinoflagellates", "Euglenoids", "Protozoans"],
+      "correctIndex": 0,
+      "explanation": "Diatoms have silica-embedded cell walls forming 'Diatomaceous earth'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q9",
+      "text": "Which of the following is responsible for 'Red Tides' in the sea?",
+      "options": ["Gonyaulax", "Euglena", "Amoeba", "Paramoecium"],
+      "correctIndex": 0,
+      "explanation": "Gonyaulax is a dinoflagellate that undergoes rapid multiplication.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q10",
+      "text": "Euglenoids have a protein-rich layer instead of a cell wall called:",
+      "options": ["Capsule", "Pellicle", "Slime layer", "Sheath"],
+      "correctIndex": 1,
+      "explanation": "Pellicle makes their body flexible.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q11",
+      "text": "Slime moulds are ________ protists.",
+      "options": ["Photosynthetic", "Saprophytic", "Parasitic", "Chemosynthetic"],
+      "correctIndex": 1,
+      "explanation": "They move along decaying twigs and leaves engulfing organic matter.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b2_q12",
+      "text": "The causative agent of Malaria (Plasmodium) is a:",
+      "options": ["Amoeboid protozoan", "Flagellated protozoan", "Ciliated protozoan", "Sporozoan"],
+      "correctIndex": 3,
+      "explanation": "Sporozoans have an infectious spore-like stage in their life cycle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q13",
+      "text": "The cell wall of fungi is composed of:",
+      "options": ["Cellulose", "Chitin and Polysaccharides", "Peptidoglycan", "Silica"],
+      "correctIndex": 1,
+      "explanation": "Chitin is a defining feature of fungi.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q14",
+      "text": "A symbiotic association between algae and fungi is:",
+      "options": ["Mycorrhiza", "Lichen", "Haustoria", "Rhizomorph"],
+      "correctIndex": 1,
+      "explanation": "Algae prepare food and fungi provide shelter and absorb nutrients.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q15",
+      "text": "Which fungus is used in the production of bread and beer?",
+      "options": ["Mucor", "Rhizopus", "Yeast", "Agaricus"],
+      "correctIndex": 2,
+      "explanation": "Saccharomyces cerevisiae is a unicellular fungus.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q16",
+      "text": "Penicillium belongs to which class of fungi?",
+      "options": ["Phycomycetes", "Ascomycetes", "Basidiomycetes", "Deuteromycetes"],
+      "correctIndex": 1,
+      "explanation": "Ascomycetes are also known as sac-fungi.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b2_q17",
+      "text": "Mushrooms, bracket fungi or puffballs belong to:",
+      "options": ["Phycomycetes", "Ascomycetes", "Basidiomycetes", "Deuteromycetes"],
+      "correctIndex": 2,
+      "explanation": "Commonly known as club fungi.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q18",
+      "text": "Fungi Imperfecti is the name given to:",
+      "options": ["Phycomycetes", "Ascomycetes", "Basidiomycetes", "Deuteromycetes"],
+      "correctIndex": 3,
+      "explanation": "Only their asexual or vegetative phases are known.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q19",
+      "text": "Who discovered the virus and gave the name 'contagium vivum fluidum'?",
+      "options": ["Ivanowsky", "Beijerinck", "Stanley", "Pasteur"],
+      "correctIndex": 1,
+      "explanation": "M.W. Beijerinck demonstrated that extract of infected tobacco plants could infect healthy ones.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q20",
+      "text": "Viruses are not included in any kingdom because they are:",
+      "options": ["Too small", "Non-cellular", "Parasitic", "Prokaryotic"],
+      "correctIndex": 1,
+      "explanation": "They are considered on the borderline of living and non-living.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q21",
+      "text": "The protein coat of a virus is called:",
+      "options": ["Capsid", "Capsomere", "Envelope", "Nucleoid"],
+      "correctIndex": 0,
+      "explanation": "Capsid is made of small subunits called capsomeres.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q22",
+      "text": "Viroids differ from viruses in having:",
+      "options": ["DNA only", "RNA without protein coat", "Protein coat only", "Both DNA and RNA"],
+      "correctIndex": 1,
+      "explanation": "T.O. Diener discovered viroids; they are smaller than viruses.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q23",
+      "text": "Prions are infectious agents made of:",
+      "options": ["RNA", "DNA", "Abnormally folded proteins", "Silica"],
+      "correctIndex": 2,
+      "explanation": "They cause diseases like Mad Cow Disease and CJD.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b2_q24",
+      "text": "Which organism is a very good indicator of air pollution?",
+      "options": ["Algae", "Fungi", "Lichens", "Mosses"],
+      "correctIndex": 2,
+      "explanation": "Lichens do not grow in polluted areas, especially those with SO₂.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q25",
+      "text": "In bacteria, DNA is ________ and ________.",
+      "options": ["Circular, single stranded", "Linear, double stranded", "Circular, double stranded", "Linear, single stranded"],
+      "correctIndex": 2,
+      "explanation": "Prokaryotic DNA is usually a single circular chromosome.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b2_q26",
+      "text": "Methanogens are present in the gut of:",
+      "options": ["Humans", "Ruminant animals", "Fish", "Birds"],
+      "correctIndex": 1,
+      "explanation": "They produce methane (biogas) from the dung of these animals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q27",
+      "text": "Heterocysts are specialized cells found in some Cyanobacteria for:",
+      "options": ["Photosynthesis", "Nitrogen fixation", "Reproduction", "Storage"],
+      "correctIndex": 1,
+      "explanation": "Examples include Nostoc and Anabaena.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q28",
+      "text": "Sleeping sickness is caused by:",
+      "options": ["Trypanosoma", "Amoeba", "Plasmodium", "Paramoecium"],
+      "correctIndex": 0,
+      "explanation": "It is a flagellated protozoan.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b2_q29",
+      "text": "The reserve food material in fungi is:",
+      "options": ["Starch", "Glycogen and oil", "Cellulose", "Sucrose"],
+      "correctIndex": 1,
+      "explanation": "Similar to animals, fungi store energy as glycogen.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b2_q30",
+      "text": "Black rust of wheat is caused by:",
+      "options": ["Albugo", "Ustilago", "Puccinia", "Agaricus"],
+      "correctIndex": 2,
+      "explanation": "Puccinia graminis tritici.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b2_q31",
+      "text": "Kingdom Monera members are grouped under four shapes: Coccus, Bacillus, Vibrium and:",
+      "options": ["Staph", "Strept", "Spirillum", "Flagella"],
+      "correctIndex": 2,
+      "explanation": "Spherical, Rod-shaped, Comma-shaped, and Spiral.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q32",
+      "text": "Which bacteria help in making curd from milk?",
+      "options": ["Nitrosomonas", "Lactobacillus", "Rhizobium", "Clostridium"],
+      "correctIndex": 1,
+      "explanation": "They convert lactose sugar into lactic acid.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q33",
+      "text": "The cell wall of plants is mainly composed of:",
+      "options": ["Chitin", "Glycogen", "Cellulose", "Peptidoglycan"],
+      "correctIndex": 2,
+      "explanation": "Kingdom Plantae members are eukaryotic chlorophyll-containing organisms.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q34",
+      "text": "Bladderwort and Venus fly trap are examples of:",
+      "options": ["Parasitic plants", "Insectivorous plants", "Saprophytic plants", "Symbiotic plants"],
+      "correctIndex": 1,
+      "explanation": "They are partially heterotrophic.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b2_q35",
+      "text": "Sexual reproduction in fungi involves three steps: Plasmogamy, Karyogamy and:",
+      "options": ["Mitosis", "Meiosis", "Fragmentation", "Budding"],
+      "correctIndex": 1,
+      "explanation": "Meiosis in zygote results in haploid spores.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q36",
+      "text": "The algal component of lichen is called ________ and fungal is ________.",
+      "options": ["Phycobiont, Mycobiont", "Mycobiont, Phycobiont", "Autotroph, Heterotroph", "Both A and C"],
+      "correctIndex": 3,
+      "explanation": "Algae is phycobiont (autotrophic), fungi is mycobiont (heterotrophic).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q37",
+      "text": "Tobacco Mosaic Virus (TMV) has ________ as genetic material.",
+      "options": ["Single stranded DNA", "Double stranded DNA", "Single stranded RNA", "Double stranded RNA"],
+      "correctIndex": 2,
+      "explanation": "Most plant viruses have ssRNA.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q38",
+      "text": "Bacteriophages (viruses infecting bacteria) usually have:",
+      "options": ["ssRNA", "dsDNA", "ssDNA", "dsRNA"],
+      "correctIndex": 1,
+      "explanation": "They usually have double stranded DNA.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b2_q39",
+      "text": "Cuscuta is a ________ plant.",
+      "options": ["Photosynthetic", "Parasitic", "Saprophytic", "Insectivorous"],
+      "correctIndex": 1,
+      "explanation": "It is a total stem parasite.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b2_q40",
+      "text": "The Kingdom Protista forms a link with which other kingdoms?",
+      "options": ["Plantae", "Animalia", "Fungi", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Protista contains the ancestors of multicellular eukaryotes.",
+      "frequencyRating": 5
+    }
+  ]
+}

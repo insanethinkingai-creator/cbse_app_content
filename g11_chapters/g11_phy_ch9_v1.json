@@ -1,0 +1,260 @@
+{
+  "id": "g11_phy_ch9",
+  "grade": "11",
+  "subject": "Physics",
+  "number": "9",
+  "title": "Mechanical Properties of Fluids",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_p9_q1",
+      "text": "Pressure at a point inside a liquid does NOT depend on:",
+      "options": ["Depth", "Density of liquid", "Acceleration due to gravity", "Shape of container"],
+      "correctIndex": 3,
+      "explanation": "Hydrostatic paradox: pressure depends only on depth h (P = ρgh).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p9_q2",
+      "text": "Pascal's Law states that pressure applied to an enclosed fluid is:",
+      "options": ["Transmitted equally in all directions", "Decreased with distance", "Dependent on volume", "Zero at center"],
+      "correctIndex": 0,
+      "explanation": "Basis for hydraulic machines.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p9_q3",
+      "text": "Hydraulic lift works on the principle of:",
+      "options": ["Bernoulli's theorem", "Pascal's law", "Archimedes' principle", "Stokes' law"],
+      "correctIndex": 1,
+      "explanation": "Force multiplication through fluid pressure.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p9_q4",
+      "text": "Which of the following remains constant in a streamline flow?",
+      "options": ["Velocity at a point", "Velocity of a particle", "Pressure everywhere", "Density only"],
+      "correctIndex": 0,
+      "explanation": "In steady flow, velocity of every particle passing a fixed point is the same.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p9_q5",
+      "text": "The Equation of Continuity (Av = constant) is based on conservation of:",
+      "options": ["Energy", "Momentum", "Mass", "Angular momentum"],
+      "correctIndex": 2,
+      "explanation": "Incompressible fluid mass entering must equal mass leaving.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p9_q6",
+      "text": "Bernoulli's Theorem is based on the law of conservation of:",
+      "options": ["Mass", "Momentum", "Energy", "None"],
+      "correctIndex": 2,
+      "explanation": "Sum of pressure energy, KE, and PE per unit volume is constant.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p9_q7",
+      "text": "According to Bernoulli's theorem, where velocity is high, pressure is:",
+      "options": ["High", "Low", "Atmospheric", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "P + ½ρv² = constant. High v means low P.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p9_q8",
+      "text": "The SI unit of Coefficient of Viscosity is:",
+      "options": ["Poise", "Pascal-second", "Newton", "Watt"],
+      "correctIndex": 1,
+      "explanation": "Also called Poiseuille (Pl). 1 Pl = 10 Poise.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p9_q9",
+      "text": "Stokes' Law gives the viscous drag force as:",
+      "options": ["6πηrv", "½ρv²", "ρgh", "Av"],
+      "correctIndex": 0,
+      "explanation": "Force on a sphere of radius r moving with velocity v.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p9_q10",
+      "text": "Terminal velocity is reached when:",
+      "options": ["Net force is maximum", "Net force is zero", "Viscous force is zero", "Velocity is zero"],
+      "correctIndex": 1,
+      "explanation": "Weight is balanced by buoyancy and viscous drag.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p9_q11",
+      "text": "Reynolds Number (Re) determines the:",
+      "options": ["Density", "Nature of flow (streamline/turbulent)", "Viscosity", "Surface tension"],
+      "correctIndex": 1,
+      "explanation": "Re < 1000 is streamline; Re > 2000 is turbulent.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p9_q12",
+      "text": "Surface Tension is defined as:",
+      "options": ["Force per unit area", "Force per unit length", "Energy per unit length", "Mass per unit area"],
+      "correctIndex": 1,
+      "explanation": "T = F/L. It acts tangential to the surface.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p9_q13",
+      "text": "The angle of contact for a liquid that wets the surface (like water on glass) is:",
+      "options": ["Acute (< 90°)", "Obtuse (> 90°)", "90°", "180°"],
+      "correctIndex": 0,
+      "explanation": "Adhesive forces are stronger than cohesive forces.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p9_q14",
+      "text": "Excess pressure inside a soap bubble is:",
+      "options": ["2T/R", "4T/R", "T/R", "Zero"],
+      "correctIndex": 1,
+      "explanation": "A soap bubble has two surfaces (inner and outer).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p9_q15",
+      "text": "Rise of liquid in a capillary tube is given by:",
+      "options": ["2T cos θ / rρg", "T cos θ / rρg", "4T / rρg", "rρg / 2T"],
+      "correctIndex": 0,
+      "explanation": "Known as Jurin's Law.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p9_q16",
+      "text": "With increase in temperature, viscosity of liquids _____ and viscosity of gases _____.",
+      "options": ["Increases, Decreases", "Decreases, Increases", "Increases, Increases", "Decreases, Decreases"],
+      "correctIndex": 1,
+      "explanation": "In liquids, cohesion decreases; in gases, molecular collisions increase.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p9_q17",
+      "text": "Torricelli's Law relates the velocity of efflux to:",
+      "options": ["Pressure", "Height of liquid column", "Viscosity", "Area"],
+      "correctIndex": 1,
+      "explanation": "v = sqrt(2gh), same as a free-falling body.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p9_q18",
+      "text": "Magnus Effect is an application of:",
+      "options": ["Pascal's law", "Bernoulli's theorem", "Archimedes' principle", "Surface tension"],
+      "correctIndex": 1,
+      "explanation": "Explains why a spinning ball curves in air.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p9_q19",
+      "text": "Venturimeter is used to measure:",
+      "options": ["Fluid density", "Flow speed of liquid", "Surface tension", "Viscosity"],
+      "correctIndex": 1,
+      "explanation": "Works on Bernoulli's principle.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p9_q20",
+      "text": "Detergents reduce surface tension to:",
+      "options": ["Make bubbles", "Better wet the fabric", "Increase density", "Prevent evaporation"],
+      "correctIndex": 1,
+      "explanation": "Lower surface tension allows water to penetrate small pores in clothes.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p9_q21",
+      "text": "Liquid drops are spherical due to:",
+      "options": ["Viscosity", "Gravity", "Surface Tension", "Pressure"],
+      "correctIndex": 2,
+      "explanation": "Surface tension tries to minimize surface area for a given volume.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p9_q22",
+      "text": "Archimedes' Principle states buoyant force equals:",
+      "options": ["Mass of body", "Weight of body", "Weight of fluid displaced", "Density of fluid"],
+      "correctIndex": 2,
+      "explanation": "Basic principle of flotation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p9_q23",
+      "text": "Hydraulic brakes work on:",
+      "options": ["Bernoulli's principle", "Pascal's law", "Newton's 2nd law", "Viscosity"],
+      "correctIndex": 1,
+      "explanation": "Equal pressure transmission to all wheels.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p9_q24",
+      "text": "The unit Poise is used for:",
+      "options": ["Pressure", "Surface tension", "Viscosity", "Power"],
+      "correctIndex": 2,
+      "explanation": "CGS unit of viscosity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p9_q25",
+      "text": "Excess pressure inside a liquid drop is:",
+      "options": ["2T/R", "4T/R", "T/R", "Zero"],
+      "correctIndex": 0,
+      "explanation": "A drop has only one surface.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p9_q26",
+      "text": "Dimensions of Surface Tension are:",
+      "options": ["[MT⁻²]", "[MLT⁻²]", "[ML⁻¹T⁻²]", "[M L²]"],
+      "correctIndex": 0,
+      "explanation": "Force [MLT⁻²] / Length [L].",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p9_q27",
+      "text": "Atmospheric pressure is measured by:",
+      "options": ["Manometer", "Barometer", "Venturimeter", "Sphygmomanometer"],
+      "correctIndex": 1,
+      "explanation": "Mercury barometer was invented by Torricelli.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p9_q28",
+      "text": "1 Atmospheric pressure is approximately:",
+      "options": ["10⁵ Pa", "10¹ Pa", "76 Pa", "1 Pa"],
+      "correctIndex": 0,
+      "explanation": "1.013 × 10⁵ Pa.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p9_q29",
+      "text": "Velocity of efflux depends on:",
+      "options": ["Density of liquid", "Area of orifice", "Height of liquid", "G only"],
+      "correctIndex": 2,
+      "explanation": "v = sqrt(2gh).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p9_q30",
+      "text": "Viscosity is often called _____ in fluids.",
+      "options": ["Pressure", "Internal friction", "Elasticity", "Cohesion"],
+      "correctIndex": 1,
+      "explanation": "It resists relative motion between fluid layers.",
+      "frequencyRating": 4
+    },
+    { "id": "g11_p9_q31", "text": "Blood pressure is measured using:", "options": ["Barometer", "Sphygmomanometer", "Manometer", "Thermometer"], "correctIndex": 1, "explanation": "Standard medical tool.", "frequencyRating": 4 },
+    { "id": "g11_p9_q32", "text": "In a horizontal pipe, where area is small, velocity is:", "options": ["Small", "Large", "Zero", "Unchanged"], "correctIndex": 1, "explanation": "Equation of continuity.", "frequencyRating": 5 },
+    { "id": "g11_p9_q33", "text": "The lift of an airplane wing is due to:", "options": ["Archimedes' principle", "Bernoulli's principle", "Surface tension", "Viscosity"], "correctIndex": 1, "explanation": "Pressure difference between top and bottom.", "frequencyRating": 5 },
+    { "id": "g11_p9_q34", "text": "Surface tension vanishes at:", "options": ["Boiling point", "Freezing point", "Critical temperature", "0 K"], "correctIndex": 2, "explanation": "Property of the interface disappears.", "frequencyRating": 3 },
+    { "id": "g11_p9_q35", "text": "Units of Surface Energy are:", "options": ["Joule", "J/m²", "Newton", "N/m²"], "correctIndex": 1, "explanation": "Energy per unit area (dimensionally same as Surface Tension).", "frequencyRating": 4 },
+    { "id": "g11_p9_q36", "text": "Ideal fluids are assumed to be:", "options": ["Viscous", "Compressible", "Non-viscous and Incompressible", "None"], "correctIndex": 2, "explanation": "Simplification for Bernoulli's.", "frequencyRating": 4 },
+    { "id": "g11_p9_q37", "text": "Angle of contact for Mercury on glass is:", "options": ["Acute", "Obtuse", "Zero", "90°"], "correctIndex": 1, "explanation": "Mercury does not wet glass; θ ≈ 135°.", "frequencyRating": 5 },
+    { "id": "g11_p9_q38", "text": "Viscous force depends on:", "options": ["Area of layers", "Velocity gradient", "Nature of fluid", "All of these"], "correctIndex": 3, "explanation": "F = ηA(dv/dx).", "frequencyRating": 5 },
+    { "id": "g11_p9_q39", "text": "A piece of ice floats in water. When it melts, the water level:", "options": ["Rises", "Falls", "Remains same", "Depends on ice size"], "correctIndex": 2, "explanation": "Displaced water weight equals total ice weight.", "frequencyRating": 4 },
+    { "id": "g11_p9_q40", "text": "Units of Pressure are:", "options": ["Pascal", "N/m²", "Torr", "All of these"], "correctIndex": 3, "explanation": "Various valid units exist.", "frequencyRating": 5 }
+  ]
+}

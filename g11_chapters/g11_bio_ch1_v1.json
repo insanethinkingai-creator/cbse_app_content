@@ -1,0 +1,330 @@
+{
+  "id": "g11_bio_ch1",
+  "grade": "11",
+  "subject": "Biology",
+  "number": "1",
+  "title": "The Living World",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_b1_q1",
+      "text": "Which of the following is NOT a defining characteristic of all living organisms?",
+      "options": ["Growth", "Reproduction", "Metabolism", "Locomotion"],
+      "correctIndex": 0,
+      "explanation": "Growth and Reproduction are not absolute defining properties because non-living things (like mountains) grow and some living things (like mules) do not reproduce.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b1_q2",
+      "text": "The defining property of living organisms is:",
+      "options": ["Growth", "Reproduction", "Consciousness", "Self-replication"],
+      "correctIndex": 2,
+      "explanation": "Ability to sense their surroundings and respond to environmental stimuli is unique to living beings.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b1_q3",
+      "text": "The process of naming organisms according to a standardized system is:",
+      "options": ["Classification", "Identification", "Nomenclature", "Taxonomy"],
+      "correctIndex": 2,
+      "explanation": "Binomial nomenclature ensures every organism has one universal name.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b1_q4",
+      "text": "Binomial Nomenclature was introduced by:",
+      "options": ["Aristotle", "Carolus Linnaeus", "Darwin", "Bentham and Hooker"],
+      "correctIndex": 1,
+      "explanation": "Linnaeus is considered the Father of Taxonomy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b1_q5",
+      "text": "In Mangifera indica L., 'indica' represents:",
+      "options": ["Generic name", "Specific epithet", "Author name", "Family name"],
+      "correctIndex": 1,
+      "explanation": "The first name is the genus and the second is the species (specific epithet).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b1_q6",
+      "text": "The correct sequence of taxonomic categories is:",
+      "options": ["Species → Genus → Family → Order → Class → Phylum → Kingdom", "Kingdom → Phylum → Order → Class → Family → Genus → Species", "Species → Genus → Order → Family → Class → Phylum → Kingdom", "Kingdom → Class → Phylum → Order → Family → Genus → Species"],
+      "correctIndex": 0,
+      "explanation": "Taxonomic hierarchy is an ascending arrangement.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b1_q7",
+      "text": "The basic unit of classification is:",
+      "options": ["Genus", "Order", "Species", "Kingdom"],
+      "correctIndex": 2,
+      "explanation": "A species is a group of individual organisms with fundamental similarities.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b1_q8",
+      "text": "Families are characterized on the basis of ________ of plant species.",
+      "options": ["Vegetative features", "Reproductive features", "Both A and B", "None of these"],
+      "correctIndex": 2,
+      "explanation": "Both vegetative and floral characteristics are used for classification into families.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b1_q9",
+      "text": "A storehouse of collected plant specimens that are dried, pressed and preserved on sheets is:",
+      "options": ["Museum", "Herbarium", "Botanical Garden", "Zoological Park"],
+      "correctIndex": 1,
+      "explanation": "Herbarium sheets carry a label providing information about the specimen.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b1_q10",
+      "text": "The Indian Botanical Garden is located at:",
+      "options": ["Kew", "Lucknow", "Howrah", "Dehradun"],
+      "correctIndex": 2,
+      "explanation": "It is famous for the Great Banyan Tree.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b1_q11",
+      "text": "Taxonomic aid used for identification of plants and animals based on similarities and dissimilarities is:",
+      "options": ["Flora", "Key", "Manual", "Monograph"],
+      "correctIndex": 1,
+      "explanation": "Keys are based on contrasting characters generally in a pair called couplet.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b1_q12",
+      "text": "ICBN stands for:",
+      "options": ["International Code for Biological Nomenclature", "International Code for Botanical Nomenclature", "International Council for Botanical Nomenclature", "Indian Code for Botanical Nomenclature"],
+      "correctIndex": 1,
+      "explanation": "It provides rules for naming plants.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b1_q13",
+      "text": "Which of the following is NOT a characteristic of life?",
+      "options": ["Responsiveness", "Reproduction", "Complexity", "Ability to consume other organisms"],
+      "correctIndex": 3,
+      "explanation": "Autotrophs (plants) do not consume other organisms.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b1_q14",
+      "text": "Genus Solanum includes which of the following?",
+      "options": ["Potato", "Brinjal", "Tomato", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Solanum tuberosum (potato) and Solanum melongena (brinjal) belong to same genus.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b1_q15",
+      "text": "Felis is the genus of:",
+      "options": ["Dog", "Cat", "Lion", "Tiger"],
+      "correctIndex": 1,
+      "explanation": "Lion and Tiger belong to Panthera; Cat belongs to Felis.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b1_q16",
+      "text": "Solanaceae and Convolvulaceae are included in which order?",
+      "options": ["Polymoniales", "Sapindales", "Poales", "Diptera"],
+      "correctIndex": 0,
+      "explanation": "Order Polymoniales is mainly based on floral characters.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b1_q17",
+      "text": "Human beings belong to the family:",
+      "options": ["Hominidae", "Mammalia", "Primata", "Chordata"],
+      "correctIndex": 0,
+      "explanation": "Mammalia is class, Primata is order, Chordata is phylum.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b1_q18",
+      "text": "Collections of preserved plant and animal specimens for study and reference are in:",
+      "options": ["Botanical gardens", "Museums", "Herbaria", "Keys"],
+      "correctIndex": 1,
+      "explanation": "Museums often have skeletons and specimens in preservative solutions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b1_q19",
+      "text": "Scientific names are generally in ________ and written in ________.",
+      "options": ["Latin, Italics", "Greek, Italics", "Latin, Bold", "English, Underlined"],
+      "correctIndex": 0,
+      "explanation": "Latin is used as it is a dead language and will not change.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b1_q20",
+      "text": "Which of the following contains information on any one taxon?",
+      "options": ["Manual", "Monograph", "Flora", "Catalog"],
+      "correctIndex": 1,
+      "explanation": "'Mono' means single.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b1_q21",
+      "text": "As we go from species to kingdom, the number of common characteristics:",
+      "options": ["Increases", "Decreases", "Remains same", "First increases then decreases"],
+      "correctIndex": 1,
+      "explanation": "Lower the taxa, more are the characteristics that the members within the taxon share.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b1_q22",
+      "text": "Triticum aestivum is the scientific name of:",
+      "options": ["Mango", "Housefly", "Wheat", "Maize"],
+      "correctIndex": 2,
+      "explanation": "Wheat belongs to family Poaceae.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b1_q23",
+      "text": "Systematics refers to the study of:",
+      "options": ["Nomenclature", "Classification", "Evolutionary relationships", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "It includes taxonomy plus evolutionary history.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b1_q24",
+      "text": "The sum total of all chemical reactions occurring in our body is:",
+      "options": ["Anabolism", "Catabolism", "Metabolism", "Homeostasis"],
+      "correctIndex": 2,
+      "explanation": "Defining feature of life.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b1_q25",
+      "text": "Herbarium label does NOT carry information on:",
+      "options": ["Date of collection", "Name of collector", "Local names", "Height of the plant"],
+      "correctIndex": 3,
+      "explanation": "Height is not a standard requirement for herbarium labels.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b1_q26",
+      "text": "National Botanical Research Institute (NBRI) is located at:",
+      "options": ["Howrah", "Lucknow", "New Delhi", "Mumbai"],
+      "correctIndex": 1,
+      "explanation": "Located in Uttar Pradesh, India.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b1_q27",
+      "text": "Which provides information for identification of names of species found in an area?",
+      "options": ["Manual", "Monograph", "Catalog", "Key"],
+      "correctIndex": 0,
+      "explanation": "Manuals are useful in providing information for identification.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b1_q28",
+      "text": "Panthera leo is the scientific name for:",
+      "options": ["Tiger", "Leopard", "Lion", "Cat"],
+      "correctIndex": 2,
+      "explanation": "Leo for Lion, Tigris for Tiger, Pardus for Leopard.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b1_q29",
+      "text": "Biological name should be ________ when hand-written.",
+      "options": ["Bold", "Italicized", "Separately underlined", "Written in capital letters"],
+      "correctIndex": 2,
+      "explanation": "Underlining indicates their Latin origin.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b1_q30",
+      "text": "Which of the following belongs to the same family?",
+      "options": ["Lion, Tiger, Cat", "Dog, Cat", "Wheat, Mango", "Housefly, Grasshopper"],
+      "correctIndex": 0,
+      "explanation": "They all belong to Felidae.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g11_b1_q31",
+      "text": "Metabolic reactions can be demonstrated outside the body in cell-free systems.",
+      "options": ["True, and they are living things", "True, and they are living reactions", "False", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Isolated metabolic reactions in vitro are not living things but are surely living reactions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b1_q32",
+      "text": "The number of species that are known and described ranges between:",
+      "options": ["1.7 - 1.8 million", "1.7 - 1.8 billion", "5 - 10 million", "10 - 20 million"],
+      "correctIndex": 0,
+      "explanation": "This is according to current estimates.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b1_q33",
+      "text": "Division is a taxonomic category used for:",
+      "options": ["Animals", "Plants", "Bacteria", "Both B and C"],
+      "correctIndex": 1,
+      "explanation": "Equivalent to Phylum in animal classification.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b1_q34",
+      "text": "The family name for Musca domestica is:",
+      "options": ["Muscidae", "Diptera", "Insecta", "Arthropoda"],
+      "correctIndex": 0,
+      "explanation": "Musca domestica is the Housefly.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b1_q35",
+      "text": "Order of Housefly is:",
+      "options": ["Diptera", "Muscidae", "Insecta", "Hominidae"],
+      "correctIndex": 0,
+      "explanation": "Diptera is the order of flies.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b1_q36",
+      "text": "Royal Botanical Garden is situated in:",
+      "options": ["Kew (England)", "Paris", "New York", "Kolkata"],
+      "correctIndex": 0,
+      "explanation": "The most famous botanical garden globally.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b1_q37",
+      "text": "Taxon represents a ________ of classification.",
+      "options": ["Method", "Unit", "Level", "History"],
+      "correctIndex": 1,
+      "explanation": "Each category referred to as a unit of classification, in fact, represents a rank and is commonly termed as taxon.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b1_q38",
+      "text": "Which of the following represents the class of Mango?",
+      "options": ["Sapindales", "Anacardiaceae", "Dicotyledonae", "Angiospermae"],
+      "correctIndex": 2,
+      "explanation": "Sapindales is Order, Anacardiaceae is Family.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b1_q39",
+      "text": "Biological names are generally derived from which language?",
+      "options": ["English", "Greek", "Latin", "French"],
+      "correctIndex": 2,
+      "explanation": "Latin was chosen for its stability.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b1_q40",
+      "text": "Species name starts with a ________ letter.",
+      "options": ["Capital", "Small", "Italic", "Greek"],
+      "correctIndex": 1,
+      "explanation": "Generic name starts with capital, specific epithet starts with small.",
+      "frequencyRating": 5
+    }
+  ]
+}

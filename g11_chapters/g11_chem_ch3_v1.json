@@ -1,0 +1,120 @@
+{
+  "id": "g11_chem_ch3",
+  "grade": "11",
+  "subject": "Chemistry",
+  "number": "3",
+  "title": "Classification of Elements and Periodicity in Properties",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_c3_q1",
+      "text": "The Modern Periodic Law states that the properties of elements are a periodic function of their:",
+      "options": ["Atomic weights", "Atomic numbers", "Mass numbers", "Atomic volumes"],
+      "correctIndex": 1,
+      "explanation": "Modern periodic law was proposed by Moseley based on atomic number (Z).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c3_q2",
+      "text": "Which of the following elements has the highest electronegativity?",
+      "options": ["Oxygen", "Chlorine", "Fluorine", "Nitrogen"],
+      "correctIndex": 2,
+      "explanation": "Fluorine is the most electronegative element on the Pauling scale (4.0).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c3_q3",
+      "text": "Elements in the same group of the periodic table have the same:",
+      "options": ["Number of protons", "Valence electrons", "Atomic mass", "Energy levels"],
+      "correctIndex": 1,
+      "explanation": "Chemical properties are similar because they share the same valence shell configuration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c3_q4",
+      "text": "The general electronic configuration of d-block elements is:",
+      "options": ["(n-1)d¹⁻¹⁰ ns¹⁻²", "(n-1)d¹⁻¹⁰ ns⁰⁻²", "nd¹⁻¹⁰ ns¹⁻²", "(n-1)d¹⁻¹⁰ ns² np⁶"],
+      "correctIndex": 1,
+      "explanation": "Electrons fill the penultimate d-subshell and the outermost s-subshell.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c3_q5",
+      "text": "Across a period from left to right, the atomic radius generally:",
+      "options": ["Increases", "Decreases", "Remains constant", "First increases then decreases"],
+      "correctIndex": 1,
+      "explanation": "Increased effective nuclear charge pulls electrons closer to the nucleus.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c3_q6",
+      "text": "Which group contains the noble gases?",
+      "options": ["Group 1", "Group 17", "Group 18", "Group 2"],
+      "correctIndex": 2,
+      "explanation": "Group 18 elements have completely filled valence shells and are chemically inert.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c3_q7",
+      "text": "The element with atomic number 117 would belong to which family?",
+      "options": ["Noble gases", "Halogens", "Alkali metals", "Chalcogens"],
+      "correctIndex": 1,
+      "explanation": "Z=117 is Tennessine, located in Group 17 (Halogens).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_c3_q8",
+      "text": "Ionization enthalpy generally _____ down a group.",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correctIndex": 1,
+      "explanation": "As the size increases, the outer electron is further from the nucleus and easier to remove.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c3_q9",
+      "text": "Which of the following is an amphoteric oxide?",
+      "options": ["Na₂O", "Cl₂O₇", "Al₂O₃", "MgO"],
+      "correctIndex": 2,
+      "explanation": "Aluminum oxide reacts with both acids and bases.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_c3_q10",
+      "text": "The IUPAC name for element with Z=104 is:",
+      "options": ["Unnilquadium", "Unnilpentium", "Unnilbium", "Unniltrium"],
+      "correctIndex": 0,
+      "explanation": "Un(1) + nil(0) + quad(4) + ium.",
+      "frequencyRating": 4
+    },
+    { "id": "g11_c3_q11", "text": "Representative elements belong to:", "options": ["s and p blocks", "d block", "f block", "Only s block"], "correctIndex": 0, "explanation": "Main group elements (excluding noble gases).", "frequencyRating": 5 },
+    { "id": "g11_c3_q12", "text": "Diagonal relationship is shown between:", "options": ["Li and Mg", "Na and Mg", "Li and Na", "Be and Mg"], "correctIndex": 0, "explanation": "Due to similar ionic sizes and charge/radius ratios.", "frequencyRating": 4 },
+    { "id": "g11_c3_q13", "text": "The most metallic elements are found in:", "options": ["Top right", "Bottom left", "Top left", "Middle"], "correctIndex": 1, "explanation": "Metallic character increases down a group and decreases across a period.", "frequencyRating": 5 },
+    { "id": "g11_c3_q14", "text": "Which has the smallest size?", "options": ["N³⁻", "O²⁻", "F⁻", "Na⁺"], "correctIndex": 3, "explanation": "Isoelectronic species: higher nuclear charge results in smaller size.", "frequencyRating": 5 },
+    { "id": "g11_c3_q15", "text": "Screening effect is also known as:", "options": ["Shielding effect", "Photoelectric effect", "Compton effect", "None"], "correctIndex": 0, "explanation": "Inner electrons shield outer electrons from the nucleus.", "frequencyRating": 5 },
+    { "id": "g11_c3_q16", "text": "Lanthanoids and Actinoids are placed in:", "options": ["s-block", "p-block", "d-block", "f-block"], "correctIndex": 3, "explanation": "Inner transition elements.", "frequencyRating": 5 },
+    { "id": "g11_c3_q17", "text": "Which element has the highest electron gain enthalpy (most negative)?", "options": ["Fluorine", "Chlorine", "Bromine", "Iodine"], "correctIndex": 1, "explanation": "Chlorine has less inter-electronic repulsion than Fluorine.", "frequencyRating": 5 },
+    { "id": "g11_c3_q18", "text": "Transuranium elements start after:", "options": ["Uranium (Z=92)", "Lead (Z=82)", "Actinium (Z=89)", "Neptunium (Z=93)"], "correctIndex": 0, "explanation": "Elements with Z > 92 are synthetic and follow Uranium.", "frequencyRating": 4 },
+    { "id": "g11_c3_q19", "text": "Which period is the shortest?", "options": ["1st", "2nd", "3rd", "7th"], "correctIndex": 0, "explanation": "Contains only Hydrogen and Helium.", "frequencyRating": 5 },
+    { "id": "g11_c3_q20", "text": "Effective nuclear charge (Zeff) is:", "options": ["Z - S", "Z + S", "Z / S", "S - Z"], "correctIndex": 0, "explanation": "Actual charge felt by outer electrons after shielding.", "frequencyRating": 4 },
+    { "id": "g11_c3_q21", "text": "The first ionization enthalpy of Nitrogen is higher than Oxygen due to:", "options": ["Size", "Half-filled p-orbital stability", "Electronegativity", "Nuclear charge"], "correctIndex": 1, "explanation": "Nitrogen has 2p³, a stable half-filled configuration.", "frequencyRating": 5 },
+    { "id": "g11_c3_q22", "text": "Metals form _____ oxides.", "options": ["Acidic", "Basic", "Neutral", "Amphoteric only"], "correctIndex": 1, "explanation": "Example: Na₂O + H₂O -> 2NaOH.", "frequencyRating": 5 },
+    { "id": "g11_c3_q23", "text": "Non-metals form _____ oxides.", "options": ["Acidic", "Basic", "Amphoteric", "None"], "correctIndex": 0, "explanation": "Example: SO₃ + H₂O -> H₂SO₄.", "frequencyRating": 5 },
+    { "id": "g11_c3_q24", "text": "Valency of group 1 elements is:", "options": ["1", "2", "7", "8"], "correctIndex": 0, "explanation": "They lose one electron to reach noble gas configuration.", "frequencyRating": 5 },
+    { "id": "g11_c3_q25", "text": "As we move down a group, the non-metallic character:", "options": ["Increases", "Decreases", "Remains same", "Variable"], "correctIndex": 1, "explanation": "Easier to lose electrons means more metallic.", "frequencyRating": 4 },
+    { "id": "g11_c3_q26", "text": "The element with Z=12 is in which block?", "options": ["s", "p", "d", "f"], "correctIndex": 0, "explanation": "Magnesium: [Ne] 3s².", "frequencyRating": 5 },
+    { "id": "g11_c3_q27", "text": "How many groups are there in the long form of Periodic Table?", "options": ["7", "8", "18", "10"], "correctIndex": 2, "explanation": "Vertical columns 1 to 18.", "frequencyRating": 5 },
+    { "id": "g11_c3_q28", "text": "How many periods are there in the long form of Periodic Table?", "options": ["7", "18", "14", "6"], "correctIndex": 0, "explanation": "Horizontal rows 1 to 7.", "frequencyRating": 5 },
+    { "id": "g11_c3_q29", "text": "The most reactive metal is:", "options": ["Lithium", "Sodium", "Potassium", "Cesium"], "correctIndex": 3, "explanation": "Cesium has the lowest ionization enthalpy in the s-block.", "frequencyRating": 4 },
+    { "id": "g11_c3_q30", "text": "The most reactive non-metal is:", "options": ["Oxygen", "Fluorine", "Chlorine", "Nitrogen"], "correctIndex": 1, "explanation": "Due to high electronegativity and high electron gain enthalpy.", "frequencyRating": 4 },
+    { "id": "g11_c3_q31", "text": "Which block elements are all metals?", "options": ["s", "d", "f", "All of these"], "correctIndex": 3, "explanation": "Only p-block contains non-metals and metalloids.", "frequencyRating": 4 },
+    { "id": "g11_c3_q32", "text": "Metalloids are also called:", "options": ["Semimetals", "Transition metals", "Inner transition", "Alkali"], "correctIndex": 0, "explanation": "Elements showing properties of both metals and non-metals.", "frequencyRating": 5 },
+    { "id": "g11_c3_q33", "text": "Ionic radius of a cation is _____ than its parent atom.", "options": ["Smaller", "Larger", "Equal", "None"], "correctIndex": 0, "explanation": "Loss of electrons increases effective nuclear charge per electron.", "frequencyRating": 5 },
+    { "id": "g11_c3_q34", "text": "Ionic radius of an anion is _____ than its parent atom.", "options": ["Smaller", "Larger", "Equal", "None"], "correctIndex": 1, "explanation": "Extra electron increases repulsion and reduces Zeff.", "frequencyRating": 5 },
+    { "id": "g11_c3_q35", "text": "The group 17 elements are known as:", "options": ["Alkali metals", "Halogens", "Noble gases", "Chalcogens"], "correctIndex": 1, "explanation": "Salt-formers.", "frequencyRating": 5 },
+    { "id": "g11_c3_q36", "text": "The d-block elements are known as:", "options": ["Representative", "Transition elements", "Inner transition", "Noble"], "correctIndex": 1, "explanation": "They 'transition' between s and p blocks.", "frequencyRating": 5 },
+    { "id": "g11_c3_q37", "text": "Which of the following is not a transition element?", "options": ["Iron", "Copper", "Zinc", "Silver"], "correctIndex": 2, "explanation": "Zinc has fully filled d-orbitals in both atomic and common ionic states.", "frequencyRating": 3 },
+    { "id": "g11_c3_q38", "text": "Group 16 elements are called:", "options": ["Halogens", "Chalcogens", "Pnictogens", "Noble gases"], "correctIndex": 1, "explanation": "Ore-forming elements.", "frequencyRating": 4 },
+    { "id": "g11_c3_q39", "text": "Unit of electronegativity is:", "options": ["eV", "kJ/mol", "No units", "Pascal"], "correctIndex": 2, "explanation": "It is a relative scale/tendency, not an absolute energy value.", "frequencyRating": 4 },
+    { "id": "g11_c3_q40", "text": "Who is the father of the periodic table?", "options": ["Mendeleev", "Newlands", "Dobereiner", "Moseley"], "correctIndex": 0, "explanation": "Dmitri Mendeleev published the first widely recognized periodic table.", "frequencyRating": 5 }
+  ]
+}
