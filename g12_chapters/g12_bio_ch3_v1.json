@@ -1,0 +1,331 @@
+{
+  "id": "g12_bio_ch3",
+  "grade": "12",
+  "subject": "Biology",
+  "number": "3",
+  "title": "Reproductive Health",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_b3_q1",
+      "text": "According to WHO, reproductive health means total well-being in which aspects?",
+      "options": ["Physical and Emotional", "Behavioral and Social", "Both A and B", "Physical only"],
+      "correctIndex": 2,
+      "explanation": "WHO defines it as a state of complete physical, mental and social well-being in all matters relating to the reproductive system.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q2",
+      "text": "India was the first country in the world to initiate ________ in 1951.",
+      "options": ["Polio eradication", "Family planning programmes", "Green revolution", "Industrialization"],
+      "correctIndex": 1,
+      "explanation": "These programmes are now called Reproductive and Child Health Care (RCH) programmes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q3",
+      "text": "The technique used to determine the sex of the foetus and detect genetic disorders is:",
+      "options": ["Amniocentesis", "Tubectomy", "Laparoscopy", "Vasectomy"],
+      "correctIndex": 0,
+      "explanation": "It involves analyzing the amniotic fluid surrounding the foetus. It is banned for sex determination in India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q4",
+      "text": "What is the statutory marriageable age for females and males in India?",
+      "options": ["15, 18", "18, 21", "21, 21", "18, 18"],
+      "correctIndex": 1,
+      "explanation": "18 years for females and 21 years for males to prevent early marriage and population explosion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q5",
+      "text": "An ideal contraceptive should be:",
+      "options": ["User-friendly", "Easily available", "Effective and reversible", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "It should also have least side effects and not interfere with sexual desire.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q6",
+      "text": "Periodic abstinence is a natural method where couples avoid coitus from day ________ of the menstrual cycle.",
+      "options": ["1-5", "10-17", "20-28", "25-30"],
+      "correctIndex": 1,
+      "explanation": "This is the fertile period when ovulation is most likely to occur.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q7",
+      "text": "Lactational amenorrhea refers to the absence of menstruation during:",
+      "options": ["Pregnancy", "Intense lactation", "Puberty", "Menopause"],
+      "correctIndex": 1,
+      "explanation": "High prolactin levels inhibit ovulation. It is effective for up to six months post-delivery.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q8",
+      "text": "Condoms are barriers that also provide protection against:",
+      "options": ["STIs", "AIDS", "Both A and B", "None"],
+      "correctIndex": 2,
+      "explanation": "Unlike most other methods, barriers prevent the exchange of body fluids.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q9",
+      "text": "IUD stands for:",
+      "options": ["Intra Uterine Device", "Inner Urinary Duct", "Intra Uterine Development", "Internal Urinary Device"],
+      "correctIndex": 0,
+      "explanation": "These are devices inserted by doctors in the uterus through vagina.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q10",
+      "text": "Which of the following is a non-medicated IUD?",
+      "options": ["Lippes loop", "CuT", "Multiload 375", "LNG-20"],
+      "correctIndex": 0,
+      "explanation": "Lippes loop acts as a physical barrier to sperm migration and implantation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b3_q11",
+      "text": "The primary function of copper-releasing IUDs (like CuT) is to:",
+      "options": ["Block the cervix", "Suppress sperm motility", "Prevent ovulation", "Make uterus unsuitable for implantation"],
+      "correctIndex": 1,
+      "explanation": "Copper ions released suppress the fertilising capacity of sperms.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q12",
+      "text": "Oral contraceptive 'Saheli' was developed by scientists at:",
+      "options": ["AIIMS, Delhi", "CDRI, Lucknow", "IISc, Bangalore", "CMC, Vellore"],
+      "correctIndex": 1,
+      "explanation": "Central Drug Research Institute (CDRI) Lucknow developed this 'once-a-week' non-steroidal pill.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q13",
+      "text": "The surgical method of sterilization in males is called:",
+      "options": ["Tubectomy", "Vasectomy", "Hysterectomy", "MTP"],
+      "correctIndex": 1,
+      "explanation": "A small part of the vas deferens is removed or tied up.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q14",
+      "text": "The surgical method of sterilization in females is called:",
+      "options": ["Vasectomy", "Tubectomy", "Castration", "Amniocentesis"],
+      "correctIndex": 1,
+      "explanation": "A small part of the fallopian tube is removed or tied up.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q15",
+      "text": "Medical Termination of Pregnancy (MTP) is considered safe up to how many weeks?",
+      "options": ["8 weeks", "12 weeks", "20 weeks", "24 weeks"],
+      "correctIndex": 1,
+      "explanation": "MTP is safe during the first trimester (up to 12 weeks).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q16",
+      "text": "Which of the following is NOT a sexually transmitted infection?",
+      "options": ["Syphilis", "Gonorrhoea", "AIDS", "Asthma"],
+      "correctIndex": 3,
+      "explanation": "Asthma is a respiratory disorder, not an STI.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q17",
+      "text": "Hepatitis-B and HIV can also be transmitted by:",
+      "options": ["Sharing injection needles", "Blood transfusion", "Infected mother to foetus", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "These infections spread through contact with infected blood and fluids.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q18",
+      "text": "Infertility is the inability to produce children even after ________ of unprotected sexual cohabitation.",
+      "options": ["6 months", "1 year", "2 years", "5 years"],
+      "correctIndex": 2,
+      "explanation": "Standard clinical definition of infertility.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b3_q19",
+      "text": "In 'Test Tube Baby' programme, the embryo is transferred into the woman's body. This is called:",
+      "options": ["ZIFT", "GIFT", "ET (Embryo Transfer)", "IUI"],
+      "correctIndex": 2,
+      "explanation": "ET includes techniques like ZIFT and IUT.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q20",
+      "text": "ZIFT stands for:",
+      "options": ["Zygote Intra Fallopian Transfer", "Zygote In-vitro Fertilisation", "Zygote Internal Fallopian Transfer", "Zone Intra Fallopian Transfer"],
+      "correctIndex": 0,
+      "explanation": "The zygote or early embryo (up to 8 blastomeres) is transferred into the fallopian tube.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q21",
+      "text": "GIFT involves the transfer of ________ into the fallopian tube of a female who cannot produce them.",
+      "options": ["Zygote", "Embryo", "Ovum", "Sperm"],
+      "correctIndex": 2,
+      "explanation": "Gamete Intra Fallopian Transfer is used when the female can provide environment for fertilization but cannot produce eggs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q22",
+      "text": "ICSI is a specialized procedure where a sperm is:",
+      "options": ["Placed in the vagina", "Injected directly into the ovum", "Transferred to fallopian tube", "Placed in the uterus"],
+      "correctIndex": 1,
+      "explanation": "Intra Cytoplasmic Sperm Injection is an ART technique used in labs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q23",
+      "text": "In Artificial Insemination (AI), the semen is introduced into the:",
+      "options": ["Vagina", "Uterus (IUI)", "Fallopian tube", "Both A and B"],
+      "correctIndex": 3,
+      "explanation": "Used when the male partner has low sperm count.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b3_q24",
+      "text": "Which STI is completely curable if detected early and treated properly?",
+      "options": ["AIDS", "Hepatitis-B", "Genital herpes", "Gonorrhoea"],
+      "correctIndex": 3,
+      "explanation": "Except for HIV, Hepatitis-B, and Genital herpes, most STIs are curable.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q25",
+      "text": "The pill 'Saheli' is a ________ pill with ________ side effects.",
+      "options": ["Daily, many", "Once-a-week, very few", "Once-a-month, many", "Steroidal, no"],
+      "correctIndex": 1,
+      "explanation": "It is a non-steroidal oral contraceptive.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b3_q26",
+      "text": "Which hormone-releasing IUD makes the uterus unsuitable for implantation?",
+      "options": ["CuT", "Multiload 375", "Progestasert", "Lippes loop"],
+      "correctIndex": 2,
+      "explanation": "Progestasert and LNG-20 are hormone-releasing IUDs.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b3_q27",
+      "text": "World population which was 2 billion in 1900 rocketed to about ________ by 2011.",
+      "options": ["4 billion", "6 billion", "7 billion", "10 billion"],
+      "correctIndex": 2,
+      "explanation": "Significant increase due to better health facilities and lower death rates.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_b3_q28",
+      "text": "MTP is mainly used to:",
+      "options": ["Determine sex", "Get rid of unwanted pregnancies", "Treat infertility", "Promote population growth"],
+      "correctIndex": 1,
+      "explanation": "Legalized in India in 1971 with strict conditions to avoid misuse.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q29",
+      "text": "Sterilization is also known as ________ method.",
+      "options": ["Barrier", "Natural", "Terminal", "Hormonal"],
+      "correctIndex": 2,
+      "explanation": "It is a permanent method to prevent any more pregnancies.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b3_q30",
+      "text": "Emergency contraceptives are effective if used within ________ hours of coitus.",
+      "options": ["24", "48", "72", "120"],
+      "correctIndex": 2,
+      "explanation": "Progestogens or IUDs can be used as emergency methods.",
+      "frequencyRating": 4
+    }
+    ,
+    {
+      "id": "g12_b3_q31",
+      "text": "The oral contraceptive pill 'Saheli' is unique because it is:",
+      "options": ["Steroidal and daily", "Non-steroidal and weekly", "Steroidal and weekly", "Non-steroidal and daily"],
+      "correctIndex": 1,
+      "explanation": "It has high contraceptive value with very few side effects due to its non-steroidal nature.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q32",
+      "text": "To prevent early marriage and population explosion, the statutory marriageable age in India is:",
+      "options": ["15F, 18M", "18F, 18M", "18F, 21M", "21F, 21M"],
+      "correctIndex": 2,
+      "explanation": "Laws set the minimum age at 18 years for females and 21 years for males.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q33",
+      "text": "MTP (Medical Termination of Pregnancy) was legalized in India in which year?",
+      "options": ["1951", "1971", "1981", "2001"],
+      "correctIndex": 1,
+      "explanation": "It was legalized with strict conditions to avoid its misuse for female foeticide.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b3_q34",
+      "text": "MTP is considered safe only up to the first ________ of pregnancy.",
+      "options": ["4 weeks", "12 weeks", "20 weeks", "24 weeks"],
+      "correctIndex": 1,
+      "explanation": "The first trimester (up to 12 weeks) is the safest period for MTP.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q35",
+      "text": "In ZIFT, the zygote is transferred into the:",
+      "options": ["Uterus", "Fallopian tube", "Cervix", "Vagina"],
+      "correctIndex": 1,
+      "explanation": "Zygote Intra Fallopian Transfer involves placing the early embryo into the fallopian tube.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q36",
+      "text": "ICSI (Intra Cytoplasmic Sperm Injection) is used when:",
+      "options": ["Female cannot produce ova", "Male has low sperm count", "Fallopian tubes are blocked", "Uterus is unsuitable"],
+      "correctIndex": 1,
+      "explanation": "A single sperm is directly injected into the ovum in the laboratory.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b3_q37",
+      "text": "Amniocentesis is a medical procedure used to:",
+      "options": ["Induce labor", "Determine genetic disorders", "Identify sex of child", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "Legally it is for genetic testing, but it is often misused for sex determination.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q38",
+      "text": "Which natural method of contraception relies on the absence of menstruation during breastfeeding?",
+      "options": ["Periodic abstinence", "Withdrawal", "Lactational amenorrhea", "Barrier method"],
+      "correctIndex": 2,
+      "explanation": "Intense lactation after delivery prevents ovulation naturally for up to six months.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b3_q39",
+      "text": "GIFT involves the transfer of ________ into the fallopian tube.",
+      "options": ["Embryo", "Zygote", "Gamete (Ovum)", "Semen"],
+      "correctIndex": 2,
+      "explanation": "Used for females who cannot produce ova but can provide a suitable environment for fertilization.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b3_q40",
+      "text": "Providing sex education in schools is important to:",
+      "options": ["Encourage early marriage", "Provide right information about reproductive life", "Discard myths", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "It helps young people understand physical changes and safe reproductive practices.",
+      "frequencyRating": 4
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "id": "g12_bio_ch6",
+  "grade": "12",
+  "subject": "Biology",
+  "number": "6",
+  "title": "Molecular Basis of Inheritance",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_b6_q1",
+      "text": "Which of the following is the genetic material in most organisms?",
+      "options": ["RNA", "DNA", "Protein", "Carbohydrate"],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) is the primary genetic material, though some viruses use RNA.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q2",
+      "text": "A nucleotide consists of:",
+      "options": ["Sugar + Base", "Sugar + Phosphate", "Sugar + Base + Phosphate", "Base + Phosphate"],
+      "correctIndex": 2,
+      "explanation": "A nitrogenous base is linked to a pentose sugar and a phosphate group.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q3",
+      "text": "Chargaff's rule states that in a double-stranded DNA:",
+      "options": ["A = C", "G = T", "A + G = T + C", "A + T = G + C"],
+      "correctIndex": 2,
+      "explanation": "The ratio between Adenine and Thymine, and Guanine and Cytosine are constant and equal to one (Purines = Pyrimidines).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q4",
+      "text": "The double helix model of DNA was proposed by:",
+      "options": ["Griffith", "Watson and Crick", "Hershey and Chase", "Meselson and Stahl"],
+      "correctIndex": 1,
+      "explanation": "James Watson and Francis Crick proposed the model in 1953 based on X-ray diffraction data.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q5",
+      "text": "DNA strands are antiparallel because of:",
+      "options": ["Hydrogen bonds", "Phosphodiester bonds", "Polarity of sugar-phosphate backbone", "Glycosidic bonds"],
+      "correctIndex": 2,
+      "explanation": "One strand has 5'→3' polarity and the other has 3'→5' polarity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q6",
+      "text": "The pitch of the DNA helix is:",
+      "options": ["0.34 nm", "3.4 nm", "2 nm", "20 nm"],
+      "correctIndex": 1,
+      "explanation": "There are roughly 10 base pairs in each turn (pitch) of 3.4 nm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q7",
+      "text": "Histones are rich in which basic amino acids?",
+      "options": ["Valine and Leucine", "Lysine and Arginine", "Glycine and Alanine", "Proline and Serine"],
+      "correctIndex": 1,
+      "explanation": "Histones are positively charged proteins that help in packaging negatively charged DNA.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q8",
+      "text": "The 'beads-on-string' structure seen under electron microscope is:",
+      "options": ["Nucleotide", "Nucleosome", "Chromatid", "Gene"],
+      "correctIndex": 1,
+      "explanation": "Nucleosomes are the repeating units of chromatin consisting of DNA wrapped around a histone octamer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q9",
+      "text": "The 'transforming principle' was first discovered by ________ using Streptococcus pneumoniae.",
+      "options": ["Avery", "Griffith", "MacLeod", "McCarty"],
+      "correctIndex": 1,
+      "explanation": "Frederick Griffith (1928) observed that heat-killed S strain bacteria could transform live R strain into virulent S strain.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q10",
+      "text": "Hershey and Chase used which radioactive isotopes to prove DNA is the genetic material?",
+      "options": ["¹⁴C and ¹⁵N", "³²P and ³⁵S", "³H and ¹⁸O", "¹²C and ³¹P"],
+      "correctIndex": 1,
+      "explanation": "They labeled DNA with radioactive phosphorus (³²P) and proteins with radioactive sulfur (³⁵S).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q11",
+      "text": "DNA is more stable than RNA because of:",
+      "options": ["Presence of Thymine instead of Uracil", "Lack of 2'-OH group in sugar", "Double stranded nature", "All of these"],
+      "correctIndex": 3,
+      "explanation": "The chemical modifications and structure of DNA make it less reactive and more suitable for storage of genetic info.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q12",
+      "text": "The semiconservative nature of DNA replication was experimentally proven by:",
+      "options": ["Watson and Crick", "Meselson and Stahl", "Taylor", "Both 2 and 3"],
+      "correctIndex": 3,
+      "explanation": "Meselson and Stahl used E. coli and heavy nitrogen (¹⁵N); Taylor used Vicia faba and tritiated thymidine.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q13",
+      "text": "The enzyme that catalyzes the polymerization of deoxynucleotides is:",
+      "options": ["DNA Ligase", "DNA Polymerase", "Helicase", "Primase"],
+      "correctIndex": 1,
+      "explanation": "DNA-dependent DNA polymerase adds nucleotides in the 5'→3' direction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q14",
+      "text": "Small fragments of DNA formed on the lagging strand are called:",
+      "options": ["Introns", "Exons", "Okazaki fragments", "Cistrons"],
+      "correctIndex": 2,
+      "explanation": "Because DNA polymerase only works in the 5'→3' direction, one strand is synthesized discontinuously.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q15",
+      "text": "The process of copying genetic information from DNA to RNA is:",
+      "options": ["Replication", "Transcription", "Translation", "Reverse Transcription"],
+      "correctIndex": 1,
+      "explanation": "Transcription occurs in the nucleus (eukaryotes) and is mediated by RNA polymerase.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q16",
+      "text": "In a transcription unit, the strand that has the same sequence as RNA (except T instead of U) is the:",
+      "options": ["Template strand", "Coding strand", "Antisense strand", "Non-coding strand"],
+      "correctIndex": 1,
+      "explanation": "The coding strand (5'→3') is used as the reference point for defining the promoter and terminator.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q17",
+      "text": "The non-coding sequences in eukaryotic genes are called:",
+      "options": ["Exons", "Introns", "Promoters", "Operators"],
+      "correctIndex": 1,
+      "explanation": "Introns are removed during RNA splicing to form functional mRNA.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q18",
+      "text": "The process of removing introns and joining exons is called:",
+      "options": ["Capping", "Tailing", "Splicing", "Polyadenylation"],
+      "correctIndex": 2,
+      "explanation": "Splicing is a key post-transcriptional modification in eukaryotes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q19",
+      "text": "Which of the following is the 'start codon'?",
+      "options": ["UAA", "UAG", "UGA", "AUG"],
+      "correctIndex": 3,
+      "explanation": "AUG codes for Methionine and acts as the initiation signal for translation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q20",
+      "text": "The relationship between the sequence of nucleotides on mRNA and the sequence of amino acids is the:",
+      "options": ["Genetic code", "Central Dogma", "Transcription unit", "Operon"],
+      "correctIndex": 0,
+      "explanation": "The genetic code is triplet, universal, and non-overlapping.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q21",
+      "text": "The adapter molecule that reads the code and brings amino acids is:",
+      "options": ["mRNA", "rRNA", "tRNA", "snRNA"],
+      "correctIndex": 2,
+      "explanation": "Transfer RNA (tRNA) has an anticodon loop and an amino acid acceptor end.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q22",
+      "text": "Translation refers to the process of:",
+      "options": ["DNA synthesis", "RNA synthesis", "Protein synthesis", "Ribosome synthesis"],
+      "correctIndex": 2,
+      "explanation": "Amino acids are polymerized into a polypeptide chain based on the mRNA sequence.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q23",
+      "text": "The Lac operon is switched 'ON' when ________ is present.",
+      "options": ["Glucose", "Galactose", "Lactose", "Sucrose"],
+      "correctIndex": 2,
+      "explanation": "Lactose acts as an inducer by binding to the repressor protein.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q24",
+      "text": "Who developed the 'DNA Fingerprinting' technique?",
+      "options": ["Alec Jeffreys", "Sanger", "Watson", "Khorana"],
+      "correctIndex": 0,
+      "explanation": "Alec Jeffreys used satellite DNA (VNTRs) to identify individuals based on genetic variation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q25",
+      "text": "Human Genome Project was launched in the year:",
+      "options": ["1953", "1990", "2000", "2003"],
+      "correctIndex": 1,
+      "explanation": "The 13-year mega project was completed in 2003.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b6_q26",
+      "text": "The human genome contains approximately how many base pairs?",
+      "options": ["3 × 10⁶", "3 × 10⁹", "6 × 10⁹", "3 × 10¹²"],
+      "correctIndex": 1,
+      "explanation": "The haploid human genome has roughly 3.3 billion base pairs.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b6_q27",
+      "text": "VNTR stands for:",
+      "options": ["Variable Number of Tandem Repeats", "Very Nice Template RNA", "Viral Nucleotide Triple Repeat", "Variant Nucleoside Template"],
+      "correctIndex": 0,
+      "explanation": "VNTRs belong to a class of satellite DNA referred to as mini-satellites.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q28",
+      "text": "The core enzyme of RNA polymerase in bacteria needs which factor to initiate transcription?",
+      "options": ["Sigma (σ) factor", "Rho (ρ) factor", "Alpha factor", "Gamma factor"],
+      "correctIndex": 0,
+      "explanation": "Sigma factor helps the polymerase recognize the promoter; Rho factor helps in termination.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q29",
+      "text": "Degeneracy of the genetic code means:",
+      "options": ["One codon codes for many amino acids", "One amino acid is coded by more than one codon", "Codons overlap", "The code is not universal"],
+      "correctIndex": 1,
+      "explanation": "Because there are 61 codons for 20 amino acids, some amino acids have multiple synonymous codons.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b6_q30",
+      "text": "Central Dogma of molecular biology was proposed by:",
+      "options": ["Watson", "Crick", "Darwin", "Lamarck"],
+      "correctIndex": 1,
+      "explanation": "Crick stated that information flows from DNA → RNA → Protein.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q31",
+      "text": "Which of the following is NOT a stop codon?",
+      "options": ["UAA", "UAG", "UGA", "UGG"],
+      "correctIndex": 3,
+      "explanation": "UGG codes for Tryptophan. UAA, UAG, and UGA are termination codons.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q32",
+      "text": "The nitrogenous base absent in RNA is:",
+      "options": ["Adenine", "Guanine", "Thymine", "Uracil"],
+      "correctIndex": 2,
+      "explanation": "In RNA, Uracil is present in place of Thymine.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q33",
+      "text": "In a DNA strand, nucleotides are linked by:",
+      "options": ["Glycosidic bond", "Phosphodiester bond", "Peptide bond", "Hydrogen bond"],
+      "correctIndex": 1,
+      "explanation": "A 3'-5' phosphodiester bond links the sugar of one nucleotide to the phosphate of the next.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q34",
+      "text": "Euchromatin is:",
+      "options": ["Densely packed and inactive", "Loosely packed and active", "Only found in bacteria", "Part of a ribosome"],
+      "correctIndex": 1,
+      "explanation": "Euchromatin stains light and is transcriptionally active compared to heterochromatin.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b6_q35",
+      "text": "DNA replication occurs in which phase of the cell cycle?",
+      "options": ["G1 phase", "S phase", "G2 phase", "M phase"],
+      "correctIndex": 1,
+      "explanation": "The S (Synthesis) phase is when DNA content of the cell is doubled.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q36",
+      "text": "RNA polymerase III in eukaryotes transcribes:",
+      "options": ["mRNA", "rRNA", "tRNA and 5S rRNA", "hnRNA"],
+      "correctIndex": 2,
+      "explanation": "Eukaryotes have three RNA polymerases with specific targets (Pol I for rRNA, Pol II for hnRNA).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b6_q37",
+      "text": "A cistron is:",
+      "options": ["A segment of RNA", "A segment of DNA coding for a polypeptide", "A type of protein", "A unit of transcription termination"],
+      "correctIndex": 1,
+      "explanation": "Eukaryotic structural genes are usually monocistronic, while bacteria are polycistronic.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b6_q38",
+      "text": "The sequence of amino acids in a protein is determined by the sequence of:",
+      "options": ["tRNA", "rRNA", "mRNA", "DNA polymerase"],
+      "correctIndex": 2,
+      "explanation": "mRNA carries the genetic message from DNA to the ribosome.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q39",
+      "text": "How many codons code for amino acids?",
+      "options": ["20", "64", "61", "16"],
+      "correctIndex": 2,
+      "explanation": "Of the 64 possible codons, 3 are stop codons and do not code for any amino acid.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b6_q40",
+      "text": "SNP stands for:",
+      "options": ["Single Nucleotide Polymorphism", "Simple Nitrogenous Protein", "Systemic Nuclear Part", "Small Nuclear Polypeptide"],
+      "correctIndex": 0,
+      "explanation": "These are single base DNA differences observed in the human population.",
+      "frequencyRating": 3
+    }
+  ]
+}

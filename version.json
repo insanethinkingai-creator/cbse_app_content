@@ -1,6 +1,7 @@
 {
-  "updatedAt": "2026-04-13T08:32:41.570577Z",
+  "updatedAt": "2026-04-15T05:58:05.457389Z",
   "enabledGrades": [
+    "g12",
     "g10",
     "g7"
   ],
@@ -8,8 +9,11 @@
     "g7_full_zip": "66ae9518",
     "g7_full_zip_md5": "66ae9518b694d91a0d8df538c0c327bd",
     "g7_full_zip_filename": "g7_66ae9518.zip",
-    "g10_full_zip": "4c90bec0",
-    "g10_full_zip_md5": "4c90bec012dd51fb7c6a97334ee9ae37",
-    "g10_full_zip_filename": "g10_4c90bec0.zip"
+    "g10_full_zip": "17a5b4b7",
+    "g10_full_zip_md5": "17a5b4b77baa8e782fe710290e48b9da",
+    "g10_full_zip_filename": "g10_17a5b4b7.zip",
+    "g12_full_zip": "fd81699d",
+    "g12_full_zip_md5": "fd81699d46ada59b587f6fc788b6c981",
+    "g12_full_zip_filename": "g12_fd81699d.zip"
   }
 }

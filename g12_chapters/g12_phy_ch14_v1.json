@@ -1,0 +1,330 @@
+{
+  "id": "g12_phy_ch14",
+  "grade": "12",
+  "subject": "Physics",
+  "number": "14",
+  "title": "Semiconductor Electronics",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_p14_q1",
+      "text": "In a semiconductor, the energy gap between valence band and conduction band is of the order of:",
+      "options": ["100 eV", "0 eV", "1 eV", "10 eV"],
+      "correctIndex": 2,
+      "explanation": "Semiconductors have a small forbidden gap (e.g., Si = 1.1 eV, Ge = 0.72 eV).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p14_q2",
+      "text": "At absolute zero temperature, an intrinsic semiconductor behaves as a/an:",
+      "options": ["Perfect conductor", "Insulator", "Superconductor", "Metal"],
+      "correctIndex": 1,
+      "explanation": "At 0K, no electrons have thermal energy to jump the gap to the conduction band.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p14_q3",
+      "text": "An n-type semiconductor is formed by doping pure Silicon with:",
+      "options": ["Trivalent impurity", "Pentavalent impurity", "Intrinsic atoms", "Carbon"],
+      "correctIndex": 1,
+      "explanation": "Pentavalent atoms (like Phosphorus) provide extra electrons (n for negative).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p14_q4",
+      "text": "A hole in a semiconductor is:",
+      "options": ["A positive particle", "An empty energy level in valence band", "An anti-proton", "A neutron"],
+      "correctIndex": 1,
+      "explanation": "A hole is the absence of an electron, behaving as a virtual positive charge carrier.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p14_q5",
+      "text": "In a p-type semiconductor, the majority charge carriers are:",
+      "options": ["Electrons", "Holes", "Protons", "Ions"],
+      "correctIndex": 1,
+      "explanation": "Trivalent doping creates more holes than free electrons.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p14_q6",
+      "text": "The process of adding impurities to a pure semiconductor is called:",
+      "options": ["Diffraction", "Doping", "Drifting", "Diffusion"],
+      "correctIndex": 1,
+      "explanation": "Doping increases the conductivity of the material significantly.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p14_q7",
+      "text": "When a p-n junction is forward biased, the depletion layer width:",
+      "options": ["Increases", "Decreases", "Remains constant", "Zero"],
+      "correctIndex": 1,
+      "explanation": "Forward bias pushes carriers towards the junction, narrowing the depletion region.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p14_q8",
+      "text": "In reverse bias, a p-n junction acts as a/an:",
+      "options": ["Closed switch", "Open switch", "Amplifier", "Oscillator"],
+      "correctIndex": 1,
+      "explanation": "The resistance is very high, and almost no current flows (except leakage current).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p14_q9",
+      "text": "A diode can be used as a:",
+      "options": ["Rectifier", "Amplifier", "Oscillator", "Voltage source"],
+      "correctIndex": 0,
+      "explanation": "A rectifier converts AC to DC by allowing current in only one direction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p14_q10",
+      "text": "A full-wave rectifier uses how many diodes at minimum?",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 1,
+      "explanation": "A center-tapped transformer full-wave rectifier requires 2 diodes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p14_q11",
+      "text": "In a semiconductor, the total current is the sum of:",
+      "options": ["Electron and proton current", "Electron and hole current", "Drift and displacement current", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Total I = I_e + I_h.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p14_q12",
+      "text": "Which of the following is a trivalent impurity?",
+      "options": ["Phosphorus", "Arsenic", "Boron", "Antimony"],
+      "correctIndex": 2,
+      "explanation": "Boron (Group 13) has 3 valence electrons.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p14_q13",
+      "text": "The resistivity of a semiconductor ________ with temperature.",
+      "options": ["Increases", "Decreases", "Remains constant", "Exponentially increases"],
+      "correctIndex": 1,
+      "explanation": "Semiconductors have a negative temperature coefficient of resistance.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p14_q14",
+      "text": "The potential barrier in a Silicon p-n junction is about:",
+      "options": ["0.3 V", "0.7 V", "1.1 V", "5.0 V"],
+      "correctIndex": 1,
+      "explanation": "Silicon junctions typically require ~0.7V for forward conduction.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p14_q15",
+      "text": "An LED (Light Emitting Diode) is always:",
+      "options": ["Reverse biased", "Forward biased", "Unbiased", "Grounded"],
+      "correctIndex": 1,
+      "explanation": "Light is emitted during the recombination of carriers in forward bias.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p14_q16",
+      "text": "A Zener diode is used for:",
+      "options": ["Rectification", "Amplification", "Voltage regulation", "Oscillation"],
+      "correctIndex": 2,
+      "explanation": "Zener diodes are designed to operate in the breakdown region (reverse bias) to maintain constant voltage.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p14_q17",
+      "text": "The energy band gap is maximum in:",
+      "options": ["Conductors", "Semiconductors", "Insulators", "Alloys"],
+      "correctIndex": 2,
+      "explanation": "Insulators have a gap > 3 eV.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p14_q18",
+      "text": "In an n-type semiconductor, the Fermi level lies:",
+      "options": ["In the middle of gap", "Near conduction band", "Near valence band", "Inside valence band"],
+      "correctIndex": 1,
+      "explanation": "Doping with donors shifts the Fermi level upwards towards the conduction band.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p14_q19",
+      "text": "A solar cell works on the principle of:",
+      "options": ["Thermionic emission", "Photovoltaic effect", "Seebeck effect", "Peltier effect"],
+      "correctIndex": 1,
+      "explanation": "It converts light energy directly into electrical energy using a p-n junction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p14_q20",
+      "text": "Which of the following is an elemental semiconductor?",
+      "options": ["CdS", "GaAs", "Si", "InP"],
+      "correctIndex": 2,
+      "explanation": "Si and Ge are elemental; others are compound semiconductors.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p14_q21",
+      "text": "The diffusion current in a p-n junction is from:",
+      "options": ["n to p side", "p to n side", "Cathode to anode", "None"],
+      "correctIndex": 1,
+      "explanation": "Holes diffuse from p (high concentration) to n (low concentration).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p14_q22",
+      "text": "In a semiconductor, 'n_e * n_h = n_i²' is the:",
+      "options": ["Ohm's Law", "Mass Action Law", "Kirchhoff's Law", "Faraday's Law"],
+      "correctIndex": 1,
+      "explanation": "This law holds for semiconductors in thermal equilibrium.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p14_q23",
+      "text": "The color of light emitted by an LED depends on:",
+      "options": ["Forward bias voltage", "Reverse bias voltage", "Band gap of semiconductor", "Intensity of light"],
+      "correctIndex": 2,
+      "explanation": "Energy of photon (E=hν) is roughly equal to the band gap energy.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p14_q24",
+      "text": "A photodiode is used in:",
+      "options": ["Logic gates", "Light sensors", "Rectifiers", "Heaters"],
+      "correctIndex": 1,
+      "explanation": "Photodiodes are reverse biased and detect light by generating current proportional to intensity.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p14_q25",
+      "text": "The output frequency of a half-wave rectifier with input frequency 50 Hz is:",
+      "options": ["25 Hz", "50 Hz", "100 Hz", "0 Hz"],
+      "correctIndex": 1,
+      "explanation": "In half-wave rectification, the output period is the same as the input period.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p14_q26",
+      "text": "The output frequency of a full-wave rectifier with input frequency 50 Hz is:",
+      "options": ["50 Hz", "100 Hz", "25 Hz", "200 Hz"],
+      "correctIndex": 1,
+      "explanation": "The output repeats every half cycle of the input, doubling the frequency.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p14_q27",
+      "text": "Carbon, Silicon, and Germanium all have 4 valence electrons. Why is Carbon an insulator?",
+      "options": ["Large binding energy", "Small atomic size", "Large energy gap (5.4 eV)", "All of these"],
+      "correctIndex": 3,
+      "explanation": "The valence electrons in Carbon are very tightly bound, and the gap is too large to jump thermally.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p14_q28",
+      "text": "In a p-n junction, the barrier potential is created by:",
+      "options": ["Majority carriers", "Mobile ions", "Immobile ions in depletion layer", "Doping atoms"],
+      "correctIndex": 2,
+      "explanation": "Positive ions on n-side and negative ions on p-side create the internal electric field.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p14_q29",
+      "text": "Which of the following has a negative temperature coefficient of resistance?",
+      "options": ["Copper", "Silicon", "Aluminum", "Iron"],
+      "correctIndex": 1,
+      "explanation": "Resistance of semiconductors decreases with increasing temperature.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p14_q30",
+      "text": "In intrinsic semiconductors, the number of free electrons is:",
+      "options": ["Equal to number of holes", "More than holes", "Less than holes", "Zero"],
+      "correctIndex": 0,
+      "explanation": "Every electron jumping to the conduction band leaves behind exactly one hole.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p14_q31",
+      "text": "A p-n junction diode is 'on' when it is:",
+      "options": ["Reverse biased", "Forward biased", "Unbiased", "Open circuited"],
+      "correctIndex": 1,
+      "explanation": "Forward bias allows current to flow easily through the junction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p14_q32",
+      "text": "The main cause of drift current in p-n junction is:",
+      "options": ["Concentration gradient", "Electric field", "Temperature", "Doping concentration"],
+      "correctIndex": 1,
+      "explanation": "Drift current is the motion of charge carriers due to the internal electric field.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p14_q33",
+      "text": "Compound semiconductors like GaAs are used to make LEDs because:",
+      "options": ["They are cheap", "They have direct band gaps", "They have indirect band gaps", "They are easy to dope"],
+      "correctIndex": 1,
+      "explanation": "Direct band gap materials allow efficient recombination resulting in photon emission.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p14_q34",
+      "text": "Smallest wavelength emitted by an LED is determined by:",
+      "options": ["Bias voltage", "Saturation current", "Band gap energy", "Junction area"],
+      "correctIndex": 2,
+      "explanation": "λ_min ≈ hc / E_gap.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p14_q35",
+      "text": "The width of depletion layer is typically:",
+      "options": ["1 m", "1 cm", "10⁻⁶ m", "10⁻¹⁰ m"],
+      "correctIndex": 2,
+      "explanation": "It is of the order of a few micrometers.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_p14_q36",
+      "text": "In a full-wave bridge rectifier, how many diodes are used?",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 3,
+      "explanation": "Bridge rectifiers use 4 diodes to achieve full-wave rectification without a center-tap transformer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p14_q37",
+      "text": "Donor atoms for Silicon are from which group?",
+      "options": ["Group 13", "Group 14", "Group 15", "Group 16"],
+      "correctIndex": 2,
+      "explanation": "Group 15 (P, As, Sb) provide 5 valence electrons, donating one to the conduction band.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p14_q38",
+      "text": "Acceptor atoms for Silicon are from which group?",
+      "options": ["Group 13", "Group 14", "Group 15", "Group 12"],
+      "correctIndex": 0,
+      "explanation": "Group 13 (B, Al, Ga, In) provide 3 valence electrons, creating a hole (accepting an electron).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p14_q39",
+      "text": "The arrow in the diode symbol points in the direction of:",
+      "options": ["Electron flow", "Conventional current flow", "Reverse bias", "Depletion layer"],
+      "correctIndex": 1,
+      "explanation": "The arrow points from p-side (anode) to n-side (cathode).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p14_q40",
+      "text": "Which of the following logic gates is considered universal? (Note: Extra content)",
+      "options": ["OR", "AND", "NAND", "XOR"],
+      "correctIndex": 2,
+      "explanation": "NAND and NOR gates can be used to construct any other logic gate.",
+      "frequencyRating": 4
+    }
+  ]
+}

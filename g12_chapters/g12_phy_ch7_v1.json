@@ -1,0 +1,330 @@
+{
+  "id": "g12_phy_ch7",
+  "grade": "12",
+  "subject": "Physics",
+  "number": "7",
+  "title": "Alternating Current",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_p7_q1",
+      "text": "The peak value of an AC current is 5A. Its RMS value is:",
+      "options": ["5√2 A", "5/√2 A", "10 A", "2.5 A"],
+      "correctIndex": 1,
+      "explanation": "The RMS value (I_rms) is related to the peak value (I_0) by the relation I_rms = I_0 / √2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p7_q2",
+      "text": "In a purely resistive AC circuit, the phase difference between current and voltage is:",
+      "options": ["0", "π/2", "π", "π/4"],
+      "correctIndex": 0,
+      "explanation": "In a resistor, voltage and current are always in phase.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p7_q3",
+      "text": "In a purely inductive circuit, the current ________ the voltage by π/2.",
+      "options": ["Leads", "Lags", "Is in phase with", "Is anti-phase with"],
+      "correctIndex": 1,
+      "explanation": "For a pure inductor, current lags behind the voltage by a phase angle of 90 degrees (π/2).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p7_q4",
+      "text": "The inductive reactance (X_L) of an inductor of inductance L in an AC circuit of frequency f is:",
+      "options": ["2πfL", "1/(2πfL)", "2πf/L", "L/(2πf)"],
+      "correctIndex": 0,
+      "explanation": "X_L = ωL = 2πfL. It is directly proportional to frequency.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p7_q5",
+      "text": "In a purely capacitive circuit, the current ________ the voltage by π/2.",
+      "options": ["Leads", "Lags", "Is in phase with", "None of these"],
+      "correctIndex": 0,
+      "explanation": "For a pure capacitor, current leads the voltage by a phase angle of 90 degrees (π/2).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p7_q6",
+      "text": "The capacitive reactance (X_C) of a capacitor C for a DC source is:",
+      "options": ["Zero", "Infinite", "1/C", "C"],
+      "correctIndex": 1,
+      "explanation": "For DC, frequency f = 0. X_C = 1/(2πfC) = 1/0 = infinite. A capacitor blocks DC.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p7_q7",
+      "text": "The average power dissipated in a pure inductor or pure capacitor over a full cycle is:",
+      "options": ["VI", "1/2 VI", "Zero", "V²/R"],
+      "correctIndex": 2,
+      "explanation": "Since the phase difference is π/2, the power factor cos(π/2) = 0, so average power is zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p7_q8",
+      "text": "The impedance (Z) of a series LCR circuit is given by:",
+      "options": ["R + X_L + X_C", "√(R² + (X_L - X_C)²)", "√(R² + X_L² + X_C²)", "R² + (X_L - X_C)²"],
+      "correctIndex": 1,
+      "explanation": "Impedance is the total opposition; it's the phasor sum of resistance and net reactance.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p7_q9",
+      "text": "At resonance in a series LCR circuit, the impedance is:",
+      "options": ["Maximum", "Minimum", "Zero", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "At resonance, X_L = X_C, so Z = R, which is its minimum possible value.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p7_q10",
+      "text": "The resonant frequency (f_r) of a series LCR circuit is:",
+      "options": ["1/(2π√LC)", "2π√LC", "√(LC)", "1/√LC"],
+      "correctIndex": 0,
+      "explanation": "From ω_r = 1/√LC and f = ω/2π, we get f_r = 1/(2π√LC).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p7_q11",
+      "text": "The power factor of an LCR circuit is defined as:",
+      "options": ["sin φ", "cos φ", "tan φ", "cot φ"],
+      "correctIndex": 1,
+      "explanation": "Power factor is the ratio of real power to apparent power, equal to cos φ = R/Z.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p7_q12",
+      "text": "A wattless current flows in a circuit when the phase difference between V and I is:",
+      "options": ["0", "π/4", "π/2", "π"],
+      "correctIndex": 2,
+      "explanation": "When φ = 90°, cos φ = 0, and no power is consumed despite current flow; this is wattless current.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p7_q13",
+      "text": "Quality factor (Q-factor) of an LCR circuit represents:",
+      "options": ["Sharpness of resonance", "Total power", "Voltage drop", "Frequency range"],
+      "correctIndex": 0,
+      "explanation": "Q = (ω_r L) / R. Higher Q means a sharper resonance curve and better selectivity.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p7_q14",
+      "text": "A transformer works on the principle of:",
+      "options": ["Self induction", "Mutual induction", "Eddy currents", "Hysteresis"],
+      "correctIndex": 1,
+      "explanation": "Transformers transfer electrical energy between circuits through a varying magnetic field (mutual induction).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p7_q15",
+      "text": "In a step-up transformer, the number of turns in the secondary coil (N_s) compared to the primary (N_p) is:",
+      "options": ["N_s < N_p", "N_s > N_p", "N_s = N_p", "N_s = 0"],
+      "correctIndex": 1,
+      "explanation": "A step-up transformer increases voltage, which requires more turns in the secondary coil.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p7_q16",
+      "text": "Energy losses in a transformer include:",
+      "options": ["Copper loss", "Flux leakage", "Eddy current loss", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Energy is lost due to resistance in wires, magnetic leakage, and heating of the core.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p7_q17",
+      "text": "The core of a transformer is laminated to reduce:",
+      "options": ["Hysteresis loss", "Eddy current loss", "Copper loss", "Magnetic flux"],
+      "correctIndex": 1,
+      "explanation": "Lamination breaks the paths of eddy currents, reducing heat dissipation in the core.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p7_q18",
+      "text": "In an AC generator, the induced EMF is maximum when the plane of the coil is ________ to the magnetic field.",
+      "options": ["Parallel", "Perpendicular", "At 45 degrees", "Stationary"],
+      "correctIndex": 0,
+      "explanation": "When parallel, the rate of change of magnetic flux linkage is maximum.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p7_q19",
+      "text": "The ratio of peak voltage to peak current in an AC circuit is called:",
+      "options": ["Resistance", "Reactance", "Impedance", "Admittance"],
+      "correctIndex": 2,
+      "explanation": "Impedance is the effective resistance of an electric circuit or component to alternating current.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p7_q20",
+      "text": "If the frequency of an AC source is doubled, the capacitive reactance becomes:",
+      "options": ["Doubled", "Four times", "Halved", "Unchanged"],
+      "correctIndex": 2,
+      "explanation": "X_C = 1/(2πfC). Since f is in the denominator, doubling f halves X_C.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p7_q21",
+      "text": "The phase relationship between voltage across L and C in a series LCR circuit is:",
+      "options": ["In phase", "π/2", "π", "π/4"],
+      "correctIndex": 2,
+      "explanation": "V_L leads I by 90°, V_C lags I by 90°. Thus, V_L and V_C are 180° (π) out of phase.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p7_q22",
+      "text": "LC oscillations involve the exchange of energy between:",
+      "options": ["Electric and Magnetic fields", "Kinetic and Potential energy", "Heat and Light", "Two resistors"],
+      "correctIndex": 0,
+      "explanation": "Energy oscillates between the electric field of the capacitor and the magnetic field of the inductor.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p7_q23",
+      "text": "If V = V_0 sin(ωt) and I = I_0 sin(ωt - π/2), the circuit element is a:",
+      "options": ["Resistor", "Capacitor", "Inductor", "Battery"],
+      "correctIndex": 2,
+      "explanation": "The current lags voltage by π/2, which is the characteristic of a pure inductor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p7_q24",
+      "text": "For a series resonant circuit, the power factor is:",
+      "options": ["0", "0.5", "1", "0.707"],
+      "correctIndex": 2,
+      "explanation": "At resonance, φ = 0, so cos φ = cos 0 = 1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p7_q25",
+      "text": "The unit of Reactance and Impedance is:",
+      "options": ["Henry", "Farad", "Ohm", "Tesla"],
+      "correctIndex": 2,
+      "explanation": "Since they both represent opposition to current flow, their SI unit is the Ohm (Ω).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p7_q26",
+      "text": "In a series LCR circuit, if X_L > X_C, the circuit is ________ in nature.",
+      "options": ["Resistive", "Inductive", "Capacitive", "DC"],
+      "correctIndex": 1,
+      "explanation": "If inductive reactance dominates, the overall behavior of the circuit is inductive.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p7_q27",
+      "text": "The frequency of AC in India is:",
+      "options": ["50 Hz", "60 Hz", "100 Hz", "220 Hz"],
+      "correctIndex": 0,
+      "explanation": "The standard domestic supply frequency in India is 50 cycles per second.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p7_q28",
+      "text": "The transformation ratio (k) of a transformer is given by:",
+      "options": ["N_s / N_p", "V_s / V_p", "I_p / I_s", "All of these"],
+      "correctIndex": 3,
+      "explanation": "For an ideal transformer, the ratio of turns equals the ratio of voltages and inverse ratio of currents.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p7_q29",
+      "text": "Hard magnetic materials are used for transformer cores to reduce:",
+      "options": ["Hysteresis loss", "Copper loss", "Eddy currents", "None, soft materials are used"],
+      "correctIndex": 3,
+      "explanation": "Soft magnetic materials like soft iron are used to *minimize* hysteresis loss.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p7_q30",
+      "text": "The RMS voltage of domestic supply is 220V. Its peak voltage is approximately:",
+      "options": ["220V", "311V", "440V", "110V"],
+      "correctIndex": 1,
+      "explanation": "V_0 = V_rms * √2 = 220 * 1.414 ≈ 311V.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p7_q31",
+      "text": "In an LCR circuit, the voltage across R, L, and C are 3V, 4V, and 8V. The total voltage is:",
+      "options": ["15V", "7V", "5V", "√13 V"],
+      "correctIndex": 2,
+      "explanation": "V = √(V_R² + (V_L - V_C)²) = √(3² + (4 - 8)²) = √(9 + 16) = 5V.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p7_q32",
+      "text": "Sharpness of resonance increases when:",
+      "options": ["R increases", "R decreases", "L decreases", "C increases"],
+      "correctIndex": 1,
+      "explanation": "Quality factor Q = ωL/R. Decreasing R increases Q, resulting in a sharper peak.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p7_q33",
+      "text": "AC is preferred over DC for long distance transmission because:",
+      "options": ["It's cheaper to produce", "Voltage can be stepped up to reduce line losses", "It's safer", "It doesn't require wires"],
+      "correctIndex": 1,
+      "explanation": "High voltage transmission reduces current, which minimizes I²R heat losses in power lines.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p7_q34",
+      "text": "The power factor of a purely inductive circuit is:",
+      "options": ["0", "1", "0.5", "Infinite"],
+      "correctIndex": 0,
+      "explanation": "φ = 90°, cos 90° = 0.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p7_q35",
+      "text": "The ratio of RMS value to the average value of AC for a half cycle is:",
+      "options": ["π/2", "π/ (2√2)", "1.11", "1.21"],
+      "correctIndex": 2,
+      "explanation": "Form factor = RMS / Average = (I_0/√2) / (2I_0/π) = π / (2√2) ≈ 1.11.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_p7_q36",
+      "text": "A choke coil is used in fluorescent tubes to:",
+      "options": ["Increase current", "Reduce current without wasting energy", "Convert AC to DC", "Heat the gas"],
+      "correctIndex": 1,
+      "explanation": "An inductor (choke) limits current with very low power dissipation compared to a resistor.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p7_q37",
+      "text": "If a capacitor is connected to a DC circuit, after a long time it acts as a/an:",
+      "options": ["Short circuit", "Open circuit", "Resistor", "Inductor"],
+      "correctIndex": 1,
+      "explanation": "Once fully charged, the capacitor blocks further DC flow, acting as an open break in the circuit.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p7_q38",
+      "text": "In an ideal transformer, input power is ________ output power.",
+      "options": ["Greater than", "Less than", "Equal to", "Zero"],
+      "correctIndex": 2,
+      "explanation": "An ideal transformer is assumed to have 100% efficiency with no energy losses.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p7_q39",
+      "text": "If the current in an AC circuit is given by I = sin(100πt), the frequency is:",
+      "options": ["100 Hz", "50 Hz", "25 Hz", "100π Hz"],
+      "correctIndex": 1,
+      "explanation": "ω = 100π. f = ω / 2π = 100π / 2π = 50 Hz.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p7_q40",
+      "text": "The instantaneous power in an AC circuit is given by P = VI. The average power is P_avg = V_rms * I_rms * cos φ. The term 'cos φ' is:",
+      "options": ["Power factor", "Impedance", "Phase angle", "Form factor"],
+      "correctIndex": 0,
+      "explanation": "This is the definition of the power factor.",
+      "frequencyRating": 5
+    }
+  ]
+}

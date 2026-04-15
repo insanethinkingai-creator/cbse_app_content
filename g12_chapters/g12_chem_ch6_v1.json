@@ -1,0 +1,330 @@
+{
+  "id": "g12_chem_ch6",
+  "grade": "12",
+  "subject": "Chemistry",
+  "number": "6",
+  "title": "Haloalkanes and Haloarenes",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_c6_q1",
+      "text": "The replacement of hydrogen atom(s) in a hydrocarbon by halogen atom(s) results in the formation of:",
+      "options": ["Alcohols", "Alkyl halides", "Carboxylic acids", "Amines"],
+      "correctIndex": 1,
+      "explanation": "Alkyl halides (haloalkanes) are formed from aliphatic hydrocarbons.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c6_q2",
+      "text": "Which of the following has the highest boiling point?",
+      "options": ["CH3F", "CH3Cl", "CH3Br", "CH3I"],
+      "correctIndex": 3,
+      "explanation": "Boiling point increases with the increase in size and mass of the halogen atom due to stronger van der Waals forces.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c6_q3",
+      "text": "The SN2 reaction mechanism follows ________ kinetics.",
+      "options": ["First order", "Second order", "Zero order", "Third order"],
+      "correctIndex": 1,
+      "explanation": "The rate depends on the concentration of both the alkyl halide and the nucleophile.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c6_q4",
+      "text": "Which alkyl halide is most reactive towards SN2 reaction?",
+      "options": ["Primary", "Secondary", "Tertiary", "All are equally reactive"],
+      "correctIndex": 0,
+      "explanation": "Primary halides have the least steric hindrance, allowing the nucleophile to attack easily.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c6_q5",
+      "text": "SN1 reactions are favored by:",
+      "options": ["Non-polar solvents", "Polar protic solvents", "Polar aprotic solvents", "High pressure"],
+      "correctIndex": 1,
+      "explanation": "Polar protic solvents like water or alcohol stabilize the carbocation intermediate.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c6_q6",
+      "text": "Racemisation occurs in which type of reaction?",
+      "options": ["SN1", "SN2", "E2", "Wurtz reaction"],
+      "correctIndex": 0,
+      "explanation": "The planar carbocation intermediate in SN1 allows attack from both sides.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c6_q7",
+      "text": "The order of reactivity of alcohols with a given haloacid is:",
+      "options": ["3° > 2° > 1°", "1° > 2° > 3°", "2° > 1° > 3°", "All same"],
+      "correctIndex": 0,
+      "explanation": "Tertiary alcohols form more stable carbocations.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c6_q8",
+      "text": "Finkelstein reaction is used for the preparation of:",
+      "options": ["Alkyl fluorides", "Alkyl chlorides", "Alkyl iodides", "Alkyl bromides"],
+      "correctIndex": 2,
+      "explanation": "It involves the reaction of alkyl chloride/bromide with NaI in dry acetone.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c6_q9",
+      "text": "Swarts reaction is used to prepare:",
+      "options": ["Alkyl fluorides", "Alkyl iodides", "Chloroform", "Iodoform"],
+      "correctIndex": 0,
+      "explanation": "Metallic fluorides like AgF or Hg2F2 are used to exchange halogens.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c6_q10",
+      "text": "Reaction of an alkyl halide with sodium in dry ether to give a higher alkane is:",
+      "options": ["Finkelstein reaction", "Wurtz reaction", "Fitting reaction", "Sandmeyer reaction"],
+      "correctIndex": 1,
+      "explanation": "2RX + 2Na -> R-R + 2NaX.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c6_q11",
+      "text": "The C-X bond in haloarenes is ________ than in haloalkanes.",
+      "options": ["Longer and weaker", "Shorter and stronger", "Equally strong", "Highly ionic"],
+      "correctIndex": 1,
+      "explanation": "Due to resonance and sp2 hybridization of carbon in haloarenes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c6_q12",
+      "text": "Which of the following is a chiral molecule?",
+      "options": ["2-Chlorobutane", "1-Chlorobutane", "2-Chloropropane", "Chloromethane"],
+      "correctIndex": 0,
+      "explanation": "2-Chlorobutane has a carbon atom attached to four different groups.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c6_q13",
+      "text": "The correct order of density for haloalkanes is:",
+      "options": ["RI > RBr > RCl", "RCl > RBr > RI", "RBr > RI > RCl", "All have same density"],
+      "correctIndex": 0,
+      "explanation": "Density increases with the increase in atomic mass of the halogen.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c6_q14",
+      "text": "What is the hybridisation of carbon attached to halogen in vinyl halide?",
+      "options": ["sp", "sp2", "sp3", "dsp2"],
+      "correctIndex": 1,
+      "explanation": "In vinyl halides (CH2=CH-X), the carbon is part of a double bond.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c6_q15",
+      "text": "Chlorination of benzene in presence of FeCl3 gives chlorobenzene. This is an example of:",
+      "options": ["Nucleophilic substitution", "Electrophilic substitution", "Free radical substitution", "Addition reaction"],
+      "correctIndex": 1,
+      "explanation": "The Cl+ electrophile attacks the electron-rich benzene ring.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c6_q16",
+      "text": "Grignard reagent is prepared by the reaction of alkyl halide with ________ in dry ether.",
+      "options": ["Sodium", "Magnesium", "Zinc", "Copper"],
+      "correctIndex": 1,
+      "explanation": "R-X + Mg -> R-Mg-X.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c6_q17",
+      "text": "Ambident nucleophiles like KCN and AgCN give different products with alkyl halides because:",
+      "options": ["KCN is ionic, AgCN is covalent", "KCN is covalent, AgCN is ionic", "Both are ionic", "Both are covalent"],
+      "correctIndex": 0,
+      "explanation": "KCN gives nitriles (RCN) while AgCN gives isonitriles (RNC).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c6_q18",
+      "text": "Which of the following is an example of a gem-dihalide?",
+      "options": ["CH3CHCl2", "CH2ClCH2Cl", "CH3CH2Cl", "CH2Cl2"],
+      "correctIndex": 0,
+      "explanation": "Gem-dihalides have two halogen atoms on the same carbon atom.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c6_q19",
+      "text": "The reaction of chlorobenzene with sodium in presence of dry ether to give diphenyl is:",
+      "options": ["Wurtz reaction", "Fitting reaction", "Wurtz-Fitting reaction", "Frankland reaction"],
+      "correctIndex": 1,
+      "explanation": "Fitting reaction involves two aryl groups coupling.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c6_q20",
+      "text": "DDT is an effective:",
+      "options": ["Fertilizer", "Insecticide", "Medicine", "Explosive"],
+      "correctIndex": 1,
+      "explanation": "DDT (p,p'-Dichlorodiphenyltrichloroethane) was widely used to kill mosquitoes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c6_q21",
+      "text": "Allylic halides are those in which halogen is attached to an sp3 carbon next to a:",
+      "options": ["Triple bond", "Double bond", "Benzene ring", "Lone pair"],
+      "correctIndex": 1,
+      "explanation": "Example: CH2=CH-CH2Cl.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c6_q22",
+      "text": "Which compound shows optical isomerism?",
+      "options": ["n-Butyl chloride", "sec-Butyl chloride", "tert-Butyl chloride", "Isobutyl chloride"],
+      "correctIndex": 1,
+      "explanation": "sec-Butyl chloride (2-chlorobutane) has a chiral center.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c6_q23",
+      "text": "The product of reaction between ethyl bromide and alcoholic KOH is:",
+      "options": ["Ethanol", "Ethane", "Ethene", "Ethyl ethanoate"],
+      "correctIndex": 2,
+      "explanation": "Alcoholic KOH causes dehydrohalogenation (elimination).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c6_q24",
+      "text": "Haloalkanes are insoluble in water because:",
+      "options": ["They are non-polar", "They cannot form hydrogen bonds with water", "They are lighter than water", "They react with water"],
+      "correctIndex": 1,
+      "explanation": "The energy released during new interactions is not enough to break existing H-bonds in water.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c6_q25",
+      "text": "Phosgene is formed when ________ is exposed to air and light.",
+      "options": ["Chloroform", "Iodoform", "Carbon tetrachloride", "Ethyl chloride"],
+      "correctIndex": 0,
+      "explanation": "Chloroform (CHCl3) oxidizes to toxic COCl2 (carbonyl chloride).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c6_q26",
+      "text": "The correct order of reactivity of alkyl halides towards SN1 is:",
+      "options": ["3° > 2° > 1°", "1° > 2° > 3°", "2° > 1° > 3°", "All same"],
+      "correctIndex": 0,
+      "explanation": "SN1 reactivity depends on the stability of the carbocation (3° is most stable).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c6_q27",
+      "text": "Lucas reagent is a mixture of:",
+      "options": ["Conc. HCl + anhydrous ZnCl2", "Conc. H2SO4 + anhydrous ZnCl2", "Conc. HNO3 + Fe", "NaCl + H2O"],
+      "correctIndex": 0,
+      "explanation": "Used to distinguish between 1°, 2°, and 3° alcohols.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c6_q28",
+      "text": "Which of the following is most reactive towards nucleophilic substitution?",
+      "options": ["Chlorobenzene", "p-Nitrochlorobenzene", "2,4-Dinitrochlorobenzene", "2,4,6-Trinitrochlorobenzene"],
+      "correctIndex": 3,
+      "explanation": "Electron withdrawing groups (-NO2) at ortho and para positions increase reactivity of haloarenes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c6_q29",
+      "text": "Saytzeff rule helps in predicting the major product in:",
+      "options": ["Substitution reactions", "Elimination reactions", "Addition reactions", "Rearrangement"],
+      "correctIndex": 1,
+      "explanation": "It states that the more highly substituted alkene is the preferred product.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c6_q30",
+      "text": "Carbon tetrachloride is used as a:",
+      "options": ["Fire extinguisher", "Refrigerant", "Solvent", "All of these"],
+      "correctIndex": 3,
+      "explanation": "It is sold under the name Pyrene for fire extinguishing.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c6_q31",
+      "text": "The catalyst used in the Sandmeyer reaction is:",
+      "options": ["Copper powder", "Cuprous halide", "FeCl3", "AlCl3"],
+      "correctIndex": 1,
+      "explanation": "Sandmeyer reaction uses Cu2Cl2 or Cu2Br2 to introduce halogens into the benzene ring.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c6_q32",
+      "text": "Which of the following is Freon-12?",
+      "options": ["CF4", "CF2Cl2", "CHCl3", "CH2F2"],
+      "correctIndex": 1,
+      "explanation": "Dichlorodifluoromethane is a common refrigerant.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c6_q33",
+      "text": "Iodoform test is given by:",
+      "options": ["Methanol", "Ethanol", "Benzophenone", "n-Propyl alcohol"],
+      "correctIndex": 1,
+      "explanation": "Ethanol can be oxidized to acetaldehyde which contains the CH3CO- group.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c6_q34",
+      "text": "AgNO3 gives a yellow precipitate with which of the following?",
+      "options": ["CH3Cl", "CH3Br", "CH3I", "Benzene"],
+      "correctIndex": 2,
+      "explanation": "Silver iodide (AgI) is a yellow precipitate.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c6_q35",
+      "text": "The reaction of an alkyl halide with ammonia gives:",
+      "options": ["Amides", "Amines", "Nitroalkanes", "Nitriles"],
+      "correctIndex": 1,
+      "explanation": "This is Hoffmann's ammonolysis of alkyl halides.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c6_q36",
+      "text": "Which statement about SN2 is FALSE?",
+      "options": ["Inversion of configuration occurs", "It's a single step process", "Carbocation is formed", "Nucleophile attacks from the back"],
+      "correctIndex": 2,
+      "explanation": "Carbocation is formed in SN1, not SN2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c6_q37",
+      "text": "What is the order of reactivity of halogens in free radical halogenation of alkanes?",
+      "options": ["F2 > Cl2 > Br2 > I2", "I2 > Br2 > Cl2 > F2", "Cl2 > F2 > Br2 > I2", "All same"],
+      "correctIndex": 0,
+      "explanation": "Fluorination is explosive while iodination is very slow and reversible.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_c6_q38",
+      "text": "Reaction of bromoethane with aqueous KOH gives:",
+      "options": ["Ethane", "Ethene", "Ethanol", "Ethyl acetate"],
+      "correctIndex": 2,
+      "explanation": "Aqueous KOH favors nucleophilic substitution over elimination.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_c6_q39",
+      "text": "Vicinal dihalides have two halogen atoms on:",
+      "options": ["Same carbon", "Adjacent carbons", "Terminal carbons", "Alternative carbons"],
+      "correctIndex": 1,
+      "explanation": "Example: 1,2-dichloroethane.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_c6_q40",
+      "text": "Which of the following does not have a dipole moment?",
+      "options": ["CH3Cl", "CH2Cl2", "CHCl3", "CCl4"],
+      "correctIndex": 3,
+      "explanation": "CCl4 is perfectly symmetrical (tetrahedral), so individual C-Cl bond moments cancel out.",
+      "frequencyRating": 5
+    }
+  ]
+}

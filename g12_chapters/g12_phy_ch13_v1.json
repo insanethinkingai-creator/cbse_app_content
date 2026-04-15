@@ -1,0 +1,330 @@
+{
+  "id": "g12_phy_ch13",
+  "grade": "12",
+  "subject": "Physics",
+  "number": "13",
+  "title": "Nuclei",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_p13_q1",
+      "text": "The nucleus of an atom consists of:",
+      "options": ["Electrons and protons", "Electrons and neutrons", "Protons and neutrons", "Electrons only"],
+      "correctIndex": 2,
+      "explanation": "Protons and neutrons (collectively called nucleons) reside in the nucleus.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p13_q2",
+      "text": "The radius R of a nucleus with mass number A is given by:",
+      "options": ["R = R₀A", "R = R₀A²", "R = R₀A^(1/3)", "R = R₀/A"],
+      "correctIndex": 2,
+      "explanation": "The radius is proportional to the cube root of the mass number.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p13_q3",
+      "text": "The density of nuclear matter is:",
+      "options": ["Variable with A", "Roughly constant for all nuclei", "Higher for light nuclei", "Zero"],
+      "correctIndex": 1,
+      "explanation": "Volume ∝ A and Mass ∝ A, so Density = Mass/Volume is constant (approx 2.3 x 10¹⁷ kg/m³).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p13_q4",
+      "text": "Atoms having same atomic number but different mass numbers are called:",
+      "options": ["Isobars", "Isotopes", "Isotones", "Isomers"],
+      "correctIndex": 1,
+      "explanation": "Isotopes have same Z (number of protons) but different N (number of neutrons).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p13_q5",
+      "text": "Mass number of a nucleus is the total number of:",
+      "options": ["Protons", "Neutrons", "Nucleons", "Electrons"],
+      "correctIndex": 2,
+      "explanation": "A = Z + N.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p13_q6",
+      "text": "1 atomic mass unit (amu) is equivalent to energy of approximately:",
+      "options": ["931.5 MeV", "931.5 keV", "1.6 x 10⁻¹⁹ J", "1 MeV"],
+      "correctIndex": 0,
+      "explanation": "Using E=mc², 1 amu ≈ 931.5 MeV.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p13_q7",
+      "text": "The difference between the rest mass of a nucleus and the sum of masses of its nucleons is:",
+      "options": ["Binding energy", "Mass defect", "Nuclear energy", "Mass number"],
+      "correctIndex": 1,
+      "explanation": "Mass defect Δm = [Z mp + (A-Z) mn] - M_nucleus.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p13_q8",
+      "text": "Which of the following determines the stability of a nucleus?",
+      "options": ["Mass defect", "Total binding energy", "Binding energy per nucleon", "Atomic number"],
+      "correctIndex": 2,
+      "explanation": "Nuclei with higher BE/A are more stable.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p13_q9",
+      "text": "The nuclear force is:",
+      "options": ["Short range and repulsive", "Long range and attractive", "Short range and attractive", "Charge dependent"],
+      "correctIndex": 2,
+      "explanation": "Nuclear force is a strong, short-range (few fm) attractive force that binds nucleons.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p13_q10",
+      "text": "In a stable nucleus, the number of neutrons compared to protons:",
+      "options": ["Is always equal", "Is more for heavy nuclei", "Is less for heavy nuclei", "Always zero"],
+      "correctIndex": 1,
+      "explanation": "Heavier nuclei need more neutrons to provide attractive nuclear force to overcome proton-proton repulsion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p13_q11",
+      "text": "Radioactivity is a process that is:",
+      "options": ["Chemical", "Nuclear", "Atomic", "Physical"],
+      "correctIndex": 1,
+      "explanation": "Radioactivity involves the spontaneous decay of unstable nuclei.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p13_q12",
+      "text": "The SI unit of radioactivity is:",
+      "options": ["Curie", "Becquerel", "Rutherford", "Roentgen"],
+      "correctIndex": 1,
+      "explanation": "1 Becquerel (Bq) = 1 decay per second.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p13_q13",
+      "text": "The half-life (T₁/₂) and decay constant (λ) are related as:",
+      "options": ["λ = 0.693 * T₁/₂", "T₁/₂ = 0.693 / λ", "λ = 1 / T₁/₂", "T₁/₂ = λ / 0.693"],
+      "correctIndex": 1,
+      "explanation": "T₁/₂ = ln(2)/λ ≈ 0.693/λ.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p13_q14",
+      "text": "In alpha decay, the mass number A and atomic number Z change as:",
+      "options": ["A-4, Z-2", "A-2, Z-4", "A-4, Z-1", "A-0, Z-1"],
+      "correctIndex": 0,
+      "explanation": "An alpha particle is a Helium nucleus (⁴He₂).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p13_q15",
+      "text": "In beta-minus decay, what is emitted along with an electron?",
+      "options": ["Neutrino", "Antineutrino", "Positron", "Alpha particle"],
+      "correctIndex": 1,
+      "explanation": "An antineutrino is emitted to conserve lepton number and energy.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p13_q16",
+      "text": "Gamma rays are emitted when:",
+      "options": ["Nucleus jumps from excited state to ground state", "Neutron converts to proton", "Proton converts to neutron", "Nucleus captures electron"],
+      "correctIndex": 0,
+      "explanation": "Similar to atoms, nuclei have energy levels; gamma photons are emitted during de-excitation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p13_q17",
+      "text": "Nuclear fission is the process where:",
+      "options": ["Light nuclei combine", "Heavy nucleus splits", "Nucleus emits alpha", "Electrons are shared"],
+      "correctIndex": 1,
+      "explanation": "A heavy nucleus (like U-235) splits into smaller fragments, releasing energy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p13_q18",
+      "text": "The source of energy in stars is:",
+      "options": ["Nuclear fission", "Nuclear fusion", "Chemical burning", "Gravitational contraction"],
+      "correctIndex": 1,
+      "explanation": "Stars fuse Hydrogen into Helium at extremely high temperatures.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p13_q19",
+      "text": "Controlled nuclear fission is used in:",
+      "options": ["Atom bomb", "Nuclear reactor", "Hydrogen bomb", "Sun"],
+      "correctIndex": 1,
+      "explanation": "Nuclear reactors use control rods to maintain a steady chain reaction.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p13_q20",
+      "text": "Moderator in a nuclear reactor is used to:",
+      "options": ["Stop neutrons", "Accelerate neutrons", "Slow down neutrons", "Absorb heat"],
+      "correctIndex": 2,
+      "explanation": "Slow (thermal) neutrons are more effective at causing fission in U-235.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p13_q21",
+      "text": "Heavy water (D₂O) is commonly used as a:",
+      "options": ["Coolant", "Moderator", "Fuel", "Control rod"],
+      "correctIndex": 1,
+      "explanation": "Heavy water slows down neutrons without capturing them.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p13_q22",
+      "text": "Binding energy per nucleon is maximum for:",
+      "options": ["Hydrogen", "Uranium", "Iron (Fe-56)", "Helium"],
+      "correctIndex": 2,
+      "explanation": "Iron-56 has BE/A ≈ 8.8 MeV, making it the most stable nucleus.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p13_q23",
+      "text": "Nuclear fusion requires extremely high temperatures to:",
+      "options": ["Overcome Coulomb repulsion", "Break nuclear bonds", "Increase nuclear force", "Evaporate nucleons"],
+      "correctIndex": 0,
+      "explanation": "Positive nuclei must come close enough for nuclear force to act, which requires overcoming strong repulsion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p13_q24",
+      "text": "If a sample has 1000 atoms, how many remain after two half-lives?",
+      "options": ["500", "250", "125", "0"],
+      "correctIndex": 1,
+      "explanation": "1000 → 500 (1st half-life) → 250 (2nd half-life).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p13_q25",
+      "text": "Which radiation has the highest ionizing power?",
+      "options": ["Alpha", "Beta", "Gamma", "X-rays"],
+      "correctIndex": 0,
+      "explanation": "Alpha particles are heavy and have +2 charge, interacting strongly with matter.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p13_q26",
+      "text": "Which radiation has the highest penetrating power?",
+      "options": ["Alpha", "Beta", "Gamma", "Protons"],
+      "correctIndex": 2,
+      "explanation": "Gamma rays are neutral and high energy, allowing them to pass through thick materials.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p13_q27",
+      "text": "The average life (τ) of a radioactive substance is:",
+      "options": ["1 / λ", "0.693 / λ", "λ", "T₁/₂"],
+      "correctIndex": 0,
+      "explanation": "Average life τ = 1/λ ≈ 1.44 T₁/₂.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p13_q28",
+      "text": "Nuclear forces are NOT:",
+      "options": ["Short range", "Strongest in nature", "Central forces", "Spin dependent"],
+      "correctIndex": 2,
+      "explanation": "Nuclear forces are non-central forces.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p13_q29",
+      "text": "Fusion of four protons into one Helium nucleus releases energy because:",
+      "options": ["He mass < sum of 4 H masses", "He mass > sum of 4 H masses", "Protons are light", "Kinetic energy increases"],
+      "correctIndex": 0,
+      "explanation": "The mass difference (mass defect) is converted to energy via E=Δmc².",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p13_q30",
+      "text": "Isotones are nuclei with same number of:",
+      "options": ["Protons", "Neutrons", "Nucleons", "Electrons"],
+      "correctIndex": 1,
+      "explanation": "Isotones have same (A - Z).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p13_q31",
+      "text": "Mass of a neutron is approximately:",
+      "options": ["Equal to proton", "1836 times electron", "Slightly more than proton", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "Neutron (1.00866 u) is slightly heavier than proton (1.00727 u). Both are ~1840x electron.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p13_q32",
+      "text": "The fraction of radioactive atoms remaining after time 't' is:",
+      "options": ["e^(-λt)", "1 - e^(-λt)", "λt", "log(λt)"],
+      "correctIndex": 0,
+      "explanation": "From N = N₀ e^(-λt), the fraction N/N₀ = e^(-λt).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p13_q33",
+      "text": "Cadmium rods in a nuclear reactor act as:",
+      "options": ["Fuel", "Moderator", "Control rods", "Coolant"],
+      "correctIndex": 2,
+      "explanation": "Cadmium is a good neutron absorber, used to control the fission rate.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p13_q34",
+      "text": "In beta-plus decay, a proton converts into:",
+      "options": ["Neutron + Positron + Neutrino", "Neutron + Electron + Antineutrino", "Alpha particle", "Gamma ray"],
+      "correctIndex": 0,
+      "explanation": "p → n + e⁺ + ν.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p13_q35",
+      "text": "Nuclear force saturation means:",
+      "options": ["It acts on all nucleons", "A nucleon interacts only with its immediate neighbors", "It is infinite", "It is zero at large distances"],
+      "correctIndex": 1,
+      "explanation": "This explains why BE/A is constant for most nuclei.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p13_q36",
+      "text": "The curve of BE/A vs A drops at very large A due to:",
+      "options": ["Strong nuclear force", "Coulombic repulsion", "Lack of neutrons", "Saturation"],
+      "correctIndex": 1,
+      "explanation": "In large nuclei, proton repulsion starts to overcome the short-range nuclear attraction.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p13_q37",
+      "text": "Mass energy equivalence E = mc² was proposed by:",
+      "options": ["Newton", "Einstein", "Bohr", "Faraday"],
+      "correctIndex": 1,
+      "explanation": "This is the most famous equation from Einstein's Special Relativity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p13_q38",
+      "text": "Atomic mass is measured using:",
+      "options": ["Spectrometer", "Mass Spectrograph", "Microscope", "Voltmeter"],
+      "correctIndex": 1,
+      "explanation": "Mass spectrographs use magnetic and electric fields to separate ions by mass.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_p13_q39",
+      "text": "In the reaction: n + ²³⁵U → ¹⁴⁴Ba + ⁸⁹Kr + 3n, how many neutrons are produced per fission?",
+      "options": ["1", "2", "3", "0"],
+      "correctIndex": 2,
+      "explanation": "Typically 2-3 neutrons are released, enabling a chain reaction.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p13_q40",
+      "text": "Which nucleus is the most difficult to break apart?",
+      "options": ["U-238", "Fe-56", "H-1", "He-4"],
+      "correctIndex": 1,
+      "explanation": "Highest BE/A means it is most tightly bound and stable.",
+      "frequencyRating": 4
+    }
+  ]
+}

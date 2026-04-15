@@ -1,0 +1,330 @@
+{
+  "id": "g12_eng_ch4",
+  "grade": "12",
+  "subject": "English",
+  "number": "4",
+  "title": "The Rattrap",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_e4_q1",
+      "text": "Who is the author of the story 'The Rattrap'?",
+      "options": ["Alphonse Daudet", "Selma Lagerlöf", "Anees Jung", "Louis Fischer"],
+      "correctIndex": 1,
+      "explanation": "Selma Lagerlöf is the Swedish author who wrote 'The Rattrap'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e4_q2",
+      "text": "What is the central metaphor used by the protagonist in the story?",
+      "options": ["The world is a stage", "The world is a giant rattrap", "Life is a journey", "The world is a garden"],
+      "correctIndex": 1,
+      "explanation": "The peddler thinks that the whole world is a big rattrap that offers baits to people.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e4_q3",
+      "text": "What did the peddler sell to make a living?",
+      "options": ["Clothes", "Small wire rattraps", "Wooden toys", "Newspapers"],
+      "correctIndex": 1,
+      "explanation": "He made and sold small wire rattraps from material he begged for.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e4_q4",
+      "text": "Why did the peddler have to resort to both begging and petty thievery?",
+      "options": ["He was greedy", "His business was not profitable enough", "He wanted to be rich", "He was lazy"],
+      "correctIndex": 1,
+      "explanation": "Selling rattraps was not enough to keep body and soul together, so he had to beg and steal.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e4_q5",
+      "text": "How did the old crofter treat the peddler when he asked for shelter?",
+      "options": ["He was rude", "He chased him away", "He was hospitable and friendly", "He called the police"],
+      "correctIndex": 2,
+      "explanation": "The crofter was lonely and happy to have someone to talk to, so he welcomed the peddler warmly.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e4_q6",
+      "text": "What did the crofter show the peddler to prove his earning?",
+      "options": ["A bag of gold", "Three wrinkled ten-kronor bills", "His bank book", "A silver watch"],
+      "correctIndex": 1,
+      "explanation": "He showed the peddler thirty kronor he had earned by selling milk to the creamery.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e4_q7",
+      "text": "What did the peddler do after leaving the crofter's house the next morning?",
+      "options": ["He went to the city", "He returned and stole the thirty kronor", "He looked for a job", "He threw away his rattraps"],
+      "correctIndex": 1,
+      "explanation": "He returned, smashed the window pane, and stole the money from the leather pouch.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e4_q8",
+      "text": "Why did the peddler decide to walk through the forest instead of the public highway?",
+      "options": ["He liked nature", "He wanted to save time", "He was afraid of being caught with the stolen money", "He lost his way"],
+      "correctIndex": 2,
+      "explanation": "He didn't dare continue on the public highway because of the money he had stolen.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e4_q9",
+      "text": "What happened to the peddler in the forest?",
+      "options": ["He found more money", "He got lost and felt he was in a rattrap himself", "He met a friend", "He was attacked by wild animals"],
+      "correctIndex": 1,
+      "explanation": "The paths twisted back and forth; he realized he was walking in circles and felt trapped by his own 'bait'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e4_q10",
+      "text": "Where did the peddler find shelter while he was in the forest?",
+      "options": ["A cave", "The Ramsjö Ironworks", "A church", "A farmhouse"],
+      "correctIndex": 1,
+      "explanation": "He heard the thumping of hammers and followed the sound to the Ramsjö Ironworks.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e4_q11",
+      "text": "Who did the ironmaster mistake the peddler for?",
+      "options": ["A thief", "An old regimental comrade, Nils Olof", "A distant relative", "A wandering monk"],
+      "correctIndex": 1,
+      "explanation": "The ironmaster mistook him for Captain von Stahle, a former comrade from the regiment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e4_q12",
+      "text": "Why did the peddler decline the ironmaster's invitation to his manor?",
+      "options": ["He was shy", "He was afraid of the police", "He didn't like the ironmaster", "He was too tired"],
+      "correctIndex": 1,
+      "explanation": "Going to the manor with stolen money would be like throwing himself into the lion's den.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e4_q13",
+      "text": "Who finally persuaded the peddler to come to the manor house?",
+      "options": ["The ironmaster", "The blacksmith", "Edla Willmansson", "The crofter"],
+      "correctIndex": 2,
+      "explanation": "Edla, the ironmaster's daughter, came to the mill and showed great compassion and kindness.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e4_q14",
+      "text": "What was the name of the ironmaster's daughter?",
+      "options": ["Sophie", "Edla Willmansson", "Jansie", "Selma"],
+      "correctIndex": 1,
+      "explanation": "Edla Willmansson is the daughter who brings about a change in the peddler.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e4_q15",
+      "text": "What did Edla notice about the peddler when she first met him?",
+      "options": ["He looked rich", "He looked either afraid or like a thief", "He looked very intelligent", "He was very rude"],
+      "correctIndex": 1,
+      "explanation": "She thought he looked as if he had stolen something or escaped from jail.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e4_q16",
+      "text": "When did the ironmaster realize his mistake about the peddler's identity?",
+      "options": ["In the forge", "At the dinner table", "In broad daylight after the peddler was groomed", "When he heard him speak"],
+      "correctIndex": 2,
+      "explanation": "The next morning, after a bath and a shave, the ironmaster saw him clearly and realized he was not Nils Olof.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e4_q17",
+      "text": "What did the ironmaster want to do after realizing the peddler was not his friend?",
+      "options": ["Forgive him", "Call the sheriff", "Give him more money", "Offer him a job"],
+      "correctIndex": 1,
+      "explanation": "He was angry and wanted to hand the peddler over to the police.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e4_q18",
+      "text": "How did Edla react when her father wanted to kick the peddler out?",
+      "options": ["She agreed", "She kept quiet", "She insisted they should let him stay for Christmas Eve", "She called the police herself"],
+      "correctIndex": 2,
+      "explanation": "She argued that they had invited him and promised him a day of peace.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e4_q19",
+      "text": "What Christmas gift did the ironmaster give the peddler?",
+      "options": ["A new watch", "A suit of clothes", "The 30 kronor", "A golden ring"],
+      "correctIndex": 1,
+      "explanation": "The suit he was wearing was a gift, and he was told he could keep it.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e4_q20",
+      "text": "What did the ironmaster and Edla learn at the church on Christmas morning?",
+      "options": ["That the peddler was a king", "That a crofter had been robbed by a man selling rattraps", "That the mill was on fire", "That the war was over"],
+      "correctIndex": 1,
+      "explanation": "They heard that an old crofter had been robbed of his thirty kronor by a peddler.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e4_q21",
+      "text": "What did Edla find when she returned from church and opened the peddler's gift?",
+      "options": ["A letter and a rattrap", "The thirty kronor bills", "A small rattrap with the 30 kronor and a note", "Nothing, the box was empty"],
+      "correctIndex": 2,
+      "explanation": "The peddler left a small rattrap, the stolen money, and a beautiful letter.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e4_q22",
+      "text": "How did the peddler sign the letter he left for Edla?",
+      "options": ["The Rattrap Peddler", "Captain von Stahle", "A grateful guest", "Nils Olof"],
+      "correctIndex": 1,
+      "explanation": "He signed as Captain von Stahle because Edla had treated him like a real captain, helping him change.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e4_q23",
+      "text": "The peddler's change of heart is an example of:",
+      "options": ["Survival of the fittest", "The power of kindness and compassion", "The inevitability of fate", "The corruption of wealth"],
+      "correctIndex": 1,
+      "explanation": "Edla's unconditional kindness and trust transformed the thief back into a gentleman.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e4_q24",
+      "text": "What does the rattrap symbolize in the story?",
+      "options": ["The iron industry", "Human greed and the traps of material lures", "The Christmas spirit", "Swedish folklore"],
+      "correctIndex": 1,
+      "explanation": "It symbolizes how the world lures humans with riches and joys, only to trap them.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e4_q25",
+      "text": "What was the name of the iron mill in the story?",
+      "options": ["Swedish Steels", "Ramsjö Ironworks", "Lagerlöf Mill", "Stockholm Forge"],
+      "correctIndex": 1,
+      "explanation": "The setting for the latter half of the story is the Ramsjö Ironworks.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e4_q26",
+      "text": "Why was the crofter so talkative and generous with his confidence?",
+      "options": ["He was a spy", "He was lonely and had no wife or child", "He was drunk", "He knew the peddler"],
+      "correctIndex": 1,
+      "explanation": "Living alone in his cottage, he craved company and shared his secrets easily.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e4_q27",
+      "text": "The ironmaster's hospitality was based on:",
+      "options": ["Genuine kindness", "A case of mistaken identity", "Fear", "Business interest"],
+      "correctIndex": 1,
+      "explanation": "He only invited the peddler because he thought he was an old friend.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e4_q28",
+      "text": "How much money did the peddler steal from the crofter?",
+      "options": ["10 Kronor", "20 Kronor", "30 Kronor", "50 Kronor"],
+      "correctIndex": 2,
+      "explanation": "He stole three 10-kronor notes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e4_q29",
+      "text": "The Rattrap is set amidst the mines of which country?",
+      "options": ["Norway", "Sweden", "Finland", "Germany"],
+      "correctIndex": 1,
+      "explanation": "The story is set in the iron ore rich areas of Sweden.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e4_q30",
+      "text": "What did the peddler compare the 'baits' of the world to?",
+      "options": ["Flowers", "Cheese and pork in a rattrap", "Fruits on a tree", "Fish in a pond"],
+      "correctIndex": 1,
+      "explanation": "He compared riches and joys to cheese and pork used to lure rats.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e4_q31",
+      "text": "What was Edla's reaction when her father decided to call the sheriff?",
+      "options": ["She helped her father", "She stood by the peddler", "She ran away", "She fainted"],
+      "correctIndex": 1,
+      "explanation": "She interceded on his behalf, showing empathy for his miserable life.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e4_q32",
+      "text": "What did the peddler do for most of his time at the manor house?",
+      "options": ["He stole things", "He slept soundly", "He talked to Edla", "He helped in the kitchen"],
+      "correctIndex": 1,
+      "explanation": "Having not felt safe for years, he spent most of the time sleeping.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e4_q33",
+      "text": "The letter to Edla showed that the peddler had:",
+      "options": ["Become more cunning", "Been truly reformed by her goodness", "Decided to rob her later", "Learned to write better"],
+      "correctIndex": 1,
+      "explanation": "The letter proves his internal transformation and desire to be worthy of her kindness.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e4_q34",
+      "text": "What is the tone of the story?",
+      "options": ["Tragic", "Fairy-tale like and optimistic", "Sarcastic", "Boring"],
+      "correctIndex": 1,
+      "explanation": "It has the elements of a moral fable or fairy tale with a redemptive ending.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e4_q35",
+      "text": "In the beginning, how did the peddler feel about the world?",
+      "options": ["He loved it", "He was indifferent", "He felt the world was unkind to him", "He was very curious"],
+      "correctIndex": 2,
+      "explanation": "The world had never been kind to him, so he enjoyed thinking ill of it.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e4_q36",
+      "text": "What game did the crofter and the peddler play?",
+      "options": ["Chess", "Mjölis", "Cards", "Ludo"],
+      "correctIndex": 1,
+      "explanation": "They played a Swedish card game called Mjölis until bedtime.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e4_q37",
+      "text": "What does the story 'The Rattrap' primarily explore?",
+      "options": ["Industrial revolution", "Basic human goodness that can be awakened through love", "The history of Sweden", "The dangers of forests"],
+      "correctIndex": 1,
+      "explanation": "The theme is that kindness can transform even a hardened person.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e4_q38",
+      "text": "How did the ironmaster try to help his 'friend' initially?",
+      "options": ["By giving him money", "By inviting him home for Christmas", "By giving him a job at the mill", "By buying him a ticket"],
+      "correctIndex": 1,
+      "explanation": "He insisted the peddler come home to celebrate Christmas with him and his daughter.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e4_q39",
+      "text": "What did the peddler request in his letter to Edla regarding the stolen money?",
+      "options": ["To keep it", "To give it back to the old crofter", "To donate it to charity", "To buy more rattraps"],
+      "correctIndex": 1,
+      "explanation": "He asked her to return the money to the old man on the roadside.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e4_q40",
+      "text": "What was the peddler's state of mind when he 'signed' himself as Captain von Stahle?",
+      "options": ["He was mocking the captain", "He was still pretending", "He wanted to live up to the dignity Edla gave him", "He had forgotten his name"],
+      "correctIndex": 2,
+      "explanation": "By signing this way, he acknowledged that her treatment of him as a captain helped him act like one.",
+      "frequencyRating": 4
+    }
+  ]
+}

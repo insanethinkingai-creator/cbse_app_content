@@ -1,0 +1,330 @@
+{
+  "id": "g12_phy_ch11",
+  "grade": "12",
+  "subject": "Physics",
+  "number": "11",
+  "title": "Dual Nature of Radiation and Matter",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_p11_q1",
+      "text": "The minimum energy required by an electron to escape from a metal surface is called:",
+      "options": ["Kinetic energy", "Potential energy", "Work function", "Binding energy"],
+      "correctIndex": 2,
+      "explanation": "Work function is the minimum energy needed to liberate an electron from the metal surface.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p11_q2",
+      "text": "The phenomenon of emission of electrons from a metal surface when light of suitable frequency falls on it is:",
+      "options": ["Thermionic emission", "Field emission", "Photoelectric effect", "Secondary emission"],
+      "correctIndex": 2,
+      "explanation": "This is the definition of the photoelectric effect, first explained by Einstein.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p11_q3",
+      "text": "Which of the following does NOT affect the maximum kinetic energy of photoelectrons?",
+      "options": ["Frequency of light", "Nature of material", "Intensity of light", "Wavelength of light"],
+      "correctIndex": 2,
+      "explanation": "Max K.E. depends on frequency, not intensity. Intensity determines the number of photoelectrons (current).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p11_q4",
+      "text": "According to Einstein's photoelectric equation, Kmax is equal to:",
+      "options": ["hν + Φ", "hν - Φ", "Φ - hν", "hν / Φ"],
+      "correctIndex": 1,
+      "explanation": "Einstein's equation is hν = Φ + Kmax, hence Kmax = hν - Φ.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p11_q5",
+      "text": "The threshold frequency is the frequency below which:",
+      "options": ["Photoelectric emission is maximum", "Photoelectric emission is zero", "K.E. is maximum", "Current is constant"],
+      "correctIndex": 1,
+      "explanation": "If the incident frequency is less than the threshold frequency, no electrons are emitted regardless of intensity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p11_q6",
+      "text": "The stopping potential is a measure of:",
+      "options": ["Average K.E.", "Minimum K.E.", "Maximum K.E.", "Total energy"],
+      "correctIndex": 2,
+      "explanation": "eV₀ = Kmax. Stopping potential directly measures the maximum kinetic energy of photoelectrons.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p11_q7",
+      "text": "In photoelectric effect, the photocurrent is directly proportional to:",
+      "options": ["Frequency", "Intensity", "Stopping potential", "Work function"],
+      "correctIndex": 1,
+      "explanation": "Intensity represents the number of photons per unit area; more photons result in more emitted electrons.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p11_q8",
+      "text": "What happens to the stopping potential if the intensity of incident light is doubled?",
+      "options": ["Doubles", "Halves", "Remains unchanged", "Becomes four times"],
+      "correctIndex": 2,
+      "explanation": "Stopping potential depends on the frequency of light, not its intensity.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p11_q9",
+      "text": "The de Broglie wavelength λ of a particle of mass m and velocity v is:",
+      "options": ["h / mv", "mv / h", "hmv", "h / m²v"],
+      "correctIndex": 0,
+      "explanation": "λ = h/p = h/mv. This represents the wave nature of matter.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p11_q10",
+      "text": "The momentum of a photon of frequency ν is:",
+      "options": ["hν/c", "hνc", "h/ν", "hν/c²"],
+      "correctIndex": 0,
+      "explanation": "p = E/c = hν/c.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p11_q11",
+      "text": "Which experiment confirmed the wave nature of electrons?",
+      "options": ["Millikan's oil drop", "Davisson-Germer", "Rutherford's scattering", "Photoelectric effect"],
+      "correctIndex": 1,
+      "explanation": "The Davisson-Germer experiment observed electron diffraction, proving matter waves exist.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p11_q12",
+      "text": "The rest mass of a photon is:",
+      "options": ["hν/c²", "Zero", "Infinity", "Depends on frequency"],
+      "correctIndex": 1,
+      "explanation": "Photons travel at the speed of light and have zero rest mass.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p11_q13",
+      "text": "If a proton and an electron have the same K.E., which has a shorter de Broglie wavelength?",
+      "options": ["Proton", "Electron", "Both same", "Insufficient data"],
+      "correctIndex": 0,
+      "explanation": "λ = h / √(2mK). Since mass of proton > mass of electron, λ of proton is shorter.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p11_q14",
+      "text": "The slope of the graph between stopping potential (V₀) and frequency (ν) is:",
+      "options": ["h", "h/e", "e/h", "Work function"],
+      "correctIndex": 1,
+      "explanation": "V₀ = (h/e)ν - (Φ/e). The slope of V₀ vs ν is h/e.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p11_q15",
+      "text": "A photon of wavelength 662 nm has momentum (h = 6.62 x 10⁻³⁴ Js):",
+      "options": ["10⁻²⁷ kg m/s", "10⁻³⁴ kg m/s", "10⁻¹⁹ kg m/s", "10⁻³¹ kg m/s"],
+      "correctIndex": 0,
+      "explanation": "p = h/λ = (6.62 x 10⁻³⁴) / (662 x 10⁻⁹) = 10⁻²⁷ kg m/s.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p11_q16",
+      "text": "The energy of a photon of wavelength λ is:",
+      "options": ["hcλ", "hλ/c", "hc/λ", "cλ/h"],
+      "correctIndex": 2,
+      "explanation": "E = hν and ν = c/λ, so E = hc/λ.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p11_q17",
+      "text": "If the frequency of incident light is increased, the stopping potential:",
+      "options": ["Increases", "Decreases", "Remains same", "Zero"],
+      "correctIndex": 0,
+      "explanation": "Higher frequency means higher maximum K.E. of electrons, requiring more potential to stop them.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p11_q18",
+      "text": "Matter waves are:",
+      "options": ["Electromagnetic", "Mechanical", "Neither EM nor mechanical", "Longitudinal"],
+      "correctIndex": 2,
+      "explanation": "Matter waves are probability waves and do not require a medium nor consist of electric/magnetic fields.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p11_q19",
+      "text": "The de Broglie wavelength of an electron accelerated through a potential V is approximately:",
+      "options": ["1.227/√V nm", "12.27/√V nm", "1.227/√V Å", "12.27/√V Å"],
+      "correctIndex": 3,
+      "explanation": "The formula is λ = √(150/V) Å ≈ 12.27/√V Å.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p11_q20",
+      "text": "A photocell converts:",
+      "options": ["Light to heat", "Electricity to light", "Light to electricity", "Chemical to light"],
+      "correctIndex": 2,
+      "explanation": "Photocells use the photoelectric effect to generate electric current from light.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p11_q21",
+      "text": "Light behaves as a particle when it:",
+      "options": ["Interferes", "Diffracts", "Shows photoelectric effect", "Polarizes"],
+      "correctIndex": 2,
+      "explanation": "Photoelectric effect and Compton effect can only be explained by the particle (photon) model of light.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p11_q22",
+      "text": "The unit of Planck's constant is same as that of:",
+      "options": ["Linear momentum", "Angular momentum", "Energy", "Force"],
+      "correctIndex": 1,
+      "explanation": "Both have units of Js (kg m² s⁻¹).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p11_q23",
+      "text": "According to de Broglie, a moving particle is associated with a wave. This wave is:",
+      "options": ["Stationary", "Progressive", "Pilot wave", "Transverse"],
+      "correctIndex": 2,
+      "explanation": "De Broglie waves are often called pilot waves that guide the particle.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_p11_q24",
+      "text": "The work function of a metal depends on:",
+      "options": ["Intensity of light", "Frequency of light", "Nature of metal", "None of these"],
+      "correctIndex": 2,
+      "explanation": "Work function is a characteristic property of the material.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p11_q25",
+      "text": "If light of wavelength λ₁ and λ₂ (λ₁ > λ₂) is incident on a metal, which has a higher stopping potential?",
+      "options": ["λ₁", "λ₂", "Both same", "Cannot say"],
+      "correctIndex": 1,
+      "explanation": "Shorter wavelength (λ₂) means higher frequency and thus higher stopping potential.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p11_q26",
+      "text": "The time lag between incidence of light and emission of photoelectrons is of the order of:",
+      "options": ["10⁻⁹ s or less", "10⁻³ s", "1 s", "10 s"],
+      "correctIndex": 0,
+      "explanation": "Photoelectric emission is an instantaneous process.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p11_q27",
+      "text": "Number of photoelectrons emitted per second is proportional to:",
+      "options": ["Frequency", "Intensity", "Work function", "Potential"],
+      "correctIndex": 1,
+      "explanation": "Intensity determines the number of photons hitting the surface per second.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p11_q28",
+      "text": "The energy of a photon in eV for λ in Å is given by E ≈:",
+      "options": ["12400 / λ", "1242 / λ", "6.6 / λ", "3 x 10⁸ / λ"],
+      "correctIndex": 0,
+      "explanation": "E = hc/λ. Using constants, E(eV) ≈ 12400 / λ (Å).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p11_q29",
+      "text": "Which of the following particles moving with same velocity has longest de Broglie wavelength?",
+      "options": ["Electron", "Proton", "Neutron", "Alpha particle"],
+      "correctIndex": 0,
+      "explanation": "λ = h/mv. For same velocity, the particle with smallest mass (electron) has longest wavelength.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p11_q30",
+      "text": "The K.E. of an electron with de Broglie wavelength λ is:",
+      "options": ["h²/2mλ²", "h/2mλ", "2mλ²/h²", "h²/mλ²"],
+      "correctIndex": 0,
+      "explanation": "λ = h/√(2mK) => λ² = h²/(2mK) => K = h²/(2mλ²).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p11_q31",
+      "text": "If E is the energy of a photon, its momentum is:",
+      "options": ["E/c", "Ec", "E/c²", "c/E"],
+      "correctIndex": 0,
+      "explanation": "From E=mc² and p=mc, p = E/c.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p11_q32",
+      "text": "The variation of photocurrent with intensity for a fixed frequency is a:",
+      "options": ["Hyperbola", "Parabola", "Straight line through origin", "Exponential curve"],
+      "correctIndex": 2,
+      "explanation": "Photocurrent is directly proportional to intensity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p11_q33",
+      "text": "Cathode rays are made of:",
+      "options": ["Protons", "Neutrons", "Electrons", "Photons"],
+      "correctIndex": 2,
+      "explanation": "J.J. Thomson discovered that cathode rays are streams of fast-moving electrons.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p11_q34",
+      "text": "If the threshold wavelength for a metal is 5000 Å, light of which wavelength will NOT cause emission?",
+      "options": ["4000 Å", "2000 Å", "6000 Å", "3000 Å"],
+      "correctIndex": 2,
+      "explanation": "Emission occurs only if λ ≤ λ₀. Since 6000 > 5000, no emission occurs.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p11_q35",
+      "text": "Planck's constant has dimensions of:",
+      "options": ["ML²T⁻¹", "MLT⁻²", "ML²T⁻²", "MLT⁻¹"],
+      "correctIndex": 0,
+      "explanation": "E = hν => h = E/ν = [ML²T⁻²]/[T⁻¹] = [ML²T⁻¹].",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p11_q36",
+      "text": "In a Davisson-Germer experiment, the maximum intensity is observed at a scattering angle of:",
+      "options": ["45°", "50°", "60°", "90°"],
+      "correctIndex": 1,
+      "explanation": "The maximum was observed at 50° for an accelerating voltage of 54V.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p11_q37",
+      "text": "An electron, an alpha particle, and a proton have the same momentum. Which has the highest K.E.?",
+      "options": ["Electron", "Alpha particle", "Proton", "All same"],
+      "correctIndex": 0,
+      "explanation": "K = p²/2m. For constant p, smallest mass (electron) gives highest K.E.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p11_q38",
+      "text": "If a metal has work function 2 eV and light of 5 eV is incident, the stopping potential is:",
+      "options": ["2 V", "5 V", "3 V", "7 V"],
+      "correctIndex": 2,
+      "explanation": "eV₀ = hν - Φ = 5 - 2 = 3 eV. So V₀ = 3 V.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p11_q39",
+      "text": "The wave nature of light explains:",
+      "options": ["Photoelectric effect", "Compton effect", "Interference", "Black body radiation"],
+      "correctIndex": 2,
+      "explanation": "Interference and diffraction require wave theory, whereas the others require particle theory.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p11_q40",
+      "text": "The concept of 'quanta' of energy was introduced by:",
+      "options": ["Einstein", "Planck", "Newton", "Bohr"],
+      "correctIndex": 1,
+      "explanation": "Max Planck proposed that energy is radiated or absorbed in discrete packets called quanta.",
+      "frequencyRating": 5
+    }
+  ]
+}

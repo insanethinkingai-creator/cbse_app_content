@@ -246,5 +246,86 @@
       "explanation": "This is the final step of sperm maturation.",
       "frequencyRating": 4
     }
+    ,
+    {
+      "id": "g12_b2_q31",
+      "text": "Leydig cells secrete which class of hormones?",
+      "options": ["Estrogens", "Androgens", "Gonadotropins", "Progestogens"],
+      "correctIndex": 1,
+      "explanation": "Leydig cells produce testosterone (an androgen).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q32",
+      "text": "The acrosome of the sperm is derived from which organelle?",
+      "options": ["Mitochondria", "Golgi apparatus", "Ribosome", "Nucleus"],
+      "correctIndex": 1,
+      "explanation": "The acrosome contains enzymes for egg penetration.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b2_q33",
+      "text": "In the human female, fertilization takes place in the:",
+      "options": ["Uterus", "Cervix", "Ampullary-isthmic junction", "Vagina"],
+      "correctIndex": 2,
+      "explanation": "This is the specific region of the Fallopian tube (oviduct).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q34",
+      "text": "The primary function of the corpus luteum is to secrete:",
+      "options": ["Estrogen", "Progesterone", "LH", "FSH"],
+      "correctIndex": 1,
+      "explanation": "Progesterone is essential for maintaining the endometrium for pregnancy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q35",
+      "text": "Colostrum is the first milk which is rich in which antibody?",
+      "options": ["IgG", "IgM", "IgA", "IgE"],
+      "correctIndex": 2,
+      "explanation": "IgA provides essential passive immunity to the infant.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q36",
+      "text": "One primary spermatocyte produces how many spermatozoa?",
+      "options": ["1", "2", "4", "8"],
+      "correctIndex": 2,
+      "explanation": "One diploid cell undergoes meiosis to produce four haploid sperms.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q37",
+      "text": "The hormone mainly responsible for milk ejection after childbirth is:",
+      "options": ["Prolactin", "Oxytocin", "Estrogen", "Progesterone"],
+      "correctIndex": 1,
+      "explanation": "Oxytocin stimulates the contraction of mammary glands.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b2_q38",
+      "text": "The stage of the embryo that implants in the uterine wall is:",
+      "options": ["Zygote", "Morula", "Blastocyst", "Gastrula"],
+      "correctIndex": 2,
+      "explanation": "Implantation happens approximately 7 days after fertilization.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b2_q39",
+      "text": "Menarche is the term used for:",
+      "options": ["Cessation of menstruation", "Beginning of menstruation", "Mid-cycle ovulation", "Pregnancy period"],
+      "correctIndex": 1,
+      "explanation": "It marks the onset of puberty in females.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b2_q40",
+      "text": "The presence of which hormone in urine is used as a test for pregnancy?",
+      "options": ["hCG", "LH", "Estrogen", "Progesterone"],
+      "correctIndex": 0,
+      "explanation": "Human Chorionic Gonadotropin is produced by the placenta.",
+      "frequencyRating": 5
+    }
   ]
 }

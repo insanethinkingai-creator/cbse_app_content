@@ -1,0 +1,330 @@
+{
+  "id": "g12_bio_ch4",
+  "grade": "12",
+  "subject": "Biology",
+  "number": "4",
+  "title": "Reproductive Health",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_b4_q1",
+      "text": "According to WHO, reproductive health means total well-being in all aspects of reproduction, including:",
+      "options": ["Physical and Emotional", "Behavioral", "Social", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "It's a comprehensive definition covering physical, emotional, behavioral, and social aspects.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b4_q2",
+      "text": "India was the first country in the world to initiate 'Family Planning' programs in:",
+      "options": ["1951", "1961", "1971", "1981"],
+      "correctIndex": 0,
+      "explanation": "India launched these programs early to control population growth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b4_q3",
+      "text": "RCH stands for:",
+      "options": ["Routine Child Health", "Reproductive and Child Health Care", "Reproduction Control Hierarchy", "Reproductive Care and Health"],
+      "correctIndex": 1,
+      "explanation": "These programs create awareness and provide facilities for reproductive health.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b4_q4",
+      "text": "Amniocentesis is a technique used to:",
+      "options": ["Detect chromosomal abnormalities in the fetus", "Determine the sex of the fetus", "Induce abortion", "Both A and B"],
+      "correctIndex": 3,
+      "explanation": "Legally it's for genetic testing, but it's often misused for sex determination (which is banned).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b4_q5",
+      "text": "Which contraceptive method involves the use of condoms?",
+      "options": ["Barrier method", "IUDs", "Oral contraceptives", "Surgical method"],
+      "correctIndex": 0,
+      "explanation": "Condoms prevent sperm from reaching the ovum physically.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b4_q6",
+      "text": "Copper releasing IUDs like CuT release copper ions which:",
+      "options": ["Prevent ovulation", "Make uterus unsuitable for implantation", "Suppress sperm motility and fertilizing capacity", "Block fallopian tubes"],
+      "correctIndex": 2,
+      "explanation": "Cu ions reduce the activity of sperm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b4_q7",
+      "text": " 'Saheli' is a new oral contraceptive for females that contains a:",
+      "options": ["Steroidal preparation", "Non-steroidal preparation", "High dose of estrogen", "High dose of progesterone"],
+      "correctIndex": 1,
+      "explanation": "It was developed by CDRI, Lucknow, and has very few side effects.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b4_q8",
+      "text": "Emergency contraceptives are effective if used within ________ hours of coitus.",
+      "options": ["24", "48", "72", "120"],
+      "correctIndex": 2,
+      "explanation": "Administration of progestogens or IUDs within 72 hours can prevent pregnancy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b4_q9",
+      "text": "Sterilization in males is called:",
+      "options": ["Tubectomy", "Vasectomy", "Hysterectomy", "Castration"],
+      "correctIndex": 1,
+      "explanation": "It involves cutting and tying a small part of the vas deferens.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b4_q10",
+      "text": "Sterilization in females is called:",
+      "options": ["Vasectomy", "Tubectomy", "Ligation", "MTP"],
+      "correctIndex": 1,
+      "explanation": "A small part of the fallopian tube is removed or tied up.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b4_q11",
+      "text": "MTP (Medical Termination of Pregnancy) is considered safe up to:",
+      "options": ["First trimester (12 weeks)", "Second trimester (24 weeks)", "Third trimester", "Whole pregnancy"],
+      "correctIndex": 0,
+      "explanation": "Risk to the mother increases significantly after the first 12 weeks.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b4_q12",
+      "text": "Which of the following is NOT a sexually transmitted infection (STI)?",
+      "options": ["Gonorrhoea", "Syphilis", "Typhoid", "Genital herpes"],
+      "correctIndex": 2,
+      "explanation": "Typhoid is a water-borne bacterial disease.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b4_q13",
+      "text": "Inability to conceive even after 2 years of unprotected cohabitation is called:",
+      "options": ["Impotency", "Infertility", "Sterility", "Reproductive failure"],
+      "correctIndex": 1,
+      "explanation": "This can be due to physical, congenital, or psychological reasons.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b4_q14",
+      "text": "IVF (In Vitro Fertilization) is commonly known as:",
+      "options": ["Artificial insemination", "Test tube baby program", "Surrogacy", "GIFT"],
+      "correctIndex": 1,
+      "explanation": "Fertilization occurs outside the body in laboratory conditions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b4_q15",
+      "text": "ZIFT stands for:",
+      "options": ["Zygote Intra Fallopian Transfer", "Zygote In Vitro Fertilization Technique", "Zonal Intra Fallopian Transfer", "None"],
+      "correctIndex": 0,
+      "explanation": "The zygote or early embryo (up to 8 blastomeres) is transferred into the fallopian tube.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b4_q16",
+      "text": "GIFT technique is recommended for females who:",
+      "options": ["Cannot produce an ovum", "Cannot provide suitable environment for fertilization", "Have blocked fallopian tubes", "All of the above"],
+      "correctIndex": 0,
+      "explanation": "Gamete Intra Fallopian Transfer involves transferring an ovum from a donor.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b4_q17",
+      "text": "Which STI is completely curable if detected early?",
+      "options": ["HIV", "Hepatitis B", "Genital herpes", "Syphilis"],
+      "correctIndex": 3,
+      "explanation": "HIV, Hepatitis B, and Genital herpes are currently incurable.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b4_q18",
+      "text": "The statutory age of marriage for females and males in India is:",
+      "options": ["18 and 21", "21 and 21", "15 and 18", "18 and 18"],
+      "correctIndex": 0,
+      "explanation": "This is one of the measures to check population growth.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b4_q19",
+      "text": "Which of the following is a natural method of contraception?",
+      "options": ["Periodic abstinence", "Withdrawal (Coitus interruptus)", "Lactational amenorrhea", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "These methods avoid the chances of ovum and sperm meeting naturally.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b4_q20",
+      "text": "Lactational amenorrhea is effective for about ________ months following parturition.",
+      "options": ["2", "6", "12", "24"],
+      "correctIndex": 1,
+      "explanation": "During intense breastfeeding, ovulation and the menstrual cycle do not occur.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b4_q21",
+      "text": "Hormone releasing IUDs like LNG-20 make:",
+      "options": ["Uterus unsuitable for implantation", "Cervix hostile to sperm", "Both A and B", "Sperm count zero"],
+      "correctIndex": 2,
+      "explanation": "They provide additional protection by altering the uterine environment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b4_q22",
+      "text": "Oral contraceptive pills are taken daily for a period of ________ days.",
+      "options": ["7", "14", "21", "28"],
+      "correctIndex": 2,
+      "explanation": "They are taken for 21 days starting within the first 5 days of menstruation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b4_q23",
+      "text": "What is the main drawback of surgical methods of contraception?",
+      "options": ["High side effects", "Low effectiveness", "Irreversibility", "Interference with sexual drive"],
+      "correctIndex": 2,
+      "explanation": "Reversibility is very poor, making it a terminal method.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b4_q24",
+      "text": "The government of India legalized MTP in ________ with strict conditions.",
+      "options": ["1951", "1971", "1991", "2001"],
+      "correctIndex": 1,
+      "explanation": "Legalization aimed to reduce illegal abortions and related maternal mortality.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b4_q25",
+      "text": "ART stands for:",
+      "options": ["Assisted Reproductive Technologies", "Artificial Reproductive Techniques", "Advanced Reproduction Tools", "Assisted Recording Techniques"],
+      "correctIndex": 0,
+      "explanation": "Refers to special techniques that help infertile couples have children.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b4_q26",
+      "text": "Intra-cytoplasmic sperm injection (ICSI) is used when:",
+      "options": ["Female is infertile", "Male has low sperm count", "Fallopian tubes are blocked", "Sperm cannot reach the ovum"],
+      "correctIndex": 1,
+      "explanation": "A sperm is directly injected into the ovum in the lab.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b4_q27",
+      "text": "World Population Day is observed on:",
+      "options": ["June 5", "July 11", "December 1", "April 7"],
+      "correctIndex": 1,
+      "explanation": "Observed to raise awareness of global population issues.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_b4_q28",
+      "text": "Condoms are popular because they:",
+      "options": ["Protect against STIs and AIDS", "Are disposable", "Can be self-inserted", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Nirodh is a famous brand of condoms for males.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b4_q29",
+      "text": "Which of the following is a non-medicated IUD?",
+      "options": ["Lippes loop", "Multiload 375", "Progestasert", "Cu7"],
+      "correctIndex": 0,
+      "explanation": "Lippes loop acts primarily by increasing phagocytosis of sperm.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b4_q30",
+      "text": "The primary goal of the RCH program is:",
+      "options": ["Creating awareness about reproduction", "Providing medical facilities", "Reducing infant/maternal mortality", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "It aims to build a reproductively healthy society.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b4_q31",
+      "text": "Diaphragms, cervical caps and vaults are barrier methods used by:",
+      "options": ["Males", "Females", "Both", "Infants"],
+      "correctIndex": 1,
+      "explanation": "They are inserted into the female reproductive tract to cover the cervix.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b4_q32",
+      "text": "Pills prevent pregnancy by:",
+      "options": ["Inhibiting ovulation", "Inhibiting implantation", "Altering cervical mucus quality", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "They contain small doses of progestogen or progestogen-estrogen combinations.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b4_q33",
+      "text": "What is the function of copper ions in copper-releasing IUDs?",
+      "options": ["They inhibit gametogenesis", "They make uterus unsuitable for implantation", "They suppress sperm motility", "They inhibit ovulation"],
+      "correctIndex": 2,
+      "explanation": "Suppression of sperm motility reduces fertilizing capacity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b4_q34",
+      "text": "Intra-uterine insemination (IUI) is used for:",
+      "options": ["Females with blocked tubes", "Males with very low sperm count", "Females who cannot ovulate", "None"],
+      "correctIndex": 1,
+      "explanation": "Semen is collected and introduced artificially into the uterus.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_b4_q35",
+      "text": "In amniocentesis, the fluid is taken from:",
+      "options": ["Uterus", "Amniotic cavity", "Fallopian tube", "Cervix"],
+      "correctIndex": 1,
+      "explanation": "The amniotic fluid contains fetal cells that can be analyzed.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b4_q36",
+      "text": "STIs are also called:",
+      "options": ["Venereal Diseases (VD)", "Reproductive Tract Infections (RTI)", "Both A and B", "Non-communicable diseases"],
+      "correctIndex": 2,
+      "explanation": "Both terms describe diseases transmitted through sexual intercourse.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b4_q37",
+      "text": "One of the following is not a method of contraception:",
+      "options": ["Condoms", "Pills", "IVF", "IUDs"],
+      "correctIndex": 2,
+      "explanation": "IVF is a method to *achieve* pregnancy, not prevent it.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b4_q38",
+      "text": "The 2011 census report put the population growth rate of India at:",
+      "options": ["Less than 2%", "More than 5%", "10%", "0.5%"],
+      "correctIndex": 0,
+      "explanation": "It was roughly around 1.7% (17/1000/year).",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_b4_q39",
+      "text": "Transfer of an embryo with more than 8 blastomeres into the uterus is:",
+      "options": ["ZIFT", "IUT", "GIFT", "AI"],
+      "correctIndex": 1,
+      "explanation": "IUT stands for Intra Uterine Transfer.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b4_q40",
+      "text": "What is the age group most vulnerable to STIs?",
+      "options": ["0-10 years", "15-24 years", "40-50 years", "Above 60 years"],
+      "correctIndex": 1,
+      "explanation": "This is the sexually active age group where awareness is most critical.",
+      "frequencyRating": 3
+    }
+  ]
+}

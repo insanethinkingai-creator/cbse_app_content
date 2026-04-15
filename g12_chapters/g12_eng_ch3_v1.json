@@ -1,0 +1,330 @@
+{
+  "id": "g12_eng_ch3",
+  "grade": "12",
+  "subject": "English",
+  "number": "3",
+  "title": "Deep Water",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_e3_q1",
+      "text": "Who is the author of 'Deep Water'?",
+      "options": ["William Douglas", "Alphonse Daudet", "Anees Jung", "Louis Fischer"],
+      "correctIndex": 0,
+      "explanation": "William Douglas, an advisor to President Roosevelt, wrote this autobiographical account.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e3_q2",
+      "text": "At what age did the author's aversion to water start?",
+      "options": ["Ten or eleven", "Three or four", "Two or three", "Seven or eight"],
+      "correctIndex": 1,
+      "explanation": "His aversion began when his father took him to the beach in California when he was three or four years old.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e3_q3",
+      "text": "What happened to Douglas at the California beach that created a fear of water?",
+      "options": ["He was bitten by a fish", "A big wave knocked him over and swept over him", "His father dropped him", "The water was too cold"],
+      "correctIndex": 1,
+      "explanation": "The sheer force of the waves and being buried in water terrified the young child.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e3_q4",
+      "text": "Where did the author decide to learn swimming when he was ten or eleven?",
+      "options": ["Yakima River", "YMCA pool", "Lake Wentworth", "Columbia River"],
+      "correctIndex": 1,
+      "explanation": "He chose the YMCA pool because it was safe, unlike the treacherous Yakima River.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e3_q5",
+      "text": "Why was the Yakima River described as 'treacherous'?",
+      "options": ["Because of crocodiles", "Because many people had drowned in it", "Because it was very shallow", "Because it was dirty"],
+      "correctIndex": 1,
+      "explanation": "The river had a history of dangerous currents and frequent drownings.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e3_q6",
+      "text": "Describe the depth of the YMCA pool.",
+      "options": ["9 feet deep at both ends", "2 feet deep throughout", "2 feet deep at the shallow end and 9 feet at the deep end", "5 feet deep everywhere"],
+      "correctIndex": 2,
+      "explanation": "The pool had a gradual drop, making it suitable for beginners.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e3_q7",
+      "text": "What does the author refer to as the 'misadventure'?",
+      "options": ["The beach incident", "The YMCA pool incident where he was thrown in", "Getting lost in the forest", "Losing his swimming wings"],
+      "correctIndex": 1,
+      "explanation": "The 'misadventure' refers to the time a big bully tossed him into the deep end of the pool.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e3_q8",
+      "text": "Who threw Douglas into the swimming pool?",
+      "options": ["An old man", "A big bruiser of a boy, about eighteen", "His instructor", "His father"],
+      "correctIndex": 1,
+      "explanation": "A large, muscular boy picked him up and tossed him into the deep end for fun.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e3_q9",
+      "text": "What was Douglas's plan as he sank to the bottom of the pool?",
+      "options": ["To scream for help", "To make a big jump when his feet hit the bottom", "To swim sideways", "To wait for someone to dive in"],
+      "correctIndex": 1,
+      "explanation": "He planned to jump up to the surface, lie flat, and paddle to the edge.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e3_q10",
+      "text": "How many times did Douglas try to jump to the surface?",
+      "options": ["Once", "Twice", "Three times", "Five times"],
+      "correctIndex": 2,
+      "explanation": "He made three distinct attempts to jump up, but each time he failed to reach the edge and grew weaker.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e3_q11",
+      "text": "What feeling did Douglas have when he finally gave up and blacked out?",
+      "options": ["Intense pain", "Peace and lack of fear", "Anger", "Hunger"],
+      "correctIndex": 1,
+      "explanation": "He described it as a quiet, peaceful sensation, as if he were being carried in tender arms.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e3_q12",
+      "text": "What was the bully's excuse for throwing Douglas in?",
+      "options": ["He hated Douglas", "He wanted to kill him", "He said, 'But I was only fooling'", "He thought Douglas knew how to swim"],
+      "correctIndex": 2,
+      "explanation": "The boy didn't realize the danger and claimed it was just a joke.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e3_q13",
+      "text": "How did the incident affect Douglas's life for years to come?",
+      "options": ["He became a professional swimmer", "He was haunted by the fear of water", "He stopped eating fish", "He moved to a desert"],
+      "correctIndex": 1,
+      "explanation": "The terror stayed with him, ruining his fishing trips, canoeing, and boating activities.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e3_q14",
+      "text": "When did Douglas finally decide to get an instructor to overcome his fear?",
+      "options": ["Immediately after the incident", "Years later, in October", "When he became an adult", "In the winter"],
+      "correctIndex": 1,
+      "explanation": "After years of being deprived of water activities, he hired an instructor in October.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e3_q15",
+      "text": "How did the instructor build a swimmer 'piece by piece'?",
+      "options": ["By pushing him into the lake", "By teaching him sub-skills like breathing and kicking separately", "By making him watch videos", "By giving him medicine"],
+      "correctIndex": 1,
+      "explanation": "The instructor used a rope and pulley, and taught him breathing, leg movements, and strokes one by one.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e3_q16",
+      "text": "How long did it take the instructor to finish Douglas's training?",
+      "options": ["One month", "Three months", "From October to April", "A full year"],
+      "correctIndex": 2,
+      "explanation": "The systematic training lasted about six months, from October until April.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e3_q17",
+      "text": "Why was Douglas still not satisfied after the instructor said he was finished?",
+      "options": ["He wanted his money back", "He feared the old terror would return when he was alone in water", "The instructor was mean", "He wanted to learn more styles"],
+      "correctIndex": 1,
+      "explanation": "He needed to prove to himself that he could handle being in water without the instructor's support.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e3_q18",
+      "text": "Where did Douglas go to test his swimming skills alone?",
+      "options": ["YMCA pool", "Lake Wentworth in New Hampshire", "The Atlantic Ocean", "A bathtub"],
+      "correctIndex": 1,
+      "explanation": "He went to Lake Wentworth, dived off a dock at Triggs Island, and swam two miles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e3_q19",
+      "text": "What did Douglas say to the 'terror' when it returned in the middle of the lake?",
+      "options": ["'Help me!'", "'Well, Mr. Terror, what do you think you can do to me?'", "'I am not afraid'", "'Go away'"],
+      "correctIndex": 1,
+      "explanation": "He challenged his fear with confidence, causing the terror to flee.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e3_q20",
+      "text": "Where did Douglas have his final test to be completely sure his fear was gone?",
+      "options": ["Yakima River", "Warm Lake", "The Pacific", "His own pool"],
+      "correctIndex": 1,
+      "explanation": "He camped by Warm Lake and swam across to the other shore and back.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e3_q21",
+      "text": "What is the deeper meaning of the quote 'All we have to fear is fear itself'?",
+      "options": ["Fear is a physical object", "It is our psychological fear that paralyzes us, not the danger", "Roosevelt was a great man", "Swimming is hard"],
+      "correctIndex": 1,
+      "explanation": "The story emphasizes that terror is in the mind, and overcoming it requires strong willpower.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e3_q22",
+      "text": "Who said 'All we have to fear is fear itself'?",
+      "options": ["William Douglas", "President Roosevelt", "The Instructor", "The bully"],
+      "correctIndex": 1,
+      "explanation": "Douglas quotes Roosevelt to summarize his experience with death and fear.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e3_q23",
+      "text": "In the context of the story, what does 'Yellow Water' symbolize?",
+      "options": ["Dirty water", "Suffocation and impending death", "Wealth", "A sunset"],
+      "correctIndex": 1,
+      "explanation": "As he was drowning, everything he saw was a dirty yellow glow, representing his terror.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e3_q24",
+      "text": "What did Douglas feel in his lungs while drowning?",
+      "options": ["They were full of air", "They throbbed and ached", "They felt cold", "Nothing"],
+      "correctIndex": 1,
+      "explanation": "The physical strain of holding his breath and the pressure of water made his lungs throb.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e3_q25",
+      "text": "What was the 'curtain of life' falling?",
+      "options": ["A play ending", "Losing consciousness and coming close to death", "Waking up", "Going to sleep"],
+      "correctIndex": 1,
+      "explanation": "The expression refers to the moment he stopped fighting and blacked out into total darkness.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e3_q26",
+      "text": "Douglas's determination to overcome fear shows his:",
+      "options": ["Greed", "Persistence and willpower", "Fear of his instructor", "Hatred for water"],
+      "correctIndex": 1,
+      "explanation": "The story is a testament to how human spirit can overcome any deep-seated phobia through effort.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e3_q27",
+      "text": "Which fishing activities was Douglas missing out on?",
+      "options": ["Salmon, Bass, Trout", "Shark and Whale", "Crabs and Lobster", "None"],
+      "correctIndex": 0,
+      "explanation": "His fear prevented him from enjoying fishing for landlocked salmon, bass, and trout.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e3_q28",
+      "text": "How did Douglas practice 'breathing' under water?",
+      "options": ["Holding his breath for an hour", "Exhaling under water and inhaling above it", "Using an oxygen tank", "Using a straw"],
+      "correctIndex": 1,
+      "explanation": "The instructor taught him to put his face under water to exhale and raise his nose to inhale.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e3_q29",
+      "text": "What was the role of the 'rope' in the training?",
+      "options": ["To tie his hands", "To provide security and prevent drowning during practice", "To pull the boat", "To exercise his muscles"],
+      "correctIndex": 1,
+      "explanation": "The rope was attached to his belt and a pulley, allowing the instructor to hold him as he practiced.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e3_q30",
+      "text": "The theme of the lesson is:",
+      "options": ["The beauty of Yakima", "Overcoming fear through courage and hard work", "The dangers of swimming", "Childhood memories"],
+      "correctIndex": 1,
+      "explanation": "The primary focus is the psychological victory over a disabling childhood fear.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e3_q31",
+      "text": "When Douglas was in the pool, the 'nine feet' felt like:",
+      "options": ["Ninety feet", "A mile", "One foot", "Ten feet"],
+      "correctIndex": 0,
+      "explanation": "To a drowning person in panic, the distance to the bottom seems much greater.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e3_q32",
+      "text": "What happened when Douglas first tried to use his legs in training?",
+      "options": ["He swam like a fish", "They refused to work and felt paralyzed", "He kicked the instructor", "He did a flip"],
+      "correctIndex": 1,
+      "explanation": "Initially, his legs were rigid with fear and wouldn't move, but eventually, they relaxed.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e3_q33",
+      "text": "The word 'bruiser' in the text refers to:",
+      "options": ["A small child", "A person who is tough and muscular", "A fruit", "A type of water"],
+      "correctIndex": 1,
+      "explanation": "The boy who threw him in is called a bruiser because of his physical strength.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "#g12_e3_q34",
+      "text": "How did the author feel after he was rescued from the pool?",
+      "options": ["Happy and energetic", "Weak, trembling, and unable to eat", "He went back to swimming", "He was angry at his mother"],
+      "correctIndex": 1,
+      "explanation": "He reached home in a state of shock and physical exhaustion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e3_q35",
+      "text": "What did Douglas do to ensure the 'residual doubts' were gone?",
+      "options": ["He never swam again", "He swam across Warm Lake", "He asked the instructor again", "He read a book on swimming"],
+      "correctIndex": 1,
+      "explanation": "He took a final expedition to Warm Lake to confirm he was truly over his fear.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_e3_q36",
+      "text": "The story 'Deep Water' is primarily a/an:",
+      "options": ["Fiction", "Biography", "Autobiographical essay", "Poem"],
+      "correctIndex": 2,
+      "explanation": "It is an excerpt from his own book 'Of Men and Mountains'.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e3_q37",
+      "text": "What does the author mean by 'the terror that is in death'?",
+      "options": ["Death is scary", "There is peace in death, but terror in the *fear* of dying", "He was afraid of ghosts", "Everyone dies"],
+      "correctIndex": 1,
+      "explanation": "He realized that the process of dying is peaceful; it's the anticipation and fear that is terrifying.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_e3_q38",
+      "text": "Why did his mother keep warning him against the Yakima River?",
+      "options": ["She wanted to scare him", "She knew the river was dangerous and had details of drownings", "The river was far away", "She didn't like swimming"],
+      "correctIndex": 1,
+      "explanation": "She acted as a reminder of the dangers to keep him safe.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_e3_q39",
+      "text": "What did Douglas find 'repulsive' at the YMCA pool initially?",
+      "options": ["The dirty water", "Showing his skinny legs", "The other boys", "The instructor"],
+      "correctIndex": 1,
+      "explanation": "He was self-conscious about his thin legs but subdued his pride to learn.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_e3_q40",
+      "text": "The experience of overcoming fear made Douglas feel:",
+      "options": ["More fearful", "Intense appreciation for life", "Bored", "Like a superhero"],
+      "correctIndex": 1,
+      "explanation": "Surviving the ordeal and conquering the fear gave him a renewed zest for living.",
+      "frequencyRating": 5
+    }
+  ]
+}

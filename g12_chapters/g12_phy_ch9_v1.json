@@ -1,0 +1,330 @@
+{
+  "id": "g12_phy_ch9",
+  "grade": "12",
+  "subject": "Physics",
+  "number": "9",
+  "title": "Ray Optics and Optical Instruments",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_p9_q1",
+      "text": "For a real object, which of the following mirrors can produce a virtual image?",
+      "options": ["Plane mirror", "Concave mirror", "Convex mirror", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Plane mirrors always produce virtual images; convex mirrors always produce virtual images; concave mirrors produce a virtual image when the object is between P and F.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p9_q2",
+      "text": "The focal length of a plane mirror is:",
+      "options": ["Zero", "Infinite", "25 cm", "Negative"],
+      "correctIndex": 1,
+      "explanation": "A plane mirror is considered a part of a sphere with an infinite radius, hence focal length is infinity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p9_q3",
+      "text": "The relation between focal length (f) and radius of curvature (R) for a spherical mirror is:",
+      "options": ["f = R", "f = R/2", "f = 2R", "f = 1/R"],
+      "correctIndex": 1,
+      "explanation": "For paraxial rays, the focal length is exactly half the radius of curvature of the spherical mirror.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p9_q4",
+      "text": "The phenomenon used in optical fibers for transmitting signals is:",
+      "options": ["Refraction", "Total Internal Reflection", "Dispersion", "Scattering"],
+      "correctIndex": 1,
+      "explanation": "Optical fibers work on TIR, allowing light to travel long distances with minimal loss by reflecting off the cladding.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p9_q5",
+      "text": "For Total Internal Reflection to occur, light must travel from:",
+      "options": ["Rarer to denser medium", "Denser to rarer medium", "Vacuum to air", "Any medium"],
+      "correctIndex": 1,
+      "explanation": "TIR is only possible when light attempts to move from a medium of higher refractive index to one of lower refractive index.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p9_q6",
+      "text": "Critical angle for a medium is 30°. Its refractive index is:",
+      "options": ["0.5", "1.5", "2", "√2"],
+      "correctIndex": 2,
+      "explanation": "n = 1/sin(C) = 1/sin(30°) = 1/0.5 = 2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p9_q7",
+      "text": "A bubble in water shines due to:",
+      "options": ["Refraction", "Reflection", "Total Internal Reflection", "Interference"],
+      "correctIndex": 2,
+      "explanation": "When light travels from water to the air inside the bubble at an angle greater than the critical angle, TIR occurs.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p9_q8",
+      "text": "The power of a convex lens of focal length 20 cm is:",
+      "options": ["+5 D", "-5 D", "+0.05 D", "+20 D"],
+      "correctIndex": 0,
+      "explanation": "P = 1/f (in meters) = 1/0.2 = +5 Dioptre.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p9_q9",
+      "text": "When two thin lenses of power P1 and P2 are in contact, the total power is:",
+      "options": ["P1 * P2", "P1 + P2", "P1 / P2", "√(P1*P2)"],
+      "correctIndex": 1,
+      "explanation": "The effective power of a combination of thin lenses in contact is the algebraic sum of individual powers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p9_q10",
+      "text": "A mirage is an example of:",
+      "options": ["Refraction only", "TIR due to atmospheric temperature gradient", "Scattering", "Diffraction"],
+      "correctIndex": 1,
+      "explanation": "Layers of air at different temperatures create a refractive index gradient leading to TIR near the ground.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p9_q11",
+      "text": "Lens maker's formula is given by 1/f = (n-1) * (1/R1 - 1/R2). Here 'n' is:",
+      "options": ["Refractive index of lens w.r.t medium", "Absolute RI of lens", "RI of medium", "None"],
+      "correctIndex": 0,
+      "explanation": "The 'n' used in the formula is the relative refractive index of the lens material with respect to the surrounding medium.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p9_q12",
+      "text": "Linear magnification (m) for a spherical mirror is:",
+      "options": ["v/u", "-v/u", "1 + v/u", "u/v"],
+      "correctIndex": 1,
+      "explanation": "For mirrors, m = -v/u. For lenses, m = v/u.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p9_q13",
+      "text": "The angle of deviation for a prism is minimum when:",
+      "options": ["i = e", "i > e", "i < e", "i = r1"],
+      "correctIndex": 0,
+      "explanation": "At minimum deviation, the angle of incidence equals the angle of emergence, and the ray inside is parallel to the base.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p9_q14",
+      "text": "The splitting of white light into its constituent colors is called:",
+      "options": ["Diffraction", "Dispersion", "Interference", "Refraction"],
+      "correctIndex": 1,
+      "explanation": "Dispersion occurs because different colors of light travel at different speeds in a medium (glass).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p9_q15",
+      "text": "The blue color of the sky is due to:",
+      "options": ["Dispersion", "Reflection", "Rayleigh Scattering", "TIR"],
+      "correctIndex": 2,
+      "explanation": "Short wavelengths (blue/violet) are scattered more efficiently by atmospheric molecules than long wavelengths (red).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p9_q16",
+      "text": "A person suffering from myopia (short-sightedness) should use:",
+      "options": ["Convex lens", "Concave lens", "Cylindrical lens", "Bifocal lens"],
+      "correctIndex": 1,
+      "explanation": "A diverging (concave) lens is needed to shift the image back onto the retina.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p9_q17",
+      "text": "The least distance of distinct vision for a normal human eye is:",
+      "options": ["Infinity", "25 cm", "10 cm", "1 m"],
+      "correctIndex": 1,
+      "explanation": "This is the minimum distance at which the eye can see objects clearly without strain.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p9_q18",
+      "text": "Hypermetropia is corrected by using a:",
+      "options": ["Concave lens", "Convex lens", "Cylindrical lens", "Plane glass"],
+      "correctIndex": 1,
+      "explanation": "A converging (convex) lens helps in bringing the image of nearby objects forward onto the retina.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p9_q19",
+      "text": "The magnifying power of a simple microscope is:",
+      "options": ["D/f", "1 + D/f", "v/u", "f/D"],
+      "correctIndex": 1,
+      "explanation": "When the image is formed at the near point D, magnification is 1 + D/f.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p9_q20",
+      "text": "In a compound microscope, the intermediate image is:",
+      "options": ["Virtual and erect", "Real, inverted and magnified", "Virtual, inverted and diminished", "Real, erect and magnified"],
+      "correctIndex": 1,
+      "explanation": "The objective lens forms a real, inverted, and magnified image which acts as an object for the eyepiece.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p9_q21",
+      "text": "To have high resolution and magnification, the objective of a telescope should have:",
+      "options": ["Large focal length and large aperture", "Small focal length and small aperture", "Large focal length and small aperture", "Small focal length and large aperture"],
+      "correctIndex": 0,
+      "explanation": "Large aperture increases light gathering and resolution; large focal length increases magnification.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p9_q22",
+      "text": "The refractive index of diamond is high (2.42). This results in its 'brilliance' because of:",
+      "options": ["Large critical angle", "Small critical angle", "Zero reflection", "High absorption"],
+      "correctIndex": 1,
+      "explanation": "A small critical angle (~24.4°) means light entering the diamond is more likely to undergo multiple TIRs before exiting.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p9_q23",
+      "text": "For a thin prism of angle A, the angle of deviation is approximately:",
+      "options": ["(n-1)A", "nA", "A/n", "(n+1)A"],
+      "correctIndex": 0,
+      "explanation": "For small angles, sin θ ≈ θ, leading to the simplified deviation formula δ = (n-1)A.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p9_q24",
+      "text": "Astigmatism is corrected by using:",
+      "options": ["Convex lens", "Concave lens", "Cylindrical lens", "Prism"],
+      "correctIndex": 2,
+      "explanation": "Astigmatism arises from non-spherical cornea, requiring a cylindrical lens for correction.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p9_q25",
+      "text": "In normal adjustment of an astronomical telescope, the length of the tube is:",
+      "options": ["fo - fe", "fo + fe", "fo * fe", "fo / fe"],
+      "correctIndex": 1,
+      "explanation": "For normal adjustment (image at infinity), the distance between the objective and eyepiece is the sum of their focal lengths.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p9_q26",
+      "text": "Refractive index of water is 4/3 and glass is 3/2. RI of glass w.r.t water is:",
+      "options": ["2", "9/8", "8/9", "0.5"],
+      "correctIndex": 1,
+      "explanation": "n_gw = n_g / n_w = (3/2) / (4/3) = 9/8.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p9_q27",
+      "text": "A virtual image larger than the object can be produced by a:",
+      "options": ["Plane mirror", "Convex mirror", "Concave mirror", "None"],
+      "correctIndex": 2,
+      "explanation": "Concave mirrors produce magnified virtual images when the object is placed very close (within focal length).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p9_q28",
+      "text": "An object is placed at the focus of a convex lens. The image will be at:",
+      "options": ["Focus", "2F", "Infinity", "Optical Center"],
+      "correctIndex": 2,
+      "explanation": "Rays from the focus become parallel to the principal axis after refraction, meeting at infinity.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p9_q29",
+      "text": "The primary rainbow is formed due to:",
+      "options": ["Two refractions and one TIR", "Two refractions and two TIRs", "One refraction and one reflection", "Scattering"],
+      "correctIndex": 0,
+      "explanation": "Light enters a raindrop (refraction), reflects off the back (TIR), and leaves (refraction).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p9_q30",
+      "text": "Which of the following colors suffers maximum deviation in a prism?",
+      "options": ["Red", "Yellow", "Green", "Violet"],
+      "correctIndex": 3,
+      "explanation": "Violet has the shortest wavelength and highest refractive index in glass, thus deviates the most.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p9_q31",
+      "text": "Cauchy's formula relates refractive index (n) and wavelength (λ) as:",
+      "options": ["n ∝ λ", "n ∝ 1/λ", "n = A + B/λ²", "n = A + Bλ"],
+      "correctIndex": 2,
+      "explanation": "It shows that refractive index decreases as wavelength increases.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p9_q32",
+      "text": "The Sun appears reddish at sunrise and sunset because:",
+      "options": ["Red light is scattered most", "Blue light is scattered most", "Sun is hotter", "Refraction by Earth"],
+      "correctIndex": 1,
+      "explanation": "Blue light is scattered away by the long path through the atmosphere, leaving primarily the red/orange end of the spectrum.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p9_q33",
+      "text": "Secondary rainbow is ________ than the primary rainbow.",
+      "options": ["Brighter", "Fainter", "Narrower", "Lower"],
+      "correctIndex": 1,
+      "explanation": "It undergoes two internal reflections, losing more energy and resulting in a fainter appearance.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p9_q34",
+      "text": "The focal length of a lens ________ when immersed in water.",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correctIndex": 0,
+      "explanation": "The relative refractive index (n_lens/n_medium) decreases, reducing the bending power and increasing focal length.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p9_q35",
+      "text": "Cassegrain telescope uses:",
+      "options": ["Two convex lenses", "A large parabolic mirror and a secondary mirror", "A large concave lens", "A prism"],
+      "correctIndex": 1,
+      "explanation": "It is a reflecting type telescope that avoids chromatic aberration by using mirrors instead of lenses.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p9_q36",
+      "text": "The power of a combination of a convex lens (f=20cm) and a concave lens (f=20cm) is:",
+      "options": ["5 D", "10 D", "Zero", "Infinite"],
+      "correctIndex": 2,
+      "explanation": "P1 = +5D, P2 = -5D. Total P = P1 + P2 = 0.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p9_q37",
+      "text": "A real image is formed by a convex lens when the object distance (u) is:",
+      "options": ["u < f", "u > f", "u = 0", "Always"],
+      "correctIndex": 1,
+      "explanation": "For a convex lens, if the object is beyond the focal point, the refracted rays converge to form a real image.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p9_q38",
+      "text": "Reflecting telescopes are preferred over refracting ones because:",
+      "options": ["No chromatic aberration", "Easier to support large mirrors", "Better light gathering", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Mirrors eliminate color distortion and are mechanically easier to build in large sizes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p9_q39",
+      "text": "What is the magnification of a telescope if fo = 150 cm and fe = 5 cm?",
+      "options": ["30", "155", "750", "0.03"],
+      "correctIndex": 0,
+      "explanation": "M = fo / fe = 150 / 5 = 30.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p9_q40",
+      "text": "Cartesian sign convention states that distances measured in the direction of incident light are:",
+      "options": ["Negative", "Positive", "Zero", "Variable"],
+      "correctIndex": 1,
+      "explanation": "By convention, the direction of incident light is taken as positive.",
+      "frequencyRating": 5
+    }
+  ]
+}

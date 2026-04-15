@@ -1,0 +1,330 @@
+{
+  "id": "g12_bio_ch9",
+  "grade": "12",
+  "subject": "Biology",
+  "number": "9",
+  "title": "Microbes in Human Welfare",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_b9_q1",
+      "text": "Which bacterium is responsible for converting milk into curd?",
+      "options": ["Streptococcus", "Lactobacillus", "Rhizobium", "Azotobacter"],
+      "correctIndex": 1,
+      "explanation": "Lactobacillus (LAB) produce acids that coagulate and partially digest the milk proteins.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q2",
+      "text": "Curd is more nutritious than milk because it contains high amounts of:",
+      "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+      "correctIndex": 1,
+      "explanation": "LAB increase the nutritional quality of curd by enriching it with Vitamin B12.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q3",
+      "text": "The large holes in Swiss cheese are due to the production of CO2 by:",
+      "options": ["Saccharomyces cerevisiae", "Propionibacterium sharmanii", "Penicillium roqueforti", "Aspergillus niger"],
+      "correctIndex": 1,
+      "explanation": "The bacterium Propionibacterium sharmanii releases large amounts of CO2 during fermentation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q4",
+      "text": "Baker's yeast is:",
+      "options": ["Saccharomyces cerevisiae", "Candida albicans", "Rhizopus", "Mucor"],
+      "correctIndex": 0,
+      "explanation": "It is used for fermenting dough in bread making.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q5",
+      "text": "'Toddy', a traditional drink of some parts of South India, is made by fermenting sap from:",
+      "options": ["Coconut", "Palms", "Rice", "Sugarcane"],
+      "correctIndex": 1,
+      "explanation": "Toddy is produced by the fermentation of sap from palm trees.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b9_q6",
+      "text": "The first antibiotic to be discovered was:",
+      "options": ["Streptomycin", "Penicillin", "Tetracycline", "Chloramphenicol"],
+      "correctIndex": 1,
+      "explanation": "Penicillin was discovered by Alexander Fleming from the mold Penicillium notatum.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q7",
+      "text": "Alexander Fleming discovered penicillin while working on which bacteria?",
+      "options": ["Staphylococci", "Streptococci", "E. coli", "Bacillus"],
+      "correctIndex": 0,
+      "explanation": "He observed that mold inhibited the growth of Staphylococcus bacteria.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b9_q8",
+      "text": "Which scientists were awarded the Nobel Prize for establishing the full potential of penicillin?",
+      "options": ["Fleming, Chain, and Florey", "Watson and Crick", "Beadle and Tatum", "Khorana and Nirenberg"],
+      "correctIndex": 0,
+      "explanation": "They were jointly awarded the prize in 1945.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q9",
+      "text": "Citric acid is produced by the fungus:",
+      "options": ["Acetobacter aceti", "Aspergillus niger", "Clostridium butylicum", "Lactobacillus"],
+      "correctIndex": 1,
+      "explanation": "Aspergillus niger is a fungus used for commercial production of citric acid.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q10",
+      "text": "Butyric acid is produced by which bacterium?",
+      "options": ["Acetobacter aceti", "Clostridium butylicum", "Lactobacillus", "Aspergillus"],
+      "correctIndex": 1,
+      "explanation": "Clostridium butylicum is the source of butyric acid.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q11",
+      "text": "Enzymes used in detergents to remove oily stains from laundry are:",
+      "options": ["Proteases", "Amylases", "Lipases", "Pectinases"],
+      "correctIndex": 2,
+      "explanation": "Lipases break down fats and oils, making them effective in detergents.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q12",
+      "text": "Bottled fruit juices are clearer than homemade ones because they are treated with:",
+      "options": ["Lipases", "Pectinases and Proteases", "Amylases", "Cellulases"],
+      "correctIndex": 1,
+      "explanation": "These enzymes break down the cell wall components and proteins that cause cloudiness.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q13",
+      "text": "Streptokinase, used as a 'clot buster', is obtained from:",
+      "options": ["Streptococcus", "Staphylococcus", "Monascus", "Trichoderma"],
+      "correctIndex": 0,
+      "explanation": "It is used to remove clots from blood vessels of patients with myocardial infarction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q14",
+      "text": "Cyclosporin A, an immunosuppressive agent, is produced by the fungus:",
+      "options": ["Monascus purpureus", "Trichoderma polysporum", "Aspergillus niger", "Penicillium"],
+      "correctIndex": 1,
+      "explanation": "It is essential for patients undergoing organ transplants to prevent rejection.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q15",
+      "text": "Statins, used for lowering blood cholesterol, are produced by:",
+      "options": ["Monascus purpureus", "Trichoderma", "Streptococcus", "Lactobacillus"],
+      "correctIndex": 0,
+      "explanation": "Statins act by competitively inhibiting the enzyme responsible for cholesterol synthesis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q16",
+      "text": "The primary treatment of sewage involves:",
+      "options": ["Biological digestion", "Physical removal of particles (filtration and sedimentation)", "Chemical treatment", "Chlorination"],
+      "correctIndex": 1,
+      "explanation": "Primary treatment deals with large and small particles through physical processes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q17",
+      "text": "The 'flocs' formed during secondary sewage treatment consist of:",
+      "options": ["Algae and Fungi", "Bacteria associated with fungal filaments", "Protozoa and Bacteria", "Viruses and Algae"],
+      "correctIndex": 1,
+      "explanation": "Flocs are mesh-like structures that help in the biological degradation of organic matter.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q18",
+      "text": "BOD (Biochemical Oxygen Demand) is a measure of:",
+      "options": ["Inorganic matter in water", "Organic matter in water", "Dissolved salts", "Total volume of water"],
+      "correctIndex": 1,
+      "explanation": "Higher BOD indicates more polluting potential and more organic matter in sewage.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q19",
+      "text": "During which stage of sewage treatment is biogas produced?",
+      "options": ["Primary treatment", "Aerobic secondary treatment", "Anaerobic sludge digestion", "Filtration"],
+      "correctIndex": 2,
+      "explanation": "Anaerobic bacteria digest the sludge, releasing gases like methane, H2S, and CO2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q20",
+      "text": "The main component of biogas is:",
+      "options": ["CO2", "H2S", "Methane (CH4)", "Oxygen"],
+      "correctIndex": 2,
+      "explanation": "Biogas is typically 50-70% methane, which is inflammable.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q21",
+      "text": "The bacteria present in the rumen of cattle and used in biogas plants are:",
+      "options": ["Methanogens", "Halophiles", "Thermoacidophiles", "Cyanobacteria"],
+      "correctIndex": 0,
+      "explanation": "Methanogens (like Methanobacterium) break down cellulose in anaerobic conditions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q22",
+      "text": "IARI and KVIC are associated with the development of technology for:",
+      "options": ["Sewage treatment", "Biogas production", "Antibiotic production", "DNA fingerprinting"],
+      "correctIndex": 1,
+      "explanation": "The Indian Agricultural Research Institute and Khadi and Village Industries Commission promoted biogas technology in India.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b9_q23",
+      "text": "The use of biological methods for controlling plant diseases and pests is:",
+      "options": ["Bioremediation", "Biocontrol", "Biopiracy", "Biomagnification"],
+      "correctIndex": 1,
+      "explanation": "Biocontrol reduces reliance on toxic chemical pesticides.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q24",
+      "text": "Which microbe is used to control butterfly caterpillars?",
+      "options": ["Trichoderma", "Bacillus thuringiensis (Bt)", "Baculoviruses", "Rhizobium"],
+      "correctIndex": 1,
+      "explanation": "Bt spores produce a toxin that kills the larvae when ingested.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q25",
+      "text": "Baculoviruses belong to the genus:",
+      "options": ["Nucleopolyhedrovirus", "Rhizopus", "Agrobacterium", "Methanobacterium"],
+      "correctIndex": 0,
+      "explanation": "They are excellent candidates for species-specific, narrow spectrum insecticidal applications.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q26",
+      "text": "Free-living fungi found in the root ecosystem that act as biocontrol agents are:",
+      "options": ["Aspergillus", "Trichoderma", "Glomus", "Mycorrhiza"],
+      "correctIndex": 1,
+      "explanation": "Trichoderma species are very common in the rhizosphere and protect plants from pathogens.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q27",
+      "text": "Organisms that enrich the nutrient quality of the soil are called:",
+      "options": ["Biocontrol agents", "Biofertilisers", "Pesticides", "Pathogens"],
+      "correctIndex": 1,
+      "explanation": "The main sources of biofertilisers are bacteria, fungi, and cyanobacteria.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q28",
+      "text": "Rhizobium forms a symbiotic association with the roots of:",
+      "options": ["Cereal plants", "Leguminous plants", "Mustard", "Palms"],
+      "correctIndex": 1,
+      "explanation": "It fixes atmospheric nitrogen into organic forms used by the plant.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q29",
+      "text": "Mycorrhiza is a symbiotic association between ________ and plants.",
+      "options": ["Bacteria", "Fungi", "Algae", "Viruses"],
+      "correctIndex": 1,
+      "explanation": "Fungal hyphae absorb phosphorus from the soil and pass it to the plant.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q30",
+      "text": "Which genus of fungi is commonly involved in mycorrhiza formation?",
+      "options": ["Glomus", "Trichoderma", "Aspergillus", "Penicillium"],
+      "correctIndex": 0,
+      "explanation": "Many members of the genus Glomus form mycorrhiza.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b9_q31",
+      "text": "Cyanobacteria that act as biofertilisers include:",
+      "options": ["Anabaena and Nostoc", "Rhizobium", "Lactobacillus", "Methanobacterium"],
+      "correctIndex": 0,
+      "explanation": "These autotrophic microbes can fix atmospheric nitrogen in aquatic and terrestrial environments.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q32",
+      "text": "In paddy fields, which organism serves as an important biofertiliser?",
+      "options": ["Fungi", "Cyanobacteria", "Rhizobium", "Glomus"],
+      "correctIndex": 1,
+      "explanation": "Cyanobacteria significantly increase the nitrogen content in rice fields.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b9_q33",
+      "text": "IPM stands for:",
+      "options": ["International Pest Management", "Integrated Pest Management", "Internal Plant Monitoring", "Integrated Plant Mutation"],
+      "correctIndex": 1,
+      "explanation": "IPM involves using biocontrol agents to maintain ecological balance while managing pests.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b9_q34",
+      "text": "Abo-fermented fish, soybean, and bamboo shoots are traditional foods of:",
+      "options": ["North India", "North-East India", "South India", "Western India"],
+      "correctIndex": 1,
+      "explanation": "Fermentation is a common food preservation technique in North-Eastern states.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_b9_q35",
+      "text": "Which of the following is NOT a benefit of mycorrhiza to the plant?",
+      "options": ["Resistance to root-borne pathogens", "Tolerance to salinity and drought", "Increase in nitrogen fixation", "Overall increase in plant growth"],
+      "correctIndex": 2,
+      "explanation": "Mycorrhiza primarily helps with phosphorus absorption, not nitrogen fixation (which is done by bacteria).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_b9_q36",
+      "text": "The puffed-up appearance of dough is due to the gas:",
+      "options": ["O2", "CO2", "NO2", "CH4"],
+      "correctIndex": 1,
+      "explanation": "CO2 released during fermentation by yeast causes the dough to rise.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b9_q37",
+      "text": "Azospirillum and Azotobacter are ________ nitrogen fixers.",
+      "options": ["Symbiotic", "Free-living", "Pathogenic", "Anaerobic"],
+      "correctIndex": 1,
+      "explanation": "These bacteria fix nitrogen while living freely in the soil.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b9_q38",
+      "text": "Ladybirds and Dragonflies are used to get rid of:",
+      "options": ["Mosquitoes and Aphids", "Bacteria", "Fungi", "Caterpillars"],
+      "correctIndex": 0,
+      "explanation": "They are natural predators used in biological control.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b9_q39",
+      "text": "The effluent from the secondary treatment is generally released into:",
+      "options": ["Biogas plants", "Drinking water tanks", "Natural water bodies like rivers", "Underground soil"],
+      "correctIndex": 2,
+      "explanation": "After reducing BOD, the water is safe enough to be released into nature.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b9_q40",
+      "text": "Which microbe produces acetic acid?",
+      "options": ["Acetobacter aceti", "Aspergillus niger", "Lactobacillus", "Saccharomyces"],
+      "correctIndex": 0,
+      "explanation": "Acetobacter aceti is a bacterium used for vinegar production.",
+      "frequencyRating": 5
+    }
+  ]
+}

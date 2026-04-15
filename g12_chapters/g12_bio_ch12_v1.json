@@ -1,0 +1,330 @@
+{
+  "id": "g12_bio_ch12",
+  "grade": "12",
+  "subject": "Biology",
+  "number": "12",
+  "title": "Ecosystem",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_b12_q1",
+      "text": "Who is considered the 'Functional unit of Nature'?",
+      "options": ["Species", "Population", "Ecosystem", "Biome"],
+      "correctIndex": 2,
+      "explanation": "An ecosystem is where living organisms interact among themselves and with the surrounding physical environment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q2",
+      "text": "Which of the following is a man-made (artificial) ecosystem?",
+      "options": ["Forest", "Pond", "Crop field", "Lake"],
+      "correctIndex": 2,
+      "explanation": "Crop fields and aquaria are managed by humans and are thus artificial.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q3",
+      "text": "Vertical distribution of different species occupying different levels in an ecosystem is:",
+      "options": ["Stratification", "Zonation", "Succession", "Niche"],
+      "correctIndex": 0,
+      "explanation": "For example, in a forest, trees occupy top, shrubs middle, and herbs bottom strata.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q4",
+      "text": "The rate of biomass production is called:",
+      "options": ["Productivity", "Decomposition", "Energy flow", "Respiration"],
+      "correctIndex": 0,
+      "explanation": "Productivity is expressed in g m⁻² yr⁻¹ or kcal m⁻² yr⁻¹.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q5",
+      "text": "Primary productivity depends on:",
+      "options": ["Plant species", "Photosynthetic capacity", "Availability of nutrients", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "It is the amount of biomass produced per unit area over time by plants.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q6",
+      "text": "Net Primary Productivity (NPP) is equal to:",
+      "options": ["GPP + R", "GPP - R", "GPP / R", "Total biomass"],
+      "correctIndex": 1,
+      "explanation": "NPP is GPP minus respiration losses (R). It is the available biomass for heterotrophs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q7",
+      "text": "The rate of formation of new organic matter by consumers is called:",
+      "options": ["Primary productivity", "Secondary productivity", "Net productivity", "Gross productivity"],
+      "correctIndex": 1,
+      "explanation": "Secondary productivity refers to the energy stored by consumers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q8",
+      "text": "What is the annual NPP of the whole biosphere?",
+      "options": ["170 billion tons", "55 billion tons", "115 billion tons", "200 billion tons"],
+      "correctIndex": 0,
+      "explanation": "The ocean's contribution is surprisingly low (55 billion tons) despite covering 70% of Earth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q9",
+      "text": "Detritus refers to:",
+      "options": ["Live plants", "Dead plant and animal remains", "Rocks", "Water pollutants"],
+      "correctIndex": 1,
+      "explanation": "Dead leaves, bark, flowers, and fecal matter constitute detritus.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q10",
+      "text": "Which step of decomposition involves breaking detritus into smaller particles by earthworms?",
+      "options": ["Fragmentation", "Leaching", "Catabolism", "Humification"],
+      "correctIndex": 0,
+      "explanation": "Earthworms are called 'friends of farmers' because they perform fragmentation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q11",
+      "text": "Humus is highly resistant to microbial action and undergoes decomposition at an:",
+      "options": ["Extremely fast rate", "Extremely slow rate", "Moderate rate", "Cannot be decomposed"],
+      "correctIndex": 1,
+      "explanation": "Humus is a dark, amorphous substance that serves as a nutrient reservoir.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b12_q12",
+      "text": "The process where water-soluble inorganic nutrients go down into the soil is:",
+      "options": ["Catabolism", "Leaching", "Humification", "Mineralisation"],
+      "correctIndex": 1,
+      "explanation": "Nutrients get precipitated as unavailable salts deep in the soil.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q13",
+      "text": "Decomposition rate is slower if detritus is rich in:",
+      "options": ["Nitrogen", "Sugars", "Lignin and chitin", "Water"],
+      "correctIndex": 2,
+      "explanation": "Lignin and chitin are complex substances difficult to break down.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q14",
+      "text": "What percentage of incident solar radiation is PAR (Photosynthetically Active Radiation)?",
+      "options": ["> 90%", "< 50%", "10-20%", "2-10%"],
+      "correctIndex": 1,
+      "explanation": "Of the incident solar radiation, less than 50% is PAR.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q15",
+      "text": "Plants capture only ________ of the PAR.",
+      "options": ["10-20%", "2-10%", "50%", "1%"],
+      "correctIndex": 1,
+      "explanation": "This small amount of energy sustains the entire living world.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q16",
+      "text": "Energy flow in an ecosystem is always:",
+      "options": ["Unidirectional", "Bidirectional", "Multidirectional", "Cyclic"],
+      "correctIndex": 0,
+      "explanation": "Energy flows from producers to consumers and never back to the sun.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q17",
+      "text": "Lindeman's 10 percent law states that:",
+      "options": ["10% energy is lost", "10% energy is transferred to next level", "90% energy is transferred", "No energy is lost"],
+      "correctIndex": 1,
+      "explanation": "Only 10% of energy at one trophic level is available to the next higher level.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q18",
+      "text": "In an aquatic ecosystem, the major conduit for energy flow is:",
+      "options": ["Detritus Food Chain (DFC)", "Grazing Food Chain (GFC)", "Parasitic Food Chain", "Saprophytic Chain"],
+      "correctIndex": 1,
+      "explanation": "In water bodies, GFC is more significant than DFC.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q19",
+      "text": "The mass of living material at a particular time at a trophic level is:",
+      "options": ["Standing state", "Standing crop", "Net primary mass", "Biomass"],
+      "correctIndex": 1,
+      "explanation": "Standing crop is measured as the mass of living organisms (biomass) or the number in a unit area.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q20",
+      "text": "The pyramid of biomass in the sea is generally:",
+      "options": ["Upright", "Inverted", "Spindle shaped", "Bell shaped"],
+      "correctIndex": 1,
+      "explanation": "Because the biomass of fish exceeds that of phytoplankton.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q21",
+      "text": "Which pyramid is ALWAYS upright?",
+      "options": ["Pyramid of Number", "Pyramid of Biomass", "Pyramid of Energy", "None"],
+      "correctIndex": 2,
+      "explanation": "Energy can never be created or recycled as it moves up; it is always lost as heat.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q22",
+      "text": "Primary succession occurs on:",
+      "options": ["Abandoned farmland", "Burned forest", "Newly cooled lava", "Flooded land"],
+      "correctIndex": 2,
+      "explanation": "Primary succession starts where no living organisms ever existed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q23",
+      "text": "The final stable community in ecological succession is called:",
+      "options": ["Pioneer community", "Seral community", "Climax community", "Transit community"],
+      "correctIndex": 2,
+      "explanation": "The climax community is in equilibrium with the environment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q24",
+      "text": "In Hydrarch succession, the climax community is a:",
+      "options": ["Forest", "Desert", "Swamp", "Marsh"],
+      "correctIndex": 0,
+      "explanation": "Both hydrarch and xerarch successions lead eventually to a mesic (forest) condition.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b12_q25",
+      "text": "The pioneer species on a bare rock are usually:",
+      "options": ["Mosses", "Lichens", "Higher plants", "Ferns"],
+      "correctIndex": 1,
+      "explanation": "Lichens secrete acids to dissolve rock and help in soil formation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q26",
+      "text": "Standing state refers to the amount of ________ in the soil at any time.",
+      "options": ["Biomass", "Inorganic nutrients (C, N, P, Ca)", "Water", "Living organisms"],
+      "correctIndex": 1,
+      "explanation": "Standing state deals with non-living nutrients, while standing crop deals with living matter.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q27",
+      "text": "The reservoir for the gaseous type of nutrient cycle is:",
+      "options": ["Earth's crust", "Atmosphere", "Ocean", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "Carbon and Nitrogen cycles have reservoirs in the atmosphere or hydrosphere.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b12_q28",
+      "text": "Phosphorus cycle is an example of:",
+      "options": ["Gaseous cycle", "Sedimentary cycle", "Hydrological cycle", "None"],
+      "correctIndex": 1,
+      "explanation": "Its reservoir is located in the Earth's crust (rocks).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q29",
+      "text": "What percentage of an organism's dry weight is Carbon?",
+      "options": ["10%", "49%", "71%", "1%"],
+      "correctIndex": 1,
+      "explanation": "Carbon is next only to water in concentration within organisms.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b12_q30",
+      "text": "What percentage of global carbon is dissolved in oceans?",
+      "options": ["1%", "49%", "71%", "90%"],
+      "correctIndex": 2,
+      "explanation": "Oceanic carbon is the major regulator of CO₂ in the atmosphere.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q31",
+      "text": "Which of the following is NOT a functional component of an ecosystem?",
+      "options": ["Productivity", "Decomposition", "Stratification", "Nutrient cycling"],
+      "correctIndex": 2,
+      "explanation": "Stratification is a structural component, not a functional one.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_b12_q32",
+      "text": "The ecological pyramid of numbers for a single big tree supporting many birds is:",
+      "options": ["Upright", "Inverted", "Spindle shaped", "Horizontal"],
+      "correctIndex": 1,
+      "explanation": "One tree (base) supports many birds (higher level).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b12_q33",
+      "text": "Saprophytes are placed in which trophic level in the food chain?",
+      "options": ["First", "Second", "Last", "Not included"],
+      "correctIndex": 3,
+      "explanation": "Despite their vital role, decomposers are not given a place in traditional ecological pyramids.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b12_q34",
+      "text": "Secondary succession is ________ than primary succession.",
+      "options": ["Slower", "Faster", "Equal in speed", "Unpredictable"],
+      "correctIndex": 1,
+      "explanation": "Because some soil or sediment is already present.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q35",
+      "text": "What is the pioneer species in Hydrarch succession?",
+      "options": ["Submerged plants", "Phytoplankton", "Floating plants", "Lichens"],
+      "correctIndex": 1,
+      "explanation": "The successional series in water starts with microscopic phytoplankton.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b12_q36",
+      "text": "The products of ecosystem processes are called:",
+      "options": ["Ecosystem services", "Succession products", "Biomass", "Climax"],
+      "correctIndex": 0,
+      "explanation": "Examples include healthy soil, pure water, and pollination.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q37",
+      "text": "Who gave a price tag to ecosystem services?",
+      "options": ["Robert Brown", "Robert Costanza", "Robert Hooke", "Ramdeo Misra"],
+      "correctIndex": 1,
+      "explanation": "He estimated the value of nature's services at US $33 trillion a year.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b12_q38",
+      "text": "Which of the following contributes to carbon returning to the atmosphere?",
+      "options": ["Respiration", "Photosynthesis", "Formation of rocks", "Both A and C"],
+      "correctIndex": 0,
+      "explanation": "Burning of fossil fuels and respiration release CO₂.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b12_q39",
+      "text": "Major reservoir of Phosphorus is:",
+      "options": ["Rocks", "Oceans", "Atmosphere", "Plants"],
+      "correctIndex": 0,
+      "explanation": "Weathering of rocks releases phosphates into the soil solution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b12_q40",
+      "text": "The number of trophic levels in a food chain is restricted because:",
+      "options": ["Energy transfer is inefficient", "Organisms are small", "Competition is high", "Predators are few"],
+      "correctIndex": 0,
+      "explanation": "Only 10% energy moves up, so after 4-5 levels, there isn't enough energy to support another level.",
+      "frequencyRating": 5
+    }
+  ]
+}

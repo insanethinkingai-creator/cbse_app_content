@@ -1,0 +1,330 @@
+{
+  "id": "g12_math_ch8",
+  "grade": "12",
+  "subject": "Mathematics",
+  "number": "8",
+  "title": "Application of Integrals",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_m8_q1",
+      "text": "The area bounded by the curve y = f(x), x-axis and the ordinates x = a and x = b is given by:",
+      "options": ["∫[a,b] y dx", "∫[a,b] x dy", "∫[a,b] y² dx", "2 * ∫[a,b] y dx"],
+      "correctIndex": 0,
+      "explanation": "This is the fundamental formula for finding the area under a curve relative to the x-axis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m8_q2",
+      "text": "The area bounded by the curve x = g(y), y-axis and the lines y = c and y = d is given by:",
+      "options": ["∫[c,d] y dx", "∫[c,d] x dy", "∫[c,d] x² dy", "None of these"],
+      "correctIndex": 1,
+      "explanation": "When the curve is defined as a function of y, we integrate with respect to y between horizontal boundaries.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m8_q3",
+      "text": "The area of the circle x² + y² = a² is:",
+      "options": ["πa", "πa²", "2πa", "4πa"],
+      "correctIndex": 1,
+      "explanation": "While known from geometry, this is derived by integrating y = √(a² - x²) from -a to a.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m8_q4",
+      "text": "The area of the region bounded by the parabola y² = 4ax and its latus rectum is:",
+      "options": ["8a²/3", "4a²/3", "2a²/3", "16a²/3"],
+      "correctIndex": 0,
+      "explanation": "The latus rectum is x = a. Integrating 2 * ∫[0,a] √(4ax) dx gives 8a²/3.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m8_q5",
+      "text": "The area of the ellipse x²/a² + y²/b² = 1 is:",
+      "options": ["πa²", "πb²", "πab", "4πab"],
+      "correctIndex": 2,
+      "explanation": "Derived by integrating y = (b/a)√(a² - x²) over the interval [-a, a] and doubling for both halves.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m8_q6",
+      "text": "Area bounded by y = sin x between x = 0 and x = π is:",
+      "options": ["1", "2", "π", "0"],
+      "correctIndex": 1,
+      "explanation": "∫[0,π] sin x dx = [-cos x] from 0 to π = -(-1) - (-1) = 2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m8_q7",
+      "text": "The area of the region bounded by the curve y = cos x between x = 0 and x = 2π is:",
+      "options": ["0", "2", "4", "π"],
+      "correctIndex": 2,
+      "explanation": "The area is the sum of absolute values of integrals over [0, π/2], [π/2, 3π/2], and [3π/2, 2π], which is 1 + 2 + 1 = 4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m8_q8",
+      "text": "If the area is below the x-axis, the integral ∫ y dx will be ________, but the area is taken as ________.",
+      "options": ["Positive, negative", "Negative, absolute value", "Zero, positive", "Infinite, finite"],
+      "correctIndex": 1,
+      "explanation": "Area is a physical quantity and must be non-negative; we take the modulus of the definite integral.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m8_q9",
+      "text": "The area bounded by the line y = x, x-axis and lines x = 0 to x = 2 is:",
+      "options": ["1", "2", "4", "0.5"],
+      "correctIndex": 1,
+      "explanation": "∫[0,2] x dx = [x²/2] from 0 to 2 = 4/2 = 2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m8_q10",
+      "text": "The area bounded by the parabola x² = y and the line y = 4 is:",
+      "options": ["32/3", "16/3", "8/3", "4/3"],
+      "correctIndex": 0,
+      "explanation": "The region is symmetric. Area = 2 * ∫[0,4] √y dy = 2 * [2/3 y^(3/2)] from 0 to 4 = 4/3 * 8 = 32/3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m8_q11",
+      "text": "Area of the region bounded by y² = x and the lines x = 1, x = 4 and the x-axis in the first quadrant is:",
+      "options": ["14/3", "7/3", "16/3", "17/3"],
+      "correctIndex": 0,
+      "explanation": "∫[1,4] √x dx = [2/3 x^(3/2)] from 1 to 4 = 2/3 (8 - 1) = 14/3.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m8_q12",
+      "text": "The area bounded by the curve y = x³, x-axis and ordinates x = -2 and x = 1 is:",
+      "options": ["-15/4", "15/4", "17/4", "9/4"],
+      "correctIndex": 2,
+      "explanation": "Area = |∫[-2,0] x³ dx| + |∫[0,1] x³ dx| = |-4| + 1/4 = 4.25 = 17/4.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m8_q13",
+      "text": "The area of the region bounded by y = |x - 1| and y = 3 is:",
+      "options": ["3", "6", "9", "12"],
+      "correctIndex": 2,
+      "explanation": "This forms a triangle with base from x=-2 to x=4 (length 6) and height 3. Area = 1/2 * 6 * 3 = 9.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m8_q14",
+      "text": "Area between the curves y = x² and y = x is:",
+      "options": ["1/2", "1/3", "1/6", "1/4"],
+      "correctIndex": 2,
+      "explanation": "Intersection points are (0,0) and (1,1). ∫[0,1] (x - x²) dx = [x²/2 - x³/3] = 1/2 - 1/3 = 1/6.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m8_q15",
+      "text": "The area of the region {(x,y) : x² ≤ y ≤ x} is:",
+      "options": ["1/6", "1/3", "1/2", "5/6"],
+      "correctIndex": 0,
+      "explanation": "This is the same as the area between y=x and y=x².",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m8_q16",
+      "text": "Area bounded by the curve y = eˣ, the y-axis and the line y = e is:",
+      "options": ["e", "1", "e - 1", "e + 1"],
+      "correctIndex": 1,
+      "explanation": "Area = ∫[1,e] ln y dy = [y ln y - y] from 1 to e = (e - e) - (0 - 1) = 1.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m8_q17",
+      "text": "The area of the region bounded by the curve y² = 4x and y = 2x is:",
+      "options": ["2/3", "1/3", "1/4", "3/4"],
+      "correctIndex": 1,
+      "explanation": "Intersects at (0,0) and (1,2). ∫[0,1] (2√x - 2x) dx = [2 * 2/3 x^(3/2) - x²] = 4/3 - 1 = 1/3.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m8_q18",
+      "text": "The area of the region bounded by the parabola y² = 16x and the line y = mx is 2/3. Then m is:",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 3,
+      "explanation": "Using area formula for y²=4ax and y=mx: 8a²/(3m³). 8(4)²/(3m³) = 2/3 => 128/m³ = 2 => m³ = 64 => m=4.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_m8_q19",
+      "text": "Area bounded by y = log x, x-axis and x = 2 is:",
+      "options": ["2 log 2 - 1", "2 log 2 + 1", "log 2", "log 2 - 1"],
+      "correctIndex": 0,
+      "explanation": "∫[1,2] log x dx = [x log x - x] from 1 to 2 = (2 log 2 - 2) - (0 - 1) = 2 log 2 - 1.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m8_q20",
+      "text": "Which method is commonly used to find the area of a region bounded by a curve and a line?",
+      "options": ["Differentiation", "Definite Integration", "Vector Triple Product", "Probability"],
+      "correctIndex": 1,
+      "explanation": "Definite integration serves as a tool to calculate the area of planar regions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m8_q21",
+      "text": "The area of the region bounded by the circle x² + y² = 1 is divided into two parts by the line x = 1/2. The area of the smaller part is:",
+      "options": ["π/3 - √3/4", "π/3 + √3/4", "π/6 - √3/4", "2π/3"],
+      "correctIndex": 0,
+      "explanation": "Area = 2 * ∫[1/2, 1] √(1 - x²) dx. Using standard formula gives π/3 - √3/4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m8_q22",
+      "text": "The area bounded by x² = 4y and the line x = 4y - 2 is:",
+      "options": ["3/8", "5/8", "7/8", "9/8"],
+      "correctIndex": 3,
+      "explanation": "Integration results in 9/8 sq units after finding points of intersection.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m8_q23",
+      "text": "Area of the region bounded by y = √x and y = x is:",
+      "options": ["1/6", "1/3", "2/3", "1"],
+      "correctIndex": 0,
+      "explanation": "∫[0,1] (√x - x) dx = [2/3 x^(3/2) - x²/2] = 2/3 - 1/2 = 1/6.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m8_q24",
+      "text": "Area bounded by the curve y = x |x|, x-axis and ordinates x = -1 and x = 1 is:",
+      "options": ["0", "1/3", "2/3", "1"],
+      "correctIndex": 2,
+      "explanation": "Area = ∫[-1,0] -x² dx + ∫[0,1] x² dx (magnitudes). Both are 1/3, total = 2/3.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m8_q25",
+      "text": "The area of the region bounded by the curve y = cos x, x-axis and lines x = 0, x = π is:",
+      "options": ["0", "1", "2", "4"],
+      "correctIndex": 2,
+      "explanation": "Area = |∫[0,π/2] cos x dx| + |∫[π/2,π] cos x dx| = 1 + 1 = 2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m8_q26",
+      "text": "If we integrate along the y-axis, the differential element is:",
+      "options": ["dx", "dy", "ds", "dr"],
+      "correctIndex": 1,
+      "explanation": "For horizontal strips, we sum up x * dy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m8_q27",
+      "text": "Area of the region bounded by y = x² + 2, y = x, x = 0 and x = 3 is:",
+      "options": ["21/2", "15/2", "13/2", "17/2"],
+      "correctIndex": 0,
+      "explanation": "∫[0,3] (x² + 2 - x) dx = [x³/3 + 2x - x²/2] = 9 + 6 - 4.5 = 10.5 = 21/2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m8_q28",
+      "text": "The area of the circle x² + y² = 16 is:",
+      "options": ["4π", "8π", "16π", "32π"],
+      "correctIndex": 2,
+      "explanation": "Radius is 4, so area = π(4)² = 16π.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m8_q29",
+      "text": "The area bounded by y = √a²-x² and x-axis is:",
+      "options": ["πa²", "πa²/2", "πa²/4", "2πa²"],
+      "correctIndex": 1,
+      "explanation": "This represents a semi-circle of radius a.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m8_q30",
+      "text": "Area of the region bounded by x² = 4y, y = 2, y = 4 and the y-axis in the first quadrant is:",
+      "options": ["(32-8√2)/3", "√2", "16/3", "None"],
+      "correctIndex": 0,
+      "explanation": "∫[2,4] 2√y dy = 2 * [2/3 y^(3/2)] from 2 to 4 = 4/3 (8 - 2√2).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m8_q31",
+      "text": "Find the area of the region bounded by the curve y = x² and the line y = 4.",
+      "options": ["32/3", "16/3", "8/3", "None"],
+      "correctIndex": 0,
+      "explanation": "Intersection at x = ±2. Area = ∫[-2,2] (4 - x²) dx = [4x - x³/3] = (8 - 8/3) - (-8 + 8/3) = 16/3 + 16/3 = 32/3.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m8_q32",
+      "text": "The area of the region bounded by y² = x, x-axis and the ordinate x = 4 is:",
+      "options": ["4/3", "8/3", "16/3", "32/3"],
+      "correctIndex": 2,
+      "explanation": "Assumed first quadrant: ∫[0,4] √x dx = 2/3 (4)^(3/2) = 16/3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m8_q33",
+      "text": "Area of region bounded by y = x⁴, x = 1, x = 5 and x-axis is:",
+      "options": ["(5⁵-1)/5", "3124/5", "Both A and B", "None"],
+      "correctIndex": 2,
+      "explanation": "∫[1,5] x⁴ dx = [x⁵/5] = (3125 - 1)/5 = 3124/5.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m8_q34",
+      "text": "The area of the region bounded by the curve y = 1/x, x-axis and x = 1, x = e is:",
+      "options": ["1", "e", "log e", "0"],
+      "correctIndex": 0,
+      "explanation": "∫[1,e] 1/x dx = [ln x] = ln e - ln 1 = 1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m8_q35",
+      "text": "Which theorem is used to prove that the area under a curve is equal to the integral?",
+      "options": ["Rolle's Theorem", "Mean Value Theorem", "Fundamental Theorem of Calculus", "Taylor's Theorem"],
+      "correctIndex": 2,
+      "explanation": "The FTC connects differentiation and integration, allowing area calculation via antiderivatives.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m8_q36",
+      "text": "Area of triangle with vertices (0,0), (a,0) and (0,b) using integration is:",
+      "options": ["ab", "ab/2", "a+b", "√(a²+b²)"],
+      "correctIndex": 1,
+      "explanation": "The hypotenuse is y = -b/a x + b. ∫[0,a] (-b/a x + b) dx = ab/2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m8_q37",
+      "text": "Area between y² = 4x and x² = 4y is:",
+      "options": ["16/3", "8/3", "4/3", "32/3"],
+      "correctIndex": 0,
+      "explanation": "Intersection at (0,0) and (4,4). ∫[0,4] (2√x - x²/4) dx = 16/3.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m8_q38",
+      "text": "The area of the region bounded by y = x² and y = |x| is:",
+      "options": ["1/6", "1/3", "2/3", "1"],
+      "correctIndex": 1,
+      "explanation": "Symmetric region. 2 * ∫[0,1] (x - x²) dx = 2 * (1/6) = 1/3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m8_q39",
+      "text": "The area bounded by x = 2y - y² and the y-axis is:",
+      "options": ["4/3", "2/3", "1/3", "1"],
+      "correctIndex": 0,
+      "explanation": "∫[0,2] (2y - y²) dy = [y² - y³/3] from 0 to 2 = 4 - 8/3 = 4/3.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m8_q40",
+      "text": "Area of one arch of the cycloid x = a(θ-sinθ), y = a(1-cosθ) is:",
+      "options": ["πa²", "2πa²", "3πa²", "4πa²"],
+      "correctIndex": 2,
+      "explanation": "∫ y dx = ∫[0,2π] a(1-cosθ) * a(1-cosθ) dθ = 3πa².",
+      "frequencyRating": 2
+    }
+  ]
+}

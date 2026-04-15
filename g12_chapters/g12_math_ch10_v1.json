@@ -1,0 +1,332 @@
+{
+  "id": "g12_math_ch10",
+  "grade": "12",
+  "subject": "Mathematics",
+  "number": "10",
+  "title": "Vector Algebra",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_m10_q1",
+      "text": "A quantity that has both magnitude and direction is called a:",
+      "options": ["Scalar", "Vector", "Tensor", "Constant"],
+      "correctIndex": 1,
+      "explanation": "Vectors require both specifications to be fully defined.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m10_q2",
+      "text": "The magnitude of a vector a = xi + yj + zk is given by:",
+      "options": ["x + y + z", "√(x² + y² + z²)", "x² + y² + z²", "xyz"],
+      "correctIndex": 1,
+      "explanation": "This is the distance formula from the origin in 3D space.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m10_q3",
+      "text": "A vector whose magnitude is unity is called a:",
+      "options": ["Zero vector", "Unit vector", "Equal vector", "Co-initial vector"],
+      "correctIndex": 1,
+      "explanation": "Unit vectors are used to specify direction; denoted by a cap (â).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m10_q4",
+      "text": "Vectors having the same initial point are called:",
+      "options": ["Collinear vectors", "Co-initial vectors", "Like vectors", "Equal vectors"],
+      "correctIndex": 1,
+      "explanation": "By definition, co-initial vectors start from the same point.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m10_q5",
+      "text": "The position vector of a point P(x, y, z) is:",
+      "options": ["xi + yj + zk", "x + y + z", "(x,y,z)", "i + j + k"],
+      "correctIndex": 0,
+      "explanation": "It represents the vector from the origin O(0,0,0) to point P.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m10_q6",
+      "text": "If a and b are two collinear vectors, then which of the following is true?",
+      "options": ["b = λa for some scalar λ", "a = ±b", "They have same direction", "All of these"],
+      "correctIndex": 0,
+      "explanation": "Collinearity implies they are parallel, so one is a scalar multiple of the other.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m10_q7",
+      "text": "The unit vector in the direction of vector a is:",
+      "options": ["a / |a|", "|a| / a", "a * |a|", "a + |a|"],
+      "correctIndex": 0,
+      "explanation": "Dividing a vector by its magnitude results in a vector of length 1 in the same direction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m10_q8",
+      "text": "The direction cosines l, m, n of a vector satisfy the relation:",
+      "options": ["l + m + n = 1", "l² + m² + n² = 1", "l² + m² + n² = 0", "lmn = 1"],
+      "correctIndex": 1,
+      "explanation": "The sum of squares of direction cosines is always unity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m10_q9",
+      "text": "The scalar product (dot product) of two vectors a and b is:",
+      "options": ["|a||b| sin θ", "|a||b| cos θ", "|a||b| tan θ", "ab"],
+      "correctIndex": 1,
+      "explanation": "a . b = |a||b| cos θ, where θ is the angle between them.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m10_q10",
+      "text": "If the dot product of two non-zero vectors is zero, then the vectors are:",
+      "options": ["Parallel", "Perpendicular", "Equal", "Coincident"],
+      "correctIndex": 1,
+      "explanation": "a . b = 0 implies cos θ = 0, so θ = 90°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m10_q11",
+      "text": "The value of i . i is:",
+      "options": ["0", "1", "i", "-1"],
+      "correctIndex": 1,
+      "explanation": "Dot product of a unit vector with itself is 1 (cos 0 = 1).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m10_q12",
+      "text": "The value of i . j is:",
+      "options": ["1", "0", "k", "-k"],
+      "correctIndex": 1,
+      "explanation": "i and j are orthogonal (perpendicular), so their dot product is 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m10_q13",
+      "text": "The projection of vector a on vector b is given by:",
+      "options": ["(a . b) / |b|", "(a . b) / |a|", "a . b", "a x b"],
+      "correctIndex": 0,
+      "explanation": "It is the scalar component of a in the direction of b.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m10_q14",
+      "text": "The vector product (cross product) of two vectors a and b is:",
+      "options": ["|a||b| cos θ n̂", "|a||b| sin θ n̂", "|a||b| sin θ", "a . b"],
+      "correctIndex": 1,
+      "explanation": "The result of a cross product is a vector perpendicular to both a and b.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m10_q15",
+      "text": "The magnitude of a x b represents the ________ of a parallelogram with sides a and b.",
+      "options": ["Perimeter", "Area", "Volume", "Diagonal length"],
+      "correctIndex": 1,
+      "explanation": "Area = |a x b| = |a||b| sin θ.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m10_q16",
+      "text": "The value of i x i is:",
+      "options": ["1", "0", "k", "Vector 0"],
+      "correctIndex": 3,
+      "explanation": "Cross product of a vector with itself is the zero vector (sin 0 = 0).",
+      "correctIndex": 3,
+      "explanation": "The cross product of any vector with itself is the zero vector.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m10_q17",
+      "text": "According to the right-hand screw rule, i x j equals:",
+      "options": ["0", "1", "k", "-k"],
+      "correctIndex": 2,
+      "explanation": "In a right-handed system, the cross product of i and j is k.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m10_q18",
+      "text": "The area of a triangle with adjacent sides as vectors a and b is:",
+      "options": ["|a x b|", "1/2 |a x b|", "a . b", "1/2 (a . b)"],
+      "correctIndex": 1,
+      "explanation": "It is half the area of the corresponding parallelogram.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m10_q19",
+      "text": "If a = 2i + j + 3k and b = 3i + 5j - 2k, then a . b is:",
+      "options": ["6", "5", "-6", "5"],
+      "correctIndex": 1,
+      "explanation": "a . b = (2*3) + (1*5) + (3*-2) = 6 + 5 - 6 = 5.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m10_q20",
+      "text": "Two vectors are equal if they have:",
+      "options": ["Same magnitude", "Same direction", "Same magnitude and direction", "Same initial point"],
+      "correctIndex": 2,
+      "explanation": "Equality of vectors is independent of their position in space (unless they are localized vectors).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m10_q21",
+      "text": "Direction ratios of a vector xi + yj + zk are:",
+      "options": ["x, y, z", "x², y², z²", "1/x, 1/y, 1/z", "None"],
+      "correctIndex": 0,
+      "explanation": "The components x, y, z serve as direction ratios.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m10_q22",
+      "text": "If |a| = 2, |b| = 5 and |a x b| = 8, then a . b is:",
+      "options": ["6", "±6", "√36", "10"],
+      "correctIndex": 1,
+      "explanation": "sin θ = 8/(2*5) = 0.8. cos θ = ±√(1 - 0.8²) = ±0.6. a . b = 2 * 5 * (±0.6) = ±6.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m10_q23",
+      "text": "Which property does the cross product NOT follow?",
+      "options": ["Distributive", "Commutative", "Scalar associativity", "None"],
+      "correctIndex": 1,
+      "explanation": "a x b = -(b x a), so it is anti-commutative.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m10_q24",
+      "text": "The vector joining points P(x1, y1, z1) and Q(x2, y2, z2) is:",
+      "options": ["(x2-x1)i + (y2-y1)j + (z2-z1)k", "(x1+x2)i + (y1+y2)j + (z1+z2)k", "xi + yj + zk", "PQ"],
+      "correctIndex": 0,
+      "explanation": "Vector PQ = Position vector of Q - Position vector of P.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m10_q25",
+      "text": "Scalar triple product [a b c] represents the ________ of a parallelepiped.",
+      "options": ["Surface Area", "Volume", "Diagonal", "Sum of edges"],
+      "correctIndex": 1,
+      "explanation": "[a b c] = a . (b x c) gives the volume.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m10_q26",
+      "text": "If [a b c] = 0, then the vectors a, b, c are:",
+      "options": ["Perpendicular", "Coplanar", "Unit vectors", "Parallel"],
+      "correctIndex": 1,
+      "explanation": "Zero volume implies the vectors lie in the same plane.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m10_q27",
+      "text": "The angle between two vectors a and b can be found using:",
+      "options": ["cos θ = (a.b) / (|a||b|)", "sin θ = |axb| / (|a||b|)", "Both A and B", "tan θ = a.b"],
+      "correctIndex": 2,
+      "explanation": "Both dot and cross product definitions can be rearranged to find the angle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m10_q28",
+      "text": "For any vector a, a . a is equal to:",
+      "options": ["a²", "|a|²", "1", "0"],
+      "correctIndex": 1,
+      "explanation": "The dot product of a vector with itself is the square of its magnitude.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m10_q29",
+      "text": "The section formula for internal division of PQ by point R in ratio m:n is:",
+      "options": ["(mb + na) / (m + n)", "(ma + nb) / (m + n)", "(mb - na) / (m - n)", "a + b"],
+      "correctIndex": 0,
+      "explanation": "Standard formula where a and b are position vectors of P and Q.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m10_q30",
+      "text": "Find the unit vector in direction of 3i + 4j:",
+      "options": ["(3i + 4j)/5", "(3i + 4j)/25", "3i/5 + 4j/5", "Both A and C"],
+      "correctIndex": 3,
+      "explanation": "Magnitude = √(3² + 4²) = 5. Unit vector = (3/5)i + (4/5)j.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m10_q31",
+      "text": "If a is a non-zero vector of magnitude 'a' and λ is a non-zero scalar, then λa is a unit vector if:",
+      "options": ["λ = 1", "λ = -1", "a = |λ|", "a = 1/|λ|"],
+      "correctIndex": 3,
+      "explanation": "|λa| = 1 => |λ||a| = 1 => a = 1/|λ|.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m10_q32",
+      "text": "The value of i . (j x k) + j . (i x k) + k . (i x j) is:",
+      "options": ["1", "3", "0", "-1"],
+      "correctIndex": 0,
+      "explanation": "i.(i) + j.(-j) + k.(k) = 1 - 1 + 1 = 1.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m10_q33",
+      "text": "If θ is the angle between two vectors a and b, then |a.b| = |axb| when θ is:",
+      "options": ["0", "π/4", "π/2", "π"],
+      "correctIndex": 1,
+      "explanation": "cos θ = sin θ => tan θ = 1 => θ = 45° or π/4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m10_q34",
+      "text": "The direction cosines of y-axis are:",
+      "options": ["(1, 0, 0)", "(0, 1, 0)", "(0, 0, 1)", "(1, 1, 1)"],
+      "correctIndex": 1,
+      "explanation": "y-axis makes 90, 0, 90 degrees with x, y, z axes respectively.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m10_q35",
+      "text": "Work done by a force F in displacing a body through d is:",
+      "options": ["F x d", "F . d", "F / d", "|F||d|"],
+      "correctIndex": 1,
+      "explanation": "Work is a scalar quantity defined as the dot product of force and displacement.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m10_q36",
+      "text": "Which of the following is a unit vector?",
+      "options": ["i + j", "(i + j)/√2", "i - j", "k/2"],
+      "correctIndex": 1,
+      "explanation": "Magnitude of (i+j)/√2 is √[(1/√2)² + (1/√2)²] = √(1/2 + 1/2) = 1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m10_q37",
+      "text": "The value of λ for which vectors 2i - j + k and i + 2j + λk are perpendicular is:",
+      "options": ["0", "1", "2", "-1"],
+      "correctIndex": 0,
+      "explanation": "2(1) + (-1)(2) + 1(λ) = 0 => 2 - 2 + λ = 0 => λ = 0.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m10_q38",
+      "text": "The position vector of the midpoint of PQ where P(2,3,4) and Q(4,1,-2) is:",
+      "options": ["3i + 2j + k", "6i + 4j + 2k", "2i + j + 3k", "i + j + k"],
+      "correctIndex": 0,
+      "explanation": "Midpoint = ((2+4)/2, (3+1)/2, (4-2)/2) = (3, 2, 1).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m10_q39",
+      "text": "If a and b are two unit vectors and θ is the angle between them, then a+b is a unit vector if θ is:",
+      "options": ["π/3", "π/4", "π/2", "2π/3"],
+      "correctIndex": 3,
+      "explanation": "|a+b|² = |a|² + |b|² + 2|a||b|cos θ. 1 = 1 + 1 + 2cos θ => cos θ = -1/2 => θ = 120°.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m10_q40",
+      "text": "The projection of i on j is:",
+      "options": ["1", "0", "k", "-1"],
+      "correctIndex": 1,
+      "explanation": "i and j are perpendicular, so the component of one along the other is zero.",
+      "frequencyRating": 5
+    }
+  ]
+}

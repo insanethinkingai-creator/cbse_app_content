@@ -1,0 +1,330 @@
+{
+  "id": "g12_phy_ch6",
+  "grade": "12",
+  "subject": "Physics",
+  "number": "6",
+  "title": "Electromagnetic Induction",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_p6_q1",
+      "text": "The SI unit of magnetic flux is:",
+      "options": ["Tesla", "Weber", "Henry", "Gauss"],
+      "correctIndex": 1,
+      "explanation": "Magnetic flux is measured in Webers (Wb). 1 Wb = 1 T·m².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p6_q2",
+      "text": "According to Faraday's law of electromagnetic induction, the magnitude of induced EMF is equal to:",
+      "options": ["Rate of change of magnetic flux", "Change in magnetic flux", "Product of flux and time", "Magnetic flux density"],
+      "correctIndex": 0,
+      "explanation": "e = -dΦ/dt. The induced EMF is directly proportional to the time rate of change of magnetic flux.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p6_q3",
+      "text": "Lenz's law is a consequence of the law of conservation of:",
+      "options": ["Charge", "Mass", "Energy", "Momentum"],
+      "correctIndex": 2,
+      "explanation": "Lenz's law ensures that work must be done to change the flux, which is then converted into electrical energy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p6_q4",
+      "text": "The direction of induced current is such that it opposes the cause that produces it. This is:",
+      "options": ["Faraday's Law", "Lenz's Law", "Ampere's Law", "Fleming's Rule"],
+      "correctIndex": 1,
+      "explanation": "This is the fundamental statement of Lenz's Law, represented by the negative sign in Faraday's equation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p6_q5",
+      "text": "The EMF induced in a straight conductor of length 'l' moving with velocity 'v' perpendicular to a magnetic field 'B' is:",
+      "options": ["Blv", "B²/lv", "Bv/l", "Bl/v"],
+      "correctIndex": 0,
+      "explanation": "This is called motional EMF, derived from the Lorentz force acting on charges within the conductor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p6_q6",
+      "text": "When a metal plate is subjected to a changing magnetic field, the induced circulating currents are called:",
+      "options": ["Displacement currents", "Eddy currents", "Direct currents", "Conduction currents"],
+      "correctIndex": 1,
+      "explanation": "Eddy currents are loops of electrical current induced within conductors by a changing magnetic field.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p6_q7",
+      "text": "Which of the following is an application of eddy currents?",
+      "options": ["Magnetic braking in trains", "Induction furnace", "Electromagnetic damping", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Eddy currents are utilized in various technologies for braking, heating, and damping oscillations.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p6_q8",
+      "text": "To reduce eddy current losses in a transformer, the core is:",
+      "options": ["Made of solid steel", "Laminated", "Made of copper", "Painted"],
+      "correctIndex": 1,
+      "explanation": "Laminations break the large paths of eddy currents, thereby reducing heat dissipation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p6_q9",
+      "text": "Self-inductance of a coil is a measure of its:",
+      "options": ["Electrical resistance", "Electrical inertia", "Magnetic strength", "Capacitance"],
+      "correctIndex": 1,
+      "explanation": "Self-inductance opposes any change in current through the coil, acting as inertia in an electrical circuit.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p6_q10",
+      "text": "The SI unit of self-inductance is:",
+      "options": ["Farad", "Henry", "Tesla", "Ohm"],
+      "correctIndex": 1,
+      "explanation": "Self-inductance (L) and Mutual inductance (M) are both measured in Henry (H).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p6_q11",
+      "text": "The energy stored in an inductor of inductance 'L' carrying current 'I' is:",
+      "options": ["LI²", "1/2 LI²", "1/2 L²I", "LI"],
+      "correctIndex": 1,
+      "explanation": "The energy is stored in the magnetic field and is given by U = 1/2 LI².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p6_q12",
+      "text": "The self-inductance of a long solenoid is proportional to (where 'n' is number of turns per unit length):",
+      "options": ["n", "n²", "√n", "1/n"],
+      "correctIndex": 1,
+      "explanation": "L = μ₀n²Al. Thus, self-inductance depends on the square of the number of turns per unit length.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p6_q13",
+      "text": "The phenomenon in which a changing current in one coil induces an EMF in a neighboring coil is:",
+      "options": ["Self-induction", "Mutual induction", "Eddy current", "Hysteresis"],
+      "correctIndex": 1,
+      "explanation": "This is the principle behind the working of transformers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p6_q14",
+      "text": "If two coils are perfectly coupled, the mutual inductance M is related to self-inductances L₁ and L₂ as:",
+      "options": ["M = L₁L₂", "M = √(L₁L₂)", "M = (L₁+L₂)/2", "M = L₁/L₂"],
+      "correctIndex": 1,
+      "explanation": "For ideal coupling (k=1), M = √(L₁L₂).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p6_q15",
+      "text": "An AC generator works on the principle of:",
+      "options": ["Magnetic effect of current", "Electromagnetic induction", "Chemical effect of current", "Heating effect of current"],
+      "correctIndex": 1,
+      "explanation": "Mechanical energy is used to rotate a coil in a magnetic field to induce an alternating EMF.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p6_q16",
+      "text": "The maximum value of induced EMF in an AC generator is given by:",
+      "options": ["NBAω", "NBA", "BAω", "Nω"],
+      "correctIndex": 0,
+      "explanation": "E₀ = NBAω, where N is turns, B is field, A is area, and ω is angular velocity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p6_q17",
+      "text": "The dimensional formula for magnetic flux is:",
+      "options": ["[ML²T⁻²A⁻¹]", "[MLT⁻²A⁻¹]", "[ML²T⁻¹A⁻¹]", "[ML²T⁻²A⁻²]"],
+      "correctIndex": 0,
+      "explanation": "Φ = BA. Since B = F/qv, units work out to kg·m²·s⁻²·A⁻¹.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p6_q18",
+      "text": "A rod of length 'l' is rotated with angular velocity 'ω' in a uniform magnetic field 'B' about one of its ends. The induced EMF is:",
+      "options": ["Bl²ω", "1/2 Bl²ω", "2 Bl²ω", "Blω"],
+      "correctIndex": 1,
+      "explanation": "The average velocity of the rod is (0 + v)/2 = ωl/2. Thus, e = Bl(ωl/2) = 1/2 Bl²ω.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p6_q19",
+      "text": "Induced charge in a circuit depends on:",
+      "options": ["Rate of change of flux", "Total change in flux", "Time taken", "None of these"],
+      "correctIndex": 1,
+      "explanation": "q = ΔΦ/R. It depends only on the total change in flux and resistance, not the time rate.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p6_q20",
+      "text": "Two solenoids of same length and area are wound one over the other. The coefficient of mutual induction is maximum when:",
+      "options": ["They are perpendicular", "They are coaxial", "They are parallel", "They are separated by distance"],
+      "correctIndex": 1,
+      "explanation": "Coaxial arrangement ensures maximum flux linkage between the primary and secondary coils.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p6_q21",
+      "text": "When the number of turns in a coil is doubled without changing its length, its self-inductance becomes:",
+      "options": ["Two times", "Four times", "Half", "Remains same"],
+      "correctIndex": 1,
+      "explanation": "L is proportional to N². If N is doubled, L becomes 2² = 4 times.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p6_q22",
+      "text": "If a magnet is moved towards a coil, the induced current in the coil creates a magnetic field that:",
+      "options": ["Attracts the magnet", "Repels the magnet", "Does not affect the magnet", "Rotates the magnet"],
+      "correctIndex": 1,
+      "explanation": "Per Lenz's law, the induced field opposes the motion of the magnet.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p6_q23",
+      "text": "The polarity of induced EMF is determined by:",
+      "options": ["Faraday's Law", "Lenz's Law", "Ampere's Law", "Gauss's Law"],
+      "correctIndex": 1,
+      "explanation": "While Faraday gives the magnitude, Lenz identifies the polarity (direction).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p6_q24",
+      "text": "1 Henry is equal to:",
+      "options": ["1 Wb/A", "1 V·s/A", "1 J/A²", "All of these"],
+      "correctIndex": 3,
+      "explanation": "All these expressions are equivalent based on L = Φ/I, e = L(di/dt), and U = 1/2 LI².",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p6_q25",
+      "text": "A square loop of side 'a' is entering a uniform magnetic field with velocity 'v'. The induced EMF will be constant until:",
+      "options": ["The loop is half inside", "The loop is completely inside", "The loop starts leaving", "Always constant"],
+      "correctIndex": 1,
+      "explanation": "Once the loop is completely inside, dΦ/dt becomes zero as flux becomes constant.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p6_q26",
+      "text": "In a transformer, the core is made of soft iron because it has:",
+      "options": ["Low retentivity and high coercivity", "High retentivity and low coercivity", "Low hysteresis loss", "High resistance"],
+      "correctIndex": 2,
+      "explanation": "Soft iron can be easily magnetized and demagnetized with minimal energy loss.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p6_q27",
+      "text": "The magnetic flux linked with a coil is Φ = 5t² + 3t + 16. The induced EMF at t=2s is:",
+      "options": ["23 V", "20 V", "13 V", "10 V"],
+      "correctIndex": 0,
+      "explanation": "e = -dΦ/dt = -(10t + 3). At t=2, |e| = 10(2) + 3 = 23 V.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p6_q28",
+      "text": "Sparking occurs when a circuit is suddenly broken due to:",
+      "options": ["High resistance", "High self-induced EMF", "Mutual induction", "Eddy currents"],
+      "correctIndex": 1,
+      "explanation": "The rapid decrease in current leads to a very high -dΦ/dt, inducing a large EMF.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p6_q29",
+      "text": "A copper ring is held horizontally and a bar magnet is dropped through it. Its acceleration will be:",
+      "options": ["Equal to g", "Greater than g", "Less than g", "Zero"],
+      "correctIndex": 2,
+      "explanation": "The induced current in the ring creates a field that opposes the falling magnet.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p6_q30",
+      "text": "The ratio of magnetic flux to current is called:",
+      "options": ["Resistance", "Inductance", "Capacitance", "Reactance"],
+      "correctIndex": 1,
+      "explanation": "L = Φ/I. This defines the self-inductance of the circuit.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p6_q31",
+      "text": "If a coil is wound on an iron core, its self-inductance:",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correctIndex": 0,
+      "explanation": "Iron has high permeability (μ), and L is proportional to μ.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p6_q32",
+      "text": "Which rule is used to find the direction of induced current in a moving conductor?",
+      "options": ["Fleming's Left Hand Rule", "Fleming's Right Hand Rule", "Right Hand Thumb Rule", "Maxwell's Corkscrew Rule"],
+      "correctIndex": 1,
+      "explanation": "Fleming's Right Hand Rule: Thumb (motion), Forefinger (field), Middle finger (current).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p6_q33",
+      "text": "Mutual inductance between two coils does NOT depend on:",
+      "options": ["Material of core", "Distance between coils", "Orientation of coils", "Current in the coils"],
+      "correctIndex": 3,
+      "explanation": "Inductance is a geometric and material property, independent of the actual current flowing.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p6_q34",
+      "text": "When flux through a coil changes from 10 Wb to 2 Wb in 0.1 s, the induced EMF is:",
+      "options": ["8 V", "80 V", "1.2 V", "0.8 V"],
+      "correctIndex": 1,
+      "explanation": "e = ΔΦ/Δt = (10-2)/0.1 = 80 V.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p6_q35",
+      "text": "The current in a coil changes from 5A to 0A in 0.1s. If induced EMF is 200V, the self-inductance is:",
+      "options": ["4 H", "0.4 H", "40 H", "2 H"],
+      "correctIndex": 0,
+      "explanation": "e = L(di/dt) => 200 = L(5/0.1) => 200 = 50L => L = 4 H.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p6_q36",
+      "text": "A plane of area A is placed in a magnetic field B at an angle θ with the field. The flux is:",
+      "options": ["BA cosθ", "BA sinθ", "BA tanθ", "BA"],
+      "correctIndex": 1,
+      "explanation": "Flux = B·A = BA cos(angle with normal). Since θ is with the field, angle with normal is (90-θ), so BA sinθ.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_p6_q37",
+      "text": "Two inductors L₁ and L₂ are connected in series. The equivalent inductance is (neglecting mutual induction):",
+      "options": ["L₁ + L₂", "L₁L₂/(L₁+L₂)", "√(L₁L₂)", "1/L₁ + 1/L₂"],
+      "correctIndex": 0,
+      "explanation": "Inductors in series add up just like resistors.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_p6_q38",
+      "text": "If the rate of change of current is 1 A/s and induced EMF is 1 V, the inductance is:",
+      "options": ["1 Henry", "1 Weber", "1 Tesla", "1 Ohm"],
+      "correctIndex": 0,
+      "explanation": "This is the definition of 1 Henry.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_p6_q39",
+      "text": "The magnetic flux linked with a circuit of resistance R changes by ΔΦ. The total work done is:",
+      "options": ["Energy is not work", "Determined by Lenz's Law", "Force times distance", "Zero"],
+      "correctIndex": 1,
+      "explanation": "Mechanical work done to move the magnet is what is converted into electrical energy.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g12_p6_q40",
+      "text": "The coefficient of coupling 'k' varies between:",
+      "options": ["0 to 1", "-1 to 1", "0 to infinity", "1 to 10"],
+      "correctIndex": 0,
+      "explanation": "k=0 means no coupling, k=1 means perfect coupling.",
+      "frequencyRating": 3
+    }
+  ]
+}

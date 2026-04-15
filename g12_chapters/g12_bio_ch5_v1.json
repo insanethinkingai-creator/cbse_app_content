@@ -1,0 +1,330 @@
+{
+  "id": "g12_bio_ch5",
+  "grade": "12",
+  "subject": "Biology",
+  "number": "5",
+  "title": "Principles of Inheritance and Variation",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g12_b5_q1",
+      "text": "Who is known as the 'Father of Genetics'?",
+      "options": ["Charles Darwin", "Gregor Mendel", "Hugo de Vries", "T.H. Morgan"],
+      "correctIndex": 1,
+      "explanation": "Gregor Johann Mendel conducted hybridization experiments on garden peas and proposed the laws of inheritance.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q2",
+      "text": "Mendel selected how many pairs of contrasting characters in pea plants?",
+      "options": ["5", "7", "10", "14"],
+      "correctIndex": 1,
+      "explanation": "Mendel studied 7 pairs of contrasting traits such as plant height, seed color, and flower position.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q3",
+      "text": "The term 'allele' refers to:",
+      "options": ["Similar genes", "Alternative forms of a gene", "Non-functional genes", "Linked genes"],
+      "correctIndex": 1,
+      "explanation": "Alleles are slightly different forms of the same gene located at the same locus on homologous chromosomes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q4",
+      "text": "What is the phenotypic ratio of a Mendelian monohybrid cross in F2 generation?",
+      "options": ["1:2:1", "3:1", "9:3:3:1", "1:1"],
+      "correctIndex": 1,
+      "explanation": "In a cross between homozygous dominant and recessive parents, the F2 offspring show a 3:1 ratio of dominant to recessive traits.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q5",
+      "text": "A cross used to determine whether a dominant phenotype is homozygous or heterozygous is called:",
+      "options": ["Back cross", "Test cross", "Reciprocal cross", "Dihybrid cross"],
+      "correctIndex": 1,
+      "explanation": "A test cross involves crossing an individual with a dominant phenotype with a homozygous recessive individual.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q6",
+      "text": "Incomplete dominance is seen in which of the following?",
+      "options": ["Garden pea", "Snapdragon (Antirrhinum)", "Drosophila", "Human blood groups"],
+      "correctIndex": 1,
+      "explanation": "In Snapdragon, a cross between red and white flowers produces pink flowers (F1).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q7",
+      "text": "ABO blood grouping in humans is an example of:",
+      "options": ["Incomplete dominance", "Co-dominance", "Multiple allelism", "Both 2 and 3"],
+      "correctIndex": 3,
+      "explanation": "ABO groups involve three alleles (I^A, I^B, i) and show co-dominance in the AB phenotype.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q8",
+      "text": "The chromosomal theory of inheritance was proposed by:",
+      "options": ["Mendel", "Sutton and Boveri", "Morgan", "Punnett"],
+      "correctIndex": 1,
+      "explanation": "Walter Sutton and Theodore Boveri noted that the behavior of chromosomes was parallel to the behavior of genes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q9",
+      "text": "Who provided experimental verification for the chromosomal theory of inheritance?",
+      "options": ["Mendel", "T.H. Morgan", "Henking", "Sturtevant"],
+      "correctIndex": 1,
+      "explanation": "Morgan used Drosophila melanogaster to prove that genes are located on chromosomes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q10",
+      "text": "The tendency of genes located on the same chromosome to be inherited together is called:",
+      "options": ["Recombination", "Linkage", "Crossing over", "Segregation"],
+      "correctIndex": 1,
+      "explanation": "Linkage describes the physical association of genes on a chromosome.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q11",
+      "text": "In XO type of sex determination, females have:",
+      "options": ["XX", "XO", "XY", "ZW"],
+      "correctIndex": 0,
+      "explanation": "In many insects like grasshoppers, females are XX and males are XO.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b5_q12",
+      "text": "Male heterogamety is found in:",
+      "options": ["Humans", "Birds", "Butterflies", "Drosophila"],
+      "correctIndex": 0,
+      "explanation": "In humans, males produce two types of gametes (X and Y), while females produce one type (X).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q13",
+      "text": "Which of the following disorders is caused by a point mutation?",
+      "options": ["Down's syndrome", "Sickle-cell anemia", "Klinefelter's syndrome", "Turner's syndrome"],
+      "correctIndex": 1,
+      "explanation": "Sickle-cell anemia is due to a single base substitution in the beta-globin chain of hemoglobin.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q14",
+      "text": "Hemophilia is a ________ disorder.",
+      "options": ["Autosomal dominant", "Autosomal recessive", "Sex-linked recessive", "Sex-linked dominant"],
+      "correctIndex": 2,
+      "explanation": "Hemophilia is a Mendelian disorder linked to the X-chromosome, mostly affecting males.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q15",
+      "text": "A person with Down's syndrome has ________ chromosomes.",
+      "options": ["45", "46", "47", "48"],
+      "correctIndex": 2,
+      "explanation": "Down's syndrome is caused by the trisomy of chromosome 21 (total 47 chromosomes).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q16",
+      "text": "Klinefelter's syndrome is characterized by the genotype:",
+      "options": ["44+XO", "44+XXY", "44+XYY", "44+XXX"],
+      "correctIndex": 1,
+      "explanation": "Affected individuals are males with an extra X chromosome, showing feminine features like gynaecomastia.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q17",
+      "text": "Gynaecomastia is a symptom of:",
+      "options": ["Down's syndrome", "Turner's syndrome", "Klinefelter's syndrome", "Phenylketonuria"],
+      "correctIndex": 2,
+      "explanation": "Gynaecomastia refers to the development of breast tissue in males.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b5_q18",
+      "text": "Turner's syndrome occurs due to:",
+      "options": ["Monosomy of X", "Trisomy of 21", "Monosomy of 21", "Trisomy of X"],
+      "correctIndex": 0,
+      "explanation": "Females with Turner's syndrome lack one X chromosome (45, XO) and are sterile.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q19",
+      "text": "Thalassemia is an example of:",
+      "options": ["Chromosomal disorder", "Quantitative Mendelian disorder", "Qualitative Mendelian disorder", "Infectious disease"],
+      "correctIndex": 1,
+      "explanation": "Thalassemia involves a reduced rate of synthesis of globin chains (quantitative problem).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b5_q20",
+      "text": "A family tree analysis used to study the inheritance of a particular trait is called:",
+      "options": ["Punnett square", "Pedigree analysis", "Linkage map", "Genome sequencing"],
+      "correctIndex": 1,
+      "explanation": "Pedigree analysis is used to trace traits through multiple generations in humans.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q21",
+      "text": "Mendel's Law of Segregation is based on the fact that:",
+      "options": ["Alleles do not show any blending", "Gametes receive only one of the two factors", "Both 1 and 2", "Alleles blend in F1"],
+      "correctIndex": 2,
+      "explanation": "Alleles separate during gamete formation so that a gamete carries only one allele for a trait.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q22",
+      "text": "Which law states that factors for different traits are distributed to gametes independently?",
+      "options": ["Law of Dominance", "Law of Segregation", "Law of Independent Assortment", "Law of Linkage"],
+      "correctIndex": 2,
+      "explanation": "This law applies to genes on different chromosomes or far apart on the same chromosome.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q23",
+      "text": "The F2 phenotypic ratio of a dihybrid cross is:",
+      "options": ["3:1", "1:2:1", "9:3:3:1", "1:1:1:1"],
+      "correctIndex": 2,
+      "explanation": "9 (both dominant) : 3 (one dom.) : 3 (other dom.) : 1 (both recessive).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q24",
+      "text": "When a single gene influences multiple phenotypic traits, it is called:",
+      "options": ["Polygenic inheritance", "Pleiotropy", "Co-dominance", "Epistasis"],
+      "correctIndex": 1,
+      "explanation": "Phenylketonuria is an example where a single gene defect leads to mental retardation and skin pigmentation changes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b5_q25",
+      "text": "Human skin color is an example of:",
+      "options": ["Pleiotropy", "Polygenic inheritance", "Multiple allelism", "Mendelian inheritance"],
+      "correctIndex": 1,
+      "explanation": "Traits controlled by three or more genes show a gradient of phenotypes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q26",
+      "text": "In birds, the females are ________ and males are ________.",
+      "options": ["XY, XX", "ZW, ZZ", "ZZ, ZW", "XO, XX"],
+      "correctIndex": 1,
+      "explanation": "In birds, female heterogamety is observed (ZW).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q27",
+      "text": "A man with blood group A marries a woman with blood group B. What are the possible blood groups of their children if both parents are heterozygous?",
+      "options": ["A and B only", "AB only", "A, B, AB and O", "O only"],
+      "correctIndex": 2,
+      "explanation": "Crossing I^A i and I^B i can produce all four genotypes/phenotypes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q28",
+      "text": "Distance between genes is measured in:",
+      "options": ["Nanometers", "Centimorgans", "Angstroms", "Microns"],
+      "correctIndex": 1,
+      "explanation": "One centimorgan (cM) is the unit of map distance, representing 1% recombination frequency.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_b5_q29",
+      "text": "Mutations are:",
+      "options": ["Sudden heritable changes", "Gradual variations", "Environmental effects", "Always beneficial"],
+      "correctIndex": 0,
+      "explanation": "Mutations are the source of new genetic variation in a population.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b5_q30",
+      "text": "Physical or chemical agents that induce mutations are called:",
+      "options": ["Pathogens", "Mutagens", "Allergens", "Antigens"],
+      "correctIndex": 1,
+      "explanation": "Examples include UV radiation, X-rays, and mustard gas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b5_q31",
+      "text": "Color blindness is more common in males because:",
+      "options": ["Males are stronger", "It is an X-linked recessive trait", "It is a Y-linked trait", "Males have better vision"],
+      "correctIndex": 1,
+      "explanation": "Males have only one X chromosome, so a single recessive allele causes the disorder.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q32",
+      "text": "In pedigree analysis, a solid (filled) circle represents a/an:",
+      "options": ["Unaffected female", "Affected female", "Unaffected male", "Affected male"],
+      "correctIndex": 1,
+      "explanation": "Circles are females, squares are males. Filled symbols denote the presence of the trait.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b5_q33",
+      "text": "Which of the following is NOT a Mendelian disorder?",
+      "options": ["Cystic fibrosis", "Thalassemia", "Down's syndrome", "Hemophilia"],
+      "correctIndex": 2,
+      "explanation": "Down's syndrome is a chromosomal disorder caused by aneuploidy, not a single gene defect.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q34",
+      "text": "The failure of segregation of chromatids during cell division resulting in gain or loss of a chromosome is:",
+      "options": ["Polyploidy", "Aneuploidy", "Duplication", "Inversion"],
+      "correctIndex": 1,
+      "explanation": "Aneuploidy includes conditions like trisomy and monosomy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q35",
+      "text": "An increase in a whole set of chromosomes in an organism is called:",
+      "options": ["Aneuploidy", "Polyploidy", "Haploidy", "Mutation"],
+      "correctIndex": 1,
+      "explanation": "This is often seen in plants after failure of cytokinesis.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b5_q36",
+      "text": "Which scientist first observed the 'X-body' in insects?",
+      "options": ["Mendel", "Henking", "Morgan", "Sutton"],
+      "correctIndex": 1,
+      "explanation": "Henking (1891) traced a specific nuclear structure through spermatogenesis in insects.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_b5_q37",
+      "text": "Phenylketonuria is an inborn error of metabolism inherited as an:",
+      "options": ["Autosomal dominant trait", "Autosomal recessive trait", "X-linked trait", "Y-linked trait"],
+      "correctIndex": 1,
+      "explanation": "Affected individuals lack an enzyme that converts phenylalanine into tyrosine.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_b5_q38",
+      "text": "What is the reason for the 'blending' seen in F1 of a cross between red and white snapdragons?",
+      "options": ["Complete dominance", "Codominance", "Incomplete dominance", "Mutation"],
+      "correctIndex": 2,
+      "explanation": "The dominant allele is not completely dominant over the recessive allele.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_b5_q39",
+      "text": "The number of linkage groups in an organism corresponds to its:",
+      "options": ["Diploid number", "Haploid number", "Total DNA content", "Size"],
+      "correctIndex": 1,
+      "explanation": "Since genes on one chromosome belong to one linkage group, the number equals the number of pairs of chromosomes.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_b5_q40",
+      "text": "Starch grain size in pea seeds shows:",
+      "options": ["Dominance", "Incomplete dominance", "Pleiotropy", "Both 2 and 3"],
+      "correctIndex": 3,
+      "explanation": "The B gene controls both starch synthesis and seed shape; grain size shows incomplete dominance (Bb is intermediate).",
+      "frequencyRating": 2
+    }
+  ]
+}

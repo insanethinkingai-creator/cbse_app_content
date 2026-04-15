@@ -246,5 +246,86 @@
       "explanation": "Indefinite integrals represent a family of curves, while definite integrals have a fixed value.",
       "frequencyRating": 5
     }
+    ,
+    {
+      "id": "g12_m7_q31",
+      "text": "∫ tan²x dx is equal to:",
+      "options": ["tan x - x + C", "tan x + x + C", "sec²x - x + C", "tan x + C"],
+      "correctIndex": 0,
+      "explanation": "∫ tan²x dx = ∫ (sec²x - 1) dx = tan x - x + C.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m7_q32",
+      "text": "The value of ∫ dx / (x² - a²) is:",
+      "options": ["(1/2a) log|(x-a)/(x+a)| + C", "(1/2a) log|(x+a)/(x-a)| + C", "(1/a) tan⁻¹(x/a) + C", "log|x + √(x² - a²)| + C"],
+      "correctIndex": 0,
+      "explanation": "Standard integral formula for rational functions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m7_q33",
+      "text": "∫ eˣ [f(x) + f'(x)] dx is equal to:",
+      "options": ["eˣ f(x) + C", "eˣ f'(x) + C", "f(x) + C", "eˣ + C"],
+      "correctIndex": 0,
+      "explanation": "A very useful property derived using integration by parts.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m7_q34",
+      "text": "The value of ∫[0, π/2] [sin x / (sin x + cos x)] dx is:",
+      "options": ["π", "π/2", "π/4", "0"],
+      "correctIndex": 2,
+      "explanation": "Using the property ∫[0, a] f(x) dx = ∫[0, a] f(a-x) dx leads to I = π/4.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m7_q35",
+      "text": "∫ √(a² - x²) dx is equal to:",
+      "options": ["(x/2)√(a²-x²) + (a²/2)sin⁻¹(x/a) + C", "(x/2)√(a²-x²) - (a²/2)sin⁻¹(x/a) + C", "sin⁻¹(x/a) + C", "√(a²-x²) + C"],
+      "correctIndex": 0,
+      "explanation": "Standard integral formula for square root of quadratic expressions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m7_q36",
+      "text": "∫ dx / √(x² + a²) is equal to:",
+      "options": ["log|x + √(x² + a²)| + C", "sin⁻¹(x/a) + C", "tan⁻¹(x/a) + C", "log|x - √(x² + a²)| + C"],
+      "correctIndex": 0,
+      "explanation": "Standard logarithmic integral for square root denominators.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m7_q37",
+      "text": "If f(x) is an odd function, then ∫[-a, a] f(x) dx is:",
+      "options": ["2 ∫[0, a] f(x) dx", "0", "a", "f(a)"],
+      "correctIndex": 1,
+      "explanation": "For odd functions, f(-x) = -f(x), so the integral over a symmetric interval is zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g12_m7_q38",
+      "text": "∫ x eˣ dx is equal to:",
+      "options": ["eˣ(x - 1) + C", "eˣ(x + 1) + C", "x eˣ + C", "eˣ + C"],
+      "correctIndex": 0,
+      "explanation": "Using integration by parts with u = x and v' = eˣ.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g12_m7_q39",
+      "text": "The integration constant C represents that indefinite integration gives:",
+      "options": ["A unique curve", "A family of parallel curves", "A point", "Zero"],
+      "correctIndex": 1,
+      "explanation": "Since derivatives of constants are zero, the integral represents a family of curves differing by a vertical shift.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g12_m7_q40",
+      "text": "∫ dx / (x² + a²) is equal to:",
+      "options": ["(1/a) tan⁻¹(x/a) + C", "tan⁻¹(x/a) + C", "sin⁻¹(x/a) + C", "log|x² + a²| + C"],
+      "correctIndex": 0,
+      "explanation": "Standard integral leading to inverse tangent function.",
+      "frequencyRating": 5
+    }
   ]
 }
