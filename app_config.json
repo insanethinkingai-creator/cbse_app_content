@@ -15,6 +15,9 @@
     "adsensePublisherId": "ca-pub-2046967762235290",
     "adsenseSlotId": "5499649008"
   },
+  "security": {
+    "enableSecureMode": true
+  },
   "featureFlags": { 
     "enableNewUI": false,
     "enableAdvancedAnalytics": false

@@ -1,0 +1,330 @@
+{
+  "id": "g11_math_ch14",
+  "grade": "11",
+  "subject": "Mathematics",
+  "number": "14",
+  "title": "Mathematical Reasoning",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_m14_q1",
+      "text": "What is a mathematical proposition?",
+      "options": ["A statement that is either true or false", "A question that asks for a proof", "A formula with variables", "A graphical representation"],
+      "correctIndex": 0,
+      "explanation": "A proposition is a declarative sentence with a definite truth value.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m14_q2",
+      "text": "The negation of the statement 'All birds fly' is: ",
+      "options": ["No birds fly", "Some birds do not fly", "All birds do not fly", "Birds always fly"],
+      "correctIndex": 1,
+      "explanation": "The negation of a universal statement is that at least one counterexample exists.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m14_q3",
+      "text": "The contrapositive of 'If it rains then the ground is wet' is: ",
+      "options": ["If the ground is wet then it rains", "If it does not rain then the ground is not wet", "If the ground is not wet then it does not rain", "If the ground is dry then it rains"],
+      "correctIndex": 2,
+      "explanation": "The contrapositive swaps and negates both parts of the implication.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m14_q4",
+      "text": "The converse of 'If A then B' is: ",
+      "options": ["If B then A", "If not A then not B", "If not B then not A", "If A then not B"],
+      "correctIndex": 0,
+      "explanation": "The converse reverses the hypothesis and conclusion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m14_q5",
+      "text": "The statement 'There exists a prime number that is even' uses which quantifier?",
+      "options": ["Universal quantifier", "Existential quantifier", "Both quantifiers", "No quantifier"],
+      "correctIndex": 1,
+      "explanation": "The phrase 'There exists' indicates the existential quantifier.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m14_q6",
+      "text": "Which of the following is a tautology?",
+      "options": ["P and not P", "P or not P", "P implies Q", "Q implies P"],
+      "correctIndex": 1,
+      "explanation": "P or not P is always true regardless of P's value.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m14_q7",
+      "text": "Which of the following is NOT a mathematical statement?",
+      "options": ["Sum of 2 and 3 is 5", "Every square is a rectangle", "Mathematics is a difficult subject", "2 is the only even prime"],
+      "correctIndex": 2,
+      "explanation": "A statement must be objectively true or false. 'Difficult' is subjective.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m14_q8",
+      "text": "What is the negation of the statement 'Paris is in France and London is in England'?",
+      "options": ["Paris is not in France and London is not in England", "Paris is not in France or London is not in England", "Paris is in France or London is in England", "It is false that Paris is in France"],
+      "correctIndex": 1,
+      "explanation": "Negation of (P and Q) is (not P or not Q) by De Morgan's Law.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m14_q9",
+      "text": "A compound statement formed by connecting two statements using 'or' is called a:",
+      "options": ["Conjunction", "Disjunction", "Implication", "Negation"],
+      "correctIndex": 1,
+      "explanation": "The word 'or' represents a disjunction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m14_q10",
+      "text": "The connective 'and' in a compound statement is true if and only if:",
+      "options": ["One statement is true", "Both statements are true", "At least one statement is true", "Both statements are false"],
+      "correctIndex": 1,
+      "explanation": "A conjunction is true only when all its components are true.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m14_q11",
+      "text": "Which of the following phrases represents a universal quantifier?",
+      "options": ["For all", "There exists", "For at least one", "Some"],
+      "correctIndex": 0,
+      "explanation": "'For all' (∀) refers to every element in a set.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m14_q12",
+      "text": "The negation of 'p implies q' is equivalent to:",
+      "options": ["p and not q", "not p and q", "not p or q", "not q implies not p"],
+      "correctIndex": 0,
+      "explanation": "The negation of an implication is true when the hypothesis is true but the conclusion is false.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m14_q13",
+      "text": "The contrapositive of 'If a number is divisible by 9, it is divisible by 3' is:",
+      "options": ["If a number is not divisible by 9, it is not divisible by 3", "If a number is divisible by 3, it is divisible by 9", "If a number is not divisible by 3, it is not divisible by 9", "A number is divisible by 3 and not by 9"],
+      "correctIndex": 2,
+      "explanation": "Contrapositive: If not q, then not p.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m14_q14",
+      "text": "What is the converse of 'If you are born in India, then you are a citizen of India'?",
+      "options": ["If you are not born in India, you are not a citizen", "If you are a citizen of India, then you were born in India", "If you are not a citizen, you were not born in India", "Citizens are born in India"],
+      "correctIndex": 1,
+      "explanation": "The converse of 'If P, then Q' is 'If Q, then P'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m14_q15",
+      "text": "A statement which is always false is called a:",
+      "options": ["Tautology", "Contradiction", "Fallacy", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "Contradictions or fallacies are statements that are false for all truth values of their components.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m14_q16",
+      "text": "In the inclusive 'or', the compound statement is true when:",
+      "options": ["Only one is true", "Both are true", "At least one is true", "Exactly one is true"],
+      "correctIndex": 2,
+      "explanation": "Inclusive 'or' includes the case where both are true.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m14_q17",
+      "text": "The negation of 'x is a rational number' is:",
+      "options": ["x is an irrational number", "x is not a rational number", "Both A and B (for real x)", "x is zero"],
+      "correctIndex": 2,
+      "explanation": "In the context of real numbers, not rational means irrational.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m14_q18",
+      "text": "A statement 'p if and only if q' is true when:",
+      "options": ["p and q have the same truth value", "p is true and q is false", "p is false and q is true", "p and q are different"],
+      "correctIndex": 0,
+      "explanation": "A biconditional statement is true if both parts are true or both are false.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m14_q19",
+      "text": "What is the truth value of '2 + 3 = 5 or 8 < 7'?",
+      "options": ["True", "False", "Partially True", "Neither"],
+      "correctIndex": 0,
+      "explanation": "In an 'or' statement, if at least one component (2+3=5) is true, the whole is true.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m14_q20",
+      "text": "Find the negation of 'For every real number x, x² > x'.",
+      "options": ["For every real number x, x² ≤ x", "There exists a real number x such that x² ≤ x", "There exists a real number x such that x² < x", "No real number satisfies x² > x"],
+      "correctIndex": 1,
+      "explanation": "The negation of a universal statement is an existential statement with a negated condition.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m14_q21",
+      "text": "The contrapositive of 'If a triangle is equilateral, then it is isosceles' is:",
+      "options": ["If it is isosceles, it is equilateral", "If it is not isosceles, it is not equilateral", "If it is not equilateral, it is not isosceles", "It is isosceles but not equilateral"],
+      "correctIndex": 1,
+      "explanation": "Contrapositive: If not Q, then not P.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m14_q22",
+      "text": "The method of proving a statement p is true by showing 'not p' leads to a contradiction is called:",
+      "options": ["Direct proof", "Proof by contradiction", "Proof by induction", "Counter-example"],
+      "correctIndex": 1,
+      "explanation": "This is a common logical technique to validate a statement.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m14_q23",
+      "text": "A single case that shows a statement is false is called a:",
+      "options": ["Negation", "Converse", "Counter-example", "Fallacy"],
+      "correctIndex": 2,
+      "explanation": "To disprove a universal statement, you only need one counter-example.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m14_q24",
+      "text": "If p is true and q is false, what is the truth value of 'p and q'?",
+      "options": ["True", "False", "Undefined", "Both"],
+      "correctIndex": 1,
+      "explanation": "For an 'and' statement to be true, both parts must be true.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m14_q25",
+      "text": "If p is true and q is false, what is the truth value of 'p or q'?",
+      "options": ["True", "False", "Undefined", "Both"],
+      "correctIndex": 0,
+      "explanation": "For an 'or' statement to be true, at least one part must be true.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m14_q26",
+      "text": "The statement 'If x is an even number, then x² is even' is an example of:",
+      "options": ["Conjunction", "Disjunction", "Conditional", "Biconditional"],
+      "correctIndex": 2,
+      "explanation": "Statements of the form 'If P then Q' are conditional statements.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m14_q27",
+      "text": "The phrase 'if and only if' is also written as:",
+      "options": ["iff", "if", "only if", "then"],
+      "correctIndex": 0,
+      "explanation": "'iff' is the standard abbreviation for biconditional statements.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m14_q28",
+      "text": "Which of these is the negation of '7 is greater than 5'?",
+      "options": ["7 is less than 5", "7 is not greater than 5", "7 is less than or equal to 5", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "The opposite of > is ≤.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m14_q29",
+      "text": "Which connective is used in the statement: 'Every integer is positive or negative'?",
+      "options": ["and", "or", "if-then", "not"],
+      "correctIndex": 1,
+      "explanation": "The word 'or' is used as a connective.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m14_q30",
+      "text": "What is the truth value of the statement 'The sun is a star'?",
+      "options": ["True", "False", "Subjective", "Opinion"],
+      "correctIndex": 0,
+      "explanation": "This is an objective scientific fact.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m14_q31",
+      "text": "The negation of the statement 'It is not the case that it is raining' is:",
+      "options": ["It is raining", "It is not raining", "It might rain", "It is sunny"],
+      "correctIndex": 0,
+      "explanation": "Double negation: not(not P) = P.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m14_q32",
+      "text": "The contrapositive of 'If x=y, then x²=y²' is:",
+      "options": ["If x²=y², then x=y", "If x≠y, then x²≠y²", "If x²≠y², then x≠y", "x=y and x²≠y²"],
+      "correctIndex": 2,
+      "explanation": "Swap and negate: If not (x²=y²) then not (x=y).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m14_q33",
+      "text": "The statement 'p and q' is false if:",
+      "options": ["p is false", "q is false", "p and q are both false", "At least one of them is false"],
+      "correctIndex": 3,
+      "explanation": "A conjunction is false if any of its components is false.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m14_q34",
+      "text": "Identify the quantifier in: 'There exists a number x such that x+5=10'.",
+      "options": ["Universal", "Existential", "Conditional", "None"],
+      "correctIndex": 1,
+      "explanation": "The phrase 'There exists' is the existential quantifier.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m14_q35",
+      "text": "Which of the following is the converse of 'If n is even, then n² is even'?",
+      "options": ["If n² is even, then n is even", "If n is odd, then n² is odd", "If n² is odd, then n is odd", "n is even and n² is not"],
+      "correctIndex": 0,
+      "explanation": "Converse: If Q, then P.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m14_q36",
+      "text": "A statement 'If p, then q' is false only when:",
+      "options": ["p is true, q is true", "p is true, q is false", "p is false, q is true", "p is false, q is false"],
+      "correctIndex": 1,
+      "explanation": "The only case where an implication is false is when the truth leads to a falsehood.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m14_q37",
+      "text": "What type of 'or' is used in 'To enter a country, you need a passport or a voter ID card'?",
+      "options": ["Exclusive", "Inclusive", "Neither", "Both"],
+      "correctIndex": 1,
+      "explanation": "It's inclusive because having both is also acceptable.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m14_q38",
+      "text": "The negation of the statement 'Some prime numbers are odd' is:",
+      "options": ["Some prime numbers are even", "No prime numbers are odd", "All prime numbers are even", "Both B and C are equivalent"],
+      "correctIndex": 3,
+      "explanation": "Negation of 'Some P are Q' is 'No P are Q', which is the same as 'All P are not Q'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m14_q39",
+      "text": "Is the statement '2 + 2 = 4' a tautology?",
+      "options": ["Yes", "No, it's a simple true statement", "Only in base 10", "Depends on definitions"],
+      "correctIndex": 1,
+      "explanation": "A tautology is a compound statement that is true for all component truth values. This is just a true statement.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m14_q40",
+      "text": "If p is 'It is cold' and q is 'It is snowing', write 'p or not q'.",
+      "options": ["It is cold or it is snowing", "It is cold or it is not snowing", "It is cold and it is not snowing", "If it is cold, it is snowing"],
+      "correctIndex": 1,
+      "explanation": "Symbolically translates to p ∨ ~q.",
+      "frequencyRating": 4
+    }
+  ]
+}

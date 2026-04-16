@@ -1,0 +1,330 @@
+{
+  "id": "g11_math_ch13",
+  "grade": "11",
+  "subject": "Mathematics",
+  "number": "13",
+  "title": "Limits and Derivatives",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_m13_q1",
+      "text": "The derivative of f(x) = x^3 is: ",
+      "options": ["x^2", "3x^2", "2x", "3x"],
+      "correctIndex": 1,
+      "explanation": "Using the power rule, d/dx[x^3] = 3x^2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m13_q2",
+      "text": "The limit of (2x^2 + 3x - 1) as x approaches 2 is: ",
+      "options": ["7", "11", "9", "15"],
+      "correctIndex": 1,
+      "explanation": "Substitute x = 2 to get 2*4 + 6 - 1 = 11.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m13_q3",
+      "text": "Which of these describes the derivative of a function at a point?",
+      "options": ["Slope of tangent", "Area under curve", "Average value", "Maximum value"],
+      "correctIndex": 0,
+      "explanation": "The derivative gives the slope of the tangent to the curve at that point.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m13_q4",
+      "text": "The derivative of f(x) = sin x is: ",
+      "options": ["cos x", "-cos x", "sin x", "-sin x"],
+      "correctIndex": 0,
+      "explanation": "The derivative of sine is cosine.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m13_q5",
+      "text": "The derivative of the product f(x) = x^2 * e^x is found using the: ",
+      "options": ["product rule", "quotient rule", "chain rule", "power rule only"],
+      "correctIndex": 0,
+      "explanation": "Product rule is used for the derivative of a product of two functions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m13_q6",
+      "text": "A function is continuous at x = a if: ",
+      "options": ["limit exists and equals function value", "derivative exists", "function is positive", "function is increasing"],
+      "correctIndex": 0,
+      "explanation": "Continuity at a point requires the limit as x approaches a to equal the function value at a.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m13_q7",
+      "text": "Find lim_{x→3} (x + 3).",
+      "options": ["0", "3", "6", "Undefined"],
+      "correctIndex": 2,
+      "explanation": "By direct substitution, 3 + 3 = 6.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m13_q8",
+      "text": "Find lim_{x→π} (x - 22/7).",
+      "options": ["0", "π - 22/7", "22/7", "Undefined"],
+      "correctIndex": 1,
+      "explanation": "Substitute x = π to get π - 22/7. Note that π is not exactly 22/7.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m13_q9",
+      "text": "What is the value of lim_{x→0} (sin x / x)?",
+      "options": ["0", "1", "Undefined", "x"],
+      "correctIndex": 1,
+      "explanation": "This is a fundamental trigonometric limit identity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m13_q10",
+      "text": "Find lim_{x→1} (x¹⁵ - 1) / (x¹⁰ - 1).",
+      "options": ["1", "1.5", "15/10", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "Using lim_{x→a} (x^n - a^n)/(x-a) = na^{n-1}, the limit is (15*1)/(10*1) = 1.5.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m13_q11",
+      "text": "If f(x) = x² - 2, find f'(10).",
+      "options": ["18", "20", "10", "2"],
+      "correctIndex": 1,
+      "explanation": "f'(x) = 2x. f'(10) = 2 * 10 = 20.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m13_q12",
+      "text": "Find the derivative of (x - a)(x - b).",
+      "options": ["2x - (a+b)", "x² - (a+b)x + ab", "1", "2x + a + b"],
+      "correctIndex": 0,
+      "explanation": "f(x) = x² - (a+b)x + ab. f'(x) = 2x - (a+b).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m13_q13",
+      "text": "The derivative of cot x is:",
+      "options": ["cosec² x", "-cosec² x", "sec² x", "-sec² x"],
+      "correctIndex": 1,
+      "explanation": "Standard derivative formula: d/dx(cot x) = -cosec² x.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m13_q14",
+      "text": "Find lim_{x→0} (cos x).",
+      "options": ["0", "1", "-1", "Undefined"],
+      "correctIndex": 1,
+      "explanation": "Substitute x = 0, cos 0 = 1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m13_q15",
+      "text": "What is the derivative of x^n?",
+      "options": ["nx^n", "nx^{n-1}", "x^{n-1}", "n x^{n+1}"],
+      "correctIndex": 1,
+      "explanation": "This is the power rule for differentiation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m13_q16",
+      "text": "Find the derivative of sin x cos x.",
+      "options": ["cos² x - sin² x", "cos 2x", "Both A and B", "1"],
+      "correctIndex": 2,
+      "explanation": "Using product rule: sin x (-sin x) + cos x (cos x) = cos² x - sin² x = cos 2x.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m13_q17",
+      "text": "The limit lim_{x→0} (1 - cos x) / x is equal to:",
+      "options": ["0", "1", "1/2", "Undefined"],
+      "correctIndex": 0,
+      "explanation": "This is a standard trigonometric limit result.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m13_q18",
+      "text": "Find the derivative of f(x) = 2x - 3/4.",
+      "options": ["2", "2x", "0", "-3/4"],
+      "correctIndex": 0,
+      "explanation": "d/dx(2x) = 2, d/dx(-3/4) = 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m13_q19",
+      "text": "Find lim_{x→-1} (x³ - x² + 1).",
+      "options": ["1", "-1", "0", "-3"],
+      "correctIndex": 1,
+      "explanation": "Substitute x = -1: (-1)³ - (-1)² + 1 = -1 - 1 + 1 = -1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m13_q20",
+      "text": "The derivative of f(x) = k (constant) is:",
+      "options": ["k", "1", "0", "kx"],
+      "correctIndex": 2,
+      "explanation": "The derivative of any constant value is always zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m13_q21",
+      "text": "Using first principles, the derivative f'(x) is defined as lim_{h→0} of:",
+      "options": ["[f(x+h) - f(x)] / h", "[f(x+h) + f(x)] / h", "[f(x) - f(x-h)] / h", "f(x+h) / h"],
+      "correctIndex": 0,
+      "explanation": "This is the formal definition of the derivative.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m13_q22",
+      "text": "Find the derivative of 1/x.",
+      "options": ["1/x²", "-1/x²", "log x", "1"],
+      "correctIndex": 1,
+      "explanation": "d/dx(x⁻¹) = -1 * x⁻² = -1/x².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m13_q23",
+      "text": "Find the derivative of sin(x + a).",
+      "options": ["cos(x + a)", "cos x", "sin a", "cos a"],
+      "correctIndex": 0,
+      "explanation": "Using chain rule (or expansion), the derivative is cos(x + a).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m13_q24",
+      "text": "Find lim_{x→2} (x² - 4) / (x - 2).",
+      "options": ["0", "2", "4", "Undefined"],
+      "correctIndex": 2,
+      "explanation": "Factorize: (x-2)(x+2)/(x-2) = x+2. As x→2, x+2→4.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m13_q25",
+      "text": "The derivative of tan x is:",
+      "options": ["sec x", "sec² x", "cot x", "-sec² x"],
+      "correctIndex": 1,
+      "explanation": "Standard derivative: d/dx(tan x) = sec² x.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m13_q26",
+      "text": "Find f'(x) if f(x) = x + 1/x.",
+      "options": ["1 + 1/x²", "1 - 1/x²", "0", "2x"],
+      "correctIndex": 1,
+      "explanation": "d/dx(x) + d/dx(x⁻¹) = 1 - x⁻².",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m13_q27",
+      "text": "Find lim_{x→0} (tan x / x).",
+      "options": ["0", "1", "Undefined", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "lim (sin x / (x cos x)) = (lim sin x/x) * (lim 1/cos x) = 1 * 1 = 1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m13_q28",
+      "text": "What is the derivative of sec x?",
+      "options": ["sec x tan x", "tan² x", "sec² x", "cosec x"],
+      "correctIndex": 0,
+      "explanation": "Standard derivative: d/dx(sec x) = sec x tan x.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m13_q29",
+      "text": "Find the derivative of (ax + b)^n.",
+      "options": ["n(ax + b)^{n-1}", "an(ax + b)^{n-1}", "n(ax + b)", "a^n"],
+      "correctIndex": 1,
+      "explanation": "Using the chain rule: n(ax+b)^{n-1} * derivative of (ax+b).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m13_q30",
+      "text": "Find lim_{x→0} [ (x + 1)⁵ - 1 ] / x.",
+      "options": ["1", "5", "0", "Undefined"],
+      "correctIndex": 1,
+      "explanation": "This is the derivative of x⁵ at x=1, which is 5(1)⁴ = 5.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m13_q31",
+      "text": "The Quotient Rule states that d/dx [u/v] is:",
+      "options": ["(vu' - uv') / v²", "(uv' - vu') / v²", "(uv' + vu') / v²", "u'/v'"],
+      "correctIndex": 0,
+      "explanation": "This is the formula for the derivative of a ratio of two functions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m13_q32",
+      "text": "Find the derivative of f(x) = x sin x.",
+      "options": ["sin x + x cos x", "sin x - x cos x", "cos x", "x cos x"],
+      "correctIndex": 0,
+      "explanation": "Product rule: (1)sin x + x(cos x).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m13_q33",
+      "text": "Find lim_{x→3} [x² - 9] / [x - 3].",
+      "options": ["3", "0", "6", "Undefined"],
+      "correctIndex": 2,
+      "explanation": "Factorize: (x-3)(x+3)/(x-3) = x+3. As x→3, limit is 6.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m13_q34",
+      "text": "The derivative of cos x is:",
+      "options": ["sin x", "-sin x", "cos x", "-cos x"],
+      "correctIndex": 1,
+      "explanation": "Standard derivative formula.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m13_q35",
+      "text": "Find the derivative of f(x) = 100.",
+      "options": ["100", "1", "0", "x"],
+      "correctIndex": 2,
+      "explanation": "The derivative of any constant is zero.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m13_q36",
+      "text": "Find lim_{x→0} (sin 2x / x).",
+      "options": ["1", "2", "0", "1/2"],
+      "correctIndex": 1,
+      "explanation": "lim (sin 2x / 2x) * 2 = 1 * 2 = 2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m13_q37",
+      "text": "Find the derivative of x² + 2x + 1.",
+      "options": ["2x + 2", "x + 2", "2x + 1", "2x"],
+      "correctIndex": 0,
+      "explanation": "d/dx(x²) = 2x, d/dx(2x) = 2, d/dx(1) = 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m13_q38",
+      "text": "Find lim_{x→1} [ (x² + 1) / (x + 1) ].",
+      "options": ["1", "2", "0", "0.5"],
+      "correctIndex": 0,
+      "explanation": "Direct substitution: (1+1)/(1+1) = 2/2 = 1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m13_q39",
+      "text": "Find the derivative of cosec x.",
+      "options": ["-cosec x cot x", "cosec x cot x", "-cosec² x", "sec x tan x"],
+      "correctIndex": 0,
+      "explanation": "Standard derivative: d/dx(cosec x) = -cosec x cot x.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m13_q40",
+      "text": "Find lim_{x→0} [ (e^x - 1) / x ].",
+      "options": ["0", "1", "e", "Undefined"],
+      "correctIndex": 1,
+      "explanation": "This is a standard exponential limit result.",
+      "frequencyRating": 3
+    }
+  ]
+}

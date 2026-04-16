@@ -1,0 +1,58 @@
+{
+  "id": "g11_bio_ch18",
+  "grade": "11",
+  "subject": "Biology",
+  "number": "18",
+  "title": "Body Fluids and Circulation",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_b18_q1",
+      "text": "Which chamber of the heart receives oxygenated blood from the lungs?",
+      "options": ["Right atrium", "Left atrium", "Right ventricle", "Left ventricle"],
+      "correctIndex": 1,
+      "explanation": "The left atrium receives oxygen-rich blood from pulmonary veins.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q2",
+      "text": "Blood plasma is mainly composed of: ",
+      "options": ["Red blood cells", "Water", "Platelets", "Fats"],
+      "correctIndex": 1,
+      "explanation": "Plasma is about 90% water and carries dissolved substances.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b18_q3",
+      "text": "The circulation that sends blood from the heart to the body and back is called: ",
+      "options": ["Pulmonary circulation", "Systemic circulation", "Portal circulation", "Lymphatic circulation"],
+      "correctIndex": 1,
+      "explanation": "Systemic circulation moves blood between the heart and the rest of the body.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q4",
+      "text": "Arteries carry blood: ",
+      "options": ["Toward the heart", "Away from the heart", "Only deoxygenated blood", "Only through lungs"],
+      "correctIndex": 1,
+      "explanation": "Arteries carry blood away from the heart, usually oxygenated.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b18_q5",
+      "text": "Capillaries are important because they: ",
+      "options": ["Transport hormones", "Exchange gases and nutrients", "Carry lymph", "Generate blood cells"],
+      "correctIndex": 1,
+      "explanation": "Capillaries permit exchange of oxygen, carbon dioxide, and nutrients between blood and tissues.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q6",
+      "text": "Lymph is a fluid that is similar to: ",
+      "options": ["Blood plasma", "Red blood cells", "Urine", "Saliva"],
+      "correctIndex": 0,
+      "explanation": "Lymph is derived from tissue fluid and resembles plasma without red blood cells.",
+      "frequencyRating": 4
+    }
+  ]
+}

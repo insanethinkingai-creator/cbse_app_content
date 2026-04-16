@@ -1,0 +1,58 @@
+{
+  "id": "g11_bio_ch9",
+  "grade": "11",
+  "subject": "Biology",
+  "number": "9",
+  "title": "Biomolecules",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_b9_q1",
+      "text": "Which biomolecule is the main source of quick energy for cells?",
+      "options": ["Proteins", "Lipids", "Carbohydrates", "Nucleic acids"],
+      "correctIndex": 2,
+      "explanation": "Carbohydrates are the primary source of energy in many organisms.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b9_q2",
+      "text": "Proteins are polymers of: ",
+      "options": ["Nucleotides", "Amino acids", "Monosaccharides", "Fatty acids"],
+      "correctIndex": 1,
+      "explanation": "Proteins are built from amino acids linked by peptide bonds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b9_q3",
+      "text": "Which of the following is a lipid?",
+      "options": ["Glucose", "Cholesterol", "Adenine", "Alanine"],
+      "correctIndex": 1,
+      "explanation": "Cholesterol is a lipid found in cell membranes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b9_q4",
+      "text": "Enzymes are proteins that act as: ",
+      "options": ["Structural components", "Hormones", "Biological catalysts", "Energy stores"],
+      "correctIndex": 2,
+      "explanation": "Enzymes speed up biochemical reactions without being consumed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b9_q5",
+      "text": "Which nucleic acid carries genetic information?",
+      "options": ["ATP", "DNA", "RNA", "Both DNA and RNA"],
+      "correctIndex": 3,
+      "explanation": "DNA stores genetic information, while RNA helps transmit it.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b9_q6",
+      "text": "The building blocks of nucleic acids are: ",
+      "options": ["Amino acids", "Nucleotides", "Monosaccharides", "Fatty acids"],
+      "correctIndex": 1,
+      "explanation": "Nucleotides consist of a sugar, phosphate, and nitrogenous base.",
+      "frequencyRating": 4
+    }
+  ]
+}

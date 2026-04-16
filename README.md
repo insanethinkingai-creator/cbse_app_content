@@ -16,7 +16,7 @@ Each chapter JSON file follows a strict schema to ensure compatibility with the 
 | Key | Type | Description |
 | :--- | :--- | :--- |
 | `id` | String | Unique identifier (e.g., `g7_math_ch1`) |
-| `grade` | String | "7", "10" or "12" |
+| `grade` | String | "7", "10", "11" or "12" |
 | `subject` | String | e.g., "Mathematics", "Science", "History", etc. |
 | `number` | String | Chapter number as per NCERT |
 | `title` | String | Official chapter name |
@@ -183,6 +183,50 @@ This script automatically packages all chapters into `g7_v1.zip`, calculates its
 | 4 | The Age of Industrialisation | ✅ v1 |
 | 5 | Print Culture and the Modern World | ✅ v1 |
 
+### Mathematics (40 Questions per Chapter)
+| Ch # | Chapter Title | Status |
+| :--- | :--- | :--- |
+| 1 | Real Numbers | ✅ v1 |
+| 2 | Polynomials | ✅ v1 |
+| 3 | Pair of Linear Equations in Two Variables | ✅ v1 |
+| 4 | Quadratic Equations | ✅ v1 |
+| 5 | Arithmetic Progressions | ✅ v1 |
+| 6 | Triangles | ✅ v1 |
+| 7 | Coordinate Geometry | ✅ v1 |
+| 8 | Introduction to Trigonometry | ✅ v1 |
+| 9 | Some Applications of Trigonometry | ✅ v1 |
+| 10 | Circles | ✅ v1 |
+| 11 | Areas Related to Circles | ✅ v1 |
+| 12 | Surface Areas and Volumes | ✅ v1 |
+| 13 | Statistics | ✅ v1 |
+| 14 | Probability | ✅ v1 |
+
+### Science (40 Questions per Chapter)
+| Ch # | Chapter Title | Status |
+| :--- | :--- | :--- |
+| 1 | Chemical Reactions and Equations | ✅ v1 |
+| 2 | Acids, Bases and Salts | ✅ v1 |
+| 3 | Metals and Non-metals | ✅ v1 |
+| 4 | Carbon and its Compounds | ✅ v1 |
+| 5 | Life Processes | ✅ v1 |
+| 6 | Control and Coordination | ✅ v1 |
+| 7 | How do Organisms Reproduce? | ✅ v1 |
+| 8 | Heredity | ✅ v1 |
+| 9 | Light – Reflection and Refraction | ✅ v1 |
+| 10 | The Human Eye and the Colourful World | ✅ v1 |
+| 11 | Electricity | ✅ v1 |
+| 12 | Magnetic Effects of Electric Current | ✅ v1 |
+| 13 | Our Environment | ✅ v1 |
+
+### Social Science - History (40 Questions per Chapter)
+| Ch # | Chapter Title | Status |
+| :--- | :--- | :--- |
+| 1 | The Rise of Nationalism in Europe | ✅ v1 |
+| 2 | Nationalism in India | ✅ v1 |
+| 3 | The Making of a Global World | ✅ v1 |
+| 4 | The Age of Industrialisation | ✅ v1 |
+| 5 | Print Culture and the Modern World | ✅ v1 |
+
 ### Social Science - Geography (40 Questions per Chapter)
 | Ch # | Chapter Title | Status |
 | :--- | :--- | :--- |
@@ -224,6 +268,51 @@ This script automatically packages all chapters into `g7_v1.zip`, calculates its
 | 7 | Madam Rides the Bus | ✅ v1 |
 | 8 | The Sermon at Benares | ✅ v1 |
 | 9 | The Proposal | ✅ v1 |
+
+## Class 11 Syllabus Coverage (NCERT Rationalised)
+
+### Mathematics (40 Questions per Chapter)
+| Ch # | Chapter Title | Status |
+| :--- | :--- | :--- |
+| 1 | Sets | ⏳ Pending |
+| 2 | Relations and Functions | ⏳ Pending |
+| 3 | Trigonometric Functions | ⏳ Pending |
+| 4 | Principle of Mathematical Induction | ⏳ Pending |
+| 5 | Complex Numbers and Quadratic Equations | ⏳ Pending |
+| 6 | Linear Inequalities | ⏳ Pending |
+| 7 | Permutations and Combinations | ⏳ Pending |
+| 8 | Binomial Theorem | ⏳ Pending |
+| 9 | Sequences and Series | ⏳ Pending |
+| 10 | Straight Lines | ⏳ Pending |
+| 11 | Conic Sections | ⏳ Pending |
+| 12 | Introduction to Three Dimensional Geometry | ⏳ Pending |
+| 13 | Limits and Derivatives | ⏳ Pending |
+| 14 | Statistics | ⏳ Pending |
+| 15 | Probability | ⏳ Pending |
+
+### Physics (40 Questions per Chapter)
+| Ch # | Chapter Title | Status |
+| :--- | :--- | :--- |
+| 1 | Physical World | ⏳ Pending |
+| 2 | Units and Measurements | ⏳ Pending |
+| 3 | Motion in a Straight Line | ⏳ Pending |
+| 4 | Motion in a Plane | ⏳ Pending |
+| 5 | Laws of Motion | ⏳ Pending |
+| 6 | Work, Energy and Power | ⏳ Pending |
+| 7 | System of Particles and Rotational Motion | ⏳ Pending |
+| 8 | Gravitation | ⏳ Pending |
+| 9 | Mechanical Properties of Solids | ⏳ Pending |
+| 10 | Mechanical Properties of Fluids | ⏳ Pending |
+| 11 | Thermal Properties of Matter | ⏳ Pending |
+| 12 | Thermodynamics | ⏳ Pending |
+| 13 | Kinetic Theory | ⏳ Pending |
+| 14 | Oscillations | ⏳ Pending |
+| 15 | Waves | ⏳ Pending |
+
+### English (40 Questions per Chapter)
+| Ch # | Chapter Title | Status |
+| :--- | :--- | :--- |
+| 1 | The Portrait of a Lady | ⏳ Pending |
 
 ## Class 12 Syllabus Coverage (NCERT Rationalised)
 

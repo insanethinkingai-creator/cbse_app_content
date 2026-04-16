@@ -1,0 +1,330 @@
+{
+  "id": "g11_bio_ch6",
+  "grade": "11",
+  "subject": "Biology",
+  "number": "6",
+  "title": "Anatomy of Flowering Plants",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_b6_q1",
+      "text": "Which tissue conducts water in flowering plants?",
+      "options": ["Phloem", "Xylem", "Epidermis", "Collenchyma"],
+      "correctIndex": 1,
+      "explanation": "Xylem transports water and dissolved minerals from root to shoot.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q2",
+      "text": "Which tissue protects the plant and helps reduce water loss?",
+      "options": ["Vascular tissue", "Ground tissue", "Epidermis", "Parenchyma"],
+      "correctIndex": 2,
+      "explanation": "The epidermis forms the outer protective layer of the plant body.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b6_q3",
+      "text": "Which meristem is responsible for secondary growth in dicot stems?",
+      "options": ["Apical meristem", "Lateral meristem", "Intercalary meristem", "Root cap"],
+      "correctIndex": 1,
+      "explanation": "Lateral meristem such as cambium adds girth to stems and roots.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q4",
+      "text": "The vascular bundles in a dicot stem are arranged: ",
+      "options": ["In a ring", "Scattered randomly", "At the centre only", "In a cross shape"],
+      "correctIndex": 0,
+      "explanation": "Dicot stems have vascular bundles arranged in a ring around the pith.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q5",
+      "text": "Which layer of the root is responsible for lateral root formation?",
+      "options": ["Cortex", "Epidermis", "Pericycle", "Endodermis"],
+      "correctIndex": 2,
+      "explanation": "The pericycle gives rise to lateral roots in dicot plants.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q6",
+      "text": "Which tissue helps in support and is alive at maturity?",
+      "options": ["Sclerenchyma", "Collenchyma", "Xylem", "Epidermis"],
+      "correctIndex": 1,
+      "explanation": "Collenchyma provides flexible support and is living at maturity.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b6_q7",
+      "text": "The study of internal structure of plants is called:",
+      "options": ["Morphology", "Anatomy", "Physiology", "Taxonomy"],
+      "correctIndex": 1,
+      "explanation": "Anatomy deals with the organization and structure of tissues and organs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q8",
+      "text": "A group of cells having a common origin and usually performing a common function is called a:",
+      "options": ["Organ", "System", "Tissue", "Organelle"],
+      "correctIndex": 2,
+      "explanation": "Tissues are classified into meristematic and permanent tissues.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q9",
+      "text": "Meristems which appear early in life of a plant and contribute to the formation of the primary plant body are called:",
+      "options": ["Primary meristems", "Secondary meristems", "Lateral meristems", "Permanent tissues"],
+      "correctIndex": 0,
+      "explanation": "They include apical meristems and intercalary meristems.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q10",
+      "text": "The meristem which occurs between mature tissues is known as:",
+      "options": ["Apical meristem", "Intercalary meristem", "Lateral meristem", "Cork cambium"],
+      "correctIndex": 1,
+      "explanation": "They occur in grasses and regenerate parts removed by the grazing herbivores.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q11",
+      "text": "Which tissue is composed of cells that are generally isodiametric and perform functions like photosynthesis, storage and secretion?",
+      "options": ["Parenchyma", "Collenchyma", "Sclerenchyma", "Xylem"],
+      "correctIndex": 0,
+      "explanation": "Parenchyma forms the major component within organs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q12",
+      "text": "Sclerenchyma consists of long, narrow cells with thick and lignified cell walls having a few or numerous pits. They are usually:",
+      "options": ["Dead and without protoplasts", "Living and with protoplasts", "Thin walled", "Involved in secretion"],
+      "correctIndex": 0,
+      "explanation": "They provide mechanical support to organs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q13",
+      "text": "Xylem is composed of four different kinds of elements, namely:",
+      "options": ["Sieve tubes, companion cells, phloem parenchyma, phloem fibres", "Tracheids, vessels, xylem fibres, xylem parenchyma", "Tracheids, sieve tubes, vessels, parenchyma", "Vessels, fibres, companion cells, tracheids"],
+      "correctIndex": 1,
+      "explanation": "Gymnosperms lack vessels in their xylem.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q14",
+      "text": "In primary xylem, the first formed xylem elements are called ________ and the later formed are called ________.",
+      "options": ["Metaxylem, Protoxylem", "Protoxylem, Metaxylem", "Endarch, Exarch", "Exarch, Endarch"],
+      "correctIndex": 1,
+      "explanation": "In stems, protoxylem lies towards the centre (pith) and metaxylem lies towards the periphery (endarch condition).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q15",
+      "text": "The cells of Phloem which are involved in transport of food and are closely associated with companion cells are:",
+      "options": ["Albuminous cells", "Sieve tube elements", "Phloem fibres", "Xylem parenchyma"],
+      "correctIndex": 1,
+      "explanation": "A mature sieve element possesses a peripheral cytoplasm and a large vacuole but lacks a nucleus.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q16",
+      "text": "The epidermal hairs on the stem are called:",
+      "options": ["Root hairs", "Trichomes", "Stomata", "Cuticle"],
+      "correctIndex": 1,
+      "explanation": "Trichomes are usually multicellular and help in preventing water loss due to transpiration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q17",
+      "text": "In a dicot leaf, the tissue between the upper and the lower epidermis is called the:",
+      "options": ["Cortex", "Mesophyll", "Pith", "Stele"],
+      "correctIndex": 1,
+      "explanation": "Mesophyll contains chloroplasts and carries out photosynthesis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q18",
+      "text": "In dicot stems, the cells between xylem and phloem which become meristematic are called:",
+      "options": ["Interfascicular cambium", "Intrafascicular cambium", "Cork cambium", "Phelloderm"],
+      "correctIndex": 1,
+      "explanation": "Intrafascicular cambium is a primary meristem present between primary xylem and primary phloem.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b6_q19",
+      "text": "The activity of cambium is under the control of many physiological and environmental factors. In temperate regions, the cambium is more active in spring, producing:",
+      "options": ["Late wood", "Autumn wood", "Early wood", "Heartwood"],
+      "correctIndex": 2,
+      "explanation": "Spring wood or early wood has xylem elements with wider vessels.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q20",
+      "text": "The dark brown, hard and durable central region of secondary xylem that is resistant to microorganisms is:",
+      "options": ["Sapwood", "Heartwood", "Phelloderm", "Bark"],
+      "correctIndex": 1,
+      "explanation": "Heartwood (duramen) does not conduct water but gives mechanical support.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q21",
+      "text": "The functional, peripheral region of secondary xylem which is lighter in colour and involved in water conduction is:",
+      "options": ["Heartwood", "Sapwood", "Alburnum", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "Sapwood is also known as alburnum.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b6_q22",
+      "text": "The phellogen, phellem and phelloderm are collectively known as:",
+      "options": ["Bark", "Periderm", "Secondary cortex", "Cork"],
+      "correctIndex": 1,
+      "explanation": "Phellogen is cork cambium; phellem is cork; phelloderm is secondary cortex.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q23",
+      "text": "Lenticels are lens-shaped openings in the bark that permit:",
+      "options": ["Water absorption", "Exchange of gases", "Food transport", "Photosynthesis"],
+      "correctIndex": 1,
+      "explanation": "They occur in most woody trees.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q24",
+      "text": "Secondary growth occurs in:",
+      "options": ["Dicot roots and stems", "Monocot roots and stems", "Leaves", "Bryophytes"],
+      "correctIndex": 0,
+      "explanation": "Most monocotyledons do not exhibit secondary growth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q25",
+      "text": "The ground tissue system consists of all tissues except:",
+      "options": ["Parenchyma and Sclerenchyma", "Epidermis and vascular bundles", "Cortex and pith", "Endodermis and pericycle"],
+      "correctIndex": 1,
+      "explanation": "Ground tissue constitutes the bulk of the plant body.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q26",
+      "text": "Vascular bundles in which cambium is present between phloem and xylem are called:",
+      "options": ["Closed vascular bundles", "Open vascular bundles", "Radial vascular bundles", "Conjoint vascular bundles"],
+      "correctIndex": 1,
+      "explanation": "Open bundles possess the ability to form secondary xylem and phloem tissues.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q27",
+      "text": "In roots, xylem and phloem in a vascular bundle are arranged in an alternate manner along different radii, such an arrangement is called:",
+      "options": ["Conjoint", "Radial", "Collateral", "Bicollateral"],
+      "correctIndex": 1,
+      "explanation": "Radial arrangement is characteristic of roots.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q28",
+      "text": "The innermost layer of the cortex in dicot roots is called:",
+      "options": ["Pericycle", "Endodermis", "Hypodermis", "Epidermis"],
+      "correctIndex": 1,
+      "explanation": "It contains Casparian strips which are water-impermeable waxy material suberin.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q29",
+      "text": "Stomata are regulated by two bean-shaped cells known as:",
+      "options": ["Subsidiary cells", "Guard cells", "Epidermal cells", "Complementary cells"],
+      "correctIndex": 1,
+      "explanation": "In grasses, the guard cells are dumb-bell shaped.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q30",
+      "text": "The bulliform cells in grasses help in:",
+      "options": ["Photosynthesis", "Minimising water loss", "Food storage", "Transpiration"],
+      "correctIndex": 1,
+      "explanation": "When they are flaccid due to water stress, they make the leaves curl inwards.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b6_q31",
+      "text": "In a dicot stem, the layer of cells just below the epidermis which provides mechanical strength to the young stem is:",
+      "options": ["Cortex", "Endodermis", "Hypodermis", "Pericycle"],
+      "correctIndex": 2,
+      "explanation": "In dicots, hypodermis is collenchymatous.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b6_q32",
+      "text": "Monocot stems are characterized by the presence of:",
+      "options": ["A ring of vascular bundles", "Scattered vascular bundles", "A large pith", "Phloem parenchyma"],
+      "correctIndex": 1,
+      "explanation": "Each vascular bundle is surrounded by a sclerenchymatous bundle sheath.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q33",
+      "text": "In a dorsiventral (dicot) leaf, the palisade parenchyma is located towards the:",
+      "options": ["Abaxial epidermis", "Adaxial epidermis", "Midrib", "Stomata"],
+      "correctIndex": 1,
+      "explanation": "Adaxial is upper surface; abaxial is lower surface.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q34",
+      "text": "Isobilateral leaves are characteristic of:",
+      "options": ["Dicots", "Monocots", "Gymnosperms", "Pteridophytes"],
+      "correctIndex": 1,
+      "explanation": "In an isobilateral leaf, the stomata are present on both the surfaces of the epidermis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q35",
+      "text": "Primary xylem and primary phloem are formed by:",
+      "options": ["Vascular cambium", "Apical meristem", "Cork cambium", "Lateral meristem"],
+      "correctIndex": 1,
+      "explanation": "They are part of the primary growth of the plant.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b6_q36",
+      "text": "Wood is actually:",
+      "options": ["Primary xylem", "Secondary xylem", "Primary phloem", "Secondary phloem"],
+      "correctIndex": 1,
+      "explanation": "Continuous activity of the vascular cambium adds layers of secondary xylem.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q37",
+      "text": "Annual rings are formed by the combination of:",
+      "options": ["Heartwood and Sapwood", "Spring wood and Autumn wood", "Phellogen and Phelloderm", "Xylem and Phloem"],
+      "correctIndex": 1,
+      "explanation": "One annual ring represents the growth of one year.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b6_q38",
+      "text": "In dicot roots, the vascular cambium is entirely ________ in origin.",
+      "options": ["Primary", "Secondary", "Meristematic", "Permanent"],
+      "correctIndex": 1,
+      "explanation": "It originates from the tissue located just below the phloem bundles and a portion of pericycle tissue.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b6_q39",
+      "text": "The conjunctive tissue is found in:",
+      "options": ["Dicot stem", "Monocot stem", "Root", "Leaf"],
+      "correctIndex": 2,
+      "explanation": "The parenchymatous cells which lie between the xylem and the phloem in roots are called conjunctive tissue.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b6_q40",
+      "text": "Which of the following is NOT a lateral meristem?",
+      "options": ["Fascicular vascular cambium", "Interfascicular cambium", "Cork cambium", "Intercalary meristem"],
+      "correctIndex": 3,
+      "explanation": "Intercalary meristem is a primary meristem.",
+      "frequencyRating": 5
+    }
+  ]
+}

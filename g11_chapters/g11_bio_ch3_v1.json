@@ -1,0 +1,330 @@
+{
+  "id": "g11_bio_ch3",
+  "grade": "11",
+  "subject": "Biology",
+  "number": "3",
+  "title": "Plant Kingdom",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_b3_q1",
+      "text": "Which of the following is a characteristic of the plant kingdom?",
+      "options": ["Multicellular and autotrophic", "Unicellular and heterotrophic", "Motile and filter feeding", "Acellular and parasitic"],
+      "correctIndex": 0,
+      "explanation": "Plants are mostly multicellular and carry out photosynthesis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q2",
+      "text": "Bryophytes differ from pteridophytes because they: ",
+      "options": ["Have vascular tissues", "Do not have vascular tissues", "Bear seeds", "Produce flowers"],
+      "correctIndex": 1,
+      "explanation": "Bryophytes are non-vascular plants and lack xylem and phloem.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q3",
+      "text": "Which group of plants reproduces by spores and has true vascular tissue?",
+      "options": ["Bryophytes", "Pteridophytes", "Gymnosperms", "Angiosperms"],
+      "correctIndex": 1,
+      "explanation": "Pteridophytes are vascular plants that reproduce via spores.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q4",
+      "text": "Gymnosperms are called naked seeds because their seeds are: ",
+      "options": ["Not enclosed in an ovary", "Produced in flowers", "Protected by fruit", "Non-viable"],
+      "correctIndex": 0,
+      "explanation": "Gymnosperm seeds are exposed on cones or scales, not enclosed in fruit.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q5",
+      "text": "Which plant group is largely aquatic and photosynthetic?",
+      "options": ["Algae", "Fungi", "Bryophytes", "Gymnosperms"],
+      "correctIndex": 0,
+      "explanation": "Algae are mostly aquatic and perform photosynthesis.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b3_q6",
+      "text": "Which of these is NOT a plant kingdom division?",
+      "options": ["Bryophyta", "Pteridophyta", "Mollusca", "Angiospermae"],
+      "correctIndex": 2,
+      "explanation": "Mollusca is an animal phylum, not a plant division.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b3_q7",
+      "text": "The artificial system of classification given by Linnaeus was based on:",
+      "options": ["Vegetative characters", "Androecium structure", "Both vegetative and sexual characters", "Anatomy and Embryology"],
+      "correctIndex": 2,
+      "explanation": "Linnaeus's system was artificial as it used only gross superficial morphological characters.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b3_q8",
+      "text": "Phylogenetic classification systems are based on:",
+      "options": ["Morphological features", "Cytological information", "Evolutionary relationships", "Chemical constituents"],
+      "correctIndex": 2,
+      "explanation": "Phylogenetic systems assume that organisms belonging to the same taxa have a common ancestor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q9",
+      "text": "Numerical Taxonomy is based on:",
+      "options": ["Chromosome number", "All observable characteristics", "Chemical constituents", "Evolutionary history"],
+      "correctIndex": 1,
+      "explanation": "Numerical Taxonomy uses computers and is based on all observable characteristics.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b3_q10",
+      "text": "Fusion of two gametes dissimilar in size, as in some species of Chlamydomonas, is termed as:",
+      "options": ["Isogamous", "Anisogamous", "Oogamous", "Zoogamous"],
+      "correctIndex": 1,
+      "explanation": "Anisogamous fusion involves gametes of different sizes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q11",
+      "text": "Agar, one of the commercial products obtained from Gelidium and Gracilaria, is used to grow microbes and in preparations of ice-creams and jellies. These algae are:",
+      "options": ["Green algae", "Brown algae", "Red algae", "Blue-green algae"],
+      "correctIndex": 2,
+      "explanation": "Gelidium and Gracilaria are red algae (Rhodophyceae).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q12",
+      "text": "Chlorophyceae members are commonly called:",
+      "options": ["Green algae", "Brown algae", "Red algae", "Blue-green algae"],
+      "correctIndex": 0,
+      "explanation": "Chlorophyceae contains chlorophyll a and b, giving them a grass green color.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q13",
+      "text": "The storage bodies in the chloroplasts of green algae are called:",
+      "options": ["Pyrenoids", "Starch grains", "Oil droplets", "Leucoplasts"],
+      "correctIndex": 0,
+      "explanation": "Pyrenoids contain protein besides starch.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q14",
+      "text": "Phaeophyceae members are commonly called:",
+      "options": ["Green algae", "Brown algae", "Red algae", "Kelps"],
+      "correctIndex": 1,
+      "explanation": "They range from olive green to various shades of brown depending on fucoxanthin concentration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q15",
+      "text": "The major pigments in Phaeophyceae are:",
+      "options": ["Chlorophyll a, b", "Chlorophyll a, c and fucoxanthin", "Chlorophyll a, d and phycoerythrin", "Chlorophyll a, b and xanthophylls"],
+      "correctIndex": 1,
+      "explanation": "Brown algae possess chlorophyll a, c, carotenoids and xanthophylls.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q16",
+      "text": "Food is stored as complex carbohydrates, which may be in the form of laminarin or mannitol in:",
+      "options": ["Chlorophyceae", "Phaeophyceae", "Rhodophyceae", "Cyanophyceae"],
+      "correctIndex": 1,
+      "explanation": "Laminarin and mannitol are characteristic storage products of brown algae.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b3_q17",
+      "text": "The plant body of brown algae is usually attached to the substratum by a:",
+      "options": ["Stipe", "Holdfast", "Frond", "Rhizoid"],
+      "correctIndex": 1,
+      "explanation": "The plant body consists of a holdfast, a stipe (stalk) and a frond (leaf like organ).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b3_q18",
+      "text": "Rhodophyceae are commonly called red algae because of the predominance of the red pigment:",
+      "options": ["Chlorophyll d", "r-phycoerythrin", "Fucoxanthin", "Phycocyanin"],
+      "correctIndex": 1,
+      "explanation": "r-phycoerythrin gives the characteristic red color to these algae.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q19",
+      "text": "In red algae, food is stored as floridean starch which is very similar to:",
+      "options": ["Amylopectin and glycogen", "Amylose and cellulose", "Mannitol and laminarin", "Glycogen and glucose"],
+      "correctIndex": 0,
+      "explanation": "Floridean starch has a structure similar to amylopectin and glycogen.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b3_q20",
+      "text": "Bryophytes are also called:",
+      "options": ["Vascular cryptogams", "Amphibians of the plant kingdom", "Naked seeded plants", "Phanerogams"],
+      "correctIndex": 1,
+      "explanation": "They live in soil but are dependent on water for sexual reproduction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q21",
+      "text": "The main plant body of the bryophyte is:",
+      "options": ["Diploid sporophyte", "Haploid gametophyte", "Diploid gametophyte", "Haploid sporophyte"],
+      "correctIndex": 1,
+      "explanation": "The gametophyte is the dominant, independent phase in bryophytes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q22",
+      "text": "The male sex organ in bryophytes is called:",
+      "options": ["Archegonium", "Antheridium", "Oogonium", "Sporangium"],
+      "correctIndex": 1,
+      "explanation": "Antheridia produce biflagellate antherozoids.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q23",
+      "text": "The female sex organ in bryophytes is:",
+      "options": ["Flask-shaped antheridium", "Globe-shaped archegonium", "Flask-shaped archegonium", "Disk-shaped thallus"],
+      "correctIndex": 2,
+      "explanation": "Archegonium is flask-shaped and produces a single egg.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q24",
+      "text": "Peat, used as fuel and packing material, is provided by:",
+      "options": ["Marchantia", "Riccia", "Sphagnum", "Funaria"],
+      "correctIndex": 2,
+      "explanation": "Sphagnum (a moss) forms peat over long periods of time.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q25",
+      "text": "Gemmae are asexual buds found in:",
+      "options": ["Mosses", "Liverworts", "Ferns", "Gymnosperms"],
+      "correctIndex": 1,
+      "explanation": "Gemmae are green, multicellular, asexual buds which develop in gemma cups on the thalli of liverworts like Marchantia.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b3_q26",
+      "text": "The first stage of the gametophyte in mosses, which develops directly from a spore, is:",
+      "options": ["Leafy stage", "Protonema stage", "Sporophyte stage", "Capsule stage"],
+      "correctIndex": 1,
+      "explanation": "The protonema is a creeping, green, branched and often filamentous stage.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q27",
+      "text": "The sporophyte in mosses is more elaborate than in liverworts and consists of:",
+      "options": ["Root, stem, leaf", "Foot, seta and capsule", "Thallus and rhizoids", "Holdfast and stipe"],
+      "correctIndex": 1,
+      "explanation": "The sporophyte is semi-parasitic on the gametophyte and produces spores in the capsule.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b3_q28",
+      "text": "Pteridophytes include:",
+      "options": ["Mosses and liverworts", "Horsetails and ferns", "Cycads and conifers", "Algae and fungi"],
+      "correctIndex": 1,
+      "explanation": "Pteridophytes are the first terrestrial plants to possess vascular tissues (xylem and phloem).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q29",
+      "text": "In pteridophytes, the dominant phase in the life cycle is the:",
+      "options": ["Gametophyte", "Sporophyte", "Protonema", "Prothallus"],
+      "correctIndex": 1,
+      "explanation": "The main plant body is a sporophyte which is differentiated into true roots, stem and leaves.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q30",
+      "text": "Small leaves found in Selaginella (a pteridophyte) are called:",
+      "options": ["Macrophylls", "Microphylls", "Sporophylls", "Fronds"],
+      "correctIndex": 1,
+      "explanation": "Microphylls are small leaves, while ferns have large leaves (macrophylls).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b3_q31",
+      "text": "The spores in pteridophytes germinate to give rise to inconspicuous, small, multicellular, free-living, mostly photosynthetic thalloid gametophytes called:",
+      "options": ["Protonema", "Prothallus", "Sporophyll", "Strobili"],
+      "correctIndex": 1,
+      "explanation": "The prothallus requires cool, damp, shady places to grow and needs water for fertilization.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q32",
+      "text": "Genera like Selaginella and Salvinia which produce two kinds of spores, macro and micro spores, are known as:",
+      "options": ["Homosporous", "Heterosporous", "Isosporous", "Anisosporous"],
+      "correctIndex": 1,
+      "explanation": "Heterospory is considered an important step in evolution leading to the seed habit.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q33",
+      "text": "Gymnosperms are plants in which the ovules are:",
+      "options": ["Enclosed by an ovary wall", "Not enclosed by any ovary wall", "Attached to a placenta", "Produced inside flowers"],
+      "correctIndex": 1,
+      "explanation": "The ovules remain exposed, both before and after fertilization.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q34",
+      "text": "One of the tallest tree species among gymnosperms is:",
+      "options": ["Pinus", "Cedrus", "Sequoia", "Cycas"],
+      "correctIndex": 2,
+      "explanation": "Sequoia sempervirens (giant redwood) is one of the tallest trees.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b3_q35",
+      "text": "The roots in Pinus have a symbiotic association with fungi called:",
+      "options": ["Coralloid roots", "Mycorrhiza", "Tap roots", "Adventitious roots"],
+      "correctIndex": 1,
+      "explanation": "Mycorrhiza helps in the absorption of water and minerals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q36",
+      "text": "In Cycas, small specialized roots associated with nitrogen-fixing cyanobacteria are called:",
+      "options": ["Mycorrhiza", "Coralloid roots", "Primary roots", "Aerial roots"],
+      "correctIndex": 1,
+      "explanation": "Coralloid roots are found in Cycas and help in N2 fixation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q37",
+      "text": "The leaves in gymnosperms are well-adapted to withstand extremes of temperature, humidity and wind. In conifers, the needle-like leaves reduce:",
+      "options": ["Photosynthesis", "Surface area", "Transpiration", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "Needle-like leaves reduce surface area and thick cuticle/sunken stomata reduce water loss.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b3_q38",
+      "text": "In gymnosperms, the male and female gametophytes:",
+      "options": ["Are independent and free-living", "Do not have an independent free-living existence", "Are the dominant phase", "Develop into a prothallus"],
+      "correctIndex": 1,
+      "explanation": "They remain within the sporangia retained on the sporophytes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q39",
+      "text": "In angiosperms, the male sex organ in a flower is the ________ and the female sex organ is the ________.",
+      "options": ["Stamen, Pistil", "Pistil, Stamen", "Antherozoid, Egg", "Pollen, Ovary"],
+      "correctIndex": 0,
+      "explanation": "Stamen consists of filament and anther; Pistil consists of ovary, style and stigma.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b3_q40",
+      "text": "A unique feature of angiosperms is:",
+      "options": ["Seed formation", "Double fertilization", "Vascular tissues", "Heterospory"],
+      "correctIndex": 1,
+      "explanation": "Double fertilization involves syngamy and triple fusion.",
+      "frequencyRating": 5
+    }
+  ]
+}

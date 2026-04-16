@@ -1,0 +1,330 @@
+{
+  "id": "g11_bio_ch8",
+  "grade": "11",
+  "subject": "Biology",
+  "number": "8",
+  "title": "Cell: Structure and Function",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_b8_q1",
+      "text": "Who is credited with the first observation of cells?",
+      "options": ["Robert Hooke", "Gregor Mendel", "Charles Darwin", "Antonie van Leeuwenhoek"],
+      "correctIndex": 0,
+      "explanation": "Robert Hooke first described cells while observing cork tissue.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q2",
+      "text": "Which organelle is called the powerhouse of the cell?",
+      "options": ["Ribosome", "Nucleus", "Mitochondria", "Chloroplast"],
+      "correctIndex": 2,
+      "explanation": "Mitochondria generate ATP through cellular respiration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q3",
+      "text": "Which structure controls the movement of substances into and out of the cell?",
+      "options": ["Cell wall", "Cell membrane", "Cytoplasm", "Vacuole"],
+      "correctIndex": 1,
+      "explanation": "The cell membrane regulates transport and maintains the cell environment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q4",
+      "text": "Which organelle is responsible for protein synthesis?",
+      "options": ["Golgi apparatus", "Ribosome", "Lysosome", "Vacuole"],
+      "correctIndex": 1,
+      "explanation": "Ribosomes assemble amino acids into proteins.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b8_q5",
+      "text": "Which of these is a feature of prokaryotic cells?",
+      "options": ["Membrane-bound nucleus", "Lack of membrane-bound organelles", "Chromosomes in nucleus", "Large central vacuole"],
+      "correctIndex": 1,
+      "explanation": "Prokaryotes do not have membrane-bound organelles such as a nucleus.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q6",
+      "text": "Which organelle contains chlorophyll and carries out photosynthesis?",
+      "options": ["Mitochondrion", "Chloroplast", "Golgi body", "Lysosome"],
+      "correctIndex": 1,
+      "explanation": "Chloroplasts capture light energy and produce sugars in plant cells.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b8_q7",
+      "text": "Anton von Leeuwenhoek first saw and described a:",
+      "options": ["Dead cell", "Live cell", "Nucleus", "Ribosome"],
+      "correctIndex": 1,
+      "explanation": "Leeuwenhoek saw living cells, whereas Robert Hooke discovered dead cells in cork.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q8",
+      "text": "The Cell Theory was formulated by:",
+      "options": ["Schleiden and Schwann", "Watson and Crick", "Singer and Nicolson", "Robert Brown"],
+      "correctIndex": 0,
+      "explanation": "Proposed by Schleiden (botanist) and Schwann (zoologist).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q9",
+      "text": "Who explained that cells arise from pre-existing cells (Omnis cellula-e cellula)?",
+      "options": ["Rudolf Virchow", "Louis Pasteur", "Robert Brown", "Anton von Leeuwenhoek"],
+      "correctIndex": 0,
+      "explanation": "Rudolf Virchow gave final shape to the cell theory.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q10",
+      "text": "The smallest cell is ________ and the largest isolated single cell is ________.",
+      "options": ["Bacteria, Egg of ostrich", "Mycoplasmas, Egg of ostrich", "Nerve cell, Bacteria", "Mycoplasmas, Nerve cell"],
+      "correctIndex": 1,
+      "explanation": "Mycoplasmas are only 0.3 μm in length.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q11",
+      "text": "Bacteria have small circular DNA outside the genomic DNA called:",
+      "options": ["Nucleoid", "Plasmids", "Mesosomes", "Ribosomes"],
+      "correctIndex": 1,
+      "explanation": "Plasmid DNA confers unique phenotypic characters like antibiotic resistance.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q12",
+      "text": "A specialized differentiated form of cell membrane found in prokaryotes is:",
+      "options": ["Cell wall", "Capsule", "Mesosome", "Flagella"],
+      "correctIndex": 2,
+      "explanation": "Mesosomes are extensions of plasma membrane into the cell.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q13",
+      "text": "Prokaryotic ribosomes are of ________ type.",
+      "options": ["50S", "80S", "70S", "40S"],
+      "correctIndex": 2,
+      "explanation": "They are composed of 50S and 30S subunits.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q14",
+      "text": "Several ribosomes attached to a single mRNA form a chain called:",
+      "options": ["Polysome or polyribosome", "Lysosome", "Centrosome", "Endosome"],
+      "correctIndex": 0,
+      "explanation": "Ribosomes of a polysome translate mRNA into proteins.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b8_q15",
+      "text": "The improved model of cell membrane structure proposed by Singer and Nicolson is:",
+      "options": ["Sandwich model", "Unit membrane model", "Fluid mosaic model", "Bilayer model"],
+      "correctIndex": 2,
+      "explanation": "Describes the quasi-fluid nature enabling lateral movement of proteins.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q16",
+      "text": "The primary function of the plasma membrane is:",
+      "options": ["Provide shape", "Transport of molecules across it", "Protein synthesis", "ATP production"],
+      "correctIndex": 1,
+      "explanation": "It is selectively permeable to molecules on either side of it.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q17",
+      "text": "The movement of water by diffusion across a membrane is called:",
+      "options": ["Active transport", "Facilitated diffusion", "Osmosis", "Pinocytosis"],
+      "correctIndex": 2,
+      "explanation": "Water moves from higher concentration to lower concentration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q18",
+      "text": "Algae have a cell wall made of:",
+      "options": ["Cellulose, galactans, mannans and calcium carbonate", "Cellulose, hemicellulose, pectins and proteins", "Chitin", "Peptidoglycan"],
+      "correctIndex": 0,
+      "explanation": "Algal cell wall composition is distinct from higher plants.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b8_q19",
+      "text": "The layer which holds neighbouring cells together is:",
+      "options": ["Primary wall", "Secondary wall", "Middle lamella", "Plasmodesmata"],
+      "correctIndex": 2,
+      "explanation": "It is mainly composed of calcium pectate.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q20",
+      "text": "The endomembrane system includes:",
+      "options": ["ER, Golgi complex, Lysosomes and Vacuoles", "Mitochondria, Chloroplasts and Peroxisomes", "Nucleus, Ribosomes and Centrioles", "All of the above"],
+      "correctIndex": 0,
+      "explanation": "These organelles have coordinated functions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q21",
+      "text": "Rough Endoplasmic Reticulum (RER) is actively involved in:",
+      "options": ["Lipid synthesis", "Protein synthesis and secretion", "Steroid hormone synthesis", "Glycogen storage"],
+      "correctIndex": 1,
+      "explanation": "RER has surface ribosomes for protein production.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q22",
+      "text": "Smooth Endoplasmic Reticulum (SER) is the major site for synthesis of:",
+      "options": ["Proteins", "Lipids", "RNA", "DNA"],
+      "correctIndex": 1,
+      "explanation": "SER synthesizes lipids and steroidal hormones in animal cells.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q23",
+      "text": "Densely stained structures near the nucleus observed by Camillo Golgi are:",
+      "options": ["Mitochondria", "Golgi apparatus", "Ribosomes", "Nucleoli"],
+      "correctIndex": 1,
+      "explanation": "Consists of flat, disc-shaped cisternae.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q24",
+      "text": "The important site of formation of glycoproteins and glycolipids is:",
+      "options": ["ER", "Golgi apparatus", "Lysosomes", "Vacuoles"],
+      "correctIndex": 1,
+      "explanation": "Golgi apparatus packages and processes materials.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q25",
+      "text": "Lysosomes are rich in which type of enzymes?",
+      "options": ["Oxidative", "Hydrolytic", "Reductive", "Synthetic"],
+      "correctIndex": 1,
+      "explanation": "These enzymes are active at acidic pH.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q26",
+      "text": "In plant cells, the vacuole is bound by a single membrane called:",
+      "options": ["Periderm", "Tonoplast", "Epidermis", "Middle lamella"],
+      "correctIndex": 1,
+      "explanation": "It can occupy up to 90% of the plant cell volume.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q27",
+      "text": "The inner compartment of mitochondria is called:",
+      "options": ["Stroma", "Matrix", "Lumen", "Cisterna"],
+      "correctIndex": 1,
+      "explanation": "Infoldings of the inner membrane are called cristae.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q28",
+      "text": "Chloroplasts contain chlorophyll and which other pigments?",
+      "options": ["Anthocyanin", "Carotenoid", "Phycobilin", "Melanin"],
+      "correctIndex": 1,
+      "explanation": "Pigments responsible for trapping light energy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q29",
+      "text": "The space limited by the inner membrane of the chloroplast is called the:",
+      "options": ["Lumen", "Stroma", "Matrix", "Granum"],
+      "correctIndex": 1,
+      "explanation": "Contains enzymes for synthesis of carbohydrates and proteins.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q30",
+      "text": "The ribosomes of eukaryotic cells are:",
+      "options": ["70S", "80S", "60S", "50S"],
+      "correctIndex": 1,
+      "explanation": "Composed of 60S and 40S subunits.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q31",
+      "text": "Centrosome contains two cylindrical structures called:",
+      "options": ["Cilia", "Flagella", "Centrioles", "Microtubules"],
+      "correctIndex": 2,
+      "explanation": "They are surrounded by pericentriolar materials.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q32",
+      "text": "The core of cilia/flagella with a 9+2 arrangement of microtubules is the:",
+      "options": ["Basal body", "Axoneme", "Radial spoke", "Central sheath"],
+      "correctIndex": 1,
+      "explanation": "Microtubules are made of tubulin protein.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q33",
+      "text": "The nucleus was first described by:",
+      "options": ["Robert Hooke", "Robert Brown", "Flemming", "Camillo Golgi"],
+      "correctIndex": 1,
+      "explanation": "Described in 1831.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q34",
+      "text": "The nucleoplasm contains which of the following?",
+      "options": ["Nucleolus and chromatin", "Ribosomes and ER", "Mitochondria", "Lysosomes"],
+      "correctIndex": 0,
+      "explanation": "Chromatin contains DNA and histone proteins.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b8_q35",
+      "text": "A chromosome with the centromere slightly away from the middle is:",
+      "options": ["Metacentric", "Sub-metacentric", "Acrocentric", "Telocentric"],
+      "correctIndex": 1,
+      "explanation": "Results in one shorter and one longer arm.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b8_q36",
+      "text": "Acrocentric chromosomes have centromere:",
+      "options": ["In the middle", "At the terminal end", "Close to its end", "Slightly away from middle"],
+      "correctIndex": 2,
+      "explanation": "Results in one extremely short arm.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b8_q37",
+      "text": "Minute membrane-bound vesicles containing various enzymes in cells are:",
+      "options": ["Vacuoles", "Microbodies", "Inclusion bodies", "Lysosomes"],
+      "correctIndex": 1,
+      "explanation": "Example: Peroxisomes.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b8_q38",
+      "text": "Which of the following is NOT part of the cytoskeleton?",
+      "options": ["Microtubules", "Microfilaments", "Intermediate filaments", "Cisternae"],
+      "correctIndex": 3,
+      "explanation": "Cisternae belong to the ER or Golgi apparatus.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b8_q39",
+      "text": "The name 'chromatin' for nuclear material was given by:",
+      "options": ["Robert Brown", "Flemming", "Schleiden", "Schwann"],
+      "correctIndex": 1,
+      "explanation": "Flemming used basic dyes to stain nuclear material.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b8_q40",
+      "text": "The primary constriction of a chromosome is called the:",
+      "options": ["Kinetochore", "Centromere", "Satellite", "Telomere"],
+      "correctIndex": 1,
+      "explanation": "Sides contain disc-shaped structures called kinetochores.",
+      "frequencyRating": 5
+    }
+  ]
+}

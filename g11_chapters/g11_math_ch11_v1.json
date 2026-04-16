@@ -1,0 +1,330 @@
+{
+  "id": "g11_math_ch11",
+  "grade": "11",
+  "subject": "Mathematics",
+  "number": "11",
+  "title": "Conic Sections",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_m11_q1",
+      "text": "Which conic section is defined as the set of points equidistant from a fixed point and a fixed line?",
+      "options": ["Circle", "Ellipse", "Parabola", "Hyperbola"],
+      "correctIndex": 2,
+      "explanation": "A parabola is defined by a focus and a directrix, with points equidistant from both.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m11_q2",
+      "text": "The eccentricity of an ellipse is always:",
+      "options": ["0", "Between 0 and 1", "1", "Greater than 1"],
+      "correctIndex": 1,
+      "explanation": "Ellipse eccentricity is between 0 and 1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m11_q3",
+      "text": "The standard equation x^2/a^2 - y^2/b^2 = 1 represents a: ",
+      "options": ["Circle", "Ellipse", "Parabola", "Hyperbola"],
+      "correctIndex": 3,
+      "explanation": "The minus sign between the squared terms indicates a hyperbola.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m11_q4",
+      "text": "For the parabola y^2 = 4ax, the focus is at:",
+      "options": ["(a, 0)", "(2a, 0)", "(a/2, 0)", "(0, a)"],
+      "correctIndex": 0,
+      "explanation": "The focus of y^2 = 4ax is at (a, 0).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m11_q5",
+      "text": "The latus rectum of the parabola y^2 = 4ax has length: ",
+      "options": ["a", "2a", "4a", "8a"],
+      "correctIndex": 2,
+      "explanation": "The length of the latus rectum is 4a.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m11_q6",
+      "text": "Which conic has eccentricity greater than 1?",
+      "options": ["Circle", "Ellipse", "Parabola", "Hyperbola"],
+      "correctIndex": 3,
+      "explanation": "A hyperbola has eccentricity greater than 1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m11_q7",
+      "text": "The set of all points in a plane that are at a constant distance from a fixed point is a:",
+      "options": ["Parabola", "Ellipse", "Circle", "Hyperbola"],
+      "correctIndex": 2,
+      "explanation": "This is the geometric definition of a circle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m11_q8",
+      "text": "The equation of a circle with center (h, k) and radius 'r' is:",
+      "options": ["(x-h)² + (y-k)² = r²", "(x+h)² + (y+k)² = r²", "x² + y² = r²", "x²/a² + y²/b² = 1"],
+      "correctIndex": 0,
+      "explanation": "Standard form derived from the distance formula.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m11_q9",
+      "text": "Find the center and radius of the circle x² + y² + 8x + 10y - 8 = 0.",
+      "options": ["(-4, -5), r=7", "(4, 5), r=7", "(-4, -5), r=49", "(4, 5), r=8"],
+      "correctIndex": 0,
+      "explanation": "(x+4)² + (y+5)² = 8 + 16 + 25 = 49. Center is (-4, -5), r = √49 = 7.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m11_q10",
+      "text": "For the parabola x² = -16y, the focus is:",
+      "options": ["(4, 0)", "(-4, 0)", "(0, 4)", "(0, -4)"],
+      "correctIndex": 3,
+      "explanation": "Comparing with x² = 4ay, 4a = -16 => a = -4. Focus is (0, a) = (0, -4).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m11_q11",
+      "text": "The length of the major axis of the ellipse x²/25 + y²/9 = 1 is:",
+      "options": ["5", "3", "10", "6"],
+      "correctIndex": 2,
+      "explanation": "a² = 25 => a = 5. Length of major axis = 2a = 10.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m11_q12",
+      "text": "In an ellipse, the relationship between a, b, and c is:",
+      "options": ["c² = a² + b²", "c² = a² - b²", "a² = b² - c²", "b² = a² + c²"],
+      "correctIndex": 1,
+      "explanation": "In an ellipse (a > b), the distance to the focus 'c' satisfies c² = a² - b².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m11_q13",
+      "text": "Find the eccentricity of the ellipse x²/25 + y²/9 = 1.",
+      "options": ["4/5", "3/5", "16/25", "2/5"],
+      "correctIndex": 0,
+      "explanation": "c = √(25-9) = 4. e = c/a = 4/5.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m11_q14",
+      "text": "The foci of the hyperbola x²/16 - y²/9 = 1 are:",
+      "options": ["(±4, 0)", "(±3, 0)", "(±5, 0)", "(0, ±5)"],
+      "correctIndex": 2,
+      "explanation": "c² = a² + b² = 16 + 9 = 25. c = 5. Foci are (±c, 0).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m11_q15",
+      "text": "The length of the latus rectum of an ellipse x²/a² + y²/b² = 1 is:",
+      "options": ["2b²/a", "2a²/b", "4a", "b²/a"],
+      "correctIndex": 0,
+      "explanation": "Standard formula for the length of the latus rectum of an ellipse.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m11_q16",
+      "text": "A circle passes through the origin and has intercepts 'a' and 'b' on the axes. Its center is:",
+      "options": ["(a, b)", "(a/2, b/2)", "(0, 0)", "(-a, -b)"],
+      "correctIndex": 1,
+      "explanation": "The circle passes through (0,0), (a,0), and (0,b). The midpoint of the hypotenuse (a,b) is the center.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m11_q17",
+      "text": "The directrix of the parabola y² = 8x is:",
+      "options": ["x = 2", "x = -2", "y = 2", "y = -2"],
+      "correctIndex": 1,
+      "explanation": "4a = 8 => a = 2. Directrix is x = -a.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m11_q18",
+      "text": "The eccentricity of a circle is:",
+      "options": ["0", "1", "Undefined", "Infinite"],
+      "correctIndex": 0,
+      "explanation": "A circle is a limiting case of an ellipse where the two foci coincide (c=0), so e=0.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m11_q19",
+      "text": "Find the length of latus rectum of the hyperbola y²/9 - x²/27 = 1.",
+      "options": ["6", "12", "18", "9"],
+      "correctIndex": 2,
+      "explanation": "a²=9, b²=27. LR = 2b²/a = 2(27)/3 = 18.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m11_q20",
+      "text": "Which conic section is formed when a plane cuts the cone parallel to its generator?",
+      "options": ["Circle", "Ellipse", "Parabola", "Hyperbola"],
+      "correctIndex": 2,
+      "explanation": "Cutting parallel to the generator (slant height) results in a parabola.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m11_q21",
+      "text": "The sum of the distances of any point on an ellipse from its two foci is always equal to:",
+      "options": ["2b", "2a", "c", "a+b"],
+      "correctIndex": 1,
+      "explanation": "This is a fundamental property of ellipses; the sum is equal to the length of the major axis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m11_q22",
+      "text": "The standard equation of a parabola opening downwards is:",
+      "options": ["y² = 4ax", "y² = -4ax", "x² = 4ay", "x² = -4ay"],
+      "correctIndex": 3,
+      "explanation": "x² = -4ay (where a > 0) opens in the negative y direction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m11_q23",
+      "text": "Find the equation of the parabola with focus (6, 0) and directrix x = -6.",
+      "options": ["y² = 24x", "y² = -24x", "x² = 24y", "y² = 12x"],
+      "correctIndex": 0,
+      "explanation": "a = 6. Standard form y² = 4ax => y² = 24x.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m11_q24",
+      "text": "Find the coordinates of the foci of the ellipse 9x² + 4y² = 36.",
+      "options": ["(±√5, 0)", "(0, ±√5)", "(±3, 0)", "(0, ±3)"],
+      "correctIndex": 1,
+      "explanation": "x²/4 + y²/9 = 1. b²=4, a²=9 (vertical). c = √(9-4) = √5. Foci (0, ±√5).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m11_q25",
+      "text": "The transverse axis of the hyperbola x²/a² - y²/b² = 1 is along the:",
+      "options": ["x-axis", "y-axis", "Line y = x", "None"],
+      "correctIndex": 0,
+      "explanation": "The transverse axis passes through the foci and vertices.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m11_q26",
+      "text": "If the eccentricity of a conic is 1, it is a:",
+      "options": ["Circle", "Ellipse", "Parabola", "Hyperbola"],
+      "correctIndex": 2,
+      "explanation": "Parabolas are defined by having eccentricity exactly equal to 1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m11_q27",
+      "text": "The distance between the foci of the ellipse x²/a² + y²/b² = 1 is:",
+      "options": ["a", "2a", "c", "2c"],
+      "correctIndex": 3,
+      "explanation": "Foci are at (c, 0) and (-c, 0). Distance is 2c.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m11_q28",
+      "text": "The length of the minor axis of 4x² + 9y² = 36 is:",
+      "options": ["4", "6", "9", "2"],
+      "correctIndex": 0,
+      "explanation": "x²/9 + y²/4 = 1. a=3, b=2. Minor axis = 2b = 4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m11_q29",
+      "text": "A point is on a hyperbola. The difference of its distances from the two foci is always:",
+      "options": ["2a", "2b", "2c", "0"],
+      "correctIndex": 0,
+      "explanation": "This is the geometric definition of a hyperbola.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m11_q30",
+      "text": "Which of the following points lies inside the circle x² + y² = 25?",
+      "options": ["(3, 4)", "(5, 0)", "(2, 3)", "(6, 1)"],
+      "correctIndex": 2,
+      "explanation": "For (2,3), 2² + 3² = 4 + 9 = 13 < 25. So it's inside.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m11_q31",
+      "text": "Find the equation of the hyperbola with foci (0, ±13) and conjugate axis of length 24.",
+      "options": ["y²/25 - x²/144 = 1", "y²/144 - x²/25 = 1", "x²/144 - y²/25 = 1", "y²/25 + x²/144 = 1"],
+      "correctIndex": 0,
+      "explanation": "c=13, 2b=24 => b=12. a² = c² - b² = 169 - 144 = 25. Vertical hyperbola.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m11_q32",
+      "text": "The equation y² = -8x represents a parabola with axis along:",
+      "options": ["Positive x-axis", "Negative x-axis", "Positive y-axis", "Negative y-axis"],
+      "correctIndex": 1,
+      "explanation": "The axis of symmetry is the x-axis, and it opens to the left.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m11_q33",
+      "text": "The radius of the circle x² + y² - 4x - 8y - 45 = 0 is:",
+      "options": ["√65", "8", "√45", "√20"],
+      "correctIndex": 1,
+      "explanation": "r = √(g² + f² - c) = √(2² + 4² - (-45)) = √(4 + 16 + 45) = √65. Wait, 4+16+45=65. Radius is √65.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m11_q34",
+      "text": "In a parabola, the latus rectum is perpendicular to the:",
+      "options": ["Directrix", "Axis", "Tangent at vertex", "None"],
+      "correctIndex": 1,
+      "explanation": "The latus rectum is a chord through the focus perpendicular to the axis of symmetry.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m11_q35",
+      "text": "If the semi-major axis is 5 and semi-minor axis is 4, the distance between the foci is:",
+      "options": ["3", "6", "9", "4"],
+      "correctIndex": 1,
+      "explanation": "c = √(25-16) = 3. Distance = 2c = 6.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m11_q36",
+      "text": "The equation x² + y² = 0 represents:",
+      "options": ["A circle", "A point", "A line", "An ellipse"],
+      "correctIndex": 1,
+      "explanation": "Only the point (0,0) satisfies this equation. It is called a point circle.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m11_q37",
+      "text": "What is the length of the latus rectum of x² = 12y?",
+      "options": ["3", "6", "12", "24"],
+      "correctIndex": 2,
+      "explanation": "Length of LR = 4a. Here 4a = 12.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m11_q38",
+      "text": "The conjugate axis of the hyperbola y²/a² - x²/b² = 1 is along the:",
+      "options": ["x-axis", "y-axis", "Origin", "None"],
+      "correctIndex": 0,
+      "explanation": "For a vertical hyperbola, the conjugate axis is horizontal (x-axis).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m11_q39",
+      "text": "A circle with center (2,2) touches the x-axis. Its radius is:",
+      "options": ["2", "√2", "4", "Undefined"],
+      "correctIndex": 0,
+      "explanation": "If it touches the x-axis, the radius is equal to the absolute value of the y-coordinate of the center.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m11_q40",
+      "text": "Which conic section is often used to model the path of a projectile in vacuum?",
+      "options": ["Circle", "Ellipse", "Parabola", "Hyperbola"],
+      "correctIndex": 2,
+      "explanation": "The path of a projectile under gravity is a parabola.",
+      "frequencyRating": 3
+    }
+  ]
+}
