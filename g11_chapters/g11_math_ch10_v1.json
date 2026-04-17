@@ -1,0 +1,330 @@
+{
+  "id": "g11_math_ch10",
+  "grade": "11",
+  "subject": "Mathematics",
+  "number": "10",
+  "title": "Straight Lines",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_m10_q1",
+      "text": "What is the slope of the line passing through points (1, 2) and (4, 8)?",
+      "options": ["2", "3", "6", "1/2"],
+      "correctIndex": 0,
+      "explanation": "Slope = (8 - 2) / (4 - 1) = 6 / 3 = 2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m10_q2",
+      "text": "The equation of a line with slope 2 that passes through (0, 3) is:",
+      "options": ["y = 2x + 3", "y = 2x - 3", "x + 2y = 3", "2x - y + 3 = 0"],
+      "correctIndex": 0,
+      "explanation": "Using y = mx + c with slope 2 and intercept 3 gives y = 2x + 3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m10_q3",
+      "text": "The slope of a line parallel to 3x - 4y + 5 = 0 is:",
+      "options": ["3/4", "-3/4", "4/3", "-4/3"],
+      "correctIndex": 0,
+      "explanation": "The line has slope 3/4, so any parallel line has the same slope.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m10_q4",
+      "text": "The line perpendicular to y = 2x + 1 has slope:",
+      "options": ["-1/2", "1/2", "-2", "2"],
+      "correctIndex": 0,
+      "explanation": "Perpendicular slopes are negative reciprocals, so slope = -1/2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m10_q5",
+      "text": "The x-intercept of the line y = 2x + 4 is:",
+      "options": ["-2", "2", "-4", "4"],
+      "correctIndex": 0,
+      "explanation": "Set y = 0, then 0 = 2x + 4 gives x = -2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m10_q6",
+      "text": "The distance from point (3, 4) to the line x + y - 7 = 0 is:",
+      "options": ["0", "1", "2", "√2"],
+      "correctIndex": 0,
+      "explanation": "The point satisfies the line equation, so the distance is 0.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m10_q7",
+      "text": "The angle θ between two lines with slopes m1 and m2 is given by tan θ = :",
+      "options": ["|(m2 - m1) / (1 + m1m2)|", "|(m1 + m2) / (1 - m1m2)|", "|(m1m2 - 1) / (m1 + m2)|", "m1 - m2"],
+      "correctIndex": 0,
+      "explanation": "This formula calculates the acute angle between two intersecting lines.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m10_q8",
+      "text": "If three points A, B, and C are collinear, then:",
+      "options": ["Slope of AB = Slope of BC", "Slope of AB × Slope of BC = -1", "Slope of AB + Slope of BC = 0", "Area of triangle ABC = 1"],
+      "correctIndex": 0,
+      "explanation": "Collinear points lie on the same line, so the slopes of segments between them must be equal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m10_q9",
+      "text": "The equation of a line in intercept form is:",
+      "options": ["y = mx + c", "x/a + y/b = 1", "y - y1 = m(x - x1)", "x cos α + y sin α = p"],
+      "correctIndex": 1,
+      "explanation": "Here 'a' and 'b' are the x and y intercepts respectively.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m10_q10",
+      "text": "The equation of the x-axis is:",
+      "options": ["x = 0", "y = 0", "x = y", "x + y = 0"],
+      "correctIndex": 1,
+      "explanation": "Every point on the x-axis has a y-coordinate of 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m10_q11",
+      "text": "The equation of a line passing through (x1, y1) and (x2, y2) is:",
+      "options": ["y - y1 = [(y2-y1)/(x2-x1)](x - x1)", "y - y1 = m(x + x1)", "x/x1 + y/y1 = 1", "y = mx + c"],
+      "correctIndex": 0,
+      "explanation": "This is the two-point form of the equation of a line.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m10_q12",
+      "text": "What is the slope of a horizontal line?",
+      "options": ["0", "1", "Undefined", "-1"],
+      "correctIndex": 0,
+      "explanation": "A horizontal line has θ = 0°, so tan 0° = 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m10_q13",
+      "text": "What is the slope of a vertical line?",
+      "options": ["0", "1", "Undefined", "Infinite"],
+      "correctIndex": 2,
+      "explanation": "A vertical line has θ = 90°, and tan 90° is undefined.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m10_q14",
+      "text": "Find the equation of a line which makes intercepts -3 and 2 on the x and y axes respectively.",
+      "options": ["2x - 3y + 6 = 0", "2x + 3y - 6 = 0", "-2x + 3y = 6", "3x - 2y = 6"],
+      "correctIndex": 0,
+      "explanation": "x/(-3) + y/2 = 1 => -2x + 3y = 6 => 2x - 3y + 6 = 0.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m10_q15",
+      "text": "The distance between parallel lines Ax + By + C1 = 0 and Ax + By + C2 = 0 is:",
+      "options": ["|C1 - C2| / √(A² + B²)", "|C1 + C2| / √(A² + B²)", "|C1 - C2| / (A² + B²)", "√(A² + B²) / |C1 - C2|"],
+      "correctIndex": 0,
+      "explanation": "This formula calculates the perpendicular distance between two parallel lines.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m10_q16",
+      "text": "The slope of the line x + √3y + 1 = 0 is:",
+      "options": ["√3", "-√3", "1/√3", "-1/√3"],
+      "correctIndex": 3,
+      "explanation": "m = -A/B = -1/√3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m10_q17",
+      "text": "Equation of a line passing through origin with slope m is:",
+      "options": ["y = mx", "y = mx + c", "x/a + y/b = 0", "y = x"],
+      "correctIndex": 0,
+      "explanation": "At the origin, the intercept c = 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m10_q18",
+      "text": "Find the distance of the point (3, -5) from the line 3x - 4y - 26 = 0.",
+      "options": ["3/5", "1", "3", "0.5"],
+      "correctIndex": 0,
+      "explanation": "d = |3(3) - 4(-5) - 26| / √(3² + 4²) = |9 + 20 - 26| / 5 = 3/5.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m10_q19",
+      "text": "If the line y = mx + c passes through (2, 4) and (3, 6), find m and c.",
+      "options": ["m=2, c=0", "m=1, c=2", "m=2, c=1", "m=0, c=4"],
+      "correctIndex": 0,
+      "explanation": "m = (6-4)/(3-2) = 2. 4 = 2(2) + c => c = 0.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m10_q20",
+      "text": "The normal form of a line is x cos ω + y sin ω = p. Here 'p' is:",
+      "options": ["The x-intercept", "The slope", "Perpendicular distance from origin", "The y-intercept"],
+      "correctIndex": 2,
+      "explanation": "In normal form, p is the length of the perpendicular from the origin to the line.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m10_q21",
+      "text": "The condition for two lines a1x + b1y + c1 = 0 and a2x + b2y + c2 = 0 to be parallel is:",
+      "options": ["a1/a2 = b1/b2", "a1a2 + b1b2 = 0", "a1/b1 = a2/b2", "Both A and C"],
+      "correctIndex": 3,
+      "explanation": "Parallel lines have equal slopes: -a1/b1 = -a2/b2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m10_q22",
+      "text": "The condition for two lines a1x + b1y + c1 = 0 and a2x + b2y + c2 = 0 to be perpendicular is:",
+      "options": ["a1a2 + b1b2 = 0", "a1b2 - a2b1 = 0", "a1/a2 = b1/b2", "a1a2 = b1b2"],
+      "correctIndex": 0,
+      "explanation": "m1m2 = -1 => (-a1/b1)(-a2/b2) = -1 => a1a2 = -b1b2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m10_q23",
+      "text": "Find the slope of a line which makes an angle of 150° with the positive direction of x-axis.",
+      "options": ["1/√3", "-1/√3", "√3", "-√3"],
+      "correctIndex": 1,
+      "explanation": "m = tan 150° = tan(180° - 30°) = -tan 30° = -1/√3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m10_q24",
+      "text": "Reduce x + √3y - 4 = 0 to normal form. The value of p is:",
+      "options": ["2", "4", "1", "√3"],
+      "correctIndex": 0,
+      "explanation": "Divide by √(1² + (√3)²) = 2. (1/2)x + (√3/2)y = 2. So p = 2.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m10_q25",
+      "text": "Which of the following lines passes through the origin?",
+      "options": ["x + y = 1", "x - y = 0", "2x + 3y = 5", "y = 5"],
+      "correctIndex": 1,
+      "explanation": "A line passes through the origin if it has no constant term (c=0).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m10_q26",
+      "text": "The point of intersection of the lines x - y = 0 and x + y = 2 is:",
+      "options": ["(0, 0)", "(1, 1)", "(2, 2)", "(1, -1)"],
+      "correctIndex": 1,
+      "explanation": "Adding equations gives 2x = 2 => x=1. Then y=1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m10_q27",
+      "text": "The lines 2x + 3y - 7 = 0 and 3x - 2y + 4 = 0 are:",
+      "options": ["Parallel", "Perpendicular", "Coincident", "None of these"],
+      "correctIndex": 1,
+      "explanation": "m1 = -2/3, m2 = 3/2. m1m2 = -1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m10_q28",
+      "text": "What is the equation of a line parallel to the y-axis and 3 units to the right?",
+      "options": ["y = 3", "x = 3", "x = -3", "y = -3"],
+      "correctIndex": 1,
+      "explanation": "Lines parallel to the y-axis have the form x = k.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m10_q29",
+      "text": "Find the distance between the parallel lines 3x - 4y + 7 = 0 and 3x - 4y + 5 = 0.",
+      "options": ["2/5", "12/5", "2", "1/5"],
+      "correctIndex": 0,
+      "explanation": "d = |7 - 5| / √(3² + 4²) = 2/5.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m10_q30",
+      "text": "The area of a triangle with vertices (x1, y1), (x2, y2), (x3, y3) is zero if the points are:",
+      "options": ["Equidistant", "Collinear", "Forming a right angle", "In different quadrants"],
+      "correctIndex": 1,
+      "explanation": "Area is zero if and only if the points lie on a straight line.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m10_q31",
+      "text": "The coordinates of the foot of the perpendicular from (0,0) to x + y - 2 = 0 are:",
+      "options": ["(1, 1)", "(0, 2)", "(2, 0)", "(1, -1)"],
+      "correctIndex": 0,
+      "explanation": "The line through origin perpendicular to x+y-2=0 is y=x. Intersection is (1,1).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m10_q32",
+      "text": "The inclination of the line x - y + 3 = 0 is:",
+      "options": ["30°", "45°", "60°", "135°"],
+      "correctIndex": 1,
+      "explanation": "m = -1/(-1) = 1. tan θ = 1 => θ = 45°.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m10_q33",
+      "text": "Find the equation of a line passing through (2, 2) such that the sum of its intercepts on the axes is 9.",
+      "options": ["x/3 + y/6 = 1", "x/6 + y/3 = 1", "Both A and B", "x/4.5 + y/4.5 = 1"],
+      "correctIndex": 2,
+      "explanation": "x/a + y/(9-a) = 1. Passes through (2,2) gives 2/a + 2/(9-a) = 1. a=3 or a=6.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m10_q34",
+      "text": "What is the slope of the line perpendicular to the line joining (2, 3) and (4, 1)?",
+      "options": ["1", "-1", "0", "Undefined"],
+      "correctIndex": 0,
+      "explanation": "Slope of line = (1-3)/(4-2) = -1. Perpendicular slope = 1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m10_q35",
+      "text": "The shifting of origin to a new point (h, k) without changing direction of axes is called:",
+      "options": ["Rotation", "Translation", "Reflection", "Scaling"],
+      "correctIndex": 1,
+      "explanation": "This transformation is known as translation of axes.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m10_q36",
+      "text": "If the origin is shifted to (1, 1), the new coordinates of point (4, 4) will be:",
+      "options": ["(3, 3)", "(5, 5)", "(4, 4)", "(1, 1)"],
+      "correctIndex": 0,
+      "explanation": "X = x - h = 4 - 1 = 3. Y = y - k = 4 - 1 = 3.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m10_q37",
+      "text": "Equation of a line parallel to x-axis and passing through (a, b) is:",
+      "options": ["x = a", "y = b", "x = b", "y = a"],
+      "correctIndex": 1,
+      "explanation": "A line parallel to the x-axis has a constant y-coordinate.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m10_q38",
+      "text": "If the angle between two lines is π/4 and slope of one line is 1/2, find the slope of other line.",
+      "options": ["3 or -1/3", "2 or -1/2", "1 or -1", "0 or 1"],
+      "correctIndex": 0,
+      "explanation": "tan(π/4) = |(m - 0.5) / (1 + 0.5m)| => 1 = |(2m-1)/(2+m)|. Solving gives m=3 or m=-1/3.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m10_q39",
+      "text": "The lines y = m1x + c1 and y = m2x + c2 are coincident if:",
+      "options": ["m1 = m2", "c1 = c2", "m1 = m2 and c1 = c2", "m1m2 = -1"],
+      "correctIndex": 2,
+      "explanation": "Coincident lines are identical, so both slope and intercept must match.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m10_q40",
+      "text": "The general equation of a line Ax + By + C = 0 represents a straight line if:",
+      "options": ["A and B are both zero", "At least one of A or B is non-zero", "C is zero", "A = B"],
+      "correctIndex": 1,
+      "explanation": "If both A and B are zero, the equation no longer represents a line in the plane.",
+      "frequencyRating": 5
+    }
+  ]
+}

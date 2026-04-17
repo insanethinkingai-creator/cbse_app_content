@@ -1,0 +1,330 @@
+{
+  "id": "g11_phy_ch1",
+  "grade": "11",
+  "subject": "Physics",
+  "number": "1",
+  "title": "Units and Measurements",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_p1_q1",
+      "text": "Which of the following is NOT a fundamental SI unit?",
+      "options": ["Ampere", "Candela", "Kelvin", "Newton"],
+      "correctIndex": 3,
+      "explanation": "Newton is a derived unit (kg m/s²), while Ampere, Candela, and Kelvin are base SI units.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p1_q2",
+      "text": "The dimensional formula for Universal Gravitational Constant (G) is:",
+      "options": ["[M⁻¹ L³ T⁻²]", "[M L³ T⁻²]", "[M⁻² L² T⁻¹]", "[M L T⁻²]"],
+      "correctIndex": 0,
+      "explanation": "From F = G m1 m2 / r², G = F r² / m1 m2. Dimensions: [MLT⁻²][L²]/[M²] = [M⁻¹ L³ T⁻²].",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p1_q3",
+      "text": "Light year is a unit of:",
+      "options": ["Time", "Distance", "Intensity of light", "Velocity"],
+      "correctIndex": 1,
+      "explanation": "A light year is the distance traveled by light in vacuum in one year.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p1_q4",
+      "text": "How many significant figures are there in 0.0006032 m²?",
+      "options": ["7", "4", "5", "3"],
+      "correctIndex": 1,
+      "explanation": "Leading zeros are not significant. The digits 6, 0, 3, and 2 are significant.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p1_q5",
+      "text": "The error in the measurement of the radius of a sphere is 2%. What is the error in the determination of its volume?",
+      "options": ["2%", "4%", "6%", "8%"],
+      "correctIndex": 2,
+      "explanation": "V = (4/3)πr³. Percentage error in V = 3 × (percentage error in r) = 3 × 2% = 6%.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p1_q6",
+      "text": "Which of the following pairs have the same dimensions?",
+      "options": ["Force and Power", "Torque and Energy", "Impulse and Force", "Stress and Strain"],
+      "correctIndex": 1,
+      "explanation": "Both Torque (r × F) and Energy (Work = F × d) have dimensions [ML²T⁻²].",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p1_q7",
+      "text": "The parallax method is used to measure:",
+      "options": ["Atomic distances", "Large distances (stars)", "Thickness of a wire", "Small time intervals"],
+      "correctIndex": 1,
+      "explanation": "Parallax is used for measuring distances of nearby stars and planets.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p1_q8",
+      "text": "The dimensional formula for Planck's constant (h) is equivalent to that of:",
+      "options": ["Linear Momentum", "Angular Momentum", "Energy", "Power"],
+      "correctIndex": 1,
+      "explanation": "Both Planck's constant (E = hν) and Angular Momentum (L = r × p) have dimensions [ML²T⁻¹].",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p1_q9",
+      "text": "A student measures the thickness of a human hair using a microscope of magnification 100. He makes 20 observations and finds that the average width of the hair in the field of view is 3.5 mm. The estimate of the thickness of hair is:",
+      "options": ["0.35 mm", "0.035 mm", "3.5 mm", "0.0035 mm"],
+      "correctIndex": 1,
+      "explanation": "Actual thickness = Observed width / Magnification = 3.5 mm / 100 = 0.035 mm.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p1_q10",
+      "text": "The dimensions of [ML⁻¹T⁻²] correspond to:",
+      "options": ["Work", "Pressure", "Surface Tension", "Force"],
+      "correctIndex": 1,
+      "explanation": "Pressure = Force / Area = [MLT⁻²] / [L²] = [ML⁻¹T⁻²]. Stress also has these dimensions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p1_q11",
+      "text": "In the relation P = a/x + b t², where P is pressure, x is distance and t is time, the dimensions of 'a' are:",
+      "options": ["[ML⁻¹T⁻²]", "[MLT⁻²]", "[MT⁻²]", "[ML⁻²T⁻²]"],
+      "correctIndex": 2,
+      "explanation": "By homogeneity, [a/x] = [P]. [a] = [P][x] = [ML⁻¹T⁻²][L] = [MT⁻²].",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p1_q12",
+      "text": "The unit of plane angle is:",
+      "options": ["Degree", "Radian", "Steradian", "None"],
+      "correctIndex": 1,
+      "explanation": "Radian is the SI unit for plane angle, while Steradian is for solid angle.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p1_q13",
+      "text": "1 unified atomic mass unit (1u) is equal to:",
+      "options": ["1.66 × 10⁻²⁷ kg", "1.66 × 10⁻²⁴ kg", "9.1 × 10⁻³¹ kg", "6.022 × 10²³ kg"],
+      "correctIndex": 0,
+      "explanation": "1u is defined as 1/12th the mass of a Carbon-12 atom, approximately 1.66 × 10⁻²⁷ kg.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p1_q14",
+      "text": "Which of the following is the most precise instrument for measuring length?",
+      "options": ["Meter scale", "Vernier calipers (20 divisions)", "Screw gauge (pitch 1mm, 100 divisions)", "Optical instrument (wavelength of light)"],
+      "correctIndex": 3,
+      "explanation": "An optical instrument uses the wavelength of light (~10⁻⁷ m), providing higher precision than mechanical gauges (~10⁻⁵ m).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p1_q15",
+      "text": "If x = a + bt + ct², where x is in meters and t in seconds, what is the unit of c?",
+      "options": ["m/s", "m", "m/s²", "ms"],
+      "correctIndex": 2,
+      "explanation": "By the principle of homogeneity, dimensions of ct² must be meters. So c = m/s².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p1_q16",
+      "text": "The number of significant figures in 6.0023 is:",
+      "options": ["2", "3", "4", "5"],
+      "correctIndex": 3,
+      "explanation": "Zeros between non-zero digits are always significant.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p1_q17",
+      "text": "Dimensions of Impulse are the same as:",
+      "options": ["Force", "Momentum", "Energy", "Acceleration"],
+      "correctIndex": 1,
+      "explanation": "Impulse = Force × Time = Change in Momentum. Both have dimensions [MLT⁻¹].",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p1_q18",
+      "text": "A parsec is approximately equal to:",
+      "options": ["3.26 light years", "1.5 × 10¹¹ m", "9.46 × 10¹⁵ m", "10¹⁶ m"],
+      "correctIndex": 0,
+      "explanation": "1 parsec (pc) ≈ 3.08 × 10¹⁶ m ≈ 3.26 light years.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p1_q19",
+      "text": "Systematic errors can be minimized by:",
+      "options": ["Taking more readings", "Improving experimental technique", "Randomly changing apparatus", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Systematic errors arise from flaws in the system; random errors are reduced by averaging many readings.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p1_q20",
+      "text": "The value of 0.99 - 0.989 with due regard to significant figures is:",
+      "options": ["0.001", "0.01", "0.011", "0.012"],
+      "correctIndex": 1,
+      "explanation": "Subtraction: Result should have same number of decimal places as the value with fewest decimal places (0.99 has 2). 0.001 rounds to 0.01.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g11_p1_q21",
+      "text": "Dimensional analysis CANNOT be used to:",
+      "options": ["Check consistency of equations", "Derive relations involving trigonometric functions", "Convert units", "Find dimensions of constants"],
+      "correctIndex": 1,
+      "explanation": "Dimensional analysis fails for dimensionless arguments like angles (trigonometric), exponents, and logs.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p1_q22",
+      "text": "The dimensions of Surface Tension are:",
+      "options": ["[MT⁻²]", "[MLT⁻²]", "[ML⁻¹T⁻²]", "[M L²T⁻²]"],
+      "correctIndex": 0,
+      "explanation": "Surface Tension = Force / Length = [MLT⁻²] / [L] = [MT⁻²].",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p1_q23",
+      "text": "What is the SI unit of Luminous Intensity?",
+      "options": ["Lumen", "Lux", "Candela", "Watt"],
+      "correctIndex": 2,
+      "explanation": "Candela (cd) is the base SI unit for Luminous Intensity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p1_q24",
+      "text": "The mass of a box is 2.3 kg. Two gold pieces of masses 20.15 g and 20.17 g are added. The total mass to correct significant figures is:",
+      "options": ["2.34032 kg", "2.34 kg", "2.3 kg", "2.4 kg"],
+      "correctIndex": 2,
+      "explanation": "Adding: 2.3 + 0.02015 + 0.02017 = 2.34032. Limited by 2.3 (one decimal place), result is 2.3 kg.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p1_q25",
+      "text": "The dimensions of kinetic energy are the same as that of:",
+      "options": ["Force", "Pressure", "Work", "Momentum"],
+      "correctIndex": 2,
+      "explanation": "All forms of energy and work have dimensions [ML²T⁻²].",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p1_q26",
+      "text": "Absolute error is defined as:",
+      "options": ["Mean value - True value", "Difference between individual and mean value", "Mean Absolute Error / Mean Value", "Sum of all errors"],
+      "correctIndex": 1,
+      "explanation": "It is the magnitude of the difference between the individual measurement and the true (mean) value.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p1_q27",
+      "text": "If Force (F), Velocity (V), and Time (T) are taken as fundamental units, dimensions of mass are:",
+      "options": ["[F V⁻¹ T]", "[F V T⁻¹]", "[F V⁻¹ T⁻¹]", "[F V⁻² T]"],
+      "correctIndex": 0,
+      "explanation": "F = ma = m(v/t) => m = Ft/v = [F V⁻¹ T].",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p1_q28",
+      "text": "Relative error is also called:",
+      "options": ["Absolute error", "Percentage error", "Fractional error", "Random error"],
+      "correctIndex": 2,
+      "explanation": "Relative error is the ratio of mean absolute error to the mean value, often called fractional error.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p1_q29",
+      "text": "Dimensions of [M L² T⁻³] represent:",
+      "options": ["Work", "Power", "Force", "Energy"],
+      "correctIndex": 1,
+      "explanation": "Power = Work / Time = [ML²T⁻²] / [T] = [ML²T⁻³].",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p1_q30",
+      "text": "A dimensionless physical quantity which has a unit is:",
+      "options": ["Strain", "Refractive Index", "Plane Angle", "Relative Density"],
+      "correctIndex": 2,
+      "explanation": "Plane angle (Radian) and Solid angle (Steradian) have units but are dimensionless.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p1_q31",
+      "text": "The number of significant figures in 2.64 × 10²⁴ kg is:",
+      "options": ["24", "26", "3", "2"],
+      "correctIndex": 2,
+      "explanation": "In scientific notation, only the decimal part determines significant figures.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p1_q32",
+      "text": "Dimensions of specific heat capacity are:",
+      "options": ["[L² T⁻² K⁻¹]", "[M L² T⁻² K⁻¹]", "[M L T⁻² K⁻¹]", "[L² T⁻¹ K⁻¹]"],
+      "correctIndex": 0,
+      "explanation": "Q = mcΔT => c = Q / mΔT = [ML²T⁻²] / [M][K] = [L² T⁻² K⁻¹].",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p1_q33",
+      "text": "Which of the following is a supplementary unit in SI?",
+      "options": ["Mole", "Candela", "Radian", "Kelvin"],
+      "correctIndex": 2,
+      "explanation": "Radian and Steradian were originally classified as supplementary units (now dimensionless derived units).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p1_q34",
+      "text": "Rounding off 2.745 to 3 significant figures gives:",
+      "options": ["2.74", "2.75", "2.70", "2.80"],
+      "correctIndex": 0,
+      "explanation": "Rule: If the digit to be dropped is 5 and the preceding digit is even, it is left unchanged.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p1_q35",
+      "text": "Rounding off 2.735 to 3 significant figures gives:",
+      "options": ["2.73", "2.74", "2.70", "2.75"],
+      "correctIndex": 1,
+      "explanation": "Rule: If the digit to be dropped is 5 and the preceding digit is odd, it is increased by 1.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p1_q36",
+      "text": "Dimensions of Boltzmann constant (k) are:",
+      "options": ["[ML²T⁻²K⁻¹]", "[MLT⁻²K⁻¹]", "[ML²T⁻¹K⁻¹]", "[ML²T⁻²]"],
+      "correctIndex": 0,
+      "explanation": "Energy E = (3/2)kT => k = E/T = [ML²T⁻²]/[K].",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p1_q37",
+      "text": "If P, Q, R are physical quantities having different dimensions, which of the following combinations can never be a meaningful quantity?",
+      "options": ["(P-Q)/R", "PQ/R", "PQ - R", "PR + Q"],
+      "correctIndex": 0,
+      "explanation": "Subtraction or addition of quantities with different dimensions is impossible.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p1_q38",
+      "text": "The length, breadth and thickness of a block are 4.234m, 1.005m and 2.01cm. The volume to correct significant figures is:",
+      "options": ["0.0855289 m³", "0.0855 m³", "0.086 m³", "0.09 m³"],
+      "correctIndex": 1,
+      "explanation": "4.234 × 1.005 × 0.0201 = 0.0855289. Result must have 3 sig figs (from 2.01 cm / 0.0201 m).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p1_q39",
+      "text": "Frequency has the same dimensions as:",
+      "options": ["Velocity gradient", "Angular velocity", "Both of these", "None of these"],
+      "correctIndex": 2,
+      "explanation": "Frequency (1/T), Velocity gradient (v/x = T⁻¹), and Angular velocity (ω = T⁻¹) all have dimensions [T⁻¹].",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p1_q40",
+      "text": "Which of the following is the dimension of Coefficient of Viscosity?",
+      "options": ["[ML⁻¹T⁻¹]", "[MLT⁻¹]", "[ML⁻²T⁻²]", "[M L² T⁻¹]"],
+      "correctIndex": 0,
+      "explanation": "From F = 6πηrv, η = F/rv. Dimensions: [MLT⁻²]/([L][LT⁻¹]) = [ML⁻¹T⁻¹].",
+      "frequencyRating": 5
+    }
+  ]
+}

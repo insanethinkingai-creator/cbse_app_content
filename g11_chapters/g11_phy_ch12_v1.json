@@ -1,0 +1,120 @@
+{
+  "id": "g11_phy_ch12",
+  "grade": "11",
+  "subject": "Physics",
+  "number": "12",
+  "title": "Kinetic Theory",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_p12_q1",
+      "text": "The gas law which states that the volume of a given mass of gas is directly proportional to its absolute temperature at constant pressure is:",
+      "options": ["Boyle's Law", "Charles's Law", "Gay-Lussac's Law", "Avogadro's Law"],
+      "correctIndex": 1,
+      "explanation": "Charles's Law defines the V-T relationship at constant P.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p12_q2",
+      "text": "According to the kinetic theory of gases, at absolute zero temperature:",
+      "options": ["Water freezes", "Molecular motion stops", "Gas turns to liquid", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Absolute zero (0 K) is the theoretical temperature where all molecular thermal motion ceases.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p12_q3",
+      "text": "The average translational kinetic energy of a gas molecule depends only on its:",
+      "options": ["Pressure", "Volume", "Nature of gas", "Absolute temperature"],
+      "correctIndex": 3,
+      "explanation": "E = (3/2)kT; it is independent of the mass or type of the gas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p12_q4",
+      "text": "The number of degrees of freedom for a rigid diatomic molecule is:",
+      "options": ["3", "5", "6", "7"],
+      "correctIndex": 1,
+      "explanation": "3 translational + 2 rotational = 5 degrees of freedom.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p12_q5",
+      "text": "The ratio of specific heats (Cp/Cv) for a monatomic gas is:",
+      "options": ["1.67", "1.40", "1.33", "1.00"],
+      "correctIndex": 0,
+      "explanation": "For monatomic gases, γ = 1 + 2/f = 1 + 2/3 = 5/3 ≈ 1.67.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p12_q6",
+      "text": "Which of the following speed is the greatest for gas molecules at a given temperature?",
+      "options": ["Most probable speed", "Mean speed", "Root mean square speed", "All are equal"],
+      "correctIndex": 2,
+      "explanation": "v_rms > v_mean > v_mp. Ratio is sqrt(3) : sqrt(8/π) : sqrt(2).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p12_q7",
+      "text": "The mean free path of gas molecules is inversely proportional to:",
+      "options": ["Temperature", "Square of molecular diameter", "Volume", "Pressure"],
+      "correctIndex": 1,
+      "explanation": "λ = 1 / (sqrt(2) n π d²), where d is the molecular diameter.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p12_q8",
+      "text": "If the temperature of a gas is increased from 27°C to 927°C, the rms speed of its molecules becomes:",
+      "options": ["Double", "Half", "Four times", "Three times"],
+      "correctIndex": 0,
+      "explanation": "v_rms ∝ sqrt(T). T1=300K, T2=1200K. Ratio = sqrt(1200/300) = 2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p12_q9",
+      "text": "The value of Universal Gas Constant (R) in SI units is:",
+      "options": ["8.314 J/mol·K", "0.0821 L·atm/mol·K", "1.98 cal/mol·K", "8.314 erg/mol·K"],
+      "correctIndex": 0,
+      "explanation": "8.314 J mol⁻¹ K⁻¹ is the standard SI value.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p12_q10",
+      "text": "Dalton's Law of Partial Pressures is applicable to:",
+      "options": ["Reacting gases", "Non-reacting gases", "Only ideal gases", "Only real gases"],
+      "correctIndex": 1,
+      "explanation": "The total pressure is the sum of partial pressures only if gases do not react chemically.",
+      "frequencyRating": 4
+    },
+    { "id": "g11_p12_q11", "text": "Pressure exerted by a gas is due to:", "options": ["Molecular weights", "Collisions of molecules with walls", "Intermolecular attraction", "Gravitational pull"], "correctIndex": 1, "explanation": "Change in momentum during collisions creates force/pressure.", "frequencyRating": 5 },
+    { "id": "g11_p12_q12", "text": "At constant volume, pressure of a gas is proportional to T. This is:", "options": ["Boyle's law", "Charles's law", "Gay-Lussac's law", "Avogadro's law"], "correctIndex": 2, "explanation": "Also known as Amontons's Law.", "frequencyRating": 4 },
+    { "id": "g11_p12_q13", "text": "A gas behaves more like an ideal gas at:", "options": ["High P, Low T", "Low P, High T", "High P, High T", "Low P, Low T"], "correctIndex": 1, "explanation": "Under these conditions, intermolecular forces and molecular volume are negligible.", "frequencyRating": 5 },
+    { "id": "g11_p12_q14", "text": "Degrees of freedom for a monatomic gas is:", "options": ["3", "5", "6", "2"], "correctIndex": 0, "explanation": "Only translational motion in 3D.", "frequencyRating": 5 },
+    { "id": "g11_p12_q15", "text": "Internal energy of a real gas depends on:", "options": ["Only T", "Only P", "T and V", "None"], "correctIndex": 2, "explanation": "Unlike ideal gases, real gases have intermolecular potential energy.", "frequencyRating": 4 },
+    { "id": "g11_p12_q16", "text": "Relation between Boltzmann constant (k), R, and Avogadro number (N) is:", "options": ["k = R/N", "k = RN", "R = k/N", "N = Rk"], "correctIndex": 0, "explanation": "k is gas constant per molecule.", "frequencyRating": 5 },
+    { "id": "g11_p12_q17", "text": "According to law of equipartition, energy per degree of freedom is:", "options": ["kT", "½kT", "3/2 kT", "RT"], "correctIndex": 1, "explanation": "Energy is distributed equally as ½kT per DOF.", "frequencyRating": 5 },
+    { "id": "g11_p12_q18", "text": "Mean free path increases with:", "options": ["Increase in density", "Decrease in pressure", "Increase in diameter", "None"], "correctIndex": 1, "explanation": "Fewer molecules result in longer distances between collisions.", "frequencyRating": 4 },
+    { "id": "g11_p12_q19", "text": "Specific heat Cv for a diatomic gas (ignoring vibrations) is:", "options": ["3/2 R", "5/2 R", "7/2 R", "R"], "correctIndex": 1, "explanation": "Cv = (f/2)R = 5/2 R.", "frequencyRating": 4 },
+    { "id": "g11_p12_q20", "text": "The Brownian motion provides evidence for:", "options": ["Continuity of matter", "Kinetic nature of molecules", "Gravity", "Attraction"], "correctIndex": 1, "explanation": "Random motion of particles due to molecular bombardment.", "frequencyRating": 3 },
+    { "id": "g11_p12_q21", "text": "Value of Avogadro's number is:", "options": ["6.022 x 10²³", "6.022 x 10⁻²³", "1.38 x 10⁻²³", "8.314"], "correctIndex": 0, "explanation": "Standard constant.", "frequencyRating": 5 },
+    { "id": "g11_p12_q22", "text": "Molar volume of an ideal gas at STP is:", "options": ["22.4 L", "11.2 L", "1 L", "44.8 L"], "correctIndex": 0, "explanation": "Standard molar volume.", "frequencyRating": 5 },
+    { "id": "g11_p12_q23", "text": "Vibrational degrees of freedom are active at:", "options": ["Low T", "High T", "All T", "0 K"], "correctIndex": 1, "explanation": "Vibrational modes require high energy to be excited.", "frequencyRating": 3 },
+    { "id": "g11_p12_q24", "text": "Rms speed of hydrogen at T is v. Rms speed of oxygen at T is:", "options": ["v/2", "v/4", "4v", "16v"], "correctIndex": 1, "explanation": "v ∝ 1/sqrt(M). M_oxy = 16 * M_hyd. Ratio = 1/sqrt(16) = 1/4.", "frequencyRating": 4 },
+    { "id": "g11_p12_q25", "text": "In KTG, collisions are assumed to be:", "options": ["Elastic", "Inelastic", "Plastic", "None"], "correctIndex": 0, "explanation": "KE and momentum are conserved in collisions.", "frequencyRating": 5 },
+    { "id": "g11_p12_q26", "text": "Kinetic energy of 1 mole of gas is:", "options": ["3/2 RT", "3/2 kT", "½ RT", "RT"], "correctIndex": 0, "explanation": "N * (3/2 kT) = 3/2 RT.", "frequencyRating": 5 },
+    { "id": "g11_p12_q27", "text": "Boltzmann constant value is approx:", "options": ["1.38 x 10⁻²³ J/K", "8.314 J/K", "6.6 x 10⁻³⁴ J/s", "1.6 x 10⁻¹⁹ J"], "correctIndex": 0, "explanation": "Standard physical constant.", "frequencyRating": 5 },
+    { "id": "g11_p12_q28", "text": "As pressure of a gas increases at constant T, mean free path:", "options": ["Increases", "Decreases", "Same", "Zero"], "correctIndex": 1, "explanation": "Higher density leads to more collisions.", "frequencyRating": 4 },
+    { "id": "g11_p12_q29", "text": "Degrees of freedom for non-linear triatomic molecule (e.g. H2O) is:", "options": ["3", "5", "6", "7"], "correctIndex": 2, "explanation": "3 translational + 3 rotational = 6.", "frequencyRating": 4 },
+    { "id": "g11_p12_q30", "text": "Specific heat Cp for monatomic gas is:", "options": ["3/2 R", "5/2 R", "R", "2 R"], "correctIndex": 1, "explanation": "Cp = Cv + R = 3/2 R + R = 5/2 R.", "frequencyRating": 4 },
+    { "id": "g11_p12_q31", "text": "Gamma for diatomic gas is:", "options": ["1.67", "1.4", "1.33", "1.2"], "correctIndex": 1, "explanation": "7/5 = 1.4.", "frequencyRating": 5 },
+    { "id": "g11_p12_q32", "text": "Most probable speed v_mp is:", "options": ["sqrt(2RT/M)", "sqrt(3RT/M)", "sqrt(8RT/πM)", "None"], "correctIndex": 0, "explanation": "Speed at the peak of Maxwell distribution.", "frequencyRating": 4 },
+    { "id": "g11_p12_q33", "text": "Rms speed v_rms is:", "options": ["sqrt(2RT/M)", "sqrt(3RT/M)", "sqrt(8RT/πM)", "None"], "correctIndex": 1, "explanation": "Calculated from P = 1/3 ρ v².", "frequencyRating": 5 },
+    { "id": "g11_p12_q34", "text": "Pressure of an ideal gas P is related to energy density E as:", "options": ["P = E", "P = 2/3 E", "P = 3/2 E", "P = 1/2 E"], "correctIndex": 1, "explanation": "From KTG derivations.", "frequencyRating": 4 },
+    { "id": "g11_p12_q35", "text": "Volume of 1 mole gas at 0°C and 1 atm is:", "options": ["22.4 L", "24.4 L", "10 L", "22.7 L"], "correctIndex": 0, "explanation": "Commonly used value (22.7 for 1 bar).", "frequencyRating": 4 },
+    { "id": "g11_p12_q36", "text": "Mean speed is:", "options": ["sqrt(8RT/πM)", "sqrt(3RT/M)", "sqrt(2RT/M)", "v_rms"], "correctIndex": 0, "explanation": "Arithmetic average speed.", "frequencyRating": 3 },
+    { "id": "g11_p12_q37", "text": "Total internal energy of n moles of ideal gas is:", "options": ["n(f/2)RT", "(f/2)kT", "nRT", "3/2 nRT"], "correctIndex": 0, "explanation": "Sum of energy in all degrees of freedom.", "frequencyRating": 4 },
+    { "id": "g11_p12_q38", "text": "Maxwell's distribution of speeds depends on:", "options": ["T only", "M only", "T and M", "P and V"], "correctIndex": 2, "explanation": "Function of (M/2πkT).", "frequencyRating": 3 },
+    { "id": "g11_p12_q39", "text": "Mean free path is independent of temperature at constant:", "options": ["Pressure", "Volume", "Density", "None"], "correctIndex": 2, "explanation": "λ ∝ 1/n; if density is constant, λ is constant.", "frequencyRating": 2 },
+    { "id": "g11_p12_q40", "text": "Average momentum of molecules of an ideal gas in equilibrium is:", "options": ["mv", "Zero", "sqrt(mkT)", "Infinite"], "correctIndex": 1, "explanation": "Molecules move in all directions equally; vector sum is zero.", "frequencyRating": 4 }
+  ]
+}

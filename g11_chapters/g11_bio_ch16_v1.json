@@ -1,0 +1,58 @@
+{
+  "id": "g11_bio_ch16",
+  "grade": "11",
+  "subject": "Biology",
+  "number": "16",
+  "title": "Digestion and Absorption",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_b16_q1",
+      "text": "Which enzyme begins carbohydrate digestion in the mouth?",
+      "options": ["Pepsin", "Amylase", "Lipase", "Trypsin"],
+      "correctIndex": 1,
+      "explanation": "Salivary amylase breaks down starch into simpler sugars in the mouth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b16_q2",
+      "text": "Where does most nutrient absorption occur in the alimentary canal?",
+      "options": ["Stomach", "Small intestine", "Large intestine", "Esophagus"],
+      "correctIndex": 1,
+      "explanation": "The small intestine has villi and microvilli specialized for absorption.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b16_q3",
+      "text": "Bile helps digest fats by: ",
+      "options": ["Breaking them into smaller droplets", "Converting them to glucose", "Destroying fatty acids", "Lowering pH"],
+      "correctIndex": 0,
+      "explanation": "Bile emulsifies fats, increasing surface area for enzymes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b16_q4",
+      "text": "Which organ secretes digestive enzymes into the small intestine?",
+      "options": ["Liver", "Pancreas", "Stomach", "Gall bladder"],
+      "correctIndex": 1,
+      "explanation": "The pancreas releases enzymes like trypsin and lipase into the duodenum.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b16_q5",
+      "text": "Peristalsis is the movement of food by: ",
+      "options": ["Muscle contractions", "Diffusion", "Osmosis", "Gravity"],
+      "correctIndex": 0,
+      "explanation": "Peristalsis uses coordinated muscle contractions along the gut.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b16_q6",
+      "text": "Which structure increases the surface area for absorption in the small intestine?",
+      "options": ["Villi", "Glands", "Rugae", "Cilia"],
+      "correctIndex": 0,
+      "explanation": "Villi and microvilli increase the absorptive surface of the intestine.",
+      "frequencyRating": 5
+    }
+  ]
+}

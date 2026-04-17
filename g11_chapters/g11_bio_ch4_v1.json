@@ -1,0 +1,330 @@
+{
+  "id": "g11_bio_ch4",
+  "grade": "11",
+  "subject": "Biology",
+  "number": "4",
+  "title": "Animal Kingdom",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_b4_q1",
+      "text": "Which phylum includes sponges?",
+      "options": ["Porifera", "Cnidaria", "Mollusca", "Arthropoda"],
+      "correctIndex": 0,
+      "explanation": "Sponges belong to the phylum Porifera.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q2",
+      "text": "Animals with radial symmetry include: ",
+      "options": ["Starfish and jellyfish", "Earthworms and leeches", "Snails and clams", "Cows and fishes"],
+      "correctIndex": 0,
+      "explanation": "Radial symmetry is seen in cnidarians and echinoderms.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q3",
+      "text": "A true coelom is present in which animal group?",
+      "options": ["Porifera", "Cnidaria", "Annelida", "Platyhelminthes"],
+      "correctIndex": 2,
+      "explanation": "Annelids have a well-developed coelom.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q4",
+      "text": "Which feature is characteristic of arthropods?",
+      "options": ["Radial symmetry", "Exoskeleton", "Unicellular body", "No tissues"],
+      "correctIndex": 1,
+      "explanation": "Arthropods have a hard external skeleton called an exoskeleton.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q5",
+      "text": "Vertebrates are distinguished by the presence of a: ",
+      "options": ["Notochord only", "Backbone or vertebral column", "Exoskeleton", "Water vascular system"],
+      "correctIndex": 1,
+      "explanation": "Vertebrates have a backbone made of vertebrae.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b4_q6",
+      "text": "Which animal group uses a muscular foot for movement?",
+      "options": ["Mollusca", "Cnidaria", "Porifera", "Arthropoda"],
+      "correctIndex": 0,
+      "explanation": "Molluscs like snails and squids use a muscular foot for locomotion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b4_q7",
+      "text": "When any plane passing through the central axis of the body divides the organism into two identical halves, it is called:",
+      "options": ["Asymmetry", "Radial symmetry", "Bilateral symmetry", "Metamerism"],
+      "correctIndex": 1,
+      "explanation": "Coelenterates, ctenophores and echinoderms have this kind of body plan.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q8",
+      "text": "Animals in which the cells are arranged in two embryonic layers, an external ectoderm and an internal endoderm, are called:",
+      "options": ["Diploblastic", "Triploblastic", "Coelomate", "Pseudocoelomate"],
+      "correctIndex": 0,
+      "explanation": "An undifferentiated layer, mesoglea, is present in between the ectoderm and the endoderm in coelenterates.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q9",
+      "text": "In some animals, the body cavity is not lined by mesoderm, instead, the mesoderm is present as scattered pouches. Such a body cavity is called:",
+      "options": ["Coelom", "Pseudocoelom", "Acoelom", "Haemocoel"],
+      "correctIndex": 1,
+      "explanation": "Aschelminthes are pseudocoelomates.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q10",
+      "text": "The phenomenon where the body is externally and internally divided into segments with a serial repetition of at least some organs is called:",
+      "options": ["Segmentation", "Metamerism", "Notogenesis", "Tagmatization"],
+      "correctIndex": 1,
+      "explanation": "In earthworm, the body shows this pattern and the phenomenon is known as metamerism.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q11",
+      "text": "The notochord is derived from:",
+      "options": ["Ectoderm", "Endoderm", "Mesoderm", "Mesoglea"],
+      "correctIndex": 2,
+      "explanation": "It is a mesodermally derived rod-like structure formed on the dorsal side during embryonic development.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q12",
+      "text": "Water enters through minute pores (ostia) into a central cavity (spongocoel), from where it goes out through the osculum in:",
+      "options": ["Sycon", "Hydra", "Obelia", "Physalia"],
+      "correctIndex": 0,
+      "explanation": "Sycon belongs to Phylum Porifera (sponges) which have a canal system.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q13",
+      "text": "The specialized cells that line the spongocoel and the canals in sponges are called:",
+      "options": ["Cnidoblasts", "Choanocytes", "Nematocysts", "Amoebocytes"],
+      "correctIndex": 1,
+      "explanation": "Choanocytes (collar cells) help in water circulation and food capture.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q14",
+      "text": "Cnidarians exhibit two basic body forms called:",
+      "options": ["Cyst and Trophozoite", "Polyp and Medusa", "Planula and Ephyra", "Strobilus and Proglottid"],
+      "correctIndex": 1,
+      "explanation": "Polyp is sessile and cylindrical, while Medusa is umbrella-shaped and free-swimming.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q15",
+      "text": "The phenomenon of alternation of generation seen in Obelia is called:",
+      "options": ["Metamerism", "Metagenesis", "Metamorphosis", "Apospory"],
+      "correctIndex": 1,
+      "explanation": "Polyps produce medusae asexually and medusae form the polyps sexually.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q16",
+      "text": "Ctenophores are commonly known as:",
+      "options": ["Sea fur", "Sea walnuts or comb jellies", "Sea anemone", "Sea lily"],
+      "correctIndex": 1,
+      "explanation": "They possess eight external rows of ciliated comb plates and are exclusively marine.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b4_q17",
+      "text": "The property of a living organism to emit light is called:",
+      "options": ["Phosphorescence", "Bioluminescence", "Fluorescence", "Chemiluminescence"],
+      "correctIndex": 1,
+      "explanation": "Bioluminescence is well-marked in ctenophores.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q18",
+      "text": "Platyhelminthes are commonly called flatworms because:",
+      "options": ["They have a flat ventral side", "They are dorso-ventrally flattened", "They live in flat surfaces", "They lack a coelom"],
+      "correctIndex": 1,
+      "explanation": "They are mostly endoparasites found in animals including human beings.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b4_q19",
+      "text": "Specialized cells in flatworms that help in osmoregulation and excretion are:",
+      "options": ["Nephridia", "Malpighian tubules", "Flame cells", "Green glands"],
+      "correctIndex": 2,
+      "explanation": "Flame cells are characteristic of Phylum Platyhelminthes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q20",
+      "text": "The body of Aschelminthes is circular in cross-section, hence the name:",
+      "options": ["Flatworms", "Roundworms", "Segmented worms", "Hookworms"],
+      "correctIndex": 1,
+      "explanation": "They may be free-living, aquatic and terrestrial or parasitic in plants and animals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q21",
+      "text": "Annelids possess longitudinal and circular muscles which help in:",
+      "options": ["Digestion", "Locomotion", "Respiration", "Excretion"],
+      "correctIndex": 1,
+      "explanation": "Aquatic annelids like Nereis possess lateral appendages, parapodia, which help in swimming.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b4_q22",
+      "text": "In Annelida, excretion and osmoregulation are performed by:",
+      "options": ["Flame cells", "Nephridia", "Malpighian tubules", "Statocysts"],
+      "correctIndex": 1,
+      "explanation": "Nephridia help in the removal of metabolic wastes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q23",
+      "text": "The largest phylum of Animalia which includes insects is:",
+      "options": ["Mollusca", "Arthropoda", "Annelida", "Echinodermata"],
+      "correctIndex": 1,
+      "explanation": "Over two-thirds of all named species on earth are arthropods.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q24",
+      "text": "The respiratory organs in arthropods include:",
+      "options": ["Gills", "Book gills", "Book lungs or tracheal system", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Arthropods show a variety of respiratory adaptations for aquatic and terrestrial life.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q25",
+      "text": "Sensory organs like antennae, eyes, and balancing organs (statocysts) are present in:",
+      "options": ["Mollusca", "Arthropoda", "Annelida", "Aschelminthes"],
+      "correctIndex": 1,
+      "explanation": "Arthropods have well-developed sensory systems.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b4_q26",
+      "text": "The second largest animal phylum is:",
+      "options": ["Arthropoda", "Mollusca", "Echinodermata", "Chordata"],
+      "correctIndex": 1,
+      "explanation": "Molluscs are terrestrial or aquatic having an organ-system level of organisation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q27",
+      "text": "A file-like rasping organ for feeding found in the mouth of molluscs is called:",
+      "options": ["Radula", "Operculum", "Ctenidia", "Parapodia"],
+      "correctIndex": 0,
+      "explanation": "Radula is used to scrape food particles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q28",
+      "text": "The most distinctive feature of echinoderms is the presence of a:",
+      "options": ["Canal system", "Water vascular system", "Tracheal system", "Closed circulatory system"],
+      "correctIndex": 1,
+      "explanation": "The water vascular system helps in locomotion, capture and transport of food and respiration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q29",
+      "text": "Hemichordates have a rudimentary structure in the collar region called:",
+      "options": ["Notochord", "Stomochord", "Nerve cord", "Proboscis"],
+      "correctIndex": 1,
+      "explanation": "Stomochord is a structure similar to notochord.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b4_q30",
+      "text": "Phylum Chordata is characterized by the presence of:",
+      "options": ["Dorsal hollow nerve cord", "Paired pharyngeal gill slits", "Post anal tail", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "These are the fundamental characteristics of chordates.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q31",
+      "text": "In Urochordata, the notochord is present only in:",
+      "options": ["Adult tail", "Larval tail", "Embryonic head", "Throughout life"],
+      "correctIndex": 1,
+      "explanation": "In Cephalochordata, it extends from head to tail region and is persistent throughout life.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q32",
+      "text": "All living members of the class Cyclostomata are:",
+      "options": ["Free-living", "Endoparasites", "Ectoparasites on some fishes", "Commensals"],
+      "correctIndex": 2,
+      "explanation": "They have an elongated body bearing 6-15 pairs of gill slits for respiration.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b4_q33",
+      "text": "Chondrichthyes are marine animals with a ________ endoskeleton.",
+      "options": ["Bony", "Cartilaginous", "Siliceous", "Chitinous"],
+      "correctIndex": 1,
+      "explanation": "Their mouth is located ventrally and the skin is tough, containing minute placoid scales.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q34",
+      "text": "Osteichthyes includes both marine and fresh water fishes with a ________ endoskeleton.",
+      "options": ["Cartilaginous", "Bony", "Fibrous", "Soft"],
+      "correctIndex": 1,
+      "explanation": "They have four pairs of gills which are covered by an operculum on each side.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q35",
+      "text": "Amphibians can live in aquatic as well as terrestrial habitats. Most of them have:",
+      "options": ["One pair of limbs", "Two pairs of limbs", "No limbs", "Three pairs of limbs"],
+      "correctIndex": 1,
+      "explanation": "The body is divisible into head and trunk. Tail may be present in some.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q36",
+      "text": "Reptiles are characterized by:",
+      "options": ["Moist skin", "Dry and cornified skin", "Presence of feathers", "Mammary glands"],
+      "correctIndex": 1,
+      "explanation": "The skin has epidermal scales or scutes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q37",
+      "text": "In Aves (birds), the forelimbs are modified into:",
+      "options": ["Legs", "Flippers", "Wings", "Tentacles"],
+      "correctIndex": 2,
+      "explanation": "Hind limbs generally have scales and are modified for walking, swimming or clasping.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q38",
+      "text": "The most unique mammalian characteristic is the presence of:",
+      "options": ["Hair on skin", "Pinna (external ears)", "Milk producing glands (mammary glands)", "Four-chambered heart"],
+      "correctIndex": 2,
+      "explanation": "Mammary glands are used to nourish the young ones.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q39",
+      "text": "Animals that are cold-blooded (cannot regulate their body temperature) are called:",
+      "options": ["Homeothermic", "Poikilothermic", "Endothermic", "Isothermic"],
+      "correctIndex": 1,
+      "explanation": "Amphibians, reptiles and fishes are poikilothermic.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b4_q40",
+      "text": "Birds and mammals are:",
+      "options": ["Poikilothermic", "Homeothermic", "Ectothermic", "Heterothermic"],
+      "correctIndex": 1,
+      "explanation": "Homeothermic animals are able to maintain a constant body temperature.",
+      "frequencyRating": 5
+    }
+  ]
+}

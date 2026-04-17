@@ -1,0 +1,120 @@
+{
+  "id": "g11_chem_ch2",
+  "grade": "11",
+  "subject": "Chemistry",
+  "number": "2",
+  "title": "Structure of Atom",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_c2_q1",
+      "text": "Cathode rays consist of:",
+      "options": ["Protons", "Neutrons", "Electrons", "Alpha particles"],
+      "correctIndex": 2,
+      "explanation": "Discovered by J.J. Thomson in discharge tube experiments.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c2_q2",
+      "text": "The discovery of the nucleus is attributed to:",
+      "options": ["J.J. Thomson", "Ernest Rutherford", "Niels Bohr", "James Chadwick"],
+      "correctIndex": 1,
+      "explanation": "Based on the α-particle scattering experiment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c2_q3",
+      "text": "The maximum number of electrons that can be accommodated in a shell is given by:",
+      "options": ["n²", "2n", "2n²", "n/2"],
+      "correctIndex": 2,
+      "explanation": "For example, M shell (n=3) holds 18 electrons.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c2_q4",
+      "text": "The value of Planck's constant (h) is:",
+      "options": ["6.626 x 10⁻³⁴ J·s", "6.626 x 10⁻³¹ J·s", "9.1 x 10⁻³¹ kg", "3 x 10⁸ m/s"],
+      "correctIndex": 0,
+      "explanation": "Fundamental constant in quantum mechanics.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c2_q5",
+      "text": "According to de Broglie, wavelength (λ) is related to momentum (p) as:",
+      "options": ["λ = hp", "λ = h/p", "λ = p/h", "λ = 1/hp"],
+      "correctIndex": 1,
+      "explanation": "Dual nature of matter: λ = h/mv.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c2_q6",
+      "text": "Heisenberg Uncertainty Principle states it is impossible to simultaneously determine precisely:",
+      "options": ["Mass and volume", "Position and velocity", "Charge and mass", "Energy and time"],
+      "correctIndex": 1,
+      "explanation": "Δx · Δp ≥ h / 4π.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c2_q7",
+      "text": "The quantum number which describes the orientation of the orbital is:",
+      "options": ["Principal (n)", "Azimuthal (l)", "Magnetic (ml)", "Spin (ms)"],
+      "correctIndex": 2,
+      "explanation": "ml values range from -l to +l.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c2_q8",
+      "text": "Which principle states that 'No two electrons in an atom can have the same set of four quantum numbers'?",
+      "options": ["Aufbau Principle", "Pauli Exclusion Principle", "Hund's Rule", "Uncertainty Principle"],
+      "correctIndex": 1,
+      "explanation": "This limits each orbital to a maximum of two electrons with opposite spins.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c2_q9",
+      "text": "The electronic configuration of Chromium (Z=24) is:",
+      "options": ["[Ar] 4s² 3d⁴", "[Ar] 4s¹ 3d⁵", "[Ar] 4s² 3d³", "[Ar] 3d⁶"],
+      "correctIndex": 1,
+      "explanation": "Half-filled d-orbitals provide extra stability.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c2_q10",
+      "text": "Neutrons were discovered by:",
+      "options": ["Thomson", "Rutherford", "Chadwick", "Goldstein"],
+      "correctIndex": 2,
+      "explanation": "By bombarding Beryllium with alpha particles in 1932.",
+      "frequencyRating": 5
+    },
+    { "id": "g11_c2_q11", "text": "Principal quantum number n represents:", "options": ["Size and energy of shell", "Shape of orbital", "Orientation", "Spin"], "correctIndex": 0, "explanation": "It defines the main energy level.", "frequencyRating": 5 },
+    { "id": "g11_c2_q12", "text": "Azimuthal quantum number l=1 corresponds to:", "options": ["s-orbital", "p-orbital", "d-orbital", "f-orbital"], "correctIndex": 1, "explanation": "l: 0(s), 1(p), 2(d), 3(f).", "frequencyRating": 5 },
+    { "id": "g11_c2_q13", "text": "Number of nodes in a 3s orbital is:", "options": ["1", "2", "3", "0"], "correctIndex": 1, "explanation": "Radial nodes = n - l - 1 = 3 - 0 - 1 = 2.", "frequencyRating": 4 },
+    { "id": "g11_c2_q14", "text": "Hund's Rule deals with:", "options": ["Shell filling", "Spin pairing in degenerate orbitals", "Maximum energy", "Uncertainty"], "correctIndex": 1, "explanation": "Electrons enter orbitals singly before pairing.", "frequencyRating": 5 },
+    { "id": "g11_c2_q15", "text": "The shape of a d-orbital is:", "options": ["Spherical", "Dumb-bell", "Double dumb-bell", "Complex"], "correctIndex": 2, "explanation": "Four-lobed structure (except dz²).", "frequencyRating": 5 },
+    { "id": "g11_c2_q16", "text": "Bohr's model is valid for:", "options": ["H atom", "He+ ion", "Li2+ ion", "All of these"], "correctIndex": 3, "explanation": "Valid for single-electron (hydrogen-like) species.", "frequencyRating": 5 },
+    { "id": "g11_c2_q17", "text": "Balmer series of hydrogen spectrum lies in:", "options": ["UV region", "Visible region", "Infrared region", "Far infrared"], "correctIndex": 1, "explanation": "Transitions to n=2.", "frequencyRating": 5 },
+    { "id": "g11_c2_q18", "text": "Energy of an electron in nth Bohr orbit of Hydrogen is:", "options": ["-13.6/n eV", "-13.6/n² eV", "13.6 n² eV", "-13.6 n eV"], "correctIndex": 1, "explanation": "Energy is quantized and negative.", "frequencyRating": 5 },
+    { "id": "g11_c2_q19", "text": "Photoelectric effect was explained by:", "options": ["Planck", "Einstein", "Bohr", "Hertz"], "correctIndex": 1, "explanation": "Using photon concept; earned him the Nobel Prize.", "frequencyRating": 4 },
+    { "id": "g11_c2_q20", "text": "The wave function (Ψ) in Schrodinger equation represents:", "options": ["Probability", "Amplitude of matter wave", "Energy", "Velocity"], "correctIndex": 1, "explanation": "Ψ² represents probability density.", "frequencyRating": 4 },
+    { "id": "g11_c2_q21", "text": "Electronic configuration of Cu (Z=29) is:", "options": ["[Ar] 4s² 3d⁹", "[Ar] 4s¹ 3d¹⁰", "[Ar] 4s⁰ 3d¹¹", "None"], "correctIndex": 1, "explanation": "Fully filled d-subshell stability.", "frequencyRating": 5 },
+    { "id": "g11_c2_q22", "text": "Number of electrons in an orbital is:", "options": ["1", "2", "6", "10"], "correctIndex": 1, "explanation": "An orbital (e.g., 2px) can hold max 2 electrons.", "frequencyRating": 5 },
+    { "id": "g11_c2_q23", "text": "Which orbital does not exist?", "options": ["2p", "3f", "4d", "5g"], "correctIndex": 1, "explanation": "For n=3, l max is 2 (d). f requires l=3, so n must be at least 4.", "frequencyRating": 4 },
+    { "id": "g11_c2_q24", "text": "Magnetic quantum number for l=2 can be:", "options": ["0, 1, 2", "1, 2, 3", "-2, -1, 0, 1, 2", "None"], "correctIndex": 2, "explanation": "2l + 1 values.", "frequencyRating": 5 },
+    { "id": "g11_c2_q25", "text": "Lyman series corresponds to transitions to:", "options": ["n=1", "n=2", "n=3", "n=4"], "correctIndex": 0, "explanation": "Occurs in UV region.", "frequencyRating": 5 },
+    { "id": "g11_c2_q26", "text": "Isotones have same number of:", "options": ["Protons", "Electrons", "Neutrons", "Mass"], "correctIndex": 2, "explanation": "Difference A-Z is constant.", "frequencyRating": 4 },
+    { "id": "g11_c2_q27", "text": "Maximum number of electrons in d-subshell is:", "options": ["2", "6", "10", "14"], "correctIndex": 2, "explanation": "5 orbitals * 2 = 10.", "frequencyRating": 5 },
+    { "id": "g11_c2_q28", "text": "Which rays are not deflected by electric field?", "options": ["Alpha", "Beta", "Gamma", "Cathode"], "correctIndex": 2, "explanation": "Gamma rays are neutral EM radiation.", "frequencyRating": 4 },
+    { "id": "g11_c2_q29", "text": "Charge on an electron was determined by:", "options": ["Thomson", "Millikan", "Faraday", "Dalton"], "correctIndex": 1, "explanation": "Oil drop experiment.", "frequencyRating": 4 },
+    { "id": "g11_c2_q30", "text": "Radius of Bohr's first orbit of Hydrogen is:", "options": ["0.529 Å", "5.29 Å", "0.0529 Å", "1 Å"], "correctIndex": 0, "explanation": "Approx 52.9 pm.", "frequencyRating": 5 },
+    { "id": "g11_c2_q31", "text": "The frequency of radiation emitted is proportional to:", "options": ["λ", "1/λ", "Energy", "Both B and C"], "correctIndex": 3, "explanation": "E = hν = hc/λ.", "frequencyRating": 5 },
+    { "id": "g11_c2_q32", "text": "An orbital with l=0 is:", "options": ["Spherically symmetric", "Dumb-bell", "Disk-like", "Linear"], "correctIndex": 0, "explanation": "s-orbitals have no angular dependence.", "frequencyRating": 4 },
+    { "id": "g11_c2_q33", "text": "Total number of orbitals in a shell with principal quantum number n is:", "options": ["n", "2n", "n²", "2n²"], "correctIndex": 2, "explanation": "Sum of (2l+1) from l=0 to n-1.", "frequencyRating": 5 },
+    { "id": "g11_c2_q34", "text": "Work function is associated with:", "options": ["Atomic spectra", "Photoelectric effect", "X-rays", "Radioactivity"], "correctIndex": 1, "explanation": "Minimum energy to eject an electron.", "frequencyRating": 4 },
+    { "id": "g11_c2_q35", "text": "Isobars have same _____ but different _____.", "options": ["Atomic number, Mass", "Mass, Atomic number", "Neutrons, Protons", "None"], "correctIndex": 1, "explanation": "Example: Argon-40 and Calcium-40.", "frequencyRating": 4 },
+    { "id": "g11_c2_q36", "text": "Aufbau principle states orbitals are filled in order of:", "options": ["Increasing energy", "Decreasing energy", "Increasing n", "Increasing l"], "correctIndex": 0, "explanation": "Follows (n+l) rule.", "frequencyRating": 5 },
+    { "id": "g11_c2_q37", "text": "Number of angular nodes in p-orbital is:", "options": ["0", "1", "2", "3"], "correctIndex": 1, "explanation": "Angular nodes = l.", "frequencyRating": 3 },
+    { "id": "g11_c2_q38", "text": "Black body radiation was explained by:", "options": ["Classical physics", "Quantum theory", "Relativity", "None"], "correctIndex": 1, "explanation": "Max Planck in 1900.", "frequencyRating": 4 },
+    { "id": "g11_c2_q39", "text": "Mass number is sum of:", "options": ["Protons and Electrons", "Protons and Neutrons", "Electrons and Neutrons", "Only Protons"], "correctIndex": 1, "explanation": "A = Z + N.", "frequencyRating": 5 },
+    { "id": "g11_c2_q40", "text": "Threshold frequency is related to:", "options": ["Max KE", "Min energy", "Frequency of light", "None"], "correctIndex": 1, "explanation": "Minimum frequency needed for PE effect.", "frequencyRating": 4 }
+  ]
+}

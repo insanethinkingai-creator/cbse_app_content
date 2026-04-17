@@ -1,0 +1,260 @@
+{
+  "id": "g11_phy_ch7",
+  "grade": "11",
+  "subject": "Physics",
+  "number": "7",
+  "title": "Gravitation",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_p7_q1",
+      "text": "The value of Universal Gravitational Constant (G) was first determined by:",
+      "options": ["Isaac Newton", "Henry Cavendish", "Johannes Kepler", "Galileo Galilei"],
+      "correctIndex": 1,
+      "explanation": "Cavendish used a torsion balance experiment to measure the weak gravitational force between lead spheres.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p7_q2",
+      "text": "Kepler's Second Law (Law of Areas) is a consequence of the conservation of:",
+      "options": ["Linear Momentum", "Energy", "Angular Momentum", "Mass"],
+      "correctIndex": 2,
+      "explanation": "The areal velocity is constant because the torque due to gravity is zero relative to the Sun.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p7_q3",
+      "text": "The escape velocity from the surface of the Earth is approximately:",
+      "options": ["7.9 km/s", "11.2 km/s", "5.0 km/s", "11.2 m/s"],
+      "correctIndex": 1,
+      "explanation": "v_e = sqrt(2gR), which calculates to about 11.2 km/s for Earth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p7_q4",
+      "text": "How does the acceleration due to gravity (g) change with depth 'd' from the Earth's surface?",
+      "options": ["Increases linearly", "Decreases linearly", "Remains constant", "Decreases parabolically"],
+      "correctIndex": 1,
+      "explanation": "g' = g(1 - d/R). It decreases as you move toward the center and becomes zero at the center.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p7_q5",
+      "text": "The period of a geostationary satellite is:",
+      "options": ["12 hours", "24 hours", "48 hours", "90 minutes"],
+      "correctIndex": 1,
+      "explanation": "A geostationary satellite must match the Earth's rotation period to remain fixed over a point.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p7_q6",
+      "text": "At what height 'h' above the Earth's surface does the value of 'g' become half of its value on the surface?",
+      "options": ["R", "R/2", "(sqrt(2)-1)R", "2R"],
+      "correctIndex": 2,
+      "explanation": "g' = g / (1 + h/R)². Setting g' = g/2 gives (1 + h/R) = sqrt(2), so h = (sqrt(2)-1)R.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p7_q7",
+      "text": "The gravitational potential at a point is always:",
+      "options": ["Positive", "Negative", "Zero", "Depends on mass"],
+      "correctIndex": 1,
+      "explanation": "Gravitational force is attractive, and potential is defined as zero at infinity, making it negative elsewhere.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p7_q8",
+      "text": "If the distance between two masses is doubled, the gravitational force becomes:",
+      "options": ["Double", "Half", "One-fourth", "Four times"],
+      "correctIndex": 2,
+      "explanation": "Force follows the inverse square law: F ∝ 1/r².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p7_q9",
+      "text": "Which of the following describes Kepler's Third Law?",
+      "options": ["T ∝ R", "T² ∝ R³", "T³ ∝ R²", "T ∝ R²"],
+      "correctIndex": 1,
+      "explanation": "The square of the orbital period is proportional to the cube of the semi-major axis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p7_q10",
+      "text": "Weightlessness in a satellite is due to:",
+      "options": ["Zero gravity", "Center of gravity", "Zero normal reaction", "None"],
+      "correctIndex": 2,
+      "explanation": "Both the satellite and the observer are in free fall towards the Earth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p7_q11",
+      "text": "The value of g is maximum at:",
+      "options": ["The Equator", "The Poles", "The Center of Earth", "Equal everywhere"],
+      "correctIndex": 1,
+      "explanation": "Earth is flattened at the poles, so the radius is smaller and g is larger.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p7_q12",
+      "text": "Orbital velocity of a satellite near Earth's surface is about:",
+      "options": ["11.2 km/s", "8 km/s", "5 km/s", "1 km/s"],
+      "correctIndex": 1,
+      "explanation": "v_o = sqrt(gR) ≈ 7.92 km/s.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p7_q13",
+      "text": "Variation of 'g' with altitude 'h' (for h << R) is given by:",
+      "options": ["g(1 - h/R)", "g(1 - 2h/R)", "g(1 + h/R)", "g(1 + 2h/R)"],
+      "correctIndex": 1,
+      "explanation": "Derived from binomial expansion of g/(1+h/R)².",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p7_q14",
+      "text": "If Earth stops rotating, the value of 'g' at the equator will:",
+      "options": ["Increase", "Decrease", "Remain same", "Become zero"],
+      "correctIndex": 0,
+      "explanation": "Centrifugal force (mω²R) currently opposes gravity at the equator; stopping rotation removes this opposition.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p7_q15",
+      "text": "The potential energy of a body of mass m at distance r from center of Earth is:",
+      "options": ["-GMm/r", "GMm/r", "-GMm/r²", "½mv²"],
+      "correctIndex": 0,
+      "explanation": "The work done in bringing a mass from infinity to distance r.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p7_q16",
+      "text": "The ratio of escape velocity to orbital velocity near Earth's surface is:",
+      "options": ["1", "2", "sqrt(2)", "1/sqrt(2)"],
+      "correctIndex": 2,
+      "explanation": "v_e = sqrt(2) * v_o.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p7_q17",
+      "text": "A polar satellite's orbit is usually:",
+      "options": ["At very high altitude", "Low altitude (500-800 km)", "Fixed over equator", "Non-periodic"],
+      "correctIndex": 1,
+      "explanation": "Polar satellites are low-altitude Earth observation satellites.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p7_q18",
+      "text": "Dimensional formula of G is:",
+      "options": ["[M⁻¹ L³ T⁻²]", "[M L³ T⁻²]", "[M⁻² L² T⁻¹]", "[M L T⁻²]"],
+      "correctIndex": 0,
+      "explanation": "Calculated from F = G m1 m2 / r².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p7_q19",
+      "text": "The total energy of a satellite orbiting the Earth is:",
+      "options": ["Positive", "Zero", "Negative", "Variable"],
+      "correctIndex": 2,
+      "explanation": "Bound systems have negative total energy (E = -GMm/2r).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p7_q20",
+      "text": "If the mass of Earth is M and its radius is R, the escape velocity is independent of:",
+      "options": ["Mass of Earth", "Radius of Earth", "Mass of the body", "G"],
+      "correctIndex": 2,
+      "explanation": "v_e = sqrt(2GM/R); it does not depend on the mass of the projected object.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p7_q21",
+      "text": "A geostationary satellite rotates from:",
+      "options": ["North to South", "South to North", "East to West", "West to East"],
+      "correctIndex": 3,
+      "explanation": "It must follow the Earth's direction of rotation (West to East).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p7_q22",
+      "text": "Gravitational force is a:",
+      "options": ["Conservative force", "Non-conservative force", "Frictional force", "Contact force"],
+      "correctIndex": 0,
+      "explanation": "Work done by gravity depends only on initial and final positions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p7_q23",
+      "text": "As a planet moves closer to the Sun in its elliptical orbit, its speed:",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correctIndex": 0,
+      "explanation": "By Kepler's 2nd law, angular momentum is conserved, so speed increases as distance decreases.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p7_q24",
+      "text": "The value of g at the center of the Earth is:",
+      "options": ["9.8", "Infinity", "Zero", "9.8/2"],
+      "correctIndex": 2,
+      "explanation": "Mass from all directions pulls equally, resulting in zero net force.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p7_q25",
+      "text": "The escape velocity on Moon is _____ than on Earth.",
+      "options": ["More", "Less", "Equal", "Double"],
+      "correctIndex": 1,
+      "explanation": "Moon has much smaller mass and radius than Earth.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p7_q26",
+      "text": "In a satellite, a simple pendulum will have a time period of:",
+      "options": ["2 s", "Zero", "Infinity", "1 s"],
+      "correctIndex": 2,
+      "explanation": "T = 2π sqrt(L/g). Since effective g = 0, T is infinite (it won't oscillate).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p7_q27",
+      "text": "Gravitational intensity at the surface of Earth is equal to:",
+      "options": ["G", "g", "G/g", "Potential"],
+      "correctIndex": 1,
+      "explanation": "Intensity is Force/Mass, which is acceleration due to gravity.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p7_q28",
+      "text": "Which planet in the solar system has the highest escape velocity?",
+      "options": ["Mercury", "Earth", "Jupiter", "Mars"],
+      "correctIndex": 2,
+      "explanation": "Jupiter has the largest mass and a strong gravitational pull.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p7_q29",
+      "text": "The binding energy of a satellite of mass m at height h is:",
+      "options": ["GMm/(R+h)", "GMm/2(R+h)", "-GMm/2(R+h)", "mgh"],
+      "correctIndex": 1,
+      "explanation": "It is the positive of the total energy.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p7_q30",
+      "text": "Gravitational force is independent of:",
+      "options": ["Intervening medium", "Masses", "Distance", "G"],
+      "correctIndex": 0,
+      "explanation": "Gravity acts the same way through vacuum or any matter.",
+      "frequencyRating": 5
+    },
+    { "id": "g11_p7_q31", "text": "Kepler's first law states planets move in:", "options": ["Circles", "Ellipses", "Parabolas", "Straight lines"], "correctIndex": 1, "explanation": "Law of Orbits.", "frequencyRating": 5 },
+    { "id": "g11_p7_q32", "text": "The point in an orbit closest to the Sun is:", "options": ["Aphelion", "Perihelion", "Focus", "Center"], "correctIndex": 1, "explanation": "Peri- means near; helion means sun.", "frequencyRating": 4 },
+    { "id": "g11_p7_q33", "text": "The point in an orbit farthest from the Sun is:", "options": ["Aphelion", "Perihelion", "Focus", "Zenith"], "correctIndex": 0, "explanation": "Ap- means away.", "frequencyRating": 4 },
+    { "id": "g11_p7_q34", "text": "Universal law of gravitation applies to:", "options": ["Only planets", "Only Earth", "All bodies having mass", "Only charged bodies"], "correctIndex": 2, "explanation": "It is universal.", "frequencyRating": 5 },
+    { "id": "g11_p7_q35", "text": "Ratio of g_moon to g_earth is about:", "options": ["1/2", "1/4", "1/6", "1/10"], "correctIndex": 2, "explanation": "Gravity on moon is roughly 1.6 m/s².", "frequencyRating": 5 },
+    { "id": "g11_p7_q36", "text": "Gravitational potential energy is zero at:", "options": ["Surface", "Center", "Infinity", "Poles"], "correctIndex": 2, "explanation": "By convention.", "frequencyRating": 5 },
+    { "id": "g11_p7_q37", "text": "If mass of Earth increases by 1% without changing radius, g will:", "options": ["Increase by 1%", "Decrease by 1%", "Remain same", "Increase by 2%"], "correctIndex": 0, "explanation": "g = GM/R².", "frequencyRating": 3 },
+    { "id": "g11_p7_q38", "text": "If radius of Earth shrinks by 1% (mass constant), g will:", "options": ["Increase by 2%", "Decrease by 2%", "Increase by 1%", "Decrease by 1%"], "correctIndex": 0, "explanation": "g ∝ 1/R². (1-0.01)⁻² ≈ 1 + 0.02.", "frequencyRating": 4 },
+    { "id": "g11_p7_q39", "text": "A satellite is orbiting very close to Earth. Its time period is approx:", "options": ["24 hrs", "84.6 min", "42.3 min", "12 hrs"], "correctIndex": 1, "explanation": "T = 2π sqrt(R/g).", "frequencyRating": 4 },
+    { "id": "g11_p7_q40", "text": "Energy required to move a body from Earth's surface to infinity is:", "options": ["mgh", "mgR", "½mgR", "Infinite"], "correctIndex": 1, "explanation": "Work = ΔU = 0 - (-GMm/R) = GMm/R = mgR (since g=GM/R²).", "frequencyRating": 4 }
+  ]
+}

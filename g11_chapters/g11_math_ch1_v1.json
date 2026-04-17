@@ -1,0 +1,330 @@
+{
+  "id": "g11_math_ch1",
+  "grade": "11",
+  "subject": "Mathematics",
+  "number": "1",
+  "title": "Sets",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_m1_q1",
+      "text": "Which of the following is a well-defined set?",
+      "options": ["The collection of all difficult problems in Physics", "The collection of all rich people in India", "The collection of all vowels in the English alphabet", "The collection of all talented writers of India"],
+      "correctIndex": 2,
+      "explanation": "A set must be a well-defined collection where the criteria for inclusion do not vary from person to person.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q2",
+      "text": "The roster form of the set A = {x : x is an integer and -3 < x < 7} is:",
+      "options": ["{-3, -2, -1, 0, 1, 2, 3, 4, 5, 6, 7}", "{-2, -1, 0, 1, 2, 3, 4, 5, 6}", "{-3, -2, -1, 0, 1, 2, 3, 4, 5, 6}", "{-2, -1, 0, 1, 2, 3, 4, 5, 6, 7}"],
+      "correctIndex": 1,
+      "explanation": "The strict inequality < means -3 and 7 are not included.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q3",
+      "text": "The set-builder form of {3, 6, 9, 12} is:",
+      "options": ["{x : x = 3n, n ∈ N and n < 4}", "{x : x = 3n, n ∈ N and n ≤ 4}", "{x : x = 3n, n ∈ Z and n ≤ 4}", "{x : x = 3n, n ∈ N and n < 5}"],
+      "correctIndex": 1,
+      "explanation": "The elements are multiples of 3 from 3(1) to 3(4).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m1_q4",
+      "text": "Which of the following is an example of a null set?",
+      "options": ["Set of even prime numbers", "{0}", "Set of odd natural numbers divisible by 2", "The set of points common to any two parallel lines"],
+      "correctIndex": 2,
+      "explanation": "No odd number is divisible by 2, so the set is empty (φ).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q5",
+      "text": "A set containing a finite number of elements is called a:",
+      "options": ["Null set", "Infinite set", "Finite set", "Singleton set"],
+      "correctIndex": 2,
+      "explanation": "By definition, a set which is empty or consists of a definite number of elements is called finite.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q6",
+      "text": "Two sets A and B are said to be equal if:",
+      "options": ["They have the same number of elements", "Every element of A is in B and every element of B is in A", "They are both finite", "One is a subset of the other"],
+      "correctIndex": 1,
+      "explanation": "Equal sets must have exactly the same elements.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q7",
+      "text": "If A = {1, 2} and B = {1, 2, 3}, then:",
+      "options": ["A ⊂ B", "B ⊂ A", "A = B", "A ∉ B"],
+      "correctIndex": 0,
+      "explanation": "Every element of A is also an element of B.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q8",
+      "text": "The number of subsets of a set containing n elements is:",
+      "options": ["n²", "2n", "2ⁿ", "n!"],
+      "correctIndex": 2,
+      "explanation": "A set with n elements has 2ⁿ possible subsets, including the empty set and itself.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q9",
+      "text": "The collection of all subsets of a set A is called the:",
+      "options": ["Universal set", "Power set", "Finite set", "Super set"],
+      "correctIndex": 1,
+      "explanation": "The power set of A is denoted by P(A).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q10",
+      "text": "How many elements does P(A) have if A = φ?",
+      "options": ["0", "1", "2", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "A = φ has 0 elements. Number of subsets = 2⁰ = 1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m1_q11",
+      "text": "The set of all real numbers x such that a < x ≤ b is represented by the interval:",
+      "options": ["(a, b)", "[a, b]", "(a, b]", "[a, b)"],
+      "correctIndex": 2,
+      "explanation": "Open parenthesis '(' for strict inequality and square bracket ']' for inclusive inequality.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q12",
+      "text": "If A = {1, 2, 3} and B = {3, 4, 5}, then A ∪ B is:",
+      "options": ["{3}", "{1, 2, 3, 4, 5}", "{1, 2, 4, 5}", "{1, 2, 3, 3, 4, 5}"],
+      "correctIndex": 1,
+      "explanation": "Union combines all elements, removing duplicates.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q13",
+      "text": "If A = {1, 2, 3} and B = {3, 4, 5}, then A ∩ B is:",
+      "options": ["{1, 2, 3, 4, 5}", "{3}", "{1, 2}", "{4, 5}"],
+      "correctIndex": 1,
+      "explanation": "Intersection includes only the elements common to both sets.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q14",
+      "text": "Two sets A and B are disjoint if:",
+      "options": ["A ∪ B = φ", "A ∩ B = φ", "A ⊂ B", "A = B"],
+      "correctIndex": 1,
+      "explanation": "Disjoint sets have no common elements.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q15",
+      "text": "If A = {1, 2, 3} and B = {2, 3, 4}, then A - B is:",
+      "options": ["{1}", "{4}", "{1, 4}", "{2, 3}"],
+      "correctIndex": 0,
+      "explanation": "A - B contains elements in A that are not in B.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q16",
+      "text": "The complement of a set A, denoted by A', is defined as:",
+      "options": ["U - A", "A - U", "U ∪ A", "U ∩ A"],
+      "correctIndex": 0,
+      "explanation": "The complement contains all elements in the universal set U that are not in A.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q17",
+      "text": "According to De Morgan's Law, (A ∪ B)' is equal to:",
+      "options": ["A' ∪ B'", "A' ∩ B'", "A ∩ B", "A' - B'"],
+      "correctIndex": 1,
+      "explanation": "The complement of the union is the intersection of the complements.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q18",
+      "text": "For any two finite sets A and B, n(A ∪ B) is equal to:",
+      "options": ["n(A) + n(B)", "n(A) + n(B) - n(A ∩ B)", "n(A) - n(B)", "n(A) + n(B) + n(A ∩ B)"],
+      "correctIndex": 1,
+      "explanation": "This is the principle of inclusion-exclusion for two sets.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q19",
+      "text": "If n(A) = 20, n(B) = 30 and n(A ∪ B) = 40, find n(A ∩ B):",
+      "options": ["5", "10", "15", "20"],
+      "correctIndex": 1,
+      "explanation": "n(A ∩ B) = n(A) + n(B) - n(A ∪ B) = 20 + 30 - 40 = 10.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q20",
+      "text": "The set of all prime numbers less than 10 in roster form is:",
+      "options": ["{1, 2, 3, 5, 7}", "{2, 3, 5, 7}", "{2, 3, 5, 7, 9}", "{3, 5, 7}"],
+      "correctIndex": 1,
+      "explanation": "Prime numbers are 2, 3, 5, 7. 1 is not prime.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m1_q21",
+      "text": "Which of the following is true for any set A?",
+      "options": ["A ∪ A' = φ", "A ∩ A' = U", "A ∪ A' = U", "A ∩ A' = A"],
+      "correctIndex": 2,
+      "explanation": "A set and its complement together form the universal set.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m1_q22",
+      "text": "The number of elements in the power set of a set with 3 elements is:",
+      "options": ["3", "6", "8", "9"],
+      "correctIndex": 2,
+      "explanation": "2³ = 8.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m1_q23",
+      "text": "If U = {1, 2, 3, 4, 5, 6, 7, 8, 9} and A = {2, 4, 6, 8}, then A' is:",
+      "options": ["{1, 3, 5, 7}", "{1, 3, 5, 7, 9}", "{2, 4, 6, 8}", "{0, 1, 3, 5, 7, 9}"],
+      "correctIndex": 1,
+      "explanation": "A' = U - A, which are the odd numbers in this U.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q24",
+      "text": "The shaded region in a Venn diagram representing (A ∩ B) is:",
+      "options": ["The whole of A and B", "The region common to A and B", "The region in A but not in B", "The region outside A and B"],
+      "correctIndex": 1,
+      "explanation": "Intersection is the overlapping area in the Venn diagram.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q25",
+      "text": "If A ⊂ B, then A ∩ B is equal to:",
+      "options": ["A", "B", "φ", "U"],
+      "correctIndex": 0,
+      "explanation": "If A is entirely inside B, their common part is A itself.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m1_q26",
+      "text": "If A ⊂ B, then A ∪ B is equal to:",
+      "options": ["A", "B", "φ", "U"],
+      "correctIndex": 1,
+      "explanation": "If A is a subset of B, the union of A and B is simply B.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m1_q27",
+      "text": "The symmetric difference of two sets A and B, denoted by A Δ B, is:",
+      "options": ["(A - B) ∪ (B - A)", "(A ∩ B) - (A ∪ B)", "A ∪ B", "A ∩ B"],
+      "correctIndex": 0,
+      "explanation": "It contains elements which are in A or B but not in both.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m1_q28",
+      "text": "How many elements are in the set A = {x : x is a letter in the word 'MATHEMATICS'}?",
+      "options": ["11", "10", "8", "9"],
+      "correctIndex": 2,
+      "explanation": "M, A, T, H, E, I, C, S (8 distinct letters). Duplicate letters are counted once in a set.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m1_q29",
+      "text": "If n(A) = 15, n(B) = 20, and A ∩ B = φ, find n(A ∪ B):",
+      "options": ["35", "5", "15", "20"],
+      "correctIndex": 0,
+      "explanation": "For disjoint sets, n(A ∪ B) = n(A) + n(B) = 15 + 20 = 35.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m1_q30",
+      "text": "The set {x : x ∈ R, 0 ≤ x < 5} in interval notation is:",
+      "options": ["(0, 5)", "[0, 5]", "[0, 5)", "(0, 5]"],
+      "correctIndex": 2,
+      "explanation": "0 is included (bracket), 5 is not (parenthesis).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q31",
+      "text": "What is the cardinality of the power set of {1, {2, 3}}?",
+      "options": ["2", "4", "8", "1"],
+      "correctIndex": 1,
+      "explanation": "The set has 2 elements: '1' and '{2, 3}'. Cardinality of power set is 2² = 4.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m1_q32",
+      "text": "For any set A, (A')' is equal to:",
+      "options": ["A", "A'", "φ", "U"],
+      "correctIndex": 0,
+      "explanation": "The complement of a complement returns the original set.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m1_q33",
+      "text": "In a group of 400 people, 250 can speak Hindi and 200 can speak English. How many can speak both?",
+      "options": ["25", "50", "75", "100"],
+      "correctIndex": 1,
+      "explanation": "n(H ∩ E) = n(H) + n(E) - n(H ∪ E) = 250 + 200 - 400 = 50.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q34",
+      "text": "A ∩ (B ∪ C) is equal to:",
+      "options": ["(A ∩ B) ∪ (A ∩ C)", "(A ∪ B) ∩ (A ∪ C)", "A ∪ (B ∩ C)", "(A ∩ B) ∪ C"],
+      "correctIndex": 0,
+      "explanation": "This is the distributive law of intersection over union.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m1_q35",
+      "text": "The set of all circles in a plane is:",
+      "options": ["A finite set", "An infinite set", "A null set", "A singleton set"],
+      "correctIndex": 1,
+      "explanation": "There are infinitely many possible centers and radii for circles in a plane.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m1_q36",
+      "text": "If A = {x : x is a multiple of 3} and B = {x : x is a multiple of 5}, then A ∩ B is:",
+      "options": ["{x : x is a multiple of 3}", "{x : x is a multiple of 5}", "{x : x is a multiple of 15}", "{x : x is a multiple of 8}"],
+      "correctIndex": 2,
+      "explanation": "The intersection of multiples of 3 and 5 are the multiples of their LCM, which is 15.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m1_q37",
+      "text": "Which of the following statements is FALSE?",
+      "options": ["φ ⊂ A for any set A", "A ⊂ A for any set A", "{a, b} = {b, a}", "a ⊂ {a, b}"],
+      "correctIndex": 3,
+      "explanation": "'a' is an element, not a set. The correct notation would be a ∈ {a, b} or {a} ⊂ {a, b}.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m1_q38",
+      "text": "If A - B = A, then:",
+      "options": ["A ⊂ B", "B ⊂ A", "A ∩ B = φ", "A ∪ B = A"],
+      "correctIndex": 2,
+      "explanation": "If subtracting B from A removes nothing, A and B must be disjoint.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m1_q39",
+      "text": "The union of the set of rational numbers and the set of irrational numbers is:",
+      "options": ["Set of Integers", "Set of Real numbers", "Set of Complex numbers", "Set of Natural numbers"],
+      "correctIndex": 1,
+      "explanation": "Real numbers (R) are composed of all rational (Q) and irrational (T) numbers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m1_q40",
+      "text": "If n(A) = p and n(B) = q, what is the maximum possible value of n(A ∪ B)?",
+      "options": ["p", "q", "p + q", "pq"],
+      "correctIndex": 2,
+      "explanation": "The maximum value occurs when the sets A and B are disjoint (intersection is empty).",
+      "frequencyRating": 3
+    }
+  ]
+}

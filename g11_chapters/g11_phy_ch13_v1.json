@@ -1,0 +1,120 @@
+{
+  "id": "g11_phy_ch13",
+  "grade": "11",
+  "subject": "Physics",
+  "number": "13",
+  "title": "Oscillations",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_p13_q1",
+      "text": "The necessary condition for a motion to be Simple Harmonic (SHM) is:",
+      "options": ["F ∝ x", "F ∝ -x", "F ∝ x²", "F ∝ -x²"],
+      "correctIndex": 1,
+      "explanation": "Restoring force must be proportional to displacement and opposite in direction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p13_q2",
+      "text": "The time period of a simple pendulum depends on:",
+      "options": ["Mass of bob", "Amplitude", "Length of string", "Material of bob"],
+      "correctIndex": 2,
+      "explanation": "T = 2π sqrt(L/g); it is independent of mass and amplitude (for small angles).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p13_q3",
+      "text": "The velocity of a particle in SHM is maximum at:",
+      "options": ["Extreme positions", "Mean position", "Halfway between", "None"],
+      "correctIndex": 1,
+      "explanation": "v = ω sqrt(A² - x²). At x=0, v is max (ωA).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p13_q4",
+      "text": "The total energy of a particle performing SHM is:",
+      "options": ["Proportional to A", "Proportional to A²", "Independent of A", "Proportional to sqrt(A)"],
+      "correctIndex": 1,
+      "explanation": "E = ½ m ω² A².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p13_q5",
+      "text": "The phase difference between velocity and acceleration in SHM is:",
+      "options": ["0", "π/2", "π", "2π"],
+      "correctIndex": 1,
+      "explanation": "Velocity leads displacement by π/2, and acceleration leads velocity by π/2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p13_q6",
+      "text": "A second's pendulum has a time period of:",
+      "options": ["1 s", "2 s", "0.5 s", "4 s"],
+      "correctIndex": 1,
+      "explanation": "It takes 1 second for one swing, so a full oscillation (back and forth) takes 2 seconds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p13_q7",
+      "text": "If the length of a simple pendulum is increased by 4 times, its time period:",
+      "options": ["Doubles", "Halves", "Becomes 4 times", "Remains same"],
+      "correctIndex": 0,
+      "explanation": "T ∝ sqrt(L). sqrt(4) = 2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p13_q8",
+      "text": "The motion of a simple pendulum is SHM only for:",
+      "options": ["Large amplitudes", "Small angular displacements", "Vacuum only", "Infinite length"],
+      "correctIndex": 1,
+      "explanation": "Requirement for sin θ ≈ θ approximation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p13_q9",
+      "text": "At extreme positions in SHM, which quantity is zero?",
+      "options": ["Potential Energy", "Acceleration", "Velocity", "Force"],
+      "correctIndex": 2,
+      "explanation": "The particle stops momentarily at extreme points before reversing.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p13_q10",
+      "text": "The frequency of a spring-mass system is f. If mass is quadrupled, frequency becomes:",
+      "options": ["2f", "f/2", "4f", "f/4"],
+      "correctIndex": 1,
+      "explanation": "f = (1/2π) sqrt(k/m). f ∝ 1/sqrt(m).",
+      "frequencyRating": 5
+    },
+    { "id": "g11_p13_q11", "text": "Restoring force in SHM is maximum at:", "options": ["Mean position", "Extreme positions", "Anywhere", "Never"], "correctIndex": 1, "explanation": "F = -kx. Max x means max F.", "frequencyRating": 5 },
+    { "id": "g11_p13_q12", "text": "Acceleration of a particle in SHM is proportional to:", "options": ["Velocity", "Displacement", "Time", "Mass"], "correctIndex": 1, "explanation": "a = -ω²x.", "frequencyRating": 5 },
+    { "id": "g11_p13_q13", "text": "The potential energy in SHM is maximum at:", "options": ["Mean position", "Extreme positions", "Middle", "None"], "correctIndex": 1, "explanation": "U = ½ kx². Max at max x.", "frequencyRating": 5 },
+    { "id": "g11_p13_q14", "text": "Kinetic energy in SHM is maximum at:", "options": ["Mean position", "Extreme positions", "Middle", "None"], "correctIndex": 0, "explanation": "Speed is max at mean position.", "frequencyRating": 5 },
+    { "id": "g11_p13_q15", "text": "Phase difference between displacement and acceleration is:", "options": ["0", "π/2", "π", "3π/2"], "correctIndex": 2, "explanation": "Acceleration is in opposite direction to displacement.", "frequencyRating": 5 },
+    { "id": "g11_p13_q16", "text": "Differential equation of SHM is:", "options": ["d²x/dt² + ω²x = 0", "dx/dt + ωx = 0", "d²x/dt² - ω²x = 0", "d²x/dt² + ωx = 0"], "correctIndex": 0, "explanation": "Standard linear ODE.", "frequencyRating": 5 },
+    { "id": "g11_p13_q17", "text": "Time period of a simple pendulum at the center of Earth is:", "options": ["Zero", "2 s", "Infinite", "84.6 min"], "correctIndex": 2, "explanation": "g = 0 at center, so T = 2π sqrt(L/0) = ∞.", "frequencyRating": 4 },
+    { "id": "g11_p13_q18", "text": "If mass is attached to two parallel springs k1, k2, effective k is:", "options": ["k1 + k2", "k1k2/(k1+k2)", "sqrt(k1k2)", "k1 - k2"], "correctIndex": 0, "explanation": "Springs in parallel add up.", "frequencyRating": 4 },
+    { "id": "g11_p13_q19", "text": "A girl is swinging in a sitting position. If she stands up, the period:", "options": ["Increases", "Decreases", "Remains same", "Zero"], "correctIndex": 1, "explanation": "Standing up raises CM, decreasing effective length L. T decreases.", "frequencyRating": 4 },
+    { "id": "g11_p13_q20", "text": "Example of a non-periodic motion:", "options": ["Rotation of Earth", "Beating of heart", "Motion of a projectile", "Simple pendulum"], "correctIndex": 2, "explanation": "Projectile follows a path once and doesn't repeat.", "frequencyRating": 4 },
+    { "id": "g11_p13_q21", "text": "The frequency of oscillation of a simple pendulum in a freely falling lift is:", "options": ["Infinite", "Zero", "9.8 Hz", "1 Hz"], "correctIndex": 1, "explanation": "Effective g = 0, so T = ∞, f = 1/T = 0.", "frequencyRating": 4 },
+    { "id": "g11_p13_q22", "text": "At mean position, total energy is equal to:", "options": ["K.E. only", "P.E. only", "Sum of KE and PE", "Zero"], "correctIndex": 0, "explanation": "PE is zero at mean position (assuming standard reference).", "frequencyRating": 5 },
+    { "id": "g11_p13_q23", "text": "Damped oscillations result in decrease of _____ with time.", "options": ["Frequency", "Period", "Amplitude", "Phase"], "correctIndex": 2, "explanation": "Energy is lost due to friction/drag.", "frequencyRating": 5 },
+    { "id": "g11_p13_q24", "text": "Forced oscillations occur when:", "options": ["External periodic force is applied", "Internal force is applied", "No force is applied", "Damping is zero"], "correctIndex": 0, "explanation": "System oscillates at the frequency of driver.", "frequencyRating": 4 },
+    { "id": "g11_p13_q25", "text": "Resonance occurs when driver frequency is _____ natural frequency.", "options": ["Greater than", "Lesser than", "Equal to", "Double of"], "correctIndex": 2, "explanation": "Results in maximum amplitude.", "frequencyRating": 5 },
+    { "id": "g11_p13_q26", "text": "Relationship between ω, T and f is:", "options": ["ω = 2π/T", "ω = 2πf", "Both", "None"], "correctIndex": 2, "explanation": "Angular frequency definitions.", "frequencyRating": 5 },
+    { "id": "g11_p13_q27", "text": "In SHM, acceleration is zero at:", "options": ["Extreme points", "Mean position", "Amplitude/2", "Never"], "correctIndex": 1, "explanation": "a = -ω²x. At x=0, a=0.", "frequencyRating": 5 },
+    { "id": "g11_p13_q28", "text": "SI unit of force constant k is:", "options": ["N/m", "N·m", "kg/s", "N/m²"], "correctIndex": 0, "explanation": "F = kx => k = F/x.", "frequencyRating": 5 },
+    { "id": "g11_p13_q29", "text": "Energy in SHM is dissipated due to:", "options": ["Inertia", "Elasticity", "Damping", "Phase"], "correctIndex": 2, "explanation": "Damping forces like air resistance.", "frequencyRating": 4 },
+    { "id": "g11_p13_q30", "text": "Graph between PE and displacement in SHM is a:", "options": ["Straight line", "Circle", "Parabola", "Hyperbola"], "correctIndex": 2, "explanation": "U = ½ kx² is quadratic.", "frequencyRating": 5 },
+    { "id": "g11_p13_q31", "text": "Graph between Total Energy and displacement is a:", "options": ["Straight line slanting", "Straight line horizontal", "Parabola", "Sine curve"], "correctIndex": 1, "explanation": "TE is constant.", "frequencyRating": 4 },
+    { "id": "g11_p13_q32", "text": "If two SHMs of same frequency are added, the resultant is:", "options": ["Always zero", "Always SHM", "Non-periodic", "Circular"], "correctIndex": 1, "explanation": "Superposition of same-frequency SHMs is SHM.", "frequencyRating": 4 },
+    { "id": "g11_p13_q33", "text": "Length of seconds pendulum on Earth is approx:", "options": ["1 m", "0.5 m", "2 m", "0.25 m"], "correctIndex": 0, "explanation": "L = gT²/4π² ≈ 9.8*4 / (4*9.8) ≈ 1m.", "frequencyRating": 5 },
+    { "id": "g11_p13_q34", "text": "Oscillatory motion is always periodic, but periodic motion may not be oscillatory.", "options": ["True", "False", "Partially true", "None"], "correctIndex": 0, "explanation": "Uniform circular motion is periodic but not oscillatory.", "frequencyRating": 4 },
+    { "id": "g11_p13_q35", "text": "Effective g in an elevator accelerating up with 'a' is:", "options": ["g", "g + a", "g - a", "sqrt(g²+a²)"], "correctIndex": 1, "explanation": "Pseudo force adds to weight.", "frequencyRating": 4 },
+    { "id": "g11_p13_q36", "text": "Time period of a spring-mass system on Moon:", "options": ["Increases", "Decreases", "Same", "Zero"], "correctIndex": 2, "explanation": "T = 2π sqrt(m/k) does not depend on g.", "frequencyRating": 5 },
+    { "id": "g11_p13_q37", "text": "Phase of an oscillation is measured in:", "options": ["Meter", "Second", "Radian", "Hertz"], "correctIndex": 2, "explanation": "It describes the state of motion at a given time.", "frequencyRating": 4 },
+    { "id": "g11_p13_q38", "text": "Which of the following is an example of resonance?", "options": ["Shattering of glass by a singer", "Marching soldiers on a bridge", "Tuning a radio", "All of these"], "correctIndex": 3, "explanation": "Classic resonance phenomena.", "frequencyRating": 5 },
+    { "id": "g11_p13_q39", "text": "Restoring force is also called:", "options": ["Frictional force", "Elastic force", "Inertial force", "None"], "correctIndex": 1, "explanation": "In springs, it is the elastic force.", "frequencyRating": 3 },
+    { "id": "g11_p13_q40", "text": "Amplitude of a forced oscillator at resonance is limited by:", "options": ["Driver force", "Damping", "Mass", "Frequency"], "correctIndex": 1, "explanation": "Without damping, amplitude would be infinite.", "frequencyRating": 4 }
+  ]
+}

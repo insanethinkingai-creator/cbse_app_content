@@ -1,0 +1,330 @@
+{
+  "id": "g11_bio_ch5",
+  "grade": "11",
+  "subject": "Biology",
+  "number": "5",
+  "title": "Morphology of Flowering Plants",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_b5_q1",
+      "text": "Which whorl of a flower is usually green and protects the bud?",
+      "options": ["Calyx", "Corolla", "Androecium", "Gynoecium"],
+      "correctIndex": 0,
+      "explanation": "The calyx is made of sepals which protect the developing flower bud.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q2",
+      "text": "Which part of a leaf is involved in gas exchange?",
+      "options": ["Petiole", "Blade", "Venation", "Stomata"],
+      "correctIndex": 3,
+      "explanation": "Stomata are pores that allow exchange of gases in the leaf.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b5_q3",
+      "text": "Which stem modification is used for storage of water?",
+      "options": ["Rhizome", "Tuber", "Corm", "Succulent stem"],
+      "correctIndex": 3,
+      "explanation": "Succulent stems store water in arid conditions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q4",
+      "text": "Which root type is characteristic of monocots?",
+      "options": ["Tap root", "Fibrous root", "Adventitious root", "Storage root"],
+      "correctIndex": 1,
+      "explanation": "Monocots usually have a fibrous root system.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b5_q5",
+      "text": "The arrangement of veins in a leaf is called: ",
+      "options": ["Venation", "Phyllotaxy", "Inflorescence", "Cohesion"],
+      "correctIndex": 0,
+      "explanation": "Venation refers to the pattern of veins in the leaf blade.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b5_q6",
+      "text": "A flower with sepals and petals in separate whorls is called: ",
+      "options": ["Complete", "Incomplete", "Regular", "Irregular"],
+      "correctIndex": 0,
+      "explanation": "A complete flower has all four whorls: calyx, corolla, androecium, and gynoecium.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b5_q7",
+      "text": "In dicotyledonous plants, the direct elongation of the radicle leads to the formation of:",
+      "options": ["Primary root", "Secondary root", "Adventitious root", "Fibrous root"],
+      "correctIndex": 0,
+      "explanation": "Primary root grows inside the soil and bears lateral roots.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q8",
+      "text": "Roots arising from parts of the plant other than the radicle are called:",
+      "options": ["Tap roots", "Fibrous roots", "Adventitious roots", "Prop roots"],
+      "correctIndex": 2,
+      "explanation": "Examples include grass, Monstera and the banyan tree.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q9",
+      "text": "The region of the root responsible for the growth of the root in length is:",
+      "options": ["Root cap", "Region of meristematic activity", "Region of elongation", "Region of maturation"],
+      "correctIndex": 2,
+      "explanation": "Cells in this region undergo rapid elongation and enlargement.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q10",
+      "text": "Pneumatophores are special roots that help in:",
+      "options": ["Storage of food", "Mechanical support", "Getting oxygen for respiration", "Absorption of water"],
+      "correctIndex": 2,
+      "explanation": "They are found in plants growing in swampy areas like Rhizophora.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q11",
+      "text": "The stem develops from the ________ of the embryo of a germinating seed.",
+      "options": ["Radicle", "Plumule", "Cotyledon", "Endosperm"],
+      "correctIndex": 1,
+      "explanation": "The stem is the ascending part of the axis bearing branches, leaves, flowers and fruits.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q12",
+      "text": "In some plants like Opuntia, the stem is modified into a flattened structure to perform:",
+      "options": ["Respiration", "Photosynthesis", "Storage of food", "Transpiration"],
+      "correctIndex": 1,
+      "explanation": "Flattened (Opuntia) or fleshy cylindrical (Euphorbia) stems contain chlorophyll and carry out photosynthesis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q13",
+      "text": "The point on the stem where leaves are attached is called:",
+      "options": ["Internode", "Node", "Axil", "Bud"],
+      "correctIndex": 1,
+      "explanation": "Internodes are the portions between two nodes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q14",
+      "text": "A typical leaf consists of three main parts:",
+      "options": ["Petiole, lamina, stipules", "Leaf base, petiole, lamina", "Midrib, veins, veinlets", "Axil, node, internode"],
+      "correctIndex": 1,
+      "explanation": "Leaf is attached to the stem by the leaf base.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b5_q15",
+      "text": "When the veinlets form a network, the venation is termed as:",
+      "options": ["Parallel", "Reticulate", "Convergent", "Divergent"],
+      "correctIndex": 1,
+      "explanation": "Leaves of dicotyledonous plants generally possess reticulate venation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q16",
+      "text": "The arrangement of leaves on the stem or branch is called:",
+      "options": ["Venation", "Phyllotaxy", "Vernalization", "Aestivation"],
+      "correctIndex": 1,
+      "explanation": "This is usually of three types: alternate, opposite and whorled.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q17",
+      "text": "In a compound leaf, if the leaflets are attached at a common point, i.e., at the tip of petiole, it is:",
+      "options": ["Pinnately compound", "Palmately compound", "Simple", "Whorled"],
+      "correctIndex": 1,
+      "explanation": "Example: Silk cotton.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b5_q18",
+      "text": "The arrangement of flowers on the floral axis is termed as:",
+      "options": ["Phyllotaxy", "Inflorescence", "Aestivation", "Placentation"],
+      "correctIndex": 1,
+      "explanation": "Depending on whether the apex gets converted into a flower or continues to grow, racemose and cymose types are defined.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q19",
+      "text": "In racemose type of inflorescence, the main axis:",
+      "options": ["Terminates in a flower", "Continues to grow", "Is branched", "Is unbranched"],
+      "correctIndex": 1,
+      "explanation": "The flowers are borne laterally in an acropetal succession.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q20",
+      "text": "When a flower can be divided into two equal radial halves in any radial plane passing through the centre, it is said to be:",
+      "options": ["Actinomorphic", "Zygomorphic", "Asymmetric", "Bilateral"],
+      "correctIndex": 0,
+      "explanation": "Examples: mustard, datura, chilli.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q21",
+      "text": "A flower having both androecium and gynoecium is:",
+      "options": ["Unisexual", "Bisexual", "Staminate", "Pistillate"],
+      "correctIndex": 1,
+      "explanation": "Most flowering plants have bisexual flowers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q22",
+      "text": "If the gynoecium occupies the highest position while the other parts are situated below it, the flower is:",
+      "options": ["Perigynous", "Epigynous", "Hypogynous", "Semi-inferior"],
+      "correctIndex": 2,
+      "explanation": "The ovary in such flowers is said to be superior.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q23",
+      "text": "The mode of arrangement of sepals or petals in floral bud with respect to the other members of the same whorl is known as:",
+      "options": ["Phyllotaxy", "Aestivation", "Inflorescence", "Placentation"],
+      "correctIndex": 1,
+      "explanation": "Types include valvate, twisted, imbricate and vexillary.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q24",
+      "text": "A sterile stamen is called:",
+      "options": ["Staminode", "Pistillode", "Anther", "Filament"],
+      "correctIndex": 0,
+      "explanation": "Staminodes do not produce pollen grains.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q25",
+      "text": "When stamens are attached to the petals, they are:",
+      "options": ["Epiphyllous", "Epipetalous", "Monadelphous", "Syngenesious"],
+      "correctIndex": 1,
+      "explanation": "Example: Brinjal.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b5_q26",
+      "text": "The arrangement of ovules within the ovary is known as:",
+      "options": ["Aestivation", "Placentation", "Inflorescence", "Phyllotaxy"],
+      "correctIndex": 1,
+      "explanation": "Types include marginal, axile, parietal, basal, central and free central.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q27",
+      "text": "The fruit is a characteristic feature of:",
+      "options": ["Gymnosperms", "Angiosperms", "Pteridophytes", "Bryophytes"],
+      "correctIndex": 1,
+      "explanation": "It is a mature or ripened ovary, developed after fertilization.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q28",
+      "text": "A fruit developed without fertilization of the ovary is called:",
+      "options": ["True fruit", "False fruit", "Parthenocarpic fruit", "Drupe"],
+      "correctIndex": 2,
+      "explanation": "Example: Banana.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q29",
+      "text": "In mango and coconut, the fruit is known as a:",
+      "options": ["Berry", "Pome", "Drupe", "Pepon"],
+      "correctIndex": 2,
+      "explanation": "They develop from monocarpellary superior ovaries and are one seeded.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q30",
+      "text": "The outer covering of a seed is the:",
+      "options": ["Seed coat", "Hilum", "Micropyle", "Endosperm"],
+      "correctIndex": 0,
+      "explanation": "The seed coat has two layers: the outer testa and the inner tegmen.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q31",
+      "text": "In monocotyledonous seeds like maize, the outer covering of endosperm separates the embryo by a proteinous layer called:",
+      "options": ["Scutellum", "Aleurone layer", "Coleoptile", "Coleorhiza"],
+      "correctIndex": 1,
+      "explanation": "The aleurone layer is rich in proteins.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q32",
+      "text": "The large, shield-shaped cotyledon in monocots is known as:",
+      "options": ["Epiblast", "Scutellum", "Plumule", "Radicle"],
+      "correctIndex": 1,
+      "explanation": "It is characteristic of grass family seeds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q33",
+      "text": "The plumule and radicle in monocots are enclosed in sheaths called:",
+      "options": ["Testa and tegmen", "Coleoptile and coleorhiza", "Stigma and style", "Hilum and micropyle"],
+      "correctIndex": 1,
+      "explanation": "Coleoptile encloses plumule and coleorhiza encloses radicle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q34",
+      "text": "The scars on the seed coat through which the developing seeds were attached to the fruit is called:",
+      "options": ["Micropyle", "Hilum", "Raphe", "Chalaza"],
+      "correctIndex": 1,
+      "explanation": "Hilum is a point of attachment.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b5_q35",
+      "text": "Which of the following is a floral formula for Fabaceae?",
+      "options": ["⊕ ⚥ K(5) C1+2+(2) A(9)+1 G1", "% ⚥ K(5) C1+2+(2) A(9)+1 G1", "⊕ ⚥ K(5) C(5) A5 G(2)", "% ⚥ K(5) C1+2+2 A(9)+1 G1"],
+      "correctIndex": 1,
+      "explanation": "Fabaceae flowers are zygomorphic (%) and have diadelphous stamens (9)+1.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b5_q36",
+      "text": "Family Solanaceae is commonly known as the:",
+      "options": ["Pulse family", "Potato family", "Lily family", "Mustard family"],
+      "correctIndex": 1,
+      "explanation": "It is a large family widely distributed in tropics and subtropics.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q37",
+      "text": "In Solanaceae, the stamens are:",
+      "options": ["Epipetalous", "Epiphyllous", "Monadelphous", "Polyadelphous"],
+      "correctIndex": 0,
+      "explanation": "Stamens are attached to the petals.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b5_q38",
+      "text": "The family Liliaceae is characteristic of:",
+      "options": ["Dicotyledonous plants", "Monocotyledonous plants", "Gymnosperms", "Pteridophytes"],
+      "correctIndex": 1,
+      "explanation": "It is also known as the Lily family.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b5_q39",
+      "text": "In Liliaceae, the perianth members are often united into a tube and exhibit ________ aestivation.",
+      "options": ["Twisted", "Imbricate", "Valvate", "Vexillary"],
+      "correctIndex": 2,
+      "explanation": "Tepals show valvate aestivation.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b5_q40",
+      "text": "Colchicine is obtained from a plant belonging to:",
+      "options": ["Fabaceae", "Solanaceae", "Liliaceae", "Brassicaceae"],
+      "correctIndex": 2,
+      "explanation": "Colchicum autumnale is a member of Liliaceae.",
+      "frequencyRating": 4
+    }
+  ]
+}

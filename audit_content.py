@@ -79,6 +79,16 @@ if __name__ == "__main__":
     }
     audit_grade(10, g10_structure)
 
+    # Grade 11 Configuration
+    g11_structure = {
+        "Mathematics": 14,
+        "Physics": 14,
+        "Chemistry": 9,
+        "Biology": 19,
+        "English": 8
+    }
+    audit_grade(11, g11_structure)
+
     # Grade 12 Configuration
     g12_structure = {
         "Mathematics": 13,

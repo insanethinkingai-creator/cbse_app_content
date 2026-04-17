@@ -1,0 +1,330 @@
+{
+  "id": "g11_phy_ch6",
+  "grade": "11",
+  "subject": "Physics",
+  "number": "6",
+  "title": "System of Particles and Rotational Motion",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_p6_q1",
+      "text": "The point at which the entire mass of a system may be considered to be concentrated is:",
+      "options": ["Center of Gravity", "Center of Mass", "Centroid", "None"],
+      "correctIndex": 1,
+      "explanation": "Center of mass is the point representing the translational motion of the system.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p6_q2",
+      "text": "Torque is the rotational analogue of:",
+      "options": ["Mass", "Velocity", "Force", "Momentum"],
+      "correctIndex": 2,
+      "explanation": "Torque produces angular acceleration just as force produces linear acceleration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p6_q3",
+      "text": "The moment of inertia of a body depends on:",
+      "options": ["Mass", "Distribution of mass about the axis", "Position of axis", "All of these"],
+      "correctIndex": 3,
+      "explanation": "I = Σ m_i r_i².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p6_q4",
+      "text": "Angular momentum (L) is defined as:",
+      "options": ["r x p", "p x r", "r·p", "m v r"],
+      "correctIndex": 0,
+      "explanation": "Cross product of position vector and linear momentum.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p6_q5",
+      "text": "The rotational kinetic energy of a body is:",
+      "options": ["½mv²", "½Iω", "½Iω²", "Iω"],
+      "correctIndex": 2,
+      "explanation": "Analogue to ½mv².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p6_q6",
+      "text": "A couple produces:",
+      "options": ["Pure translational motion", "Pure rotational motion", "Both translational and rotational", "No motion"],
+      "correctIndex": 1,
+      "explanation": "A couple consists of two equal and opposite forces, so net force is zero but net torque is non-zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p6_q7",
+      "text": "The radius of gyration (k) is related to moment of inertia (I) as:",
+      "options": ["I = mk", "I = mk²", "I = m/k²", "I = k²"],
+      "correctIndex": 1,
+      "explanation": "k = sqrt(I/m).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p6_q8",
+      "text": "The Theorem of Parallel Axes states:",
+      "options": ["I = I_cm + Ma²", "I = I_cm - Ma²", "I = I_x + I_y", "I = Ma²"],
+      "correctIndex": 0,
+      "explanation": "Relates MOI about any axis to MOI about a parallel axis through CM.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p6_q9",
+      "text": "If net external torque is zero, which quantity is conserved?",
+      "options": ["Linear Momentum", "Angular Momentum", "Kinetic Energy", "Force"],
+      "correctIndex": 1,
+      "explanation": "dL/dt = τ_ext. If τ_ext = 0, L is constant.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p6_q10",
+      "text": "Moment of inertia of a ring of mass M and radius R about its diameter is:",
+      "options": ["MR²", "½MR²", "¼MR²", "2MR²"],
+      "correctIndex": 1,
+      "explanation": "About the axis perpendicular to plane is MR²; by perpendicular axis theorem, it's half about the diameter.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p6_q11",
+      "text": "The cross product A x B is:",
+      "options": ["AB cos θ", "AB sin θ n̂", "AB", "Zero"],
+      "correctIndex": 1,
+      "explanation": "Result is a vector perpendicular to both A and B.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p6_q12",
+      "text": "Center of mass of a uniform rod lies at:",
+      "options": ["One end", "Geometric center", "2/3 from end", "Anywhere"],
+      "correctIndex": 1,
+      "explanation": "For symmetric bodies, CM coincides with the geometric center.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p6_q13",
+      "text": "Angular acceleration (α) is equal to:",
+      "options": ["dω/dt", "v/r", "ω/t", "τ/m"],
+      "correctIndex": 0,
+      "explanation": "Rate of change of angular velocity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p6_q14",
+      "text": "In pure rolling motion of a sphere, the velocity of the point of contact is:",
+      "options": ["v", "2v", "Zero", "v/2"],
+      "correctIndex": 2,
+      "explanation": "Point of contact is at instantaneous rest (v - ωr = 0).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p6_q15",
+      "text": "The unit of torque is:",
+      "options": ["N/m", "N m", "J/s", "N m²"],
+      "correctIndex": 1,
+      "explanation": "Newton-meter (dimensionally same as Work).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p6_q16",
+      "text": "An ice skater spinning on one leg pulls her arms in to:",
+      "options": ["Increase MOI", "Decrease MOI", "Increase mass", "Decrease angular velocity"],
+      "correctIndex": 1,
+      "explanation": "Decreasing MOI increases angular velocity to conserve angular momentum.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p6_q17",
+      "text": "Which theorem is valid only for planar bodies (lamina)?",
+      "options": ["Parallel Axis Theorem", "Perpendicular Axis Theorem", "Work-Energy Theorem", "None"],
+      "correctIndex": 1,
+      "explanation": "I_z = I_x + I_y applies only to 2D objects.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p6_q18",
+      "text": "Work done by torque is:",
+      "options": ["τ θ", "τ/θ", "τ ω", "τ α"],
+      "correctIndex": 0,
+      "explanation": "Analogue to F·d.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p6_q19",
+      "text": "MOI of a solid sphere about its diameter is:",
+      "options": ["2/3 MR²", "2/5 MR²", "MR²", "7/5 MR²"],
+      "correctIndex": 1,
+      "explanation": "Standard derived value for a solid sphere.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p6_q20",
+      "text": "Relationship between Torque (τ) and MOI (I) is:",
+      "options": ["τ = I ω", "τ = I α", "τ = I/α", "τ = m v r"],
+      "correctIndex": 1,
+      "explanation": "Rotational analogue of F = ma.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p6_q21",
+      "text": "For a system of particles, internal forces:",
+      "options": ["Affect CM motion", "Do not affect CM motion", "Are always zero", "Cancel external forces"],
+      "correctIndex": 1,
+      "explanation": "Internal forces occur in action-reaction pairs and cancel out in the net force sum.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p6_q22",
+      "text": "Angular momentum is a _____ quantity.",
+      "options": ["Scalar", "Axial vector", "Polar vector", "None"],
+      "correctIndex": 1,
+      "explanation": "Direction is along the axis of rotation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p6_q23",
+      "text": "Unit of moment of inertia is:",
+      "options": ["kg m", "kg/m²", "kg m²", "N m"],
+      "correctIndex": 2,
+      "explanation": "Mass times distance squared.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p6_q24",
+      "text": "A disc and a ring of same mass and radius roll down an incline. Which reaches first?",
+      "options": ["Ring", "Disc", "Both same time", "Depends on incline angle"],
+      "correctIndex": 1,
+      "explanation": "Disc has lower MOI (½MR²) than Ring (MR²), so it has higher acceleration.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p6_q25",
+      "text": "The position of Center of Mass of a system does not depend on:",
+      "options": ["Masses of particles", "Positions of particles", "Internal forces", "All of these"],
+      "correctIndex": 2,
+      "explanation": "Internal forces do not change the CM position.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p6_q26",
+      "text": "The vector product î x î is:",
+      "options": ["1", "0", "k̂", "-1"],
+      "correctIndex": 1,
+      "explanation": "Cross product of a vector with itself is zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p6_q27",
+      "text": "Power in rotational motion is:",
+      "options": ["τ ω", "τ α", "I ω", "L ω"],
+      "correctIndex": 0,
+      "explanation": "Rotational analogue of F·v.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p6_q28",
+      "text": "If a rigid body is rotating about a fixed axis, every particle of the body has the same:",
+      "options": ["Linear velocity", "Angular velocity", "Linear acceleration", "Distance from axis"],
+      "correctIndex": 1,
+      "explanation": "All particles sweep the same angle in the same time.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p6_q29",
+      "text": "Moment of inertia of a solid cylinder of radius R about its own axis is:",
+      "options": ["MR²", "½MR²", "¼MR²", "2/3 MR²"],
+      "correctIndex": 1,
+      "explanation": "Same as a disc of the same mass and radius.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p6_q30",
+      "text": "The cross product ĵ x î is:",
+      "options": ["k̂", "-k̂", "0", "1"],
+      "correctIndex": 1,
+      "explanation": "Order is reversed, so sign changes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p6_q31",
+      "text": "Motion of center of mass depends only on:",
+      "options": ["Internal forces", "External forces", "Both", "None"],
+      "correctIndex": 1,
+      "explanation": "Σ F_ext = M a_cm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p6_q32",
+      "text": "The ratio of rotational KE to total KE for a rolling solid sphere is:",
+      "options": ["2/7", "2/5", "1/2", "5/7"],
+      "correctIndex": 0,
+      "explanation": "K_rot = ½(2/5 MR²)ω². K_trans = ½Mv². Ratio = (2/5) / (1 + 2/5) = 2/7.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p6_q33",
+      "text": "Torque is also known as:",
+      "options": ["Moment of Force", "Moment of Momentum", "Moment of Inertia", "None"],
+      "correctIndex": 0,
+      "explanation": "It measures the turning effect of a force.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p6_q34",
+      "text": "Which of the following has the highest MOI if mass and radius are same?",
+      "options": ["Solid sphere", "Solid cylinder", "Ring", "Disc"],
+      "correctIndex": 2,
+      "explanation": "Ring (MR²) > Cylinder/Disc (0.5MR²) > Sphere (0.4MR²).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p6_q35",
+      "text": "Angular momentum is conserved when:",
+      "options": ["F_ext = 0", "τ_ext = 0", "Work = 0", "Energy = 0"],
+      "correctIndex": 1,
+      "explanation": "Rotational analogue of law of conservation of linear momentum.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p6_q36",
+      "text": "Direction of torque is perpendicular to:",
+      "options": ["r", "F", "Both r and F", "None"],
+      "correctIndex": 2,
+      "explanation": "Because it is a cross product (r x F).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p6_q37",
+      "text": "Dimensions of angular momentum are same as:",
+      "options": ["Torque", "Planck's constant", "Energy", "Power"],
+      "correctIndex": 1,
+      "explanation": "Both are [ML²T⁻¹].",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p6_q38",
+      "text": "The CM of two equal masses lies at:",
+      "options": ["Midpoint", "Origin", "One of the masses", "Infinity"],
+      "correctIndex": 0,
+      "explanation": "For equal masses, (x1+x2)/2 is the center.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p6_q39",
+      "text": "Moment of inertia is a _____ quantity.",
+      "options": ["Scalar", "Vector", "Tensor", "Phasor"],
+      "correctIndex": 2,
+      "explanation": "It depends on the direction of axis, but doesn't follow vector addition laws.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g11_p6_q40",
+      "text": "The unit of angular momentum is:",
+      "options": ["kg m/s", "kg m²/s", "kg m/s²", "kg m² s"],
+      "correctIndex": 1,
+      "explanation": "mvr -> kg * m/s * m = kg m²/s.",
+      "frequencyRating": 5
+    }
+  ]
+}

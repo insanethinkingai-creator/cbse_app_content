@@ -1,0 +1,120 @@
+{
+  "id": "g11_math_ch2",
+  "grade": "11",
+  "subject": "Mathematics",
+  "number": "2",
+  "title": "Relations and Functions",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_m2_q1",
+      "text": "If A = {1, 2} and B = {a, b}, then A × B is:",
+      "options": ["{(1, a), (2, b)}", "{(1, a), (1, b), (2, a), (2, b)}", "{(a, 1), (b, 2)}", "{1, 2, a, b}"],
+      "correctIndex": 1,
+      "explanation": "The Cartesian product A × B is the set of all ordered pairs (x, y) where x ∈ A and y ∈ B.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m2_q2",
+      "text": "If n(A) = p and n(B) = q, then n(A × B) is:",
+      "options": ["p + q", "pq", "p/q", "p - q"],
+      "correctIndex": 1,
+      "explanation": "The number of elements in the Cartesian product is the product of the number of elements in each set.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m2_q3",
+      "text": "A relation R from set A to set B is a subset of:",
+      "options": ["A", "B", "A × B", "B × A"],
+      "correctIndex": 2,
+      "explanation": "A relation defines a correspondence between elements of A and B, represented by ordered pairs from A × B.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m2_q4",
+      "text": "The set of all first elements of the ordered pairs in a relation R from A to B is called the _____ of R.",
+      "options": ["Codomain", "Range", "Domain", "Image"],
+      "correctIndex": 2,
+      "explanation": "The domain consists of all possible input values.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m2_q5",
+      "text": "The set of all second elements of the ordered pairs in a relation R from A to B is called the _____ of R.",
+      "options": ["Codomain", "Range", "Domain", "Pre-image"],
+      "correctIndex": 1,
+      "explanation": "The range consists of all actual output values.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m2_q6",
+      "text": "If R is a relation from A to B, then the entire set B is called the _____ of R.",
+      "options": ["Domain", "Range", "Codomain", "Image"],
+      "correctIndex": 2,
+      "explanation": "The codomain is the set of all possible output values, regardless of whether they are actually mapped to.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m2_q7",
+      "text": "A function f from A to B is a relation such that every element of A has _____ image in B.",
+      "options": ["At least one", "Exactly one", "At most one", "No"],
+      "correctIndex": 1,
+      "explanation": "This is the fundamental definition of a function: each input has a unique output.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m2_q8",
+      "text": "Which of the following is NOT a type of function?",
+      "options": ["One-one function", "Onto function", "Many-to-one function", "One-to-many function"],
+      "correctIndex": 3,
+      "explanation": "A function cannot map one input to multiple outputs. If it does, it's a relation, not a function.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m2_q9",
+      "text": "If f(x) = x², then the domain of f is:",
+      "options": ["Natural numbers", "Integers", "Real numbers", "Positive real numbers"],
+      "correctIndex": 2,
+      "explanation": "The square function is defined for all real numbers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m2_q10",
+      "text": "If f(x) = x², then the range of f is:",
+      "options": ["Natural numbers", "Integers", "Real numbers", "Non-negative real numbers"],
+      "correctIndex": 3,
+      "explanation": "The square of any real number is always non-negative.",
+      "frequencyRating": 5
+    },
+    { "id": "g11_m2_q11", "text": "The identity function f(x) = x has a range of:", "options": ["{0}", "All real numbers", "Positive real numbers", "Negative real numbers"], "correctIndex": 1, "explanation": "For every real input, there is an equal real output.", "frequencyRating": 5 },
+    { "id": "g11_m2_q12", "text": "The graph of the modulus function f(x) = |x| is symmetric about the:", "options": ["x-axis", "y-axis", "Origin", "Line y = x"], "correctIndex": 1, "explanation": "f(x) = f(-x), which indicates symmetry about the y-axis.", "frequencyRating": 4 },
+    { "id": "g11_m2_q13", "text": "The domain of the function f(x) = 1/x is:", "options": ["R", "R - {0}", "R⁺", "R⁻"], "correctIndex": 1, "explanation": "Division by zero is undefined, so x cannot be 0.", "frequencyRating": 5 },
+    { "id": "g11_m2_q14", "text": "The range of the function f(x) = 1/x is:", "options": ["R", "R - {0}", "R⁺", "R⁻"], "correctIndex": 1, "explanation": "The reciprocal of any non-zero real number is also a non-zero real number.", "frequencyRating": 5 },
+    { "id": "g11_m2_q15", "text": "If f(x) = x + 7 and g(x) = x - 7, then (f o g)(x) is:", "options": ["x", "x² - 49", "2x", "x + 14"], "correctIndex": 0, "explanation": "(f o g)(x) = f(g(x)) = f(x - 7) = (x - 7) + 7 = x.", "frequencyRating": 4 },
+    { "id": "g11_m2_q16", "text": "If f(x) = x² and g(x) = 2x + 1, then (f o g)(x) is:", "options": ["(2x + 1)²", "2x² + 1", "x²(2x + 1)", "4x² + 4x + 1"], "correctIndex": 0, "explanation": "(f o g)(x) = f(g(x)) = f(2x + 1) = (2x + 1)².", "frequencyRating": 4 },
+    { "id": "g11_m2_q17", "text": "A relation R on a set A is reflexive if for every x ∈ A, _____.", "options": ["(x, y) ∈ R", "(x, x) ∈ R", "(y, x) ∈ R", "(x, x) ∉ R"], "correctIndex": 1, "explanation": "Every element is related to itself.", "frequencyRating": 5 },
+    { "id": "g11_m2_q18", "text": "A relation R on a set A is symmetric if (x, y) ∈ R implies _____.", "options": ["(x, x) ∈ R", "(y, y) ∈ R", "(y, x) ∈ R", "(x, z) ∈ R"], "correctIndex": 2, "explanation": "If x is related to y, then y is related to x.", "frequencyRating": 5 },
+    { "id": "g11_m2_q19", "text": "A relation R on a set A is transitive if (x, y) ∈ R and (y, z) ∈ R implies _____.", "options": ["(x, x) ∈ R", "(z, y) ∈ R", "(x, z) ∈ R", "(y, x) ∈ R"], "correctIndex": 2, "explanation": "If x is related to y and y is related to z, then x is related to z.", "frequencyRating": 5 },
+    { "id": "g11_m2_q20", "text": "A relation that is reflexive, symmetric, and transitive is called a/an _____ relation.", "options": ["Partial order", "Equivalence", "Total order", "Identity"], "correctIndex": 1, "explanation": "Equivalence relations partition a set into disjoint equivalence classes.", "frequencyRating": 5 },
+    { "id": "g11_m2_q21", "text": "The domain of the square root function f(x) = √x is:", "options": ["R", "R - {0}", "Non-negative real numbers", "Positive real numbers"], "correctIndex": 2, "explanation": "The square root of a negative number is not a real number.", "frequencyRating": 5 },
+    { "id": "g11_m2_q22", "text": "The range of the square root function f(x) = √x is:", "options": ["R", "R - {0}", "Non-negative real numbers", "Positive real numbers"], "correctIndex": 2, "explanation": "The principal square root is always non-negative.", "frequencyRating": 5 },
+    { "id": "g11_m2_q23", "text": "If A = {1, 2, 3}, then the identity relation on A is:", "options": ["{(1, 1), (2, 2)}", "{(1, 1), (2, 2), (3, 3)}", "{(1, 2), (2, 3)}", "{(1, 1), (1, 2)}"], "correctIndex": 1, "explanation": "The identity relation relates each element to itself.", "frequencyRating": 4 },
+    { "id": "g11_m2_q24", "text": "The graph of a constant function f(x) = c is a:", "options": ["Straight line through origin", "Horizontal line", "Vertical line", "Parabola"], "correctIndex": 1, "explanation": "The output value remains constant regardless of the input.", "frequencyRating": 4 },
+    { "id": "g11_m2_q25", "text": "The domain of the function f(x) = √(x - 2) is:", "options": ["x > 2", "x ≥ 2", "x < 2", "x ≤ 2"], "correctIndex": 1, "explanation": "For the square root to be real, the expression inside must be non-negative.", "frequencyRating": 5 },
+    { "id": "g11_m2_q26", "text": "The range of the function f(x) = √(x - 2) is:", "options": ["R", "R⁺", "[0, ∞)", "(-∞, 0]"], "correctIndex": 2, "explanation": "The square root function always yields non-negative values.", "frequencyRating": 5 },
+    { "id": "g11_m2_q27", "text": "If f(x) = x² + 1, then f(-1) is:", "options": ["0", "1", "2", "-2"], "correctIndex": 2, "explanation": "f(-1) = (-1)² + 1 = 1 + 1 = 2.", "frequencyRating": 5 },
+    { "id": "g11_m2_q28", "text": "A function f: A → B is one-one (injective) if:", "options": ["Every element of B has a pre-image in A", "Different elements of A have different images in B", "Every element of A has a unique image in B", "None of these"], "correctIndex": 1, "explanation": "No two distinct inputs map to the same output.", "frequencyRating": 5 },
+    { "id": "g11_m2_q29", "text": "A function f: A → B is onto (surjective) if:", "options": ["Every element of B has a pre-image in A", "Different elements of A have different images in B", "Every element of A has a unique image in B", "None of these"], "correctIndex": 0, "explanation": "The range of the function is equal to its codomain.", "frequencyRating": 5 },
+    { "id": "g11_m2_q30", "text": "If f(x) = 2x + 3, then f⁻¹(x) is:", "options": ["(x - 3)/2", "2x - 3", "x/2 - 3", "3x + 2"], "correctIndex": 0, "explanation": "Let y = 2x + 3. Then x = (y - 3)/2. So f⁻¹(y) = (y - 3)/2.", "frequencyRating": 4 },
+    { "id": "g11_m2_q31", "text": "The domain of the function f(x) = |x| is:", "options": ["R", "R⁺", "R⁻", "{0}"], "correctIndex": 0, "explanation": "The modulus function is defined for all real numbers.", "frequencyRating": 5 },
+    { "id": "g11_m2_q32", "text": "The range of the function f(x) = |x| is:", "options": ["R", "R⁺", "[0, ∞)", "(-∞, 0]"], "correctIndex": 2, "explanation": "The absolute value of any real number is always non-negative.", "frequencyRating": 5 },
+    { "id": "g11_m2_q33", "text": "The greatest integer function f(x) = [x] has a range of:", "options": ["Integers", "Real numbers", "Natural numbers", "Rational numbers"], "correctIndex": 0, "explanation": "The output of the greatest integer function is always an integer.", "frequencyRating": 4 },
+    { "id": "g11_m2_q34", "text": "The signum function f(x) = {1 if x>0, 0 if x=0, -1 if x<0} has a range of:", "options": ["{-1, 0, 1}", "{-1, 1}", "{0}", "R"], "correctIndex": 0, "explanation": "The function can only output these three specific values.", "frequencyRating": 4 },
+    { "id": "g11_m2_q35", "text": "If A = {1, 2, 3} and B = {a, b}, then the number of relations from A to B is:", "options": ["2⁵", "2⁶", "2³", "2²"], "correctIndex": 1, "explanation": "Number of relations = 2^(n(A) * n(B)) = 2^(3*2) = 2⁶.", "frequencyRating": 4 },
+    { "id": "g11_m2_q36", "text": "If f(x) = x³ and g(x) = x¹/³, then (f o g)(x) is:", "options": ["x", "x³", "x¹/³", "x⁹"], "correctIndex": 0, "explanation": "(f o g)(x) = f(g(x)) = f(x¹/³) = (x¹/³)³ = x.", "frequencyRating": 4 },
+    { "id": "g11_m2_q37", "text": "The domain of the function f(x) = 1/(x² - 4) is:", "options": ["R", "R - {2}", "R - {-2}", "R - {-2, 2}"], "correctIndex": 3, "explanation": "The denominator cannot be zero, so x² - 4 ≠ 0, which means x ≠ 2 and x ≠ -2.", "frequencyRating": 5 },
+    { "id": "g11_m2_q38", "text": "The graph of f(x) = x³ is symmetric about the:", "options": ["x-axis", "y-axis", "Origin", "Line y = x"], "correctIndex": 2, "explanation": "f(-x) = (-x)³ = -x³ = -f(x), which indicates symmetry about the origin.", "frequencyRating": 4 },
+    { "id": "g11_m2_q39", "text": "Which of the following is a polynomial function?", "options": ["f(x) = √x", "f(x) = 1/x", "f(x) = x³ - 2x + 1", "f(x) = |x|"], "correctIndex": 2, "explanation": "Polynomial functions involve only non-negative integer powers of x.", "frequencyRating": 5 },
+    { "id": "g11_m2_q40", "text": "If f(x) = x² + 2x + 1, then f(a + h) is:", "options": ["a² + 2a + 1 + h", "(a + h)² + 1", "a² + 2ah + h² + 2a + 2h + 1", "a² + h² + 1"], "correctIndex": 2, "explanation": "Substitute (a+h) for x: (a+h)² + 2(a+h) + 1 = a² + 2ah + h² + 2a + 2h + 1.", "frequencyRating": 3 }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "g11_bio_ch17",
+  "grade": "11",
+  "subject": "Biology",
+  "number": "17",
+  "title": "Breathing and Exchange of Gases",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_b17_q1",
+      "text": "Where does gas exchange take place in human lungs?",
+      "options": ["Bronchi", "Alveoli", "Trachea", "Nose"],
+      "correctIndex": 1,
+      "explanation": "Alveoli are tiny sacs where oxygen and carbon dioxide are exchanged.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q2",
+      "text": "Which muscle contracts during inhalation?",
+      "options": ["Intercostal muscles", "Diaphragm", "Abdominal muscles", "Pectoral muscles"],
+      "correctIndex": 1,
+      "explanation": "The diaphragm moves downwards to expand the chest cavity during inhalation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q3",
+      "text": "Oxygen is transported in blood mainly by: ",
+      "options": ["Plasma", "Platelets", "White blood cells", "Hemoglobin"],
+      "correctIndex": 3,
+      "explanation": "Hemoglobin in red blood cells binds oxygen for transport.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q4",
+      "text": "External respiration refers to gas exchange between: ",
+      "options": ["Blood and tissue cells", "Air and blood", "Food and blood", "Water and air"],
+      "correctIndex": 1,
+      "explanation": "External respiration occurs at the alveoli between air and blood.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b17_q5",
+      "text": "The respiratory rhythm centre is located in the: ",
+      "options": ["Cerebellum", "Medulla oblongata", "Spinal cord", "Cerebrum"],
+      "correctIndex": 1,
+      "explanation": "The medulla oblongata controls breathing rate and depth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q6",
+      "text": "The respiratory quotient is the ratio of: ",
+      "options": ["CO2 produced to O2 consumed", "O2 consumed to CO2 produced", "Inhaled to exhaled air", "Lung volume to surface area"],
+      "correctIndex": 0,
+      "explanation": "RQ = volume of CO2 released / volume of O2 used.",
+      "frequencyRating": 4
+    }
+  ]
+}

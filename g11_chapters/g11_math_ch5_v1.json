@@ -1,0 +1,120 @@
+{
+  "id": "g11_math_ch5",
+  "grade": "11",
+  "subject": "Mathematics",
+  "number": "5",
+  "title": "Linear Inequalities",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_m5_q1",
+      "text": "If a < b and c < 0, then:",
+      "options": ["ac < bc", "ac > bc", "ac = bc", "ac ≤ bc"],
+      "correctIndex": 1,
+      "explanation": "Multiplying or dividing an inequality by a negative number reverses the sign.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m5_q2",
+      "text": "The solution set of 3x - 5 < 7 for x ∈ N is:",
+      "options": ["{1, 2, 3}", "{1, 2, 3, 4}", "{..., -1, 0, 1, 2, 3}", "{1, 2}"],
+      "correctIndex": 0,
+      "explanation": "3x < 12 => x < 4. Natural numbers less than 4 are {1, 2, 3}.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m5_q3",
+      "text": "Which of the following is a strict inequality?",
+      "options": ["ax + b ≤ 0", "ax + b ≥ 0", "ax + b > 0", "ax + b = 0"],
+      "correctIndex": 2,
+      "explanation": "Strict inequalities use < or > signs, not ≤ or ≥.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m5_q4",
+      "text": "The graph of x ≥ 3 is:",
+      "options": ["Left of line x=3", "Right of and including line x=3", "Above line y=3", "Below line y=3"],
+      "correctIndex": 1,
+      "explanation": "x ≥ 3 represents all points where the x-coordinate is 3 or more.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m5_q5",
+      "text": "If -2x + 4 ≤ 10, then x is:",
+      "options": ["x ≤ -3", "x ≥ -3", "x ≥ 3", "x ≤ 3"],
+      "correctIndex": 1,
+      "explanation": "-2x ≤ 6 => x ≥ -3 (reversing the sign when dividing by -2).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m5_q6",
+      "text": "The solution of |x| < 5 is:",
+      "options": ["x < 5", "x > -5", "-5 < x < 5", "x < -5 or x > 5"],
+      "correctIndex": 2,
+      "explanation": "Modulus inequality |x| < a means x lies between -a and a.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m5_q7",
+      "text": "For x ∈ R, the interval notation for x > 2 is:",
+      "options": ["[2, ∞)", "(2, ∞)", "(-∞, 2)", "(2, 0)"],
+      "correctIndex": 1,
+      "explanation": "Parentheses ( ) are used when the endpoint is not included.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m5_q8",
+      "text": "If 5x/4 - 2 ≥ 3, then x is:",
+      "options": ["x ≥ 4", "x ≥ 20", "x ≥ 5", "x ≤ 4"],
+      "correctIndex": 0,
+      "explanation": "5x/4 ≥ 5 => 5x ≥ 20 => x ≥ 4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m5_q9",
+      "text": "A line is dotted in a graph if the inequality is:",
+      "options": ["Slack (≤, ≥)", "Strict (<, >)", "Equality", "None"],
+      "correctIndex": 1,
+      "explanation": "Dotted lines indicate that points on the boundary are not part of the solution.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m5_q10",
+      "text": "The number of integers satisfying -3 < x ≤ 2 is:",
+      "options": ["4", "5", "6", "3"],
+      "correctIndex": 1,
+      "explanation": "Integers are -2, -1, 0, 1, 2. Total 5.",
+      "frequencyRating": 4
+    },
+    { "id": "g11_m5_q11", "text": "If a > b, then -a < -b.", "options": ["True", "False", "Only if a, b > 0", "Only if a, b < 0"], "correctIndex": 0, "explanation": "Multiplying by -1 reverses the inequality.", "frequencyRating": 5 },
+    { "id": "g11_m5_q12", "text": "Solution of 4x + 3 < 6x + 7 is:", "options": ["x > -2", "x < -2", "x > 2", "x < 2"], "correctIndex": 0, "explanation": "-4 < 2x => x > -2.", "frequencyRating": 5 },
+    { "id": "g11_m5_q13", "text": "Represent x ≤ 5 on a number line:", "options": ["Open circle at 5, shaded right", "Dark circle at 5, shaded left", "Open circle at 5, shaded left", "Dark circle at 5, shaded right"], "correctIndex": 1, "explanation": "Less than or equal to means a closed point and values to the left.", "frequencyRating": 5 },
+    { "id": "g11_m5_q14", "text": "The region x > 0, y > 0 is quadrant:", "options": ["I", "II", "III", "IV"], "correctIndex": 0, "explanation": "Both coordinates are positive in the first quadrant.", "frequencyRating": 5 },
+    { "id": "g11_m5_q15", "text": "Solution set of x/3 > x/2 + 1 is:", "options": ["x > 6", "x < 6", "x > -6", "x < -6"], "correctIndex": 3, "explanation": "2x > 3x + 6 => -x > 6 => x < -6.", "frequencyRating": 4 },
+    { "id": "g11_m5_q16", "text": "The interval [-3, 7) means:", "options": ["-3 < x < 7", "-3 ≤ x ≤ 7", "-3 ≤ x < 7", "-3 < x ≤ 7"], "correctIndex": 2, "explanation": "Bracket [ includes, parenthesis ) excludes.", "frequencyRating": 5 },
+    { "id": "g11_m5_q17", "text": "If |x - 1| ≤ 2, then x lies in:", "options": ["[1, 3]", "[-1, 3]", "[-2, 2]", "[-3, 1]"], "correctIndex": 1, "explanation": "-2 ≤ x - 1 ≤ 2 => -1 ≤ x ≤ 3.", "frequencyRating": 4 },
+    { "id": "g11_m5_q18", "text": "The inequality y < 2 represents the region:", "options": ["Above y=2", "Below y=2", "Right of x=2", "Left of x=2"], "correctIndex": 1, "explanation": "y values are less than 2 below the horizontal line.", "frequencyRating": 4 },
+    { "id": "g11_m5_q19", "text": "To solve system of inequalities, we find the ________ region.", "options": ["Union", "Intersection", "Subtraction", "Complement"], "correctIndex": 1, "explanation": "The solution must satisfy all inequalities simultaneously.", "frequencyRating": 5 },
+    { "id": "g11_m5_q20", "text": "The smallest integer satisfying 2x - 1 > 5 is:", "options": ["3", "4", "2", "5"], "correctIndex": 1, "explanation": "2x > 6 => x > 3. Next integer is 4.", "frequencyRating": 4 },
+    { "id": "g11_m5_q21", "text": "If x is a real number and x² < 9, then:", "options": ["x < 3", "x > -3", "-3 < x < 3", "x < -3 or x > 3"], "correctIndex": 2, "explanation": "x must lie between the roots -3 and 3.", "frequencyRating": 4 },
+    { "id": "g11_m5_q22", "text": "Division of an inequality by a positive number changes the sign.", "options": ["Always", "Never", "Depends on x", "Only for decimals"], "correctIndex": 1, "explanation": "Positive division preserves the inequality direction.", "frequencyRating": 5 },
+    { "id": "g11_m5_q23", "text": "Graphical solution of x + y ≤ 5 includes origin because:", "options": ["0+0 ≤ 5 is true", "0+0 ≤ 5 is false", "x is 0", "y is 0"], "correctIndex": 0, "explanation": "We test the origin (0,0) to see if it satisfies the inequality.", "frequencyRating": 5 },
+    { "id": "g11_m5_q24", "text": "Solution of 1/x < 0 is:", "options": ["x > 0", "x < 0", "x = 0", "None"], "correctIndex": 1, "explanation": "The reciprocal is negative only if the number itself is negative.", "frequencyRating": 3 },
+    { "id": "g11_m5_q25", "text": "The length of interval (2, 10] is:", "options": ["8", "7", "12", "5"], "correctIndex": 0, "explanation": "Length = Upper bound - Lower bound = 10 - 2 = 8.", "frequencyRating": 3 },
+    { "id": "g11_m5_q26", "text": "If a/c > b/c and c > 0, then:", "options": ["a > b", "a < b", "a = b", "None"], "correctIndex": 0, "explanation": "Since c is positive, multiplication by c preserves the sign.", "frequencyRating": 4 },
+    { "id": "g11_m5_q27", "text": "Solve 3(x-2)/5 ≤ 5(2-x)/3:", "options": ["x ≤ 2", "x ≥ 2", "x < 2", "x > 2"], "correctIndex": 0, "explanation": "9(x-2) ≤ 25(2-x) => 9x - 18 ≤ 50 - 25x => 34x ≤ 68 => x ≤ 2.", "frequencyRating": 3 },
+    { "id": "g11_m5_q28", "text": "Which point satisfies x - 2y > 0?", "options": ["(1, 2)", "(3, 1)", "(0, 0)", "(1, 1)"], "correctIndex": 1, "explanation": "3 - 2(1) = 1 > 0. True.", "frequencyRating": 4 },
+    { "id": "g11_m5_q29", "text": "The interval (-∞, ∞) represents:", "options": ["Whole numbers", "Natural numbers", "Integers", "Real numbers"], "correctIndex": 3, "explanation": "This interval covers the entire number line.", "frequencyRating": 5 },
+    { "id": "g11_m5_q30", "text": "Solution of |x| > 2 is:", "options": ["(-2, 2)", "(-∞, -2) ∪ (2, ∞)", "x > 2", "x < -2"], "correctIndex": 1, "explanation": "x is either more than 2 or less than -2.", "frequencyRating": 4 },
+    { "id": "g11_m5_q31", "text": "If 7x + 3 < 5x + 9, then x ∈ N is:", "options": ["{1, 2}", "{1, 2, 3}", "{0, 1, 2}", "{1}"], "correctIndex": 0, "explanation": "2x < 6 => x < 3. Natural numbers are {1, 2}.", "frequencyRating": 4 },
+    { "id": "g11_m5_q32", "text": "The inequality x/y > 0 implies:", "options": ["x, y same sign", "x, y different sign", "x > y", "x < y"], "correctIndex": 0, "explanation": "Product or quotient is positive if both numbers are positive or both are negative.", "frequencyRating": 3 },
+    { "id": "g11_m5_q33", "text": "Solving 2(2x+3) - 10 < 6(x-2):", "options": ["x > 4", "x < 4", "x > -4", "x < -4"], "correctIndex": 0, "explanation": "4x + 6 - 10 < 6x - 12 => 4x - 4 < 6x - 12 => 8 < 2x => x > 4.", "frequencyRating": 3 },
+    { "id": "g11_m5_q34", "text": "If x < 5, then -3x ________ -15.", "options": [">", "<", "=", "≤"], "correctIndex": 0, "explanation": "Multiplying by -3 reverses the inequality.", "frequencyRating": 5 },
+    { "id": "g11_m5_q35", "text": "The set {x : x ∈ R, x ≤ a} is:", "options": ["(a, ∞)", "(-∞, a]", "(-∞, a)", "[a, ∞)"], "correctIndex": 1, "explanation": "Standard set-builder to interval conversion.", "frequencyRating": 4 },
+    { "id": "g11_m5_q36", "text": "Linear inequalities in two variables represent a:", "options": ["Line", "Circle", "Half plane", "Point"], "correctIndex": 2, "explanation": "The solution is a region on one side of the line.", "frequencyRating": 5 },
+    { "id": "g11_m5_q37", "text": "Can x = 5 satisfy x < 5?", "options": ["Yes", "No", "Only if x is integer", "Depends on y"], "correctIndex": 1, "explanation": "Strict inequality does not include the boundary value.", "frequencyRating": 5 },
+    { "id": "g11_m5_q38", "text": "Number of natural numbers satisfying x + 3 ≤ 3 is:", "options": ["0", "1", "3", "Infinite"], "correctIndex": 0, "explanation": "x ≤ 0. There are no natural numbers ≤ 0 (N starts from 1).", "frequencyRating": 3 },
+    { "id": "g11_m5_q39", "text": "If a > b and b > c, then a > c. This is ________ property.", "options": ["Commutative", "Transitive", "Additive", "Multiplicative"], "correctIndex": 1, "explanation": "Property of ordering.", "frequencyRating": 2 },
+    { "id": "g11_m5_q40", "text": "The solution of 0 < -x < 5 is:", "options": ["0 < x < 5", "-5 < x < 0", "x > 5", "x < -5"], "correctIndex": 1, "explanation": "Multiply by -1: 0 > x > -5, which is -5 < x < 0.", "frequencyRating": 3 }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "g11_chem_ch4",
+  "grade": "11",
+  "subject": "Chemistry",
+  "number": "4",
+  "title": "Chemical Bonding and Molecular Structure",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_c4_q1",
+      "text": "The octet rule states that atoms combine to achieve _____ electrons in their valence shell.",
+      "options": ["2", "4", "8", "18"],
+      "correctIndex": 2,
+      "explanation": "To achieve stable noble gas electronic configuration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c4_q2",
+      "text": "Which molecule has a triple bond?",
+      "options": ["O₂", "N₂", "F₂", "H₂"],
+      "correctIndex": 1,
+      "explanation": "Nitrogen atoms share three pairs of electrons (N≡N).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c4_q3",
+      "text": "According to VSEPR theory, the shape of a CH₄ molecule is:",
+      "options": ["Square planar", "Tetrahedral", "Pyramidal", "Linear"],
+      "correctIndex": 1,
+      "explanation": "Four bond pairs and zero lone pairs lead to a tetrahedral arrangement.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c4_q4",
+      "text": "The hybridization of Carbon in Ethene (C₂H₄) is:",
+      "options": ["sp", "sp²", "sp³", "dsp²"],
+      "correctIndex": 1,
+      "explanation": "Carbon forms one double bond and two single bonds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c4_q5",
+      "text": "Which of the following has a net dipole moment of zero?",
+      "options": ["H₂O", "NH₃", "CO₂", "HCl"],
+      "correctIndex": 2,
+      "explanation": "CO₂ is linear; bond dipoles cancel each other out.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c4_q6",
+      "text": "The formal charge on the central Oxygen atom in Ozone (O₃) is:",
+      "options": ["0", "+1", "-1", "+2"],
+      "correctIndex": 1,
+      "explanation": "Calculated as: Valence electrons - Lone pair electrons - ½(Bond pair electrons).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_c4_q7",
+      "text": "In Metallic bonding, the electrons are:",
+      "options": ["Shared between two atoms", "Transferred from one to another", "Delocalized over many atoms", "Stationary"],
+      "correctIndex": 2,
+      "explanation": "The 'sea of electrons' model explains conductivity and malleability.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_c4_q8",
+      "text": "Which theory explains the paramagnetic nature of Oxygen (O₂)?",
+      "options": ["Valence Bond Theory", "VSEPR Theory", "Molecular Orbital Theory", "Octet Rule"],
+      "correctIndex": 2,
+      "explanation": "MOT shows two unpaired electrons in antibonding π* orbitals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c4_q9",
+      "text": "The bond order of He₂ molecule is:",
+      "options": ["1", "2", "0", "0.5"],
+      "correctIndex": 2,
+      "explanation": "Bond order = ½(2 - 2) = 0. Therefore, He₂ does not exist.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c4_q10",
+      "text": "What type of hybridization is present in PCl₅?",
+      "options": ["sp³", "sp³d", "sp³d²", "dsp²"],
+      "correctIndex": 1,
+      "explanation": "Phosphorus expands its octet using d-orbitals to form 5 sigma bonds.",
+      "frequencyRating": 5
+    },
+    { "id": "g11_c4_q11", "text": "Sigma (σ) bonds are formed by _____ overlap.", "options": ["Side-wise", "Head-on", "Parallel", "None"], "correctIndex": 1, "explanation": "Occurs along the internuclear axis.", "frequencyRating": 5 },
+    { "id": "g11_c4_q12", "text": "Pi (π) bonds are formed by _____ overlap.", "options": ["Side-wise", "Head-on", "End-to-end", "Circular"], "correctIndex": 0, "explanation": "Overlapping of p-orbitals perpendicular to the axis.", "frequencyRating": 5 },
+    { "id": "g11_c4_q13", "text": "Shape of NH₃ molecule is:", "options": ["Tetrahedral", "Trigonal Pyramidal", "Trigonal Planar", "Bent"], "correctIndex": 1, "explanation": "Three bond pairs and one lone pair.", "frequencyRating": 5 },
+    { "id": "g11_c4_q14", "text": "Bond angle in H₂O is approximately:", "options": ["109.5°", "120°", "104.5°", "180°"], "correctIndex": 2, "explanation": "Lone pair-Lone pair repulsion reduces the angle from 109.5°.", "frequencyRating": 5 },
+    { "id": "g11_c4_q15", "text": "Which is the strongest bond?", "options": ["Ionic", "Covalent", "Hydrogen", "Van der Waals"], "correctIndex": 0, "explanation": "Generally, ionic bonds have higher lattice energy than covalent bond energy.", "frequencyRating": 4 },
+    { "id": "g11_c4_q16", "text": "Lattice enthalpy is the energy required to:", "options": ["Form one mole of ionic solid", "Separate one mole of ionic solid into gaseous ions", "Melt one mole of solid", "None"], "correctIndex": 1, "explanation": "It measures the strength of ionic interaction.", "frequencyRating": 4 },
+    { "id": "g11_c4_q17", "text": "Which molecule has an expanded octet?", "options": ["CH₄", "NH₃", "SF₆", "BeCl₂"], "correctIndex": 2, "explanation": "Sulfur has 12 electrons in its valence shell in SF₆.", "frequencyRating": 5 },
+    { "id": "g11_c4_q18", "text": "Fajan's rules describe:", "options": ["Covalent character in ionic bonds", "Ionic character in covalent bonds", "Shape of molecules", "Bond order"], "correctIndex": 0, "explanation": "Polarization of anions by cations leads to covalent character.", "frequencyRating": 4 },
+    { "id": "g11_c4_q19", "text": "Intramolecular Hydrogen bonding is found in:", "options": ["Water", "Ammonia", "o-nitrophenol", "Ethanol"], "correctIndex": 2, "explanation": "Bonding occurs within the same molecule.", "frequencyRating": 4 },
+    { "id": "g11_c4_q20", "text": "Molecular orbital configuration of N₂ has _____ electrons in bonding orbitals.", "options": ["10", "4", "14", "8"], "correctIndex": 0, "explanation": "σ1s² σ*1s² σ2s² σ*2s² (π2px²=π2py²) σ2pz².", "frequencyRating": 3 },
+    { "id": "g11_c4_q21", "text": "Bond length is inversely proportional to:", "options": ["Bond order", "Electronegativity", "Mass", "None"], "correctIndex": 0, "explanation": "Higher bond order (triple > double > single) means shorter bond length.", "frequencyRating": 5 },
+    { "id": "g11_c4_q22", "text": "Hybridization of Be in BeCl₂ is:", "options": ["sp", "sp²", "sp³", "dsp²"], "correctIndex": 0, "explanation": "Linear shape implies sp hybridization.", "frequencyRating": 5 },
+    { "id": "g11_c4_q23", "text": "The number of non-bonding electron pairs in H₂O is:", "options": ["1", "2", "3", "0"], "correctIndex": 1, "explanation": "Oxygen has 6 valence electrons; 2 used for bonding, 4 left as 2 lone pairs.", "frequencyRating": 5 },
+    { "id": "g11_c4_q24", "text": "Which molecule is linear?", "options": ["SO₂", "H₂O", "C₂H₂", "NH₃"], "correctIndex": 2, "explanation": "Ethyne (acetylene) has sp hybridization.", "frequencyRating": 5 },
+    { "id": "g11_c4_q25", "text": "Coordination bond is also known as:", "options": ["Ionic bond", "Dative bond", "Metallic bond", "Non-polar bond"], "correctIndex": 1, "explanation": "Both electrons in the shared pair come from one atom.", "frequencyRating": 4 },
+    { "id": "g11_c4_q26", "text": "Energy released when a bond is formed is:", "options": ["Activation energy", "Bond dissociation energy", "Lattice energy", "Potential energy"], "correctIndex": 1, "explanation": "Bond formation is exothermic.", "frequencyRating": 4 },
+    { "id": "g11_c4_q27", "text": "Resonance occurs in:", "options": ["CH₄", "CO₃²⁻", "NaCl", "H₂"], "correctIndex": 1, "explanation": "Carbonate ion can be represented by multiple equivalent Lewis structures.", "frequencyRating": 5 },
+    { "id": "g11_c4_q28", "text": "Which shows highest boiling point due to hydrogen bonding?", "options": ["HF", "HCl", "HBr", "HI"], "correctIndex": 0, "explanation": "Fluorine is most electronegative, forming strongest H-bonds.", "frequencyRating": 5 },
+    { "id": "g11_c4_q29", "text": "Bond angle in sp² hybridization is:", "options": ["180°", "120°", "109.5°", "90°"], "correctIndex": 1, "explanation": "Trigonal planar geometry.", "frequencyRating": 5 },
+    { "id": "g11_c4_q30", "text": "Molecular Orbital Theory was developed by:", "options": ["Pauling", "Hund and Mulliken", "Lewis", "Gillespie"], "correctIndex": 1, "explanation": "Basic history of chemical bonding.", "frequencyRating": 3 },
+    { "id": "g11_c4_q31", "text": "Paramagnetism is due to:", "options": ["Paired electrons", "Unpaired electrons", "Protons", "Neutrons"], "correctIndex": 1, "explanation": "Unpaired electrons have a net magnetic moment.", "frequencyRating": 5 },
+    { "id": "g11_c4_q32", "text": "Which bond is polar?", "options": ["H-H", "Cl-Cl", "H-Cl", "O-O"], "correctIndex": 2, "explanation": "Difference in electronegativity creates a dipole.", "frequencyRating": 5 },
+    { "id": "g11_c4_q33", "text": "Bond order of O₂⁺ compared to O₂ is:", "options": ["Higher", "Lower", "Same", "Zero"], "correctIndex": 0, "explanation": "Removing an electron from antibonding orbital increases bond order (2.5 vs 2).", "frequencyRating": 4 },
+    { "id": "g11_c4_q34", "text": "Shape of PCl₃ is:", "options": ["Trigonal planar", "Trigonal pyramidal", "Tetrahedral", "Bent"], "correctIndex": 1, "explanation": "Similar to NH₃; one lone pair on P.", "frequencyRating": 4 },
+    { "id": "g11_c4_q35", "text": "Lone pair - lone pair repulsion is _____ than bond pair - bond pair.", "options": ["Greater", "Smaller", "Equal", "Negligible"], "correctIndex": 0, "explanation": "Lone pairs occupy more space.", "frequencyRating": 5 },
+    { "id": "g11_c4_q36", "text": "Valence Bond Theory (VBT) focuses on:", "options": ["Molecular orbitals", "Atomic orbital overlap", "Lattice structure", "Electron transfer"], "correctIndex": 1, "explanation": "Proposed by Heitler and London.", "frequencyRating": 4 },
+    { "id": "g11_c4_q37", "text": "Antibonding orbitals have _____ energy than bonding orbitals.", "options": ["Higher", "Lower", "Equal", "Zero"], "correctIndex": 0, "explanation": "Due to nodal planes and electron-electron repulsion.", "frequencyRating": 5 },
+    { "id": "g11_c4_q38", "text": "Which is not a type of Van der Waals force?", "options": ["Dispersion", "Dipole-Dipole", "Ion-Dipole", "Hydrogen bond"], "correctIndex": 2, "explanation": "Ion-Dipole is a stronger electrostatic interaction, usually categorized separately.", "frequencyRating": 3 },
+    { "id": "g11_c4_q39", "text": "Electronic configuration of O₂ molecule ends in:", "options": ["π*2px¹ π*2py¹", "π2px² π2py²", "σ2pz²", "σ*2pz¹"], "correctIndex": 0, "explanation": "Two unpaired electrons in π* orbitals.", "frequencyRating": 4 },
+    { "id": "g11_c4_q40", "text": "Dipole moment is a _____ quantity.", "options": ["Scalar", "Vector", "Tensor", "Dimensionless"], "correctIndex": 1, "explanation": "It has magnitude and direction (from + to -).", "frequencyRating": 5 }
+  ]
+}

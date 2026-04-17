@@ -1,0 +1,260 @@
+{
+  "id": "g11_phy_ch8",
+  "grade": "11",
+  "subject": "Physics",
+  "number": "8",
+  "title": "Mechanical Properties of Solids",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_p8_q1",
+      "text": "The property of a body to regain its original shape after removal of deforming force is:",
+      "options": ["Plasticity", "Elasticity", "Ductility", "Malleability"],
+      "correctIndex": 1,
+      "explanation": "Elasticity is the restoring property of materials.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p8_q2",
+      "text": "Stress is defined as:",
+      "options": ["Deforming force per unit area", "Restoring force per unit area", "Change in length per unit length", "Force times area"],
+      "correctIndex": 1,
+      "explanation": "Internal restoring force generated per unit area is stress.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p8_q3",
+      "text": "The SI unit of stress is same as that of:",
+      "options": ["Force", "Energy", "Pressure", "Work"],
+      "correctIndex": 2,
+      "explanation": "Both Stress and Pressure are N/m² (Pascal).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p8_q4",
+      "text": "Hooke's Law is valid within:",
+      "options": ["Plastic limit", "Elastic limit", "Breaking point", "Yield point"],
+      "correctIndex": 1,
+      "explanation": "Stress is proportional to strain only within the elastic limit.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p8_q5",
+      "text": "The ratio of longitudinal stress to longitudinal strain is:",
+      "options": ["Bulk Modulus", "Young's Modulus", "Shear Modulus", "Poisson's Ratio"],
+      "correctIndex": 1,
+      "explanation": "Young's Modulus (Y) applies to stretching or compression of wires/rods.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p8_q6",
+      "text": "Which of the following materials is more elastic?",
+      "options": ["Rubber", "Steel", "Glass", "Plastic"],
+      "correctIndex": 1,
+      "explanation": "In physics, elasticity is measured by the modulus. Steel requires more force for the same strain than rubber.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p8_q7",
+      "text": "The ratio of change in volume to original volume is:",
+      "options": ["Longitudinal strain", "Shearing strain", "Volume strain", "Poisson's ratio"],
+      "correctIndex": 2,
+      "explanation": "ΔV/V is volume strain.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p8_q8",
+      "text": "Bulk Modulus is defined as:",
+      "options": ["Longitudinal Stress / Strain", "Hydraulic Stress / Volume Strain", "Shearing Stress / Strain", "None"],
+      "correctIndex": 1,
+      "explanation": "B = -ΔP / (ΔV/V).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p8_q9",
+      "text": "Modulus of Rigidity is associated with change in:",
+      "options": ["Length", "Volume", "Shape", "Density"],
+      "correctIndex": 2,
+      "explanation": "Shear modulus (Rigidity) involves the displacement of layers, changing shape but not volume.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p8_q10",
+      "text": "Poisson's ratio is the ratio of:",
+      "options": ["Lateral strain to longitudinal strain", "Longitudinal strain to lateral strain", "Stress to strain", "None"],
+      "correctIndex": 0,
+      "explanation": "It describes how a material thins when stretched.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p8_q11",
+      "text": "Elastic potential energy stored per unit volume in a stretched wire is:",
+      "options": ["½ Stress × Strain", "Stress × Strain", "½ Y × Strain", "½ Y × Stress"],
+      "correctIndex": 0,
+      "explanation": "Energy density = ½ × Stress × Strain.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p8_q12",
+      "text": "The theoretical limit of Poisson's ratio is between:",
+      "options": ["0 and 1", "-1 and 0.5", "0.5 and 1", "0 and 0.5"],
+      "correctIndex": 1,
+      "explanation": "Practically it is usually between 0 and 0.5 for most solids.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p8_q13",
+      "text": "A substance that can be elastically stretched to large strains is called:",
+      "options": ["Ductile", "Brittle", "Elastomer", "Plastic"],
+      "correctIndex": 2,
+      "explanation": "Examples include rubber and the tissue of the aorta.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p8_q14",
+      "text": "Breaking stress depends on:",
+      "options": ["Length of wire", "Radius of wire", "Material of wire", "Applied force"],
+      "correctIndex": 2,
+      "explanation": "It is a characteristic property of the material.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p8_q15",
+      "text": "Compressibility is the reciprocal of:",
+      "options": ["Young's Modulus", "Bulk Modulus", "Shear Modulus", "Poisson's ratio"],
+      "correctIndex": 1,
+      "explanation": "k = 1/B.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p8_q16",
+      "text": "If the temperature increases, the Young's modulus of a material:",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correctIndex": 1,
+      "explanation": "Increasing temperature increases intermolecular distance, making the material less stiff.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p8_q17",
+      "text": "The point on stress-strain curve where strain increases without further increase in stress is:",
+      "options": ["Elastic limit", "Yield point", "Breaking point", "Proportional limit"],
+      "correctIndex": 1,
+      "explanation": "Also called the flow point.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p8_q18",
+      "text": "Materials which break immediately after the elastic limit is crossed are:",
+      "options": ["Ductile", "Malleable", "Brittle", "Elastomers"],
+      "correctIndex": 2,
+      "explanation": "Example: Glass or Cast Iron.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p8_q19",
+      "text": "Units of Strain are:",
+      "options": ["N/m²", "Dimensionless", "Meter", "Pascal"],
+      "correctIndex": 1,
+      "explanation": "Strain is a ratio of similar quantities (e.g., L/L).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p8_q20",
+      "text": "Ductile materials have a _____ region of plastic deformation.",
+      "options": ["Small", "Large", "Zero", "None"],
+      "correctIndex": 1,
+      "explanation": "This allows them to be drawn into thin wires.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p8_q21",
+      "text": "The slope of Stress vs Strain graph in the elastic region gives:",
+      "options": ["Modulus of elasticity", "Potential energy", "Work done", "Force"],
+      "correctIndex": 0,
+      "explanation": "From Hooke's Law, Stress = E × Strain.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p8_q22",
+      "text": "Shear Modulus is also known as:",
+      "options": ["Bulk Modulus", "Rigidity Modulus", "Young's Modulus", "Elastic Modulus"],
+      "correctIndex": 1,
+      "explanation": "It relates to the stiffness of a solid against shape change.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p8_q23",
+      "text": "In a wire stretched by a weight, the work done is stored as:",
+      "options": ["Kinetic energy", "Heat", "Elastic Potential Energy", "Chemical energy"],
+      "correctIndex": 2,
+      "explanation": "U = ½ F ΔL.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p8_q24",
+      "text": "Which of the following has NO modulus of elasticity?",
+      "options": ["Solid", "Liquid", "Gas", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "Liquids and gases only have Bulk Modulus; they cannot sustain longitudinal or shear stress.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p8_q25",
+      "text": "Hydraulic stress is always _____ to the surface.",
+      "options": ["Parallel", "Normal", "At 45°", "None"],
+      "correctIndex": 1,
+      "explanation": "It acts equally from all directions perpendicular to the surface.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p8_q26",
+      "text": "For an ideal rigid body, Young's modulus is:",
+      "options": ["Zero", "1", "Infinite", "0.5"],
+      "correctIndex": 2,
+      "explanation": "A rigid body does not deform at all, implying infinite stiffness.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p8_q27",
+      "text": "The length of a wire is doubled. Its Young's modulus will:",
+      "options": ["Double", "Become half", "Become four times", "Remain same"],
+      "correctIndex": 3,
+      "explanation": "Young's modulus is a material property, not dependent on dimensions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p8_q28",
+      "text": "Strain is a _____ quantity.",
+      "options": ["Scalar", "Vector", "Tensor", "Dimensionless"],
+      "correctIndex": 3,
+      "explanation": "It has no units or dimensions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p8_q29",
+      "text": "Metals are usually _____ than elastomers.",
+      "options": ["More elastic", "Less elastic", "Equally elastic", "None"],
+      "correctIndex": 0,
+      "explanation": "In technical terms, a higher modulus means higher elasticity.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p8_q30",
+      "text": "The area under Stress-Strain curve up to the elastic limit represents:",
+      "options": ["Elastic energy density", "Force", "Total energy", "Young's modulus"],
+      "correctIndex": 0,
+      "explanation": "Integrated stress over strain gives energy per unit volume.",
+      "frequencyRating": 4
+    },
+    { "id": "g11_p8_q31", "text": "Spring balance works on the principle of:", "options": ["Pascal's law", "Hooke's law", "Bernoulli's theorem", "Newton's 3rd law"], "correctIndex": 1, "explanation": "Extension is proportional to load.", "frequencyRating": 5 },
+    { "id": "g11_p8_q32", "text": "Ratio of stress to strain is constant. This is:", "options": ["Kepler's law", "Hooke's law", "Ohm's law", "Boyle's law"], "correctIndex": 1, "explanation": "Basic law of elasticity.", "frequencyRating": 5 },
+    { "id": "g11_p8_q33", "text": "Which state of matter has the highest Bulk Modulus?", "options": ["Solids", "Liquids", "Gases", "All equal"], "correctIndex": 0, "explanation": "Solids are hardest to compress.", "frequencyRating": 4 },
+    { "id": "g11_p8_q34", "text": "Elastic fatigue is:", "options": ["Loss of strength due to repeated stress", "Breaking point", "Yielding", "None"], "correctIndex": 0, "explanation": "Material becomes weak after many cycles.", "frequencyRating": 4 },
+    { "id": "g11_p8_q35", "text": "Young's modulus is for:", "options": ["Solids", "Liquids", "Gases", "All"], "correctIndex": 0, "explanation": "Only solids sustain length change.", "frequencyRating": 5 },
+    { "id": "g11_p8_q36", "text": "Shear strain is measured by:", "options": ["Angle of twist", "Change in volume", "Length", "Radius"], "correctIndex": 0, "explanation": "Usually denoted by θ or φ.", "frequencyRating": 4 },
+    { "id": "g11_p8_q37", "text": "An incompressible liquid has Bulk Modulus:", "options": ["Zero", "1", "Infinite", "Low"], "correctIndex": 2, "explanation": "ΔV=0 implies B is infinity.", "frequencyRating": 3 },
+    { "id": "g11_p8_q38", "text": "Unit of Modulus of Elasticity is:", "options": ["Newton", "N/m", "N/m²", "Unitless"], "correctIndex": 2, "explanation": "Stress/Strain -> N/m².", "frequencyRating": 5 },
+    { "id": "g11_p8_q39", "text": "Elastic after-effect is:", "options": ["Delay in regaining shape", "Permanent deformation", "Breaking", "None"], "correctIndex": 0, "explanation": "Observed in glass and silk.", "frequencyRating": 3 },
+    { "id": "g11_p8_q40", "text": "Gases have Bulk Modulus of the order of:", "options": ["10¹¹ Pa", "10⁵ Pa", "10² Pa", "10⁹ Pa"], "correctIndex": 1, "explanation": "Atmospheric pressure level.", "frequencyRating": 2 }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "g11_bio_ch10",
+  "grade": "11",
+  "subject": "Biology",
+  "number": "10",
+  "title": "Cell Cycle and Cell Division",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_b10_q1",
+      "text": "Which phase of the cell cycle consists of DNA replication?",
+      "options": ["G1 phase", "S phase", "G2 phase", "M phase"],
+      "correctIndex": 1,
+      "explanation": "DNA replication occurs during the S phase of interphase.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b10_q2",
+      "text": "Mitosis produces: ",
+      "options": ["Two identical daughter cells", "Four gametes", "A single cell", "Two genetically different cells"],
+      "correctIndex": 0,
+      "explanation": "Mitosis creates two genetically identical daughter cells.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b10_q3",
+      "text": "Crossing over occurs during: ",
+      "options": ["Prophase I of meiosis", "Metaphase of mitosis", "Anaphase II of meiosis", "Telophase of mitosis"],
+      "correctIndex": 0,
+      "explanation": "Homologous chromosomes exchange segments during prophase I.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b10_q4",
+      "text": "Meiosis reduces chromosome number by: ",
+      "options": ["Half", "Double", "One", "Zero"],
+      "correctIndex": 0,
+      "explanation": "Meiosis produces haploid cells from a diploid parent.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b10_q5",
+      "text": "The final physical separation of daughter cells is called: ",
+      "options": ["Cytokinesis", "Karyokinesis", "Metaphase", "Telophase"],
+      "correctIndex": 0,
+      "explanation": "Cytokinesis divides the cytoplasm and completes cell division.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b10_q6",
+      "text": "Which phase follows G2 in the cell cycle?",
+      "options": ["G1", "S", "M", "G0"],
+      "correctIndex": 2,
+      "explanation": "After G2, the cell enters M phase where mitosis occurs.",
+      "frequencyRating": 4
+    }
+  ]
+}

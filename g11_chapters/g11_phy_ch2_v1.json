@@ -1,0 +1,330 @@
+{
+  "id": "g11_phy_ch2",
+  "grade": "11",
+  "subject": "Physics",
+  "number": "2",
+  "title": "Motion in a Straight Line",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_p2_q1",
+      "text": "The area under a velocity-time graph represents:",
+      "options": ["Acceleration", "Displacement", "Force", "Momentum"],
+      "correctIndex": 1,
+      "explanation": "The integral of velocity over time gives the change in position (displacement).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p2_q2",
+      "text": "A particle moves with constant acceleration 'a'. If the initial velocity is 'u', the distance traveled in 't' seconds is:",
+      "options": ["ut + at²", "ut + ½at²", "u + at", "½ut + at²"],
+      "correctIndex": 1,
+      "explanation": "This is the second equation of motion for constant acceleration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p2_q3",
+      "text": "Which of the following is a vector quantity?",
+      "options": ["Speed", "Distance", "Displacement", "Time"],
+      "correctIndex": 2,
+      "explanation": "Displacement has both magnitude and direction, unlike speed or distance.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p2_q4",
+      "text": "The slope of a displacement-time graph at any instant gives:",
+      "options": ["Average Velocity", "Instantaneous Velocity", "Acceleration", "Average Speed"],
+      "correctIndex": 1,
+      "explanation": "The derivative dx/dt represents instantaneous velocity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p2_q5",
+      "text": "If a body is thrown vertically upwards, its velocity at the highest point is:",
+      "options": ["9.8 m/s", "Infinity", "Zero", "Initial velocity"],
+      "correctIndex": 2,
+      "explanation": "At the peak, the body momentarily stops before changing direction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p2_q6",
+      "text": "The ratio of displacement to distance is always:",
+      "options": ["Less than 1", "Greater than 1", "Equal to 1", "Less than or equal to 1"],
+      "correctIndex": 3,
+      "explanation": "Displacement is the shortest path; distance is the actual path. Displacement ≤ Distance.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p2_q7",
+      "text": "A car covers half of the distance at speed v1 and the other half at v2. The average speed is:",
+      "options": ["(v1+v2)/2", "sqrt(v1v2)", "2v1v2 / (v1+v2)", "v1v2 / (v1+v2)"],
+      "correctIndex": 2,
+      "explanation": "Harmonic mean is used for average speed when distances are equal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p2_q8",
+      "text": "Acceleration is defined as the rate of change of:",
+      "options": ["Distance", "Displacement", "Velocity", "Speed"],
+      "correctIndex": 2,
+      "explanation": "Acceleration a = dv/dt.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p2_q9",
+      "text": "If the velocity-time graph is a straight line parallel to the time axis, the acceleration is:",
+      "options": ["Constant", "Zero", "Increasing", "Decreasing"],
+      "correctIndex": 1,
+      "explanation": "Parallel to the time axis means velocity is constant, so acceleration is zero.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p2_q10",
+      "text": "A body starts from rest and moves with a constant acceleration of 2 m/s². The distance covered in 5 seconds is:",
+      "options": ["10 m", "20 m", "25 m", "50 m"],
+      "correctIndex": 2,
+      "explanation": "s = ut + ½at² = 0 + ½(2)(5)² = 25 m.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p2_q11",
+      "text": "Negative acceleration is also called:",
+      "options": ["Retardation", "Speed", "Instantaneous acceleration", "None"],
+      "correctIndex": 0,
+      "explanation": "Retardation or deceleration refers to acceleration in the direction opposite to velocity.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p2_q12",
+      "text": "The distance traveled by a particle is proportional to the square of time. Its acceleration is:",
+      "options": ["Increasing", "Decreasing", "Zero", "Constant"],
+      "correctIndex": 3,
+      "explanation": "s ∝ t² => s = kt². v = ds/dt = 2kt. a = dv/dt = 2k (constant).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p2_q13",
+      "text": "A ball is dropped from a height. If it takes 't' seconds to reach the ground, the height is:",
+      "options": ["gt", "½gt²", "gt²", "2gt"],
+      "correctIndex": 1,
+      "explanation": "Using h = ut + ½gt² with u=0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p2_q14",
+      "text": "Which graph represents uniform motion?",
+      "options": ["Curve in s-t graph", "Straight line through origin in s-t graph", "Straight line parallel to s-axis in s-t graph", "None"],
+      "correctIndex": 1,
+      "explanation": "In uniform motion, displacement increases linearly with time.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p2_q15",
+      "text": "Relative velocity of A with respect to B (v_AB) is:",
+      "options": ["v_A + v_B", "v_A - v_B", "v_B - v_A", "v_A * v_B"],
+      "correctIndex": 1,
+      "explanation": "v_AB = v_A - v_B by definition.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p2_q16",
+      "text": "Two trains are moving in opposite directions with speeds v1 and v2. Their relative speed is:",
+      "options": ["v1 - v2", "v2 - v1", "v1 + v2", "sqrt(v1² + v2²)"],
+      "correctIndex": 2,
+      "explanation": "v_rel = v1 - (-v2) = v1 + v2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p2_q17",
+      "text": "The slope of the velocity-time graph gives:",
+      "options": ["Distance", "Displacement", "Acceleration", "Force"],
+      "correctIndex": 2,
+      "explanation": "a = dv/dt, which is the slope of the v-t graph.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p2_q18",
+      "text": "Can a body have zero velocity and non-zero acceleration?",
+      "options": ["Yes, at the start of motion", "Yes, at the highest point of vertical throw", "No", "Both A and B"],
+      "correctIndex": 3,
+      "explanation": "At the highest point, v=0 but a=g. At start, v=0 but a can be non-zero.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p2_q19",
+      "text": "Which of the following cannot be negative?",
+      "options": ["Velocity", "Acceleration", "Displacement", "Distance"],
+      "correctIndex": 3,
+      "explanation": "Distance is the magnitude of path length and is always scalar and non-negative.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p2_q20",
+      "text": "A body is moving with constant velocity. Its acceleration-time graph is:",
+      "options": ["Straight line with positive slope", "Straight line with negative slope", "A line coinciding with the time axis", "A line parallel to acceleration axis"],
+      "correctIndex": 2,
+      "explanation": "Constant velocity means zero acceleration (a=0).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p2_q21",
+      "text": "The displacement of a body is given by s = 3t² + 2t + 5. The velocity at t=2s is:",
+      "options": ["14 m/s", "12 m/s", "10 m/s", "16 m/s"],
+      "correctIndex": 0,
+      "explanation": "v = ds/dt = 6t + 2. At t=2, v = 6(2) + 2 = 14.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p2_q22",
+      "text": "If a body covers unequal distances in equal intervals of time, the motion is:",
+      "options": ["Uniform", "Non-uniform", "At rest", "Circular"],
+      "correctIndex": 1,
+      "explanation": "This is the definition of non-uniform motion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p2_q23",
+      "text": "For a stationary object, the position-time graph is:",
+      "options": ["Parallel to time axis", "Parallel to position axis", "Slanting line", "Curve"],
+      "correctIndex": 0,
+      "explanation": "Position does not change with time.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p2_q24",
+      "text": "The kinematics equation v² - u² = 2as is derived assuming acceleration is:",
+      "options": ["Variable", "Constant", "Zero", "Increasing"],
+      "correctIndex": 1,
+      "explanation": "Standard equations of motion are valid only for constant acceleration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p2_q25",
+      "text": "Average velocity is defined as:",
+      "options": ["Total distance / Total time", "Total displacement / Total time", "Change in speed / Time", "None"],
+      "correctIndex": 1,
+      "explanation": "Average velocity is a vector, calculated using displacement.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p2_q26",
+      "text": "When a body is moving with constant acceleration, the velocity-time graph is:",
+      "options": ["Straight line", "Parabola", "Circle", "Hyperbola"],
+      "correctIndex": 0,
+      "explanation": "v = u + at is a linear equation (y = mx + c).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p2_q27",
+      "text": "An object travels 10m north and then 10m east. Its displacement is:",
+      "options": ["20m", "Zero", "14.14m", "10m"],
+      "correctIndex": 2,
+      "explanation": "Displacement = sqrt(10² + 10²) = 10*sqrt(2) ≈ 14.14m.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p2_q28",
+      "text": "Instantaneous speed is:",
+      "options": ["Always equal to magnitude of instantaneous velocity", "Total distance / time", "Slope of v-t graph", "None"],
+      "correctIndex": 0,
+      "explanation": "At any instant, speed is the magnitude of the velocity vector.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p2_q29",
+      "text": "If a body is moving with decreasing velocity, its acceleration is:",
+      "options": ["Positive", "Negative", "Zero", "Constant"],
+      "correctIndex": 1,
+      "explanation": "Decrease in velocity implies negative acceleration (retardation).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p2_q30",
+      "text": "The path length of a moving body can never be:",
+      "options": ["Zero", "Positive", "Decreasing", "Negative"],
+      "correctIndex": 3,
+      "explanation": "Distance (path length) is a scalar quantity that always accumulates and cannot be negative.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p2_q31",
+      "text": "A jet plane moving at 500 km/h ejects its products of combustion at a speed of 1500 km/h relative to the jet. The speed of the products relative to the ground is:",
+      "options": ["2000 km/h", "1000 km/h", "1500 km/h", "500 km/h"],
+      "correctIndex": 1,
+      "explanation": "v_p - v_j = -1500 => v_p - 500 = -1500 => v_p = -1000 km/h (Magnitude 1000).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p2_q32",
+      "text": "In a non-uniform acceleration motion, the velocity-time graph is:",
+      "options": ["Straight line", "Curve", "Point", "Circle"],
+      "correctIndex": 1,
+      "explanation": "Non-constant rate of change of velocity results in a curved graph.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g11_p2_q33",
+      "text": "The motion of a train on a straight track is an example of:",
+      "options": ["Rectilinear motion", "Circular motion", "Periodic motion", "Rotational motion"],
+      "correctIndex": 0,
+      "explanation": "Motion along a straight line is rectilinear motion.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p2_q34",
+      "text": "Acceleration due to gravity near Earth's surface is approximately:",
+      "options": ["8.9 m/s²", "10.8 m/s²", "9.8 m/s²", "7.8 m/s²"],
+      "correctIndex": 2,
+      "explanation": "The standard value of 'g' used in physics problems.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p2_q35",
+      "text": "Which kinematic equation does not involve displacement?",
+      "options": ["v = u + at", "s = ut + ½at²", "v² = u² + 2as", "None"],
+      "correctIndex": 0,
+      "explanation": "v = u + at relates velocity, acceleration, and time.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p2_q36",
+      "text": "If a ball is thrown up with velocity u, the time it takes to return to the hand is:",
+      "options": ["u/g", "u²/g", "2u/g", "u/2g"],
+      "correctIndex": 2,
+      "explanation": "Time to peak is u/g, total time is 2 * u/g.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p2_q37",
+      "text": "A particle moves on a circular path of radius R. The displacement after half a circle is:",
+      "options": ["πR", "2R", "Zero", "R"],
+      "correctIndex": 1,
+      "explanation": "Displacement is the diameter (2R). Distance would be πR.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p2_q38",
+      "text": "One-dimensional motion is also called:",
+      "options": ["Planar motion", "Linear motion", "Circular motion", "Space motion"],
+      "correctIndex": 1,
+      "explanation": "Motion in a single straight line.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p2_q39",
+      "text": "A body is said to be in motion if its position changes with:",
+      "options": ["Temperature", "Mass", "Time", "Pressure"],
+      "correctIndex": 2,
+      "explanation": "Motion is the change of position over time relative to a frame of reference.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p2_q40",
+      "text": "The unit of acceleration in SI is:",
+      "options": ["m/s", "m/s²", "km/h", "m*s"],
+      "correctIndex": 1,
+      "explanation": "Meters per second squared.",
+      "frequencyRating": 5
+    }
+  ]
+}

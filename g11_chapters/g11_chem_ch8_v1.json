@@ -1,0 +1,166 @@
+{
+  "id": "g11_chem_ch8",
+  "grade": "11",
+  "subject": "Chemistry",
+  "number": "8",
+  "title": "Hydrogen",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_c8_q1",
+      "text": "Which of the following is NOT an isotope of Hydrogen?",
+      "options": ["Protium", "Deuterium", "Tritium", "Helium"],
+      "correctIndex": 3,
+      "explanation": "Helium (He) is a different element. Protium (¹H), Deuterium (²H), and Tritium (³H) are isotopes of Hydrogen.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c8_q2",
+      "text": "The most abundant isotope of Hydrogen is:",
+      "options": ["Protium", "Deuterium", "Tritium", "Para-hydrogen"],
+      "correctIndex": 0,
+      "explanation": "Protium (¹H) constitutes over 99.98% of natural hydrogen.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c8_q3",
+      "text": "Tritium is a radioactive isotope of Hydrogen with a half-life of approximately:",
+      "options": ["1.23 years", "12.3 years", "123 years", "1.23 days"],
+      "correctIndex": 1,
+      "explanation": "Tritium (³H) decays by beta emission with a half-life of 12.3 years.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_c8_q4",
+      "text": "Which of the following methods is used for the industrial preparation of Hydrogen?",
+      "options": ["Electrolysis of water", "Reaction of active metals with acids", "Bosch process", "Reaction of steam with red hot coke"],
+      "correctIndex": 3,
+      "explanation": "The reaction of steam with red hot coke (C + H₂O → CO + H₂) is a common industrial method (water-gas shift reaction).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c8_q5",
+      "text": "Hydrogen resembles alkali metals in forming:",
+      "options": ["Acidic oxides", "Covalent compounds", "Positive ions", "Hydrides"],
+      "correctIndex": 2,
+      "explanation": "Like alkali metals, hydrogen can lose one electron to form H⁺ ion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c8_q6",
+      "text": "Which type of hydride is formed by s-block elements?",
+      "options": ["Covalent hydrides", "Ionic hydrides", "Metallic hydrides", "Polymeric hydrides"],
+      "correctIndex": 1,
+      "explanation": "s-block elements (Group 1 and 2) are highly electropositive and form ionic (saline) hydrides.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c8_q7",
+      "text": "Water gas is a mixture of:",
+      "options": ["CO and H₂", "CO₂ and H₂", "CO and N₂", "H₂ and O₂"],
+      "correctIndex": 0,
+      "explanation": "Water gas (or syngas) is a mixture of carbon monoxide and hydrogen.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c8_q8",
+      "text": "Permanent hardness of water is due to the presence of:",
+      "options": ["Bicarbonates of Ca and Mg", "Chlorides and sulphates of Ca and Mg", "Carbonates of Na and K", "Nitrates of Fe and Al"],
+      "correctIndex": 1,
+      "explanation": "Permanent hardness is caused by dissolved chlorides and sulphates of calcium and magnesium.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c8_q9",
+      "text": "Which of the following methods is used to remove permanent hardness of water?",
+      "options": ["Boiling", "Clark's method", "Calgon method", "Filtration"],
+      "correctIndex": 2,
+      "explanation": "Calgon method (using sodium hexametaphosphate) is an effective way to remove permanent hardness.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c8_q10",
+      "text": "Hydrogen peroxide (H₂O₂) is a powerful:",
+      "options": ["Reducing agent", "Oxidizing agent", "Both oxidizing and reducing agent", "Dehydrating agent"],
+      "correctIndex": 2,
+      "explanation": "H₂O₂ can act as both an oxidizing agent (e.g., in acidic medium) and a reducing agent (e.g., with strong oxidizing agents).",
+      "frequencyRating": 5
+    },
+    { "id": "g11_c8_q11", "text": "The bond angle in water (H₂O) is approximately:", "options": ["180°", "109.5°", "104.5°", "90°"], "correctIndex": 2, "explanation": "Due to lone pair-bond pair repulsion, the angle is slightly less than tetrahedral.", "frequencyRating": 5 },
+    { "id": "g11_c8_q12", "text": "Heavy water (D₂O) is used as a _____ in nuclear reactors.", "options": ["Fuel", "Coolant", "Moderator", "Control rod"], "correctIndex": 2, "explanation": "It slows down neutrons without absorbing them significantly.", "frequencyRating": 5 },
+    { "id": "g11_c8_q13", "text": "Which of the following is a non-stoichiometric hydride?", "options": ["LiH", "CaH₂", "TiH₁.₇", "NH₃"], "correctIndex": 2, "explanation": "Metallic hydrides often have non-stoichiometric compositions.", "frequencyRating": 4 },
+    { "id": "g11_c8_q14", "text": "Hydrogen can be prepared in the laboratory by the reaction of:", "options": ["Zn with dilute HCl", "Cu with dilute H₂SO₄", "Ag with dilute HNO₃", "Fe with concentrated H₂SO₄"], "correctIndex": 0, "explanation": "Active metals like Zn react with dilute acids to produce hydrogen gas.", "frequencyRating": 5 },
+    { "id": "g11_c8_q15", "text": "The structure of H₂O₂ in the gaseous phase is:", "options": ["Linear", "Planar", "Non-planar", "Tetrahedral"], "correctIndex": 2, "explanation": "It has an open book-like non-planar structure.", "frequencyRating": 4 },
+    { "id": "g11_c8_q16", "text": "Which of the following is a use of Hydrogen?", "options": ["As a fuel", "In the synthesis of ammonia", "For hydrogenation of vegetable oils", "All of these"], "correctIndex": 3, "explanation": "Hydrogen has diverse applications in industry and as a potential clean fuel.", "frequencyRating": 5 },
+    { "id": "g11_c8_q17", "text": "Temporary hardness of water is due to the presence of:", "options": ["Chlorides of Ca and Mg", "Sulphates of Ca and Mg", "Bicarbonates of Ca and Mg", "Nitrates of Ca and Mg"], "correctIndex": 2, "explanation": "It can be removed by boiling.", "frequencyRating": 5 },
+    { "id": "g11_c8_q18", "text": "The process of converting hard water into soft water is called:", "options": ["Distillation", "Deionization", "Water softening", "Filtration"], "correctIndex": 2, "explanation": "Water softening involves removing the ions that cause hardness.", "frequencyRating": 4 },
+    { "id": "g11_c8_q19", "text": "Hydrogen acts as a reducing agent in the reaction:", "options": ["H₂ + Cl₂ → 2HCl", "2Na + H₂ → 2NaH", "CuO + H₂ → Cu + H₂O", "N₂ + 3H₂ → 2NH₃"], "correctIndex": 2, "explanation": "Hydrogen reduces copper oxide to copper.", "frequencyRating": 5 },
+    { "id": "g11_c8_q20", "text": "The term 'hydrolith' refers to:", "options": ["CaH₂", "LiH", "MgH₂", "NaH"], "correctIndex": 0, "explanation": "Calcium hydride (CaH₂) is commonly known as hydrolith and is used as a portable source of hydrogen.", "frequencyRating": 3 },
+    { "id": "g11_c8_q21", "text": "Which of the following is an electron-deficient hydride?", "options": ["CH₄", "NH₃", "BH₃", "H₂O"], "correctIndex": 2, "explanation": "Boron hydrides (like BH₃) have fewer electrons than required to form normal covalent bonds.", "frequencyRating": 4 },
+    { "id": "g11_c8_q22", "text": "The reaction of hydrogen with halogens is most vigorous with:", "options": ["F₂", "Cl₂", "Br₂", "I₂"], "correctIndex": 0, "explanation": "Fluorine is the most reactive halogen.", "frequencyRating": 5 },
+    { "id": "g11_c8_q23", "text": "Hydrogen can be adsorbed by transition metals. This property is called:", "options": ["Hydrogenation", "Adsorption", "Occlusion", "Absorption"], "correctIndex": 2, "explanation": "Occlusion is the process by which certain metals (like Pd, Pt) absorb large volumes of hydrogen.", "frequencyRating": 3 },
+    { "id": "g11_c8_q24", "text": "The percentage of hydrogen in the universe is approximately:", "options": ["10%", "25%", "50%", "70%"], "correctIndex": 3, "explanation": "Hydrogen is the most abundant element in the universe.", "frequencyRating": 4 },
+    { "id": "g11_c8_q25", "text": "Which of the following is used as an antiseptic?", "options": ["H₂O", "D₂O", "H₂O₂", "H₂S"], "correctIndex": 2, "explanation": "Hydrogen peroxide is used as a mild antiseptic and disinfectant.", "frequencyRating": 5 },
+    { "id": "g11_c8_q26", "text": "The auto-protolysis of water is represented by:", "options": ["H₂O → H⁺ + OH⁻", "2H₂O ⇌ H₃O⁺ + OH⁻", "H₂O + H₂O → 2H₂O", "None of these"], "correctIndex": 1, "explanation": "Water acts as both an acid and a base, forming hydronium and hydroxide ions.", "frequencyRating": 4 },
+    { "id": "g11_c8_q27", "text": "The oxidation state of oxygen in H₂O₂ is:", "options": ["-1", "-2", "0", "+1"], "correctIndex": 0, "explanation": "In peroxides, oxygen has an oxidation state of -1.", "frequencyRating": 5 },
+    { "id": "g11_c8_q28", "text": "Which of the following is a covalent hydride?", "options": ["NaH", "CaH₂", "CH₄", "LaH₃"], "correctIndex": 2, "explanation": "Non-metals form covalent hydrides.", "frequencyRating": 5 },
+    { "id": "g11_c8_q29", "text": "The reaction of hydrogen with oxygen to form water is:", "options": ["Endothermic", "Exothermic", "Reversible", "Photochemical"], "correctIndex": 1, "explanation": "It releases a large amount of energy.", "frequencyRating": 4 },
+    { "id": "g11_c8_q30", "text": "The process of hydrogenation is used to convert:", "options": ["Saturated fats to unsaturated fats", "Unsaturated fats to saturated fats", "Alcohols to aldehydes", "Aldehydes to alcohols"], "correctIndex": 1, "explanation": "Hydrogen is added across double bonds in unsaturated fats.", "frequencyRating": 5 },
+    { "id": "g11_c8_q31", "text": "The zeolite method is used for:", "options": ["Preparation of H₂", "Softening of hard water", "Purification of H₂O₂", "Storage of H₂"], "correctIndex": 1, "explanation": "Zeolites exchange Ca²⁺ and Mg²⁺ ions with Na⁺ ions.", "frequencyRating": 4 },
+    { "id": "g11_c8_q32", "text": "Which of the following is an electron-rich hydride?", "options": ["CH₄", "NH₃", "H₂O", "All of these"], "correctIndex": 3, "explanation": "Elements of Group 15-17 form electron-rich hydrides with lone pairs.", "frequencyRating": 4 },
+    { "id": "g11_c8_q33", "text": "The commercial production of hydrogen is mainly from:", "options": ["Water", "Hydrocarbons", "Acids", "Alkali metals"], "correctIndex": 1, "explanation": "Steam reforming of natural gas (hydrocarbons) is the dominant industrial method.", "frequencyRating": 4 },
+    { "id": "g11_c8_q34", "text": "Hydrogen can be used in fuel cells to produce:", "options": ["Heat", "Electricity", "Water", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "Fuel cells convert chemical energy of hydrogen and oxygen directly into electrical energy and water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c8_q35",
+      "text": "The reaction of hydrogen with non-metals generally forms:",
+      "options": ["Ionic hydrides", "Covalent hydrides", "Metallic hydrides", "Saline hydrides"],
+      "correctIndex": 1,
+      "explanation": "Non-metals share electrons with hydrogen to form covalent compounds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c8_q36",
+      "text": "The property of hydrogen to absorb on the surface of metals is called:",
+      "options": ["Absorption", "Adsorption", "Occlusion", "Catalysis"],
+      "correctIndex": 1,
+      "explanation": "Adsorption is a surface phenomenon.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_c8_q37",
+      "text": "Which of the following is a reducing property of H₂O₂?",
+      "options": ["H₂O₂ + 2H⁺ + 2e⁻ → 2H₂O", "H₂O₂ → O₂ + 2H⁺ + 2e⁻", "H₂O₂ + 2I⁻ + 2H⁺ → I₂ + 2H₂O", "None of these"],
+      "correctIndex": 1,
+      "explanation": "In this reaction, H₂O₂ loses electrons (is oxidized) and thus acts as a reducing agent.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_c8_q38",
+      "text": "The term 'syngas' refers to:",
+      "options": ["Natural gas", "Water gas", "Producer gas", "LPG"],
+      "correctIndex": 1,
+      "explanation": "Syngas is a common name for water gas (CO + H₂).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_c8_q39",
+      "text": "Hydrogen is unique because it can:",
+      "options": ["Lose an electron to form H⁺", "Gain an electron to form H⁻", "Share electrons to form covalent bonds", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Hydrogen exhibits properties similar to alkali metals, halogens, and forms covalent bonds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_c8_q40",
+      "text": "The process of demineralization of water involves removing:",
+      "options": ["Only cations", "Only anions", "Both cations and anions", "Suspended impurities"],
+      "correctIndex": 2,
+      "explanation": "Demineralized water is free from all soluble mineral salts, achieved using ion-exchange resins.",
+      "frequencyRating": 4
+    }
+  ]
+}

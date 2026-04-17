@@ -1,0 +1,330 @@
+{
+  "id": "g11_phy_ch5",
+  "grade": "11",
+  "subject": "Physics",
+  "number": "5",
+  "title": "Work, Energy and Power",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_p5_q1",
+      "text": "Work done is zero when the angle between force and displacement is:",
+      "options": ["0°", "45°", "90°", "180°"],
+      "correctIndex": 2,
+      "explanation": "W = F d cos θ. cos 90° = 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p5_q2",
+      "text": "The Work-Energy Theorem states that work done by all forces equals:",
+      "options": ["Total Energy", "Change in Potential Energy", "Change in Kinetic Energy", "Change in Momentum"],
+      "correctIndex": 2,
+      "explanation": "W_net = ΔK = K_final - K_initial.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p5_q3",
+      "text": "A 1 kg mass has a kinetic energy of 1 Joule. Its speed is:",
+      "options": ["1 m/s", "1.414 m/s", "2 m/s", "0.5 m/s"],
+      "correctIndex": 1,
+      "explanation": "K = ½mv² => 1 = ½(1)v² => v² = 2 => v = sqrt(2).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p5_q4",
+      "text": "Which of the following is a non-conservative force?",
+      "options": ["Gravitational force", "Electrostatic force", "Frictional force", "Elastic spring force"],
+      "correctIndex": 2,
+      "explanation": "Work done by friction depends on the path taken.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p5_q5",
+      "text": "The rate of doing work is called:",
+      "options": ["Energy", "Power", "Force", "Momentum"],
+      "correctIndex": 1,
+      "explanation": "P = W/t.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p5_q6",
+      "text": "Potential energy of a spring of constant 'k' stretched by 'x' is:",
+      "options": ["kx", "½kx", "kx²", "½kx²"],
+      "correctIndex": 3,
+      "explanation": "Elastic potential energy formula.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p5_q7",
+      "text": "In an elastic collision, which are conserved?",
+      "options": ["Only Momentum", "Only Kinetic Energy", "Both Momentum and Kinetic Energy", "Neither"],
+      "correctIndex": 2,
+      "explanation": "Total momentum and total kinetic energy are both conserved in perfectly elastic collisions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p5_q8",
+      "text": "In a perfectly inelastic collision, the two bodies:",
+      "options": ["Move separately", "Stick together", "Bounce back", "Stop"],
+      "correctIndex": 1,
+      "explanation": "They move with a common velocity after impact.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p5_q9",
+      "text": "The SI unit of power is:",
+      "options": ["Joule", "Watt", "Newton", "Horsepower"],
+      "correctIndex": 1,
+      "explanation": "1 Watt = 1 Joule per second.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p5_q10",
+      "text": "Kilowatt-hour (kWh) is a unit of:",
+      "options": ["Power", "Energy", "Force", "Current"],
+      "correctIndex": 1,
+      "explanation": "It is a commercial unit of energy (Power x Time).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p5_q11",
+      "text": "If momentum is doubled, kinetic energy becomes:",
+      "options": ["Double", "Half", "Four times", "Remains same"],
+      "correctIndex": 2,
+      "explanation": "K = p²/2m. If p -> 2p, K -> 4p²/2m = 4K.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p5_q12",
+      "text": "Mechanical energy is the sum of:",
+      "options": ["K.E. and P.E.", "Heat and K.E.", "Heat and Light", "P.E. and Force"],
+      "correctIndex": 0,
+      "explanation": "E = K + V.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p5_q13",
+      "text": "A dot product of force and velocity gives:",
+      "options": ["Work", "Momentum", "Power", "Acceleration"],
+      "correctIndex": 2,
+      "explanation": "P = F·v.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p5_q14",
+      "text": "Work done by a centripetal force is:",
+      "options": ["Positive", "Negative", "Zero", "Infinite"],
+      "correctIndex": 2,
+      "explanation": "Centripetal force is always perpendicular to displacement in circular motion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p5_q15",
+      "text": "Coefficient of restitution (e) for a perfectly elastic collision is:",
+      "options": ["0", "1", "0.5", "Infinity"],
+      "correctIndex": 1,
+      "explanation": "e = (v2-v1)/(u1-u2) = 1 for elastic.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p5_q16",
+      "text": "Gravitational potential energy of a body of mass 'm' at height 'h' is:",
+      "options": ["mh", "gh", "mgh", "½mgh"],
+      "correctIndex": 2,
+      "explanation": "Energy due to position in a gravitational field.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p5_q17",
+      "text": "When a spring is compressed, the work done by the external force is:",
+      "options": ["Positive", "Negative", "Zero", "None"],
+      "correctIndex": 0,
+      "explanation": "Force and displacement are in the same direction.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p5_q18",
+      "text": "One horsepower is equal to:",
+      "options": ["746 W", "1000 W", "500 W", "746 J"],
+      "correctIndex": 0,
+      "explanation": "Standard conversion used in engineering.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p5_q19",
+      "text": "Work done by a conservative force over a closed path is:",
+      "options": ["Positive", "Negative", "Zero", "Infinite"],
+      "correctIndex": 2,
+      "explanation": "Definition of a conservative force.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p5_q20",
+      "text": "Energy can neither be created nor destroyed. this is the Law of Conservation of:",
+      "options": ["Mass", "Energy", "Momentum", "Power"],
+      "correctIndex": 1,
+      "explanation": "First law of thermodynamics / General energy principle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p5_q21",
+      "text": "The slope of a Potential Energy vs Position (U-x) graph gives:",
+      "options": ["Work", "Power", "Force", "Kinetic Energy"],
+      "correctIndex": 2,
+      "explanation": "F = -dU/dx.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p5_q22",
+      "text": "A light and a heavy body have equal kinetic energy. Which one has more momentum?",
+      "options": ["Light body", "Heavy body", "Both have same", "Data insufficient"],
+      "correctIndex": 1,
+      "explanation": "p = sqrt(2mK). For same K, p ∝ sqrt(m).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p5_q23",
+      "text": "Which form of energy is possessed by a flying bird?",
+      "options": ["Only Kinetic", "Only Potential", "Both Kinetic and Potential", "None"],
+      "correctIndex": 2,
+      "explanation": "Kinetic due to motion and potential due to height.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p5_q24",
+      "text": "Work done by friction is usually:",
+      "options": ["Positive", "Negative", "Zero", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "Friction usually opposes displacement.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p5_q25",
+      "text": "Power is a _____ quantity.",
+      "options": ["Scalar", "Vector", "Dimensionless", "Tensor"],
+      "correctIndex": 0,
+      "explanation": "It is the dot product of F and v, which results in a scalar.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p5_q26",
+      "text": "The energy stored in a stretched rubber band is:",
+      "options": ["Kinetic", "Thermal", "Potential", "Chemical"],
+      "correctIndex": 2,
+      "explanation": "Specifically elastic potential energy.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p5_q27",
+      "text": "When a body falls freely, its total mechanical energy:",
+      "options": ["Increases", "Decreases", "Remains constant", "First increases then decreases"],
+      "correctIndex": 2,
+      "explanation": "Potential energy converts to kinetic energy, but sum remains constant.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p5_q28",
+      "text": "In which collision is only momentum conserved?",
+      "options": ["Elastic", "Inelastic", "Both", "Neither"],
+      "correctIndex": 1,
+      "explanation": "In inelastic collisions, some kinetic energy is lost as heat/deformation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p5_q29",
+      "text": "The area under a Force-Displacement (F-d) graph represents:",
+      "options": ["Power", "Momentum", "Work done", "Acceleration"],
+      "correctIndex": 2,
+      "explanation": "Integral of F·dx is work.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p5_q30",
+      "text": "What is the work done in holding a 50kg suitcase for 10 minutes at a fixed spot?",
+      "options": ["500 J", "Zero", "5000 J", "Depends on height"],
+      "correctIndex": 1,
+      "explanation": "Displacement is zero, so work is zero.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p5_q31",
+      "text": "The dimension of work is:",
+      "options": ["[MLT⁻²]", "[ML²T⁻²]", "[ML²T⁻³]", "[ML⁻¹T⁻²]"],
+      "correctIndex": 1,
+      "explanation": "Force [MLT⁻²] * Distance [L] = [ML²T⁻²].",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p5_q32",
+      "text": "The dot product of two vectors is commutative, meaning:",
+      "options": ["A·B = B·A", "A·B = -B·A", "A·B = 0", "A·B = 1"],
+      "correctIndex": 0,
+      "explanation": "Scalar multiplication is independent of order.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p5_q33",
+      "text": "Collision of gas molecules is considered to be:",
+      "options": ["Elastic", "Inelastic", "Perfectly inelastic", "None"],
+      "correctIndex": 0,
+      "explanation": "An assumption in the Kinetic Theory of Gases.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p5_q34",
+      "text": "If a body is moving in a circle, the work done by the tension in the string is:",
+      "options": ["Positive", "Negative", "Zero", "Depends on radius"],
+      "correctIndex": 2,
+      "explanation": "Tension is perpendicular to displacement.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p5_q35",
+      "text": "Elastic Potential Energy is always:",
+      "options": ["Positive", "Negative", "Zero", "None"],
+      "correctIndex": 0,
+      "explanation": "½kx² is always positive for any displacement x.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p5_q36",
+      "text": "Energy possessed by a body due to its motion is:",
+      "options": ["Potential", "Kinetic", "Magnetic", "Chemical"],
+      "correctIndex": 1,
+      "explanation": "Basic definition of kinetic energy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p5_q37",
+      "text": "The power of a pump which can lift 100kg of water to 10m in 10s is (g=10):",
+      "options": ["100 W", "1000 W", "10 W", "500 W"],
+      "correctIndex": 1,
+      "explanation": "P = mgh/t = 100*10*10 / 10 = 1000 W.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p5_q38",
+      "text": "Work done is a _____ quantity.",
+      "options": ["Scalar", "Vector", "Dimensionless", "Phasor"],
+      "correctIndex": 0,
+      "explanation": "It has no direction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p5_q39",
+      "text": "1 Joule is equal to:",
+      "options": ["10⁵ ergs", "10⁷ ergs", "10⁻⁷ ergs", "10² ergs"],
+      "correctIndex": 1,
+      "explanation": "Conversion between SI and CGS units of work.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p5_q40",
+      "text": "If the kinetic energy of a body is increased by 300%, its momentum increases by:",
+      "options": ["300%", "200%", "100%", "50%"],
+      "correctIndex": 2,
+      "explanation": "K2 = 4K1. p ∝ sqrt(K), so p2 = sqrt(4)p1 = 2p1. Increase is 100%.",
+      "frequencyRating": 4
+    }
+  ]
+}
