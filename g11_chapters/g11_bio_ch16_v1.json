@@ -3,56 +3,328 @@
   "grade": "11",
   "subject": "Biology",
   "number": "16",
-  "title": "Digestion and Absorption",
+  "title": "Excretory Products and their Elimination",
   "version": "v1",
   "questions": [
     {
       "id": "g11_b16_q1",
-      "text": "Which enzyme begins carbohydrate digestion in the mouth?",
-      "options": ["Pepsin", "Amylase", "Lipase", "Trypsin"],
-      "correctIndex": 1,
-      "explanation": "Salivary amylase breaks down starch into simpler sugars in the mouth.",
+      "text": "Which is the most toxic nitrogenous waste produced by animals?",
+      "options": ["Urea", "Uric acid", "Ammonia", "Creatinine"],
+      "correctIndex": 2,
+      "explanation": "Ammonia is highly toxic and requires large amounts of water for its elimination.",
       "frequencyRating": 5
     },
     {
       "id": "g11_b16_q2",
-      "text": "Where does most nutrient absorption occur in the alimentary canal?",
-      "options": ["Stomach", "Small intestine", "Large intestine", "Esophagus"],
-      "correctIndex": 1,
-      "explanation": "The small intestine has villi and microvilli specialized for absorption.",
+      "text": "Animals that excrete nitrogenous waste as uric acid pellets or paste are called:",
+      "options": ["Ammonotelic", "Ureotelic", "Uricotelic", "Aminotelic"],
+      "correctIndex": 2,
+      "explanation": "Uricotelic animals (like birds and reptiles) excrete uric acid with minimum loss of water.",
       "frequencyRating": 5
     },
     {
       "id": "g11_b16_q3",
-      "text": "Bile helps digest fats by: ",
-      "options": ["Breaking them into smaller droplets", "Converting them to glucose", "Destroying fatty acids", "Lowering pH"],
-      "correctIndex": 0,
-      "explanation": "Bile emulsifies fats, increasing surface area for enzymes.",
-      "frequencyRating": 4
+      "text": "Mammals and terrestrial amphibians are mainly:",
+      "options": ["Ammonotelic", "Ureotelic", "Uricotelic", "Ametabolic"],
+      "correctIndex": 1,
+      "explanation": "They convert ammonia into less toxic urea in the liver and excrete it via kidneys.",
+      "frequencyRating": 5
     },
     {
       "id": "g11_b16_q4",
-      "text": "Which organ secretes digestive enzymes into the small intestine?",
-      "options": ["Liver", "Pancreas", "Stomach", "Gall bladder"],
-      "correctIndex": 1,
-      "explanation": "The pancreas releases enzymes like trypsin and lipase into the duodenum.",
-      "frequencyRating": 4
+      "text": "Flame cells (Protonephridia) are the excretory structures in:",
+      "options": ["Earthworms", "Cockroaches", "Platyhelminthes (Flatworms)", "Prawns"],
+      "correctIndex": 2,
+      "explanation": "Flame cells are found in flatworms like Planaria.",
+      "frequencyRating": 5
     },
     {
       "id": "g11_b16_q5",
-      "text": "Peristalsis is the movement of food by: ",
-      "options": ["Muscle contractions", "Diffusion", "Osmosis", "Gravity"],
-      "correctIndex": 0,
-      "explanation": "Peristalsis uses coordinated muscle contractions along the gut.",
-      "frequencyRating": 4
+      "text": "The structural and functional unit of the human kidney is:",
+      "options": ["Neuron", "Nephron", "Henle's loop", "Glomerulus"],
+      "correctIndex": 1,
+      "explanation": "Each kidney has nearly one million complex tubular structures called nephrons.",
+      "frequencyRating": 5
     },
     {
       "id": "g11_b16_q6",
-      "text": "Which structure increases the surface area for absorption in the small intestine?",
-      "options": ["Villi", "Glands", "Rugae", "Cilia"],
-      "correctIndex": 0,
-      "explanation": "Villi and microvilli increase the absorptive surface of the intestine.",
+      "text": "The notch on the inner concave surface of the kidney where the ureter and blood vessels enter is:",
+      "options": ["Cortex", "Medulla", "Hilum", "Pelvis"],
+      "correctIndex": 2,
+      "explanation": "The hilum is the entry point for renal artery, renal vein, and ureter.",
       "frequencyRating": 5
+    },
+    {
+      "id": "g11_b16_q7",
+      "text": "The Malpighian body (Renal corpuscle) consists of:",
+      "options": ["Glomerulus and Bowman's capsule", "Proximal and Distal tubules", "Henle's loop and collecting duct", "Cortex and Medulla"],
+      "correctIndex": 0,
+      "explanation": "The glomerulus along with Bowman's capsule is called the Malpighian body.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b16_q8",
+      "text": "Which part of the nephron is NOT found in the renal medulla?",
+      "options": ["Henle's loop", "Collecting duct", "Bowman's capsule", "Vasa recta"],
+      "correctIndex": 2,
+      "explanation": "Malpighian corpuscle, PCT, and DCT are situated in the cortical region of the kidney.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b16_q9",
+      "text": "Nephrons with very long loops of Henle that run deep into the medulla are:",
+      "options": ["Cortical nephrons", "Juxtamedullary nephrons", "Primary nephrons", "Medullary nephrons"],
+      "correctIndex": 1,
+      "explanation": "Only about 15% of human nephrons are juxtamedullary nephrons.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b16_q10",
+      "text": "The first step in urine formation is ________, which is carried out by the glomerulus.",
+      "options": ["Selective reabsorption", "Tubular secretion", "Glomerular filtration", "Excretion"],
+      "correctIndex": 2,
+      "explanation": "Glomerular filtration is a non-selective process based on size and pressure.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b16_q11",
+      "text": "The amount of filtrate formed by the kidneys per minute is the:",
+      "options": ["Total lung capacity", "Glomerular filtration rate (GFR)", "Cardiac output", "Urine output"],
+      "correctIndex": 1,
+      "explanation": "GFR in a healthy individual is approximately 125 mL/minute.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b16_q12",
+      "text": "Which part of the nephron is responsible for maximum (70-80%) reabsorption of electrolytes and water?",
+      "options": ["Distal convoluted tubule (DCT)", "Proximal convoluted tubule (PCT)", "Loop of Henle", "Collecting duct"],
+      "correctIndex": 1,
+      "explanation": "PCT is lined by simple cuboidal brush border epithelium which increases surface area for reabsorption.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b16_q13",
+      "text": "Henle's loop plays a significant role in maintaining the high osmolarity of:",
+      "options": ["Renal cortex", "Renal medullary interstitial fluid", "Bowman's capsule", "Renal artery"],
+      "correctIndex": 1,
+      "explanation": "The counter-current mechanism in the loop of Henle and vasa recta creates an osmotic gradient in the medulla.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b16_q14",
+      "text": "Conditional reabsorption of Na+ and water takes place in the:",
+      "options": ["PCT", "Henle's loop", "DCT", "Glomerulus"],
+      "correctIndex": 2,
+      "explanation": "DCT reabsorbs Na+ and water under the influence of hormones like Aldosterone.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b16_q15",
+      "text": "The mechanism that allows for the production of concentrated urine is:",
+      "options": ["Simple diffusion", "Active transport", "Counter-current mechanism", "Micturition"],
+      "correctIndex": 2,
+      "explanation": "This mechanism involves the Henle's loop and Vasa recta.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b16_q16",
+      "text": "Antidiuretic hormone (ADH) facilitates water reabsorption mainly from:",
+      "options": ["PCT", "Descending loop of Henle", "DCT and Collecting duct", "Ascending loop of Henle"],
+      "correctIndex": 2,
+      "explanation": "ADH (Vasopressin) increases the permeability of DCT and collecting ducts to water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b16_q17",
+      "text": "Renin is secreted by the Juxtaglomerular (JG) cells in response to:",
+      "options": ["High blood pressure", "Fall in GFR", "High sodium levels", "Excessive water"],
+      "correctIndex": 1,
+      "explanation": "A fall in glomerular blood flow/pressure/GFR activates the JG cells to release renin.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b16_q18",
+      "text": "Which hormone acts as a check on the renin-angiotensin mechanism and causes vasodilation?",
+      "options": ["ADH", "Aldosterone", "Atrial Natriuretic Factor (ANF)", "Cortisol"],
+      "correctIndex": 2,
+      "explanation": "ANF is released by the heart atria in response to high blood pressure to lower it.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b16_q19",
+      "text": "The process of release of urine is called:",
+      "options": ["Defecation", "Micturition", "Parturition", "Deglutition"],
+      "correctIndex": 1,
+      "explanation": "Micturition is a reflex process initiated when the urinary bladder is stretched.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b16_q20",
+      "text": "An average adult human excretes ________ of urea per day.",
+      "options": ["5-10 g", "25-30 g", "50-60 g", "100 g"],
+      "correctIndex": 1,
+      "explanation": "A healthy adult excretes around 25 to 30 grams of urea daily in 1 to 1.5 liters of urine.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b16_q21",
+      "text": "Presence of glucose and ketone bodies in urine are indicative of:",
+      "options": ["Renal calculi", "Glomerulonephritis", "Diabetes mellitus", "Bright's disease"],
+      "correctIndex": 2,
+      "explanation": "Glycosuria and Ketonuria are key clinical indicators of diabetes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b16_q22",
+      "text": "The 'Artificial Kidney' used in patients with uremia is based on the principle of:",
+      "options": ["Active transport", "Dialysis", "Osmosis", "Ultrafiltration"],
+      "correctIndex": 1,
+      "explanation": "Hemodialysis removes nitrogenous wastes from the blood through a semi-permeable membrane.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b16_q23",
+      "text": "Insoluble mass of crystallized salts like oxalates within the kidney is called:",
+      "options": ["Calculi (Stone)", "Uremia", "Pyuria", "Gout"],
+      "correctIndex": 0,
+      "explanation": "Renal calculi are commonly known as kidney stones.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b16_q24",
+      "text": "Podocytes are specialized cells present in the:",
+      "options": ["PCT", "Inner wall of Bowman's capsule", "Outer wall of Bowman's capsule", "Loop of Henle"],
+      "correctIndex": 1,
+      "explanation": "Podocytes have slit pores (filtration slits) that allow small molecules to pass into the capsule.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b16_q25",
+      "text": "Which of the following organs also help in elimination of excretory wastes?",
+      "options": ["Lungs", "Liver", "Skin", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Lungs remove CO2, liver removes bile pigments/drugs, and skin removes salts/urea via sweat and sebum.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b16_q26",
+      "text": "Angiotensin II is a powerful:",
+      "options": ["Vasodilator", "Vasoconstrictor", "Hormone for growth", "Enzyme for digestion"],
+      "correctIndex": 1,
+      "explanation": "It increases glomerular blood pressure and also triggers aldosterone release.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b16_q27",
+      "text": "Sweat produced by sweat glands is primarily meant for:",
+      "options": ["Removing urea", "Cooling the body surface", "Removing excess water", "Killing bacteria"],
+      "correctIndex": 1,
+      "explanation": "While it removes some waste, the primary function of sweat is thermoregulation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b16_q28",
+      "text": "Which part of Henle's loop is impermeable to water but permeable to electrolytes?",
+      "options": ["Descending limb", "Ascending limb", "Both", "None"],
+      "correctIndex": 1,
+      "explanation": "The ascending limb allows salts to move into the medulla, making the urine dilute as it goes up.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b16_q29",
+      "text": "Sebaceous glands eliminate certain substances like sterols and hydrocarbons through:",
+      "options": ["Sweat", "Saliva", "Sebum", "Urine"],
+      "correctIndex": 2,
+      "explanation": "Sebum provides a protective oily covering for the skin.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b16_q30",
+      "text": "Glomerulonephritis is:",
+      "options": ["Accumulation of urea in blood", "Inflammation of glomeruli of kidney", "Formation of stones", "Infection of ureters"],
+      "correctIndex": 1,
+      "explanation": "It is an inflammatory condition of the filtering units of the kidney.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b16_q31",
+      "text": "Uric acid is excreted by:",
+      "options": ["Cartilaginous fish", "Aquatic insects", "Land snails and birds", "Mammals"],
+      "correctIndex": 2,
+      "explanation": "Reptiles, birds, land snails, and insects are uricotelic.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b16_q32",
+      "text": "Green glands (Antennal glands) are excretory organs of:",
+      "options": ["Spiders", "Crustaceans like Prawns", "Insects", "Molluscs"],
+      "correctIndex": 1,
+      "explanation": "Crustaceans utilize antennal glands for excretion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b16_q33",
+      "text": "The specialized blood vessel of the nephron which runs parallel to Henle's loop is:",
+      "options": ["Renal artery", "Vasa recta", "Efferent arteriole", "Afferent arteriole"],
+      "correctIndex": 1,
+      "explanation": "Vasa recta is a U-shaped capillary network essential for the counter-current system.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b16_q34",
+      "text": "Which region of the kidney contains the renal pyramids?",
+      "options": ["Cortex", "Medulla", "Pelvis", "Hilum"],
+      "correctIndex": 1,
+      "explanation": "The medulla is divided into a few conical masses called medullary pyramids.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b16_q35",
+      "text": "The columns of Bertini are the extensions of:",
+      "options": ["Medulla into cortex", "Cortex into medulla", "Pelvis into ureter", "Hilum into pelvis"],
+      "correctIndex": 1,
+      "explanation": "Renal columns are cortical tissues that dip down between the medullary pyramids.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b16_q36",
+      "text": "Which process of urine formation helps in maintaining the ionic and acid-base balance of body fluids?",
+      "options": ["Filtration", "Tubular secretion", "Reabsorption", "Micturition"],
+      "correctIndex": 1,
+      "explanation": "The active secretion of H+, K+ and ammonia into the filtrate helps maintain pH.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b16_q37",
+      "text": "The diameter of the afferent arteriole is ________ than the efferent arteriole.",
+      "options": ["Smaller", "Wider", "Equal", "Half"],
+      "correctIndex": 1,
+      "explanation": "The wider afferent and narrower efferent arterioles create the high pressure needed for glomerular filtration.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b16_q38",
+      "text": "One of the following is NOT an ammonotelic animal:",
+      "options": ["Bony fish", "Aquatic amphibians", "Reptiles", "Aquatic insects"],
+      "correctIndex": 2,
+      "explanation": "Reptiles are uricotelic or ureotelic, not ammonotelic.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b16_q39",
+      "text": "Total amount of filtrate formed by kidneys per day is approximately:",
+      "options": ["1.5 L", "18 L", "180 L", "500 L"],
+      "correctIndex": 2,
+      "explanation": "Kidneys filter 180 liters of blood per day, but 99% is reabsorbed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b16_q40",
+      "text": "The hormone secreted by the heart to reduce blood pressure is:",
+      "options": ["ADH", "ANF", "Renin", "Angiotensin"],
+      "correctIndex": 1,
+      "explanation": "Atrial Natriuretic Factor causes vasodilation and lowers BP.",
+      "frequencyRating": 4
     }
   ]
 }

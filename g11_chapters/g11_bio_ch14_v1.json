@@ -1,0 +1,330 @@
+{
+  "id": "g11_bio_ch14",
+  "grade": "11",
+  "subject": "Biology",
+  "number": "14",
+  "title": "Breathing and Exchange of Gases",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_b14_q1",
+      "text": "The process of exchange of O2 from the atmosphere with CO2 produced by the cells is called:",
+      "options": ["Cellular respiration", "Breathing", "Glycolysis", "Fermentation"],
+      "correctIndex": 1,
+      "explanation": "Breathing is the physical process of inhalation and exhalation, commonly known as respiration in a general sense.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b14_q2",
+      "text": "Tracheal tubes are the respiratory organs found in:",
+      "options": ["Earthworms", "Insects", "Fishes", "Birds"],
+      "correctIndex": 1,
+      "explanation": "Insects use a network of tracheal tubes to transport atmospheric air directly to the cells.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b14_q3",
+      "text": "The 'Adam's Apple' is the prominent part of the:",
+      "options": ["Pharynx", "Trachea", "Larynx", "Bronchi"],
+      "correctIndex": 2,
+      "explanation": "The larynx is a cartilaginous box which helps in sound production and is often called the sound box.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b14_q4",
+      "text": "A thin cartilaginous flap that prevents the entry of food into the larynx is called:",
+      "options": ["Glottis", "Gullet", "Epiglottis", "Soft palate"],
+      "correctIndex": 2,
+      "explanation": "The epiglottis covers the glottis during swallowing to prevent food from entering the windpipe.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b14_q5",
+      "text": "The trachea divides into two primary bronchi at the level of the:",
+      "options": ["3rd thoracic vertebra", "5th thoracic vertebra", "7th thoracic vertebra", "1st lumbar vertebra"],
+      "correctIndex": 1,
+      "explanation": "The windpipe divides into right and left primary bronchi at the level of the 5th thoracic vertebra.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b14_q6",
+      "text": "The lungs are situated in an airtight chamber known as the:",
+      "options": ["Abdominal cavity", "Thoracic cavity", "Pericardial cavity", "Pelvic cavity"],
+      "correctIndex": 1,
+      "explanation": "The thoracic cavity is anatomically designed so that any change in its volume reflects in the lung volume.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b14_q7",
+      "text": "Expiration occurs when the intra-pulmonary pressure is:",
+      "options": ["Lower than atmospheric pressure", "Higher than atmospheric pressure", "Equal to atmospheric pressure", "Zero"],
+      "correctIndex": 1,
+      "explanation": "Air moves out of the lungs when pressure inside the lungs is greater than the outside atmospheric pressure.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b14_q8",
+      "text": "Which of the following helps in increasing the strength of inspiration and expiration?",
+      "options": ["Abdominal muscles", "Cardiac muscles", "Skeletal muscles of limbs", "Smooth muscles of stomach"],
+      "correctIndex": 0,
+      "explanation": "Humans have the ability to increase the strength of breathing using additional muscles in the abdomen.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b14_q9",
+      "text": "The volume of air inspired or expired during a normal respiration is called:",
+      "options": ["Residual Volume", "Tidal Volume", "Inspiratory Reserve Volume", "Vital Capacity"],
+      "correctIndex": 1,
+      "explanation": "Tidal Volume (TV) is approximately 500 mL in a healthy man.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b14_q10",
+      "text": "The volume of air remaining in the lungs even after a forcible expiration is:",
+      "options": ["Tidal Volume", "Expiratory Reserve Volume", "Residual Volume", "Inspiratory Capacity"],
+      "correctIndex": 2,
+      "explanation": "Residual Volume (RV) averages 1100 mL to 1200 mL and cannot be measured by simple spirometry.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b14_q11",
+      "text": "Vital Capacity (VC) is equal to:",
+      "options": ["TV + IRV", "TV + ERV", "TV + IRV + ERV", "TV + IRV + ERV + RV"],
+      "correctIndex": 2,
+      "explanation": "VC is the maximum volume of air a person can breathe in after a forced expiration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b14_q12",
+      "text": "Partial pressure of oxygen (pO2) in the alveoli is approximately:",
+      "options": ["40 mm Hg", "95 mm Hg", "104 mm Hg", "159 mm Hg"],
+      "correctIndex": 2,
+      "explanation": "The pO2 in alveoli (104 mm Hg) is higher than in deoxygenated blood (40 mm Hg), allowing O2 to diffuse into blood.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b14_q13",
+      "text": "Solubility of CO2 is ________ times higher than that of O2.",
+      "options": ["2-5", "10-15", "20-25", "50-100"],
+      "correctIndex": 2,
+      "explanation": "Due to higher solubility, the amount of CO2 that can diffuse through the membrane is much higher than O2 for the same pressure difference.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b14_q14",
+      "text": "In the blood, the majority of oxygen is transported:",
+      "options": ["As dissolved in plasma", "As bicarbonates", "Bound to hemoglobin", "As carbamino-hemoglobin"],
+      "correctIndex": 2,
+      "explanation": "About 97% of O2 is transported by RBCs as oxyhemoglobin.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b14_q15",
+      "text": "About 70% of CO2 is transported as:",
+      "options": ["Carbamino-hemoglobin", "Bicarbonate ions", "Dissolved in plasma", "Carbonic acid"],
+      "correctIndex": 1,
+      "explanation": "Most CO2 is converted to bicarbonate (HCO3-) in RBCs with the help of the enzyme carbonic anhydrase.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b14_q16",
+      "text": "The Oxygen dissociation curve is ________ in shape.",
+      "options": ["Linear", "Sigmoid", "Hyperbolic", "Parabolic"],
+      "correctIndex": 1,
+      "explanation": "A sigmoid curve is obtained when percentage saturation of hemoglobin with O2 is plotted against the pO2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b14_q17",
+      "text": "Which factor shifts the oxygen dissociation curve to the right?",
+      "options": ["Low pCO2", "High pH", "High pCO2", "Low temperature"],
+      "correctIndex": 2,
+      "explanation": "High pCO2, high H+ concentration (low pH), and high temperature favor the dissociation of oxygen from hemoglobin.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b14_q18",
+      "text": "The respiratory rhythm center is primarily located in the:",
+      "options": ["Pons", "Cerebellum", "Medulla oblongata", "Cerebrum"],
+      "correctIndex": 2,
+      "explanation": "The medulla region of the brain contains the specialized center responsible for the regulation of respiratory rhythm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b14_q19",
+      "text": "The pneumotaxic center, which can moderate the functions of the respiratory rhythm center, is in the:",
+      "options": ["Medulla", "Pons", "Thalamus", "Hypothalamus"],
+      "correctIndex": 1,
+      "explanation": "The pneumotaxic center in the pons can reduce the duration of inspiration and thereby alter the respiratory rate.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b14_q20",
+      "text": "Difficulty in breathing causing wheezing due to inflammation of bronchi and bronchioles is:",
+      "options": ["Emphysema", "Asthma", "Pneumonia", "Occupational Respiratory Disorder"],
+      "correctIndex": 1,
+      "explanation": "Asthma is an allergic reaction resulting in the narrowing and inflammation of the airway.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b14_q21",
+      "text": "A chronic disorder in which alveolar walls are damaged and respiratory surface is decreased is:",
+      "options": ["Asthma", "Bronchitis", "Emphysema", "Silicosis"],
+      "correctIndex": 2,
+      "explanation": "Emphysema is majorly caused by cigarette smoking, leading to loss of elasticity in the alveolar walls.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b14_q22",
+      "text": "Which enzyme catalyzes the formation of carbonic acid from CO2 and water in RBCs?",
+      "options": ["Lipase", "Carbonic anhydrase", "Pepsin", "Trypsin"],
+      "correctIndex": 1,
+      "explanation": "Carbonic anhydrase is found in very high concentration in RBCs and facilitates the CO2 + H2O ⇌ H2CO3 reaction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b14_q23",
+      "text": "The diffusion membrane at the alveoli is made up of how many layers?",
+      "options": ["One", "Two", "Three", "Five"],
+      "correctIndex": 2,
+      "explanation": "The three layers are: thin squamous epithelium of alveoli, endothelium of alveolar capillaries, and the basement substance between them.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b14_q24",
+      "text": "Functional Residual Capacity (FRC) includes:",
+      "options": ["TV + RV", "ERV + RV", "IRV + TV", "VC + RV"],
+      "correctIndex": 1,
+      "explanation": "FRC is the volume of air that will remain in the lungs after a normal expiration.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b14_q25",
+      "text": "Every 100 mL of deoxygenated blood delivers approximately ________ of CO2 to the alveoli.",
+      "options": ["2 mL", "4 mL", "5 mL", "10 mL"],
+      "correctIndex": 1,
+      "explanation": "Under normal physiological conditions, 4 mL of CO2 is released for every 100 mL of blood.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b14_q26",
+      "text": "Every 100 mL of oxygenated blood can deliver around ________ of O2 to the tissues.",
+      "options": ["4 mL", "5 mL", "15 mL", "20 mL"],
+      "correctIndex": 1,
+      "explanation": "Normal oxygenated blood carries about 20 mL of O2 per 100 mL, but only 5 mL is typically released to tissues.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b14_q27",
+      "text": "Occupational Respiratory Disorders like Silicosis are common in which industry?",
+      "options": ["Leather", "Stone breaking and grinding", "Textile", "Auto-mobile"],
+      "correctIndex": 1,
+      "explanation": "Long-term exposure to dust in these industries leads to fibrosis (proliferation of fibrous tissues) and serious lung damage.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b14_q28",
+      "text": "The chemosensitive area adjacent to the rhythm center is highly sensitive to:",
+      "options": ["O2 and H+ ions", "CO2 and H+ ions", "O2 and CO2", "Only O2"],
+      "correctIndex": 1,
+      "explanation": "Increase in CO2 and H+ ions activates this center, which then signals the rhythm center to make adjustments.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b14_q29",
+      "text": "Receptors associated with the aortic arch and carotid artery can also recognize changes in:",
+      "options": ["O2 concentration", "CO2 and H+ concentration", "Blood pressure", "Blood volume"],
+      "correctIndex": 1,
+      "explanation": "These peripheral chemoreceptors primarily respond to CO2 and pH changes, sending signals to the rhythm center.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b14_q30",
+      "text": "The role of oxygen in the regulation of respiratory rhythm is:",
+      "options": ["Very significant", "Quite insignificant", "The primary driver", "Only important at high altitudes"],
+      "correctIndex": 1,
+      "explanation": "The respiratory center is much more sensitive to CO2 levels than to O2 levels under normal conditions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b14_q31",
+      "text": "Pleural fluid found between the two pleural membranes serves to:",
+      "options": ["Increase friction", "Reduce friction on lung surface", "Help in sound production", "Exchange gases"],
+      "correctIndex": 1,
+      "explanation": "Pleural fluid acts as a lubricant, allowing the lungs to slide easily against the thoracic wall during breathing.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b14_q32",
+      "text": "During inspiration, the diaphragm:",
+      "options": ["Relaxes and becomes dome-shaped", "Contracts and flattens", "Remains stationary", "Moves upwards"],
+      "correctIndex": 1,
+      "explanation": "Contraction of the diaphragm increases the volume of the thoracic chamber in the antero-posterior axis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b14_q33",
+      "text": "The conducting part of the respiratory system starts from the external nostrils and ends at the:",
+      "options": ["Alveoli", "Primary bronchi", "Terminal bronchioles", "Trachea"],
+      "correctIndex": 2,
+      "explanation": "The conducting part transports air, clears it of foreign particles, and humidifies it; exchange occurs only in alveoli/ducts.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b14_q34",
+      "text": "A healthy human breathes ________ times per minute.",
+      "options": ["5-10", "12-16", "20-25", "70-75"],
+      "correctIndex": 1,
+      "explanation": "The average resting respiratory rate for an adult is 12 to 16 breaths per minute.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b14_q35",
+      "text": "Carbonic anhydrase is found in:",
+      "options": ["RBCs only", "Plasma only", "Both RBCs and Plasma", "WBCs"],
+      "correctIndex": 2,
+      "explanation": "It is found in very high concentrations in RBCs and in minute quantities in the plasma.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b14_q36",
+      "text": "The binding of oxygen with hemoglobin is primarily related to:",
+      "options": ["pCO2", "pH", "Partial pressure of O2", "Temperature"],
+      "correctIndex": 2,
+      "explanation": "Binding is primarily dependent on pO2; other factors like pCO2 and H+ concentration interfere with it.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b14_q37",
+      "text": "The total volume of air a person can expire after a normal inspiration is:",
+      "options": ["Expiratory Capacity (EC)", "Vital Capacity (VC)", "Inspiratory Capacity (IC)", "Functional Residual Capacity (FRC)"],
+      "correctIndex": 0,
+      "explanation": "EC = TV + ERV.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b14_q38",
+      "text": "Which part of the respiratory system is responsible for the actual diffusion of O2 and CO2?",
+      "options": ["Conducting part", "Exchange part", "Pharynx", "Trachea"],
+      "correctIndex": 1,
+      "explanation": "The exchange part includes the alveoli and their ducts.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b14_q39",
+      "text": "What is the approximate partial pressure of CO2 (pCO2) in deoxygenated blood?",
+      "options": ["40 mm Hg", "45 mm Hg", "95 mm Hg", "104 mm Hg"],
+      "correctIndex": 1,
+      "explanation": "pCO2 is 45 mm Hg in deoxygenated blood and 40 mm Hg in alveoli/oxygenated blood.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b14_q40",
+      "text": "The external intercostal muscles help in increasing the thoracic volume in the ________ axis.",
+      "options": ["Antero-posterior", "Dorso-ventral", "Lateral", "Vertical"],
+      "correctIndex": 1,
+      "explanation": "The diaphragm increases volume in the antero-posterior axis, while intercostals increase it in the dorso-ventral axis.",
+      "frequencyRating": 4
+    }
+  ]
+}

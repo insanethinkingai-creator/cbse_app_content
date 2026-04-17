@@ -1,0 +1,330 @@
+{
+  "id": "g11_eng_ch3",
+  "grade": "11",
+  "subject": "English",
+  "number": "3",
+  "title": "Discovering Tut: the Saga Continues",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_e3_q1",
+      "text": "Who was Tutankhamun?",
+      "options": ["A famous Egyptian architect", "The last heir of a powerful family that ruled Egypt", "A priest of the god Amun", "A modern archaeologist"],
+      "correctIndex": 1,
+      "explanation": "Tutankhamun was a teenage pharaoh who was the last of his royal lineage to rule the Egyptian empire.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e3_q2",
+      "text": "When was Tut's tomb discovered?",
+      "options": ["1902", "1922", "1968", "2005"],
+      "correctIndex": 1,
+      "explanation": "British archaeologist Howard Carter discovered Tut's tomb in 1922 after years of futile searching.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e3_q3",
+      "text": "Who discovered Tutankhamun's tomb?",
+      "options": ["Zahi Hawass", "Howard Carter", "Amenhotep III", "Lord Carnarvon"],
+      "correctIndex": 1,
+      "explanation": "Howard Carter was the British archaeologist who famously found the tomb in the Valley of the Kings.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e3_q4",
+      "text": "What was found in the first of the three nested coffins?",
+      "options": ["A shroud adorned with garlands of willow and olive leaves", "The solid gold funerary mask", "Tut's internal organs", "Only the mummy"],
+      "correctIndex": 0,
+      "explanation": "The first coffin contained a shroud decorated with floral offerings, suggesting a burial in March or April.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e3_q5",
+      "text": "Why was it difficult to remove Tut's body from the coffin?",
+      "options": ["The coffin was too heavy", "The ritual resins had hardened, cementing the body to the bottom", "The body had decomposed completely", "Archaeologists were afraid of the curse"],
+      "correctIndex": 1,
+      "explanation": "The resins used during the burial had solidified, making it impossible to lift the body out without force.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e3_q6",
+      "text": "How did Carter eventually remove the resins?",
+      "options": ["Using boiling water", "Using chisels to cut the body away", "Leaving it in the sun for hours", "Using chemical solvents"],
+      "correctIndex": 1,
+      "explanation": "After failing to melt the resin in the hot sun, Carter's men had to use chisels to separate the mummy from the gold coffin.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e3_q7",
+      "text": "What did an anatomy professor discover about Tut in 1968?",
+      "options": ["He was actually a woman", "His breastbone and front ribs were missing", "He was over 7 feet tall", "He died of old age"],
+      "correctIndex": 1,
+      "explanation": "An X-ray taken in 1968 revealed that the king's breastbone and front ribs were missing, pointing towards a possible injury or foul play.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e3_q8",
+      "text": "What was the purpose of the CT scan performed in 2005?",
+      "options": ["To find more treasure", "To create a 3D image and solve the mystery of his death", "To identify his parents", "To move the body to a new museum"],
+      "correctIndex": 1,
+      "explanation": "The CT scan aimed to provide precise data for a forensic reconstruction and investigate how he died.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e3_q9",
+      "text": "Which god was the 'King of the Gods' that Amenhotep IV attacked?",
+      "options": ["Ra", "Osiris", "Amun", "Aten"],
+      "correctIndex": 2,
+      "explanation": "Amenhotep IV (Akhenaten) shocked Egypt by attacking the major god Amun, smashing his images and closing his temples.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e3_q10",
+      "text": "What name did Amenhotep IV change his to?",
+      "options": ["Tutankhamun", "Akhenaten", "Smenkhkare", "Horemheb"],
+      "correctIndex": 1,
+      "explanation": "He changed his name to Akhenaten, meaning 'servant of the Aten' (the sun disk).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e3_q11",
+      "text": "Tutankhamun changed his name from Tutankhaten to show his devotion to:",
+      "options": ["Aten", "Amun", "Osiris", "Anubis"],
+      "correctIndex": 1,
+      "explanation": "Tutankhamun means 'Living Image of Amun', signifying the restoration of the old ways.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e3_q12",
+      "text": "What was the 'Pharaoh's Curse' mentioned in the chapter?",
+      "options": ["Death or misfortune to those who disturb him", "Eternal life to those who find him", "A hidden trap in the tomb", "The disappearance of the gold"],
+      "correctIndex": 0,
+      "explanation": "The curse warned that death or misfortune would fall upon those who disturbed the pharaoh's rest.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e3_q13",
+      "text": "How many years after his death was Tut's body scanned?",
+      "options": ["80 years", "Over 3,300 years", "500 years", "1,000 years"],
+      "correctIndex": 1,
+      "explanation": "Tut died more than 3,300 years ago, and his body was scanned in 2005.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e3_q14",
+      "text": "Who is Zahi Hawass?",
+      "options": ["A famous pharaoh", "The Secretary General of Egypt's Supreme Council of Antiquities", "Carter's assistant", "The person who funded the excavation"],
+      "correctIndex": 1,
+      "explanation": "Zahi Hawass was the prominent Egyptian archaeologist overseeing the CT scan of King Tut.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e3_q15",
+      "text": "What happened to the CT scanner during the process?",
+      "options": ["It was stolen", "It stopped working because of sand in a cooler fan", "It caught fire", "It worked perfectly"],
+      "correctIndex": 1,
+      "explanation": "The scan was interrupted when the machine's fan failed due to sand, which a guard jokingly called 'the pharaoh's curse'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e3_q16",
+      "text": "Which constellation was known as the soul of Osiris by ancient Egyptians?",
+      "options": ["Ursa Major", "Orion", "The Big Dipper", "Scorpio"],
+      "correctIndex": 1,
+      "explanation": "Orion, the constellation the Egyptians believed was the soul of Osiris (god of the afterlife), stood above the tomb.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e3_q17",
+      "text": "The burial chamber was located how deep underground?",
+      "options": ["10 feet", "26 feet", "50 feet", "100 feet"],
+      "correctIndex": 1,
+      "explanation": "The rock-cut tomb was 26 feet underground.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e3_q18",
+      "text": "Tut died when he was a:",
+      "options": ["Toddler", "Teenager", "Middle-aged man", "Elderly king"],
+      "correctIndex": 1,
+      "explanation": "Tutankhamun was a teenager when he died, after ruling for about nine years.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e3_q19",
+      "text": "Akhenaten moved the religious capital from Thebes to:",
+      "options": ["Cairo", "Luxor", "Akhetaten", "Alexandria"],
+      "correctIndex": 2,
+      "explanation": "Akhenaten moved the capital to the new city of Akhetaten, now known as Amarna.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e3_q20",
+      "text": "What was the 'scientific' reason the CT scan was considered successful?",
+      "options": ["It found a new chamber", "It proved he was murdered", "It showed the body was still intact and revealed no current danger", "It found the missing heart"],
+      "correctIndex": 2,
+      "explanation": "The scan showed that despite the rough handling by Carter, the mummy was stable and provided great detail of its structure.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e3_q21",
+      "text": "Tut ruled for about:",
+      "options": ["2 years", "9 years", "20 years", "40 years"],
+      "correctIndex": 1,
+      "explanation": "Tutankhamun ascended the throne as a child and ruled for approximately nine years before his sudden death.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e3_q22",
+      "text": "The pharaohs were buried with 'everyday things' because:",
+      "options": ["They were poor", "They believed they could take them to the afterlife", "To save space in the palace", "They were gifts from the people"],
+      "correctIndex": 1,
+      "explanation": "Egyptians believed in a materialistic afterlife and provided kings with everything they might need.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e3_q23",
+      "text": "What is 'forensic reconstruction'?",
+      "options": ["Building a new tomb", "Creating a face/body from data to see what a person looked like", "Cleaning an old mummy", "Writing a history book"],
+      "correctIndex": 1,
+      "explanation": "Using CT data, scientists can create a realistic image of how the person appeared in life.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e3_q24",
+      "text": "Who was the father or grandfather of Tutankhamun?",
+      "options": ["Howard Carter", "Amenhotep III", "Akhenaten", "Smenkhkare"],
+      "correctIndex": 1,
+      "explanation": "Amenhotep III was a powerful pharaoh who ruled for almost four decades and was Tut's direct ancestor.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e3_q25",
+      "text": "The discovery of Tut's tomb was sensational because:",
+      "options": ["It was the first one found", "It was remarkably intact despite previous looters", "It contained a map of the world", "It was found in the middle of a city"],
+      "correctIndex": 1,
+      "explanation": "Most royal tombs had been looted, but Tut's remained the most complete royal collection ever found.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e3_q26",
+      "text": "Aten is the:",
+      "options": ["Moon God", "Sun Disk", "God of Death", "God of the Nile"],
+      "correctIndex": 1,
+      "explanation": "Akhenaten promoted the worship of the Aten, the sun disk, above all other gods.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e3_q27",
+      "text": "The murals in Tut's burial chamber showed:",
+      "options": ["Battle scenes", "Tut's journey into the afterlife with Osiris", "The building of pyramids", "Daily life in the palace"],
+      "correctIndex": 1,
+      "explanation": "The paintings on the walls depicted the pharaoh's transition to the world of the dead.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e3_q28",
+      "text": "What is a 'sarcophagus'?",
+      "options": ["A crown", "A stone coffin", "A temple", "A royal scroll"],
+      "correctIndex": 1,
+      "explanation": "A sarcophagus is the outer stone container used to hold the nested coffins.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e3_q29",
+      "text": "What was the reaction of the tourists at the tomb?",
+      "options": ["They were laughing", "They were silent and respectful, some fearing the curse", "They were dancing", "They were shouting for more gold"],
+      "correctIndex": 1,
+      "explanation": "Tourists from around the world gazed at the murals in a somber, respectful silence.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e3_q30",
+      "text": "Tutankhamun was restored the 'old ways' by:",
+      "options": ["Banning the Aten", "Reopening Amun's temples and bringing back the priests", "Building more pyramids", "Leaving Egypt"],
+      "correctIndex": 1,
+      "explanation": "He oversaw a restoration of the traditional religion that Akhenaten had abolished.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e3_q31",
+      "text": "The CT scan created how many digital X-ray images in cross section?",
+      "options": ["100", "500", "1,700", "10,000"],
+      "correctIndex": 2,
+      "explanation": "The scan produced 1,700 high-resolution images to capture every detail of the mummy.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e3_q32",
+      "text": "How did the Egyptian public view the CT scan?",
+      "options": ["With total indifference", "With great interest and some anxiety about disturbing the dead", "As a waste of money", "As a tourist attraction"],
+      "correctIndex": 1,
+      "explanation": "The scanning of a national icon like King Tut was a major event followed by the public.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e3_q33",
+      "text": "The 'Valley of the Kings' is located near:",
+      "options": ["Cairo", "Thebes", "Alexandria", "Giza"],
+      "correctIndex": 1,
+      "explanation": "It was the burial site for pharaohs and powerful nobles of the New Kingdom.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e3_q34",
+      "text": "Akhenaten was considered 'wacky' because:",
+      "options": ["He was very funny", "He made sudden and extreme changes to religion and culture", "He lost all his battles", "He lived in a tent"],
+      "correctIndex": 1,
+      "explanation": "His religious revolution was seen as a period of strange, destabilizing change for Egypt.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e3_q35",
+      "text": "What was Tut buried with to help him in the afterlife?",
+      "options": ["Board games, bronze razors, and food/wine", "Only gold", "His family", "Modern tools"],
+      "correctIndex": 0,
+      "explanation": "He was buried with luxury items as well as everyday essentials.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e3_q36",
+      "text": "Carter's investigation was criticized because:",
+      "options": ["He stole the gold", "He damaged the mummy significantly while removing it", "He found the wrong tomb", "He took too long"],
+      "correctIndex": 1,
+      "explanation": "Archaeologists today criticize Carter for his unscientific and destructive methods of extracting the body.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e3_q37",
+      "text": "Amenhotep III's son was:",
+      "options": ["Tutankhamun", "Amenhotep IV", "Horemheb", "Ramses"],
+      "correctIndex": 1,
+      "explanation": "Amenhotep IV succeeded his father and later became Akhenaten.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e3_q38",
+      "text": "The CT scan revealed a 'grey head' and 'neck vertebrae' that were:",
+      "options": ["Missing", "Broken into pieces", "As clear as in an anatomy class", "Completely flat"],
+      "correctIndex": 2,
+      "explanation": "The scan produced surprisingly clear and detailed images of the skeletal structure.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e3_q39",
+      "text": "Who funded Howard Carter's search for Tut's tomb?",
+      "options": ["The British Museum", "The Egyptian Government", "Lord Carnarvon", "Howard Carter himself"],
+      "correctIndex": 2,
+      "explanation": "Lord Carnarvon was the wealthy Englishman who financed the archaeological expeditions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e3_q40",
+      "text": "The main theme of 'Discovering Tut' is:",
+      "options": ["The history of gold mining", "The use of modern technology to solve historical mysteries", "The biography of Howard Carter", "The geography of the Nile"],
+      "correctIndex": 1,
+      "explanation": "The chapter highlights how archaeology has shifted from treasure hunting to using forensic science and technology to understand history.",
+      "frequencyRating": 5
+    }
+  ]
+}

@@ -8,50 +8,322 @@
   "questions": [
     {
       "id": "g11_b10_q1",
-      "text": "Which phase of the cell cycle consists of DNA replication?",
-      "options": ["G1 phase", "S phase", "G2 phase", "M phase"],
-      "correctIndex": 1,
-      "explanation": "DNA replication occurs during the S phase of interphase.",
+      "text": "The phase between two successive M phases is called:",
+      "options": ["Prophase", "Anaphase", "Interphase", "Telophase"],
+      "correctIndex": 2,
+      "explanation": "Interphase is the 'resting' phase where the cell prepares for division by growing and replicating DNA.",
       "frequencyRating": 5
     },
     {
       "id": "g11_b10_q2",
-      "text": "Mitosis produces: ",
-      "options": ["Two identical daughter cells", "Four gametes", "A single cell", "Two genetically different cells"],
-      "correctIndex": 0,
-      "explanation": "Mitosis creates two genetically identical daughter cells.",
+      "text": "DNA replication occurs during which phase of the cell cycle?",
+      "options": ["G1 phase", "S phase", "G2 phase", "M phase"],
+      "correctIndex": 1,
+      "explanation": "The Synthesis (S) phase is where DNA is duplicated.",
       "frequencyRating": 5
     },
     {
       "id": "g11_b10_q3",
-      "text": "Crossing over occurs during: ",
-      "options": ["Prophase I of meiosis", "Metaphase of mitosis", "Anaphase II of meiosis", "Telophase of mitosis"],
-      "correctIndex": 0,
-      "explanation": "Homologous chromosomes exchange segments during prophase I.",
+      "text": "During which stage of mitosis do chromosomes align at the equatorial plate?",
+      "options": ["Prophase", "Metaphase", "Anaphase", "Telophase"],
+      "correctIndex": 1,
+      "explanation": "Metaphase is characterized by all chromosomes coming to lie at the equator.",
       "frequencyRating": 5
     },
     {
       "id": "g11_b10_q4",
-      "text": "Meiosis reduces chromosome number by: ",
-      "options": ["Half", "Double", "One", "Zero"],
-      "correctIndex": 0,
-      "explanation": "Meiosis produces haploid cells from a diploid parent.",
+      "text": "The stage of mitosis where centromeres split and chromatids move to opposite poles is:",
+      "options": ["Prophase", "Metaphase", "Anaphase", "Telophase"],
+      "correctIndex": 2,
+      "explanation": "In Anaphase, sister chromatids separate and move towards opposite poles.",
       "frequencyRating": 5
     },
     {
       "id": "g11_b10_q5",
-      "text": "The final physical separation of daughter cells is called: ",
-      "options": ["Cytokinesis", "Karyokinesis", "Metaphase", "Telophase"],
-      "correctIndex": 0,
-      "explanation": "Cytokinesis divides the cytoplasm and completes cell division.",
-      "frequencyRating": 4
+      "text": "Crossing over occurs during which stage of Meiosis?",
+      "options": ["Leptotene", "Zygotene", "Pachytene", "Diplotene"],
+      "correctIndex": 2,
+      "explanation": "Pachytene is the stage of Prophase I where exchange of genetic material happens.",
+      "frequencyRating": 5
     },
     {
       "id": "g11_b10_q6",
-      "text": "Which phase follows G2 in the cell cycle?",
-      "options": ["G1", "S", "M", "G0"],
+      "text": "The division of the cytoplasm is known as:",
+      "options": ["Karyokinesis", "Cytokinesis", "Mitosis", "Meiosis"],
+      "correctIndex": 1,
+      "explanation": "Cytokinesis follows nuclear division (karyokinesis) to complete cell division.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b10_q7",
+      "text": "In animal cells, cytokinesis involves the formation of a:",
+      "options": ["Cell plate", "Furrow", "Spindle", "Centriole"],
+      "correctIndex": 1,
+      "explanation": "Animal cells divide by the formation of a furrow in the plasma membrane.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b10_q8",
+      "text": "The pairing of homologous chromosomes is called:",
+      "options": ["Crossing over", "Synapsis", "Chiasmata", "Disjunction"],
+      "correctIndex": 1,
+      "explanation": "Synapsis occurs during the Zygotene stage of Prophase I.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b10_q9",
+      "text": "Cells that do not divide further exit G1 phase and enter an inactive stage called:",
+      "options": ["S phase", "G2 phase", "G0 phase", "M phase"],
       "correctIndex": 2,
-      "explanation": "After G2, the cell enters M phase where mitosis occurs.",
+      "explanation": "The G0 phase is the quiescent stage where cells remain metabolically active but do not proliferate.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b10_q10",
+      "text": "How many mitotic divisions are needed to produce 128 cells from a single cell?",
+      "options": ["7", "14", "64", "127"],
+      "correctIndex": 0,
+      "explanation": "2^n = 128, so n = 7 divisions.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b10_q11",
+      "text": "In plants, cytokinesis starts from the center and moves outwards, involving the formation of a:",
+      "options": ["Furrow", "Cell plate", "Spindle", "Cleavage"],
+      "correctIndex": 1,
+      "explanation": "The cell plate is formed by the fusion of vesicles from the Golgi apparatus.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b10_q12",
+      "text": "Synaptonemal complex dissolves during:",
+      "options": ["Zygotene", "Pachytene", "Diplotene", "Diakinesis"],
+      "correctIndex": 2,
+      "explanation": "The dissolution of the synaptonemal complex marks the beginning of Diplotene.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b10_q13",
+      "text": "X-shaped structures seen in Prophase I of meiosis are:",
+      "options": ["Centromeres", "Centrioles", "Chiasmata", "Chromatids"],
+      "correctIndex": 2,
+      "explanation": "Chiasmata are the visible sites of crossing over.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b10_q14",
+      "text": "Mitosis is also called 'equational division' because:",
+      "options": ["It produces four cells", "Chromosome number remains the same", "Chromosome number is halved", "It occurs in germ cells"],
+      "correctIndex": 1,
+      "explanation": "The daughter cells have the same number of chromosomes as the parent cell.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b10_q15",
+      "text": "The nuclear envelope reappears during:",
+      "options": ["Prophase", "Metaphase", "Anaphase", "Telophase"],
+      "correctIndex": 3,
+      "explanation": "Telophase is essentially the reverse of prophase.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b10_q16",
+      "text": "Centriole duplication occurs during:",
+      "options": ["G1 phase", "S phase", "G2 phase", "M phase"],
+      "correctIndex": 1,
+      "explanation": "Centrioles duplicate in the cytoplasm during the S phase, while DNA duplicates in the nucleus.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b10_q17",
+      "text": "Meiosis results in the production of:",
+      "options": ["Two diploid cells", "Two haploid cells", "Four haploid cells", "Four diploid cells"],
+      "correctIndex": 2,
+      "explanation": "Meiosis reduces chromosome number by half and produces four daughter cells.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b10_q18",
+      "text": "The correct sequence of stages in Prophase I is:",
+      "options": ["Leptotene-Zygotene-Pachytene-Diplotene-Diakinesis", "Zygotene-Leptotene-Pachytene-Diplotene-Diakinesis", "Leptotene-Zygotene-Diplotene-Pachytene-Diakinesis", "Leptotene-Pachytene-Zygotene-Diplotene-Diakinesis"],
+      "correctIndex": 0,
+      "explanation": "L-Z-P-D-D is the standard chronological order.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b10_q19",
+      "text": "Chromosome morphology (shape, size) is best studied during:",
+      "options": ["Prophase", "Metaphase", "Anaphase", "Telophase"],
+      "correctIndex": 1,
+      "explanation": "Chromosomes are most condensed and clearly visible at the equatorial plate in Metaphase.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b10_q20",
+      "text": "Small disc-shaped structures at the surface of centromeres are:",
+      "options": ["Chromomeres", "Kinetochores", "Centrosomes", "Telomeres"],
+      "correctIndex": 1,
+      "explanation": "Kinetochores serve as the attachment sites for spindle fibers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b10_q21",
+      "text": "Meiosis II is similar to:",
+      "options": ["Meiosis I", "Mitosis", "Amitosis", "Interphase"],
+      "correctIndex": 1,
+      "explanation": "Meiosis II is an equational division where sister chromatids separate, like mitosis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b10_q22",
+      "text": "If a cell has 24 chromosomes, after meiosis I it will have ______ chromosomes.",
+      "options": ["48", "24", "12", "6"],
+      "correctIndex": 2,
+      "explanation": "Meiosis I is a reductional division.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b10_q23",
+      "text": "The stage between Meiosis I and Meiosis II is called:",
+      "options": ["Interphase", "Interkinesis", "S phase", "Quiescent stage"],
+      "correctIndex": 1,
+      "explanation": "Interkinesis is generally short-lived and there is no DNA replication.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b10_q24",
+      "text": "Recombination nodules appear during:",
+      "options": ["Zygotene", "Pachytene", "Diplotene", "Diakinesis"],
+      "correctIndex": 1,
+      "explanation": "These are the sites where crossing over occurs between non-sister chromatids.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b10_q25",
+      "text": "Terminallisation of chiasmata occurs in:",
+      "options": ["Pachytene", "Diplotene", "Diakinesis", "Metaphase I"],
+      "correctIndex": 2,
+      "explanation": "In Diakinesis, the chiasmata shift towards the ends of the chromosomes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b10_q26",
+      "text": "What is the significance of mitosis?",
+      "options": ["Growth", "Repair", "Maintaining genetic stability", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Mitosis ensures identical cells for growth, tissue repair, and replacing dead cells.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b10_q27",
+      "text": "Colchicine, a drug, arrests mitosis at:",
+      "options": ["Prophase", "Metaphase", "Anaphase", "Telophase"],
+      "correctIndex": 1,
+      "explanation": "It inhibits spindle formation, trapping chromosomes at the metaphase plate.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b10_q28",
+      "text": "In human beings, the duration of the cell cycle is approximately:",
+      "options": ["24 minutes", "24 hours", "90 minutes", "10 hours"],
+      "correctIndex": 1,
+      "explanation": "Most mammalian cells divide once every 24 hours.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b10_q29",
+      "text": "The cell cycle of Yeast takes about:",
+      "options": ["24 hours", "20 minutes", "90 minutes", "60 minutes"],
+      "correctIndex": 2,
+      "explanation": "Yeast has a relatively rapid cell cycle compared to humans.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b10_q30",
+      "text": "What happens in G2 phase?",
+      "options": ["DNA duplication", "Protein synthesis for mitosis", "Chromatid separation", "Synapsis"],
+      "correctIndex": 1,
+      "explanation": "Proteins like tubulin are synthesized during G2 to prepare for the M phase.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b10_q31",
+      "text": "Karyokinesis refers to:",
+      "options": ["Division of cytoplasm", "Division of nucleus", "Cell wall formation", "DNA replication"],
+      "correctIndex": 1,
+      "explanation": "Standard nuclear division phase of mitosis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b10_q32",
+      "text": "Disappearance of nucleolus and nuclear membrane starts in:",
+      "options": ["Early Prophase", "Late Prophase", "Metaphase", "Anaphase"],
+      "correctIndex": 1,
+      "explanation": "By the end of prophase, these organelles are no longer visible.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b10_q33",
+      "text": "Bivalents or tetrads are formed during:",
+      "options": ["Zygotene", "Pachytene", "Diplotene", "Diakinesis"],
+      "correctIndex": 0,
+      "explanation": "Pairing of homologous chromosomes forms bivalents.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b10_q34",
+      "text": "Centromere is the part of chromosome where ______ are attached.",
+      "options": ["Nucleoli", "Spindle fibers", "Centrioles", "Ribosomes"],
+      "correctIndex": 1,
+      "explanation": "Specifically at the kinetochore region of the centromere.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b10_q35",
+      "text": "Meiosis I is called reductional division because:",
+      "options": ["Cytoplasm is reduced", "Chromosome number is halved", "Cell size is reduced", "Time is reduced"],
+      "correctIndex": 1,
+      "explanation": "It reduces the cell from diploid (2n) to haploid (n).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b10_q36",
+      "text": "Significance of meiosis is:",
+      "options": ["Increasing genetic variability", "Maintaining chromosome number across generations", "Production of gametes", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Meiosis creates new combinations through crossing over and ensures fertilization returns the organism to diploidy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b10_q37",
+      "text": "Syncytium is formed when:",
+      "options": ["Karyokinesis is not followed by cytokinesis", "Cytokinesis occurs before karyokinesis", "DNA replication fails", "Cells fuse together"],
+      "correctIndex": 0,
+      "explanation": "Liquid endosperm in coconut is a common example of a multinucleate syncytium.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b10_q38",
+      "text": "Homologous chromosomes separate, but sister chromatids remain associated at their centromeres during:",
+      "options": ["Anaphase I", "Anaphase II", "Metaphase I", "Metaphase II"],
+      "correctIndex": 0,
+      "explanation": "This is a key difference between Meiosis I and Mitosis/Meiosis II.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b10_q39",
+      "text": "The amount of DNA (C) doubles in S phase, but ______ remains the same.",
+      "options": ["Cell volume", "Chromosome number (2n)", "Nuclear size", "Protein content"],
+      "correctIndex": 1,
+      "explanation": "Even though DNA content becomes 4C from 2C, chromosome number does not increase.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b10_q40",
+      "text": "Which stage marks the end of meiosis I?",
+      "options": ["Anaphase I", "Telophase I", "Cytokinesis I", "Prophase II"],
+      "correctIndex": 1,
+      "explanation": "Telophase I is followed by a short stage called interkinesis before meiosis II begins.",
       "frequencyRating": 4
     }
   ]

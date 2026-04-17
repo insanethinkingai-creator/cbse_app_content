@@ -1,0 +1,330 @@
+{
+  "id": "g11_eng_ch6",
+  "grade": "11",
+  "subject": "English",
+  "number": "6",
+  "title": "The Browning Version",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_e6_q1",
+      "text": "Who is the author of the play 'The Browning Version'?",
+      "options": ["Terence Rattigan", "William Wordsworth", "Walt Whitman", "Khushwant Singh"],
+      "correctIndex": 0,
+      "explanation": "Terence Rattigan is a famous British playwright known for this psychological drama.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e6_q2",
+      "text": "Taplow is a boy of which age?",
+      "options": ["Twelve", "Fourteen", "Sixteen", "Eighteen"],
+      "correctIndex": 2,
+      "explanation": "Taplow is a sixteen-year-old student in the lower fifth form.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e6_q3",
+      "text": "Why was Taplow at school on the last day of the term?",
+      "options": ["To play cricket", "To attend a party", "To do extra work", "To collect his results"],
+      "correctIndex": 2,
+      "explanation": "He was called by Mr. Crocker-Harris to perform extra work because he missed a day due to illness.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e6_q4",
+      "text": "Who is Frank in the play?",
+      "options": ["A senior teacher", "A student", "A young science teacher", "Taplow's father"],
+      "correctIndex": 2,
+      "explanation": "Frank is a young schoolmaster who teaches science.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e6_q5",
+      "text": "What is the name of the 'extra work' Taplow is doing?",
+      "options": ["Physics", "The Agamemnon", "The Odyssey", "Mathematics"],
+      "correctIndex": 1,
+      "explanation": "He is translating the Greek tragedy 'The Agamemnon' by Aeschylus.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e6_q6",
+      "text": "How does Taplow describe Mr. Crocker-Harris?",
+      "options": ["A sadist", "Hardly human", "Shrivelled up like a nut", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Taplow uses these various descriptions to convey his master's cold and unemotional nature.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e6_q7",
+      "text": "What does Taplow say about Mr. Crocker-Harris's reaction to being liked?",
+      "options": ["He enjoys it", "He hates being liked", "He doesn't care", "He is very friendly"],
+      "correctIndex": 1,
+      "explanation": "Taplow observes that Crocker-Harris seems to shrivel up even more if he thinks someone likes him.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e6_q8",
+      "text": "What is 'The Browning Version' actually referring to in the context of the full play?",
+      "options": ["A translation of a Greek play", "A type of punishment", "A science experiment", "A school trophy"],
+      "correctIndex": 0,
+      "explanation": "It refers to Robert Browning's translation of 'The Agamemnon'.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e6_q9",
+      "text": "Which subject does Taplow prefer?",
+      "options": ["Classics", "Literature", "Science", "History"],
+      "correctIndex": 2,
+      "explanation": "Taplow tells Frank he is interested in Science rather than 'muck' like the Agamemnon.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e6_q10",
+      "text": "What does Frank envy about Mr. Crocker-Harris?",
+      "options": ["His knowledge", "His wife", "The effect he has on students", "His salary"],
+      "correctIndex": 2,
+      "explanation": "Frank is envious of the 'extraordinary' fear/respect students have for Crocker-Harris.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e6_q11",
+      "text": "Who is Millie?",
+      "options": ["Taplow's sister", "A fellow student", "Mr. Crocker-Harris's wife", "The school principal"],
+      "correctIndex": 2,
+      "explanation": "Millie Crocker-Harris is the wife of the strict schoolmaster.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e6_q12",
+      "text": "What is the 'remove' mentioned in the text?",
+      "options": ["A punishment", "A school form or grade", "An exit exam", "A physical education class"],
+      "correctIndex": 1,
+      "explanation": "In British schools, a 'remove' is a division or form in the school system.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e6_q13",
+      "text": "Why did Millie tell Taplow to go to the chemist?",
+      "options": ["He was sick", "To get away from waiting", "To buy her perfume", "To find his master"],
+      "correctIndex": 1,
+      "explanation": "She gives him a prescription to take to the chemist to release him from the anxiety of waiting for her husband.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e6_q14",
+      "text": "Does Mr. Crocker-Harris beat the students?",
+      "options": ["Yes, frequently", "No, he is not a sadist", "Only Taplow", "The play doesn't say"],
+      "correctIndex": 1,
+      "explanation": "Taplow clarifies that though he is strict, he is not a 'sadist' who gets pleasure from pain.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e6_q15",
+      "text": "What happened when Crocker-Harris made a joke in class?",
+      "options": ["Everyone laughed", "Only Taplow laughed out of politeness", "Everyone was silent", "The Principal entered"],
+      "correctIndex": 1,
+      "explanation": "Taplow laughed even though he didn't understand the Latin joke, just to be polite.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e6_q16",
+      "text": "What does Taplow do when Millie arrives?",
+      "options": ["He runs away", "He is terrified she heard him", "He ignores her", "He asks for his results"],
+      "correctIndex": 1,
+      "explanation": "Taplow is frightened that she might have heard him imitating her husband.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e6_q17",
+      "text": "Where had Mr. Crocker-Harris gone?",
+      "options": ["To the hospital", "To the Bursar's", "To the library", "To London"],
+      "correctIndex": 1,
+      "explanation": "Millie mentions that her husband is at the Bursar's and might be there some time.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e6_q18",
+      "text": "The play is set in a:",
+      "options": ["Home", "Schoolroom", "Park", "Hospital"],
+      "correctIndex": 1,
+      "explanation": "The scene takes place in a schoolroom where Taplow is waiting.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e6_q19",
+      "text": "What does Frank suggest Taplow should do since the master is late?",
+      "options": ["Go home", "Play golf", "Do science experiments", "Read a comic"],
+      "correctIndex": 1,
+      "explanation": "Frank suggestively tells him to go and play golf, though Taplow is too scared to do so.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e6_q20",
+      "text": "Mr. Crocker-Harris is also known as:",
+      "options": ["The Crock", "The Boss", "Old Harris", "The Master"],
+      "correctIndex": 0,
+      "explanation": "The students refer to him by the nickname 'The Crock'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e6_q21",
+      "text": "How does Taplow imitate Crocker-Harris?",
+      "options": ["With a high pitch", "In a very gentle voice", "In a thin, slow, high-pitched voice", "By shouting"],
+      "correctIndex": 2,
+      "explanation": "Taplow tries to mimic the peculiar, cold tone of his teacher.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e6_q22",
+      "text": "What is the main theme of the play excerpt?",
+      "options": ["Student-teacher relationship", "Greek Mythology", "Science vs Arts", "Family drama"],
+      "correctIndex": 0,
+      "explanation": "The play explores the complex emotions students feel toward different types of teachers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e6_q23",
+      "text": "Taplow says Crocker-Harris has no _______ inside him.",
+      "options": ["Blood", "Feelings", "Brain", "Knowledge"],
+      "correctIndex": 1,
+      "explanation": "He feels that the teacher is devoid of human emotions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e6_q24",
+      "text": "What was Millie carrying when she entered?",
+      "options": ["Books", "A shopping basket", "A cane", "A school bag"],
+      "correctIndex": 1,
+      "explanation": "She enters with a shopping basket, having just come from outside.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e6_q25",
+      "text": "Why does Taplow still like 'The Crock' despite everything?",
+      "options": ["He gives good marks", "He is funny", "Because he is fair and unique", "He doesn't like him"],
+      "correctIndex": 2,
+      "explanation": "Taplow admits that despite his coldness, he can't help liking him.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e6_q26",
+      "text": "What does Crocker-Harris tell Taplow about his results?",
+      "options": ["He passed", "He failed", "He got exactly what he deserved", "Nothing"],
+      "correctIndex": 2,
+      "explanation": "The master says he has given him exactly what he merits—no less and certainly no more.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e6_q27",
+      "text": "Frank's attitude towards Taplow's imitation is:",
+      "options": ["Angry", "Encouraging", "Disgusted", "Bored"],
+      "correctIndex": 1,
+      "explanation": "Frank seems to enjoy the gossip and encourages Taplow to repeat the imitation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e6_q28",
+      "text": "What does Taplow call the Greek play?",
+      "options": ["Masterpiece", "Muck", "Easy", "Boring"],
+      "correctIndex": 1,
+      "explanation": "He calls it 'muck' because of the way it is taught and the focus on grammar.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e6_q29",
+      "text": "Millie is described as being ________ than her husband.",
+      "options": ["Older", "Smarter", "More smartly dressed", "Angrier"],
+      "correctIndex": 2,
+      "explanation": "She is described as a thin woman in her late thirties who was more smartly dressed than the average schoolmaster's wife.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e6_q30",
+      "text": "Taplow's future depends on:",
+      "options": ["His science project", "His remove", "His cricket skills", "Millie's help"],
+      "correctIndex": 1,
+      "explanation": "He is waiting to hear if he has been promoted to the next form (his 'remove').",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e6_q31",
+      "text": "Crocker-Harris is leaving the school to:",
+      "options": ["Retire", "Join another school", "Become a writer", "Study further"],
+      "correctIndex": 1,
+      "explanation": "He is leaving the school at the end of the term.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e6_q32",
+      "text": "What is Frank's reaction to Taplow saying he wants to take Science?",
+      "options": ["Happy", "He says they get the 'slackers'", "He says it's too hard", "He is proud"],
+      "correctIndex": 1,
+      "explanation": "Frank jokingly comments that the science department gets all the 'slackers'.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e6_q33",
+      "text": "Who says: 'I believe the Agamemnon's a masterpiece'?",
+      "options": ["Frank", "Taplow", "Millie", "Terence Rattigan"],
+      "correctIndex": 0,
+      "explanation": "Frank admits the play itself is good, even if Taplow doesn't like it.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g11_e6_q34",
+      "text": "How many characters appear on stage in this excerpt?",
+      "options": ["Two", "Three", "Four", "Five"],
+      "correctIndex": 1,
+      "explanation": "Taplow, Frank, and Millie appear. Mr. Crocker-Harris is discussed but does not appear in this scene.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e6_q35",
+      "text": "What is the tone of the play?",
+      "options": ["Comic", "Serious/Emotional", "Satirical", "Horror"],
+      "correctIndex": 1,
+      "explanation": "It is a serious play focused on human character and relationships.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e6_q36",
+      "text": "Taplow's reaction to the prospect of his master having feelings is:",
+      "options": ["Joy", "Skepticism/Fear", "Anger", "Boredom"],
+      "correctIndex": 1,
+      "explanation": "He finds the idea of the cold master having emotions quite disturbing.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e6_q37",
+      "text": "Mr. Crocker-Harris was specialized in which subject?",
+      "options": ["Physics", "Classics", "Biology", "History"],
+      "correctIndex": 1,
+      "explanation": "He is a Classics master (Latin/Greek).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e6_q38",
+      "text": "What was the result of Taplow's illness?",
+      "options": ["He was expelled", "He had to do extra work", "He failed the exam", "He left the school"],
+      "correctIndex": 1,
+      "explanation": "Missing one day due to illness resulted in him being called for extra work on the last day.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e6_q39",
+      "text": "The phrase 'cut' means to:",
+      "options": ["Injure oneself", "Leave early without permission", "Stop talking", "Sharpen a pencil"],
+      "correctIndex": 1,
+      "explanation": "In school slang, to 'cut' means to skip a class or session.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e6_q40",
+      "text": "Does Taplow go to the chemist in the end?",
+      "options": ["Yes", "No", "He waits for the master", "He goes to play golf instead"],
+      "correctIndex": 0,
+      "explanation": "He accepts Millie's suggestion and leaves to run the errand.",
+      "frequencyRating": 5
+    }
+  ]
+}

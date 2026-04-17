@@ -1,0 +1,330 @@
+{
+  "id": "g11_bio_ch19",
+  "grade": "11",
+  "subject": "Biology",
+  "number": "19",
+  "title": "Chemical Coordination and Integration",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_b19_q1",
+      "text": "Hormones are non-nutrient chemicals which act as:",
+      "options": ["Enzymes", "Intercellular messengers", "Structural components", "Energy sources"],
+      "correctIndex": 1,
+      "explanation": "Hormones are produced in trace amounts and communicate between different organs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q2",
+      "text": "The hypothalamus is the basal part of the:",
+      "options": ["Midbrain", "Diencephalon (Forebrain)", "Hindbrain", "Cerebellum"],
+      "correctIndex": 1,
+      "explanation": "It contains groups of neurosecretory cells called nuclei which produce hormones.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q3",
+      "text": "Which hormone is NOT produced by the anterior pituitary?",
+      "options": ["Growth hormone (GH)", "Prolactin (PRL)", "Oxytocin", "Thyroid stimulating hormone (TSH)"],
+      "correctIndex": 2,
+      "explanation": "Oxytocin and Vasopressin are synthesized by the hypothalamus and released by the posterior pituitary.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q4",
+      "text": "Gigantism and Dwarfism are related to the over-secretion and under-secretion of:",
+      "options": ["Thyroxine", "GH", "ACTH", "ADH"],
+      "correctIndex": 1,
+      "explanation": "Growth Hormone imbalance affects the stature of an individual.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q5",
+      "text": "The hormone that stimulates the growth of mammary glands and formation of milk is:",
+      "options": ["Oxytocin", "Prolactin", "Luteinizing hormone", "Progesterone"],
+      "correctIndex": 1,
+      "explanation": "Prolactin regulates the growth of the mammary glands and milk production.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q6",
+      "text": "In females, LH (Luteinizing Hormone) induces:",
+      "options": ["Growth of follicles", "Ovulation", "Menstruation", "Dwarfism"],
+      "correctIndex": 1,
+      "explanation": "LH triggers ovulation of fully mature follicles and maintains the corpus luteum.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q7",
+      "text": "Vasopressin (ADH) acts mainly at the kidney and stimulates:",
+      "options": ["Water and electrolyte reabsorption", "Excretion of water", "Glucose reabsorption", "Urea formation"],
+      "correctIndex": 0,
+      "explanation": "It reduces water loss through urine (diuresis).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q8",
+      "text": "The pineal gland secretes a hormone called ________ which regulates the 24-hour diurnal rhythm.",
+      "options": ["Melanin", "Melatonin", "Insulin", "Serotonin"],
+      "correctIndex": 1,
+      "explanation": "Melatonin helps in maintaining the sleep-wake cycle and body temperature.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q9",
+      "text": "Which element is essential for the normal rate of hormone synthesis in the thyroid?",
+      "options": ["Iron", "Calcium", "Iodine", "Potassium"],
+      "correctIndex": 2,
+      "explanation": "Iodine deficiency leads to goitre (enlargement of the thyroid gland).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q10",
+      "text": "Exophthalmic goitre is a form of:",
+      "options": ["Hypothyroidism", "Hyperthyroidism", "Hypoparathyroidism", "Hyperpituitarism"],
+      "correctIndex": 1,
+      "explanation": "Also called Graves' disease, it is an autoimmune disorder leading to overproduction of thyroid hormones.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q11",
+      "text": "Parathyroid hormone (PTH) increases ________ levels in the blood.",
+      "options": ["Sodium", "Potassium", "Calcium", "Glucose"],
+      "correctIndex": 2,
+      "explanation": "PTH is a hypercalcemic hormone; it stimulates bone resorption to release calcium into blood.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q12",
+      "text": "The 'Throne of Immunity' or the gland that plays a major role in the development of the immune system is:",
+      "options": ["Thyroid", "Thymus", "Adrenal", "Pancreas"],
+      "correctIndex": 1,
+      "explanation": "Thymus secretes thymosins which help in the differentiation of T-lymphocytes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q13",
+      "text": "Adrenaline and Noradrenaline are commonly called:",
+      "options": ["Growth hormones", "Emergency hormones (Catecholamines)", "Steroids", "Pheromones"],
+      "correctIndex": 1,
+      "explanation": "They are secreted in response to stress or emergency (fight or flight).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q14",
+      "text": "Glucocorticoids, like cortisol, are involved in:",
+      "options": ["Water balance", "Carbohydrate metabolism", "Calcium levels", "Melanin synthesis"],
+      "correctIndex": 1,
+      "explanation": "Cortisol stimulates gluconeogenesis and is also an anti-inflammatory agent.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q15",
+      "text": "The main mineralocorticoid in our body is:",
+      "options": ["Cortisol", "Aldosterone", "Adrenaline", "Testosterone"],
+      "correctIndex": 1,
+      "explanation": "Aldosterone regulates the balance of water and electrolytes in our body.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q16",
+      "text": "Islets of Langerhans are found in the:",
+      "options": ["Liver", "Pancreas", "Spleen", "Kidney"],
+      "correctIndex": 1,
+      "explanation": "The pancreas is a composite gland (both exocrine and endocrine).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q17",
+      "text": "Alpha cells and Beta cells of the pancreas secrete ________ and ________ respectively.",
+      "options": ["Insulin, Glucagon", "Glucagon, Insulin", "Somatostatin, Insulin", "Glucagon, ACTH"],
+      "correctIndex": 1,
+      "explanation": "Glucagon increases blood sugar, while insulin decreases it.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q18",
+      "text": "Diabetes mellitus is characterized by:",
+      "options": ["Hypoglycemia", "Hyperglycemia", "Hypocalcemia", "Hyperkalemia"],
+      "correctIndex": 1,
+      "explanation": "Prolonged hyperglycemia leads to glucose loss in urine and ketone body formation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q19",
+      "text": "Leydig cells (interstitial cells) produce a group of hormones called:",
+      "options": ["Estrogens", "Androgens", "Progestogens", "Catecholamines"],
+      "correctIndex": 1,
+      "explanation": "The main androgen is testosterone, responsible for male secondary sexual characteristics.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q20",
+      "text": "Which hormone is known as the 'Pregnancy hormone'?",
+      "options": ["Estrogen", "Progesterone", "LH", "FSH"],
+      "correctIndex": 1,
+      "explanation": "Progesterone supports pregnancy and acts on mammary glands to stimulate milk secretion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q21",
+      "text": "The hormone erythropoietin, which stimulates RBC formation, is produced by:",
+      "options": ["Bone marrow", "Juxtaglomerular cells of kidney", "Liver", "Spleen"],
+      "correctIndex": 1,
+      "explanation": "Kidneys have an endocrine function in regulating red blood cell production.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b19_q22",
+      "text": "Atrial Natriuretic Factor (ANF) is secreted by the heart to:",
+      "options": ["Increase blood pressure", "Decrease blood pressure", "Increase heart rate", "Stimulate digestion"],
+      "correctIndex": 1,
+      "explanation": "ANF causes vasodilation to lower blood pressure.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q23",
+      "text": "Hormones like Insulin and Glucagon are chemically:",
+      "options": ["Steroids", "Peptides/Proteins", "Iodothyronines", "Amino-acid derivatives"],
+      "correctIndex": 1,
+      "explanation": "Most pancreatic and pituitary hormones are proteinaceous.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q24",
+      "text": "Second messengers like cAMP or IP3 are typically used by ________ hormones.",
+      "options": ["Steroid", "Water-soluble (Protein)", "Lipid-soluble", "Thyroid"],
+      "correctIndex": 1,
+      "explanation": "Protein hormones cannot enter the target cell, so they interact with membrane receptors and use second messengers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q25",
+      "text": "Steroid hormones regulate gene expression by interacting with:",
+      "options": ["Membrane receptors", "Intracellular receptors", "Blood proteins", "Ribosomes"],
+      "correctIndex": 1,
+      "explanation": "Steroids are lipid-soluble and can cross the cell membrane to bind with receptors in the cytoplasm or nucleus.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q26",
+      "text": "Which of the following is an amino-acid derivative hormone?",
+      "options": ["Epinephrine", "Estradiol", "Progesterone", "Insulin"],
+      "correctIndex": 0,
+      "explanation": "Epinephrine (Adrenaline) is derived from the amino acid tyrosine.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b19_q27",
+      "text": "CCK (Cholecystokinin) acts on:",
+      "options": ["Stomach", "Pancreas and Gall bladder", "Liver", "Kidney"],
+      "correctIndex": 1,
+      "explanation": "It stimulates secretion of pancreatic enzymes and bile juice.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b19_q28",
+      "text": "Addison's disease is caused by the underproduction of hormones from the:",
+      "options": ["Thyroid", "Adrenal cortex", "Pituitary", "Pancreas"],
+      "correctIndex": 1,
+      "explanation": "It leads to altered carbohydrate metabolism and acute weakness.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q29",
+      "text": "Which hormone causes the contraction of smooth muscles of the uterus during childbirth?",
+      "options": ["Vasopressin", "Oxytocin", "Prolactin", "Relaxin"],
+      "correctIndex": 1,
+      "explanation": "Oxytocin is often called the 'birth hormone'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q30",
+      "text": "The pituitary gland is located in a bony cavity called:",
+      "options": ["Foramen magnum", "Sella turcica", "Acetabulum", "Glenoid cavity"],
+      "correctIndex": 1,
+      "explanation": "Sella turcica is a depression in the sphenoid bone of the skull.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q31",
+      "text": "MSH (Melanocyte Stimulating Hormone) acts on melanocytes to regulate:",
+      "options": ["Sleep", "Pigmentation of skin", "Growth", "Blood pressure"],
+      "correctIndex": 1,
+      "explanation": "It is secreted by the pars intermedia of the pituitary.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b19_q32",
+      "text": "Thyrocalcitonin (TCT) secreted by the thyroid gland:",
+      "options": ["Increases blood calcium", "Decreases blood calcium", "Increases blood glucose", "Decreases blood glucose"],
+      "correctIndex": 1,
+      "explanation": "TCT is a hypocalcemic hormone, acting opposite to PTH.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b19_q33",
+      "text": "Cretinism is caused by ________ during pregnancy.",
+      "options": ["Hyperthyroidism", "Hypothyroidism", "Hyperpituitarism", "Diabetes"],
+      "correctIndex": 1,
+      "explanation": "It leads to stunted growth and mental retardation in the child.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q34",
+      "text": "The part of the adrenal gland that secretes Adrenaline is the:",
+      "options": ["Cortex", "Medulla", "Capsule", "Zona glomerulosa"],
+      "correctIndex": 1,
+      "explanation": "The adrenal medulla produces catecholamines.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q35",
+      "text": "Glucagon is a ________ hormone.",
+      "options": ["Hypoglycemic", "Hyperglycemic", "Hypocalcemic", "Hypercalcemic"],
+      "correctIndex": 1,
+      "explanation": "It stimulates glycogenolysis and gluconeogenesis to increase blood sugar.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q36",
+      "text": "Which gland regresses (disappears) with age in humans?",
+      "options": ["Pituitary", "Thyroid", "Thymus", "Adrenal"],
+      "correctIndex": 2,
+      "explanation": "This is why immune responses of old persons become weak.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q37",
+      "text": "Testes are located in the:",
+      "options": ["Abdominal cavity", "Scrotal sac", "Pelvic cavity", "Thoracic cavity"],
+      "correctIndex": 1,
+      "explanation": "The scrotum maintains a lower temperature necessary for spermatogenesis.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b19_q38",
+      "text": "Ovaries produce which of the following?",
+      "options": ["Estrogen and Progesterone", "Testosterone", "Insulin", "Aldosterone"],
+      "correctIndex": 0,
+      "explanation": "They are the primary female sex organs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q39",
+      "text": "The 'master gland' of the endocrine system is usually considered the ________, although it is controlled by the hypothalamus.",
+      "options": ["Thyroid", "Pituitary", "Adrenal", "Pancreas"],
+      "correctIndex": 1,
+      "explanation": "It regulates many other endocrine glands.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b19_q40",
+      "text": "Hypoglycemia is a condition of:",
+      "options": ["High blood sugar", "Low blood sugar", "High blood pressure", "Low blood pressure"],
+      "correctIndex": 1,
+      "explanation": "Excessive insulin or insufficient glucagon can lead to this state.",
+      "frequencyRating": 3
+    }
+  ]
+}

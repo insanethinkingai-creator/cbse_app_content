@@ -8,113 +8,323 @@
   "questions": [
     {
       "id": "g11_m6_q1",
-      "text": "The value of 5! is:",
-      "options": ["20", "60", "120", "24"],
+      "text": "The Fundamental Principle of Multiplication states that if an event can occur in 'm' ways and another in 'n' ways, the total number of ways both can occur is:",
+      "options": ["m + n", "m - n", "m × n", "m / n"],
       "correctIndex": 2,
-      "explanation": "5! = 5 * 4 * 3 * 2 * 1 = 120.",
+      "explanation": "If events are independent and sequential, the total ways is the product of individual ways.",
       "frequencyRating": 5
     },
     {
       "id": "g11_m6_q2",
-      "text": "The number of ways to arrange n distinct objects is:",
-      "options": ["n", "n²", "n!", "2n"],
-      "correctIndex": 2,
-      "explanation": "Permutation of n objects taken all at a time.",
+      "text": "How many 3-digit numbers can be formed from the digits 1, 2, 3, 4, 5 if repetition of digits is allowed?",
+      "options": ["60", "125", "120", "15"],
+      "correctIndex": 1,
+      "explanation": "Each of the 3 places can be filled in 5 ways. Total = 5 × 5 × 5 = 125.",
       "frequencyRating": 5
     },
     {
       "id": "g11_m6_q3",
-      "text": "The value of 0! is defined as:",
-      "options": ["0", "1", "Undefined", "Infinity"],
-      "correctIndex": 1,
-      "explanation": "By convention and mathematical consistency, 0! = 1.",
+      "text": "How many 3-digit numbers can be formed from the digits 1, 2, 3, 4, 5 if repetition is NOT allowed?",
+      "options": ["60", "125", "120", "20"],
+      "correctIndex": 0,
+      "explanation": "The places can be filled in 5, 4, and 3 ways respectively. 5 × 4 × 3 = 60.",
       "frequencyRating": 5
     },
     {
       "id": "g11_m6_q4",
-      "text": "The formula for nPr is:",
-      "options": ["n! / r!", "n! / (n-r)!", "n! / r!(n-r)!", "(n-r)!"],
+      "text": "The value of 0! (zero factorial) is:",
+      "options": ["0", "1", "Infinity", "Undefined"],
       "correctIndex": 1,
-      "explanation": "Represents the number of permutations of n objects taken r at a time.",
+      "explanation": "By definition, 0! = 1 to ensure consistency in permutation and combination formulas.",
       "frequencyRating": 5
     },
     {
       "id": "g11_m6_q5",
-      "text": "The formula for nCr is:",
-      "options": ["n! / r!", "n! / (n-r)!", "n! / r!(n-r)!", "nPr * r!"],
-      "correctIndex": 2,
-      "explanation": "Represents the number of combinations (selections) of n objects taken r at a time.",
-      "frequencyRating": 5
+      "text": "Evaluate 7! / 5!",
+      "options": ["2", "42", "12", "35"],
+      "correctIndex": 1,
+      "explanation": "7! / 5! = (7 × 6 × 5!) / 5! = 7 × 6 = 42.",
+      "frequencyRating": 4
     },
     {
       "id": "g11_m6_q6",
-      "text": "The relation between nPr and nCr is:",
-      "options": ["nPr = nCr", "nPr = r! * nCr", "nCr = r! * nPr", "nPr = nCr / r!"],
+      "text": "The formula for nPr (Permutations of n things taken r at a time) is:",
+      "options": ["n! / r!", "n! / (n-r)!", "n! / (r!(n-r)!)", "(n-r)! / n!"],
       "correctIndex": 1,
-      "explanation": "Permutations involve selection AND arrangement (r!).",
+      "explanation": "nPr represents the number of arrangements: n! / (n-r)!.",
       "frequencyRating": 5
     },
     {
       "id": "g11_m6_q7",
-      "text": "The value of ⁿCₙ is:",
-      "options": ["n", "n!", "1", "0"],
+      "text": "In how many ways can the letters of the word 'ROSE' be arranged?",
+      "options": ["4", "12", "24", "16"],
       "correctIndex": 2,
-      "explanation": "There is only 1 way to select all n objects.",
+      "explanation": "There are 4 distinct letters. Number of arrangements = 4! = 4 × 3 × 2 × 1 = 24.",
       "frequencyRating": 5
     },
     {
       "id": "g11_m6_q8",
-      "text": "ⁿCᵣ is equal to:",
-      "options": ["ⁿCₙ₋ᵣ", "ⁿCᵣ₋₁", "ⁿPᵣ", "ⁿCₙ"],
-      "correctIndex": 0,
-      "explanation": "Selecting r objects is equivalent to leaving out (n-r) objects.",
-      "frequencyRating": 5
+      "text": "If nP4 = 12 × nP2, find the value of n (n > 4).",
+      "options": ["4", "5", "6", "8"],
+      "correctIndex": 2,
+      "explanation": "n(n-1)(n-2)(n-3) = 12n(n-1) => (n-2)(n-3) = 12. Solution for n is 6 (4 × 3 = 12).",
+      "frequencyRating": 4
     },
     {
       "id": "g11_m6_q9",
-      "text": "How many 3-digit numbers can be formed from digits 1, 2, 3, 4, 5 if repetition is allowed?",
-      "options": ["60", "125", "15", "10"],
+      "text": "How many 4-digit numbers can be formed using digits 0 to 9 if repetition is not allowed?",
+      "options": ["5040", "4536", "9000", "10000"],
       "correctIndex": 1,
-      "explanation": "5 * 5 * 5 = 125.",
-      "frequencyRating": 5
+      "explanation": "First digit can't be 0 (9 choices), others are 9, 8, 7 choices. 9 × 9 × 8 × 7 = 4536.",
+      "frequencyRating": 4
     },
     {
       "id": "g11_m6_q10",
-      "text": "In how many ways can the letters of word 'APPLE' be arranged?",
+      "text": "The number of arrangements of the letters of the word 'APPLE' is:",
       "options": ["120", "60", "24", "10"],
       "correctIndex": 1,
-      "explanation": "Total 5 letters, 'P' repeated twice: 5! / 2! = 120 / 2 = 60.",
+      "explanation": "Total 5 letters, 'P' repeats twice. 5! / 2! = 120 / 2 = 60.",
       "frequencyRating": 5
     },
-    { "id": "g11_m6_q11", "text": "The value of ¹⁰C₂ is:", "options": ["90", "45", "20", "10"], "correctIndex": 1, "explanation": "(10 * 9) / (2 * 1) = 45.", "frequencyRating": 5 },
-    { "id": "g11_m6_q12", "text": "If ⁿC₈ = ⁿC₂, find n:", "options": ["6", "10", "16", "8"], "correctIndex": 1, "explanation": "ⁿCₓ = ⁿCᵧ implies x+y = n. 8+2 = 10.", "frequencyRating": 5 },
-    { "id": "g11_m6_q13", "text": "Fundamental principle of counting involves:", "options": ["Addition only", "Multiplication and Addition", "Division", "Square roots"], "correctIndex": 1, "explanation": "Product rule for independent tasks, addition rule for mutually exclusive tasks.", "frequencyRating": 5 },
-    { "id": "g11_m6_q14", "text": "Number of circular permutations of n objects is:", "options": ["n!", "(n-1)!", "n", "nPr"], "correctIndex": 1, "explanation": "One position is fixed to break the symmetry.", "frequencyRating": 4 },
-    { "id": "g11_m6_q15", "text": "Value of ⁿC₀ is:", "options": ["0", "1", "n", "n!"], "correctIndex": 1, "explanation": "There is only 1 way to select nothing.", "frequencyRating": 5 },
-    { "id": "g11_m6_q16", "text": "How many ways can 5 people sit in a row?", "options": ["5", "25", "120", "60"], "correctIndex": 2, "explanation": "5! = 120.", "frequencyRating": 5 },
-    { "id": "g11_m6_q17", "text": "The value of 7! / 5! is:", "options": ["42", "2", "12", "35"], "correctIndex": 0, "explanation": "7 * 6 = 42.", "frequencyRating": 5 },
-    { "id": "g11_m6_q18", "text": "Number of diagonals in a decagon (10 sides) is:", "options": ["45", "35", "10", "90"], "correctIndex": 1, "explanation": "ⁿC₂ - n = ¹⁰C₂ - 10 = 45 - 10 = 35.", "frequencyRating": 4 },
-    { "id": "g11_m6_q19", "text": "ⁿCᵣ + ⁿCᵣ₋₁ equals:", "options": ["ⁿ⁺¹Cᵣ", "ⁿ⁺¹Cᵣ₋₁", "ⁿCᵣ₊₁", "²ⁿCᵣ"], "correctIndex": 0, "explanation": "This is Pascal's Identity.", "frequencyRating": 4 },
-    { "id": "g11_m6_q20", "text": "If ⁿP₅ = 42 * ⁿP₃, find n:", "options": ["10", "12", "7", "15"], "correctIndex": 0, "explanation": "n(n-1)(n-2)(n-3)(n-4) = 42 * n(n-1)(n-2) => (n-3)(n-4) = 42 => 7*6=42, so n-3=7 => n=10.", "frequencyRating": 3 },
-    { "id": "g11_m6_q21", "text": "Arrangement of objects where order matters is:", "options": ["Combination", "Permutation", "Factorial", "Set"], "correctIndex": 1, "explanation": "Permutation = Order matters.", "frequencyRating": 5 },
-    { "id": "g11_m6_q22", "text": "Selection of objects where order does NOT matter is:", "options": ["Combination", "Permutation", "Factorial", "Set"], "correctIndex": 0, "explanation": "Combination = Selection only.", "frequencyRating": 5 },
-    { "id": "g11_m6_q23", "text": "Number of ways to arrange letters of word 'MISSISSIPPI':", "options": ["11!", "11! / (4! 4! 2!)", "11! / 4!", "34650"], "correctIndex": 1, "explanation": "11 letters: 4 'I's, 4 'S's, 2 'P's. Formula: n! / (p1! p2! ...).", "frequencyRating": 4 },
-    { "id": "g11_m6_q24", "text": "How many chords can be drawn through 21 points on a circle?", "options": ["42", "210", "21", "441"], "correctIndex": 1, "explanation": "²¹C₂ = (21 * 20) / 2 = 210.", "frequencyRating": 4 },
-    { "id": "g11_m6_q25", "text": "Value of ⁿP₁ is:", "options": ["1", "n", "n!", "0"], "correctIndex": 1, "explanation": "Number of ways to pick 1 object out of n and arrange it.", "frequencyRating": 5 },
-    { "id": "g11_m6_q26", "text": "The number of ways 3 students can be chosen from 10 is:", "options": ["720", "120", "30", "1000"], "correctIndex": 1, "explanation": "¹⁰C₃ = (10 * 9 * 8) / (3 * 2 * 1) = 120.", "frequencyRating": 5 },
-    { "id": "g11_m6_q27", "text": "Factorial is defined for ________ numbers.", "options": ["All real", "Positive integers and zero", "Negative integers", "Rational"], "correctIndex": 1, "explanation": "n! is defined for n ∈ {0, 1, 2, ...}.", "frequencyRating": 4 },
-    { "id": "g11_m6_q28", "text": "How many 4-letter words (with/without meaning) from word 'LOGARITHMS' (no repetition)?", "options": ["5040", "10!", "¹⁰C₄", "40"], "correctIndex": 0, "explanation": "¹⁰P₄ = 10 * 9 * 8 * 7 = 5040.", "frequencyRating": 4 },
-    { "id": "g11_m6_q29", "text": "Number of ways to choose a committee of 3 men and 2 women from 5 men and 4 women:", "options": ["60", "120", "126", "20"], "correctIndex": 0, "explanation": "⁵C₃ * ⁴C₂ = 10 * 6 = 60.", "frequencyRating": 5 },
-    { "id": "g11_m6_q30", "text": "The value of ⁿCᵣ / ⁿCᵣ₋₁ is:", "options": ["(n-r+1)/r", "r/(n-r+1)", "n-r", "1/r"], "correctIndex": 0, "explanation": "Simplification of the factorial formulas.", "frequencyRating": 2 },
-    { "id": "g11_m6_q31", "text": "Ways to arrange 5 different colored beads in a necklace:", "options": ["120", "24", "12", "60"], "correctIndex": 2, "explanation": "Necklaces are circular and can be flipped: (n-1)! / 2 = 4! / 2 = 12.", "frequencyRating": 3 },
-    { "id": "g11_m6_q32", "text": "How many 3-digit even numbers using digits 1 to 9 (no repetition)?", "options": ["504", "224", "280", "84"], "correctIndex": 1, "explanation": "Last digit must be 2, 4, 6, 8 (4 ways). Remaining 2 digits from 8: ⁸P₂ = 56. 4 * 56 = 224.", "frequencyRating": 4 },
-    { "id": "g11_m6_q33", "text": "ⁿPₙ is equal to:", "options": ["1", "n", "n!", "0"], "correctIndex": 2, "explanation": "Arranging all n objects.", "frequencyRating": 5 },
-    { "id": "g11_m6_q34", "text": "Which is greater, ¹⁰C₄ or ¹⁰C₆?", "options": ["¹⁰C₄", "¹⁰C₆", "Both equal", "Depends on n"], "correctIndex": 2, "explanation": "ⁿCᵣ = ⁿCₙ₋ᵣ.", "frequencyRating": 5 },
-    { "id": "g11_m6_q35", "text": "In nCr, r can be greater than n.", "options": ["True", "False", "Always", "None"], "correctIndex": 1, "explanation": "You cannot select more items than available in the set.", "frequencyRating": 4 },
-    { "id": "g11_m6_q36", "text": "How many subsets does a set with 5 elements have?", "options": ["5", "10", "32", "25"], "correctIndex": 2, "explanation": "Total combinations: ⁵C₀+⁵C₁+... = 2⁵ = 32.", "frequencyRating": 4 },
-    { "id": "g11_m6_q37", "text": "Value of ⁿP₀ is:", "options": ["0", "1", "n", "n!"], "correctIndex": 1, "explanation": "Number of ways to arrange 0 objects is 1 (empty arrangement).", "frequencyRating": 4 },
-    { "id": "g11_m6_q38", "text": "How many numbers between 100 and 1000 use digits 0-5 (no repetition)?", "options": ["180", "100", "80", "120"], "correctIndex": 2, "explanation": "100s place: 1-5 (5 ways). 10s place: 5 remaining digits. 1s place: 4 remaining. 5*5*4 = 100. Wait, 5*5*4 = 100. Let's recheck: 1st digit (non-zero) = 5 options. 2nd digit = 5 options. 3rd = 4 options. Total 100.", "frequencyRating": 3 },
-    { "id": "g11_m6_q39", "text": "The product of r consecutive integers is divisible by:", "options": ["r", "r!", "r²", "r^r"], "correctIndex": 1, "explanation": "Property of factorials and binomial coefficients.", "frequencyRating": 2 },
-    { "id": "g11_m6_q40", "text": "Number of ways to select 4 cards of same suit from 52 deck:", "options": ["⁴C₁ * ¹³C₄", "¹³C₄", "52!", "¹³P₄"], "correctIndex": 0, "explanation": "Select 1 suit out of 4, then select 4 cards out of 13 in that suit.", "frequencyRating": 3 }
+    {
+      "id": "g11_m6_q11",
+      "text": "The formula for nCr (Combinations) is:",
+      "options": ["n! / (n-r)!", "n! / (r!(n-r)!)", "r! / n!", "n! / r!"],
+      "correctIndex": 1,
+      "explanation": "nCr represents selection without order: n! / (r!(n-r)!).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m6_q12",
+      "text": "Find the value of 10C3.",
+      "options": ["120", "720", "30", "100"],
+      "correctIndex": 0,
+      "explanation": "10C3 = (10 × 9 × 8) / (3 × 2 × 1) = 720 / 6 = 120.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m6_q13",
+      "text": "The property nCr = nC(n-r) implies that 10C8 is equal to:",
+      "options": ["10C1", "10C2", "10C3", "10C0"],
+      "correctIndex": 1,
+      "explanation": "nCr = nC(n-r). So 10C8 = 10C(10-8) = 10C2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m6_q14",
+      "text": "If nC8 = nC2, then n is:",
+      "options": ["6", "10", "16", "4"],
+      "correctIndex": 1,
+      "explanation": "If nCx = nCy, then x = y or x + y = n. Here 8 + 2 = 10.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m6_q15",
+      "text": "Pascal's Identity for combinations states nCr + nCr-1 = ",
+      "options": ["n+1Cr", "nCr+1", "n+1Cr+1", "n-1Cr"],
+      "correctIndex": 0,
+      "explanation": "This is a fundamental property used in binomial expansions and probability.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m6_q16",
+      "text": "How many chords can be drawn through 21 points on a circle?",
+      "options": ["21", "42", "210", "441"],
+      "correctIndex": 2,
+      "explanation": "A chord needs 2 points. 21C2 = (21 × 20) / 2 = 210.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m6_q17",
+      "text": "A committee of 3 is to be formed from 5 people. In how many ways can this be done?",
+      "options": ["15", "10", "60", "125"],
+      "correctIndex": 1,
+      "explanation": "5C3 = 5C2 = (5 × 4) / 2 = 10.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m6_q18",
+      "text": "The number of ways to arrange n distinct objects in a circle is:",
+      "options": ["n!", "(n-1)!", "n! / 2", "(n-1)! / 2"],
+      "correctIndex": 1,
+      "explanation": "In circular permutations, one position is fixed to break the symmetry.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m6_q19",
+      "text": "How many ways can 5 people be seated around a circular table?",
+      "options": ["120", "24", "60", "5"],
+      "correctIndex": 1,
+      "explanation": "(5 - 1)! = 4! = 24.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m6_q20",
+      "text": "How many diagonals are there in a convex polygon with 10 sides?",
+      "options": ["45", "35", "10", "100"],
+      "correctIndex": 1,
+      "explanation": "Formula: nC2 - n. So, 10C2 - 10 = 45 - 10 = 35.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m6_q21",
+      "text": "The number of arrangements of the letters of the word 'MISSISSIPPI' is calculated by:",
+      "options": ["11!", "11! / (4! 4! 2!)", "11! / (4! 2!)", "11! / (4 × 4 × 2)"],
+      "correctIndex": 1,
+      "explanation": "Total 11 letters: 4 'I's, 4 'S's, 2 'P's. Formula: n! / (p1! p2! ...).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m6_q22",
+      "text": "In a group of 10 people, each person shakes hands with everyone else once. How many handshakes take place?",
+      "options": ["100", "90", "45", "10"],
+      "correctIndex": 2,
+      "explanation": "Each handshake involves 2 people. 10C2 = (10 × 9) / 2 = 45.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m6_q23",
+      "text": "Find the value of 5! - 3!.",
+      "options": ["2", "114", "117", "120"],
+      "correctIndex": 1,
+      "explanation": "120 - 6 = 114.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m6_q24",
+      "text": "If 1/6! + 1/7! = x/8!, then x is:",
+      "options": ["7", "8", "56", "64"],
+      "correctIndex": 3,
+      "explanation": "Multiply by 8!: (8!/6!) + (8!/7!) = x => 56 + 8 = 64.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m6_q25",
+      "text": "In how many ways can 3 books be selected from a shelf of 7 books?",
+      "options": ["35", "210", "21", "128"],
+      "correctIndex": 0,
+      "explanation": "7C3 = (7 × 6 × 5) / (3 × 2 × 1) = 35.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m6_q26",
+      "text": "The total number of ways of selecting at least one item from 'n' distinct items is:",
+      "options": ["n", "2^n", "2^n - 1", "n^2"],
+      "correctIndex": 2,
+      "explanation": "Each item has 2 choices (selected or not). Exclude the case where none are selected.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m6_q27",
+      "text": "How many ways can a team of 11 players be chosen from 15 players?",
+      "options": ["1365", "15", "165", "1000"],
+      "correctIndex": 0,
+      "explanation": "15C11 = 15C4 = (15 × 14 × 13 × 12) / (4 × 3 × 2 × 1) = 1365.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m6_q28",
+      "text": "What is the relation between nPr and nCr?",
+      "options": ["nPr = nCr", "nPr = r! × nCr", "nCr = r! × nPr", "nPr = nCr / r!"],
+      "correctIndex": 1,
+      "explanation": "Arrangement involves selecting (nCr) and then ordering them (r!).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m6_q29",
+      "text": "A bag contains 5 black and 6 red balls. Find the number of ways to determine 2 black and 3 red balls to be selected.",
+      "options": ["200", "30", "11", "200"],
+      "correctIndex": 0,
+      "explanation": "5C2 × 6C3 = 10 × 20 = 200.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m6_q30",
+      "text": "How many 3-digit even numbers can be formed from digits 1, 2, 3, 4, 5, 6 if repetition is not allowed?",
+      "options": ["60", "120", "20", "40"],
+      "correctIndex": 0,
+      "explanation": "Units place: 3 ways (2,4,6). Tens: 5 ways. Hundreds: 4 ways. 3 × 5 × 4 = 60.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m6_q31",
+      "text": "If nC2 = 45, find n.",
+      "options": ["9", "10", "11", "45"],
+      "correctIndex": 1,
+      "explanation": "n(n-1)/2 = 45 => n(n-1) = 90. So n = 10.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m6_q32",
+      "text": "How many permutations are there of the letters of the word 'ALLAHABAD'?",
+      "options": ["7560", "120", "5040", "362880"],
+      "correctIndex": 0,
+      "explanation": "9! / (4! 2!) = 362880 / (24 × 2) = 7560.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m6_q33",
+      "text": "If nC10 = nC12, find 22Cn.",
+      "options": ["22", "1", "0", "484"],
+      "correctIndex": 1,
+      "explanation": "n = 10 + 12 = 22. 22C22 = 1.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m6_q34",
+      "text": "Find the number of ways to arrange the letters of the word 'LEADER' so that vowels always come together.",
+      "options": ["120", "72", "144", "360"],
+      "correctIndex": 1,
+      "explanation": "Vowels (E,A,E). Consonants (L,D,R). Treat (EAE) as one unit. Arrangements: 4!/1! × 3!/2! = 24 × 3 = 72.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m6_q35",
+      "text": "The number of non-zero terms in the expansion of nCr for r > n is:",
+      "options": ["Infinite", "n", "0", "1"],
+      "correctIndex": 2,
+      "explanation": "Selection of more items than available is impossible.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g11_m6_q36",
+      "text": "How many 5-digit telephone numbers can be constructed using 0 to 9 if each number starts with 67 and no digit appears more than once?",
+      "options": ["336", "1000", "5040", "120"],
+      "correctIndex": 0,
+      "explanation": "Remaining 3 places to be filled by 8 digits. 8P3 = 8 × 7 × 6 = 336.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m6_q37",
+      "text": "Value of nCn is:",
+      "options": ["0", "1", "n", "n!"],
+      "correctIndex": 1,
+      "explanation": "Selecting all items can be done in only 1 way.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m6_q38",
+      "text": "The number of ways to arrange the letters of 'BEEKEEPER' is:",
+      "options": ["9!", "9!/5!", "9!/(5! 2!)", "120"],
+      "correctIndex": 1,
+      "explanation": "Total 9 letters, 'E' appears 5 times. 9! / 5!.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m6_q39",
+      "text": "In how many ways can 4 red, 3 yellow and 2 green discs be arranged in a row if discs of the same colour are indistinguishable?",
+      "options": ["1260", "9!", "504", "100"],
+      "correctIndex": 0,
+      "explanation": "9! / (4! 3! 2!) = 362880 / (24 × 6 × 2) = 1260.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m6_q40",
+      "text": "How many words can be formed by using all the letters of the word 'MONDAY' if no letter is repeated and 4 letters are used at a time?",
+      "options": ["360", "720", "120", "24"],
+      "correctIndex": 0,
+      "explanation": "6P4 = 6 × 5 × 4 × 3 = 360.",
+      "frequencyRating": 5
+    }
   ]
 }

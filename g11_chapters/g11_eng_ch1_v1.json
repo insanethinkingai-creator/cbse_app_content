@@ -1,0 +1,330 @@
+{
+  "id": "g11_eng_ch1",
+  "grade": "11",
+  "subject": "English",
+  "number": "1",
+  "title": "The Portrait of a Lady",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_e1_q1",
+      "text": "Who is the author of 'The Portrait of a Lady'?",
+      "options": ["Khushwant Singh", "Ruskin Bond", "Arundhati Roy", "R.K. Narayan"],
+      "correctIndex": 0,
+      "explanation": "The story is an autobiographical account by Khushwant Singh.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e1_q2",
+      "text": "How did the author describe his grandmother's face?",
+      "options": ["Smooth and youthful", "A criss-cross of wrinkles", "Pale and sickly", "Glowing with health"],
+      "correctIndex": 1,
+      "explanation": "She was old, and her face was covered in wrinkles running from everywhere to everywhere.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e1_q3",
+      "text": "The grandmother always carried a ______ in her hand.",
+      "options": ["Walking stick", "Rosary", "Bible", "Handbag"],
+      "correctIndex": 1,
+      "explanation": "One hand rested on her waist while the other told the beads of her rosary.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e1_q4",
+      "text": "Where did the author's parents leave him when they went to live in the city?",
+      "options": ["With his grandmother", "In a boarding school", "With his aunt", "With his grandfather"],
+      "correctIndex": 0,
+      "explanation": "The author lived with his grandmother in the village while his parents settled in the city.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e1_q5",
+      "text": "What would the grandmother give the author for breakfast in the village?",
+      "options": ["Bread and butter", "Stale chapattis with butter and sugar", "Porridge", "Fresh fruits"],
+      "correctIndex": 1,
+      "explanation": "She would prepare a thick, stale chapatti with a little butter and sugar spread on it.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e1_q6",
+      "text": "Why did the grandmother accompany the author to school in the village?",
+      "options": ["She was his teacher", "The school was attached to the temple", "She wanted to meet the priest", "She didn't trust him"],
+      "correctIndex": 1,
+      "explanation": "She would sit inside the temple reading scriptures while he was in class.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e1_q7",
+      "text": "Who did the grandmother feed on their way back from the village school?",
+      "options": ["Birds", "Stray dogs", "Beggars", "Cats"],
+      "correctIndex": 1,
+      "explanation": "She would throw the stale chapattis to the village dogs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e1_q8",
+      "text": "The turning point in their friendship came when they:",
+      "options": ["Went to the city", "The author grew up", "The grandmother fell ill", "The parents returned"],
+      "correctIndex": 0,
+      "explanation": "Moving to the city changed their routine and limited their interaction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e1_q9",
+      "text": "In the city, the author went to an English school by:",
+      "options": ["Walking", "Motor bus", "Bicycle", "Car"],
+      "correctIndex": 1,
+      "explanation": "He no longer walked with her; he took a motor bus.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e1_q10",
+      "text": "Why was the grandmother distressed by the author's English school education?",
+      "options": ["She hated English", "There was no teaching about God and scriptures", "The school was too far", "She couldn't help with homework"],
+      "correctIndex": 1,
+      "explanation": "She believed education should include spiritual and religious teachings.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e1_q11",
+      "text": "What was the grandmother's opinion on music lessons at the English school?",
+      "options": ["She loved music", "She thought it was for harlots and beggars", "She found it very sophisticated", "She was indifferent"],
+      "correctIndex": 1,
+      "explanation": "She associated music with 'lewd association' and not for 'gentlefolk'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e1_q12",
+      "text": "When the author went to University, the common link of their friendship was:",
+      "options": ["Strengthened", "Snapped", "Unchanged", "Renewed"],
+      "correctIndex": 1,
+      "explanation": "He was given a separate room, and the remaining common link was broken.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e1_q13",
+      "text": "How did the grandmother spend her afternoons in the city?",
+      "options": ["Sleeping", "Feeding the sparrows", "Watching TV", "Visiting neighbors"],
+      "correctIndex": 1,
+      "explanation": "She would sit in the veranda and break bread into little bits for hundreds of little birds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e1_q14",
+      "text": "The 'happiest half-hour of the day' for the grandmother was when she:",
+      "options": ["Prayed", "Fed the sparrows", "Talked to the author", "Spun the wheel"],
+      "correctIndex": 1,
+      "explanation": "Feeding the birds brought her the most joy in her secluded life.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e1_q15",
+      "text": "When the author was going abroad, the grandmother was:",
+      "options": ["Sentimental", "Not even sentimental", "Crying", "Angry"],
+      "correctIndex": 1,
+      "explanation": "She saw him off at the station but showed no emotion, continuing her prayers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e1_q16",
+      "text": "The grandmother's last physical sign of affection for the author at the station was:",
+      "options": ["A hug", "A kiss on his forehead", "A handshake", "Waving"],
+      "correctIndex": 1,
+      "explanation": "She silently kissed his forehead as he left for five years.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e1_q17",
+      "text": "What did the grandmother do to celebrate the author's return from abroad?",
+      "options": ["Cooked a feast", "Collected women from the neighborhood and sang", "Went to the temple", "Threw a party"],
+      "correctIndex": 1,
+      "explanation": "She got an old drum and sang of the homecoming of warriors for several hours.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e1_q18",
+      "text": "The first time the grandmother forgot to pray was when:",
+      "options": ["She was ill", "The author came home", "She was in the city", "She was feeding birds"],
+      "correctIndex": 1,
+      "explanation": "During the evening of the author's return, she omitted her prayers for the first time.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e1_q19",
+      "text": "The grandmother predicted her end by saying:",
+      "options": ["She was very tired", "Her end was near", "She wanted to sleep", "She was ready to go to the city"],
+      "correctIndex": 1,
+      "explanation": "She realized she was dying because she had missed her prayers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e1_q20",
+      "text": "During her last moments, the grandmother:",
+      "options": ["Talked to everyone", "Lay peacefully in bed praying", "Asked for a doctor", "Cried"],
+      "correctIndex": 1,
+      "explanation": "She refused to talk and spent her last moments telling the beads of her rosary.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e1_q21",
+      "text": "How did the family know the grandmother was dead?",
+      "options": ["She stopped breathing", "The rosary fell from her lifeless fingers", "The doctor told them", "She closed her eyes"],
+      "correctIndex": 1,
+      "explanation": "Her lips stopped moving and the rosary fell, marking her passing.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e1_q22",
+      "text": "How did the sparrows react to the grandmother's death?",
+      "options": ["They chirped loudly", "They sat scattered on the floor in silence", "They flew away immediately", "They ate the bread crumbs"],
+      "correctIndex": 1,
+      "explanation": "Thousands of sparrows sat in the veranda but did not chirp or eat.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e1_q23",
+      "text": "What did the sparrows do when the grandmother's corpse was carried off?",
+      "options": ["Followed the procession", "Flew away quietly", "Started chirping", "Stayed in the veranda"],
+      "correctIndex": 1,
+      "explanation": "They flew away quietly, showing they were mourning her death.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e1_q24",
+      "text": "The author's grandmother was like the 'winter landscape in the mountains' because of her:",
+      "options": ["Cold nature", "Serene and calm appearance in white", "Harsh behavior", "Love for snow"],
+      "correctIndex": 1,
+      "explanation": "She was an expanse of pure white serenity, breathing peace and contentment.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e1_q25",
+      "text": "What was the author's grandfather wearing in the portrait?",
+      "options": ["A suit", "A big turban and loose-fitting clothes", "A uniform", "A sweater"],
+      "correctIndex": 1,
+      "explanation": "His portrait showed him with a long white beard and a big turban.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e1_q26",
+      "text": "The author thought the idea of his grandmother being young and pretty was:",
+      "options": ["Very likely", "Almost revolting", "Fascinating", "Impossible"],
+      "correctIndex": 1,
+      "explanation": "He could only imagine her as old and wrinkled, never young.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e1_q27",
+      "text": "The grandmother used to wake the author up and get him ready for:",
+      "options": ["The temple", "School", "Breakfast", "The market"],
+      "correctIndex": 1,
+      "explanation": "She prepared him for village school and sang her morning prayers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e1_q28",
+      "text": "Why did the author listen to the grandmother's morning prayers?",
+      "options": ["To learn them", "Because he loved her voice", "He was forced to", "He found them interesting"],
+      "correctIndex": 1,
+      "explanation": "He loved her voice but never bothered to learn the words.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e1_q29",
+      "text": "What did the grandmother use to plaster the author's wooden slate?",
+      "options": ["Paint", "Yellow chalk", "Clay", "Ink"],
+      "correctIndex": 1,
+      "explanation": "She used yellow chalk to prepare his slate for the day.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e1_q30",
+      "text": "The village school priest taught the children the alphabet and the:",
+      "options": ["Math", "Morning prayer", "Science", "History"],
+      "correctIndex": 1,
+      "explanation": "The children sat in rows in the veranda and sang the prayer in a chorus.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e1_q31",
+      "text": "How many years was the author abroad for his studies?",
+      "options": ["2 years", "3 years", "5 years", "10 years"],
+      "correctIndex": 2,
+      "explanation": "He was abroad for five years for higher studies.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e1_q32",
+      "text": "When the grandmother died, the sweepers swept the bread crumbs into the:",
+      "options": ["Bin", "Dustbin", "Garden", "Veranda"],
+      "correctIndex": 1,
+      "explanation": "The sparrows ignored the crumbs, and the sweeper swept them into the dustbin the next morning.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e1_q33",
+      "text": "The grandmother's silver locks were scattered ______ over her pale face.",
+      "options": ["Neatly", "Untidily", "Rarely", "Firmly"],
+      "correctIndex": 1,
+      "explanation": "Her white hair (silver locks) was untidily scattered on her face.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e1_q34",
+      "text": "In the city, the grandmother sat by her ______ from sunrise to sunset.",
+      "options": ["Window", "Spinning wheel", "Bed", "Temple"],
+      "correctIndex": 1,
+      "explanation": "She spent most of her time spinning and reciting prayers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e1_q35",
+      "text": "What did the grandmother do when she stopped the music celebration?",
+      "options": ["She went to sleep", "She fell ill with a mild fever", "She went to the temple", "She talked to the author"],
+      "correctIndex": 1,
+      "explanation": "The next morning she was taken ill with a mild fever after overstraining herself.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e1_q36",
+      "text": "According to the grandmother, music was the monopoly of:",
+      "options": ["Gentlefolk", "Harlots and beggars", "Musicians", "Teachers"],
+      "correctIndex": 1,
+      "explanation": "She had strong traditional views on what music was intended for.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e1_q37",
+      "text": "The author's parents were successfully ______ in the city.",
+      "options": ["Employed", "Settled", "Studying", "Traveling"],
+      "correctIndex": 1,
+      "explanation": "They called for the author and grandmother once they were settled.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e1_q38",
+      "text": "The sparrows took no notice of the ______ thrown by the author's mother.",
+      "options": ["Grains", "Bread", "Water", "Seeds"],
+      "correctIndex": 1,
+      "explanation": "They were mourning the grandmother and didn't touch the bread crumbs.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e1_q39",
+      "text": "The grandmother was always hobbling about the house in ______ white.",
+      "options": ["Pure", "Spotless", "Dull", "Bright"],
+      "correctIndex": 1,
+      "explanation": "She wore spotless white clothes, adding to her serene appearance.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e1_q40",
+      "text": "How did the grandmother feel when she couldn't help the author with his city school lessons?",
+      "options": ["Happy", "Angry", "Unhappy", "Indifferent"],
+      "correctIndex": 2,
+      "explanation": "She was unhappy that she could not help him with things like English and Western Science.",
+      "frequencyRating": 4
+    }
+  ]
+}
