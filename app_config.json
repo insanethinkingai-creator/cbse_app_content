@@ -3,11 +3,10 @@
     "enabled": true,
     "androidBannerId": "ca-app-pub-9317713735100349/3567819923",
     "iosBannerId": "ca-app-pub-3940256099942544/2934735716",
-    "androidRewardedId": "ca-app-pub-9317713735100349/8998163438",
+    "androidRewardedId": "ca-app-pub-9317713735100349/6216074119",
     "iosRewardedId": "ca-app-pub-3940256099942544/1712485313",
     "androidInterstitialId": "ca-app-pub-9317713735100349/2274919551",
     "iosInterstitialId": "ca-app-pub-3940256099942544/1033173712"
-
   },
   "webAds": {
     "enabled": true,

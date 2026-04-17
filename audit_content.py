@@ -41,9 +41,11 @@ def audit_grade(grade_num, expected_structure):
         for i in range(1, count + 1):
             # Look for versioned filename pattern: gX_{prefix}_ch{i}_v1.json
             expected_name = f"g{grade_num}_{prefix}_ch{i}_v1.json"
+            print(f"  expected: {expected_name}", end="\r")
             if expected_name in actual_files:
                 found_in_subject += 1
                 file_path = os.path.join(chapters_dir, expected_name)
+                print(f"  Checking: {expected_name}", end="\r")
                 with open(file_path, 'r', encoding='utf-8') as f:
                     data = json.load(f)
                     q_count = len(data.get("questions", []))
