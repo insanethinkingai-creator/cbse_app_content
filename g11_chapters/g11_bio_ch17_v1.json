@@ -3,55 +3,327 @@
   "grade": "11",
   "subject": "Biology",
   "number": "17",
-  "title": "Breathing and Exchange of Gases",
+  "title": "Locomotion and Movement",
   "version": "v1",
   "questions": [
     {
       "id": "g11_b17_q1",
-      "text": "Where does gas exchange take place in human lungs?",
-      "options": ["Bronchi", "Alveoli", "Trachea", "Nose"],
-      "correctIndex": 1,
-      "explanation": "Alveoli are tiny sacs where oxygen and carbon dioxide are exchanged.",
+      "text": "Streaming of protoplasm in Unicellular organisms like Amoeba is a form of:",
+      "options": ["Ciliary movement", "Flagellar movement", "Amoeboid movement", "Muscular movement"],
+      "correctIndex": 2,
+      "explanation": "Amoeboid movement is achieved by pseudopodia formed by the streaming of protoplasm.",
       "frequencyRating": 5
     },
     {
       "id": "g11_b17_q2",
-      "text": "Which muscle contracts during inhalation?",
-      "options": ["Intercostal muscles", "Diaphragm", "Abdominal muscles", "Pectoral muscles"],
+      "text": "Which of the following cells in the human body exhibit amoeboid movement?",
+      "options": ["Erythrocytes", "Macrophages and Leucocytes", "Nerve cells", "Muscle cells"],
       "correctIndex": 1,
-      "explanation": "The diaphragm moves downwards to expand the chest cavity during inhalation.",
+      "explanation": "Some specialized cells like macrophages in blood help in defense via amoeboid movement.",
       "frequencyRating": 5
     },
     {
       "id": "g11_b17_q3",
-      "text": "Oxygen is transported in blood mainly by: ",
-      "options": ["Plasma", "Platelets", "White blood cells", "Hemoglobin"],
-      "correctIndex": 3,
-      "explanation": "Hemoglobin in red blood cells binds oxygen for transport.",
+      "text": "Ciliary movement is seen in the human body in:",
+      "options": ["Urethra", "Trachea and Fallopian tubes", "Large intestine", "Ear canal"],
+      "correctIndex": 1,
+      "explanation": "Cilia help in removing dust particles from the trachea and in moving the ova through the fallopian tubes.",
       "frequencyRating": 5
     },
     {
       "id": "g11_b17_q4",
-      "text": "External respiration refers to gas exchange between: ",
-      "options": ["Blood and tissue cells", "Air and blood", "Food and blood", "Water and air"],
+      "text": "What percentage of body weight of an adult human is contributed by muscles?",
+      "options": ["20-30%", "40-50%", "60-70%", "10-20%"],
       "correctIndex": 1,
-      "explanation": "External respiration occurs at the alveoli between air and blood.",
+      "explanation": "Muscles are a major part of the human body mass, making up nearly half of the weight.",
       "frequencyRating": 4
     },
     {
       "id": "g11_b17_q5",
-      "text": "The respiratory rhythm centre is located in the: ",
-      "options": ["Cerebellum", "Medulla oblongata", "Spinal cord", "Cerebrum"],
-      "correctIndex": 1,
-      "explanation": "The medulla oblongata controls breathing rate and depth.",
+      "text": "Skeletal muscles are also called ________ muscles because of their appearance under the microscope.",
+      "options": ["Smooth", "Visceral", "Striated", "Cardiac"],
+      "correctIndex": 2,
+      "explanation": "They show alternating light and dark bands (striations).",
       "frequencyRating": 5
     },
     {
       "id": "g11_b17_q6",
-      "text": "The respiratory quotient is the ratio of: ",
-      "options": ["CO2 produced to O2 consumed", "O2 consumed to CO2 produced", "Inhaled to exhaled air", "Lung volume to surface area"],
+      "text": "The plasma membrane of a muscle fiber is called the:",
+      "options": ["Sarcoplasm", "Sarcolemma", "Sarcoplasmic reticulum", "Sarcomere"],
+      "correctIndex": 1,
+      "explanation": "The sarcolemma encloses the sarcoplasm of the muscle fiber.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q7",
+      "text": "The functional unit of contraction in a muscle fiber is the:",
+      "options": ["Myofibril", "A-band", "Sarcomere", "Z-line"],
+      "correctIndex": 2,
+      "explanation": "A sarcomere is the portion of a myofibril between two successive Z-lines.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q8",
+      "text": "The dark band of a sarcomere, containing both actin and myosin, is the:",
+      "options": ["I-band", "H-zone", "A-band", "Z-line"],
+      "correctIndex": 2,
+      "explanation": "The A-band (Anisotropic) contains the entire length of the thick (myosin) filament.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q9",
+      "text": "Thin filaments of a muscle fiber are composed of which protein?",
+      "options": ["Myosin", "Actin", "Collagen", "Hemoglobin"],
+      "correctIndex": 1,
+      "explanation": "Thin filaments are made of Actin, along with regulatory proteins Troponin and Tropomyosin.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q10",
+      "text": "The 'H-zone' in the center of the A-band consists of:",
+      "options": ["Only actin", "Only myosin", "Both actin and myosin", "Neither actin nor myosin"],
+      "correctIndex": 1,
+      "explanation": "The H-zone is the central part of the thick filament not overlapped by thin filaments.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q11",
+      "text": "Each myosin filament is a polymerized protein made of monomeric units called:",
+      "options": ["G-actin", "F-actin", "Meromyosins", "Troponin"],
+      "correctIndex": 2,
+      "explanation": "Meromyosins have two parts: Heavy Meromyosin (HMM) and Light Meromyosin (LMM).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q12",
+      "text": "Which protein masks the active binding sites for myosin on the actin filaments in a resting state?",
+      "options": ["Tropomyosin", "Troponin", "Myosin", "Alpha-actinin"],
+      "correctIndex": 1,
+      "explanation": "Troponin is a complex protein that blocks the myosin binding sites on actin.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q13",
+      "text": "The mechanism of muscle contraction is best explained by the:",
+      "options": ["Lock and Key hypothesis", "Sliding filament theory", "Relativity theory", "Fluid mosaic model"],
+      "correctIndex": 1,
+      "explanation": "This theory states that contraction occurs by the sliding of thin filaments over the thick filaments.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q14",
+      "text": "Which ion binds to troponin to initiate muscle contraction?",
+      "options": ["Sodium (Na+)", "Potassium (K+)", "Calcium (Ca++)", "Magnesium (Mg++)"],
+      "correctIndex": 2,
+      "explanation": "Calcium binding to troponin changes its shape, uncovering the binding sites on actin.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q15",
+      "text": "The energy required for muscle contraction comes from the hydrolysis of:",
+      "options": ["GTP", "ATP", "Glucose", "Creatine"],
+      "correctIndex": 1,
+      "explanation": "The myosin head acts as an ATPase enzyme to hydrolyze ATP.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q16",
+      "text": "Fatigue in muscles occurs due to the accumulation of:",
+      "options": ["Carbon dioxide", "Lactic acid", "Uric acid", "Acetic acid"],
+      "correctIndex": 1,
+      "explanation": "Repeated activation leads to anaerobic breakdown of glycogen, producing lactic acid.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q17",
+      "text": "Red muscle fibers are rich in an oxygen-storing pigment called:",
+      "options": ["Hemoglobin", "Myoglobin", "Cytochrome", "Chlorophyll"],
+      "correctIndex": 1,
+      "explanation": "Myoglobin gives the red appearance and allows these fibers to work aerobically for long periods.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q18",
+      "text": "The total number of bones in an adult human skeletal system is:",
+      "options": ["200", "206", "300", "212"],
+      "correctIndex": 1,
+      "explanation": "The skeletal system is divided into Axial (80 bones) and Appendicular (126 bones).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q19",
+      "text": "Which of the following is NOT part of the axial skeleton?",
+      "options": ["Skull", "Vertebral column", "Pectoral girdle", "Ribs"],
+      "correctIndex": 2,
+      "explanation": "Girdles and limbs form the appendicular skeleton.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q20",
+      "text": "The only movable bone in the human skull is the:",
+      "options": ["Maxilla", "Mandible", "Zygomatic", "Frontal"],
+      "correctIndex": 1,
+      "explanation": "The mandible (lower jaw) is the only bone that moves, facilitating eating and speaking.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b17_q21",
+      "text": "The first vertebra is called the:",
+      "options": ["Axis", "Atlas", "Cervical", "Thoracic"],
+      "correctIndex": 1,
+      "explanation": "The atlas articulates with the occipital condyles of the skull.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q22",
+      "text": "How many pairs of ribs are called 'floating ribs'?",
+      "options": ["2 pairs", "3 pairs", "7 pairs", "5 pairs"],
       "correctIndex": 0,
-      "explanation": "RQ = volume of CO2 released / volume of O2 used.",
+      "explanation": "The 11th and 12th pairs of ribs are not connected ventrally to the sternum.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q23",
+      "text": "The bone of the upper arm is the:",
+      "options": ["Radius", "Ulna", "Humerus", "Femur"],
+      "correctIndex": 2,
+      "explanation": "The humerus articulates with the pectoral girdle at the shoulder.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q24",
+      "text": "The longest and strongest bone in the human body is the:",
+      "options": ["Tibia", "Fibula", "Femur", "Humerus"],
+      "correctIndex": 2,
+      "explanation": "The femur (thigh bone) supports the weight of the body.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q25",
+      "text": "The joint between the atlas and axis is a:",
+      "options": ["Ball and socket joint", "Hinge joint", "Pivot joint", "Gliding joint"],
+      "correctIndex": 2,
+      "explanation": "The pivot joint allows for the rotational movement of the head.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q26",
+      "text": "Which disorder is characterized by inflammation of joints due to accumulation of uric acid crystals?",
+      "options": ["Arthritis", "Osteoporosis", "Gout", "Tetany"],
+      "correctIndex": 2,
+      "explanation": "Gout is a metabolic disorder affecting the joints.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q27",
+      "text": "Osteoporosis is an age-related disease characterized by:",
+      "options": ["High bone mass", "Decreased bone mass and increased fractures", "Inflammation of muscles", "Extra growth of bones"],
+      "correctIndex": 1,
+      "explanation": "Decreased levels of estrogen is a common cause in elderly women.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q28",
+      "text": "The 'Cup-shaped' cavity in the pelvic girdle that articulates with the femur is:",
+      "options": ["Glenoid cavity", "Acetabulum", "Foramen magnum", "Sella turcica"],
+      "correctIndex": 1,
+      "explanation": "The acetabulum is where the three bones of the pelvic girdle meet.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q29",
+      "text": "Sutures in the skull are examples of ________ joints.",
+      "options": ["Fibrous", "Cartilaginous", "Synovial", "Imperfect"],
+      "correctIndex": 0,
+      "explanation": "Fibrous joints do not allow any movement.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q30",
+      "text": "Autoimmune disorder affecting the neuromuscular junction leading to fatigue and paralysis of skeletal muscles is:",
+      "options": ["Muscular dystrophy", "Myasthenia gravis", "Tetany", "Arthritis"],
+      "correctIndex": 1,
+      "explanation": "Myasthenia gravis is a chronic autoimmune disease.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q31",
+      "text": "The U-shaped bone at the base of the buccal cavity is:",
+      "options": ["Mandible", "Hyoid", "Ethmoid", "Stapes"],
+      "correctIndex": 1,
+      "explanation": "The hyoid bone does not articulate with any other bone.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b17_q32",
+      "text": "Number of cervical vertebrae in almost all mammals is:",
+      "options": ["5", "7", "12", "9"],
+      "correctIndex": 1,
+      "explanation": "Even a giraffe has only 7 cervical vertebrae.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q33",
+      "text": "The small globular head of a meromyosin contains binding sites for:",
+      "options": ["ATP and Actin", "Actin and Troponin", "ATP and Myosin", "Tropomyosin"],
+      "correctIndex": 0,
+      "explanation": "The head of the thick filament interacts with actin to form cross-bridges.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b17_q34",
+      "text": "Which structure connects a muscle to a bone?",
+      "options": ["Ligament", "Tendon", "Cartilage", "Fascia"],
+      "correctIndex": 1,
+      "explanation": "Tendons are dense fibrous connective tissues that attach muscles to bones.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q35",
+      "text": "The part of the myofibril between two Z-lines consists of:",
+      "options": ["One A-band and half of two I-bands", "Two A-bands and one I-band", "Only one I-band", "Only one A-band"],
+      "correctIndex": 0,
+      "explanation": "This is the structural composition of a single sarcomere.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b17_q36",
+      "text": "Rapid spasms in muscle due to low Ca++ in body fluid is:",
+      "options": ["Gout", "Tetany", "Tetanus", "Dystrophy"],
+      "correctIndex": 1,
+      "explanation": "Hypocalcemia leads to increased excitability of nerves and muscles, causing tetany.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q37",
+      "text": "The glenoid cavity articulates with the head of the ________.",
+      "options": ["Femur", "Humerus", "Radius", "Tibia"],
+      "correctIndex": 1,
+      "explanation": "This forms the shoulder joint (Ball and socket).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b17_q38",
+      "text": "Synovial joints are characterized by the presence of a:",
+      "options": ["Fluid filled synovial cavity", "Cartilage bridge", "Fibrous tissue", "Large gap"],
+      "correctIndex": 0,
+      "explanation": "The synovial fluid reduces friction and allows free movement.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q39",
+      "text": "Knee joint and Elbow joint are examples of:",
+      "options": ["Pivot joints", "Gliding joints", "Hinge joints", "Saddle joints"],
+      "correctIndex": 2,
+      "explanation": "Hinge joints allow movement in only one plane.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b17_q40",
+      "text": "The total number of phalanges in one human hand is:",
+      "options": ["10", "12", "14", "15"],
+      "correctIndex": 2,
+      "explanation": "Digit formula is 2, 3, 3, 3, 3. Total = 14.",
       "frequencyRating": 4
     }
   ]

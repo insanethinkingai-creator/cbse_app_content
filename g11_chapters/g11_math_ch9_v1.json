@@ -1,0 +1,330 @@
+{
+  "id": "g11_math_ch9",
+  "grade": "11",
+  "subject": "Mathematics",
+  "number": "9",
+  "title": "Sequences and Series",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_m9_q1",
+      "text": "If the n-th term of a sequence is a_n = n(n+2), then the first three terms are:",
+      "options": ["3, 8, 15", "1, 3, 5", "2, 4, 6", "1, 2, 3"],
+      "correctIndex": 0,
+      "explanation": "a1 = 1(3)=3, a2 = 2(4)=8, a3 = 3(5)=15.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m9_q2",
+      "text": "The n-th term of an AP is given by a_n = a + (n-1)d. If a=5 and d=3, the 10th term is:",
+      "options": ["30", "32", "35", "27"],
+      "correctIndex": 1,
+      "explanation": "a10 = 5 + (10-1)3 = 5 + 27 = 32.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m9_q3",
+      "text": "The sum of first n terms of an AP is given by S_n = n/2 [2a + (n-1)d]. The sum of first 10 even natural numbers is:",
+      "options": ["100", "110", "120", "200"],
+      "correctIndex": 1,
+      "explanation": "a=2, d=2, n=10. S10 = 5[4 + 18] = 5[22] = 110.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m9_q4",
+      "text": "If the sum of n terms of an AP is 3n² + n, then its first term is:",
+      "options": ["3", "4", "1", "6"],
+      "correctIndex": 1,
+      "explanation": "a1 = S1 = 3(1)² + 1 = 4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m9_q5",
+      "text": "In an AP, if the common difference is 5, then a18 - a13 is:",
+      "options": ["5", "20", "25", "30"],
+      "correctIndex": 2,
+      "explanation": "a18 - a13 = (a+17d) - (a+12d) = 5d = 5(5) = 25.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m9_q6",
+      "text": "The arithmetic mean (AM) between two numbers a and b is:",
+      "options": ["(a+b)/2", "√(ab)", "2ab/(a+b)", "a-b"],
+      "correctIndex": 0,
+      "explanation": "By definition, the AM is the average of the two values.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m9_q7",
+      "text": "If A is the AM between 4 and 10, then A is:",
+      "options": ["6", "7", "8", "9"],
+      "correctIndex": 1,
+      "explanation": "(4+10)/2 = 7.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m9_q8",
+      "text": "The common ratio of the GP 5, 25, 125, ... is:",
+      "options": ["5", "10", "20", "25"],
+      "correctIndex": 0,
+      "explanation": "r = 25/5 = 5.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m9_q9",
+      "text": "The n-th term of a GP with first term 'a' and common ratio 'r' is:",
+      "options": ["ar^n", "ar^(n-1)", "a + (n-1)r", "ar"],
+      "correctIndex": 1,
+      "explanation": "Standard formula for GP n-th term.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m9_q10",
+      "text": "The 5th term of the GP 2, 6, 18, ... is:",
+      "options": ["162", "54", "486", "108"],
+      "correctIndex": 0,
+      "explanation": "a=2, r=3. a5 = 2 * 3^4 = 2 * 81 = 162.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m9_q11",
+      "text": "The sum of first n terms of a GP (r ≠ 1) is:",
+      "options": ["a(r^n - 1)/(r - 1)", "a(1 - r^n)/(r - 1)", "ar^(n-1)", "n/2(a+l)"],
+      "correctIndex": 0,
+      "explanation": "Standard formula for sum of GP.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m9_q12",
+      "text": "The sum to infinity of a GP with |r| < 1 is:",
+      "options": ["a/(1-r)", "a/(r-1)", "0", "Infinite"],
+      "correctIndex": 0,
+      "explanation": "As n goes to infinity, r^n goes to 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m9_q13",
+      "text": "The sum to infinity of the GP 1, 1/2, 1/4, ... is:",
+      "options": ["1", "2", "1.5", "0.5"],
+      "correctIndex": 1,
+      "explanation": "a=1, r=1/2. S = 1 / (1 - 1/2) = 1 / (1/2) = 2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m9_q14",
+      "text": "The geometric mean (GM) between two positive numbers a and b is:",
+      "options": ["(a+b)/2", "√(ab)", "ab", "a/b"],
+      "correctIndex": 1,
+      "explanation": "By definition, GM = √(ab).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m9_q15",
+      "text": "For any two positive real numbers a and b, the relationship between AM and GM is:",
+      "options": ["AM < GM", "AM = GM", "AM ≥ GM", "AM ≤ GM"],
+      "correctIndex": 2,
+      "explanation": "The Arithmetic Mean is always greater than or equal to the Geometric Mean.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m9_q16",
+      "text": "If AM and GM of two positive numbers are 10 and 8 respectively, the numbers are:",
+      "options": ["16 and 4", "12 and 8", "10 and 10", "15 and 5"],
+      "correctIndex": 0,
+      "explanation": "a+b = 20, ab = 64. Solving x² - 20x + 64 = 0 gives 16 and 4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m9_q17",
+      "text": "The sum of the first n natural numbers is:",
+      "options": ["n(n+1)/2", "n(n-1)/2", "n²", "n(n+1)(2n+1)/6"],
+      "correctIndex": 0,
+      "explanation": "Σn = n(n+1)/2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m9_q18",
+      "text": "The sum of the squares of the first n natural numbers is:",
+      "options": ["n(n+1)/2", "n(n+1)(2n+1)/6", "[n(n+1)/2]²", "n³"],
+      "correctIndex": 1,
+      "explanation": "Σn² = n(n+1)(2n+1)/6.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m9_q19",
+      "text": "The sum of the cubes of the first n natural numbers is:",
+      "options": ["n(n+1)/2", "n(n+1)(2n+1)/6", "[n(n+1)/2]²", "n⁴/4"],
+      "correctIndex": 2,
+      "explanation": "Σn³ = (Σn)² = [n(n+1)/2]².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m9_q20",
+      "text": "If a, b, c are in AP, then:",
+      "options": ["2b = a + c", "b² = ac", "b = a + c", "2ac = a + c"],
+      "correctIndex": 0,
+      "explanation": "b - a = c - b => 2b = a + c.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m9_q21",
+      "text": "If a, b, c are in GP, then:",
+      "options": ["2b = a + c", "b² = ac", "b = ac", "a + b = c"],
+      "correctIndex": 1,
+      "explanation": "b/a = c/b => b² = ac.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m9_q22",
+      "text": "If the 3rd term of a GP is 4, the product of its first 5 terms is:",
+      "options": ["4³", "4⁵", "4⁴", "5⁴"],
+      "correctIndex": 1,
+      "explanation": "Product = a * ar * ar² * ar³ * ar⁴ = a⁵r¹⁰ = (ar²)⁵ = (4)⁵.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m9_q23",
+      "text": "The 10th term of the sequence √2, √8, √18, √32 is:",
+      "options": ["√200", "√100", "√180", "√50"],
+      "correctIndex": 0,
+      "explanation": "Sequence is 1√2, 2√2, 3√2, 4√2. a10 = 10√2 = √200.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m9_q24",
+      "text": "Which term of the AP 21, 18, 15, ... is zero?",
+      "options": ["7th", "8th", "9th", "10th"],
+      "correctIndex": 1,
+      "explanation": "0 = 21 + (n-1)(-3) => -21 = -3(n-1) => 7 = n-1 => n=8.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m9_q25",
+      "text": "The sum of integers from 1 to 100 that are divisible by 2 or 5 is:",
+      "options": ["3050", "3000", "2550", "3100"],
+      "correctIndex": 0,
+      "explanation": "Sum(div by 2) + Sum(div by 5) - Sum(div by 10) = 2550 + 1050 - 550 = 3050.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m9_q26",
+      "text": "If 1/b-a + 1/b-c = 1/a + 1/c, then a, b, c are in:",
+      "options": ["AP", "GP", "HP", "None"],
+      "correctIndex": 1,
+      "explanation": "Simplifying leads to b² = ac.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g11_m9_q27",
+      "text": "The sum of the series 1 + 2 + 2² + ... + 2^(n-1) is:",
+      "options": ["2^n - 1", "2^(n-1) - 1", "2^n", "2n - 1"],
+      "correctIndex": 0,
+      "explanation": "GP sum formula with a=1, r=2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m9_q28",
+      "text": "The value of 0.333... in fraction form is:",
+      "options": ["1/3", "3/10", "33/100", "1/2"],
+      "correctIndex": 0,
+      "explanation": "Sum of GP: 3/10 + 3/100 + ... = (3/10) / (1 - 1/10) = (3/10) / (9/10) = 1/3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m9_q29",
+      "text": "If a, b, c are in AP and x, y, z are in GP, then x^(b-c) * y^(c-a) * z^(a-b) is:",
+      "options": ["0", "1", "xyz", "x+y+z"],
+      "correctIndex": 1,
+      "explanation": "Substitute b-c = -d, c-a = 2d, a-b = -d etc. and use y²=xz.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g11_m9_q30",
+      "text": "The sum of odd integers from 1 to 2001 is:",
+      "options": ["(1001)²", "(1000)²", "1001 * 1000", "2001²"],
+      "correctIndex": 0,
+      "explanation": "n = (2001-1)/2 + 1 = 1001. Sum = n² = 1001².",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m9_q31",
+      "text": "If x, 2x+2, 3x+3 are in GP, then the fourth term is:",
+      "options": ["-13.5", "-27", "13.5", "27"],
+      "correctIndex": 0,
+      "explanation": "(2x+2)² = x(3x+3). Solving gives x = -4 or -1 (not possible). For x=-4: -4, -6, -9, -13.5.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m9_q32",
+      "text": "The AM of two numbers is 34 and their GM is 16. The numbers are:",
+      "options": ["64 and 4", "60 and 8", "50 and 18", "None"],
+      "correctIndex": 0,
+      "explanation": "a+b = 68, ab = 256. Roots of x² - 68x + 256 = 0 are 64 and 4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m9_q33",
+      "text": "The sum of n terms of the series 1*2 + 2*3 + 3*4 + ... is:",
+      "options": ["n(n+1)(n+2)/3", "n(n+1)(2n+1)/6", "n(n+1)/2", "n²"],
+      "correctIndex": 0,
+      "explanation": "Σn(n+1) = Σn² + Σn = n(n+1)(2n+1)/6 + n(n+1)/2 = n(n+1)(n+2)/3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m9_q34",
+      "text": "The value of 5^(1/2) * 5^(1/4) * 5^(1/8) ... to infinity is:",
+      "options": ["5", "25", "√5", "1"],
+      "correctIndex": 0,
+      "explanation": "Exponent is 1/2 + 1/4 + 1/8 ... = 1. Result is 5¹ = 5.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m9_q35",
+      "text": "In an AP, if S_p = q and S_q = p, then S_(p+q) is:",
+      "options": ["p + q", "-(p + q)", "0", "p - q"],
+      "correctIndex": 1,
+      "explanation": "Standard property of AP sums.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m9_q36",
+      "text": "If the sum of n terms of two APs are in ratio (7n+1):(4n+27), then the ratio of their 11th terms is:",
+      "options": ["4:3", "3:4", "2:1", "1:2"],
+      "correctIndex": 0,
+      "explanation": "Replace n with 2(11)-1 = 21. Ratio = (7*21+1)/(4*21+27) = 148/111 = 4/3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m9_q37",
+      "text": "The number of terms in the GP 0.03, 0.06, 0.12, ..., 1.92 is:",
+      "options": ["6", "7", "8", "9"],
+      "correctIndex": 1,
+      "explanation": "1.92 = 0.03 * 2^(n-1) => 64 = 2^(n-1) => n-1 = 6 => n=7.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m9_q38",
+      "text": "Which of the following is the AM of n arithmetic means inserted between a and b?",
+      "options": ["(a+b)/2", "n(a+b)/2", "(a+b)/2n", "None"],
+      "correctIndex": 0,
+      "explanation": "The average of n means is the same as the AM of the original two numbers.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g11_m9_q39",
+      "text": "If a is the first term and l is the last term of an AP, then S_n is:",
+      "options": ["n/2(a+l)", "n(a+l)", "n/2(a-l)", "a + (n-1)l"],
+      "correctIndex": 0,
+      "explanation": "Basic formula for sum of AP when first and last terms are known.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m9_q40",
+      "text": "A sequence is a function whose domain is:",
+      "options": ["Set of Real numbers", "Set of Natural numbers", "Set of Integers", "Set of Complex numbers"],
+      "correctIndex": 1,
+      "explanation": "Sequences are indexed by positions 1, 2, 3, ..., which are natural numbers.",
+      "frequencyRating": 4
+    }
+  ]
+}

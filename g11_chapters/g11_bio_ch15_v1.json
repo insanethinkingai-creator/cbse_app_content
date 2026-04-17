@@ -1,0 +1,330 @@
+{
+  "id": "g11_bio_ch15",
+  "grade": "11",
+  "subject": "Biology",
+  "number": "15",
+  "title": "Body Fluids and Circulation",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_b15_q1",
+      "text": "The most commonly used body fluid by most of the higher organisms for circulation is:",
+      "options": ["Lymph", "Blood", "Interstitial fluid", "Serum"],
+      "correctIndex": 1,
+      "explanation": "Blood is the primary fluid for transport of nutrients, gases, and waste in higher organisms.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q2",
+      "text": "The percentage of plasma in total blood volume is approximately:",
+      "options": ["45%", "55%", "65%", "35%"],
+      "correctIndex": 1,
+      "explanation": "Plasma constitutes nearly 55 percent of the blood, while the formed elements constitute the remaining 45 percent.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q3",
+      "text": "Which plasma protein is primarily involved in the defense mechanisms of the body?",
+      "options": ["Fibrinogen", "Albumins", "Globulins", "Prothrombin"],
+      "correctIndex": 2,
+      "explanation": "Globulins are primarily involved in defense mechanisms (antibodies), while fibrinogen is for clotting and albumins for osmotic balance.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q4",
+      "text": "Plasma without the clotting factors is called:",
+      "options": ["Lymph", "Serum", "Toxin", "Water"],
+      "correctIndex": 1,
+      "explanation": "Serum is the liquid part of blood remaining after the clotting factors have been removed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q5",
+      "text": "The average lifespan of a human Red Blood Cell (RBC) is:",
+      "options": ["10 days", "60 days", "120 days", "200 days"],
+      "correctIndex": 2,
+      "explanation": "RBCs have an average lifespan of 120 days, after which they are destroyed in the spleen.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q6",
+      "text": "The 'Graveyard of RBCs' is the:",
+      "options": ["Liver", "Bone marrow", "Spleen", "Kidney"],
+      "correctIndex": 2,
+      "explanation": "Old and damaged RBCs are filtered out and destroyed in the spleen.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q7",
+      "text": "Which of the following are the most abundant cells in total White Blood Cells (WBCs)?",
+      "options": ["Monocytes", "Eosinophils", "Basophils", "Neutrophils"],
+      "correctIndex": 3,
+      "explanation": "Neutrophils are the most numerous (60-65%), whereas basophils are the least (0.5-1%).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q8",
+      "text": "Which WBCs secrete histamine, serotonin, and heparin and are involved in inflammatory reactions?",
+      "options": ["Neutrophils", "Basophils", "Acidophils", "Lymphocytes"],
+      "correctIndex": 1,
+      "explanation": "Basophils secrete these chemicals and play a major role in inflammation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q9",
+      "text": "Universal donor and universal recipient blood groups are ________ and ________ respectively.",
+      "options": ["AB and O", "O and AB", "A and B", "B and O"],
+      "correctIndex": 1,
+      "explanation": "Blood group O (specifically O negative) is the universal donor, while AB (specifically AB positive) is the universal recipient.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q10",
+      "text": "Erythroblastosis foetalis can occur when:",
+      "options": ["Mother is Rh +ve, Fetus is Rh -ve", "Mother is Rh -ve, Fetus is Rh +ve", "Both are Rh -ve", "Both are Rh +ve"],
+      "correctIndex": 1,
+      "explanation": "This condition occurs in a second Rh+ pregnancy of an Rh- mother due to maternal antibodies attacking fetal RBCs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q11",
+      "text": "During the process of blood clotting, prothrombin is converted to thrombin by the enzyme complex:",
+      "options": ["Thrombokinase", "Fibrinogen", "Heparin", "Amylase"],
+      "correctIndex": 0,
+      "explanation": "Thrombokinase (or prothrombinase) converts inactive prothrombin into active thrombin.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q12",
+      "text": "Which mineral ion plays a very important role in blood clotting?",
+      "options": ["Sodium", "Magnesium", "Calcium", "Iron"],
+      "correctIndex": 2,
+      "explanation": "Calcium ions (Ca++) are necessary for almost every step of the coagulation cascade.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q13",
+      "text": "Which of the following describes the human heart?",
+      "options": ["Neurogenic", "Myogenic", "Dermatogenic", "Heliogenic"],
+      "correctIndex": 1,
+      "explanation": "The human heart is myogenic, meaning the impulse for contraction originates within the muscle itself (SA node).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q14",
+      "text": "The wall of the left ventricle is thicker than the right ventricle because:",
+      "options": ["It contains oxygenated blood", "It has to pump blood to the entire body", "It is larger in size", "It has no valves"],
+      "correctIndex": 1,
+      "explanation": "The left ventricle requires greater pressure to pump blood through the systemic circulation compared to the pulmonary circulation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b15_q15",
+      "text": "The pacemaker of the heart is the:",
+      "options": ["AV Node", "Bundle of His", "SA Node", "Purkinje fibers"],
+      "correctIndex": 2,
+      "explanation": "The Sino-atrial Node (SA node) generates the action potential that initiates the heartbeat.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q16",
+      "text": "In a standard ECG, the P-wave represents:",
+      "options": ["Depolarization of ventricles", "Depolarization of atria", "Repolarization of ventricles", "Repolarization of atria"],
+      "correctIndex": 1,
+      "explanation": "The P-wave indicates the electrical excitation (contraction) of the atria.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q17",
+      "text": "The QRS complex in an ECG represents:",
+      "options": ["Atrial systole", "Ventricular depolarization", "Ventricular repolarization", "Atrial diastole"],
+      "correctIndex": 1,
+      "explanation": "The QRS complex corresponds to the contraction of the ventricles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q18",
+      "text": "Cardiac output is defined as:",
+      "options": ["Stroke Volume × Heart Rate", "Stroke Volume + Heart Rate", "Blood pressure / Resistance", "Heart rate / Stroke volume"],
+      "correctIndex": 0,
+      "explanation": "Cardiac output is the volume of blood pumped by each ventricle per minute (approx. 5 Liters).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q19",
+      "text": "Double circulation consists of:",
+      "options": ["Systemic and Pulmonary", "Atrial and Ventricular", "Closed and Open", "Lymphatic and Blood"],
+      "correctIndex": 0,
+      "explanation": "Double circulation involves two pathways: pulmonary (to lungs) and systemic (to rest of body).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q20",
+      "text": "The hepatic portal system carries blood from ________ to ________.",
+      "options": ["Liver to Kidney", "Digestive tract to Liver", "Heart to Liver", "Liver to Heart"],
+      "correctIndex": 1,
+      "explanation": "The hepatic portal vein carries blood from the intestine to the liver before it goes to the systemic circulation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b15_q21",
+      "text": "Which blood vessel has valves to prevent backflow of blood?",
+      "options": ["Arteries", "Arterioles", "Veins", "Capillaries"],
+      "correctIndex": 2,
+      "explanation": "Veins operate under low pressure and have valves to ensure one-way flow towards the heart.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q22",
+      "text": "The lub-dub sounds of the heart are produced by:",
+      "options": ["Contraction of ventricles", "Opening of valves", "Closure of valves", "Flow of blood"],
+      "correctIndex": 2,
+      "explanation": "Lub is the closure of AV valves; Dub is the closure of semilunar valves.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q23",
+      "text": "A standard blood pressure reading is 120/80 mmHg. 120 represents:",
+      "options": ["Diastolic pressure", "Systolic pressure", "Pulse pressure", "Mean pressure"],
+      "correctIndex": 1,
+      "explanation": "Systolic pressure is the higher pressure in the arteries during ventricular contraction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q24",
+      "text": "What is the result of the blockage of coronary arteries?",
+      "options": ["Hypertension", "Heart failure", "Atherosclerosis/Heart Attack", "Anemia"],
+      "correctIndex": 2,
+      "explanation": "Coronary Artery Disease (CAD) involves narrowing of the arteries that supply blood to the heart muscle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q25",
+      "text": "Which heart condition is characterized by acute chest pain when not enough oxygen reaches the heart muscle?",
+      "options": ["Heart Failure", "Cardiac Arrest", "Angina Pectoris", "Hypertension"],
+      "correctIndex": 2,
+      "explanation": "Angina is a symptom of reduced blood flow to the heart.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b15_q26",
+      "text": "The middle layer of the heart wall is the:",
+      "options": ["Epicardium", "Myocardium", "Endocardium", "Pericardium"],
+      "correctIndex": 1,
+      "explanation": "The myocardium consists of cardiac muscle tissue responsible for pumping.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b15_q27",
+      "text": "Lymph differs from blood in that it lacks:",
+      "options": ["Leukocytes", "Plasma", "RBCs and some proteins", "Water"],
+      "correctIndex": 2,
+      "explanation": "Lymph is a colorless fluid containing specialized lymphocytes but lacking RBCs and large proteins.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q28",
+      "text": "The tricuspid valve is located between:",
+      "options": ["Left atrium and Left ventricle", "Right atrium and Right ventricle", "Left ventricle and Aorta", "Right ventricle and Pulmonary artery"],
+      "correctIndex": 1,
+      "explanation": "The tricuspid valve guards the opening between the right atrium and right ventricle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q29",
+      "text": "Chordae tendineae are found in:",
+      "options": ["Atria", "Ventricles", "Arteries", "Veins"],
+      "correctIndex": 1,
+      "explanation": "These are 'heart strings' that prevent the AV valves from flipping into the atria during ventricular contraction.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b15_q30",
+      "text": "The volume of blood pumped out by each ventricle during a cardiac cycle is about 70 mL. This is the:",
+      "options": ["Cardiac output", "Stroke volume", "Tidal volume", "Residual volume"],
+      "correctIndex": 1,
+      "explanation": "Stroke volume is the amount of blood ejected by one ventricle in one contraction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q31",
+      "text": "Which WBC is phagocytic in nature?",
+      "options": ["Basophil", "Lymphocyte", "Monocyte", "Erythrocyte"],
+      "correctIndex": 2,
+      "explanation": "Neutrophils and monocytes are phagocytic cells which destroy foreign organisms.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b15_q32",
+      "text": "During joint diastole:",
+      "options": ["Atria contract", "Ventricles contract", "Both atria and ventricles are relaxed", "AV valves are closed"],
+      "correctIndex": 2,
+      "explanation": "In joint diastole, all four chambers are in a relaxed state.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b15_q33",
+      "text": "The neural center that can moderate cardiac function through the ANS is located in the:",
+      "options": ["Pons", "Cerebrum", "Medulla oblongata", "Hypothalamus"],
+      "correctIndex": 2,
+      "explanation": "The medulla oblongata contains the cardiovascular center.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q34",
+      "text": "Sympathetic neural signals ________ the rate of heartbeat.",
+      "options": ["Decrease", "Increase", "Do not affect", "Stop"],
+      "correctIndex": 1,
+      "explanation": "Sympathetic stimulation increases heart rate and strength of contraction (fight or flight).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q35",
+      "text": "Which blood vessel carries oxygenated blood from the lungs to the heart?",
+      "options": ["Pulmonary artery", "Pulmonary vein", "Aorta", "Vena cava"],
+      "correctIndex": 1,
+      "explanation": "Pulmonary veins are the only veins in the adult body that carry oxygenated blood.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q36",
+      "text": "T-wave in ECG represents 'return to normal state'. This is called:",
+      "options": ["Depolarization", "Repolarization", "Excitation", "Systole"],
+      "correctIndex": 1,
+      "explanation": "Repolarization is the recovery of the resting membrane potential.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b15_q37",
+      "text": "High blood pressure (Hypertension) is defined as a persistent reading of:",
+      "options": ["120/80", "110/70", "140/90 or higher", "90/60"],
+      "correctIndex": 2,
+      "explanation": "Consistent readings above 140/90 are diagnosed as hypertension.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q38",
+      "text": "Inter-ventricular septum is:",
+      "options": ["Thin and muscular", "Thick and muscular", "Thin and fibrous", "Thick and fibrous"],
+      "correctIndex": 1,
+      "explanation": "The inter-ventricular septum is a thick muscular wall separating the two ventricles.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b15_q39",
+      "text": "Bicuspid (Mitral) valve is found between:",
+      "options": ["Right atrium and ventricle", "Left atrium and ventricle", "Right ventricle and pulmonary artery", "Left ventricle and aorta"],
+      "correctIndex": 1,
+      "explanation": "The bicuspid valve prevents backflow into the left atrium.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b15_q40",
+      "text": "Which component of blood is responsible for producing antibodies?",
+      "options": ["RBCs", "Platelets", "B-lymphocytes", "Monocytes"],
+      "correctIndex": 2,
+      "explanation": "B-lymphocytes produce antibodies to provide immunity.",
+      "frequencyRating": 4
+    }
+  ]
+}

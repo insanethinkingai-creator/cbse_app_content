@@ -3,56 +3,328 @@
   "grade": "11",
   "subject": "Biology",
   "number": "18",
-  "title": "Body Fluids and Circulation",
+  "title": "Neural Control and Coordination",
   "version": "v1",
   "questions": [
     {
       "id": "g11_b18_q1",
-      "text": "Which chamber of the heart receives oxygenated blood from the lungs?",
-      "options": ["Right atrium", "Left atrium", "Right ventricle", "Left ventricle"],
+      "text": "The process through which two or more organs interact and complement the functions of one another is:",
+      "options": ["Assimilation", "Coordination", "Integration", "Homeostasis"],
       "correctIndex": 1,
-      "explanation": "The left atrium receives oxygen-rich blood from pulmonary veins.",
+      "explanation": "Coordination ensures the harmonious functioning of various body systems.",
       "frequencyRating": 5
     },
     {
       "id": "g11_b18_q2",
-      "text": "Blood plasma is mainly composed of: ",
-      "options": ["Red blood cells", "Water", "Platelets", "Fats"],
+      "text": "The structural and functional unit of the neural system is:",
+      "options": ["Glial cell", "Neuron", "Axon", "Nephron"],
       "correctIndex": 1,
-      "explanation": "Plasma is about 90% water and carries dissolved substances.",
-      "frequencyRating": 4
+      "explanation": "Neurons are highly specialized cells that detect, receive and transmit different kinds of stimuli.",
+      "frequencyRating": 5
     },
     {
       "id": "g11_b18_q3",
-      "text": "The circulation that sends blood from the heart to the body and back is called: ",
-      "options": ["Pulmonary circulation", "Systemic circulation", "Portal circulation", "Lymphatic circulation"],
+      "text": "Nissl's granules are found in which part of the neuron?",
+      "options": ["Axon", "Dendrites and Cell body", "Synaptic knobs", "Myelin sheath"],
       "correctIndex": 1,
-      "explanation": "Systemic circulation moves blood between the heart and the rest of the body.",
+      "explanation": "These are granular bodies containing RNA and are involved in protein synthesis.",
       "frequencyRating": 5
     },
     {
       "id": "g11_b18_q4",
-      "text": "Arteries carry blood: ",
-      "options": ["Toward the heart", "Away from the heart", "Only deoxygenated blood", "Only through lungs"],
-      "correctIndex": 1,
-      "explanation": "Arteries carry blood away from the heart, usually oxygenated.",
-      "frequencyRating": 4
+      "text": "Unipolar neurons, with only one axon and no dendrites, are usually found in the:",
+      "options": ["Retina of eye", "Cerebral cortex", "Embryonic stage", "Spinal cord"],
+      "correctIndex": 2,
+      "explanation": "Bipolar neurons are in the retina, multipolar are in the cortex, and unipolar are typical of embryos.",
+      "frequencyRating": 5
     },
     {
       "id": "g11_b18_q5",
-      "text": "Capillaries are important because they: ",
-      "options": ["Transport hormones", "Exchange gases and nutrients", "Carry lymph", "Generate blood cells"],
+      "text": "The gaps between two adjacent myelin sheaths on an axon are called:",
+      "options": ["Synaptic cleft", "Nodes of Ranvier", "Schwan cells", "Dendritic gaps"],
       "correctIndex": 1,
-      "explanation": "Capillaries permit exchange of oxygen, carbon dioxide, and nutrients between blood and tissues.",
+      "explanation": "These nodes allow for saltatory conduction, which is much faster than continuous conduction.",
       "frequencyRating": 5
     },
     {
       "id": "g11_b18_q6",
-      "text": "Lymph is a fluid that is similar to: ",
-      "options": ["Blood plasma", "Red blood cells", "Urine", "Saliva"],
-      "correctIndex": 0,
-      "explanation": "Lymph is derived from tissue fluid and resembles plasma without red blood cells.",
+      "text": "When a neuron is not conducting any impulse (resting state), the axonal membrane is:",
+      "options": ["More permeable to Na+", "More permeable to K+", "Impermeable to K+", "Permeable to proteins"],
+      "correctIndex": 1,
+      "explanation": "In resting state, the membrane is relatively more permeable to Potassium ions and nearly impermeable to Sodium ions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q7",
+      "text": "The resting membrane potential is maintained by the active transport of ions by the:",
+      "options": ["K+ pump", "Na+-K+ pump", "Calcium pump", "Chloride channel"],
+      "correctIndex": 1,
+      "explanation": "This pump transports 3 Na+ outwards for 2 K+ into the cell using ATP.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q8",
+      "text": "Electrical synapses are rare in our system because:",
+      "options": ["They are too slow", "Impulse transmission is too fast to regulate", "They require large energy", "They cannot transmit impulses"],
+      "correctIndex": 1,
+      "explanation": "In electrical synapses, the membranes are in very close proximity, making transmission almost instantaneous and difficult to modulate.",
       "frequencyRating": 4
+    },
+    {
+      "id": "g11_b18_q9",
+      "text": "Which chemicals are involved in the transmission of impulses at chemical synapses?",
+      "options": ["Hormones", "Neurotransmitters", "Enzymes", "Electrolytes"],
+      "correctIndex": 1,
+      "explanation": "Examples include Acetylcholine and Adrenaline.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q10",
+      "text": "The human brain is protected by three layers of cranial meninges. The middle layer is the:",
+      "options": ["Dura mater", "Pia mater", "Arachnoid", "Gray mater"],
+      "correctIndex": 2,
+      "explanation": "The order from outside to inside is: Dura mater, Arachnoid, and Pia mater.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q11",
+      "text": "The deep cleft that divides the cerebrum longitudinally into two halves is the:",
+      "options": ["Corpus callosum", "Midbrain", "Cerebral aqueduct", "Median fissure"],
+      "correctIndex": 3,
+      "explanation": "The two cerebral hemispheres are connected by a tract of nerve fibers called the corpus callosum.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q12",
+      "text": "The 'master clock' or the center for controlling body temperature, urge for eating and drinking is the:",
+      "options": ["Thalamus", "Hypothalamus", "Cerebellum", "Pons"],
+      "correctIndex": 1,
+      "explanation": "The hypothalamus also secretes various hormones that regulate the pituitary gland.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q13",
+      "text": "The 'Limbic System' is associated with:",
+      "options": ["Balance and posture", "Emotional reactions and motivation", "Visual processing", "Motor control"],
+      "correctIndex": 1,
+      "explanation": "It includes the amygdala and hippocampus and regulates emotions like excitement, pleasure, and fear.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q14",
+      "text": "Which part of the brain consists of fiber tracts that interconnect different regions of the brain?",
+      "options": ["Pons", "Medulla", "Cerebellum", "Thalamus"],
+      "correctIndex": 0,
+      "explanation": "Pons varolii is part of the hindbrain and acts as a bridge.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b18_q15",
+      "text": "The 'little brain' responsible for maintaining posture and balance of the body is the:",
+      "options": ["Cerebrum", "Medulla", "Cerebellum", "Hypothalamus"],
+      "correctIndex": 2,
+      "explanation": "The cerebellum has a very convoluted surface to provide additional space for many more neurons.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q16",
+      "text": "The reflex arc consists of at least one ________ and one ________ neuron.",
+      "options": ["Afferent and Efferent", "Unipolar and Bipolar", "Motor and Muscle", "Sensory and Skin"],
+      "correctIndex": 0,
+      "explanation": "Afferent (sensory) receives signals, and efferent (motor) transmits them to the effector organ.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q17",
+      "text": "The wall of the eye ball is composed of three layers. The external layer is the:",
+      "options": ["Choroid", "Retina", "Sclera", "Iris"],
+      "correctIndex": 2,
+      "explanation": "Sclera is the white, tough outer layer; the anterior portion of it is called the cornea.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q18",
+      "text": "Which layer of the eye contains the photoreceptor cells?",
+      "options": ["Sclera", "Choroid", "Retina", "Cornea"],
+      "correctIndex": 2,
+      "explanation": "The retina contains rods (twilight vision) and cones (color/daylight vision).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q19",
+      "text": "The fovea is a central pit in the yellowish pigmented spot called:",
+      "options": ["Blind spot", "Macula lutea", "Optic chiasma", "Ciliary body"],
+      "correctIndex": 1,
+      "explanation": "The fovea is the point of greatest visual acuity (resolution) where only cones are densely packed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q20",
+      "text": "The space between the cornea and the lens is called:",
+      "options": ["Vitreous chamber", "Aqueous chamber", "Canal of Schlemm", "Pupil"],
+      "correctIndex": 1,
+      "explanation": "It contains a thin watery fluid called aqueous humor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q21",
+      "text": "The auditory ossicles (Malleus, Incus, Stapes) are found in the:",
+      "options": ["Outer ear", "Middle ear", "Inner ear", "Eustachian tube"],
+      "correctIndex": 1,
+      "explanation": "They increase the efficiency of transmission of sound waves to the inner ear.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q22",
+      "text": "The fluid-filled inner ear is called the:",
+      "options": ["Cochlea", "Labyrinth", "Tympanum", "Vestibule"],
+      "correctIndex": 1,
+      "explanation": "The labyrinth is divided into the bony labyrinth and the membranous labyrinth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q23",
+      "text": "The organ of Corti is located on the:",
+      "options": ["Reissner's membrane", "Basilar membrane", "Tectorial membrane", "Tympanic membrane"],
+      "correctIndex": 1,
+      "explanation": "It contains hair cells that act as auditory receptors.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q24",
+      "text": "The vestibular apparatus is responsible for:",
+      "options": ["Hearing", "Maintaining body balance and posture", "Regulating blood pressure", "Taste perception"],
+      "correctIndex": 1,
+      "explanation": "It consists of three semi-circular canals and the otolith organ.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q25",
+      "text": "Rhodopsin (visual purple) is a protein found in ________ and contains a derivative of ________.",
+      "options": ["Cones, Vitamin C", "Rods, Vitamin A", "Rods, Vitamin D", "Cones, Vitamin A"],
+      "correctIndex": 1,
+      "explanation": "Vitamin A deficiency leads to night blindness because it's required to make retinal, a part of rhodopsin.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q26",
+      "text": "The colored, opaque structure of the eye which is a visible part of the choroid is the:",
+      "options": ["Lens", "Iris", "Pupil", "Cornea"],
+      "correctIndex": 1,
+      "explanation": "The iris regulates the diameter of the pupil.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q27",
+      "text": "What occurs when the stimulus reaches the threshold potential in a neuron?",
+      "options": ["Hyperpolarization", "Depolarization", "Repolarization", "Refractory period"],
+      "correctIndex": 1,
+      "explanation": "Na+ channels open rapidly, leading to an influx of positive ions and reversal of polarity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q28",
+      "text": "The Eustachian tube connects the middle ear cavity with the:",
+      "options": ["External auditory canal", "Pharynx", "Larynx", "Inner ear"],
+      "correctIndex": 1,
+      "explanation": "It helps in equalizing the pressures on either side of the ear drum.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q29",
+      "text": "The association areas in the cerebral cortex are responsible for:",
+      "options": ["Simple sensory functions", "Simple motor functions", "Intersensory associations, memory, and communication", "Only vision"],
+      "correctIndex": 2,
+      "explanation": "These areas are neither clearly sensory nor motor in function.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b18_q30",
+      "text": "The saltatory conduction of nerve impulse occurs in:",
+      "options": ["Non-myelinated fibers", "Myelinated fibers", "Only in the brain", "Only in dendrites"],
+      "correctIndex": 1,
+      "explanation": "The impulse 'jumps' from one node of Ranvier to the next.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q31",
+      "text": "Which part of the brain is the main thinking part?",
+      "options": ["Midbrain", "Hindbrain", "Cerebrum", "Cerebellum"],
+      "correctIndex": 2,
+      "explanation": "Cerebrum is the largest part and handles complex functions like reasoning and memory.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q32",
+      "text": "Corpora quadrigemina are found in the:",
+      "options": ["Forebrain", "Midbrain", "Hindbrain", "Spinal cord"],
+      "correctIndex": 1,
+      "explanation": "These are four round swellings (lobes) on the dorsal portion of the midbrain.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b18_q33",
+      "text": "The space between the lens and the retina is the:",
+      "options": ["Aqueous chamber", "Vitreous chamber", "Blind spot", "Fovea"],
+      "correctIndex": 1,
+      "explanation": "It is filled with a transparent gel called vitreous humor.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b18_q34",
+      "text": "At the blind spot:",
+      "options": ["Only rods are present", "Only cones are present", "Photoreceptor cells are absent", "Visual acuity is highest"],
+      "correctIndex": 2,
+      "explanation": "It is the point where the optic nerves leave the eye; no image is formed here.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q35",
+      "text": "Daylight (photopic) vision and color vision are functions of:",
+      "options": ["Rods", "Cones", "Cornea", "Iris"],
+      "correctIndex": 1,
+      "explanation": "Cones come in three types, sensitive to red, green, and blue light.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q36",
+      "text": "The medulla contains centers which control:",
+      "options": ["Respiration", "Cardiovascular reflexes", "Gastric secretions", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "The medulla is vital for involuntary life-sustaining functions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q37",
+      "text": "Wax secreting glands in the ear are called:",
+      "options": ["Sebaceous glands", "Ceruminous glands", "Lacrimal glands", "Salivary glands"],
+      "correctIndex": 1,
+      "explanation": "Cerumen (earwax) helps protect the ear canal.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b18_q38",
+      "text": "In myelinated nerve fibers, Schwann cells form the:",
+      "options": ["Neurilemma", "Myelin sheath", "Axon hillock", "Dendrite"],
+      "correctIndex": 1,
+      "explanation": "Schwann cells wrap around the axon to provide insulation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b18_q39",
+      "text": "The part of the ear that acts as a hearing organ is the:",
+      "options": ["Vestibule", "Semicircular canals", "Cochlea", "Pinna"],
+      "correctIndex": 2,
+      "explanation": "The cochlea converts sound vibrations into neural impulses.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b18_q40",
+      "text": "Which system is often called 'the fight or flight' system?",
+      "options": ["Parasympathetic", "Sympathetic", "Somatic", "Central"],
+      "correctIndex": 1,
+      "explanation": "The sympathetic nervous system prepares the body for stressful or emergency situations.",
+      "frequencyRating": 5
     }
   ]
 }

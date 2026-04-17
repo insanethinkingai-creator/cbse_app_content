@@ -8,113 +8,323 @@
   "questions": [
     {
       "id": "g11_m7_q1",
-      "text": "The number of terms in the expansion of (x + y)ⁿ is:",
-      "options": ["n", "n - 1", "n + 1", "2n"],
-      "correctIndex": 2,
-      "explanation": "In (x+y)ⁿ, terms go from ⁿC₀ to ⁿCₙ, which are n+1 terms.",
+      "text": "The Binomial Theorem for any positive integer 'n' states that (a + b)^n is equal to:",
+      "options": ["Σ nCr a^r b^(n-r)", "Σ nCr a^(n-r) b^r", "Σ nPr a^(n-r) b^r", "Σ a^n b^n"],
+      "correctIndex": 1,
+      "explanation": "The sum is taken from r = 0 to n. It gives the expansion of powers of a binomial.",
       "frequencyRating": 5
     },
     {
       "id": "g11_m7_q2",
-      "text": "The general term Tᵣ₊₁ in the expansion of (a + b)ⁿ is:",
-      "options": ["ⁿCᵣ aⁿ⁻ᵣ bᵣ", "ⁿCᵣ aᵣ bⁿ⁻ᵣ", "ⁿCᵣ₋₁ aⁿ⁻ᵣ bᵣ", "ⁿCᵣ aⁿ bᵣ"],
-      "correctIndex": 0,
-      "explanation": "Standard formula for the (r+1)th term.",
+      "text": "How many terms are there in the expansion of (x + y)^n?",
+      "options": ["n", "n - 1", "n + 1", "2n"],
+      "correctIndex": 2,
+      "explanation": "The number of terms in a binomial expansion is always one more than the index 'n'.",
       "frequencyRating": 5
     },
     {
       "id": "g11_m7_q3",
-      "text": "The sum of binomial coefficients ⁿC₀ + ⁿC₁ + ... + ⁿCₙ is:",
-      "options": ["n²", "2ⁿ", "2ⁿ⁻¹", "n!"],
+      "text": "The general term (r+1)th term in the expansion of (a + b)^n is given by:",
+      "options": ["nCr a^r b^(n-r)", "nCr a^(n-r) b^r", "nCr-1 a^(n-r) b^r", "nCr a^n b^r"],
       "correctIndex": 1,
-      "explanation": "Put x=1, y=1 in (x+y)ⁿ expansion.",
+      "explanation": "Standard formula for the general term is T_r+1 = nCr a^(n-r) b^r.",
       "frequencyRating": 5
     },
     {
       "id": "g11_m7_q4",
-      "text": "In the expansion of (x + y)ⁿ, the sum of indices of x and y in any term is:",
-      "options": ["n + 1", "n - 1", "n", "2n"],
+      "text": "What is the value of nC0 and nCn in any binomial expansion?",
+      "options": ["0", "n", "1", "n!"],
       "correctIndex": 2,
-      "explanation": "In each term ⁿCᵣ xⁿ⁻ᵣ yᵣ, (n-r) + r = n.",
+      "explanation": "Both nC0 and nCn are always equal to 1.",
       "frequencyRating": 5
     },
     {
       "id": "g11_m7_q5",
-      "text": "If n is even, the middle term in the expansion of (x + y)ⁿ is:",
-      "options": ["(n/2)th term", "(n/2 + 1)th term", "((n+1)/2)th term", "None"],
-      "correctIndex": 1,
-      "explanation": "Since there are n+1 (odd) terms, the middle one is exactly at n/2 + 1.",
-      "frequencyRating": 5
+      "text": "The coefficients nCr in the binomial expansion are known as:",
+      "options": ["Binomial Coefficients", "Pascal's Constants", "Linear Coefficients", "Polynomial roots"],
+      "correctIndex": 0,
+      "explanation": "They are called binomial coefficients because they occur as coefficients in the binomial theorem.",
+      "frequencyRating": 4
     },
     {
       "id": "g11_m7_q6",
-      "text": "If n is odd, the number of middle terms in (x + y)ⁿ is:",
-      "options": ["1", "2", "3", "0"],
-      "correctIndex": 1,
-      "explanation": "There are n+1 (even) terms, so there are two middle terms.",
+      "text": "The sum of the indices of 'a' and 'b' in any term of (a + b)^n is always:",
+      "options": ["n + 1", "n - 1", "n", "2n"],
+      "correctIndex": 2,
+      "explanation": "In T_r+1 = nCr a^(n-r) b^r, the sum of powers is (n-r) + r = n.",
       "frequencyRating": 5
     },
     {
       "id": "g11_m7_q7",
-      "text": "The coefficient of xⁿ in (1 + x)ⁿ is:",
-      "options": ["1", "n", "ⁿCₙ", "Both A and C"],
-      "correctIndex": 3,
-      "explanation": "ⁿCₙ = 1.",
+      "text": "Pascal's Triangle is used to determine:",
+      "options": ["Roots of an equation", "Binomial coefficients", "Area of triangle", "Prime factors"],
+      "correctIndex": 1,
+      "explanation": "Pascal's triangle provides a geometric way to find the values of nCr.",
       "frequencyRating": 4
     },
     {
       "id": "g11_m7_q8",
-      "text": "The coefficient of x² in (1 + 2x)⁵ is:",
-      "options": ["10", "40", "20", "80"],
+      "text": "If 'n' is even, then the middle term in the expansion of (a + b)^n is:",
+      "options": ["(n/2)th term", "(n/2 + 1)th term", "(n+1)/2 th term", "There are two middle terms"],
       "correctIndex": 1,
-      "explanation": "T₃ = ⁵C₂ (1)³ (2x)² = 10 * 4x² = 40x².",
+      "explanation": "If n is even, there is only one middle term, which is the (n/2 + 1)th term.",
       "frequencyRating": 5
     },
     {
       "id": "g11_m7_q9",
-      "text": "The value of ⁿC₀ - ⁿC₁ + ⁿC₂ - ... is:",
-      "options": ["2ⁿ", "0", "1", "-1"],
-      "correctIndex": 1,
-      "explanation": "Put x=1, y=-1 in (x+y)ⁿ expansion.",
+      "text": "If 'n' is odd, how many middle terms are there in (a + b)^n?",
+      "options": ["None", "One", "Two", "Three"],
+      "correctIndex": 2,
+      "explanation": "If n is odd, the number of terms (n+1) is even, resulting in two middle terms.",
       "frequencyRating": 5
     },
     {
       "id": "g11_m7_q10",
-      "text": "The binomial theorem was given by:",
-      "options": ["Isaac Newton", "Euclid", "Pascal", "Pythagoras"],
+      "text": "Find the middle term in the expansion of (x + 3)^8.",
+      "options": ["4th term", "5th term", "6th term", "4.5th term"],
+      "correctIndex": 1,
+      "explanation": "n=8 (even). Middle term is 8/2 + 1 = 5th term.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m7_q11",
+      "text": "The coefficient of x^n in the expansion of (1 + x)^2n is:",
+      "options": ["2nCn", "nCn", "2nC0", "2n!"],
       "correctIndex": 0,
-      "explanation": "Sir Isaac Newton generalized the theorem for any exponent.",
+      "explanation": "Using general term T_r+1 = 2nCr x^r, for x^n, r = n. So coefficient is 2nCn.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m7_q12",
+      "text": "The sum of the binomial coefficients nC0 + nC1 + ... + nCn is equal to:",
+      "options": ["n^2", "2n", "2^n", "n!"],
+      "correctIndex": 2,
+      "explanation": "Substitute x=1 in (1+x)^n expansion to get the sum of coefficients = 2^n.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m7_q13",
+      "text": "Evaluate 99^4 using the binomial theorem.",
+      "options": ["(100 - 1)^4", "(90 + 9)^4", "(100 + 1)^4", "99 × 4"],
+      "correctIndex": 0,
+      "explanation": "It's easier to expand (100 - 1)^4 using binomial coefficients.",
       "frequencyRating": 3
     },
-    { "id": "g11_m7_q11", "text": "Total number of terms in (x+a)¹⁰⁰ + (x-a)¹⁰⁰ after simplification is:", "options": ["101", "50", "51", "200"], "correctIndex": 2, "explanation": "Alternate terms cancel out, leaving (100/2) + 1 = 51 terms.", "frequencyRating": 4 },
-    { "id": "g11_m7_q12", "text": "The term independent of x in (x + 1/x)¹⁰ is:", "options": ["¹⁰C₅", "¹⁰C₆", "1", "0"], "correctIndex": 0, "explanation": "Requires n-r = r => 2r = 10 => r=5. Term is ¹⁰C₅.", "frequencyRating": 5 },
-    { "id": "g11_m7_q13", "text": "Value of 99⁴ using binomial theorem is (100 - 1)⁴. The first term is:", "options": ["100", "10⁸", "400", "10⁴"], "correctIndex": 1, "explanation": "⁴C₀ (100)⁴ = 100,000,000.", "frequencyRating": 4 },
-    { "id": "g11_m7_q14", "text": "ⁿCᵣ is also called:", "options": ["Permutation", "Binomial coefficient", "Factorial", "Variable"], "correctIndex": 1, "explanation": "They are the coefficients in the expansion.", "frequencyRating": 5 },
-    { "id": "g11_m7_q15", "text": "The coefficient of xᵣ in (1+x)ⁿ is:", "options": ["ⁿCᵣ", "ⁿCᵣ₊₁", "ⁿCᵣ₋₁", "r"], "correctIndex": 0, "explanation": "Standard expansion term.", "frequencyRating": 5 },
-    { "id": "g11_m7_q16", "text": "Which term is the middle term in (x+y)⁸?", "options": ["4th", "5th", "6th", "None"], "correctIndex": 1, "explanation": "n=8 (even), middle is 8/2 + 1 = 5th term.", "frequencyRating": 5 },
-    { "id": "g11_m7_q17", "text": "The constant term in expansion of (2x - 1/x)² is:", "options": ["4", "-4", "2", "0"], "correctIndex": 1, "explanation": "T₂ = ²C₁ (2x)¹ (-1/x)¹ = 2 * 2 * -1 = -4.", "frequencyRating": 4 },
-    { "id": "g11_m7_q18", "text": "In (a+b)ⁿ, as we move from left to right, power of 'a' ________ and 'b' ________.", "options": ["Increases, Decreases", "Decreases, Increases", "Increases, Increases", "Decreases, Decreases"], "correctIndex": 1, "explanation": "aⁿ, aⁿ⁻¹b, aⁿ⁻²b², ... bⁿ.", "frequencyRating": 5 },
-    { "id": "g11_m7_q19", "text": "ⁿC₀ + ⁿC₂ + ⁿC₄ + ... equals:", "options": ["2ⁿ", "2ⁿ⁻¹", "2ⁿ⁻²", "n"], "correctIndex": 1, "explanation": "Sum of even-positioned coefficients is half the total sum.", "frequencyRating": 4 },
-    { "id": "g11_m7_q20", "text": "Value of (1.01)¹⁰⁰⁰⁰⁰⁰ is greater than 10000.", "options": ["True", "False", "Equal", "None"], "correctIndex": 0, "explanation": "(1 + 0.01)ⁿ = 1 + n(0.01) + ... = 1 + 10000 + ... > 10000.", "frequencyRating": 3 },
-    { "id": "g11_m7_q21", "text": "ⁿCᵣ / ⁿCᵣ₋₁ = (n-r+1)/r is used to find:", "options": ["Greatest term", "Middle term", "General term", "Total terms"], "correctIndex": 0, "explanation": "Used in finding the numerically greatest term.", "frequencyRating": 2 },
-    { "id": "g11_m7_q22", "text": "Number of terms in (x+y+z)ⁿ is:", "options": ["n+1", "n+2", "(n+1)(n+2)/2", "3n"], "correctIndex": 2, "explanation": "Formula for multinomial expansion terms.", "frequencyRating": 3 },
-    { "id": "g11_m7_q23", "text": "The coefficient of x⁷ in (x-2)¹⁰ is:", "options": ["¹⁰C₇", "-8 * ¹⁰C₇", "8 * ¹⁰C₇", "-¹⁰C₇"], "correctIndex": 1, "explanation": "T₄ = ¹⁰C₃ (x)⁷ (-2)³ = ¹⁰C₇ * -8.", "frequencyRating": 4 },
-    { "id": "g11_m7_q24", "text": "If n is even, coefficients of middle terms are same.", "options": ["True", "False", "Only for n=2", "Always false"], "correctIndex": 0, "explanation": "There is only one middle term if n is even.", "frequencyRating": 3 },
-    { "id": "g11_m7_q25", "text": "Pascal's triangle is used to find:", "options": ["Powers", "Binomial coefficients", "Roots", "Logarithms"], "correctIndex": 1, "explanation": "Visual representation of ⁿCᵣ.", "frequencyRating": 5 },
-    { "id": "g11_m7_q26", "text": "In expansion of (1+x)ⁿ, coefficients of xᵣ and xⁿ⁻ᵣ are:", "options": ["Equal", "Reciprocals", "Opposite sign", "Zero"], "correctIndex": 0, "explanation": "Because ⁿCᵣ = ⁿCₙ₋ᵣ.", "frequencyRating": 5 },
-    { "id": "g11_m7_q27", "text": "The value of 11⁵ using binomial (10+1)⁵ ending term is:", "options": ["1", "10", "5", "11"], "correctIndex": 0, "explanation": "Last term is ⁵C₅ (1)⁵ = 1.", "frequencyRating": 4 },
-    { "id": "g11_m7_q28", "text": "The largest binomial coefficient in (1+x)¹⁰ is:", "options": ["¹⁰C₀", "¹⁰C₅", "¹⁰C₁₀", "¹⁰C₁"], "correctIndex": 1, "explanation": "Middle coefficient is always the largest.", "frequencyRating": 5 },
-    { "id": "g11_m7_q29", "text": "Number of terms in (a-b)ⁿ is same as (a+b)ⁿ.", "options": ["True", "False", "Depends on n", "Depends on a,b"], "correctIndex": 0, "explanation": "Both have n+1 terms.", "frequencyRating": 5 },
-    { "id": "g11_m7_q30", "text": "Coefficient of middle term in (1+x)⁴:", "options": ["4", "6", "1", "10"], "correctIndex": 1, "explanation": "Middle is 3rd term: ⁴C₂ = 6.", "frequencyRating": 5 },
-    { "id": "g11_m7_q31", "text": "The power of x in Tᵣ₊₁ of (x³ + 1/x)ⁿ is:", "options": ["3n - 4r", "n - r", "3r", "n - 3r"], "correctIndex": 0, "explanation": "(x³)ⁿ⁻ᵣ (x⁻¹)ᵣ = x³ⁿ⁻³ᵣ⁻ᵣ = x³ⁿ⁻⁴ᵣ.", "frequencyRating": 2 },
-    { "id": "g11_m7_q32", "text": "Binomial theorem for negative index is valid only if |x| < 1.", "options": ["True", "False", "Always valid", "Depends on n"], "correctIndex": 0, "explanation": "Condition for convergence of infinite series.", "frequencyRating": 2 },
-    { "id": "g11_m7_q33", "text": "Sum of indices in (x+y)⁷ is:", "options": ["7", "8", "14", "49"], "correctIndex": 0, "explanation": "Sum is always n.", "frequencyRating": 5 },
-    { "id": "g11_m7_q34", "text": "Find the 4th term of (x - 2y)¹²:", "options": ["¹²C₃ x⁹ (-2y)³", "¹²C₄ x⁸ (-2y)⁴", "¹²C₃ x⁹ (2y)³", "None"], "correctIndex": 0, "explanation": "T₄ = T₃₊₁.", "frequencyRating": 4 },
-    { "id": "g11_m7_q35", "text": "Middle term of (x + 1/x)⁶:", "options": ["¹⁰C₃", "20", "¹⁰C₅", "6"], "correctIndex": 1, "explanation": "⁶C₃ x³ (1/x)³ = ⁶C₃ = 20.", "frequencyRating": 4 },
-    { "id": "g11_m7_q36", "text": "Which coefficient is equal to ⁿC₁?", "options": ["ⁿCₙ", "ⁿCₙ₋₁", "ⁿC₀", "ⁿC₂"], "correctIndex": 1, "explanation": "ⁿCᵣ = ⁿCₙ₋ᵣ.", "frequencyRating": 5 },
-    { "id": "g11_m7_q37", "text": "(1+x)ⁿ ≈ 1 + nx if:", "options": ["x is very small", "x is very large", "n is small", "n is 1"], "correctIndex": 0, "explanation": "First two terms of expansion.", "frequencyRating": 3 },
-    { "id": "g11_m7_q38", "text": "The first term in expansion of (x+y)ⁿ is:", "options": ["xⁿ", "yⁿ", "ⁿC₁ xⁿ⁻¹y", "1"], "correctIndex": 0, "explanation": "ⁿC₀ xⁿ y⁰ = xⁿ.", "frequencyRating": 5 },
-    { "id": "g11_m7_q39", "text": "The last term in expansion of (x+y)ⁿ is:", "options": ["xⁿ", "yⁿ", "ⁿCₙ₋₁ xyⁿ⁻¹", "1"], "correctIndex": 1, "explanation": "ⁿCₙ x⁰ yⁿ = yⁿ.", "frequencyRating": 5 },
-    { "id": "g11_m7_q40", "text": "Binomial coefficients follow symmetry.", "options": ["True", "False", "Only for even n", "Only for odd n"], "correctIndex": 0, "explanation": "ⁿCᵣ = ⁿCₙ₋ᵣ.", "frequencyRating": 4 }
+    {
+      "id": "g11_m7_q14",
+      "text": "The first and last coefficients of (a + b)^n are always:",
+      "options": ["n", "1", "0", "n!"],
+      "correctIndex": 1,
+      "explanation": "nC0 = 1 and nCn = 1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m7_q15",
+      "text": "In the expansion of (1 + x)^n, the coefficient of the (r+1)th term is:",
+      "options": ["nCr-1", "nCr+1", "nCr", "n!"],
+      "correctIndex": 2,
+      "explanation": "T_r+1 = nCr (1)^(n-r) x^r = nCr x^r.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m7_q16",
+      "text": "The term independent of x in (x + 1/x)^2n is:",
+      "options": ["2nCn", "nCn", "1", "0"],
+      "correctIndex": 0,
+      "explanation": "The middle term where powers of x and 1/x cancel out: 2nCn x^n (1/x)^n = 2nCn.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m7_q17",
+      "text": "Which property describes binomial coefficients equidistant from the beginning and end?",
+      "options": ["nCr = nCr+1", "nCr = nC(n-r)", "nCr = rCn", "nCr + nCr-1 = n+1Cr"],
+      "correctIndex": 1,
+      "explanation": "Binomial coefficients are symmetric.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m7_q18",
+      "text": "Find the middle term(s) of (x + y)^7.",
+      "options": ["4th only", "3rd and 4th", "4th and 5th", "5th only"],
+      "correctIndex": 2,
+      "explanation": "n=7 (odd). Middle terms are (7+1)/2 = 4th and (7+1)/2 + 1 = 5th.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m7_q19",
+      "text": "In the expansion of (x^2 - 1/x)^9, find the coefficient of x^9.",
+      "options": ["9C3", "-9C3", "9C6", "0"],
+      "correctIndex": 1,
+      "explanation": "T_r+1 = 9Cr (x^2)^(9-r) (-1/x)^r. Power of x = 18-3r. 18-3r=9 => r=3. Coeff = 9C3 * (-1)^3 = -84.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m7_q20",
+      "text": "The expansion of (a - b)^n involves:",
+      "options": ["All positive terms", "All negative terms", "Alternating signs (+ and -)", "None of these"],
+      "correctIndex": 2,
+      "explanation": "Signs alternate because (-b)^r is negative if r is odd and positive if r is even.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m7_q21",
+      "text": "What is the coefficient of x^0 in any expansion?",
+      "options": ["0", "1", "The constant term", "n"],
+      "correctIndex": 2,
+      "explanation": "x^0 is 1, so its coefficient is the term independent of x.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m7_q22",
+      "text": "Find the middle term in the expansion of (x/3 + 9y)^10.",
+      "options": ["5th", "6th", "10th", "11th"],
+      "correctIndex": 1,
+      "explanation": "10 is even, middle term is 10/2 + 1 = 6th term.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m7_q23",
+      "text": "The coefficient of x^r in (1 - x)^n is:",
+      "options": ["nCr", "(-1)^r nCr", "-nCr", "rCn"],
+      "correctIndex": 1,
+      "explanation": "From the binomial theorem, the rth term involves (-x)^r.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m7_q24",
+      "text": "Total number of terms in (x + a)^100 + (x - a)^100 after simplification is:",
+      "options": ["101", "100", "51", "50"],
+      "correctIndex": 2,
+      "explanation": "Odd power terms cancel out. Terms with r=0,2,...100 remain. Total 51 terms.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m7_q25",
+      "text": "In Pascal's triangle, each entry is the ________ of the two entries above it.",
+      "options": ["Product", "Difference", "Sum", "Average"],
+      "correctIndex": 2,
+      "explanation": "This represents the identity nCr = n-1Cr + n-1Cr-1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m7_q26",
+      "text": "Find the value of 5C0 + 5C1 + 5C2 + 5C3 + 5C4 + 5C5.",
+      "options": ["10", "16", "32", "64"],
+      "correctIndex": 2,
+      "explanation": "Sum of coefficients = 2^n = 2^5 = 32.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m7_q27",
+      "text": "Which is larger: 1.01^1000000 or 10000?",
+      "options": ["10000", "1.01^1000000", "They are equal", "Cannot be determined"],
+      "correctIndex": 1,
+      "explanation": "1.01^n = (1 + 0.01)^n = 1 + n(0.01) + ... = 1 + 10000 + positive terms > 10001.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m7_q28",
+      "text": "The coefficient of x^5 in (x + 3)^8 is:",
+      "options": ["8C5 * 3^3", "8C3 * 3^5", "8C5", "8C3"],
+      "correctIndex": 0,
+      "explanation": "T_r+1 = 8Cr x^(8-r) 3^r. For x^5, 8-r=5 => r=3. Coeff = 8C3 * 3^3 = 8C5 * 3^3.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m7_q29",
+      "text": "The sum nC0 - nC1 + nC2 - nC3 + ... is equal to:",
+      "options": ["2^n", "0", "1", "(-1)^n"],
+      "correctIndex": 1,
+      "explanation": "Substitute x = -1 in (1+x)^n expansion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m7_q30",
+      "text": "The value of nC1 is always:",
+      "options": ["1", "n", "n-1", "0"],
+      "correctIndex": 1,
+      "explanation": "Selecting 1 object from n can be done in n ways.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m7_q31",
+      "text": "The expansion (x + a)^n + (x - a)^n equals:",
+      "options": ["2[nC0 x^n + nC2 x^(n-2) a^2 + ...]", "2[nC1 x^(n-1) a + nC3 x^(n-3) a^3 + ...]", "0", "(x+a)^2n"],
+      "correctIndex": 0,
+      "explanation": "Terms with odd powers of 'a' cancel out.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m7_q32",
+      "text": "Find the constant term in (x - 1/x)^6.",
+      "options": ["-20", "20", "15", "-15"],
+      "correctIndex": 0,
+      "explanation": "Middle term (4th): 6C3 x^3 (-1/x)^3 = 20 * (-1) = -20.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m7_q33",
+      "text": "In the binomial theorem, n must be a:",
+      "options": ["Real number", "Integer", "Positive integer", "Rational number"],
+      "correctIndex": 2,
+      "explanation": "In this specific syllabus chapter, we deal with positive integral indices.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m7_q34",
+      "text": "The number of terms in (a + b + c)^n is:",
+      "options": ["n + 1", "(n+1)(n+2)/2", "3n", "n^2"],
+      "correctIndex": 1,
+      "explanation": "This is a multinomial result often used as an extension of binomial.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g11_m7_q35",
+      "text": "If n is even, which binomial coefficient is the greatest?",
+      "options": ["nC0", "nCn", "nC(n/2)", "nC(n/2 - 1)"],
+      "correctIndex": 2,
+      "explanation": "The middle coefficient is always the largest.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m7_q36",
+      "text": "Find n if the ratio of the 5th term to the 4th term in (1+x)^n is 3:1 at x=1.",
+      "options": ["15", "10", "12", "14"],
+      "correctIndex": 0,
+      "explanation": "(nC4)/(nC3) = (n-3)/4 = 3 => n-3 = 12 => n=15.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_m7_q37",
+      "text": "Coefficient of x^2 in (1 + 2x)^5 is:",
+      "options": ["10", "20", "40", "80"],
+      "correctIndex": 2,
+      "explanation": "T3 = 5C2 (1)^3 (2x)^2 = 10 * 4x^2 = 40x^2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_m7_q38",
+      "text": "The rth term from the end in (a + b)^n is the ________ term from the beginning.",
+      "options": ["(n-r)th", "(n-r+1)th", "(n-r+2)th", "rth"],
+      "correctIndex": 2,
+      "explanation": "Standard formula to relate terms from end to beginning.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_m7_q39",
+      "text": "Binomial theorem was given by:",
+      "options": ["Pythagoras", "Isaac Newton", "Euclid", "Thales"],
+      "correctIndex": 1,
+      "explanation": "Newton generalized it, though special cases were known earlier.",
+      "frequencyRating": 1
+    },
+    {
+      "id": "g11_m7_q40",
+      "text": "Value of 6C3 is:",
+      "options": ["20", "120", "18", "6"],
+      "correctIndex": 0,
+      "explanation": "(6*5*4)/(3*2*1) = 20.",
+      "frequencyRating": 5
+    }
   ]
 }

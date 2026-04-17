@@ -1,0 +1,330 @@
+{
+  "id": "g11_eng_ch7",
+  "grade": "11",
+  "subject": "English",
+  "number": "7",
+  "title": "The Adventure",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_e7_q1",
+      "text": "Who is the author of 'The Adventure'?",
+      "options": ["Jayant Narlikar", "Nick Middleton", "Khushwant Singh", "Amitav Ghosh"],
+      "correctIndex": 0,
+      "explanation": "Jayant Narlikar, a famous astrophysicist, wrote this science fiction story.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e7_q2",
+      "text": "What is Professor Gaitonde's full name?",
+      "options": ["Gangadharpant Gaitonde", "Gajanan Gaitonde", "Gopal Gaitonde", "Govind Gaitonde"],
+      "correctIndex": 0,
+      "explanation": "His name is Professor Gangadharpant Gaitonde, a historian.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e7_q3",
+      "text": "Which train was Professor Gaitonde travelling on initially?",
+      "options": ["Deccan Queen", "Rajdhani Express", "Jijamata Express", "Shatabdi Express"],
+      "correctIndex": 2,
+      "explanation": "He was on the Jijamata Express travelling from Pune to Bombay.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e7_q4",
+      "text": "What was the strange observation Professor Gaitonde made at Victoria Terminus?",
+      "options": ["It was closed", "It was incredibly clean", "The staff were British and Anglo-Indians", "It was renamed"],
+      "correctIndex": 2,
+      "explanation": "In the alternative reality, the station was managed by the East India Company staff.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e7_q5",
+      "text": "According to the alternative history, who won the Third Battle of Panipat?",
+      "options": ["Abdali", "The Mughals", "The Marathas", "The British"],
+      "correctIndex": 2,
+      "explanation": "In this reality, the Marathas won, preventing British rule in India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e7_q6",
+      "text": "What is the name of the historian's friend who explains the phenomenon?",
+      "options": ["Rajendra Deshpande", "Ramesh Deshpande", "Rohan Deshpande", "Raghav Deshpande"],
+      "correctIndex": 0,
+      "explanation": "Rajendra Deshpande is a scientist who uses physics to explain the Professor's experience.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e7_q7",
+      "text": "The story bridges the gap between History and:",
+      "options": ["Biology", "Chemistry", "Quantum Physics", "Geography"],
+      "correctIndex": 2,
+      "explanation": "The story uses concepts like Catastrophe Theory and Lack of Determinism in Quantum Physics.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e7_q8",
+      "text": "What did Gangadharpant find in the library of the Town Hall?",
+      "options": ["A map", "Five volumes of history", "A diary", "A newspaper from the future"],
+      "correctIndex": 1,
+      "explanation": "He read five volumes of history to find where the timeline diverged.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e7_q9",
+      "text": "In the alternative timeline, the East India Company was:",
+      "options": ["Dissolved", "Expanding in India", "Confined to a few pockets like Bombay", "Ruling all of India"],
+      "correctIndex": 2,
+      "explanation": "The Marathas allowed it to stay for commercial reasons only.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e7_q10",
+      "text": "What physical evidence did Gangadharpant have of his 'adventure'?",
+      "options": ["A coin", "A torn page of a book (Bakhar)", "A photograph", "A British flag"],
+      "correctIndex": 1,
+      "explanation": "He accidentally pocketed a page from a 'Bakhar' which described the battle differently.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e7_q11",
+      "text": "What is 'determinism' in the context of the story?",
+      "options": ["Predicting history", "Predicting the state of a system based on laws", "Following a fixed path", "None of the above"],
+      "correctIndex": 1,
+      "explanation": "Physics laws usually allow prediction, but quantum mechanics suggests multiple possibilities.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e7_q12",
+      "text": "What happened to the Professor at the public meeting in Azad Maidan?",
+      "options": ["He was cheered", "He was ignored", "He was targeted with tomatoes and eggs", "He gave a great speech"],
+      "correctIndex": 2,
+      "explanation": "The crowd was hostile because he tried to occupy the empty presidential chair.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e7_q13",
+      "text": "Why was the chair empty at the lecture at Azad Maidan?",
+      "options": ["The speaker was late", "The audience was tired of symbolic chairmanships", "The police removed it", "It was broken"],
+      "correctIndex": 1,
+      "explanation": "In that version of India, people had abolished the custom of having a chairperson for meetings.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e7_q14",
+      "text": "Which theory explains why the Marathas won the battle in the other world?",
+      "options": ["Relativity", "Catastrophe Theory", "Evolution", "Big Bang"],
+      "correctIndex": 1,
+      "explanation": "A small change (the bullet missing Vishwasrao) led to a catastrophic change in the outcome.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e7_q15",
+      "text": "In the 'real' world, what happened to Professor Gaitonde just before the adventure?",
+      "options": ["He fell asleep", "He had a car accident", "He was hit by a truck", "He was struck by lightning"],
+      "correctIndex": 1,
+      "explanation": "He was involved in a collision with a truck while thinking about history.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e7_q16",
+      "text": "According to Rajendra, how many worlds exist?",
+      "options": ["Only one", "Infinite", "At least two that we can transition between", "None"],
+      "correctIndex": 2,
+      "explanation": "He suggests the possibility of parallel worlds based on different quantum outcomes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e7_q17",
+      "text": "What was the Professor's 1000th presidential address supposed to be about?",
+      "options": ["Science", "History", "Battle of Panipat", "Education"],
+      "correctIndex": 2,
+      "explanation": "He was a historian focusing on the implications of the Battle of Panipat.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e7_q18",
+      "text": "How did the Professor return to his own world?",
+      "options": ["He woke up in a hospital", "He took the train back", "He jumped in a river", "He didn't return"],
+      "correctIndex": 0,
+      "explanation": "He regained consciousness in the hospital in Pune after the crowd in the other world attacked him.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e7_q19",
+      "text": "What does 'Bakhar' mean?",
+      "options": ["A weapon", "A type of food", "Historical chronicles in Marathi", "A religious book"],
+      "correctIndex": 2,
+      "explanation": "Bakhars are Marathi historical narratives from the medieval period.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e7_q20",
+      "text": "Who was Vishwasrao in the context of the story?",
+      "options": ["A British General", "The son of the Peshwa", "A shopkeeper", "The driver of the truck"],
+      "correctIndex": 1,
+      "explanation": "His death (or survival) was the turning point of the Battle of Panipat.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e7_q21",
+      "text": "What did the Professor see in the Forbes building?",
+      "options": ["His son", "A ghost", "That he didn't work there", "The East India Company office"],
+      "correctIndex": 0,
+      "explanation": "He went to look for his son, Vinay Gaitonde, but found he didn't exist in that world.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e7_q22",
+      "text": "The Professor felt that the India he saw in the alternative world was:",
+      "options": ["Depressed", "Self-respecting and prosperous", "Poor", "Anarchic"],
+      "correctIndex": 1,
+      "explanation": "He was impressed by the India that was not colonized.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e7_q23",
+      "text": "What name was on the Professor's nameplate at the hospital?",
+      "options": ["Gangadharpant Gaitonde", "Unknown", "Patient No. 42", "Vinay Gaitonde"],
+      "correctIndex": 0,
+      "explanation": "He was back to his real identity in the hospital.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g11_e7_q24",
+      "text": "The story can be classified as:",
+      "options": ["Historical fiction", "Biographical", "Science fiction", "Romantic drama"],
+      "correctIndex": 2,
+      "explanation": "It uses scientific theories to explore a fictional historical premise.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e7_q25",
+      "text": "What happened when the Professor tried to talk to the librarian?",
+      "options": ["He was kicked out", "He was treated with respect", "He was ignored", "He couldn't speak"],
+      "correctIndex": 1,
+      "explanation": "The librarian helped him find the books he needed to research history.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e7_q26",
+      "text": "What is the 'Catastrophe Theory'?",
+      "options": ["Study of volcanoes", "Mathematical study of sudden changes", "A theory of the end of the world", "None"],
+      "correctIndex": 1,
+      "explanation": "It studies how small changes can lead to large, sudden shifts in a system.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e7_q27",
+      "text": "Why was the Professor so shocked by the train staff's uniforms?",
+      "options": ["They were dirty", "They had the Union Jack", "They had the East India Company logo", "They were wearing turbans"],
+      "correctIndex": 2,
+      "explanation": "The logo implied the company still existed and ruled trade.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e7_q28",
+      "text": "What was the outcome of the Peshwas' victory?",
+      "options": ["India became a democracy", "India remained under monarchies", "Democracy evolved gradually under Maratha rule", "India was conquered by France"],
+      "correctIndex": 2,
+      "explanation": "The Marathas modernised India and moved toward democratic institutions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e7_q29",
+      "text": "What did the crowd do when Gangadharpant refused to leave the stage?",
+      "options": ["They clapped", "They threw objects at him", "They carried him out peacefully", "They left the venue"],
+      "correctIndex": 1,
+      "explanation": "The crowd, determined not to have a chairman, physically removed him after throwing things.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e7_q30",
+      "text": "Rajendra Deshpande is a professor of:",
+      "options": ["History", "Marathi Literature", "Physics", "Mathematics"],
+      "correctIndex": 2,
+      "explanation": "He is a scientist who provides the technical explanation for the parallel worlds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e7_q31",
+      "text": "In the alternative history, Bombay was the only place:",
+      "options": ["Where Marathas lived", "Where British had a foothold", "That was poor", "That was modern"],
+      "correctIndex": 1,
+      "explanation": "It was the only territory still leased to the British East India Company.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e7_q32",
+      "text": "The Professor noticed that the Hornby Road looked:",
+      "options": ["Exactly the same", "Like a typical British High Street", "Like a village road", "Deserted"],
+      "correctIndex": 1,
+      "explanation": "It had British shops and offices like Boots, Woolworths, etc., typical of colonial settings.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e7_q33",
+      "text": "What did Rajendra show the Professor to prove his theory?",
+      "options": ["A telescope", "The torn page from the Bakhar", "A map of the galaxy", "A computer simulation"],
+      "correctIndex": 1,
+      "explanation": "The Professor produced the torn page, which was tangible proof of his experience.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e7_q34",
+      "text": "What was the name of the book Gangadharpant was reading in the Town Hall?",
+      "options": ["History of India", "Bhausahebanchi Bakhar", "The Mughal Era", "War and Peace"],
+      "correctIndex": 1,
+      "explanation": "This specific Bakhar contained the account of the Battle of Panipat.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e7_q35",
+      "text": "Which station comes before Victoria Terminus for the Jijamata Express?",
+      "options": ["Thane", "Byculla", "Dadar", "Pune"],
+      "correctIndex": 1,
+      "explanation": "The train stopped at Byculla before reaching the final station.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e7_q36",
+      "text": "How did the Professor describe the state of India's economy in the other world?",
+      "options": ["Dependent on others", "Self-reliant", "Ruined", "Barter-based"],
+      "correctIndex": 1,
+      "explanation": "India had its own industries and was not dependent on the West.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e7_q37",
+      "text": "According to Rajendra, the Professor's transition happened because of:",
+      "options": ["Magic", "A dream", "A collision of his thoughts and the accident", "A time machine"],
+      "correctIndex": 2,
+      "explanation": "His brain was focused on the Panipat battle while the accident triggered a 'quantum jump'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e7_q38",
+      "text": "Did the Professor ever deliver his 1000th speech?",
+      "options": ["Yes", "No, he declined to do so later", "Only in the other world", "The story ends before that"],
+      "correctIndex": 1,
+      "explanation": "After his experience, he sent his apologies to the organizers and declined to chair the meeting.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e7_q39",
+      "text": "The phrase 'lack of determinism' refers to:",
+      "options": ["Historical uncertainty", "Inability to predict electron behavior", "Weak political leadership", "Laziness"],
+      "correctIndex": 1,
+      "explanation": "It is a principle of quantum mechanics where outcomes are probabilistic, not fixed.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e7_q40",
+      "text": "What was the Professor's final decision regarding public meetings?",
+      "options": ["To attend more", "To never chair a meeting again", "To move to Bombay", "To become a scientist"],
+      "correctIndex": 1,
+      "explanation": "He decided to stay away from the presidential chair forever.",
+      "frequencyRating": 5
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "id": "g11_eng_ch4",
+  "grade": "11",
+  "subject": "English",
+  "number": "4",
+  "title": "The Adventure",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_e4_q1",
+      "text": "Who is the protagonist of the story 'The Adventure'?",
+      "options": ["Rajendra Deshpande", "Professor Gangadharpant Gaitonde", "Vishwasrao", "Jayant Narlikar"],
+      "correctIndex": 1,
+      "explanation": "Professor Gaitonde, a historian, is the main character who experiences an alternate reality.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e4_q2",
+      "text": "Which historical event is the focal point of the Professor's transition into an alternate world?",
+      "options": ["Battle of Panipat", "Independence of India", "World War II", "French Revolution"],
+      "correctIndex": 0,
+      "explanation": "The story explores what would have happened if the Marathas had won the Third Battle of Panipat.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e4_q3",
+      "text": "In the alternate reality, who won the Battle of Panipat?",
+      "options": ["Abdali", "The Marathas", "The British", "The Mughals"],
+      "correctIndex": 1,
+      "explanation": "In the alternate world, the Marathas won, preventing British rule in India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e4_q4",
+      "text": "Where was Professor Gaitonde traveling to when the story begins?",
+      "options": ["Pune", "Bombay", "Delhi", "Calcutta"],
+      "correctIndex": 1,
+      "explanation": "He was on the Jijamata Express traveling from Pune to Bombay (Mumbai).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e4_q5",
+      "text": "What was the name of the train the Professor was on?",
+      "options": ["Deccan Queen", "Jijamata Express", "Rajdhani Express", "Shatabdi Express"],
+      "correctIndex": 1,
+      "explanation": "He was traveling on the Jijamata Express, which was faster than the blue-and-silver Deccan Queen.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e4_q6",
+      "text": "What surprised the Professor when he reached Victoria Terminus?",
+      "options": ["The station was empty", "The presence of British personnel and the 'Union Jack'", "The station was in Pune", "The station was destroyed"],
+      "correctIndex": 1,
+      "explanation": "He saw East India Company signs and British soldiers, which was impossible in his original 20th-century India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e4_q7",
+      "text": "Which book did the Professor consult in the library to find the truth?",
+      "options": ["The History of India", "Bakhars", "The Vedas", "Discovery of India"],
+      "correctIndex": 1,
+      "explanation": "He looked into the 'Bakhars' (historical chronicles) to see how the Marathas won the battle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e4_q8",
+      "text": "According to the alternate history, what saved Vishwasrao from the bullet?",
+      "options": ["He wore armor", "The bullet missed him by a whisker", "He wasn't at the battle", "A soldier saved him"],
+      "correctIndex": 1,
+      "explanation": "In the alternate version, the bullet brushed past his ear instead of killing him, which changed the morale of the army.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e4_q9",
+      "text": "What is the 'Catastrophe Theory' explained by Rajendra Deshpande?",
+      "options": ["A theory about natural disasters", "Small changes in initial conditions lead to vastly different outcomes", "The theory of evolution", "A theory about the end of the world"],
+      "correctIndex": 1,
+      "explanation": "It explains how a single event (like a bullet missing) can flip the outcome of a chaotic situation like a battle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e4_q10",
+      "text": "Why did the Professor go to Azad Maidan?",
+      "options": ["To lead a protest", "To attend a lecture where the presidential chair was empty", "To meet a friend", "To catch a bus"],
+      "correctIndex": 1,
+      "explanation": "He saw a lecture in progress with an empty chair and instinctively went to occupy it as he was used to presiding over them.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e4_q11",
+      "text": "What happened when the Professor tried to sit in the empty chair at Azad Maidan?",
+      "options": ["The audience cheered", "The audience threw objects and pushed him off the stage", "He gave a great speech", "Nothing happened"],
+      "correctIndex": 1,
+      "explanation": "In this reality, people were tired of long presidential speeches and wanted to hear only the speaker.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e4_q12",
+      "text": "What did the Professor have in his pocket when he returned to his own world?",
+      "options": ["A gold coin", "A torn page from a Bakhar", "A British flag", "Nothing"],
+      "correctIndex": 1,
+      "explanation": "The torn page was physical proof that his experience wasn't just a dream or hallucination.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e4_q13",
+      "text": "Who is Rajendra Deshpande?",
+      "options": ["A fellow historian", "A physicist and friend of Professor Gaitonde", "The Mayor of Bombay", "A train conductor"],
+      "correctIndex": 1,
+      "explanation": "Rajendra uses scientific theories to try and explain the Professor's supernatural experience.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e4_q14",
+      "text": "According to Rajendra, how did the Professor transition between worlds?",
+      "options": ["Time travel machine", "A magic spell", "A lack of determinism in quantum theory combined with a physical shock", "He never left his world"],
+      "correctIndex": 2,
+      "explanation": "Rajendra suggests that at the moment of the accident, the Professor's mind was focused on history, triggering a 'jump' in reality.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e4_q15",
+      "text": "In the alternate reality, India was a ________ country.",
+      "options": ["Colonized", "Democratic and technologically advanced under Maratha rule", "Dictatorial", "Divided into small states"],
+      "correctIndex": 1,
+      "explanation": "India had modernized on its own terms and allowed the British to stay only for commerce.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e4_q16",
+      "text": "What was the significance of the East India Company in the alternate world?",
+      "options": ["It ruled India", "It was just a commercial organization with limited influence", "It didn't exist", "It was a charity"],
+      "correctIndex": 1,
+      "explanation": "The Marathas kept them at bay, allowing them to operate only in specific areas like Bombay.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e4_q17",
+      "text": "The Professor was planning to give his ________ presidential address.",
+      "options": ["1st", "100th", "500th", "1000th"],
+      "correctIndex": 3,
+      "explanation": "He was about to chair his 1000th meeting, which explains his obsession with presiding over the lecture.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e4_q18",
+      "text": "What did the Professor see through the window of the library?",
+      "options": ["The Taj Mahal", "The Town Hall", "The Red Fort", "A modern skyscraper"],
+      "correctIndex": 1,
+      "explanation": "The library was located in the Town Hall of Bombay.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e4_q19",
+      "text": "Which scientific concept deals with the behavior of subatomic particles having multiple paths?",
+      "options": ["Relativity", "Quantum Theory", "Thermodynamics", "Optics"],
+      "correctIndex": 1,
+      "explanation": "Rajendra uses the 'Lack of Determinism in Quantum Theory' to explain the existence of parallel worlds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e4_q20",
+      "text": "How did the Professor lose consciousness in his original world?",
+      "options": ["He fell asleep", "He was hit by a truck", "He had a heart attack", "He was poisoned"],
+      "correctIndex": 1,
+      "explanation": "He was involved in a collision with a truck while thinking about history.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e4_q21",
+      "text": "The alternate Bombay (Mumbai) was characterized by:",
+      "options": ["Dirty streets", "Cleanliness and British-style buildings/uniforms", "Ancient temples", "A desert landscape"],
+      "correctIndex": 1,
+      "explanation": "The city looked very different, more like a British town with the Union Jack flying.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e4_q22",
+      "text": "What happened to the Marathas after their victory in the alternate history?",
+      "options": ["They became weak", "They expanded their influence and established a supremacy", "They were defeated by the French", "They left India"],
+      "correctIndex": 1,
+      "explanation": "The victory consolidated their power over North India.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e4_q23",
+      "text": "The Professor noticed that the currency in the alternate world was:",
+      "options": ["Pounds", "Rupees with the image of the King", "Coins from the East India Company", "Gold bars"],
+      "correctIndex": 1,
+      "explanation": "He saw rupees that were different from the ones he knew in independent India.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e4_q24",
+      "text": "In the alternate timeline, India became a republic in the ________ century.",
+      "options": ["18th", "19th", "20th", "21st"],
+      "correctIndex": 2,
+      "explanation": "It became a democratic republic eventually, but under internal leadership rather than British struggle.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e4_q25",
+      "text": "Why did Rajendra call the experience 'The Adventure'?",
+      "options": ["Because it was a fun trip", "Because the Professor ventured into another world and returned", "Because he fought in a battle", "Because he met the King"],
+      "correctIndex": 1,
+      "explanation": "It was a mental and physical adventure through the fabric of reality.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e4_q26",
+      "text": "What is the meaning of 'Deterministic' in the context of the story?",
+      "options": ["Predictable outcome", "Random", "Unfair", "Historic"],
+      "correctIndex": 0,
+      "explanation": "Classical physics is deterministic, but the story relies on the non-deterministic nature of quantum events.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e4_q27",
+      "text": "Where did the Professor find himself after being pushed out at Azad Maidan?",
+      "options": ["In a jail", "Back in his hospital bed in Pune", "In the library again", "In the train"],
+      "correctIndex": 1,
+      "explanation": "He returned to his own reality, waking up in a hospital after his accident.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e4_q28",
+      "text": "How many volumes of history had the Professor written?",
+      "options": ["One", "Three", "Five", "Ten"],
+      "correctIndex": 2,
+      "explanation": "He was reading his own fifth volume in the library of the alternate world.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e4_q29",
+      "text": "The Jijamata Express followed the ________ route.",
+      "options": ["Pune-Bombay", "Delhi-Mumbai", "Calcutta-Pune", "Bombay-Chennai"],
+      "correctIndex": 0,
+      "explanation": "This was the Professor's regular commuting route.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e4_q30",
+      "text": "What was the 'Forbes' building in the story?",
+      "options": ["A library", "The headquarters of the East India Company", "A hospital", "The Professor's house"],
+      "correctIndex": 1,
+      "explanation": "He went there to see if his son worked there in that reality.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e4_q31",
+      "text": "Who was the 'Khan Sahib' the Professor met on the train?",
+      "options": ["A Maratha general", "A fellow passenger and merchant", "A British spy", "A historian"],
+      "correctIndex": 1,
+      "explanation": "Khan Sahib was traveling to Peshawar for business.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e4_q32",
+      "text": "The story suggests that reality is:",
+      "options": ["Fixed and unchangeable", "Subjective and potentially multi-layered", "Simple and easy to understand", "A dream"],
+      "correctIndex": 1,
+      "explanation": "The story explores the concept of parallel universes existing simultaneously.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e4_q33",
+      "text": "The bullet that killed Vishwasrao in real history was fired by:",
+      "options": ["Abdali", "The Mughal Emperor", "A sniper", "The British"],
+      "correctIndex": 0,
+      "explanation": "In real history, the Marathas lost Panipat when their leader was killed.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e4_q34",
+      "text": "What did Rajendra use to prove his point about the two histories?",
+      "options": ["A telescope", "The torn page from the Bakhar", "A map of India", "A chemistry experiment"],
+      "correctIndex": 1,
+      "explanation": "The physical presence of the page in the Professor's pocket was the 'observation' that confirmed the transition.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e4_q35",
+      "text": "The alternate history showed India as a country that ________ the West.",
+      "options": ["Hated", "Was colonized by", "Traded with but remained independent from", "Conquered"],
+      "correctIndex": 2,
+      "explanation": "India accepted Western technology but retained political sovereignty.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e4_q36",
+      "text": "Professor Gaitonde was a specialist in:",
+      "options": ["Modern Physics", "Ancient History", "Indian History", "Sanskrit Literatures"],
+      "correctIndex": 2,
+      "explanation": "His deep knowledge of history allowed him to identify the discrepancies in the alternate world.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e4_q37",
+      "text": "The 'Saracen's Head' mentioned in the story was:",
+      "options": ["A restaurant", "The name of a ship", "A military rank", "A mythological figure"],
+      "correctIndex": 0,
+      "explanation": "It was a restaurant where the Professor ate while in alternate Bombay.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g11_e4_q38",
+      "text": "Azad Maidan is a famous landmark in:",
+      "options": ["Pune", "Delhi", "Bombay", "Lonavala"],
+      "correctIndex": 2,
+      "explanation": "It is a large open ground in Mumbai used for meetings and cricket.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e4_q39",
+      "text": "The story 'The Adventure' is written by:",
+      "options": ["Khushwant Singh", "Jayant Narlikar", "A.R. Williams", "Nick Middleton"],
+      "correctIndex": 1,
+      "explanation": "Jayant Narlikar is a famous Indian astrophysicist and writer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e4_q40",
+      "text": "At the end, the Professor decided ________ his 1000th meeting.",
+      "options": ["To attend", "Not to attend", "To lead", "To reschedule"],
+      "correctIndex": 1,
+      "explanation": "He was so shaken by the incident at Azad Maidan that he declined the invitation to the actual 1000th meeting in his own world.",
+      "frequencyRating": 5
+    }
+  ]
+}

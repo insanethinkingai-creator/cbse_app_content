@@ -1,0 +1,330 @@
+{
+  "id": "g11_eng_ch2",
+  "grade": "11",
+  "subject": "English",
+  "number": "2",
+  "title": "We’re Not Afraid to Die... if We Can All Be Together",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_e2_q1",
+      "text": "Who is the author of 'We’re Not Afraid to Die... if We Can All Be Together'?",
+      "options": ["Gordon Cook and Alan East", "Khushwant Singh", "A.R. Williams", "Nani Palkhivala"],
+      "correctIndex": 0,
+      "explanation": "Gordon Cook is the captain of the ship and narrator of the story.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e2_q2",
+      "text": "What was the name of the ship in the story?",
+      "options": ["Seawalker", "Wavewalker", "Ocean Queen", "Adventure"],
+      "correctIndex": 1,
+      "explanation": "Wavewalker was a 23-meter, 30-ton wooden-hulled beauty.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e2_q3",
+      "text": "From where did the narrator start his journey?",
+      "options": ["London", "Cape Town", "Plymouth, England", "Sydney"],
+      "correctIndex": 2,
+      "explanation": "The journey began in July 1976 from Plymouth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e2_q4",
+      "text": "Who did the narrator want to duplicate the voyage of?",
+      "options": ["Christopher Columbus", "Vasco da Gama", "Captain James Cook", "Marco Polo"],
+      "correctIndex": 2,
+      "explanation": "He wanted to repeat the round-the-world voyage made 200 years earlier.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e2_q5",
+      "text": "Who were the crewmen the narrator took with him from Cape Town?",
+      "options": ["Larry Vigil and Herb Seigler", "Adam and Eve", "Jack and Jill", "John and Mary"],
+      "correctIndex": 0,
+      "explanation": "American Larry Vigil and Swiss Herb Seigler were hired to help cross the Southern Indian Ocean.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e2_q6",
+      "text": "The first leg of the planned ______ voyage passed pleasantly.",
+      "options": ["50,000 km", "105,000 km", "200,000 km", "15,000 km"],
+      "correctIndex": 1,
+      "explanation": "The first three years and 105,000 kilometers went smoothly.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e2_q7",
+      "text": "On which day did the weather begin to turn bad?",
+      "options": ["Christmas Day", "New Year's Day", "January 2", "January 4"],
+      "correctIndex": 2,
+      "explanation": "At dawn on January 2, the waves became gigantic.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e2_q8",
+      "text": "What did the crew do to slow down the boat during the storm?",
+      "options": ["Stopped the engine", "Dropped the storm jib", "Turned the wheel", "Threw out the cargo"],
+      "correctIndex": 1,
+      "explanation": "They dropped the storm jib and lashed a heavy mooring rope in a loop across the stern.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e2_q9",
+      "text": "What hit the ship that the narrator initially thought was a cloud?",
+      "options": ["A giant wave", "An iceberg", "A whale", "A rock"],
+      "correctIndex": 0,
+      "explanation": "A tremendous explosion shook the deck as a vertical wave hit the ship.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e2_q10",
+      "text": "The narrator's head smashed into the ______ when the wave hit.",
+      "options": ["Mast", "Wheel", "Floor", "Door"],
+      "correctIndex": 1,
+      "explanation": "He was thrown overboard and then hit back into the boat, smashing his head.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e2_q11",
+      "text": "What was the name of the narrator's daughter?",
+      "options": ["Mary", "Suzanne", "Jane", "Lucy"],
+      "correctIndex": 1,
+      "explanation": "Sue (Suzanne) was seven years old during the voyage.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e2_q12",
+      "text": "What was the name of the narrator's son?",
+      "options": ["John", "Jonathan", "Jimmy", "Jack"],
+      "correctIndex": 1,
+      "explanation": "Jonathan was six years old.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e2_q13",
+      "text": "Who said, 'We are sinking!'?",
+      "options": ["Larry", "Herb", "Mary", "Jonathan"],
+      "correctIndex": 2,
+      "explanation": "The narrator's wife, Mary, appeared when the decks were smashed.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e2_q14",
+      "text": "How did Larry and Herb act during the crisis?",
+      "options": ["Panicked", "Crying", "Pumping like madmen", "Sleeping"],
+      "correctIndex": 2,
+      "explanation": "The crewmen worked tirelessly to pump water out of the ship.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e2_q15",
+      "text": "What happened to the electric pump?",
+      "options": ["It was stolen", "It short-circuited", "It ran out of fuel", "It was broken"],
+      "correctIndex": 1,
+      "explanation": "The electric pump short-circuited after the handpumps started blocking with debris.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e2_q16",
+      "text": "After 36 hours of continuous pumping, they finally ______.",
+      "options": ["Reached land", "Reached the last few centimeters of water", "Repaired the ship", "Stopped the storm"],
+      "correctIndex": 1,
+      "explanation": "By January 4, they had almost cleared the water.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e2_q17",
+      "text": "What did they eat for their first meal in almost two days?",
+      "options": ["Pizza", "Sandwiches", "Corned beef and cracker biscuits", "Soup"],
+      "correctIndex": 2,
+      "explanation": "Mary found some corned beef and biscuits for them to eat.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e2_q18",
+      "text": "When did the storm start again after a brief respite?",
+      "options": ["January 4 evening", "January 5 morning", "January 2 afternoon", "January 6"],
+      "correctIndex": 0,
+      "explanation": "By 4 p.m. on Jan 4, black clouds began building up again.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e2_q19",
+      "text": "Who said the title of the story?",
+      "options": ["Jonathan", "Suzanne", "Narrator", "Mary"],
+      "correctIndex": 0,
+      "explanation": "The six-year-old Jonathan showed immense bravery by saying he wasn't afraid to die.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e2_q20",
+      "text": "What was the destination the narrator was aiming for?",
+      "options": ["Sydney", "Melbourne", "Ile Amsterdam", "Mauritius"],
+      "correctIndex": 2,
+      "explanation": "They were looking for a tiny island in the vast ocean called Ile Amsterdam.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e2_q21",
+      "text": "What did Sue give the narrator to cheer him up?",
+      "options": ["A flower", "A card with cartoons", "A book", "A hug"],
+      "correctIndex": 1,
+      "explanation": "She made a card with 'funny people' to make them laugh.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e2_q22",
+      "text": "What was Ile Amsterdam described as?",
+      "options": ["A tropical paradise", "A volcanic rock", "A sandy beach", "A frozen tundra"],
+      "correctIndex": 1,
+      "explanation": "It was a bleak piece of volcanic rock with little vegetation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e2_q23",
+      "text": "How many inhabitants were on the island?",
+      "options": ["None", "28", "100", "500"],
+      "correctIndex": 1,
+      "explanation": "28 inhabitants cheered them as they reached the island.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e2_q24",
+      "text": "What happened to Sue's head injury?",
+      "options": ["It healed quickly", "It required 6 minor surgeries", "She forgot about it", "She died"],
+      "correctIndex": 1,
+      "explanation": "She had a recurring bump that needed several operations to remove blood clots.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e2_q25",
+      "text": "What was the Southern Indian Ocean described as in the text?",
+      "options": ["Calm and peaceful", "The world's roughest seas", "Warm and sunny", "Empty"],
+      "correctIndex": 1,
+      "explanation": "The Southern Indian Ocean is known for its dangerous and rough conditions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e2_q26",
+      "text": "The narrator spent ______ years preparing for the voyage.",
+      "options": ["5", "10", "16", "2"],
+      "correctIndex": 2,
+      "explanation": "He and his wife had spent 16 years honing their seafaring skills.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e2_q27",
+      "text": "The children's room was located ______.",
+      "options": ["On the deck", "Below", "In the stern", "In the bow"],
+      "correctIndex": 1,
+      "explanation": "They were in their bunks when the narrator went to check on them.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e2_q28",
+      "text": "When the wave hit, the narrator felt he was ______.",
+      "options": ["Flying", "Losing consciousness", "Accepting his approaching death", "Dreaming"],
+      "correctIndex": 2,
+      "explanation": "He felt very peaceful while he thought he was dying.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e2_q29",
+      "text": "The island was used as a ______ base.",
+      "options": ["Military", "Naval", "French scientific", "Whaling"],
+      "correctIndex": 2,
+      "explanation": "Ile Amsterdam is a French scientific research station.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e2_q30",
+      "text": "What kind of boat was Wavewalker?",
+      "options": ["A speedboat", "A yacht", "A wooden-hulled beauty", "A raft"],
+      "correctIndex": 2,
+      "explanation": "It was specifically built and tested for rough weather.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e2_q31",
+      "text": "Who said the narrator was the 'best daddy in the whole world'?",
+      "options": ["Jonathan", "Suzanne", "Mary", "Larry"],
+      "correctIndex": 0,
+      "explanation": "Jonathan said this when they finally found the island.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e2_q32",
+      "text": "What did the narrator use to calculate their position after the equipment failed?",
+      "options": ["A GPS", "A spare compass and a sextant", "Mental math", "The stars"],
+      "correctIndex": 1,
+      "explanation": "He made calculations using a compass not adjusted for magnetic variation.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e2_q33",
+      "text": "The waves on January 2 were as high as ______.",
+      "options": ["10 meters", "15 meters", "20 meters", "50 meters"],
+      "correctIndex": 1,
+      "explanation": "The waves were 15 meters high, as high as the main mast.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e2_q34",
+      "text": "The narrator found a ______ electric pump under the chartroom floor.",
+      "options": ["Spare", "Broken", "Heavy", "Small"],
+      "correctIndex": 0,
+      "explanation": "This spare pump helped them when the others failed.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e2_q35",
+      "text": "How did the family spend Christmas?",
+      "options": ["In Plymouth", "In Cape Town", "On the boat with a Christmas tree", "In Sydney"],
+      "correctIndex": 2,
+      "explanation": "They celebrated 3,500 kilometers east of Cape Town on the boat.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e2_q36",
+      "text": "What was the age of the narrator's daughter?",
+      "options": ["6", "7", "8", "9"],
+      "correctIndex": 1,
+      "explanation": "Sue was seven years old.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e2_q37",
+      "text": "The narrator's left ribs were ______ and his mouth filled with blood.",
+      "options": ["Broken", "Cracked", "Bruised", "Cut"],
+      "correctIndex": 1,
+      "explanation": "He suffered serious injuries but kept working to save the ship.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e2_q38",
+      "text": "What did they use to cover the gaping holes in the deck?",
+      "options": ["Duct tape", "Canvas and waterproof hatch covers", "Wood", "Metal sheets"],
+      "correctIndex": 1,
+      "explanation": "He stretched canvas to stop water from streaming below.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e2_q39",
+      "text": "The voyage was meant to cover ______ in three years.",
+      "options": ["100,000 km", "105,000 km", "150,000 km", "200,000 km"],
+      "correctIndex": 1,
+      "explanation": "The first leg was 105,000 km.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e2_q40",
+      "text": "What was the main theme of the story?",
+      "options": ["Fear of death", "Survival and optimism under stress", "Love for the sea", "History of James Cook"],
+      "correctIndex": 1,
+      "explanation": "It highlights how courage and unity can help overcome extreme challenges.",
+      "frequencyRating": 5
+    }
+  ]
+}

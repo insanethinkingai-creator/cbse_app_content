@@ -1,0 +1,330 @@
+{
+  "id": "g11_eng_ch8",
+  "grade": "11",
+  "subject": "English",
+  "number": "8",
+  "title": "Silk Road",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_e8_q1",
+      "text": "Who is the author of 'Silk Road'?",
+      "options": ["Nick Middleton", "Jayant Narlikar", "Terence Rattigan", "A.R. Williams"],
+      "correctIndex": 0,
+      "explanation": "Nick Middleton is a physical geographer and travel writer who documented his journey to Mount Kailash.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e8_q2",
+      "text": "What is the primary destination of the author in the story?",
+      "options": ["Lhasa", "Mount Kailash", "Kathmandu", "Beijing"],
+      "correctIndex": 1,
+      "explanation": "The author is travelling to Mount Kailash to perform the 'Kora'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e8_q3",
+      "text": "Who was Lhamo in the story?",
+      "options": ["The author's wife", "A Tibetan woman who gave the author a gift", "A guide", "A doctor"],
+      "correctIndex": 1,
+      "explanation": "Lhamo was the lady who gave him a long-sleeved sheepskin coat as a farewell gift.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e8_q4",
+      "text": "Who was Tsetan?",
+      "options": ["The author's friend", "A driver and guide", "A monk", "A medical assistant"],
+      "correctIndex": 1,
+      "explanation": "Tsetan was the driver hired to take the author to Mount Kailash.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e8_q5",
+      "text": "What does the 'Kora' refer to?",
+      "options": ["A Tibetan meal", "A religious circumambulation", "A mountain peak", "A traditional song"],
+      "correctIndex": 1,
+      "explanation": "Kora is the act of walking around a sacred site, like Mount Kailash.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e8_q6",
+      "text": "The author compares the Drokbas (nomad shepherds) to:",
+      "options": ["Farmers", "Solitary figures", "Ghosts", "Kings"],
+      "correctIndex": 1,
+      "explanation": "He observes them standing still and staring at the car, looking like lonely figures in the landscape.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e8_q7",
+      "text": "What are 'Tibetan Mastiffs' primarily used for?",
+      "options": ["Racing", "Hunting", "Guarding the nomad tents", "Pets"],
+      "correctIndex": 2,
+      "explanation": "These large, black dogs are used as ferocious guard dogs for the sheep and tents.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e8_q8",
+      "text": "What was the altitude of the first high pass they crossed?",
+      "options": ["5,000 meters", "5,210 meters", "5,515 meters", "4,500 meters"],
+      "correctIndex": 1,
+      "explanation": "The pass was at 5,210 meters above sea level.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e8_q9",
+      "text": "How did the author feel as they climbed higher in altitude?",
+      "options": ["Energetic", "Experienced a headache and chest congestion", "Hungry", "Sleepy"],
+      "correctIndex": 1,
+      "explanation": "The drop in air pressure caused him physical discomfort and breathing issues.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e8_q10",
+      "text": "What is the 'shining' salt lake mentioned in the text?",
+      "options": ["Lake Mansarovar", "Lake Rakshastal", "Lake Hor", "Not named"],
+      "correctIndex": 2,
+      "explanation": "The town of Hor is situated on the shore of Lake Mansarovar, but the author finds Hor miserable.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e8_q11",
+      "text": "Hor is described as a place with:",
+      "options": ["Lush greenery", "Great beauty", "Dust and rocks", "Modern buildings"],
+      "correctIndex": 2,
+      "explanation": "The author found Hor to be a grim, miserable place with no vegetation, only dust and rocks.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e8_q12",
+      "text": "Lake Mansarovar is the source of which rivers?",
+      "options": ["Ganga and Yamuna", "Indus, Ganges, Sutlej, and Brahmaputra", "Nile and Amazon", "Mekong"],
+      "correctIndex": 1,
+      "explanation": "Hindu and Buddhist cosmology identifies the lake as the source of these four major rivers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e8_q13",
+      "text": "What happened to the author in Darchen?",
+      "options": ["He met a friend", "He fell seriously ill", "He got lost", "He found a treasure"],
+      "correctIndex": 1,
+      "explanation": "He suffered from severe sinus congestion and couldn't sleep at night.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e8_q14",
+      "text": "Who treated the author in Darchen?",
+      "options": ["A modern surgeon", "A Tibetan doctor in a traditional clinic", "Tsetan", "Norbu"],
+      "correctIndex": 1,
+      "explanation": "He was taken to a medical college where a Tibetan doctor gave him herbal medicine.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e8_q15",
+      "text": "The Tibetan medicine the author received looked like:",
+      "options": ["Liquid syrup", "Small pellets and brown powder", "Injections", "Large pills"],
+      "correctIndex": 1,
+      "explanation": "The medicine was provided in paper envelopes containing brown powder and pellets.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e8_q16",
+      "text": "Why was the author disappointed in Darchen initially?",
+      "options": ["It was too expensive", "There were no pilgrims", "The weather was too hot", "It was too crowded"],
+      "correctIndex": 1,
+      "explanation": "He arrived before the peak pilgrimage season and found the town quiet and devoid of other pilgrims.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e8_q17",
+      "text": "Who did the author meet in a cafe in Darchen?",
+      "options": ["Daniel", "Tsetan", "Norbu", "Lhamo"],
+      "correctIndex": 2,
+      "explanation": "He met Norbu, an academic who also wanted to do the Kora.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e8_q18",
+      "text": "Where did Norbu work?",
+      "options": ["A Tibetan temple", "The Chinese Academy of Social Sciences in Beijing", "A hospital in Delhi", "He was a shepherd"],
+      "correctIndex": 1,
+      "explanation": "Norbu was a Tibetan working in Beijing who had written papers on Mount Kailash.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e8_q19",
+      "text": "Why was Norbu a perfect companion for the author?",
+      "options": ["He knew the way", "He was also a 'lonely' pilgrim and knew English", "He was very fit", "He had a car"],
+      "correctIndex": 1,
+      "explanation": "Both were non-traditional pilgrims who felt out of place among the religious crowds.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e8_q20",
+      "text": "What was Norbu's physical condition for the Kora?",
+      "options": ["Extremely athletic", "Thin and fast", "Fat and out of breath", "He was a professional climber"],
+      "correctIndex": 2,
+      "explanation": "Norbu was quite heavy and worried about his ability to complete the trek.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e8_q21",
+      "text": "What was the name of the author's friend who left him at Hor?",
+      "options": ["Daniel", "Tsetan", "Norbu", "Lhamo"],
+      "correctIndex": 0,
+      "explanation": "Daniel returned to Lhasa by truck, leaving the author to continue with Tsetan.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e8_q22",
+      "text": "The title 'Silk Road' refers to:",
+      "options": ["A road made of silk", "The ancient trade route linking East and West", "A brand of silk", "A fictional place"],
+      "correctIndex": 1,
+      "explanation": "It refers to the historic network of trade routes that passed through this region.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e8_q23",
+      "text": "Tsetan was a ________ by religion.",
+      "options": ["Hindu", "Buddhist", "Christian", "Muslim"],
+      "correctIndex": 1,
+      "explanation": "Tsetan was a devout Buddhist, as seen when he says it wouldn't matter if the author died as long as it didn't affect business, but as a Buddhist he felt for him.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e8_q24",
+      "text": "What did the author use to get some relief from his cold?",
+      "options": ["Oxygen", "A Vicks inhaler", "Hot tea", "He slept upright"],
+      "correctIndex": 1,
+      "explanation": "He used a Vicks inhaler for temporary relief of his congestion.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e8_q25",
+      "text": "The car the author travelled in was a:",
+      "options": ["Jeep", "Truck", "Toyota", "Bus"],
+      "correctIndex": 2,
+      "explanation": "The text mentions Tsetan's Toyota car.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e8_q26",
+      "text": "The landscape of Tibet is described as:",
+      "options": ["A tropical forest", "Vast, open, and high-altitude desert", "Coastal plains", "Swamplands"],
+      "correctIndex": 1,
+      "explanation": "The plateau is a high, cold, and dry landscape.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e8_q27",
+      "text": "What did Tsetan do when they reached a patch of snow?",
+      "options": ["He drove fast over it", "He put dirt on the snow for grip", "He turned back", "He waited for it to melt"],
+      "correctIndex": 1,
+      "explanation": "To prevent the car from slipping, they threw dirt on the icy snow.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e8_q28",
+      "text": "The author's journey took place in which region?",
+      "options": ["Himalayas", "Andes", "Rockies", "Alps"],
+      "correctIndex": 0,
+      "explanation": "Mount Kailash is in the Transhimalayan region of Tibet.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e8_q29",
+      "text": "What was the main challenge the author faced in his journey?",
+      "options": ["Wild animals", "Hostile people", "Altitude and physical health", "Lack of money"],
+      "correctIndex": 2,
+      "explanation": "Altitude sickness and cold were his primary hurdles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e8_q30",
+      "text": "How did the author describe his first night in Darchen?",
+      "options": ["Peaceful", "A struggle for breath", "Exciting", "Boring"],
+      "correctIndex": 1,
+      "explanation": "He was terrified he would die in his sleep because he couldn't breathe through his nose.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e8_q31",
+      "text": "What was the name of the pass they crossed at 5,515 meters?",
+      "options": ["Hor Pass", "The Snow Pass", "Not specifically named", "Kailash Pass"],
+      "correctIndex": 2,
+      "explanation": "The text mentions crossing a pass at 5,515 meters but does not give a specific name.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_e8_q32",
+      "text": "Tsetan took the author back to ________ after leaving him in Darchen.",
+      "options": ["Pune", "Lhasa", "Beijing", "Delhi"],
+      "correctIndex": 1,
+      "explanation": "After ensuring the author was okay, Tsetan returned to Lhasa.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e8_q33",
+      "text": "What did the nomads use to burn for fuel?",
+      "options": ["Wood", "Coal", "Dried dung", "Oil"],
+      "correctIndex": 2,
+      "explanation": "Dried yak dung is the standard fuel for nomads in the treeless Tibetan plateau.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e8_q34",
+      "text": "How did the Tibetan Mastiffs react to the car?",
+      "options": ["They ran away", "They ignored it", "They chased it ferociously", "They barked from far away"],
+      "correctIndex": 2,
+      "explanation": "They are described as running straight at the car like bullets, and only turning away at the last second.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e8_q35",
+      "text": "The author's tone in 'Silk Road' is primarily:",
+      "options": ["Highly religious", "Descriptive and analytical", "Angry", "Fictional"],
+      "correctIndex": 1,
+      "explanation": "As a geographer, his writing is observational, factual, and personal.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e8_q36",
+      "text": "Norbu suggested they hire _______ to carry their luggage.",
+      "options": ["Donkeys", "Yaks", "Porters", "Trucks"],
+      "correctIndex": 1,
+      "explanation": "Yaks are common pack animals used for treks in the region.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e8_q37",
+      "text": "Where did the author stay in Darchen?",
+      "options": ["A luxury hotel", "A guest house", "A nomad tent", "A monastery"],
+      "correctIndex": 1,
+      "explanation": "He stayed in a basic guest house which he found very cold.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e8_q38",
+      "text": "What was the 'farewell gift' Lhamo gave?",
+      "options": ["A map", "A sheepskin coat", "Money", "Food for the way"],
+      "correctIndex": 1,
+      "explanation": "She gave him a 'drookpa' (a long sheepskin coat) to keep him warm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_e8_q39",
+      "text": "The word 'Kyangan' refers to:",
+      "options": ["Tibetan tea", "Wild asses", "A mountain pass", "A prayer flag"],
+      "correctIndex": 1,
+      "explanation": "Kyangan are wild asses found in the Tibetan plains.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_e8_q40",
+      "text": "The author's journey began from which place?",
+      "options": ["Ravu", "Lhasa", "Hor", "Darchen"],
+      "correctIndex": 0,
+      "explanation": "The story starts as he leaves Ravu on his way to Mount Kailash.",
+      "frequencyRating": 5
+    }
+  ]
+}

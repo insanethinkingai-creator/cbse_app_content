@@ -1,0 +1,330 @@
+{
+  "id": "g11_bio_ch13",
+  "grade": "11",
+  "subject": "Biology",
+  "number": "13",
+  "title": "Plant Growth and Development",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_b13_q1",
+      "text": "Growth in plants is unique because plants retain the capacity for unlimited growth throughout their life. This is due to the presence of:",
+      "options": ["Xylem", "Phloem", "Meristems", "Cork cambium"],
+      "correctIndex": 2,
+      "explanation": "Meristems are tissues where cells have the capacity to divide and self-perpetuate, allowing for indeterminate growth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b13_q2",
+      "text": "The form of growth where new cells are always being added to the plant body by the activity of the meristem is called:",
+      "options": ["Closed form of growth", "Open form of growth", "Localized growth", "Diffused growth"],
+      "correctIndex": 1,
+      "explanation": "Plant growth is described as 'open' because new cells are continuously added by meristematic activity.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b13_q3",
+      "text": "In arithmetic growth, following mitotic cell division, only one daughter cell continues to divide while the other:",
+      "options": ["Undergoes meiosis", "Differentiates and matures", "Degenerates", "Divides faster"],
+      "correctIndex": 1,
+      "explanation": "In arithmetic growth, one cell remains meristematic while the other differentiates into a mature tissue cell.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b13_q4",
+      "text": "Which equation represents the geometric growth curve?",
+      "options": ["Lt = L0 + rt", "W1 = W0 ert", "W1 = W0 + rt", "Lt = L0 ert"],
+      "correctIndex": 1,
+      "explanation": "Geometric growth is expressed as W1 = W0 ert, where r is the relative growth rate and e is the base of natural logarithms.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b13_q5",
+      "text": "The sigmoid curve is a characteristic of living organisms growing in a natural environment. The initial phase of slow growth is the:",
+      "options": ["Log phase", "Lag phase", "Stationary phase", "Deceleration phase"],
+      "correctIndex": 1,
+      "explanation": "The lag phase is the initial period of slow growth before the exponential (log) phase starts.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b13_q6",
+      "text": "The ability of plants to follow different pathways in response to environment or phases of life to form different kinds of structures is called:",
+      "options": ["Elasticity", "Plasticity", "Flexibility", "Adaptability"],
+      "correctIndex": 1,
+      "explanation": "Plasticity allows plants to develop different structures, such as different leaf shapes in aquatic vs terrestrial environments (heterophylly).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b13_q7",
+      "text": "Which of the following is an example of heterophylly due to the environment?",
+      "options": ["Cotton", "Coriander", "Buttercup", "Larkspur"],
+      "correctIndex": 2,
+      "explanation": "Buttercup (Ranunculus) shows different leaf shapes in air and water, whereas cotton/coriander show heterophylly due to life phases.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b13_q8",
+      "text": "The process by which a differentiated cell regains the capacity of division under certain conditions is:",
+      "options": ["Differentiation", "Dedifferentiation", "Redifferentiation", "Maturation"],
+      "correctIndex": 1,
+      "explanation": "Dedifferentiation allows mature cells (like parenchyma) to become meristematic again, as seen in the formation of interfascicular cambium.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b13_q9",
+      "text": "Auxins were first isolated from:",
+      "options": ["Rice seedlings", "Human urine", "Herring sperm DNA", "Corn germ oil"],
+      "correctIndex": 1,
+      "explanation": "Auxins were initially isolated from human urine, though they were first discovered by Darwin in canary grass coleoptiles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b13_q10",
+      "text": "Which plant growth regulator is responsible for 'Bakane' (foolish seedling) disease in rice?",
+      "options": ["Auxin", "Gibberellin", "Cytokinin", "ABA"],
+      "correctIndex": 1,
+      "explanation": "Bakane disease is caused by the fungus Gibberella fujikuroi, which led to the discovery of Gibberellins.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b13_q11",
+      "text": "Which hormone is widely used to kill dicotyledonous weeds in lawns?",
+      "options": ["IAA", "IBA", "2,4-D", "NAA"],
+      "correctIndex": 2,
+      "explanation": "2,4-D (2,4-dichlorophenoxyacetic acid) is a synthetic auxin used as a selective herbicide for dicot weeds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b13_q12",
+      "text": "Gibberellins are used in the brewing industry to speed up the malting process. They are chemically:",
+      "options": ["Adenine derivatives", "Terpenes", "Carotenoid derivatives", "Indole compounds"],
+      "correctIndex": 1,
+      "explanation": "Gibberellins are terpenes, while auxins are indole compounds and cytokinins are adenine derivatives.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b13_q13",
+      "text": "Cytokinins were discovered as Kinetin by Skoog and Miller from:",
+      "options": ["Autoclaved herring sperm DNA", "Coconut milk", "Corn kernels", "Rice seedlings"],
+      "correctIndex": 0,
+      "explanation": "Kinetin (a modified adenine) was first crystallized from autoclaved herring sperm DNA; it does not occur naturally in plants.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b13_q14",
+      "text": "The hormone that helps in overcoming apical dominance is:",
+      "options": ["Auxin", "Ethylene", "Cytokinin", "Gibberellin"],
+      "correctIndex": 2,
+      "explanation": "Auxins promote apical dominance, while cytokinins promote lateral bud growth, thus counteracting the auxin effect.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b13_q15",
+      "text": "Which of the following is a gaseous plant growth regulator?",
+      "options": ["ABA", "Ethylene", "GA3", "IAA"],
+      "correctIndex": 1,
+      "explanation": "Ethylene is the only gaseous hormone; it is synthesized in tissues undergoing senescence and ripening fruit.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b13_q16",
+      "text": "The horizontal growth of seedlings and swelling of the axis is a response to:",
+      "options": ["Auxin", "Ethylene", "Gibberellin", "Cytokinin"],
+      "correctIndex": 1,
+      "explanation": "Ethylene influences the 'triple response' in seedlings: slowing of primary root/stem elongation, thickening of the stem, and horizontal growth.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b13_q17",
+      "text": "Abscisic acid (ABA) is known as the stress hormone because it:",
+      "options": ["Promotes growth", "Increases tolerance to various stresses", "Speeds up metabolism", "Promotes flowering"],
+      "correctIndex": 1,
+      "explanation": "ABA stimulates the closure of stomata and increases plant tolerance to environmental stresses like drought.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b13_q18",
+      "text": "The physiological response of a plant to the duration of light and dark periods is called:",
+      "options": ["Vernalisation", "Photoperiodism", "Phototaxis", "Phytotropism"],
+      "correctIndex": 1,
+      "explanation": "Photoperiodism refers to the plant's response to the relative lengths of day and night to trigger flowering.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b13_q19",
+      "text": "Plants that require the exposure to light for a period exceeding a well-defined critical duration are:",
+      "options": ["Short day plants", "Long day plants", "Day neutral plants", "Intermediate day plants"],
+      "correctIndex": 1,
+      "explanation": "Long day plants flower only when the day length is longer than a specific critical threshold.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b13_q20",
+      "text": "The phenomenon where flowering is either quantitatively or qualitatively dependent on exposure to low temperature is:",
+      "options": ["Scarification", "Stratification", "Vernalisation", "Thermotropism"],
+      "correctIndex": 2,
+      "explanation": "Vernalisation prevents precocious reproductive development late in the growing season and ensures flowering occurs in spring after winter.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b13_q21",
+      "text": "Which hormone is used to induce parthenocarpy in tomatoes?",
+      "options": ["Gibberellins", "Auxins", "Cytokinins", "ABA"],
+      "correctIndex": 1,
+      "explanation": "Auxins like IAA and NAA are used to induce the formation of seedless fruits (parthenocarpy) in tomatoes.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b13_q22",
+      "text": "The site of perception of light/dark duration in plants is the:",
+      "options": ["Shoot apex", "Root apex", "Leaves", "Stem"],
+      "correctIndex": 2,
+      "explanation": "Leaves perceive the photoperiodic stimulus, which then migrates to the shoot apex to induce flowering.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b13_q23",
+      "text": "Bolting, i.e., internode elongation just prior to flowering in beet and cabbage, is promoted by:",
+      "options": ["Auxin", "Cytokinin", "Gibberellin", "Ethylene"],
+      "correctIndex": 2,
+      "explanation": "Gibberellins promote bolting in rosette plants like beet, cabbage, and many others.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b13_q24",
+      "text": "Ethephon is widely used in agriculture because it is:",
+      "options": ["A solid", "A gas", "An aqueous solution", "A powder"],
+      "correctIndex": 2,
+      "explanation": "Ethephon is an aqueous solution that is easily absorbed and transported by the plant, slowly releasing ethylene.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b13_q25",
+      "text": "Which hormone acts as a general plant growth inhibitor and antagonist to Gibberellins?",
+      "options": ["Auxin", "Cytokinin", "ABA", "Ethylene"],
+      "correctIndex": 2,
+      "explanation": "Abscisic acid (ABA) inhibits growth and seed germination, acting opposite to GA which promotes them.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b13_q26",
+      "text": "A growth rate that increases rapidly at first and then slows down as the organism reaches maturity is best described by:",
+      "options": ["A linear curve", "A sigmoid curve", "A bell-shaped curve", "An exponential curve"],
+      "correctIndex": 1,
+      "explanation": "The sigmoid (S-shaped) curve is the standard growth curve for cells, tissues, and organs in a finite environment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b13_q27",
+      "text": "One of the following is not a natural auxin:",
+      "options": ["IAA", "IBA", "NAA", "All are natural"],
+      "correctIndex": 2,
+      "explanation": "NAA (Naphthalene acetic acid) and 2,4-D are synthetic auxins; IAA and IBA are natural.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b13_q28",
+      "text": "The primary precursor of Ethylene is:",
+      "options": ["Tryptophan", "Methionine", "Mevalonic acid", "Acetyl CoA"],
+      "correctIndex": 1,
+      "explanation": "Ethylene is synthesized from the amino acid methionine.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b13_q29",
+      "text": "The phenomenon of apical dominance is caused by:",
+      "options": ["High concentration of cytokinin in the apex", "High concentration of auxin in the apex", "High concentration of GA in the apex", "Absence of light"],
+      "correctIndex": 1,
+      "explanation": "The shoot apex produces auxins which inhibit the growth of lateral (axillary) buds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b13_q30",
+      "text": "Winter varieties of wheat are planted in:",
+      "options": ["Spring", "Summer", "Autumn", "Winter"],
+      "correctIndex": 2,
+      "explanation": "Winter wheat is planted in autumn, survives winter as seedlings, and is harvested in mid-summer.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b13_q31",
+      "text": "Zeatin is a natural cytokinin first isolated from:",
+      "options": ["Wheat germ", "Coconut milk", "Corn kernels", "Tomato"],
+      "correctIndex": 2,
+      "explanation": "Zeatin was the first natural cytokinin discovered, isolated from corn kernels (Zea mays).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b13_q32",
+      "text": "Respiratory climacteric refers to:",
+      "options": ["Slowing of respiration during senescence", "Rise in respiration rate during fruit ripening", "Maximum respiration during seed germination", "Zero respiration during dormancy"],
+      "correctIndex": 1,
+      "explanation": "Ethylene triggers a sharp increase in the rate of respiration in ripening fruits, called the respiratory climacteric.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b13_q33",
+      "text": "Which plant organ perceives the cold stimulus for vernalisation?",
+      "options": ["Mature leaves", "Shoot apex/Meristems", "Roots", "Flower buds"],
+      "correctIndex": 1,
+      "explanation": "Unlike photoperiodism (perceived by leaves), the stimulus for vernalisation is perceived by the shoot tip or embryo of a seed.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b13_q34",
+      "text": "The ratio of 'Efficiency Index' relates to:",
+      "options": ["Arithmetic growth", "Relative growth rate", "Absolute growth rate", "Plasticity"],
+      "correctIndex": 1,
+      "explanation": "The relative growth rate (r) is often called the efficiency index, measuring the ability of the plant to produce new plant material.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b13_q35",
+      "text": "Which PGR was identified as 'Inhibitor-B', 'Abscission II' and 'Dormin' independently?",
+      "options": ["Ethylene", "Gibberellin", "Auxin", "ABA"],
+      "correctIndex": 3,
+      "explanation": "These three substances were later proven to be chemically identical and were named Abscisic acid.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b13_q36",
+      "text": "The exponential phase of the sigmoid curve is also called:",
+      "options": ["Lag phase", "Log phase", "Stationary phase", "Maturation phase"],
+      "correctIndex": 1,
+      "explanation": "In the log (exponential) phase, growth is very rapid as the system uses available resources.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b13_q37",
+      "text": "Cytokinins help in delaying leaf senescence mainly by:",
+      "options": ["Inhibiting cell division", "Nutrient mobilization", "Stomatal closure", "Promoting cell death"],
+      "correctIndex": 1,
+      "explanation": "Cytokinins delay senescence by promoting the mobilization of nutrients towards the treated parts.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b13_q38",
+      "text": "Most common auxin found in plants is:",
+      "options": ["IAA", "2,4-D", "NAA", "IBA"],
+      "correctIndex": 0,
+      "explanation": "Indole-3-acetic acid (IAA) is the most abundant and well-known natural auxin.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b13_q39",
+      "text": "Growth in plants is measurable. Which of the following is NOT typically used to measure it?",
+      "options": ["Fresh weight", "Dry weight", "Cell number", "Color change"],
+      "correctIndex": 3,
+      "explanation": "Growth is measured by parameters like increase in fresh/dry weight, volume, area, length, or cell number.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b13_q40",
+      "text": "The critical factor in photoperiodism for many plants is the duration of:",
+      "options": ["Day light", "Uninterrupted darkness", "Sunrise time", "Sunset time"],
+      "correctIndex": 1,
+      "explanation": "For many 'short-day' plants, it is actually the length of the uninterrupted dark period that is critical.",
+      "frequencyRating": 4
+    }
+  ]
+}

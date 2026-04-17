@@ -8,50 +8,322 @@
   "questions": [
     {
       "id": "g11_b9_q1",
-      "text": "Which biomolecule is the main source of quick energy for cells?",
-      "options": ["Proteins", "Lipids", "Carbohydrates", "Nucleic acids"],
-      "correctIndex": 2,
-      "explanation": "Carbohydrates are the primary source of energy in many organisms.",
+      "text": "Which of the following is the most abundant protein in the whole of the biosphere?",
+      "options": ["Collagen", "Trypsin", "Insulin", "RuBisCO"],
+      "correctIndex": 3,
+      "explanation": "RuBisCO is the most abundant protein in the biosphere, while collagen is the most abundant in the animal world.",
       "frequencyRating": 5
     },
     {
       "id": "g11_b9_q2",
-      "text": "Proteins are polymers of: ",
-      "options": ["Nucleotides", "Amino acids", "Monosaccharides", "Fatty acids"],
+      "text": "Amino acids are organic compounds containing an amino group and an acidic group as substituents on the same carbon, called the:",
+      "options": ["Beta carbon", "Alpha carbon", "Gamma carbon", "Delta carbon"],
       "correctIndex": 1,
-      "explanation": "Proteins are built from amino acids linked by peptide bonds.",
+      "explanation": "Because they are attached to the alpha carbon, they are called alpha-amino acids.",
       "frequencyRating": 5
     },
     {
       "id": "g11_b9_q3",
-      "text": "Which of the following is a lipid?",
-      "options": ["Glucose", "Cholesterol", "Adenine", "Alanine"],
-      "correctIndex": 1,
-      "explanation": "Cholesterol is a lipid found in cell membranes.",
-      "frequencyRating": 4
+      "text": "The bond formed between two amino acids in a polypeptide chain is a:",
+      "options": ["Glycosidic bond", "Phosphodiester bond", "Peptide bond", "Hydrogen bond"],
+      "correctIndex": 2,
+      "explanation": "A peptide bond is formed when the carboxyl group of one amino acid reacts with the amino group of the next.",
+      "frequencyRating": 5
     },
     {
       "id": "g11_b9_q4",
-      "text": "Enzymes are proteins that act as: ",
-      "options": ["Structural components", "Hormones", "Biological catalysts", "Energy stores"],
-      "correctIndex": 2,
-      "explanation": "Enzymes speed up biochemical reactions without being consumed.",
+      "text": "In a nucleic acid, a phosphate group links the 3'-carbon of one sugar of one nucleotide to the ______ of the next sugar.",
+      "options": ["2'-carbon", "5'-carbon", "1'-carbon", "4'-carbon"],
+      "correctIndex": 1,
+      "explanation": "This forms the 3'-5' phosphodiester bond that makes up the backbone of DNA/RNA.",
       "frequencyRating": 5
     },
     {
       "id": "g11_b9_q5",
-      "text": "Which nucleic acid carries genetic information?",
-      "options": ["ATP", "DNA", "RNA", "Both DNA and RNA"],
-      "correctIndex": 3,
-      "explanation": "DNA stores genetic information, while RNA helps transmit it.",
-      "frequencyRating": 5
+      "text": "Which of the following is NOT a polymer?",
+      "options": ["Proteins", "Lipids", "Polysaccharides", "Nucleic acids"],
+      "correctIndex": 1,
+      "explanation": "Lipids have a smaller molecular weight and are not strictly polymers, though they are found in the acid-insoluble fraction.",
+      "frequencyRating": 4
     },
     {
       "id": "g11_b9_q6",
-      "text": "The building blocks of nucleic acids are: ",
-      "options": ["Amino acids", "Nucleotides", "Monosaccharides", "Fatty acids"],
+      "text": "An enzyme that catalyzes the removal of groups from substrates by mechanisms other than hydrolysis is called a/an:",
+      "options": ["Oxidoreductase", "Transferase", "Hydrolase", "Lyase"],
+      "correctIndex": 3,
+      "explanation": "Lyases catalyze the removal of groups leaving double bonds.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b9_q7",
+      "text": "The chitinous exoskeleton of arthropods is formed by the polymerisation of:",
+      "options": ["D-glucosamine", "N-acetyl glucosamine", "Glycogen", "Lipoglycans"],
       "correctIndex": 1,
-      "explanation": "Nucleotides consist of a sugar, phosphate, and nitrogenous base.",
+      "explanation": "Chitin is a complex polysaccharide made of N-acetyl glucosamine units.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b9_q8",
+      "text": "Proteins are heteropolymers made of ______ different types of amino acids.",
+      "options": ["10", "20", "30", "100"],
+      "correctIndex": 1,
+      "explanation": "There are 20 standard amino acids that form proteins in living organisms.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b9_q9",
+      "text": "The helical structure of protein is stabilized by:",
+      "options": ["Peptide bonds", "Di-sulphide bonds", "Hydrogen bonds", "Ionic bonds"],
+      "correctIndex": 2,
+      "explanation": "Secondary structures like alpha-helices are stabilized by intramolecular hydrogen bonding.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b9_q10",
+      "text": "Which nitrogenous base is unique to RNA and replaces Thymine?",
+      "options": ["Adenine", "Guanine", "Cytosine", "Uracil"],
+      "correctIndex": 3,
+      "explanation": "RNA contains Uracil instead of Thymine found in DNA.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b9_q11",
+      "text": "The primary structure of a protein refers to:",
+      "options": ["Three-dimensional shape", "Sequence of amino acids", "Folding into sheets", "Association of subunits"],
+      "correctIndex": 1,
+      "explanation": "Primary structure is the linear sequence of amino acids in a polypeptide chain.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b9_q12",
+      "text": "Glycogen is a homopolymer made of:",
+      "options": ["Fructose", "Galactose", "Glucose", "Ribose"],
+      "correctIndex": 2,
+      "explanation": "Glycogen is the storage polysaccharide in animals, made of glucose units.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b9_q13",
+      "text": "What is a 'prosthetic group' in an enzyme?",
+      "options": ["An inorganic cofactor", "A transiently bound organic cofactor", "A tightly bound organic cofactor", "The protein part of the enzyme"],
+      "correctIndex": 2,
+      "explanation": "Prosthetic groups are organic compounds distinguished from other cofactors in that they are tightly bound to the apoenzyme.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b9_q14",
+      "text": "The non-protein part of an enzyme is called:",
+      "options": ["Apoenzyme", "Holoenzyme", "Cofactor", "Isoenzyme"],
+      "correctIndex": 2,
+      "explanation": "Enzymes often require a non-protein part called a cofactor for their activity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b9_q15",
+      "text": "Which of the following is a saturated fatty acid?",
+      "options": ["Oleic acid", "Linoleic acid", "Palmitic acid", "Arachidonic acid"],
+      "correctIndex": 2,
+      "explanation": "Palmitic acid has no double bonds, making it saturated.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b9_q16",
+      "text": "In Watson-Crick model of DNA, how many base pairs are there in one full turn of the helix?",
+      "options": ["5", "10", "12", "20"],
+      "correctIndex": 1,
+      "explanation": "B-DNA has 10 base pairs per turn with a pitch of 34 Angstroms.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b9_q17",
+      "text": "Competetive inhibition of an enzyme is often used in the control of:",
+      "options": ["Digestive processes", "Bacterial pathogens", "Muscle contraction", "Nerve conduction"],
+      "correctIndex": 1,
+      "explanation": "Sulfa drugs are competitive inhibitors used to kill bacteria.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b9_q18",
+      "text": "Which biomolecule acts as the 'energy currency' of the cell?",
+      "options": ["DNA", "RNA", "ATP", "NADPH"],
+      "correctIndex": 2,
+      "explanation": "Adenosine Triphosphate (ATP) stores and provides energy for cellular work.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b9_q19",
+      "text": "A nucleoside differs from a nucleotide in that it lacks a:",
+      "options": ["Nitrogenous base", "Sugar", "Phosphate group", "Hydrogen bond"],
+      "correctIndex": 2,
+      "explanation": "Nucleoside = Base + Sugar. Nucleotide = Base + Sugar + Phosphate.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b9_q20",
+      "text": "Lecithin is an example of a:",
+      "options": ["Simple lipid", "Derived lipid", "Phospholipid", "Steroid"],
+      "correctIndex": 2,
+      "explanation": "Lecithin is a common phospholipid found in cell membranes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b9_q21",
+      "text": "The 'Lock and Key' hypothesis explains:",
+      "options": ["DNA replication", "Enzyme specificity", "Protein synthesis", "Hormone action"],
+      "correctIndex": 1,
+      "explanation": "It describes how an enzyme's active site fits a specific substrate.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b9_q22",
+      "text": "Which element is found in proteins but not in common carbohydrates?",
+      "options": ["Carbon", "Hydrogen", "Oxygen", "Nitrogen"],
+      "correctIndex": 3,
+      "explanation": "Nitrogen is a key component of the amino group in all amino acids.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b9_q23",
+      "text": "Cellulose is not digested by humans because we lack:",
+      "options": ["Amylase", "Cellulase", "Lipase", "Protease"],
+      "correctIndex": 1,
+      "explanation": "Cellulase is required to break down the beta-glycosidic bonds in cellulose.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b9_q24",
+      "text": "Zinc is a cofactor for which proteolytic enzyme?",
+      "options": ["Pepsin", "Trypsin", "Carboxypeptidase", "Chymotrypsin"],
+      "correctIndex": 2,
+      "explanation": "Zinc is a metal ion cofactor essential for the activity of carboxypeptidase.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b9_q25",
+      "text": "Tertiary structure of protein is absolutely necessary for:",
+      "options": ["Strength", "Biological activities", "Storage", "Transport"],
+      "correctIndex": 1,
+      "explanation": "The 3D folding creates active sites for enzymes and binding sites for receptors.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b9_q26",
+      "text": "The most abundant element in the human body by weight is:",
+      "options": ["Carbon", "Hydrogen", "Oxygen", "Nitrogen"],
+      "correctIndex": 2,
+      "explanation": "Oxygen makes up about 65% of human body weight, mostly due to water.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b9_q27",
+      "text": "Which of the following is a secondary metabolite?",
+      "options": ["Glucose", "Amino acids", "Alkaloids", "Fats"],
+      "correctIndex": 2,
+      "explanation": "Alkaloids, flavonoids, and rubber are secondary metabolites with no direct role in primary metabolism.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b9_q28",
+      "text": "The repeating unit of nucleic acids is:",
+      "options": ["Amino acid", "Nucleoside", "Nucleotide", "Pentose sugar"],
+      "correctIndex": 2,
+      "explanation": "Nucleic acids are polymers of nucleotides.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b9_q29",
+      "text": "Starch gives a blue color with Iodine because:",
+      "options": ["It is a reducing sugar", "It has helical structure that holds I2", "It reacts chemically with I2", "It is a branched polymer"],
+      "correctIndex": 1,
+      "explanation": "Iodine molecules are trapped in the helical portion of amylose in starch.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b9_q30",
+      "text": "Inulin is a polymer of:",
+      "options": ["Glucose", "Fructose", "Galactose", "Arabinose"],
+      "correctIndex": 1,
+      "explanation": "Inulin is a storage polysaccharide found in some plants, made of fructose units.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b9_q31",
+      "text": "Enzymes increase the rate of reaction by:",
+      "options": ["Increasing activation energy", "Decreasing activation energy", "Increasing temperature", "Changing equilibrium constant"],
+      "correctIndex": 1,
+      "explanation": "Enzymes lower the energy barrier required for a reaction to proceed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b9_q32",
+      "text": "Which bond is found in lipids like triglycerides?",
+      "options": ["Peptide bond", "Ester bond", "Glycosidic bond", "Phosphodiester bond"],
+      "correctIndex": 1,
+      "explanation": "Triglycerides are formed by esterification of glycerol with three fatty acids.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b9_q33",
+      "text": "What is the 'turnover number' of an enzyme?",
+      "options": ["Time taken for one reaction", "Number of substrate molecules converted per unit time", "Amount of enzyme used", "Temperature of denaturation"],
+      "correctIndex": 1,
+      "explanation": "It indicates the efficiency of the enzyme in catalyzing reactions.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b9_q34",
+      "text": "Adult human haemoglobin consists of ______ subunits.",
+      "options": ["Two", "Three", "Four", "Six"],
+      "correctIndex": 2,
+      "explanation": "It has two alpha and two beta subunits (quaternary structure).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b9_q35",
+      "text": "Which carbohydrate is found in the DNA backbone?",
+      "options": ["Ribose", "Deoxyribose", "Glucose", "Fructose"],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleic acid contains the pentose sugar deoxyribose.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b9_q36",
+      "text": "The Km value of an enzyme is the substrate concentration at which velocity is:",
+      "options": ["Vmax", "Vmax / 2", "Zero", "Double Vmax"],
+      "correctIndex": 1,
+      "explanation": "Michaelis constant (Km) represents affinity; lower Km means higher affinity.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b9_q37",
+      "text": "In a polypeptide, the first amino acid is called the ______ amino acid.",
+      "options": ["C-terminal", "N-terminal", "Alpha", "Omega"],
+      "correctIndex": 1,
+      "explanation": "The first amino acid has a free amino group (N-terminal).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b9_q38",
+      "text": "Sucrose is made of:",
+      "options": ["Glucose + Glucose", "Glucose + Fructose", "Glucose + Galactose", "Fructose + Galactose"],
+      "correctIndex": 1,
+      "explanation": "Sucrose is a disaccharide commonly known as table sugar.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b9_q39",
+      "text": "Prosthetic groups are ______ part of enzymes.",
+      "options": ["Protein", "Inorganic", "Organic", "Non-essential"],
+      "correctIndex": 2,
+      "explanation": "They are organic cofactors that are very tightly bound to the enzyme protein.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b9_q40",
+      "text": "Which of the following is an essential amino acid (must be taken in diet)?",
+      "options": ["Glycine", "Alanine", "Valine", "Serine"],
+      "correctIndex": 2,
+      "explanation": "Valine is one of the essential amino acids that the human body cannot synthesize.",
       "frequencyRating": 4
     }
   ]

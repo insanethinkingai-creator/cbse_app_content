@@ -1,0 +1,330 @@
+{
+  "id": "g11_bio_ch12",
+  "grade": "11",
+  "subject": "Biology",
+  "number": "12",
+  "title": "Respiration in Plants",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_b12_q1",
+      "text": "The breaking of C-C bonds of complex compounds through oxidation within the cells is called:",
+      "options": ["Breathing", "Photosynthesis", "Cellular respiration", "Digestion"],
+      "correctIndex": 2,
+      "explanation": "Respiration releases energy used for synthesizing ATP.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b12_q2",
+      "text": "Glycolysis takes place in the:",
+      "options": ["Mitochondria", "Chloroplast", "Cytoplasm", "Nucleus"],
+      "correctIndex": 2,
+      "explanation": "Glycolysis occurs in the cytosol/cytoplasm of all living cells.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b12_q3",
+      "text": "The scheme of glycolysis was given by:",
+      "options": ["Calvin, Benson and Bassham", "Embden, Meyerhof and Parnas", "Hans Krebs", "Hatch and Slack"],
+      "correctIndex": 1,
+      "explanation": "It is also known as the EMP pathway.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b12_q4",
+      "text": "In glycolysis, one molecule of glucose is broken down into two molecules of:",
+      "options": ["Citric acid", "Pyruvic acid", "Lactic acid", "Acetyl CoA"],
+      "correctIndex": 1,
+      "explanation": "Glucose (6C) is converted to 2 Pyruvic acid (3C).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b12_q5",
+      "text": "What is the net gain of ATP molecules during glycolysis?",
+      "options": ["Two", "Four", "Eight", "Thirty-six"],
+      "correctIndex": 0,
+      "explanation": "4 ATP are produced, but 2 are consumed in the preparatory phase.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b12_q6",
+      "text": "The enzyme that converts glucose to glucose-6-phosphate is:",
+      "options": ["Enolase", "Isomerase", "Hexokinase", "Aldolase"],
+      "correctIndex": 2,
+      "explanation": "This is the first step of glycolysis, requiring one ATP.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b12_q7",
+      "text": "Fermentation takes place under ______ conditions.",
+      "options": ["Aerobic", "Anaerobic", "High pressure", "High temperature"],
+      "correctIndex": 1,
+      "explanation": "It is the incomplete oxidation of glucose in the absence of oxygen.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b12_q8",
+      "text": "In yeast fermentation, pyruvic acid is converted into:",
+      "options": ["Lactic acid and CO2", "Ethanol and CO2", "Acetyl CoA", "Citric acid"],
+      "correctIndex": 1,
+      "explanation": "This is called alcoholic fermentation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b12_q9",
+      "text": "TCA cycle (Krebs cycle) takes place in the:",
+      "options": ["Cytoplasm", "Mitochondrial matrix", "Inner mitochondrial membrane", "Peroxisome"],
+      "correctIndex": 1,
+      "explanation": "Named after Hans Krebs who elucidated the cycle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b12_q10",
+      "text": "The 'link reaction' between glycolysis and Krebs cycle produces:",
+      "options": ["Citric acid", "Pyruvic acid", "Acetyl CoA", "Oxaloacetic acid"],
+      "correctIndex": 2,
+      "explanation": "Oxidative decarboxylation of pyruvate forms Acetyl CoA.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b12_q11",
+      "text": "The first member of the Krebs cycle is:",
+      "options": ["Acetyl CoA", "Citric acid", "Oxaloacetic acid (OAA)", "Succinic acid"],
+      "correctIndex": 1,
+      "explanation": "Citric acid is formed by condensation of Acetyl CoA with OAA.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b12_q12",
+      "text": "How many molecules of CO2 are released in one turn of the Krebs cycle?",
+      "options": ["One", "Two", "Three", "Four"],
+      "correctIndex": 1,
+      "explanation": "Released during the conversion of isocitrate to alpha-ketoglutarate and alpha-ketoglutarate to succinyl-CoA.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b12_q13",
+      "text": "The Respiratory Quotient (RQ) for carbohydrates is:",
+      "options": ["0.7", "0.9", "1.0", "More than 1"],
+      "correctIndex": 2,
+      "explanation": "RQ = Vol of CO2 evolved / Vol of O2 consumed. For glucose, it is 6/6 = 1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b12_q14",
+      "text": "The electron transport system (ETS) is located in the:",
+      "options": ["Outer mitochondrial membrane", "Inner mitochondrial membrane", "Mitochondrial matrix", "Cytoplasm"],
+      "correctIndex": 1,
+      "explanation": "ETS consists of five complexes embedded in the cristae.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b12_q15",
+      "text": "The final electron acceptor in the ETS is:",
+      "options": ["NAD+", "FAD", "Oxygen", "Cytochrome c"],
+      "correctIndex": 2,
+      "explanation": "Oxygen combines with electrons and protons to form water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b12_q16",
+      "text": "Oxidative phosphorylation refers to the formation of ATP using energy from:",
+      "options": ["Light", "Proton gradient in ETS", "Substrate level only", "Fermentation"],
+      "correctIndex": 1,
+      "explanation": "It happens at Complex V (ATP synthase).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b12_q17",
+      "text": "For each molecule of NADH oxidized in ETS, how many molecules of ATP are produced?",
+      "options": ["One", "Two", "Three", "Four"],
+      "correctIndex": 2,
+      "explanation": "FADH2 oxidation yields only two ATP molecules.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b12_q18",
+      "text": "The RQ of fats (like Tripalmitin) is approximately:",
+      "options": ["1.0", "0.9", "0.7", "1.4"],
+      "correctIndex": 2,
+      "explanation": "Fats require more oxygen for oxidation, making the ratio less than 1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b12_q19",
+      "text": "Complex IV in the ETS is:",
+      "options": ["NADH dehydrogenase", "Cytochrome bc1 complex", "Cytochrome c oxidase", "ATP synthase"],
+      "correctIndex": 2,
+      "explanation": "It contains cytochromes a and a3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b12_q20",
+      "text": "Respiration is an ______ pathway because it involves both breakdown and synthesis.",
+      "options": ["Anabolic", "Catabolic", "Amphibolic", "Metabolic"],
+      "correctIndex": 2,
+      "explanation": "Intermediates of the cycle are withdrawn for synthesizing other compounds.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b12_q21",
+      "text": "The total number of ATP produced from one molecule of glucose in aerobic respiration is:",
+      "options": ["2", "30", "38", "12"],
+      "correctIndex": 2,
+      "explanation": "Theoretical maximum yield including glycolysis, Krebs, and ETS.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b12_q22",
+      "text": "Which of the following acts as a mobile electron carrier in ETS?",
+      "options": ["Cytochrome a", "Cytochrome c", "Ubiquinone", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "Ubiquinone moves within the membrane; Cytochrome c is on the outer surface of the inner membrane.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b12_q23",
+      "text": "F1 headpiece of ATP synthase is the site for:",
+      "options": ["Proton tunnel", "Synthesis of ATP", "Electron transfer", "NADH oxidation"],
+      "correctIndex": 1,
+      "explanation": "F0 is the integral membrane protein that acts as a channel.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b12_q24",
+      "text": "Lactic acid fermentation occurs in:",
+      "options": ["Yeast", "Human muscle cells during exercise", "Roots", "Leaves"],
+      "correctIndex": 1,
+      "explanation": "Occurs when oxygen supply is inadequate for aerobic respiration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b12_q25",
+      "text": "The gain of ATP in fermentation is very low, about ______% of energy in glucose.",
+      "options": ["7%", "25%", "50%", "90%"],
+      "correctIndex": 0,
+      "explanation": "Less than 7% of the energy is trapped as high-energy bonds of ATP.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b12_q26",
+      "text": "Pyruvate decarboxylase and alcohol dehydrogenase are enzymes used in:",
+      "options": ["TCA Cycle", "Lactic acid fermentation", "Alcoholic fermentation", "Glycolysis"],
+      "correctIndex": 2,
+      "explanation": "Used by yeast to convert pyruvic acid to ethanol.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b12_q27",
+      "text": "When proteins are used as respiratory substrate, the RQ is:",
+      "options": ["1.0", "0.9", "0.7", "More than 1.0"],
+      "correctIndex": 1,
+      "explanation": "Typical value for proteins.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b12_q28",
+      "text": "Cytochromes are found in:",
+      "options": ["Matrix", "Cristae", "Outer membrane", "Intermembrane space"],
+      "correctIndex": 1,
+      "explanation": "Inner mitochondrial membrane folds (cristae) contain the respiratory chain.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b12_q29",
+      "text": "Which compound is the 'hub' or 'common pathway' for carbohydrates, fats and proteins?",
+      "options": ["Glucose", "Pyruvic acid", "Acetyl CoA", "Citric acid"],
+      "correctIndex": 2,
+      "explanation": "Most substrates are converted to Acetyl CoA before entering the Krebs cycle.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b12_q30",
+      "text": "GTP is produced during the conversion of:",
+      "options": ["Succinyl-CoA to Succinic acid", "Citrate to Isocitrate", "Malate to OAA", "Fumarate to Malate"],
+      "correctIndex": 0,
+      "explanation": "This is a substrate-level phosphorylation step in the Krebs cycle.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b12_q31",
+      "text": "Aerobic respiration is ______ efficient than fermentation.",
+      "options": ["Less", "Equally", "More", "None"],
+      "correctIndex": 2,
+      "explanation": "Aerobic respiration yields 38 ATP vs 2 ATP in fermentation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b12_q32",
+      "text": "Plants can survive without respiratory organs because:",
+      "options": ["Each plant part takes care of its own needs", "Low gas exchange requirement", "Most cells are close to the surface", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Plants do not have a specialized system like the lungs in animals.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b12_q33",
+      "text": "In the Krebs cycle, NAD+ is reduced to NADH at how many points?",
+      "options": ["One", "Two", "Three", "Four"],
+      "correctIndex": 2,
+      "explanation": "Three steps of NADH formation and one of FADH2 formation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b12_q34",
+      "text": "During which step of glycolysis is NADH + H+ produced?",
+      "options": ["Glucose to G-6-P", "BPGA to PGA", "PGAL to BPGA", "PEP to Pyruvate"],
+      "correctIndex": 2,
+      "explanation": "Oxidation of 3-phosphoglyceraldehyde to 1,3-bisphosphoglycerate.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b12_q35",
+      "text": "The end products of aerobic respiration are:",
+      "options": ["Sugar and O2", "CO2, H2O and Energy", "Ethanol and CO2", "Lactic acid"],
+      "correctIndex": 1,
+      "explanation": "Complete oxidation results in inorganic waste and chemical energy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b12_q36",
+      "text": "The energy currency of the cell is:",
+      "options": ["NADPH", "ATP", "FADH2", "AMP"],
+      "correctIndex": 1,
+      "explanation": "Adenosine Triphosphate.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_b12_q37",
+      "text": "Water is formed in ETS at:",
+      "options": ["Complex I", "Complex III", "Complex IV", "Complex V"],
+      "correctIndex": 2,
+      "explanation": "Cytochrome c oxidase transfers electrons to Oxygen to form water.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b12_q38",
+      "text": "Which of these are respiratory substrates?",
+      "options": ["Carbohydrates", "Fats", "Proteins", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Carbohydrates are preferred, but others can be used.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_b12_q39",
+      "text": "Sucrose is converted into glucose and fructose by the enzyme:",
+      "options": ["Invertase", "Zymase", "Hexokinase", "Ligase"],
+      "correctIndex": 0,
+      "explanation": "This allows complex sugars to enter the glycolytic pathway.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_b12_q40",
+      "text": "Oxygen is used only in the ______ stage of the respiratory process.",
+      "options": ["First", "Middle", "Terminal", "Glycolysis"],
+      "correctIndex": 2,
+      "explanation": "Oxygen acts as the final hydrogen acceptor in the ETS.",
+      "frequencyRating": 4
+    }
+  ]
+}
