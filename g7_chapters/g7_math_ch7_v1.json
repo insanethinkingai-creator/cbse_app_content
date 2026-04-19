@@ -8,73 +8,323 @@
   "questions": [
     {
       "id": "g7_m7_q1",
-      "text": "The ratio of 3 km to 300 m is:",
-      "options": ["1:10", "10:1", "1:100", "100:1"],
+      "text": "To compare two quantities, their ________ must be the same.",
+      "options": ["Magnitude", "Units", "Color", "Shape"],
       "correctIndex": 1,
-      "explanation": "3 km = 3000 m. The ratio is 3000:300, which simplifies to 10:1."
+      "explanation": "Comparison via ratio or percentage requires quantities in the same units.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m7_q2",
-      "text": "Convert 4/5 into a percentage.",
-      "options": ["40%", "50%", "80%", "90%"],
+      "text": "The ratio of 5 m to 10 km is:",
+      "options": ["1 : 2", "1 : 20", "1 : 2000", "1 : 200"],
       "correctIndex": 2,
-      "explanation": "To convert a fraction to a percentage, multiply by 100: (4/5) × 100 = 80%."
+      "explanation": "10 km = 10,000 m. Ratio = 5 : 10000 = 1 : 2000.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m7_q3",
-      "text": "If 25% of a number is 50, what is the number?",
-      "options": ["100", "200", "150", "250"],
+      "text": "Percentages are fractions with denominator:",
+      "options": ["10", "100", "1000", "Any number"],
       "correctIndex": 1,
-      "explanation": "If 0.25x = 50, then x = 50 / 0.25 = 200."
+      "explanation": "Percent means 'per hundred'.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m7_q4",
-      "text": "A shopkeeper buys an item for ₹200 and sells it for ₹250. The profit percentage is:",
-      "options": ["20%", "25%", "30%", "50%"],
-      "correctIndex": 1,
-      "explanation": "Profit = 250 - 200 = 50. Profit % = (50/200) × 100 = 25%."
+      "text": "Convert 1/4 to percentage.",
+      "options": ["25%", "20%", "40%", "10%"],
+      "correctIndex": 0,
+      "explanation": "1/4 * 100 = 25%.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m7_q5",
-      "text": "What is the Simple Interest on ₹5000 at 10% per annum for 2 years?",
-      "options": ["₹500", "₹1000", "₹1200", "₹1500"],
+      "text": "Convert 0.75 to percentage.",
+      "options": ["7.5%", "75%", "0.75%", "750%"],
       "correctIndex": 1,
-      "explanation": "Simple Interest = (P × R × T) / 100 = (5000 × 10 × 2) / 100 = ₹1000."
+      "explanation": "0.75 * 100 = 75%.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m7_q6",
-      "text": "In a class of 40 students, 25% are girls. How many boys are there?",
-      "options": ["10", "20", "30", "15"],
+      "text": "If 25% of a number is 10, the number is:",
+      "options": ["20", "30", "40", "50"],
       "correctIndex": 2,
-      "explanation": "Number of girls = 25% of 40 = 10. Number of boys = 40 - 10 = 30."
+      "explanation": "0.25x = 10 => x = 10 / 0.25 = 40.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m7_q7",
-      "text": "If the cost price of an object is ₹120 and the loss is 10%, the selling price is:",
-      "options": ["₹108", "₹110", "₹132", "₹100"],
+      "text": "The ratio 3 : 2 as a percentage is:",
+      "options": ["150%", "60%", "40%", "66.6%"],
       "correctIndex": 0,
-      "explanation": "Loss = 10% of 120 = ₹12. Selling Price = 120 - 12 = ₹108."
+      "explanation": "3/2 * 100 = 150%.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_m7_q8",
-      "text": "Out of 25 children in a class, 15 are girls. What is the percentage of girls?",
-      "options": ["15%", "40%", "60%", "75%"],
-      "correctIndex": 2,
-      "explanation": "Percentage of girls = (15/25) × 100 = 60%."
+      "text": "Profit is calculated when:",
+      "options": ["CP > SP", "SP > CP", "CP = SP", "SP = 0"],
+      "correctIndex": 1,
+      "explanation": "Profit = Selling Price (SP) - Cost Price (CP).",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m7_q9",
-      "text": "The ratio 2:3 can be expressed as a percentage as:",
-      "options": ["66.67%", "33.33%", "40%", "60%"],
-      "correctIndex": 0,
-      "explanation": "2:3 = 2/3. (2/3) × 100 ≈ 66.67%."
+      "text": "Formula for Profit Percentage is:",
+      "options": ["(Profit/SP) * 100", "(Profit/CP) * 100", "Profit * 100", "(CP/Profit) * 100"],
+      "correctIndex": 1,
+      "explanation": "Profit or Loss percent is always calculated on the Cost Price (CP).",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m7_q10",
-      "text": "If Principal = ₹1000 and Interest = ₹100 for 1 year, what is the Rate of interest?",
-      "options": ["5%", "10%", "15%", "20%"],
+      "text": "A toy bought for Rs 200 is sold for Rs 220. The profit percent is:",
+      "options": ["10%", "20%", "15%", "5%"],
+      "correctIndex": 0,
+      "explanation": "Profit = 20. Percent = (20/200) * 100 = 10%.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m7_q11",
+      "text": "Simple Interest formula is:",
+      "options": ["P+R+T", "(P*R*T)/100", "P*R*T", "100/(P*R*T)"],
       "correctIndex": 1,
-      "explanation": "Rate = (I × 100) / (P × T) = (100 × 100) / (1000 × 1) = 10%."
+      "explanation": "I = PRT/100, where P is Principal, R is Rate, and T is Time.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m7_q12",
+      "text": "The amount to be paid at the end of a period is:",
+      "options": ["Principal - Interest", "Principal + Interest", "Interest Only", "Principal * Interest"],
+      "correctIndex": 1,
+      "explanation": "A = P + I.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m7_q13",
+      "text": "If P = Rs 1000, R = 5% p.a., T = 2 years, find SI.",
+      "options": ["Rs 50", "Rs 100", "Rs 1100", "Rs 200"],
+      "correctIndex": 1,
+      "explanation": "SI = (1000 * 5 * 2) / 100 = 100.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m7_q14",
+      "text": "Out of 40 children, 10 are girls. The percentage of girls is:",
+      "options": ["10%", "20%", "25%", "40%"],
+      "correctIndex": 2,
+      "explanation": "(10/40) * 100 = 1/4 * 100 = 25%.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m7_q15",
+      "text": "A shirt is reduced from Rs 800 to Rs 600. The percentage decrease is:",
+      "options": ["20%", "25%", "33.3%", "15%"],
+      "correctIndex": 1,
+      "explanation": "Decrease = 200. Percent = (200/800) * 100 = 25%.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m7_q16",
+      "text": "72% of 25 students are good in mathematics. How many are NOT good?",
+      "options": ["18", "7", "25", "15"],
+      "correctIndex": 1,
+      "explanation": "Good = 0.72 * 25 = 18. Not good = 25 - 18 = 7.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m7_q17",
+      "text": "An item sold for Rs 540 at a loss of 10%. Find CP.",
+      "options": ["Rs 600", "Rs 500", "Rs 590", "Rs 640"],
+      "correctIndex": 0,
+      "explanation": "0.9CP = 540 => CP = 540 / 0.9 = 600.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m7_q18",
+      "text": "Ratio of 30 days to 36 hours is:",
+      "options": ["20 : 1", "5 : 6", "1 : 20", "30 : 36"],
+      "correctIndex": 0,
+      "explanation": "30 days = 30 * 24 = 720 hours. Ratio = 720 : 36 = 20 : 1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m7_q19",
+      "text": "If 6 bowls cost Rs 90, then the cost of 10 bowls is:",
+      "options": ["Rs 100", "Rs 150", "Rs 120", "Rs 140"],
+      "correctIndex": 1,
+      "explanation": "1 bowl = 90/6 = 15. 10 bowls = 15 * 10 = 150.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m7_q20",
+      "text": "Find 15% of 250.",
+      "options": ["37.5", "3.75", "40", "35.5"],
+      "correctIndex": 0,
+      "explanation": "0.15 * 250 = 37.5.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m7_q21",
+      "text": "Converting 3:4 to percentage gives:",
+      "options": ["75%", "34%", "43%", "60%"],
+      "correctIndex": 0,
+      "explanation": "3/4 * 100 = 75%.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m7_q22",
+      "text": "The price of a car increased from Rs 3,50,000 to Rs 3,70,000. Find the percentage increase.",
+      "options": ["5.7%", "20%", "10%", "6%"],
+      "correctIndex": 0,
+      "explanation": "(20000 / 350000) * 100 = 200/35 = 5.7%.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m7_q23",
+      "text": "Meeta saves Rs 4000 from her salary. If this is 10% of her salary, what is her salary?",
+      "options": ["Rs 40,000", "Rs 30,000", "Rs 4,00,000", "Rs 20,000"],
+      "correctIndex": 0,
+      "explanation": "0.10x = 4000 => x = 40000.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m7_q24",
+      "text": "Local cricket team played 20 matches and won 25% of them. How many matches did they win?",
+      "options": ["4", "5", "6", "10"],
+      "correctIndex": 1,
+      "explanation": "0.25 * 20 = 5.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m7_q25",
+      "text": "Find the amount if P = Rs 1200 at 12% p.a. for 3 years.",
+      "options": ["Rs 432", "Rs 1632", "Rs 1432", "Rs 1500"],
+      "correctIndex": 1,
+      "explanation": "SI = (1200*12*3)/100 = 432. Amount = 1200 + 432 = 1632.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m7_q26",
+      "text": "What rate gives Rs 280 as interest on a sum of Rs 56,000 in 2 years?",
+      "options": ["0.25%", "0.5%", "1%", "2%"],
+      "correctIndex": 0,
+      "explanation": "280 = (56000 * R * 2) / 100 => 280 = 1120R => R = 280/1120 = 0.25%.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m7_q27",
+      "text": "A shopkeeper buys a chair for Rs 375 and sells it for Rs 400. Find the gain percentage.",
+      "options": ["6.6%", "7%", "5%", "10%"],
+      "correctIndex": 0,
+      "explanation": "Gain = 25. % = (25/375) * 100 = 100/15 = 6.6%.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m7_q28",
+      "text": "The population of a city decreased from 25,000 to 24,500. Find the percentage decrease.",
+      "options": ["2%", "5%", "10%", "1%"],
+      "correctIndex": 0,
+      "explanation": "(500 / 25000) * 100 = 50/25 = 2%.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m7_q29",
+      "text": "Ratio of 50 paise to Rs 5 is:",
+      "options": ["1 : 10", "1 : 1", "10 : 1", "1 : 5"],
+      "correctIndex": 0,
+      "explanation": "Rs 5 = 500 paise. Ratio = 50 : 500 = 1 : 10.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m7_q30",
+      "text": "If 3 : x :: 12 : 20, then x is:",
+      "options": ["5", "10", "15", "8"],
+      "correctIndex": 0,
+      "explanation": "3/x = 12/20 => 12x = 60 => x = 5.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m7_q31",
+      "text": "20% of 1 kg is:",
+      "options": ["200 g", "20 g", "100 g", "500 g"],
+      "correctIndex": 0,
+      "explanation": "0.20 * 1000 g = 200 g.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m7_q32",
+      "text": "Juhi sells a washing machine for Rs 13,500. She loses 20% in the bargain. What was the price at which she bought it?",
+      "options": ["Rs 16,875", "Rs 15,000", "Rs 17,000", "Rs 16,000"],
+      "correctIndex": 0,
+      "explanation": "0.80CP = 13500 => CP = 13500 / 0.8 = 16875.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m7_q33",
+      "text": "Find the interest on Rs 4500 at 8% per annum for 1 year.",
+      "options": ["Rs 360", "Rs 400", "Rs 3600", "Rs 450"],
+      "correctIndex": 0,
+      "explanation": "(4500 * 8 * 1) / 100 = 360.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m7_q34",
+      "text": "In a laboratory, the count of bacteria was increasing at the rate of 2.5% per hour. If initial was 5,06,000, find count after 2 hours.",
+      "options": ["5,31,616", "5,20,000", "5,10,000", "5,50,000"],
+      "correctIndex": 0,
+      "explanation": "Calculated using compound interest logic: 506000 * (1.025)^2 ≈ 531616.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_m7_q35",
+      "text": "Which is greater: 2 : 3 or 4 : 5?",
+      "options": ["2 : 3", "4 : 5", "Both equal", "Cannot compare"],
+      "correctIndex": 1,
+      "explanation": "2/3 = 0.66, 4/5 = 0.8. So 4:5 is greater.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m7_q36",
+      "text": "If x, 12, 8, 32 are in proportion, then x is:",
+      "options": ["3", "4", "6", "2"],
+      "correctIndex": 0,
+      "explanation": "x/12 = 8/32 => x/12 = 1/4 => 4x = 12 => x = 3.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m7_q37",
+      "text": "0.05 as a percentage is:",
+      "options": ["5%", "50%", "0.5%", "0.05%"],
+      "correctIndex": 0,
+      "explanation": "0.05 * 100 = 5%.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m7_q38",
+      "text": "A shopkeeper bought a chair for Rs 1200 and sold it for Rs 1500. Profit percentage is:",
+      "options": ["25%", "20%", "30%", "15%"],
+      "correctIndex": 0,
+      "explanation": "(300 / 1200) * 100 = 25%.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m7_q39",
+      "text": "If selling price is less than cost price, there is a:",
+      "options": ["Profit", "Loss", "No profit no loss", "Discount"],
+      "correctIndex": 1,
+      "explanation": "Loss = CP - SP.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m7_q40",
+      "text": "Unitary method involves finding the value of ________ unit first.",
+      "options": ["One", "Ten", "Hundred", "Total"],
+      "correctIndex": 0,
+      "explanation": "Unitary refers to 'unit' or one.",
+      "frequencyRating": 5
     }
   ]
 }

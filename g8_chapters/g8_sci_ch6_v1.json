@@ -1,0 +1,530 @@
+{
+  "id": "g8_sci_ch6",
+  "grade": "8",
+  "subject": "Science",
+  "number": "6",
+  "title": "Reproduction in Animals",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_s6_q1",
+      "text": "Mode of reproduction in amoeba:",
+      "options": [
+        "Budding",
+        "Binary fission",
+        "Fragmentation",
+        "Regeneration"
+      ],
+      "correctIndex": 1,
+      "explanation": "Asexual, cell divides.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s6_q2",
+      "text": "Budding in hydra produces:",
+      "options": [
+        "Daughter from bud",
+        "Egg",
+        "Spores",
+        "Seeds"
+      ],
+      "correctIndex": 0,
+      "explanation": "Asexual budding.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s6_q3",
+      "text": "Male reproductive part:",
+      "options": [
+        "Ovary",
+        "Testis",
+        "Uterus",
+        "Vagina"
+      ],
+      "correctIndex": 1,
+      "explanation": "Produces sperm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s6_q4",
+      "text": "Female gamete:",
+      "options": [
+        "Sperm",
+        "Ovum/egg",
+        "Foetus",
+        "Embryo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Larger.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s6_q5",
+      "text": "Fertilisation in humans:",
+      "options": [
+        "External",
+        "Internal",
+        "Both",
+        "No"
+      ],
+      "correctIndex": 1,
+      "explanation": "Inside female body.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s6_q6",
+      "text": "Fertilised egg = ",
+      "options": [
+        "Zygote",
+        "Embryo",
+        "Foetus",
+        "Ovum"
+      ],
+      "correctIndex": 0,
+      "explanation": "Forms zygote.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s6_q7",
+      "text": "Ovum produced by:",
+      "options": [
+        "Ovaries",
+        "Testes",
+        "Penis",
+        "Uterus"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ovaries.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s6_q8",
+      "text": "Sperm produced in:",
+      "options": [
+        "Testes",
+        "Ovaries",
+        "Uterus",
+        "Vagina"
+      ],
+      "correctIndex": 0,
+      "explanation": "Testes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s6_q9",
+      "text": "External fertilisation example:",
+      "options": [
+        "Frog",
+        "Hen",
+        "Human",
+        "Cow"
+      ],
+      "correctIndex": 0,
+      "explanation": "In water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s6_q10",
+      "text": "Embryo develops into:",
+      "options": [
+        "Zygote",
+        "Foetus",
+        "Ovum",
+        "Sperm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Further development.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s6_q11",
+      "text": "Viviparous animals:",
+      "options": [
+        "Lay eggs",
+        "Give birth young",
+        "Both",
+        "No"
+      ],
+      "correctIndex": 1,
+      "explanation": "e.g. human.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s6_q12",
+      "text": "Oviparous example:",
+      "options": [
+        "Human",
+        "Hen",
+        "Dog",
+        "Cat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Egg laying.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s6_q13",
+      "text": "Testis function:",
+      "options": [
+        "Ovum production",
+        "Sperm + testosterone",
+        "Placenta",
+        "Milk"
+      ],
+      "correctIndex": 1,
+      "explanation": "Male hormone.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s6_q14",
+      "text": "Ovary produces:",
+      "options": [
+        "Sperm",
+        "Egg + estrogen",
+        "Testosterone",
+        "Progesterone only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Female hormone.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s6_q15",
+      "text": "Zygote divides:",
+      "options": [
+        "Mitosis",
+        "Meiosis",
+        "No",
+        "Bud"
+      ],
+      "correctIndex": 0,
+      "explanation": "Forms embryo.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s6_q16",
+      "text": "Placenta supplies:",
+      "options": [
+        "Oxygen food waste removal",
+        "Egg",
+        "Sperm",
+        "Milk"
+      ],
+      "correctIndex": 0,
+      "explanation": "Via umbilical cord.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s6_q17",
+      "text": "Uterus role:",
+      "options": [
+        "Egg production",
+        "Foetus development",
+        "Sperm storage",
+        "Birth"
+      ],
+      "correctIndex": 1,
+      "explanation": "Implanted embryo grows.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s6_q18",
+      "text": "Asexual reproduction example:",
+      "options": [
+        "Human",
+        "Frog",
+        "Amoeba",
+        "Hen"
+      ],
+      "correctIndex": 2,
+      "explanation": "No gametes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s6_q19",
+      "text": "Sexual reproduction:",
+      "options": [
+        "Male female gametes fuse",
+        "Single parent",
+        "Budding",
+        "Fission"
+      ],
+      "correctIndex": 0,
+      "explanation": "Variation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s6_q20",
+      "text": "Sperms have:",
+      "options": [
+        "Head middle tail",
+        "No tail",
+        "Round",
+        "Fixed"
+      ],
+      "correctIndex": 0,
+      "explanation": "Motile.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s6_q21",
+      "text": "Ovum is:",
+      "options": [
+        "Small motile",
+        "Large non motile",
+        "Equal sperm",
+        "No nucleus"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stores food.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s6_q22",
+      "text": "Fertilisation forms:",
+      "options": [
+        "Diploid zygote",
+        "Haploid",
+        "Clone",
+        "Bud"
+      ],
+      "correctIndex": 0,
+      "explanation": "n + n = 2n.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s6_q23",
+      "text": "Embryo stage after zygote:",
+      "options": [
+        "No organs",
+        "Developed body parts",
+        "Single cell",
+        "Egg"
+      ],
+      "correctIndex": 0,
+      "explanation": "Divides forms tissues.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s6_q24",
+      "text": "Foetus stage:",
+      "options": [
+        "Well developed body parts",
+        "Zygote",
+        "Ovum",
+        "Sperm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Recognizable human.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s6_q25",
+      "text": "Development period:",
+      "options": [
+        "Gestation",
+        "Ovulation",
+        "Menstruation",
+        "Puberty"
+      ],
+      "correctIndex": 0,
+      "explanation": "Till birth.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s6_q26",
+      "text": "Human gestation 9 months, hen:",
+      "options": [
+        "21 days",
+        "30 days",
+        "60 days",
+        "9 months"
+      ],
+      "correctIndex": 0,
+      "explanation": "3 weeks.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s6_q27",
+      "text": "Testes located:",
+      "options": [
+        "Scrotum cooler",
+        "Body",
+        "Uterus",
+        "Ovary"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sperm viability.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s6_q28",
+      "text": "Ovaries mature at:",
+      "options": [
+        "Puberty",
+        "Birth",
+        "Childhood",
+        "Old age"
+      ],
+      "correctIndex": 0,
+      "explanation": "Once month ovum.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s6_q29",
+      "text": "Asexual disadvantage:",
+      "options": [
+        "No variation",
+        "Slow",
+        "Needs mate",
+        "No offspring"
+      ],
+      "correctIndex": 0,
+      "explanation": "Same clones.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s6_q30",
+      "text": "Sexual advantage:",
+      "options": [
+        "Variation",
+        "Fast",
+        "No mate",
+        "Clone"
+      ],
+      "correctIndex": 0,
+      "explanation": "Survival.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s6_q31",
+      "text": "Tube transfers sperm:",
+      "options": [
+        "Fallopian",
+        "Vagina",
+        "Uterus",
+        "Ovary"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fertilisation site.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s6_q32",
+      "text": "Implanted in:",
+      "options": [
+        "Uterus wall",
+        "Ovary",
+        "Fallopian",
+        "Vagina"
+      ],
+      "correctIndex": 0,
+      "explanation": "Embryo.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s6_q33",
+      "text": "Uterus lining:",
+      "options": [
+        "Thickens pregnancy",
+        "Thin",
+        "Constant",
+        "No"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hormones.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s6_q34",
+      "text": "If no pregnancy:",
+      "options": [
+        "Menstruation",
+        "Fertilisation",
+        "Ovulation",
+        "Puberty"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lining shed.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s6_q35",
+      "text": "Frog external fertilisation:",
+      "options": [
+        "Water medium",
+        "Land",
+        "Air",
+        "No water"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sperms swim.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s6_q36",
+      "text": "Hen oviparous:",
+      "options": [
+        "Fertilised egg shell",
+        "Live birth",
+        "Budding",
+        "Fission"
+      ],
+      "correctIndex": 0,
+      "explanation": "Incubated.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s6_q37",
+      "text": "Sperms motile due:",
+      "options": [
+        "Tail",
+        "Head",
+        "Middle",
+        "No tail"
+      ],
+      "correctIndex": 0,
+      "explanation": "Flagellum.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s6_q38",
+      "text": "Ovum size large:",
+      "options": [
+        "Food yolk",
+        "Small sperm",
+        "No yolk",
+        "Equal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nourishment.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s6_q39",
+      "text": "Zygote → embryo → ?",
+      "options": [
+        "Foetus → child",
+        "Ovum",
+        "Sperm",
+        "Adult"
+      ],
+      "correctIndex": 0,
+      "explanation": "Stages.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s6_q40",
+      "text": "Internal fertilisation in:",
+      "options": [
+        "Birds",
+        "Reptiles",
+        "Mammals",
+        "All"
+      ],
+      "correctIndex": 3,
+      "explanation": "Land animals.",
+      "frequencyRating": 5
+    }
+  ]
+}

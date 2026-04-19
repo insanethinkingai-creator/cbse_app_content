@@ -8,73 +8,323 @@
   "questions": [
     {
       "id": "g7_m10_q1",
-      "text": "An expression containing only one term is called a:",
-      "options": ["Binomial", "Trinomial", "Monomial", "Polynomial"],
+      "text": "What are the parts of an algebraic expression which are formed separately and then added?",
+      "options": ["Variables", "Constants", "Terms", "Factors"],
       "correctIndex": 2,
-      "explanation": "Monomials are algebraic expressions with a single non-zero term."
+      "explanation": "Expressions are made up of terms.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m10_q2",
-      "text": "The numerical factor in a term is called its:",
-      "options": ["Variable", "Coefficient", "Constant", "Exponent"],
-      "correctIndex": 1,
-      "explanation": "In the term 5xy, 5 is the numerical coefficient."
+      "text": "In the term 5xy, 5 is called the:",
+      "options": ["Variable", "Literal coefficient", "Numerical coefficient", "Exponent"],
+      "correctIndex": 2,
+      "explanation": "The number multiplying the variables is the numerical coefficient.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m10_q3",
-      "text": "Terms which have the same algebraic factors are called:",
-      "options": ["Unlike terms", "Equal terms", "Like terms", "Variables"],
+      "text": "An expression containing only one term is called a:",
+      "options": ["Binomial", "Trinomial", "Monomial", "Polynomial"],
       "correctIndex": 2,
-      "explanation": "Like terms have the same variables raised to the same powers."
+      "explanation": "'Mono' means one.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m10_q4",
-      "text": "What is the result of adding 3x and 4x?",
-      "options": ["7x²", "12x", "7x", "x"],
-      "correctIndex": 2,
-      "explanation": "When adding like terms, we add their numerical coefficients: (3+4)x = 7x."
+      "text": "An expression containing two unlike terms is called a:",
+      "options": ["Monomial", "Binomial", "Trinomial", "Constant"],
+      "correctIndex": 1,
+      "explanation": "'Bi' means two.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m10_q5",
-      "text": "The value of x² - 5 when x = 3 is:",
-      "options": ["1", "4", "9", "14"],
+      "text": "Terms having the same algebraic factors are called:",
+      "options": ["Equal terms", "Like terms", "Unlike terms", "Identity"],
       "correctIndex": 1,
-      "explanation": "Substitute 3 for x: (3)² - 5 = 9 - 5 = 4."
+      "explanation": "Like terms have the same variables with the same powers.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m10_q6",
-      "text": "Which of the following is a binomial?",
-      "options": ["3xy", "a + b + c", "x² + 5", "7"],
-      "correctIndex": 2,
-      "explanation": "A binomial is an expression containing exactly two terms."
+      "text": "Terms having different algebraic factors are called:",
+      "options": ["Like terms", "Unlike terms", "Factors", "Variables"],
+      "correctIndex": 1,
+      "explanation": "Unlike terms cannot be added or subtracted into a single term.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m10_q7",
-      "text": "Subtract 5y² from 12y²:",
-      "options": ["17y²", "7y²", "7y", "17"],
-      "correctIndex": 1,
-      "explanation": "Subtract coefficients of like terms: (12 - 5)y² = 7y²."
+      "text": "The value of 2x - 5 when x = 3 is:",
+      "options": ["1", "6", "11", "-1"],
+      "correctIndex": 0,
+      "explanation": "2(3) - 5 = 6 - 5 = 1.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m10_q8",
-      "text": "What are the terms in the expression 4x - 3y?",
-      "options": ["4x, 3y", "4x, -3y", "4, -3", "x, y"],
+      "text": "Identify the like terms: 5x, 7y, -3x, 2xy.",
+      "options": ["5x and 7y", "5x and -3x", "-3x and 2xy", "7y and 2xy"],
       "correctIndex": 1,
-      "explanation": "Terms are added to form expressions; here the terms are 4x and (-3y)."
+      "explanation": "Both 5x and -3x have the same variable part 'x'.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m10_q9",
-      "text": "The degree of the constant term 7 is:",
-      "options": ["1", "0", "7", "Undefined"],
-      "correctIndex": 1,
-      "explanation": "A constant can be written as 7x⁰, so its degree is 0."
+      "text": "The sum of 3x and 4x is:",
+      "options": ["7x", "7x²", "12x", "x"],
+      "correctIndex": 0,
+      "explanation": "To add like terms, add their numerical coefficients.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m10_q10",
-      "text": "Value of 2n - 1 if n = -2 is:",
-      "options": ["-3", "3", "-5", "5"],
+      "text": "Subtract 5a from 12a.",
+      "options": ["17a", "7a", "-7a", "60a"],
+      "correctIndex": 1,
+      "explanation": "12a - 5a = 7a.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m10_q11",
+      "text": "Which of the following is a trinomial?",
+      "options": ["x + y", "3x²", "a + b + c", "5"],
       "correctIndex": 2,
-      "explanation": "2(-2) - 1 = -4 - 1 = -5."
+      "explanation": "Trinomial has exactly three unlike terms.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m10_q12",
+      "text": "The coefficient of x in the expression -7xy + 5 is:",
+      "options": ["-7", "-7y", "5", "y"],
+      "correctIndex": 1,
+      "explanation": "Everything except 'x' in the term containing 'x' is its coefficient.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m10_q13",
+      "text": "Sum of ab, -ab, 2ab is:",
+      "options": ["0", "ab", "2ab", "3ab"],
+      "correctIndex": 2,
+      "explanation": "ab - ab + 2ab = 2ab.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m10_q14",
+      "text": "The value of n² - 2n when n = -2 is:",
+      "options": ["0", "8", "-8", "4"],
+      "correctIndex": 1,
+      "explanation": "(-2)² - 2(-2) = 4 + 4 = 8.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m10_q15",
+      "text": "Algebraic expressions are formed from:",
+      "options": ["Only variables", "Only constants", "Variables and constants", "None"],
+      "correctIndex": 2,
+      "explanation": "Basic definition of an expression.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m10_q16",
+      "text": "What should be added to x + y to get 2x + 3y?",
+      "options": ["x + 2y", "x - 2y", "3x + 4y", "2x + 2y"],
+      "correctIndex": 0,
+      "explanation": "(2x + 3y) - (x + y) = x + 2y.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m10_q17",
+      "text": "The numerical coefficient of the term -y is:",
+      "options": ["0", "1", "-1", "y"],
+      "correctIndex": 2,
+      "explanation": "-y means -1 * y.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m10_q18",
+      "text": "Which of the following is an 'unlike' term to 3x²y?",
+      "options": ["-5x²y", "x²y", "3xy²", "10x²y"],
+      "correctIndex": 2,
+      "explanation": "3xy² has different powers for x and y.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m10_q19",
+      "text": "The factor tree of 4x² contains how many 'x' factors?",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 1,
+      "explanation": "x² = x * x.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m10_q20",
+      "text": "Degree of the polynomial 5x - 3 (conceptual):",
+      "options": ["0", "1", "2", "5"],
+      "correctIndex": 1,
+      "explanation": "The highest power of the variable is 1.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m10_q21",
+      "text": "Simplify: (3x - y + 11) + (-y - 11)",
+      "options": ["3x - 2y", "3x", "3x + 2y + 22", "3x - y"],
+      "correctIndex": 0,
+      "explanation": "3x - y - y + 11 - 11 = 3x - 2y.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m10_q22",
+      "text": "If a=2, b=3, find a² + b².",
+      "options": ["5", "10", "13", "25"],
+      "correctIndex": 2,
+      "explanation": "2² + 3² = 4 + 9 = 13.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m10_q23",
+      "text": "The sum of a number 'x' and its double is:",
+      "options": ["x + 2", "3x", "x²", "2x"],
+      "correctIndex": 1,
+      "explanation": "x + 2x = 3x.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m10_q24",
+      "text": "What is the result of subtracting (a - b) from (a + b)?",
+      "options": ["2a", "2b", "0", "-2b"],
+      "correctIndex": 1,
+      "explanation": "(a + b) - (a - b) = a + b - a + b = 2b.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m10_q25",
+      "text": "In algebraic expressions, letters like x, y, l, m represent:",
+      "options": ["Fixed values", "Variables", "Constants", "Coefficients"],
+      "correctIndex": 1,
+      "explanation": "Variables can take various numerical values.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m10_q26",
+      "text": "Which expression represents: 'y is subtracted from 10'?",
+      "options": ["y - 10", "10 - y", "10y", "10/y"],
+      "correctIndex": 1,
+      "explanation": "10 is the starting value from which y is removed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m10_q27",
+      "text": "The coefficient of x² in -x² + 4x + 7 is:",
+      "options": ["1", "0", "-1", "4"],
+      "correctIndex": 2,
+      "explanation": "-x² is same as -1 * x².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m10_q28",
+      "text": "How many terms are in 5x² - 2x + 8?",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 2,
+      "explanation": "Terms are 5x², -2x, and 8.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m10_q29",
+      "text": "Is 3x and 3x² a pair of like terms?",
+      "options": ["Yes", "No", "Depends on x", "Only if x=1"],
+      "correctIndex": 1,
+      "explanation": "The powers of the variable x are different (1 and 2).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m10_q30",
+      "text": "Simplify: x - (y - x)",
+      "options": ["y", "2x - y", "0", "-y"],
+      "correctIndex": 1,
+      "explanation": "x - y + x = 2x - y.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m10_q31",
+      "text": "Find value of 100 - 10x³ for x = 2.",
+      "options": ["80", "20", "40", "0"],
+      "correctIndex": 1,
+      "explanation": "100 - 10(8) = 100 - 80 = 20.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m10_q32",
+      "text": "If x=1, find 2x² - x - 1.",
+      "options": ["1", "0", "2", "-1"],
+      "correctIndex": 1,
+      "explanation": "2(1) - 1 - 1 = 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m10_q33",
+      "text": "Which represents 'product of x and y'?",
+      "options": ["x + y", "x/y", "xy", "x - y"],
+      "correctIndex": 2,
+      "explanation": "Juxtaposition of variables implies multiplication.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m10_q34",
+      "text": "The constant term in 2x - 3y + 5 is:",
+      "options": ["2", "-3", "5", "x"],
+      "correctIndex": 2,
+      "explanation": "A term with no variable part is a constant.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m10_q35",
+      "text": "Addition of 4x, 3x and -2x is:",
+      "options": ["9x", "5x", "x", "7x"],
+      "correctIndex": 1,
+      "explanation": "4 + 3 - 2 = 5.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m10_q36",
+      "text": "Algebraic factors of 5xy are:",
+      "options": ["5, x, y", "5x, y", "5, xy", "None"],
+      "correctIndex": 0,
+      "explanation": "The term is a product of these factors.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m10_q37",
+      "text": "Pattern for number of segments to form 'n' squares in a row (e.g. 4, 7, 10...):",
+      "options": ["4n", "3n + 1", "2n + 2", "n + 3"],
+      "correctIndex": 1,
+      "explanation": "First square needs 4, each additional square adds 3 segments.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_m10_q38",
+      "text": "If x=0, find 2x² + x + 10.",
+      "options": ["0", "1", "10", "13"],
+      "correctIndex": 2,
+      "explanation": "0 + 0 + 10 = 10.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m10_q39",
+      "text": "Expression for: 'Half of a number z'?",
+      "options": ["z - 2", "2z", "z/2", "z + 1/2"],
+      "correctIndex": 2,
+      "explanation": "Division by 2 represents a half.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m10_q40",
+      "text": "Subtract x² from -x².",
+      "options": ["0", "2x²", "-2x²", "1"],
+      "correctIndex": 2,
+      "explanation": "-x² - x² = -2x².",
+      "frequencyRating": 4
     }
   ]
 }

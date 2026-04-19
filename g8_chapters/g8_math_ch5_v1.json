@@ -1,0 +1,530 @@
+{
+  "id": "g8_math_ch5",
+  "grade": "8",
+  "subject": "Mathematics",
+  "number": "5",
+  "title": "Squares and Square Roots",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_m5_q1",
+      "text": "Perfect square ends with:",
+      "options": [
+        "2,3,7,8",
+        "0,1,4,5,6,9",
+        "All digits",
+        "Even only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Square units digit properties.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m5_q2",
+      "text": "Square root of 144:",
+      "options": [
+        "12",
+        "14",
+        "10",
+        "16"
+      ],
+      "correctIndex": 0,
+      "explanation": "12×12=144.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m5_q3",
+      "text": "Pythagoras theorem states:",
+      "options": [
+        "a² + b² = c²",
+        "a + b = c",
+        "a² - b² = c²",
+        "No"
+      ],
+      "correctIndex": 0,
+      "explanation": "Right triangle hypotenuse.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m5_q4",
+      "text": "Square of 25:",
+      "options": [
+        "50",
+        "625",
+        "125",
+        "250"
+      ],
+      "correctIndex": 1,
+      "explanation": "25×25=625.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m5_q5",
+      "text": "Largest 3-digit perfect square:",
+      "options": [
+        "961 (31²)",
+        "1000",
+        "900",
+        "784"
+      ],
+      "correctIndex": 0,
+      "explanation": "31²=961, 32²=1024.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m5_q6",
+      "text": "Square root method:",
+      "options": [
+        "Prime factor",
+        "Division",
+        "Both",
+        "Long multiplication"
+      ],
+      "correctIndex": 2,
+      "explanation": "Methods.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m5_q7",
+      "text": "Pattern squares 1 to 10 units digit:",
+      "options": [
+        "Cycles every 10",
+        "1,4,9,6,5,6,9,4,1,0",
+        "Increasing",
+        "No"
+      ],
+      "correctIndex": 1,
+      "explanation": "Units digit squares cycle.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m5_q8",
+      "text": "√196:",
+      "options": [
+        "14",
+        "15",
+        "13",
+        "16"
+      ],
+      "correctIndex": 0,
+      "explanation": "14×14=196.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m5_q9",
+      "text": "Number of zeros between pair in square:",
+      "options": [
+        "Even number zeros",
+        "Odd",
+        "Any",
+        "No"
+      ],
+      "correctIndex": 0,
+      "explanation": "Even for perfect square.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m5_q10",
+      "text": "Prime factor √(81):",
+      "options": [
+        "3×3×3×3",
+        "9×9",
+        "3^4",
+        "All"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pair factors.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m5_q11",
+      "text": "Division method for √144:",
+      "options": [
+        "12",
+        "120",
+        "1.2",
+        "No"
+      ],
+      "correctIndex": 0,
+      "explanation": "Long division.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m5_q12",
+      "text": "Smallest 4-digit perfect square:",
+      "options": [
+        "1000",
+        "1024 (32²)",
+        "961",
+        "1089"
+      ],
+      "correctIndex": 1,
+      "explanation": "32²=1024.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m5_q13",
+      "text": "Square number divisible by 4:",
+      "options": [
+        "Always if even",
+        "Odd squares no",
+        "Both even",
+        "Prime"
+      ],
+      "correctIndex": 0,
+      "explanation": "Even number 2k square 4k².",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m5_q14",
+      "text": "Pythagorean triplet 5,12, ?",
+      "options": [
+        "13",
+        "17",
+        "10",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "5²+12²=25+144=169=13².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m5_q15",
+      "text": "√(256):",
+      "options": [
+        "16",
+        "18",
+        "14",
+        "20"
+      ],
+      "correctIndex": 0,
+      "explanation": "16×16=256.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m5_q16",
+      "text": "Digits in square root n-digit square:",
+      "options": [
+        "n or n/2",
+        "n-1",
+        "n+1",
+        "Always n/2"
+      ],
+      "correctIndex": 0,
+      "explanation": "1 or 2 digits.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m5_q17",
+      "text": "25²:",
+      "options": [
+        "525",
+        "625",
+        "550",
+        "500"
+      ],
+      "correctIndex": 1,
+      "explanation": "625.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m5_q18",
+      "text": "Last two digits perfect square possible:",
+      "options": [
+        "00",
+        "25",
+        "76",
+        "All above"
+      ],
+      "correctIndex": 3,
+      "explanation": "Check units tens.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m5_q19",
+      "text": "√729:",
+      "options": [
+        "27",
+        "28",
+        "26",
+        "29"
+      ],
+      "correctIndex": 0,
+      "explanation": "27×27=729.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m5_q20",
+      "text": "Even perfect square:",
+      "options": [
+        "Divisible by 4",
+        "2",
+        "Both",
+        "Odd"
+      ],
+      "correctIndex": 2,
+      "explanation": "(2k)²=4k².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m5_q21",
+      "text": "3-4-5 triangle:",
+      "options": [
+        "Right",
+        "Acute",
+        "Obtuse",
+        "Equilateral"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pythagoras holds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m5_q22",
+      "text": "√(3.24):",
+      "options": [
+        "1.8",
+        "18",
+        "0.18",
+        "1.8"
+      ],
+      "correctIndex": 0,
+      "explanation": "1.8×1.8=3.24.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m5_q23",
+      "text": "Number not perfect square:",
+      "options": [
+        "121",
+        "12321",
+        "123",
+        "14641"
+      ],
+      "correctIndex": 2,
+      "explanation": "No integer root.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m5_q24",
+      "text": "Prime factor method pairs:",
+      "options": [
+        "Group 2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Even power.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m5_q25",
+      "text": "23²:",
+      "options": [
+        "529",
+        "441",
+        "484",
+        "576"
+      ],
+      "correctIndex": 0,
+      "explanation": "529.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m5_q26",
+      "text": "Square root decimal approx:",
+      "options": [
+        "Division method",
+        "No",
+        "Prime",
+        "Pyth"
+      ],
+      "correctIndex": 0,
+      "explanation":"Long division.",
+      "frequencyRating":5
+    },
+    {
+      "id": "g8_m5_q27",
+      "text": "Perfect square between 2 zeros:",
+      "options": [
+        "No",
+        "Yes even",
+        "Odd",
+        "1"
+      ],
+      "correctIndex": 1,
+      "explanation": "Even zeros.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m5_q28",
+      "text": "√1 =",
+      "options": [
+        "1",
+        "0",
+        "-1",
+        "No"
+      ],
+      "correctIndex": 0,
+      "explanation": "Principal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m5_q29",
+      "text": "15² - 14² = ?",
+      "options": [
+        "29",
+        "1",
+        "225",
+        "196"
+      ],
+      "correctIndex": 0,
+      "explanation": "(a² - b²)=(a-b)(a+b)=1*29=29.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m5_q30",
+      "text": "8² + 15² =17² check:",
+      "options": [
+        "64+225=289=17²",
+        "No",
+        "Right triangle",
+        "All"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pythagoras.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m5_q31",
+      "text": "√(1764):",
+      "options": [
+        "42",
+        "40",
+        "44",
+        "41"
+      ],
+      "correctIndex": 0,
+      "explanation": "42×42=1764.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m5_q32",
+      "text": "Square not end 2:",
+      "options": [
+        "Never",
+        "Sometimes",
+        "Always",
+        "Odd"
+      ],
+      "correctIndex": 0,
+      "explanation": "Units digit impossible.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m5_q33",
+      "text": "Division method for √50 approx:",
+      "options": [
+        "7.07",
+        "7",
+        "5",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "7.07.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m5_q34",
+      "text": "Number perfect square if:",
+      "options": [
+        "All prime factors even powers",
+        "Odd",
+        "Prime",
+        "No"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m5_q35",
+      "text": "35²:",
+      "options": [
+        "1225",
+        "1156",
+        "1296",
+        "1176"
+      ],
+      "correctIndex": 0,
+      "explanation": "1225.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m5_q36",
+      "text": "Consecutive squares difference:",
+      "options": [
+        "Odd numbers",
+        "Even",
+        "Constant",
+        "Square"
+      ],
+      "correctIndex": 0,
+      "explanation": "(n+1)² - n² =2n+1 odd.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m5_q37",
+      "text": "√0.81:",
+      "options": [
+        "0.9",
+        "0.09",
+        "9",
+        "90"
+      ],
+      "correctIndex": 0,
+      "explanation": "0.9×0.9=0.81.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m5_q38",
+      "text": "20²:",
+      "options": [
+        "400",
+        "420",
+        "380",
+        "360"
+      ],
+      "correctIndex": 0,
+      "explanation": "400.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m5_q39",
+      "text": "Pyth triplet multiple 3,4,5:",
+      "options": [
+        "6,8,10",
+        "9,12,15",
+        "5,12,13",
+        "All"
+      ],
+      "correctIndex": 3,
+      "explanation": "Multiples.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m5_q40",
+      "text": "√4096:",
+      "options": [
+        "64",
+        "60",
+        "70",
+        "66"
+      ],
+      "correctIndex": 0,
+      "explanation": "64×64=4096.",
+      "frequencyRating": 4
+    }
+  ]
+}

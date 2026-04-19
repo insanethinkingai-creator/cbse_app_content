@@ -39,7 +39,7 @@ def validate_json(file_path, is_manifest=False):
 
         # Validate question count based on grade
         grade = str(data.get("grade"))
-        expected_count = 10 if grade == "7" else 40
+        expected_count = 40
         actual_count = len(data.get("questions", []))
         if actual_count != expected_count:
             raise ValueError(f"Data Error in {file_path}: Expected {expected_count} questions for Grade {grade}, but found {actual_count}")

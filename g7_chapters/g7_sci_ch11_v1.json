@@ -8,83 +8,323 @@
   "questions": [
     {
       "id": "g7_s11_q1",
-      "text": "Light travels along:",
-      "options": ["Curved lines", "Zig-zag lines", "Straight lines", "Random paths"],
-      "correctIndex": 2,
-      "explanation": "This property of light is known as rectilinear propagation.",
+      "text": "Which of the following statements about light is correct?",
+      "options": ["Light travels in a curved path", "Light travels in a straight line", "Light cannot travel through vacuum", "Light travels faster in water than in air"],
+      "correctIndex": 1,
+      "explanation": "Light travels in a straight line, a property known as rectilinear propagation.",
       "frequencyRating": 5
     },
     {
       "id": "g7_s11_q2",
-      "text": "The change in direction of light by a mirror is called:",
-      "options": ["Refraction", "Reflection", "Absorption", "Dispersion"],
+      "text": "The change in the direction of light by a mirror is called:",
+      "options": ["Refraction", "Reflection", "Dispersion", "Absorption"],
       "correctIndex": 1,
-      "explanation": "Reflection allows us to see images of objects in polished surfaces.",
+      "explanation": "Reflection is the bouncing back of light when it strikes a polished surface like a mirror.",
       "frequencyRating": 5
     },
     {
       "id": "g7_s11_q3",
-      "text": "An image that cannot be obtained on a screen is called a:",
-      "options": ["Real image", "Virtual image", "Inverted image", "Erect image"],
+      "text": "An image that can be obtained on a screen is called a:",
+      "options": ["Virtual image", "Real image", "Inverted image", "Erect image"],
       "correctIndex": 1,
-      "explanation": "The image formed by a plane mirror is always virtual and erect.",
-      "frequencyRating": 4
+      "explanation": "Real images are formed by the actual intersection of light rays and can be caught on a screen.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s11_q4",
-      "text": "A concave mirror can form:",
-      "options": ["Only real images", "Only virtual images", "Both real and virtual images", "Only diminished images"],
-      "correctIndex": 2,
-      "explanation": "The nature of the image depends on the distance of the object from the concave mirror.",
-      "frequencyRating": 4
+      "text": "An image that cannot be obtained on a screen is called a:",
+      "options": ["Real image", "Virtual image", "Magnified image", "Diminished image"],
+      "correctIndex": 1,
+      "explanation": "Virtual images are formed when light rays appear to meet at a point; they cannot be caught on a screen.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s11_q5",
-      "text": "Which type of mirror is used as a side-view mirror in vehicles?",
-      "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Bifocal mirror"],
-      "correctIndex": 2,
-      "explanation": "Convex mirrors form diminished, erect images and provide a wider field of view.",
+      "text": "The image formed by a plane mirror is always:",
+      "options": ["Virtual and erect", "Real and inverted", "Virtual and inverted", "Real and erect"],
+      "correctIndex": 0,
+      "explanation": "A plane mirror forms an upright (erect) image that cannot be caught on a screen (virtual).",
       "frequencyRating": 5
     },
     {
       "id": "g7_s11_q6",
-      "text": "A lens which is thinner in the middle than at the edges is a:",
-      "options": ["Convex lens", "Concave lens", "Plane lens", "Cylindrical lens"],
+      "text": "In a plane mirror, the left side of the object appears on the right side of the image. This is called:",
+      "options": ["Vertical inversion", "Lateral inversion", "Refraction", "Reflection"],
       "correctIndex": 1,
-      "explanation": "Concave lenses are also known as diverging lenses.",
-      "frequencyRating": 4
+      "explanation": "Lateral inversion is the side-to-side reversal of an object in a mirror.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s11_q7",
-      "text": "White light is composed of how many colors?",
-      "options": ["Three", "Five", "Seven", "One"],
-      "correctIndex": 2,
-      "explanation": "Sunlight (white light) consists of VIBGYOR colors, which can be seen in a rainbow.",
+      "text": "Which of the following is used to see the rear view in vehicles?",
+      "options": ["Concave mirror", "Convex mirror", "Plane mirror", "Concave lens"],
+      "correctIndex": 1,
+      "explanation": "Convex mirrors provide a wider field of view and always form an erect, diminished image.",
       "frequencyRating": 5
     },
     {
       "id": "g7_s11_q8",
-      "text": "The phenomenon of splitting of white light into its component colors is:",
-      "options": ["Reflection", "Refraction", "Dispersion", "Inversion"],
-      "correctIndex": 2,
-      "explanation": "Dispersion can be demonstrated using a glass prism.",
-      "frequencyRating": 4
+      "text": "A mirror with a reflecting surface curved inwards is a:",
+      "options": ["Convex mirror", "Concave mirror", "Plane mirror", "Cylindrical mirror"],
+      "correctIndex": 1,
+      "explanation": "Concave mirrors have a reflecting surface that caves in, like the inside of a spoon.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s11_q9",
-      "text": "Newton's disc appears ________ when rotated rapidly.",
-      "options": ["Black", "White", "Red", "Multi-colored"],
+      "text": "A mirror with a reflecting surface curved outwards is a:",
+      "options": ["Concave mirror", "Convex mirror", "Plane mirror", "Parabolic mirror"],
       "correctIndex": 1,
-      "explanation": "The rapid mixing of the seven colors perceived by the eye makes the disc appear white.",
-      "frequencyRating": 3
+      "explanation": "Convex mirrors have a reflecting surface that bulges out, like the back of a spoon.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s11_q10",
       "text": "Dentists use which type of mirror to see an enlarged image of teeth?",
-      "options": ["Convex mirror", "Concave mirror", "Plane mirror", "Double-sided mirror"],
+      "options": ["Convex mirror", "Concave mirror", "Plane mirror", "Bifocal mirror"],
       "correctIndex": 1,
-      "explanation": "A concave mirror produces an enlarged virtual image when held close to the object.",
+      "explanation": "Concave mirrors form a magnified, virtual, and erect image when the object is very close.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s11_q11",
+      "text": "The reflectors of torches and headlights of cars are ________ in shape.",
+      "options": ["Convex", "Concave", "Plane", "Spherical"],
+      "correctIndex": 1,
+      "explanation": "Concave reflectors help in producing a powerful parallel beam of light.",
       "frequencyRating": 4
+    },
+    {
+      "id": "g7_s11_q12",
+      "text": "Which type of lens is thicker in the middle than at the edges?",
+      "options": ["Concave lens", "Convex lens", "Plane lens", "Cylindrical lens"],
+      "correctIndex": 1,
+      "explanation": "Convex lenses converge light rays and are thicker at the center.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s11_q13",
+      "text": "Which type of lens is thinner in the middle than at the edges?",
+      "options": ["Convex lens", "Concave lens", "Magnifying lens", "Bifocal lens"],
+      "correctIndex": 1,
+      "explanation": "Concave lenses diverge light rays and are thinner at the center.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s11_q14",
+      "text": "A convex lens is also known as a ________ lens.",
+      "options": ["Diverging", "Converging", "Reflecting", "Bending"],
+      "correctIndex": 1,
+      "explanation": "It converges (brings together) parallel rays of light falling on it.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s11_q15",
+      "text": "A concave lens is also known as a ________ lens.",
+      "options": ["Converging", "Diverging", "Inverting", "Focusing"],
+      "correctIndex": 1,
+      "explanation": "It diverges (spreads out) light rays falling on it.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s11_q16",
+      "text": "Which of the following can be used as a magnifying glass?",
+      "options": ["Concave lens", "Convex lens", "Concave mirror", "Convex mirror"],
+      "correctIndex": 1,
+      "explanation": "A convex lens forms a magnified, virtual, and erect image of an object placed close to it.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s11_q17",
+      "text": "White light is composed of ________ colors.",
+      "options": ["Three", "Five", "Seven", "Nine"],
+      "correctIndex": 2,
+      "explanation": "Sunlight (white light) consists of seven colors: VIBGYOR.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s11_q18",
+      "text": "The splitting of white light into its constituent colors is called:",
+      "options": ["Reflection", "Refraction", "Dispersion", "Deviation"],
+      "correctIndex": 2,
+      "explanation": "Dispersion occurs when white light passes through a prism, forming a spectrum.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s11_q19",
+      "text": "Newton's disc appears ________ in color when rotated quickly.",
+      "options": ["Black", "White", "Red", "Blue"],
+      "correctIndex": 1,
+      "explanation": "The mixing of the seven colors on the rotating disc gives the perception of white color.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s11_q20",
+      "text": "A rainbow is always formed in a direction ________ to that of the sun.",
+      "options": ["Same", "Opposite", "Perpendicular", "Parallel"],
+      "correctIndex": 1,
+      "explanation": "Rainbows appear when sunlight is reflected and dispersed by raindrops in the opposite direction of the sun.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s11_q21",
+      "text": "The distance of the image from a plane mirror is:",
+      "options": ["Half the object distance", "Twice the object distance", "Equal to the object distance", "Depends on the size of the mirror"],
+      "correctIndex": 2,
+      "explanation": "In a plane mirror, the image is as far behind the mirror as the object is in front of it.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s11_q22",
+      "text": "A concave lens always forms an image which is:",
+      "options": ["Virtual, erect and diminished", "Real, inverted and magnified", "Virtual, inverted and diminished", "Real, erect and magnified"],
+      "correctIndex": 0,
+      "explanation": "Concave lenses always produce virtual, upright, and smaller images, regardless of the object's position.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s11_q23",
+      "text": "Which of these objects does not allow light to pass through it?",
+      "options": ["Glass", "Water", "Wood", "Air"],
+      "correctIndex": 2,
+      "explanation": "Wood is an opaque object; it blocks light and forms a shadow.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s11_q24",
+      "text": "A polished or shiny surface can act as a:",
+      "options": ["Lens", "Mirror", "Prism", "Filter"],
+      "correctIndex": 1,
+      "explanation": "Shiny surfaces reflect light effectively, behaving like a mirror.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s11_q25",
+      "text": "What type of image is formed on a cinema screen?",
+      "options": ["Virtual", "Real", "Lateral", "Blurred"],
+      "correctIndex": 1,
+      "explanation": "Since the image is projected on a screen, it must be a real image.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s11_q26",
+      "text": "In a plane mirror, the size of the image is ________ compared to the object.",
+      "options": ["Larger", "Smaller", "Same", "Double"],
+      "correctIndex": 2,
+      "explanation": "A plane mirror does not change the size of the object's image.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s11_q27",
+      "text": "Which mirror can form both real and virtual images?",
+      "options": ["Plane mirror", "Convex mirror", "Concave mirror", "None of these"],
+      "correctIndex": 2,
+      "explanation": "Concave mirrors can form real or virtual images depending on how close the object is to the mirror.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s11_q28",
+      "text": "The path of light is:",
+      "options": ["Rectilinear", "Circular", "Random", "Curvilinear"],
+      "correctIndex": 0,
+      "explanation": "Rectilinear propagation means light travels in straight lines.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s11_q29",
+      "text": "Compact discs (CDs) show many colors when sunlight falls on them due to:",
+      "options": ["Reflection", "Dispersion", "Refraction", "Absorption"],
+      "correctIndex": 1,
+      "explanation": "The surface of a CD acts as a grating that disperses white light into its colors.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_s11_q30",
+      "text": "Why is 'AMBULANCE' written in a laterally inverted way on vehicles?",
+      "options": ["To make it look unique", "So drivers in front can read it correctly in their mirrors", "Because it is a rule", "To save space"],
+      "correctIndex": 1,
+      "explanation": "When seen in a rear-view mirror, the lateral inversion of the mirror makes the word appear correctly.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s11_q31",
+      "text": "A real image is always:",
+      "options": ["Erect", "Inverted", "Side-ways", "Magnified"],
+      "correctIndex": 1,
+      "explanation": "Real images formed by mirrors and lenses are always upside down (inverted).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s11_q32",
+      "text": "Which color of light deviates the most when passing through a prism?",
+      "options": ["Red", "Violet", "Green", "Yellow"],
+      "correctIndex": 1,
+      "explanation": "Violet light has the shortest wavelength and bends the most.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s11_q33",
+      "text": "Which color of light deviates the least when passing through a prism?",
+      "options": ["Red", "Violet", "Blue", "Indigo"],
+      "correctIndex": 0,
+      "explanation": "Red light has the longest wavelength and bends the least.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s11_q34",
+      "text": "A virtual image is always:",
+      "options": ["Inverted", "Erect", "On the screen", "Magnified"],
+      "correctIndex": 1,
+      "explanation": "Virtual images are always upright (erect).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s11_q35",
+      "text": "The middle color in the spectrum of white light is:",
+      "options": ["Yellow", "Green", "Blue", "Orange"],
+      "correctIndex": 1,
+      "explanation": "In VIBGYOR, Green is the middle color.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_s11_q36",
+      "text": "Can a convex mirror ever form a real image?",
+      "options": ["Yes", "No", "Only for large objects", "Only in the dark"],
+      "correctIndex": 1,
+      "explanation": "Convex mirrors always form virtual images of real objects.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s11_q37",
+      "text": "Which of these is a non-luminous object?",
+      "options": ["Sun", "Star", "Moon", "Burning candle"],
+      "correctIndex": 2,
+      "explanation": "The moon does not emit its own light; it reflects sunlight.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s11_q38",
+      "text": "If you stand 2 meters away from a plane mirror, the distance between you and your image is:",
+      "options": ["2 meters", "4 meters", "1 meter", "0 meters"],
+      "correctIndex": 1,
+      "explanation": "2m (object to mirror) + 2m (mirror to image) = 4m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s11_q39",
+      "text": "The geometric center of the reflecting surface of a spherical mirror is called:",
+      "options": ["Center of curvature", "Pole", "Principal axis", "Aperture"],
+      "correctIndex": 1,
+      "explanation": "The pole (P) is the center point of the spherical mirror surface.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_s11_q40",
+      "text": "Shadows are formed because light:",
+      "options": ["Bends around objects", "Is reflected by objects", "Travels in straight lines and is blocked by opaque objects", "Is absorbed by transparent objects"],
+      "correctIndex": 2,
+      "explanation": "Opaque objects block the straight path of light, creating a dark region called a shadow.",
+      "frequencyRating": 5
     }
   ]
 }

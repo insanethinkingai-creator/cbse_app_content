@@ -7,83 +7,323 @@
   "version": "v1",
   "questions": [
     {
-      "id": "g7_geo_ch4_q1",
-      "text": "Which is the most plentiful gas in the atmosphere?",
+      "id": "g7_g4_q1",
+      "text": "Our earth is surrounded by a huge blanket of air called:",
+      "options": ["Hydrosphere", "Lithosphere", "Atmosphere", "Biosphere"],
+      "correctIndex": 2,
+      "explanation": "The atmosphere provides the air we breathe and protects us from harmful sun rays.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g4_q2",
+      "text": "Which gas constitutes the bulk (78%) of the atmosphere?",
       "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Argon"],
       "correctIndex": 2,
-      "explanation": "Nitrogen makes up 78% of the air and is vital for plant life, although plants cannot take it directly from air.",
+      "explanation": "Nitrogen is the most plentiful gas in the air.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_geo_ch4_q2",
-      "text": "Which gas is released by green plants during photosynthesis and used by humans for breathing?",
-      "options": ["Nitrogen", "Oxygen", "Argon", "Helium"],
+      "id": "g7_g4_q3",
+      "text": "The second most plentiful gas in the air (21%) is:",
+      "options": ["Nitrogen", "Oxygen", "Helium", "Carbon dioxide"],
       "correctIndex": 1,
-      "explanation": "Oxygen is the second most plentiful gas in the air (21%). Plants create it during photosynthesis.",
+      "explanation": "Oxygen is essential for the survival of humans and animals.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_geo_ch4_q3",
-      "text": "The greenhouse effect is primarily caused by which gas?",
-      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Helium"],
+      "id": "g7_g4_q4",
+      "text": "Which gas is used by plants to make their food?",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon"],
       "correctIndex": 2,
-      "explanation": "Carbon dioxide traps heat radiated from the earth, keeping the planet warm. Excessive CO2 leads to global warming.",
+      "explanation": "Plants take in carbon dioxide and release oxygen during photosynthesis.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_geo_ch4_q4",
-      "text": "In which layer of the atmosphere do almost all weather phenomena like rainfall, fog and hailstorm occur?",
-      "options": ["Stratosphere", "Mesosphere", "Thermosphere", "Troposphere"],
-      "correctIndex": 3,
-      "explanation": "The Troposphere is the most important layer of the atmosphere, extending up to an average height of 13 km.",
+      "id": "g7_g4_q5",
+      "text": "Which of the following creates a 'Greenhouse effect' in the atmosphere?",
+      "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Argon"],
+      "correctIndex": 2,
+      "explanation": "Carbon dioxide traps the heat radiated from the earth.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_geo_ch4_q5",
-      "text": "The layer of the atmosphere that contains the ozone layer and is ideal for flying aeroplanes is:",
-      "options": ["Troposphere", "Stratosphere", "Mesosphere", "Exosphere"],
+      "id": "g7_g4_q6",
+      "text": "Increase in carbon dioxide leads to the warming of the earth's surface, known as:",
+      "options": ["Green revolution", "Global warming", "Atmospheric cooling", "Solar heating"],
       "correctIndex": 1,
-      "explanation": "The Stratosphere is free from clouds and weather phenomena, and the ozone layer protects us from harmful sun rays.",
+      "explanation": "Global warming causes glaciers to melt and sea levels to rise.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_geo_ch4_q6",
-      "text": "Meteorites burn up in this layer on entering from space:",
-      "options": ["Stratosphere", "Mesosphere", "Thermosphere", "Troposphere"],
+      "id": "g7_g4_q7",
+      "text": "The atmosphere is divided into how many layers starting from the earth's surface?",
+      "options": ["Three", "Four", "Five", "Six"],
+      "correctIndex": 2,
+      "explanation": "The layers are Troposphere, Stratosphere, Mesosphere, Thermosphere, and Exosphere.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g4_q8",
+      "text": "The most important layer of the atmosphere where all weather phenomena occur is:",
+      "options": ["Stratosphere", "Troposphere", "Mesosphere", "Exosphere"],
       "correctIndex": 1,
-      "explanation": "The Mesosphere is the third layer of the atmosphere and extends up to the height of 80 km.",
+      "explanation": "Its average height is 13 km, and it contains the air we breathe.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g4_q9",
+      "text": "Which layer is ideal for flying aeroplanes because it is free from clouds?",
+      "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+      "correctIndex": 1,
+      "explanation": "Stratosphere extends up to 50 km and contains the ozone layer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g4_q10",
+      "text": "The ozone layer is found in the:",
+      "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+      "correctIndex": 1,
+      "explanation": "Ozone protects us from the harmful ultraviolet (UV) rays of the sun.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g4_q11",
+      "text": "In which layer do meteorites burn up on entering from space?",
+      "options": ["Stratosphere", "Mesosphere", "Thermosphere", "Exosphere"],
+      "correctIndex": 1,
+      "explanation": "Mesosphere is the third layer and extends up to 80 km.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g4_q12",
+      "text": "In which layer does temperature rise very rapidly with increasing height?",
+      "options": ["Troposphere", "Stratosphere", "Thermosphere", "Mesosphere"],
+      "correctIndex": 2,
+      "explanation": "Ionosphere is a part of this layer which helps in radio transmission.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g4_q13",
+      "text": "The uppermost layer of the atmosphere is the:",
+      "options": ["Mesosphere", "Thermosphere", "Exosphere", "Stratosphere"],
+      "correctIndex": 2,
+      "explanation": "It has very thin air and light gases like helium and hydrogen float into space from here.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g4_q14",
+      "text": "Hour-to-hour or day-to-day condition of the atmosphere is:",
+      "options": ["Climate", "Weather", "Season", "Environment"],
+      "correctIndex": 1,
+      "explanation": "Weather can change dramatically from day to day.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g4_q15",
+      "text": "The average weather condition of a place for a longer period of time is:",
+      "options": ["Weather", "Climate", "Temperature", "Moisture"],
+      "correctIndex": 1,
+      "explanation": "Climate describes the typical weather pattern of a region over decades.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g4_q16",
+      "text": "The degree of hotness and coldness of the air is known as:",
+      "options": ["Insolation", "Pressure", "Temperature", "Humidity"],
+      "correctIndex": 2,
+      "explanation": "Temperature changes not only between day and night but also between seasons.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g4_q17",
+      "text": "The incoming solar energy intercepted by the earth is:",
+      "options": ["Temperature", "Insolation", "Radiation", "Humidity"],
+      "correctIndex": 1,
+      "explanation": "Insolation decreases from the equator towards the poles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g4_q18",
+      "text": "The standard unit of measuring temperature is degree Celsius, invented by:",
+      "options": ["Gabriel Fahrenheit", "Anders Celsius", "Isaac Newton", "Galileo"],
+      "correctIndex": 1,
+      "explanation": "On the Celsius scale, water freezes at 0°C and boils at 100°C.",
       "frequencyRating": 4
     },
     {
-      "id": "g7_geo_ch4_q7",
-      "text": "Which layer helps in radio transmission as radio waves are reflected back to earth?",
-      "options": ["Thermosphere", "Mesosphere", "Stratosphere", "Troposphere"],
-      "correctIndex": 0,
-      "explanation": "The Ionosphere is a part of the Thermosphere and facilitates long-distance communication.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g7_geo_ch4_q8",
-      "text": "Air pressure is highest at:",
-      "options": ["Mountain tops", "Clouds", "Sea level", "Space"],
-      "correctIndex": 2,
-      "explanation": "Air pressure decreases as height increases; hence it is maximum at sea level.",
+      "id": "g7_g4_q19",
+      "text": "Pressure exerted by the weight of air on the earth's surface is:",
+      "options": ["Water pressure", "Air pressure", "Gravitational force", "Insolation"],
+      "correctIndex": 1,
+      "explanation": "Air pressure is highest at sea level and decreases with height.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_geo_ch4_q9",
-      "text": "The horizontal movement of air from high pressure areas to low pressure areas is called:",
-      "options": ["Rain", "Moisture", "Wind", "Current"],
+      "id": "g7_g4_q20",
+      "text": "Air always moves from:",
+      "options": ["Low pressure to high pressure", "High pressure to low pressure", "North to South", "East to West"],
+      "correctIndex": 1,
+      "explanation": "This movement of air is what we call wind.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g4_q21",
+      "text": "The movement of air from high pressure area to low pressure area is called:",
+      "options": ["Current", "Tide", "Wind", "Storm"],
       "correctIndex": 2,
       "explanation": "Winds are named after the direction from which they blow.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g4_q22",
+      "text": "Trade winds, Westerlies and Easterlies are examples of:",
+      "options": ["Local winds", "Seasonal winds", "Permanent winds", "Variable winds"],
+      "correctIndex": 2,
+      "explanation": "These blow constantly throughout the year in a particular direction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g4_q23",
+      "text": "Winds that change their direction in different seasons, like Monsoons in India, are:",
+      "options": ["Permanent winds", "Seasonal winds", "Local winds", "Trade winds"],
+      "correctIndex": 1,
+      "explanation": "They blow in response to seasonal changes in temperature and pressure.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g4_q24",
+      "text": "Winds that blow only during a particular period of the day or year in a small area are:",
+      "options": ["Permanent winds", "Seasonal winds", "Local winds", "Global winds"],
+      "correctIndex": 2,
+      "explanation": "Examples include land and sea breeze, or 'Loo' in North India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g4_q25",
+      "text": "Moisture in the air at any time is known as:",
+      "options": ["Rain", "Humidity", "Clouds", "Snow"],
+      "correctIndex": 1,
+      "explanation": "When the air is full of water vapour, we call it a humid day.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g4_q26",
+      "text": "Which is the most common form of precipitation?",
+      "options": ["Snow", "Sleet", "Rain", "Hail"],
+      "correctIndex": 2,
+      "explanation": "Most of the groundwater comes from rainwater.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g4_q27",
+      "text": "When hot air rises, it creates a ________ pressure area.",
+      "options": ["High", "Low", "Neutral", "Constant"],
+      "correctIndex": 1,
+      "explanation": "Low pressure is associated with cloudy skies and wet weather.",
       "frequencyRating": 4
     },
     {
-      "id": "g7_geo_ch4_q10",
-      "text": "A hot and dry local wind of the northern plains of India is called:",
-      "options": ["Trade wind", "Monsoon", "Loo", "Breeze"],
+      "id": "g7_g4_q28",
+      "text": "Cooler air is ________ and therefore it sinks.",
+      "options": ["Lighter", "Denser and heavier", "Warmer", "Invisible"],
+      "correctIndex": 1,
+      "explanation": "Dense air creates a high pressure area, associated with clear and sunny skies.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g4_q29",
+      "text": "What is used to measure air pressure?",
+      "options": ["Thermometer", "Barometer", "Rain gauge", "Wind vane"],
+      "correctIndex": 1,
+      "explanation": "A barometer measures the atmospheric pressure.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g4_q30",
+      "text": "A 'Wind Vane' is used to show the ________ of the wind.",
+      "options": ["Speed", "Direction", "Pressure", "Temperature"],
+      "correctIndex": 1,
+      "explanation": "It helps identify from which direction the wind is blowing.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g4_q31",
+      "text": "Which of these gases protects us from harmful sun rays?",
+      "options": ["Carbon dioxide", "Nitrogen", "Ozone", "Helium"],
       "correctIndex": 2,
-      "explanation": "Loo is a local wind that blows during the summer season.",
+      "explanation": "Ozone (O3) absorbs most of the sun's ultraviolet radiation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g4_q32",
+      "text": "The most important gas for breathing is:",
+      "options": ["Nitrogen", "Oxygen", "Argon", "Carbon dioxide"],
+      "correctIndex": 1,
+      "explanation": "Green plants produce oxygen during photosynthesis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g4_q33",
+      "text": "Rainfall that occurs when moist air is forced to rise over mountains is:",
+      "options": ["Convectional rainfall", "Cyclonic rainfall", "Orographic rainfall", "Frontal rainfall"],
+      "correctIndex": 2,
+      "explanation": "Also known as relief rainfall.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g4_q34",
+      "text": "Which layer of atmosphere helps in radio transmission?",
+      "options": ["Stratosphere", "Mesosphere", "Thermosphere (Ionosphere)", "Troposphere"],
+      "correctIndex": 2,
+      "explanation": "Radio waves transmitted from the earth are reflected back by this layer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g4_q35",
+      "text": "When water vapour rises, it starts:",
+      "options": ["Heating", "Cooling", "Freezing immediately", "Disappearing"],
+      "correctIndex": 1,
+      "explanation": "The cooling leads to condensation and formation of water droplets (clouds).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g4_q36",
+      "text": "Wet clothes take longer to dry on a humid day because:",
+      "options": ["It is cold", "The air already has a lot of water vapour", "There is no wind", "Sun is not shining"],
+      "correctIndex": 1,
+      "explanation": "Evaporation is slower when the air is nearly saturated with moisture.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g4_q37",
+      "text": "Jets flying in the sky leave a white trail behind them. This trail is:",
+      "options": ["Smoke from engine", "Condensed moisture from engines", "Clouds", "Dust"],
+      "correctIndex": 1,
+      "explanation": "The moisture from the engines condenses in the cold air.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_g4_q38",
+      "text": "Plants need ________ for their survival, which they get from soil with help of bacteria.",
+      "options": ["Oxygen", "Nitrogen", "Helium", "Argon"],
+      "correctIndex": 1,
+      "explanation": "Plants cannot take nitrogen directly from the air.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g4_q39",
+      "text": "A 'Rain Gauge' is used to measure the ________.",
+      "options": ["Direction of rain", "Amount of rainfall", "Speed of rain", "Temperature of rain"],
+      "correctIndex": 1,
+      "explanation": "It collects and measures the liquid precipitation over a set period.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g4_q40",
+      "text": "On a humid day, our sweat ________ easily.",
+      "options": ["Evaporates", "Does not evaporate", "Turns into ice", "Disappears"],
+      "correctIndex": 1,
+      "explanation": "This makes us feel very uncomfortable.",
       "frequencyRating": 4
     }
   ]

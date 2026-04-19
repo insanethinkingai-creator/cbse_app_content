@@ -8,75 +8,323 @@
   "questions": [
     {
       "id": "g7_s5_q1",
-      "text": "A change in which only physical properties of a substance change is a:",
-      "options": ["Chemical change", "Physical change", "Permanent change", "Irreversible change"],
+      "text": "A change in which only the physical properties of a substance change is called a:",
+      "options": ["Chemical change", "Physical change", "Irreversible change", "Permanent change"],
       "correctIndex": 1,
-      "explanation": "Physical changes involve changes in shape, size, or state, but no new substance is formed.",
+      "explanation": "Physical changes alter appearance but not chemical composition.",
       "frequencyRating": 5
     },
     {
       "id": "g7_s5_q2",
-      "text": "Which of the following is a chemical change?",
-      "options": ["Melting of ice", "Cutting of wood", "Rusting of iron", "Folding of paper"],
-      "correctIndex": 2,
-      "explanation": "Rusting produces a new substance (iron oxide), making it a chemical change.",
+      "text": "A change in which new substances are formed is called a:",
+      "options": ["Physical change", "Chemical change", "Reversible change", "Temporary change"],
+      "correctIndex": 1,
+      "explanation": "Chemical changes involve the formation of new chemical bonds and new substances.",
       "frequencyRating": 5
     },
     {
       "id": "g7_s5_q3",
-      "text": "The process of depositing a layer of zinc on iron is called:",
-      "options": ["Crystallization", "Galvanization", "Neutralization", "Oxidation"],
-      "correctIndex": 1,
-      "explanation": "Galvanization is used to prevent iron from rusting."
+      "text": "Which of the following is an example of a physical change?",
+      "options": ["Burning of wood", "Rusting of iron", "Melting of ice", "Digestion of food"],
+      "correctIndex": 2,
+      "explanation": "Melting ice changes its state (solid to liquid) but not its chemical composition (still water).",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s5_q4",
-      "text": "Which gas is evolved when baking soda reacts with vinegar?",
-      "options": ["Oxygen", "Hydrogen", "Carbon dioxide", "Nitrogen"],
+      "text": "Which of the following is an example of a chemical change?",
+      "options": ["Boiling of water", "Cutting of paper", "Cooking of food", "Dissolving sugar in water"],
       "correctIndex": 2,
-      "explanation": "The reaction produces carbon dioxide gas, which turns lime water milky."
+      "explanation": "Cooking food involves chemical reactions that alter its composition and properties.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s5_q5",
-      "text": "Crystallization is an example of a:",
-      "options": ["Physical change", "Chemical change", "Biological change", "Fast change"],
-      "correctIndex": 0,
-      "explanation": "Large crystals of pure substances are formed from their solutions without creating new substances."
+      "text": "Rusting of iron is a chemical change because:",
+      "options": ["It changes color", "It is reversible", "A new substance (iron oxide) is formed", "It is a slow process"],
+      "correctIndex": 2,
+      "explanation": "Rust (iron oxide) is a new compound with different properties from iron.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s5_q6",
-      "text": "What color is Copper Sulphate solution?",
-      "options": ["Green", "Blue", "Red", "Yellow"],
-      "correctIndex": 1,
-      "explanation": "Copper Sulphate (Blue vitriol) forms a characteristic blue solution in water."
+      "text": "The process of coating iron with a layer of zinc to prevent rusting is called:",
+      "options": ["Painting", "Greasing", "Galvanization", "Chromium plating"],
+      "correctIndex": 2,
+      "explanation": "Galvanization protects iron by providing a sacrificial zinc layer.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s5_q7",
-      "text": "When magnesium ribbon burns in air, it produces:",
-      "options": ["Black soot", "White ash", "Blue gas", "Yellow liquid"],
-      "correctIndex": 1,
-      "explanation": "Burning magnesium produces magnesium oxide, which appears as a powdery white ash."
+      "text": "Which of the following is a characteristic of a chemical change?",
+      "options": ["Change in state", "Change in shape", "Formation of new substance", "Change in size"],
+      "correctIndex": 2,
+      "explanation": "The defining feature of a chemical change is the creation of one or more new substances.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s5_q8",
-      "text": "An iron nail dipped in copper sulphate solution turns brownish due to the deposition of:",
-      "options": ["Iron", "Zinc", "Copper", "Magnesium"],
+      "text": "Burning of a candle is an example of:",
+      "options": ["Physical change only", "Chemical change only", "Both physical and chemical change", "Neither physical nor chemical change"],
       "correctIndex": 2,
-      "explanation": "This is a displacement reaction where iron displaces copper from the solution."
+      "explanation": "Melting of wax (physical) and burning of wax to produce CO2 and water (chemical) occur simultaneously.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s5_q9",
-      "text": "Which of these is necessary for rusting to occur?",
-      "options": ["Only oxygen", "Only water", "Both oxygen and water", "Nitrogen"],
-      "correctIndex": 2,
-      "explanation": "Iron rusts only when it comes into contact with both air (oxygen) and moisture (water)."
+      "text": "When magnesium ribbon is burnt in air, it forms a white powder. This is a:",
+      "options": ["Physical change", "Chemical change", "Reversible change", "Temporary change"],
+      "correctIndex": 1,
+      "explanation": "Magnesium reacts with oxygen to form magnesium oxide, a new substance.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s5_q10",
-      "text": "A chemical change is also called a:",
-      "options": ["Physical reaction", "Chemical reaction", "Reversible reaction", "Temporary reaction"],
+      "text": "Crystallization is a process used to obtain pure solids from their solutions. It is a:",
+      "options": ["Chemical change", "Physical change", "Irreversible change", "Decomposition reaction"],
       "correctIndex": 1,
-      "explanation": "A change in which one or more new substances are formed is called a chemical reaction."
+      "explanation": "Crystallization involves a change of state (dissolved to solid) but not a change in chemical composition.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s5_q11",
+      "text": "Which of these is a reversible change?",
+      "options": ["Burning of paper", "Ripening of fruit", "Melting of wax", "Cooking an egg"],
+      "correctIndex": 2,
+      "explanation": "Melted wax can be solidified back into wax.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s5_q12",
+      "text": "Which of these is an irreversible change?",
+      "options": ["Freezing of water", "Stretching a rubber band", "Burning of a cracker", "Inflating a balloon"],
+      "correctIndex": 2,
+      "explanation": "Burning a cracker produces new substances and cannot be reversed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s5_q13",
+      "text": "The chemical name for rust is:",
+      "options": ["Iron sulphide", "Iron carbonate", "Iron oxide", "Iron nitrate"],
+      "correctIndex": 2,
+      "explanation": "Rust is hydrated iron(III) oxide.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s5_q14",
+      "text": "For rusting to occur, which two substances are essential?",
+      "options": ["Iron and carbon dioxide", "Iron and nitrogen", "Iron and oxygen", "Iron, oxygen and water"],
+      "correctIndex": 3,
+      "explanation": "Rusting is an electrochemical process requiring iron, oxygen, and water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s5_q15",
+      "text": "When baking soda is mixed with lemon juice, bubbles are formed. This indicates:",
+      "options": ["A physical change", "A chemical change", "No change", "A reversible change"],
+      "correctIndex": 1,
+      "explanation": "The bubbles are carbon dioxide gas, a new substance formed from a chemical reaction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s5_q16",
+      "text": "Which of the following methods can prevent rusting?",
+      "options": ["Painting", "Greasing", "Galvanization", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "All these methods create a barrier between iron and oxygen/water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s5_q17",
+      "text": "Photosynthesis is an example of a:",
+      "options": ["Physical change", "Chemical change", "Reversible change", "Temporary change"],
+      "correctIndex": 1,
+      "explanation": "New substances (glucose and oxygen) are formed from carbon dioxide and water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s5_q18",
+      "text": "Digestion of food is a:",
+      "options": ["Physical change", "Chemical change", "Reversible change", "Temporary change"],
+      "correctIndex": 1,
+      "explanation": "Complex food molecules are broken down into simpler ones through chemical reactions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s5_q19",
+      "text": "Cutting a log of wood into pieces is a:",
+      "options": ["Physical change", "Chemical change", "Irreversible change", "Decomposition reaction"],
+      "correctIndex": 0,
+      "explanation": "The wood's chemical composition remains the same; only its size and shape change.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s5_q20",
+      "text": "Formation of clouds is an example of:",
+      "options": ["Physical change", "Chemical change", "Irreversible change", "Combustion"],
+      "correctIndex": 0,
+      "explanation": "Water vapor condenses to form liquid water droplets, a change of state.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s5_q21",
+      "text": "When a chemical change occurs, it is often accompanied by:",
+      "options": ["Heat production or absorption", "Light emission", "Sound production", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "These are common indicators that a chemical reaction has taken place.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s5_q22",
+      "text": "The process of obtaining salt from seawater by evaporation is a:",
+      "options": ["Chemical change", "Physical change", "Irreversible change", "Neutralization"],
+      "correctIndex": 1,
+      "explanation": "Water changes state, leaving salt behind, but no new chemical substance is formed.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s5_q23",
+      "text": "Which of the following is a fast chemical change?",
+      "options": ["Rusting of iron", "Ripening of fruit", "Burning of a matchstick", "Formation of coal"],
+      "correctIndex": 2,
+      "explanation": "Burning a matchstick is a rapid combustion reaction.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s5_q24",
+      "text": "Which of the following is a slow chemical change?",
+      "options": ["Explosion of a firecracker", "Burning of paper", "Rusting of iron", "Burning of LPG"],
+      "correctIndex": 2,
+      "explanation": "Rusting takes a considerable amount of time to occur.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s5_q25",
+      "text": "The process of making sugar solution from sugar and water is a:",
+      "options": ["Chemical change", "Physical change", "Irreversible change", "Decomposition"],
+      "correctIndex": 1,
+      "explanation": "Sugar dissolves but retains its chemical identity; it can be recovered by evaporation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s5_q26",
+      "text": "When a substance is heated, it usually:",
+      "options": ["Contracts", "Expands", "Changes chemically", "Becomes lighter"],
+      "correctIndex": 1,
+      "explanation": "Thermal expansion is a common physical change where substances increase in volume upon heating.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s5_q27",
+      "text": "Which of these is a physical property?",
+      "options": ["Flammability", "Reactivity", "Density", "Toxicity"],
+      "correctIndex": 2,
+      "explanation": "Density is a measure of mass per unit volume and can be observed without changing the substance's chemical identity.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s5_q28",
+      "text": "Which of these is a chemical property?",
+      "options": ["Melting point", "Boiling point", "Color", "Ability to rust"],
+      "correctIndex": 3,
+      "explanation": "The ability to rust describes how a substance reacts chemically with its environment.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s5_q29",
+      "text": "The process of burning is always a:",
+      "options": ["Physical change", "Chemical change", "Reversible change", "Temporary change"],
+      "correctIndex": 1,
+      "explanation": "Burning (combustion) involves reaction with oxygen to form new substances.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s5_q30",
+      "text": "Formation of ice from water is a:",
+      "options": ["Physical change", "Chemical change", "Irreversible change", "Decomposition"],
+      "correctIndex": 0,
+      "explanation": "Water changes state from liquid to solid, but remains H2O.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s5_q31",
+      "text": "When a piece of paper is torn, it undergoes a:",
+      "options": ["Chemical change", "Physical change", "Irreversible change", "Combustion"],
+      "correctIndex": 1,
+      "explanation": "The paper's chemical composition doesn't change, only its size and shape.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s5_q32",
+      "text": "Which of the following is a sign that a chemical change has occurred?",
+      "options": ["Change in temperature", "Formation of gas (bubbles)", "Change in color", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "These are common observable indicators of a chemical reaction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s5_q33",
+      "text": "The process of making curd from milk is a:",
+      "options": ["Physical change", "Chemical change", "Reversible change", "Temporary change"],
+      "correctIndex": 1,
+      "explanation": "Lactic acid bacteria convert lactose into lactic acid, changing milk's composition.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s5_q34",
+      "text": "When iron is exposed to moist air, it forms a reddish-brown flaky substance. This is:",
+      "options": ["Galvanization", "Rust", "Alloy", "Corrosion"],
+      "correctIndex": 1,
+      "explanation": "The reddish-brown flaky substance is specifically rust (iron oxide).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s5_q35",
+      "text": "Which of these is a physical change that is also reversible?",
+      "options": ["Burning of a matchstick", "Dissolving salt in water", "Baking a cake", "Digesting food"],
+      "correctIndex": 1,
+      "explanation": "Salt can be recovered from the solution by evaporating the water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s5_q36",
+      "text": "The process of electroplating involves:",
+      "options": ["A physical change", "A chemical change", "Both physical and chemical change", "Neither"],
+      "correctIndex": 1,
+      "explanation": "Electroplating uses an electric current to deposit a layer of metal, involving chemical reactions.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s5_q37",
+      "text": "Which of the following is a method to prevent rusting of iron?",
+      "options": ["Allowing it to get wet", "Exposing it to air", "Alloying it with chromium and nickel (stainless steel)", "Keeping it in a humid environment"],
+      "correctIndex": 2,
+      "explanation": "Stainless steel is an alloy that resists rusting.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s5_q38",
+      "text": "The change in which a substance changes its state from liquid to gas is called:",
+      "options": ["Melting", "Freezing", "Evaporation", "Condensation"],
+      "correctIndex": 2,
+      "explanation": "Evaporation is a physical change of state.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s5_q39",
+      "text": "When a new substance is formed, the change is always:",
+      "options": ["Physical", "Chemical", "Reversible", "Temporary"],
+      "correctIndex": 1,
+      "explanation": "Formation of new substances is the hallmark of a chemical change.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s5_q40",
+      "text": "Which of these changes is generally accompanied by a change in energy?",
+      "options": ["Physical changes only", "Chemical changes only", "Both physical and chemical changes", "Neither"],
+      "correctIndex": 2,
+      "explanation": "Both types of changes involve energy transformations (e.g., melting requires heat, burning releases heat).",
+      "frequencyRating": 4
     }
   ]
 }

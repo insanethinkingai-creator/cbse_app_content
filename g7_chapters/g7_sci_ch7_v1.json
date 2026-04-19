@@ -8,73 +8,323 @@
   "questions": [
     {
       "id": "g7_s7_q1",
-      "text": "Which blood cells are responsible for fighting against germs that enter our body?",
-      "options": ["Red blood cells (RBC)", "White blood cells (WBC)", "Platelets", "Plasma"],
-      "correctIndex": 1,
-      "explanation": "WBCs act as the defense system of the body by attacking pathogens."
+      "text": "The fluid part of the blood is called:",
+      "options": ["Plasma", "RBC", "WBC", "Platelets"],
+      "correctIndex": 0,
+      "explanation": "Plasma is the liquid component of blood in which cells are suspended.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s7_q2",
-      "text": "The fluid part of the blood is called:",
-      "options": ["Hemoglobin", "Plasma", "Urea", "Serum"],
+      "text": "The red pigment present in Red Blood Cells (RBCs) is:",
+      "options": ["Chlorophyll", "Hemoglobin", "Melanin", "Xanthophyll"],
       "correctIndex": 1,
-      "explanation": "Plasma is a straw-colored liquid that carries cells, nutrients, and waste products."
+      "explanation": "Hemoglobin binds with oxygen and transports it to all parts of the body.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s7_q3",
-      "text": "Which blood vessels carry oxygen-rich blood from the heart to all parts of the body?",
-      "options": ["Veins", "Arteries", "Capillaries", "Pulmonary vein"],
-      "correctIndex": 1,
-      "explanation": "Arteries have thick elastic walls to withstand the high pressure of blood from the heart."
+      "text": "Which blood cells fight against germs that may enter our body?",
+      "options": ["RBC", "Platelets", "WBC", "Plasma"],
+      "correctIndex": 2,
+      "explanation": "White Blood Cells (WBC) are part of the body's immune system.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s7_q4",
-      "text": "The rhythmic contraction and expansion of the heart is called:",
-      "options": ["Pulse", "Heartbeat", "Blood pressure", "Respiration"],
-      "correctIndex": 1,
-      "explanation": "A heartbeat consists of one systole and one diastole."
+      "text": "The formation of a clot at the site of injury is due to:",
+      "options": ["RBC", "WBC", "Platelets", "Plasma"],
+      "correctIndex": 2,
+      "explanation": "Platelets are responsible for blood clotting to prevent excessive bleeding.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s7_q5",
-      "text": "The main excretory product in humans is:",
-      "options": ["Uric acid", "Ammonia", "Urea", "Carbon dioxide"],
-      "correctIndex": 2,
-      "explanation": "Humans are ureotelic, meaning they primarily excrete nitrogenous waste as urea."
+      "text": "Which blood vessels carry oxygen-rich blood from the heart to all parts of the body?",
+      "options": ["Veins", "Arteries", "Capillaries", "Ventricles"],
+      "correctIndex": 1,
+      "explanation": "Arteries carry oxygenated blood away from the heart (except the pulmonary artery).",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s7_q6",
-      "text": "Which tissue is responsible for the transport of water and nutrients in plants?",
-      "options": ["Phloem", "Stomata", "Xylem", "Root hairs"],
-      "correctIndex": 2,
-      "explanation": "Xylem forms a continuous network of channels that connects roots to the leaves."
+      "text": "The throbbing movement in the wrist is called:",
+      "options": ["Heartbeat", "Pulse", "Rhythm", "Vibration"],
+      "correctIndex": 1,
+      "explanation": "Pulse is due to blood flowing in the arteries after being pumped by the heart.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s7_q7",
-      "text": "The process of evaporation of water through stomata is called:",
-      "options": ["Photosynthesis", "Transpiration", "Respiration", "Transportation"],
+      "text": "The number of pulse beats per minute is called:",
+      "options": ["Heart rate", "Pulse rate", "Breathing rate", "Blood pressure"],
       "correctIndex": 1,
-      "explanation": "Transpiration creates a suction pull that helps pull water to great heights in tall trees."
+      "explanation": "A resting person usually has a pulse rate between 72 and 80 beats per minute.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s7_q8",
-      "text": "Which organ filters the blood to remove wastes as urine?",
-      "options": ["Heart", "Lungs", "Kidneys", "Liver"],
-      "correctIndex": 2,
-      "explanation": "Kidneys contain millions of tiny filtering units called nephrons."
+      "text": "Which blood vessels carry carbon dioxide-rich blood back to the heart?",
+      "options": ["Arteries", "Veins", "Capillaries", "Aorta"],
+      "correctIndex": 1,
+      "explanation": "Veins carry deoxygenated blood from the tissues back to the heart.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s7_q9",
-      "text": "The red pigment in RBCs that binds with oxygen is:",
-      "options": ["Chlorophyll", "Hemoglobin", "Plasma", "Platelets"],
+      "text": "Veins have ________ to ensure blood flows only towards the heart.",
+      "options": ["Pumps", "Valves", "Thick walls", "Filters"],
       "correctIndex": 1,
-      "explanation": "Hemoglobin gives blood its red color and efficiently transports oxygen."
+      "explanation": "Valves prevent the backflow of blood in the veins.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_s7_q10",
-      "text": "Phloem is responsible for the transport of ________ in plants.",
-      "options": ["Water", "Minerals", "Food", "Oxygen"],
+      "text": "The extremely thin tubes where arteries and veins join are:",
+      "options": ["Bronchi", "Ventricles", "Capillaries", "Atria"],
       "correctIndex": 2,
-      "explanation": "Phloem transports sugars prepared in the leaves to all other parts of the plant."
+      "explanation": "Capillaries allow for the exchange of materials between blood and tissues.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s7_q11",
+      "text": "Which artery carries carbon dioxide-rich blood to the lungs?",
+      "options": ["Pulmonary artery", "Aorta", "Pulmonary vein", "Renal artery"],
+      "correctIndex": 0,
+      "explanation": "The pulmonary artery is an exception; it carries deoxygenated blood.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s7_q12",
+      "text": "Which vein carries oxygen-rich blood to the heart?",
+      "options": ["Pulmonary vein", "Vena cava", "Pulmonary artery", "Renal vein"],
+      "correctIndex": 0,
+      "explanation": "The pulmonary vein is an exception; it carries oxygenated blood from lungs to heart.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s7_q13",
+      "text": "The heart is located in the ________ cavity.",
+      "options": ["Abdominal", "Chest", "Pelvic", "Cranial"],
+      "correctIndex": 1,
+      "explanation": "The heart is situated in the chest cavity, tilted slightly towards the left.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s7_q14",
+      "text": "How many chambers does the human heart have?",
+      "options": ["Two", "Three", "Four", "Five"],
+      "correctIndex": 2,
+      "explanation": "The heart has two upper chambers (atria) and two lower chambers (ventricles).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s7_q15",
+      "text": "The instrument used by doctors to feel heartbeats is:",
+      "options": ["Sphygmomanometer", "Thermometer", "Stethoscope", "Microscope"],
+      "correctIndex": 2,
+      "explanation": "A stethoscope amplifies the sound of heartbeats.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s7_q16",
+      "text": "The rhythmic contraction and relaxation of heart muscles is called:",
+      "options": ["Pulse", "Heartbeat", "Blood pressure", "Circulation"],
+      "correctIndex": 1,
+      "explanation": "Heartbeat is felt throughout the life of an organism.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s7_q17",
+      "text": "Organisms like sponges and Hydra do not have a circulatory system.",
+      "options": ["True", "False", "Only sponges", "Only Hydra"],
+      "correctIndex": 0,
+      "explanation": "They use water to transport food and oxygen and remove waste products.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s7_q18",
+      "text": "The process of removal of waste products produced in cells is called:",
+      "options": ["Digestion", "Excretion", "Respiration", "Transportation"],
+      "correctIndex": 1,
+      "explanation": "Excretion involves filtering out harmful waste from the blood.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s7_q19",
+      "text": "The human excretory system consists of:",
+      "options": ["Lungs and heart", "Kidneys, ureters, bladder, and urethra", "Stomach and intestines", "Brain and spinal cord"],
+      "correctIndex": 1,
+      "explanation": "This system filters blood and removes urea and salts as urine.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s7_q20",
+      "text": "Urine consists of 95% water and:",
+      "options": ["2.5% Urea and 2.5% other waste", "5% Urea", "1% Glucose", "10% Salt"],
+      "correctIndex": 0,
+      "explanation": "Urine primarily removes nitrogenous waste like urea from the body.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s7_q21",
+      "text": "The artificial filtering of blood when kidneys fail is called:",
+      "options": ["Transfusion", "Dialysis", "Injection", "Surgery"],
+      "correctIndex": 1,
+      "explanation": "Dialysis is used to remove wastes from the blood when kidneys are not functional.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s7_q22",
+      "text": "Sweat contains water and:",
+      "options": ["Sugar", "Salts", "Proteins", "Oxygen"],
+      "correctIndex": 1,
+      "explanation": "Sweat helps in cooling the body and removing excess salts.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s7_q23",
+      "text": "The vascular tissue for the transport of water and minerals in plants is:",
+      "options": ["Phloem", "Xylem", "Stomata", "Pith"],
+      "correctIndex": 1,
+      "explanation": "Xylem forms a continuous network of channels from roots to leaves.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s7_q24",
+      "text": "The vascular tissue for the transport of food in plants is:",
+      "options": ["Xylem", "Phloem", "Epidermis", "Cortex"],
+      "correctIndex": 1,
+      "explanation": "Phloem transports food prepared in the leaves to all other parts of the plant.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s7_q25",
+      "text": "The loss of water in the form of vapor through stomata is called:",
+      "options": ["Photosynthesis", "Respiration", "Transpiration", "Evaporation"],
+      "correctIndex": 2,
+      "explanation": "Transpiration creates a suction pull that helps in pulling water up to great heights.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s7_q26",
+      "text": "Root hairs increase the ________ for absorption of water and minerals.",
+      "options": ["Volume", "Surface area", "Length", "Pressure"],
+      "correctIndex": 1,
+      "explanation": "More surface area allows for faster absorption of water from the soil.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s7_q27",
+      "text": "Aquatic animals like fish excrete cell waste as ________ which dissolves in water.",
+      "options": ["Urea", "Ammonia", "Uric acid", "Nitrogen"],
+      "correctIndex": 1,
+      "explanation": "Ammonia is the primary waste product in many aquatic animals.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s7_q28",
+      "text": "Birds and lizards excrete a semi-solid, white colored compound called:",
+      "options": ["Ammonia", "Urea", "Uric acid", "Sugar"],
+      "correctIndex": 2,
+      "explanation": "Uric acid excretion is an adaptation to conserve water in these animals.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s7_q29",
+      "text": "Why do we feel cool after sweating?",
+      "options": ["Because salt is removed", "Because evaporation causes cooling", "Because body heat increases", "Because we drink water"],
+      "correctIndex": 1,
+      "explanation": "Evaporation of water from the skin surface absorbs heat from the body.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s7_q30",
+      "text": "Which of these is responsible for the suction pull in tall trees?",
+      "options": ["Photosynthesis", "Root pressure", "Transpiration", "Gravity"],
+      "correctIndex": 2,
+      "explanation": "The evaporation of water from leaves creates a tension that pulls water upward through xylem.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s7_q31",
+      "text": "In the human heart, the left side handles ________ blood.",
+      "options": ["Carbon dioxide-rich", "Oxygen-rich", "Mixed", "No"],
+      "correctIndex": 1,
+      "explanation": "The left atrium and ventricle deal with oxygenated blood coming from the lungs.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s7_q32",
+      "text": "The right side of the human heart handles ________ blood.",
+      "options": ["Carbon dioxide-rich", "Oxygen-rich", "Mixed", "Nutrient-rich"],
+      "correctIndex": 0,
+      "explanation": "The right side receives deoxygenated blood from the body and sends it to the lungs.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s7_q33",
+      "text": "Which blood cell has no nucleus when mature (in humans)?",
+      "options": ["WBC", "RBC", "Platelet", "Plasma cell"],
+      "correctIndex": 1,
+      "explanation": "The absence of a nucleus provides more space for hemoglobin and oxygen in RBCs.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s7_q34",
+      "text": "William Harvey is famous for discovering:",
+      "options": ["Penicillin", "Circulation of blood", "Cells", "Vaccination"],
+      "correctIndex": 1,
+      "explanation": "English physician William Harvey described the systemic circulation and properties of blood.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s7_q35",
+      "text": "The muscular partition that separates the heart chambers is the:",
+      "options": ["Valve", "Septum", "Aorta", "Ventricle"],
+      "correctIndex": 1,
+      "explanation": "The septum prevents the mixing of oxygen-rich and carbon dioxide-rich blood.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s7_q36",
+      "text": "Which artery is the largest in the human body?",
+      "options": ["Pulmonary artery", "Aorta", "Carotid artery", "Renal artery"],
+      "correctIndex": 1,
+      "explanation": "The aorta carries oxygenated blood from the left ventricle to the rest of the body.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s7_q37",
+      "text": "The tube-like structures that transport water to leaves in plants are made of ________ cells.",
+      "options": ["Parenchyma", "Vascular", "Guard", "Epidermal"],
+      "correctIndex": 1,
+      "explanation": "Vascular tissue forms the piping system for transport in plants.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s7_q38",
+      "text": "Blood is ________ in color due to the presence of iron-containing hemoglobin.",
+      "options": ["Blue", "Red", "Yellow", "Clear"],
+      "correctIndex": 1,
+      "explanation": "Hemoglobin contains iron which gives blood its characteristic red color.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s7_q39",
+      "text": "What is the primary function of Phloem?",
+      "options": ["Transport water", "Transport food", "Protect plant", "Gas exchange"],
+      "correctIndex": 1,
+      "explanation": "Phloem carries glucose from leaves to roots, stems, and fruits.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s7_q40",
+      "text": "Which organ filters the blood to form urine?",
+      "options": ["Liver", "Kidneys", "Bladder", "Stomach"],
+      "correctIndex": 1,
+      "explanation": "Kidneys contain millions of tiny filtration units called nephrons.",
+      "frequencyRating": 5
     }
   ]
 }

@@ -1,0 +1,330 @@
+{
+  "id": "g7_hist_ch7",
+  "grade": "7",
+  "subject": "History",
+  "number": "7",
+  "title": "The Making of Regional Cultures",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_h7_q1",
+      "text": "The Chera kingdom of Mahodayapuram was established in the ninth century in present-day:",
+      "options": ["Tamil Nadu", "Kerala", "Karnataka", "Andhra Pradesh"],
+      "correctIndex": 1,
+      "explanation": "The Cheras introduced the Malayalam language and script in their inscriptions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h7_q2",
+      "text": "Which 14th-century text deals with grammar and poetics and was written in Manipravalam?",
+      "options": ["Lilatilakam", "Mahabharata", "Ramayana", "Silappadhikaram"],
+      "correctIndex": 0,
+      "explanation": "Manipravalam literally means 'diamonds and corals', referring to Sanskrit and the regional language.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h7_q3",
+      "text": "The temple of Jagannatha at Puri is located in:",
+      "options": ["West Bengal", "Odisha", "Bihar", "Assam"],
+      "correctIndex": 1,
+      "explanation": "Jagannatha literally means 'Lord of the World', a form of Vishnu.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h7_q4",
+      "text": "Who decided to erect a temple for Purushottama Jagannatha at Puri in the 12th century?",
+      "options": ["Anantavarman", "Anangabhima III", "Kharavela", "Rajendra Chola"],
+      "correctIndex": 0,
+      "explanation": "He was a prominent ruler of the Ganga dynasty.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h7_q5",
+      "text": "The term 'Rajputana' was used by the British to describe most of present-day:",
+      "options": ["Punjab", "Rajasthan", "Gujarat", "Madhya Pradesh"],
+      "correctIndex": 1,
+      "explanation": "While many groups call themselves Rajputs, Rajasthan is most famously associated with them.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h7_q6",
+      "text": "Rajput heroes were often celebrated in poems and songs for choosing ________ over defeat.",
+      "options": ["Flight", "Death", "Compromise", "Trade"],
+      "correctIndex": 1,
+      "explanation": "Rajput traditions valued bravery and sacrifice on the battlefield.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h7_q7",
+      "text": "The term 'Kathak' is derived from the word 'Katha', which means:",
+      "options": ["Dance", "Story", "Music", "Drama"],
+      "correctIndex": 1,
+      "explanation": "Kathaks were originally a caste of story-tellers in temples of North India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h7_q8",
+      "text": "Under which Mughal emperor did Kathak begin to develop into a distinctive mode of dance?",
+      "options": ["Babur", "Akbar", "Shah Jahan", "Aurangzeb"],
+      "correctIndex": 1,
+      "explanation": "It was performed in the Mughal court, where it acquired its present features.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h7_q9",
+      "text": "The two main 'gharanas' or traditions of Kathak are:",
+      "options": ["Rajasthan and Lucknow", "Delhi and Agra", "Patiala and Gwalior", "Banaras and Bengal"],
+      "correctIndex": 0,
+      "explanation": "Kathak developed in the courts of Rajasthan and under the patronage of Wajid Ali Shah in Lucknow.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h7_q10",
+      "text": "Who was the last Nawab of Awadh who patronized Kathak?",
+      "options": ["Asaf-ud-Daula", "Saadat Khan", "Wajid Ali Shah", "Birjis Qadr"],
+      "correctIndex": 2,
+      "explanation": "Under his patronage, it grew into a major art form.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h7_q11",
+      "text": "Miniature paintings are small-sized paintings generally done in:",
+      "options": ["Oil colors", "Watercolors", "Charcoal", "Ink"],
+      "correctIndex": 1,
+      "explanation": "They were traditionally done on cloth or paper using water-based pigments.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h7_q12",
+      "text": "The earliest miniatures were found on:",
+      "options": ["Paper", "Palm leaves or wood", "Canvas", "Walls"],
+      "correctIndex": 1,
+      "explanation": "These are found in Buddhist and Jain texts from Western India.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h7_q13",
+      "text": "The bold and intense style of miniature painting that developed in the Himalayan foothills is called:",
+      "options": ["Kangra", "Basohli", "Mughal", "Rajasthani"],
+      "correctIndex": 1,
+      "explanation": "Bhanudatta's Rasamanjari is a famous text illustrated in this style.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h7_q14",
+      "text": "Nadir Shah's invasion of Delhi in 1739 led to the migration of Mughal artists to the:",
+      "options": ["Deccan", "Himalayan foothills", "Bengal", "Gujarat"],
+      "correctIndex": 1,
+      "explanation": "This led to the birth of the Kangra school of painting.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h7_q15",
+      "text": "The Kangra school of painting was inspired by ________ traditions.",
+      "options": ["Shaivite", "Vaishnavite", "Buddhist", "Islamic"],
+      "correctIndex": 1,
+      "explanation": "Soft colors and lyrical treatment of themes were its hallmarks.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h7_q16",
+      "text": "Bengali is now recognized as a language derived from:",
+      "options": ["Persian", "Sanskrit", "Arabic", "Tamil"],
+      "correctIndex": 1,
+      "explanation": "While it evolved from Sanskrit, it also absorbed words from Persian and European languages.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h7_q17",
+      "text": "Early Bengali literature can be divided into two categories: one indebted to Sanskrit and the other ________.",
+      "options": ["Independent of it", "Indebted to Persian", "Religious only", "Courtly poetry"],
+      "correctIndex": 0,
+      "explanation": "The second category includes Nath literature and folk tales.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h7_q18",
+      "text": "The term 'Pir' in the context of Bengal refers to:",
+      "options": ["A King", "A spiritual guide", "A merchant", "A peasant"],
+      "correctIndex": 1,
+      "explanation": "Pirs were respected figures who had supernatural powers and provided stability to migrants.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h7_q19",
+      "text": "The 'dochala' and 'chauchala' styles of architecture in Bengal refer to the design of:",
+      "options": ["Doors", "Roofs", "Pillars", "Windows"],
+      "correctIndex": 1,
+      "explanation": "These were two-roofed and four-roofed structures resembling thatched huts.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h7_q20",
+      "text": "Why was fish permitted as a diet for Brahmanas in Bengal?",
+      "options": ["They were not vegetarians", "Bengal was a riverine plain with abundant fish", "The King ordered it", "It was a medicinal requirement"],
+      "correctIndex": 1,
+      "explanation": "The Brihaddharma Purana permitted local Brahmanas to eat certain varieties of fish.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h7_q21",
+      "text": "Bharatnatyam is the classical dance form of:",
+      "options": ["Kerala", "Tamil Nadu", "Odisha", "Andhra Pradesh"],
+      "correctIndex": 1,
+      "explanation": "It is one of the oldest and most popular classical dances of India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h7_q22",
+      "text": "Kuchipudi originated in which state?",
+      "options": ["Karnataka", "Andhra Pradesh", "Kerala", "Odisha"],
+      "correctIndex": 1,
+      "explanation": "It is named after a village in the Krishna district of Andhra Pradesh.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h7_q23",
+      "text": "Which classical dance is characterized by storytelling and elaborate costumes/masks in Kerala?",
+      "options": ["Mohiniyattam", "Kathakali", "Kathak", "Manipuri"],
+      "correctIndex": 1,
+      "explanation": "Kathakali is a highly stylized classical dance-drama.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h7_q24",
+      "text": "The classical dance form of Odisha is:",
+      "options": ["Odissi", "Sattriya", "Chhau", "Ghumura"],
+      "correctIndex": 0,
+      "explanation": "Odissi is known for its graceful movements and temple origins.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h7_q25",
+      "text": "Manipuri dance is often associated with the worship of:",
+      "options": ["Shiva", "Radha and Krishna", "Durga", "Ganesha"],
+      "correctIndex": 1,
+      "explanation": "The Raas Leela is a central theme in Manipuri classical dance.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h7_q26",
+      "text": "Sattriya dance was introduced by which saint-reformer in Assam?",
+      "options": ["Kabir", "Shankaradeva", "Chaitanya", "Tulsidas"],
+      "correctIndex": 1,
+      "explanation": "It was part of the Bhakti movement in Assam.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h7_q27",
+      "text": "Regional cultures today are a result of the complex process of intermixing of:",
+      "options": ["Local traditions and outside influences", "Only foreign cultures", "Only local tribes", "Religions only"],
+      "correctIndex": 0,
+      "explanation": "Cultures evolve by borrowing and blending various traditions over centuries.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h7_q28",
+      "text": "The language introduced by the Cheras in the 9th century is:",
+      "options": ["Tamil", "Malayalam", "Telugu", "Kannada"],
+      "correctIndex": 1,
+      "explanation": "Malayalam was used for official purposes in the Chera inscriptions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h7_q29",
+      "text": "Which community is often referred to as the 'Children of the Soil' in the context of Jagannatha worship?",
+      "options": ["Brahmanas", "Tribal people (Sabaras)", "Rajputs", "Traders"],
+      "correctIndex": 1,
+      "explanation": "The image of Jagannatha was originally made of wood by local tribal people.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_h7_q30",
+      "text": "The practice of 'Sati' is associated with which regional culture's heroic traditions?",
+      "options": ["Bengali", "Rajput", "Malayalam", "Ahom"],
+      "correctIndex": 1,
+      "explanation": "Sati (immolation of widows) was part of the heroic and sacrificial ethos of Rajputs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h7_q31",
+      "text": "The Rasamanjari, a famous miniature work, was written by:",
+      "options": ["Kalidasa", "Bhanudatta", "Tulsidas", "Jayadeva"],
+      "correctIndex": 1,
+      "explanation": "It was a popular subject for Basohli style paintings.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_h7_q32",
+      "text": "The Gita Govinda was composed by:",
+      "options": ["Surdas", "Jayadeva", "Kabir", "Mira Bai"],
+      "correctIndex": 1,
+      "explanation": "This poem in Sanskrit about Krishna is a masterpiece of Indian literature.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h7_q33",
+      "text": "Bengali prose developed significantly during the:",
+      "options": ["12th century", "15th century", "19th century", "20th century"],
+      "correctIndex": 2,
+      "explanation": "Modern Bengali prose was shaped in the 19th century.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_h7_q34",
+      "text": "Animism is the belief that:",
+      "options": ["Only humans have souls", "Everything in nature has a soul", "There is no god", "Only animals are sacred"],
+      "correctIndex": 1,
+      "explanation": "Tribal cultures often practiced animism, attributing life to stones, trees, and rivers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h7_q35",
+      "text": "The 'Bakti' literature in Bengal centered around:",
+      "options": ["Chaitanyadeva", "Kabir", "Guru Nanak", "Basavanna"],
+      "correctIndex": 0,
+      "explanation": "Chaitanyadeva was the leader of the Vaishnava Bhakti movement in Bengal.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h7_q36",
+      "text": "Which group played a significant role in the spread of Bengali culture to the deltaic regions?",
+      "options": ["European traders", "Mughal officials", "Migrants and Pirs", "Rajput warriors"],
+      "correctIndex": 2,
+      "explanation": "They cleared forests and settled in new areas, bringing their traditions with them.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h7_q37",
+      "text": "Temple building in Bengal reached its peak between the:",
+      "options": ["9th and 12th centuries", "15th and 19th centuries", "12th and 15th centuries", "19th and 20th centuries"],
+      "correctIndex": 1,
+      "explanation": "Many of these temples were built by humble social groups like the Kolu (oil pressers).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h7_q38",
+      "text": "The terracotta decorations on Bengal temples usually depict:",
+      "options": ["Only geometric patterns", "Scenes from the Ramayana and Krishna Leela", "Portraits of kings", "Maps of the region"],
+      "correctIndex": 1,
+      "explanation": "These temples show a fusion of local and classical Indian traditions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h7_q39",
+      "text": "Malayalam is a member of the ________ language family.",
+      "options": ["Indo-Aryan", "Dravidian", "Sino-Tibetan", "Austro-Asiatic"],
+      "correctIndex": 1,
+      "explanation": "It is closely related to Tamil.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h7_q40",
+      "text": "Cultural identities are often identified with ________.",
+      "options": ["Languages", "Food", "Clothing", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Regional culture is a combination of language, food, dress, poetry, dance, music, and painting.",
+      "frequencyRating": 5
+    }
+  ]
+}

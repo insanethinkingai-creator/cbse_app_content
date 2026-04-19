@@ -1,0 +1,140 @@
+{
+  "id": "g8_eng_ch1",
+  "grade": "8",
+  "subject": "English",
+  "number": "1",
+  "title": "The Best Christmas Present in the World",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_e1_q1",
+      "text": "What did the narrator buy from the junk shop?",
+      "options": [
+        "A roll-top writing desk",
+        "An old painting",
+        "A broken clock",
+        "A vintage lamp"
+      ],
+      "correctIndex": 0,
+      "explanation": "The narrator bought a large roll-top writing desk that had been discarded as scrap.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e1_q2",
+      "text": "The desk was marked with which date?",
+      "options": [
+        "1850",
+        "1912",
+        "1942",
+        "1921"
+      ],
+      "correctIndex": 1,
+      "explanation": "The desk had a drawer marked '1912', indicating it belonged to that period.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e1_q3",
+      "text": "Who was the letter from the desk written by?",
+      "options": [
+        "Captain Jim Macpherson",
+        "Hans Wolf",
+        "The junk dealer",
+        "Mrs. Macpherson"
+      ],
+      "correctIndex": 0,
+      "explanation": "Captain Jim Macpherson wrote the letter to his wife during World War I.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e1_q4",
+      "text": "When did the Christmas truce take place?",
+      "options": [
+        "December 24, 1914",
+        "December 25, 1914",
+        "December 26, 1914",
+        "January 1, 1915"
+      ],
+      "correctIndex": 1,
+      "explanation": "The letter describes the Christmas truce on December 25, 1914, between British and German soldiers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e1_q5",
+      "text": "What activity did the enemy troops engage in during the truce?",
+      "options": [
+        "Fighting",
+        "Playing football",
+        "Digging trenches",
+        "Shooting cannons"
+      ],
+      "correctIndex": 1,
+      "explanation": "The British and German soldiers played a football match in No Man's Land.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e1_q6",
+      "text": "Who was Fritz?",
+      "options": [
+        "A British officer",
+        "A German soldier who spoke English",
+        "Captain Macpherson's son",
+        "The narrator's friend"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fritz was a young German soldier from Dusseldorf who conversed with the Captain.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e1_q7",
+      "text": "What was Hans Wolf the captain of?",
+      "options": [
+        "Scots Greys",
+        "2nd Saxon Regiment",
+        "Dorsetshire Regiment",
+        "Irish Guards"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hans Wolf commanded the 2nd Saxon Regiment and led their regimental band.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e1_q8",
+      "text": "Which carol did both sides sing together?",
+      "options": [
+        "Jingle Bells",
+        "Silent Night",
+        "We Wish You a Merry Christmas",
+        "O Come All Ye Faithful"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Germans sang 'Stille Nacht' (Silent Night), which the English knew and joined.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e1_q9",
+      "text": "What German food did Hans offer the Captain?",
+      "options": [
+        "Bread and sausages",
+        "Cake and wine",
+        "Chocolate and beer",
+        "Cheese and apples"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hans offered dark, crusty bread, sausages, and cake.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e1_q10",
+      "text": "What was the final score of the football match?",
+      "options": [
+        "3-3",
+        "2-2",
+        "1-1",
+        "English won 2-1"
+      ],
+      "correctIndex": 0,
+      "explanation": "The match ended in a 3-3 draw.",
+      "frequencyRating": 4
+    }
+  ]
+}

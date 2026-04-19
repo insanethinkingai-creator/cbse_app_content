@@ -1,0 +1,330 @@
+{
+  "id": "g7_geo_ch6",
+  "grade": "7",
+  "subject": "Geography",
+  "number": "6",
+  "title": "Human Environment Interactions",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_g6_q1",
+      "text": "The place where a river flows into another body of water is called the river's:",
+      "options": ["Source", "Mouth", "Basin", "Tributary"],
+      "correctIndex": 1,
+      "explanation": "The river's mouth is where it ends its journey by flowing into a sea, lake, or another river.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q2",
+      "text": "The Amazon Basin is located in which continent?",
+      "options": ["Africa", "Asia", "South America", "North America"],
+      "correctIndex": 2,
+      "explanation": "The Amazon River flows through the tropical region of South America.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q3",
+      "text": "The climate of the Amazon Basin is characterized by:",
+      "options": ["Hot and dry", "Cold and wet", "Hot and wet throughout the year", "Seasonal rainfall"],
+      "correctIndex": 2,
+      "explanation": "Being on the equator, it receives heavy rainfall and high temperatures every day.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q4",
+      "text": "Which of these are the main characteristics of rainforests?",
+      "options": ["Thick canopy of leaves", "Sparse vegetation", "Needle-shaped leaves", "Thorny bushes"],
+      "correctIndex": 0,
+      "explanation": "The forests are so thick that the dense 'roof' created by leaves prevents sunlight from reaching the ground.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q5",
+      "text": "Bromeliads are special plants that:",
+      "options": ["Grow in deserts", "Store water in their leaves", "Are carnivorous", "Have no roots"],
+      "correctIndex": 1,
+      "explanation": "These are parasites that store water; animals like frogs use these pockets of water for laying eggs.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g6_q6",
+      "text": "The 'Toucan' is a type of:",
+      "options": ["Fish", "Bird", "Animal", "Reptile"],
+      "correctIndex": 1,
+      "explanation": "Toucans are birds with brilliantly coloured plumage and oversized bills found in the Amazon.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q7",
+      "text": "The flesh-eating fish found in the Amazon River is the:",
+      "options": ["Shark", "Whale", "Piranha", "Dolphin"],
+      "correctIndex": 2,
+      "explanation": "The Piranha is a famous predatory fish known for its sharp teeth and aggressive nature.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q8",
+      "text": "Slash and Burn is a way of:",
+      "options": ["Fishing", "Cultivation", "Hunting", "Mining"],
+      "correctIndex": 1,
+      "explanation": "Farmers clear a patch of land by cutting and burning trees, then grow crops in the nutrient-rich ashes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q9",
+      "text": "What is the staple food of the people in the Amazon Basin?",
+      "options": ["Rice", "Wheat", "Manioc (Cassava)", "Maize"],
+      "correctIndex": 2,
+      "explanation": "Manioc grows underground like a potato and is the primary food source for forest dwellers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q10",
+      "text": "The large apartment-like houses with steeply slanting roofs in the Amazon are called:",
+      "options": ["Igloos", "Maloca", "Tents", "Huts"],
+      "correctIndex": 1,
+      "explanation": "Malocas are communal houses designed to withstand heavy rainfall.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q11",
+      "text": "The Ganga-Brahmaputra Basin is formed by the tributaries of rivers Ganga and Brahmaputra in the:",
+      "options": ["African subcontinent", "Indian subcontinent", "Australian continent", "European continent"],
+      "correctIndex": 1,
+      "explanation": "This basin lies in the subtropical region between 10°N to 30°N latitudes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q12",
+      "text": "Which of these is NOT a feature of the Ganga-Brahmaputra Basin?",
+      "options": ["Himalayas", "Sundarbans Delta", "Ox-bow lakes", "Active volcanoes"],
+      "correctIndex": 3,
+      "explanation": "The basin consists of plains, mountains, and a massive delta, but not volcanoes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g6_q13",
+      "text": "The area of the Ganga-Brahmaputra basin is dominated by ________ climate.",
+      "options": ["Equatorial", "Monsoon", "Desert", "Tundra"],
+      "correctIndex": 1,
+      "explanation": "The monsoon brings rains from mid-June to mid-September.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q14",
+      "text": "Which crop is the main stay of the people in the Ganga-Brahmaputra plains?",
+      "options": ["Wheat", "Paddy (Rice)", "Cotton", "Jute"],
+      "correctIndex": 1,
+      "explanation": "Paddy cultivation requires high rainfall and fertile alluvial soil found in the plains.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q15",
+      "text": "In the mountains of the Ganga-Brahmaputra basin, crops are grown on:",
+      "options": ["Flat lands", "Terraces", "Marshy lands", "Desert sands"],
+      "correctIndex": 1,
+      "explanation": "Terraces are built on steep slopes to create flat surfaces for growing crops and reducing soil erosion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q16",
+      "text": "The vegetation cover of the Ganga-Brahmaputra basin varies according to the:",
+      "options": ["Language", "Type of landforms", "Population density", "Distance from sea"],
+      "correctIndex": 1,
+      "explanation": "Tropical deciduous trees grow in plains, while coniferous trees grow in the cold mountains.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g6_q17",
+      "text": "The one-horned rhinoceros is found in the ________ plain.",
+      "options": ["Ganga", "Brahmaputra", "Amazon", "Nile"],
+      "correctIndex": 1,
+      "explanation": "It is a famous inhabitant of the marshy lands of the Brahmaputra plain.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q18",
+      "text": "The Bengal tiger and crocodiles are found in the:",
+      "options": ["Himalayas", "Sundarbans Delta", "Thar Desert", "Deccan Plateau"],
+      "correctIndex": 1,
+      "explanation": "The Sundarbans delta area is rich in wildlife, including the Royal Bengal Tiger.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q19",
+      "text": "Which variety of fish is popular in the Ganga-Brahmaputra region?",
+      "options": ["Rohu, Catla and Hilsa", "Salmon and Tuna", "Cod and Mackerel", "Shark and Ray"],
+      "correctIndex": 0,
+      "explanation": "Fish and rice are the staple diet of the people living in the coastal and riverine areas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g6_q20",
+      "text": "Susus, also known as blind dolphins, are found in the:",
+      "options": ["Amazon River", "Fresh waters of Ganga and Brahmaputra", "Arabian Sea", "Indian Ocean"],
+      "correctIndex": 1,
+      "explanation": "The presence of Susu is an indication of the health of the river water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q21",
+      "text": "A major city located on the banks of river Ganga is:",
+      "options": ["Mumbai", "Varanasi", "Chennai", "Kolkata"],
+      "correctIndex": 1,
+      "explanation": "Cities like Kanpur, Lucknow, Varanasi, and Patna are situated along the Ganga.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q22",
+      "text": "The Trans-Amazon Highway has made all parts of the rainforest:",
+      "options": ["Invisible", "Accessible", "Polluted only", "Deserted"],
+      "correctIndex": 1,
+      "explanation": "Modern transport has opened up the once impenetrable forests for development and trade.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_g6_q23",
+      "text": "Developmental activities are leading to the ________ of the biological diverse rainforests.",
+      "options": ["Growth", "Gradual destruction", "Protection", "Expansion"],
+      "correctIndex": 1,
+      "explanation": "Clearing of forests for farming and industry is causing massive environmental loss.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q24",
+      "text": "Kolkata is an important port on the river:",
+      "options": ["Ganga", "Hooghly", "Brahmaputra", "Yamuna"],
+      "correctIndex": 1,
+      "explanation": "Kolkata serves as a major gateway for trade in eastern India via the Hooghly river.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q25",
+      "text": "Kaziranga and Manas wildlife sanctuaries are located in:",
+      "options": ["Bihar", "Assam", "West Bengal", "Uttar Pradesh"],
+      "correctIndex": 1,
+      "explanation": "These are vital conservation areas in the Brahmaputra plain.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q26",
+      "text": "The world's largest river basin is the:",
+      "options": ["Nile Basin", "Ganga Basin", "Amazon Basin", "Mississippi Basin"],
+      "correctIndex": 2,
+      "explanation": "The Amazon drains the largest area of land on Earth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q27",
+      "text": "The 'Tributary' of a river means:",
+      "options": ["Main river", "A small river that joins the main river", "The end of the river", "A lake formed by river"],
+      "correctIndex": 1,
+      "explanation": "Tributaries contribute their water to a larger parent river.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q28",
+      "text": "Slash and Burn is also known as ________ in different parts of the world.",
+      "options": ["Step farming", "Jhuming", "Irrigation", "Industrialization"],
+      "correctIndex": 1,
+      "explanation": "In India, particularly the North-East, it is called Jhum cultivation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g6_q29",
+      "text": "The 'Queen' ants are found in nests located in:",
+      "options": ["Trees", "Underground Maniocs", "Malocas", "Rainforest floor"],
+      "correctIndex": 1,
+      "explanation": "Some people in the Amazon basin eat the egg sacs of queen ants as a delicacy.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_g6_q30",
+      "text": "Cash crops grown in the Ganga-Brahmaputra basin include:",
+      "options": ["Sugarcane and Jute", "Rubber and Cocoa", "Wheat and Barley", "Apples and Pears"],
+      "correctIndex": 0,
+      "explanation": "These crops are grown primarily for sale in the market.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g6_q31",
+      "text": "The Brahmaputra river is known as ________ in Tibet.",
+      "options": ["Meghna", "Tsangpo", "Padma", "Dehang"],
+      "correctIndex": 1,
+      "explanation": "It originates in Tibet and travels a long distance before entering India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q32",
+      "text": "The population density in the Ganga-Brahmaputra plain is:",
+      "options": ["Very low", "Moderate", "Very high", "Zero"],
+      "correctIndex": 2,
+      "explanation": "The fertile plains provide ideal conditions for human settlement and agriculture.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q33",
+      "text": "In the Ganga-Brahmaputra basin, tourism is an important activity because of:",
+      "options": ["Taj Mahal at Agra", "Buddhist Stupas", "Lucknow's Imambara", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "The region is rich in historical monuments and natural beauty.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q34",
+      "text": "Which trees are found in the delta region of Ganga-Brahmaputra?",
+      "options": ["Teak", "Sundari", "Pine", "Cactus"],
+      "correctIndex": 1,
+      "explanation": "The Sundarbans delta is named after the Sundari trees found there.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q35",
+      "text": "Coniferous trees like Pine, Deodar and Fir are found in ________ areas.",
+      "options": ["Marshy", "Plains", "Mountainous (Arunachal/Uttarakhand)", "Desert"],
+      "correctIndex": 2,
+      "explanation": "These trees thrive in the cooler climates of higher altitudes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g6_q36",
+      "text": "Which of these is a tributary of the river Ganga?",
+      "options": ["Son", "Chambal", "Gandhak", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "The Ghaghra, Son, Chambal, Gandhak, and Kosi are all tributaries of the Ganga.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g6_q37",
+      "text": "Paddy is grown in the plains because of the availability of:",
+      "options": ["Fertile soil and high rainfall", "Sandy soil and dry climate", "Snowy peaks", "Strong winds"],
+      "correctIndex": 0,
+      "explanation": "Rice is a water-intensive crop that flourishes in alluvial plains.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q38",
+      "text": "The Amazon Basin lies in the ________ region.",
+      "options": ["Temperate", "Tropical", "Frigid", "Polar"],
+      "correctIndex": 1,
+      "explanation": "It is located close to the equator (10°N to 10°S).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g6_q39",
+      "text": "Slash and Burn agriculture is used by the ________ of the Amazon.",
+      "options": ["City dwellers", "Tribal people", "Factory workers", "Tourists"],
+      "correctIndex": 1,
+      "explanation": "It is a traditional method of subsistence farming for forest communities.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g6_q40",
+      "text": "Silk is produced through the cultivation of silkworms in which state?",
+      "options": ["Rajasthan", "Bihar and Assam", "Gujarat", "Punjab"],
+      "correctIndex": 1,
+      "explanation": "Sericulture (silk production) is a significant economic activity in these regions.",
+      "frequencyRating": 3
+    }
+  ]
+}

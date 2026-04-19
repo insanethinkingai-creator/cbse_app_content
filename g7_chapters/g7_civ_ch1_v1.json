@@ -8,82 +8,322 @@
   "questions": [
     {
       "id": "g7_c1_q1",
-      "text": "What allows all adult citizens to vote regardless of their wealth or religion?",
-      "options": ["Right to Property", "Universal Adult Franchise", "Right to Education", "Democratic Dictatorship"],
-      "correctIndex": 1,
-      "explanation": "Universal Adult Franchise is a key aspect of democratic societies based on equality.",
+      "text": "Universal Adult Franchise gives the right to vote to all citizens who are:",
+      "options": ["Educated", "Wealthy", "18 years and above", "Male"],
+      "correctIndex": 2,
+      "explanation": "It is a key feature of democracy where every adult has one vote, regardless of wealth or social status.",
       "frequencyRating": 5
     },
     {
       "id": "g7_c1_q2",
-      "text": "The Midday Meal scheme was first introduced in which Indian state?",
-      "options": ["Kerala", "Tamil Nadu", "Gujarat", "Punjab"],
-      "correctIndex": 1,
-      "explanation": "Tamil Nadu was the first state in India to start this scheme in 2001.",
-      "frequencyRating": 4
+      "text": "The idea of Universal Adult Franchise is based on the principle of:",
+      "options": ["Equality", "Hierarchy", "Monarchy", "Discrimination"],
+      "correctIndex": 0,
+      "explanation": "It ensures that every citizen's voice is equal in the democratic process.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_c1_q3",
-      "text": "Who is the author of the autobiography 'Joothan'?",
-      "options": ["Dr. B.R. Ambedkar", "Omprakash Valmiki", "Mahatma Gandhi", "Ansari"],
-      "correctIndex": 1,
-      "explanation": "Omprakash Valmiki wrote about his experiences as a Dalit boy in this book.",
-      "frequencyRating": 4
+      "text": "Kanta, a domestic worker, felt equal to her employer when she was:",
+      "options": ["At work", "In the hospital", "Standing in line to vote", "At the market"],
+      "correctIndex": 2,
+      "explanation": "In the voting queue, she stood along with people of all classes, including her employer.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_c1_q4",
-      "text": "Which article of the Indian Constitution prohibits discrimination on grounds of religion, race, or caste?",
-      "options": ["Article 14", "Article 15", "Article 21", "Article 370"],
+      "text": "Omprakash Valmiki is a famous Dalit writer who wrote the autobiography:",
+      "options": ["Discovery of India", "Joothan", "My Experiments with Truth", "Wings of Fire"],
       "correctIndex": 1,
-      "explanation": "Article 15 ensures equality of access to public places and prohibits state discrimination.",
+      "explanation": "'Joothan' describes the discrimination he faced as a Dalit child in school.",
       "frequencyRating": 5
     },
     {
       "id": "g7_c1_q5",
-      "text": "Rosa Parks was an African-American woman who started a protest in:",
-      "options": ["India", "South Africa", "United States of America", "United Kingdom"],
-      "correctIndex": 2,
-      "explanation": "Her refusal to give up her seat on a bus led to the Civil Rights Movement in the USA.",
+      "text": "The term 'Dalit' literally means:",
+      "options": ["Powerful", "Broken", "Upper caste", "Pure"],
+      "correctIndex": 1,
+      "explanation": "It is a term that lower castes use to describe how they have been 'broken' or crushed by discrimination.",
       "frequencyRating": 5
     },
     {
       "id": "g7_c1_q6",
-      "text": "The Civil Rights Act of 1964 prohibited discrimination in the USA based on:",
-      "options": ["Income", "Race, religion, or national origin", "Education", "Language"],
-      "correctIndex": 1,
-      "explanation": "This landmark act ended segregation in public places in the United States.",
-      "frequencyRating": 4
+      "text": "Why were the Ansaris refused a house on rent in the city?",
+      "options": ["They were poor", "They were not married", "Because of their religion", "They had no job"],
+      "correctIndex": 2,
+      "explanation": "Even though they had money, people refused to rent to them once they learned their names.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_c1_q7",
-      "text": "Dignity refers to:",
-      "options": ["Wealth", "Thinking of oneself and others as worthy of respect", "Political power", "High education"],
+      "text": "When people are treated unequally, their ________ is violated.",
+      "options": ["Health", "Dignity", "Property", "Education"],
       "correctIndex": 1,
-      "explanation": "When people are treated unequally, their dignity is violated.",
-      "frequencyRating": 3
+      "explanation": "Treating someone as less than equal hurts their self-respect and sense of worth.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_c1_q8",
-      "text": "Equality is a central feature of which form of government?",
-      "options": ["Monarchy", "Democracy", "Dictatorship", "Oligarchy"],
+      "text": "The Indian Constitution recognizes every person as:",
+      "options": ["Different", "Equal", "Unequal", "Dependent"],
       "correctIndex": 1,
-      "explanation": "Democracy thrives on the principle of equal rights for every individual.",
+      "explanation": "This means that every individual in the country is equal before the law.",
       "frequencyRating": 5
     },
     {
       "id": "g7_c1_q9",
-      "text": "What is one of the main reasons why people are treated unequally in India?",
-      "options": ["Weather", "The Caste system", "Lack of rivers", "Geography"],
-      "correctIndex": 1,
-      "explanation": "Caste, along with religion and gender, remains a major basis of inequality.",
-      "frequencyRating": 4
+      "text": "According to the Constitution, no person can be discriminated against on the basis of:",
+      "options": ["Religion", "Race or Caste", "Place of birth or gender", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Article 15 of the Constitution prohibits discrimination on these grounds.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_c1_q10",
-      "text": "The Indian Constitution recognizes every person as:",
-      "options": ["Unequal", "Equal", "Subject", "Upper or Lower caste"],
+      "text": "The first state in India to introduce the Midday Meal scheme was:",
+      "options": ["Kerala", "Tamil Nadu", "Gujarat", "Bihar"],
       "correctIndex": 1,
-      "explanation": "The Constitution of India considers every individual, male or female, equal before the law.",
+      "explanation": "Tamil Nadu introduced it in 2001, and the Supreme Court later asked all states to implement it.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q11",
+      "text": "The Midday Meal scheme has helped increase the ________ of poor children in schools.",
+      "options": ["Height", "Attendance and enrollment", "Fees", "Strength"],
+      "correctIndex": 1,
+      "explanation": "Children no longer have to go home for lunch, and parents don't have to worry about providing a meal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q12",
+      "text": "A positive effect of the Midday Meal scheme is that it helps reduce ________ prejudices.",
+      "options": ["Political", "Caste", "Scientific", "Economic"],
+      "correctIndex": 1,
+      "explanation": "Children of all castes sit together to eat their meals in school.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q13",
+      "text": "In the United States, the movement for equal rights for African-Americans was the:",
+      "options": ["French Revolution", "Civil Rights Movement", "Freedom Struggle", "Green Revolution"],
+      "correctIndex": 1,
+      "explanation": "This movement started in the late 1950s to end racial discrimination.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q14",
+      "text": "Who was the African-American woman who refused to give up her bus seat in 1955?",
+      "options": ["Michelle Obama", "Rosa Parks", "Kamala Harris", "Oprah Winfrey"],
+      "correctIndex": 1,
+      "explanation": "Her refusal started a massive protest that led to the Civil Rights Act of 1964.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q15",
+      "text": "The Civil Rights Act of 1964 prohibited discrimination on the basis of:",
+      "options": ["Race", "Religion", "National origin", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "It was a landmark law that aimed to end segregation and discrimination in the USA.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q16",
+      "text": "The document that lays down basic rules for the citizens and the government of a country is the:",
+      "options": ["Newspaper", "Magna Carta", "Constitution", "Blue Book"],
+      "correctIndex": 2,
+      "explanation": "It is the supreme law of the land.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q17",
+      "text": "One of the main reasons why inequality persists is that ________ change very slowly.",
+      "options": ["Laws", "Attitudes", "Governments", "Buildings"],
+      "correctIndex": 1,
+      "explanation": "Even though laws change, many people still treat others as unequal due to their caste, religion, or gender.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q18",
+      "text": "Establishing equality in a ________ society like India is a continuous struggle.",
+      "options": ["Monarchic", "Democratic", "Dictatorial", "Communist"],
+      "correctIndex": 1,
+      "explanation": "Democracy requires constant effort to ensure everyone is treated with dignity.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c1_q19",
+      "text": "The government provides equality through laws and through:",
+      "options": ["Punishment only", "Government schemes/programmes", "Exams", "Taxation only"],
+      "correctIndex": 1,
+      "explanation": "Schemes like the Midday Meal help disadvantaged communities get equal opportunities.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q20",
+      "text": "Article 15 of the Indian Constitution is about:",
+      "options": ["Right to Freedom", "Prohibition of discrimination", "Right to Property", "Right to Education"],
+      "correctIndex": 1,
+      "explanation": "It explicitly forbids the state from discriminating against any citizen on grounds of religion, race, caste, sex, or place of birth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q21",
+      "text": "In a democracy, the ________ of each person must be respected.",
+      "options": ["Wealth", "Dignity", "Address", "Education"],
+      "correctIndex": 1,
+      "explanation": "Dignity is the right of a person to be valued and respected.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q22",
+      "text": "Which of these is a form of inequality that Kanta faces?",
+      "options": ["Inability to vote", "Living in a slum with no drainage", "Not allowed in the market", "Not allowed to work"],
+      "correctIndex": 1,
+      "explanation": "Her poverty and living conditions represent economic and social inequality.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c1_q23",
+      "text": "The 'living' reality of democracy is that:",
+      "options": ["Everyone is perfectly equal", "Inequality still exists in many forms", "No one has to work", "Government does everything"],
+      "correctIndex": 1,
+      "explanation": "While laws provide equality, the practice of inequality continues in daily life.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q24",
+      "text": "Who said, 'Nothing is more disgraceful for a self-respecting man than to live a life devoid of self-respect'?",
+      "options": ["Mahatma Gandhi", "Dr. B.R. Ambedkar", "Jawaharlal Nehru", "Subhash Chandra Bose"],
+      "correctIndex": 1,
+      "explanation": "He was a champion of Dalit rights and emphasized the importance of dignity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q25",
+      "text": "The Indian Constitution recognizes ________ of all persons.",
+      "options": ["Superiority", "Equality", "Difference", "Poverty"],
+      "correctIndex": 1,
+      "explanation": "Equality is a fundamental pillar of the Indian democratic system.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q26",
+      "text": "Before the Indian Constitution, there were no ________ that protected people from discrimination.",
+      "options": ["Books", "Laws", "Schools", "Temples"],
+      "correctIndex": 1,
+      "explanation": "Now there are legal protections to ensure people are treated with dignity.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c1_q27",
+      "text": "The Midday Meal programme also provides ________ to poor women.",
+      "options": ["Education", "Employment", "Houses", "Land"],
+      "correctIndex": 1,
+      "explanation": "Dalit and other poor women are often employed to cook the meals.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c1_q28",
+      "text": "Equality is not just a law, but a ________.",
+      "options": ["Hobby", "Burden", "Continuous struggle", "One-time event"],
+      "correctIndex": 2,
+      "explanation": "It requires everyday commitment from every citizen.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q29",
+      "text": "Racial discrimination in the USA was based on:",
+      "options": ["Caste", "Religion", "Skin color and origin", "Wealth"],
+      "correctIndex": 2,
+      "explanation": "African-Americans were treated as inferior to white Americans.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q30",
+      "text": "The first step towards equality in a democracy is:",
+      "options": ["Becoming rich", "Universal Adult Franchise", "Getting a job", "Moving to a city"],
+      "correctIndex": 1,
+      "explanation": "The right to vote gives everyone an equal say in choosing the government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q31",
+      "text": "Omprakash Valmiki was asked by his headmaster to ________ the school playground.",
+      "options": ["Paint", "Sweep", "Guard", "Dig"],
+      "correctIndex": 1,
+      "explanation": "He was forced to sweep while other children were studying, purely because of his caste.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q32",
+      "text": "The Ansaris were asked to change their ________ by the property dealer.",
+      "options": ["Clothes", "Names", "Address", "Religion"],
+      "correctIndex": 1,
+      "explanation": "The dealer suggested they call themselves Mr. and Mrs. Kumar to get a house.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c1_q33",
+      "text": "A 'democracy' is a system where ________ are the ultimate source of power.",
+      "options": ["Kings", "Military", "People", "Traders"],
+      "correctIndex": 2,
+      "explanation": "Democracy is government 'of the people, by the people, and for the people'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q34",
+      "text": "The Indian Constitution allows every person to have equal access to ________ places.",
+      "options": ["Private", "Public", "Secret", "Foreign"],
+      "correctIndex": 1,
+      "explanation": "This includes playgrounds, hotels, shops, and wells.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q35",
+      "text": "Discrimination on the basis of gender means treating ________ differently.",
+      "options": ["Rich and poor", "Boys and girls", "Old and young", "Locals and foreigners"],
+      "correctIndex": 1,
+      "explanation": "Gender equality is a core value of the Constitution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q36",
+      "text": "Which of these is NOT a provision of the Indian Constitution regarding equality?",
+      "options": ["Untouchability is abolished", "Every person is equal before the law", "Only rich people can vote", "No discrimination based on religion"],
+      "correctIndex": 2,
+      "explanation": "Universal Adult Franchise ensures everyone has the right to vote regardless of wealth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q37",
+      "text": "The Midday Meal scheme also helps in reducing the ________ of children.",
+      "options": ["Weight", "Hunger", "Playtime", "Crying"],
+      "correctIndex": 1,
+      "explanation": "It ensures that poor children get at least one nutritious meal a day.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q38",
+      "text": "Rosa Parks' act of defiance led to the ________ of buses in Montgomery.",
+      "options": ["Burning", "Boycott", "Painting", "Speeding"],
+      "correctIndex": 1,
+      "explanation": "The year-long boycott was a turning point in the Civil Rights Movement.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c1_q39",
+      "text": "Equality is a ________ concept that involves social, economic and political aspects.",
+      "options": ["Simple", "Multidimensional", "Useless", "Foreign"],
+      "correctIndex": 1,
+      "explanation": "It touches every part of our lives and society.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c1_q40",
+      "text": "When we treat someone with respect, we acknowledge their:",
+      "options": ["Money", "Position", "Humanity", "Power"],
+      "correctIndex": 2,
+      "explanation": "Equality is about recognizing the inherent worth of every human being.",
       "frequencyRating": 5
     }
   ]

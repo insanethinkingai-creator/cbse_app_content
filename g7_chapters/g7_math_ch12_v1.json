@@ -8,73 +8,324 @@
   "questions": [
     {
       "id": "g7_m12_q1",
-      "text": "How many lines of symmetry does a regular pentagon have?",
-      "options": ["3", "4", "5", "6"],
+      "text": "A figure has ______ symmetry if it can be folded so that the two halves match exactly.",
+      "options": ["Rotational", "Point", "Line", "Circular"],
       "correctIndex": 2,
-      "explanation": "A regular polygon with 'n' sides has exactly 'n' lines of symmetry."
+      "explanation": "Line symmetry is also called reflection symmetry.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m12_q2",
-      "text": "Which of the following letters has vertical line symmetry?",
-      "options": ["B", "C", "D", "M"],
-      "correctIndex": 3,
-      "explanation": "The letter M can be divided into two matching halves by a vertical line."
+      "text": "How many lines of symmetry does a regular triangle (equilateral) have?",
+      "options": ["1", "2", "3", "0"],
+      "correctIndex": 2,
+      "explanation": "It has 3 lines of symmetry passing through vertices and midpoints of opposite sides.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m12_q3",
-      "text": "An equilateral triangle has rotational symmetry of order:",
-      "options": ["1", "2", "3", "4"],
-      "correctIndex": 2,
-      "explanation": "It looks the same at 120°, 240°, and 360° rotations."
+      "text": "A square has how many lines of symmetry?",
+      "options": ["2", "4", "8", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "Two diagonals and two lines joining mid-points of opposite sides.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m12_q4",
-      "text": "The angle of rotation for a square is:",
-      "options": ["45°", "60°", "90°", "180°"],
-      "correctIndex": 2,
-      "explanation": "360° divided by the order of rotational symmetry (4) is 90°."
+      "text": "A circle has how many lines of symmetry?",
+      "options": ["1", "2", "100", "Infinite"],
+      "correctIndex": 3,
+      "explanation": "Every diameter is a line of symmetry.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m12_q5",
-      "text": "Which figure has only one line of symmetry?",
-      "options": ["Rectangle", "Square", "Isosceles triangle", "Circle"],
-      "correctIndex": 2,
-      "explanation": "An isosceles triangle has only one line of symmetry passing through the vertex between the equal sides."
+      "text": "The angle of rotational symmetry for a square is:",
+      "options": ["45°", "90°", "180°", "360°"],
+      "correctIndex": 1,
+      "explanation": "360 / 4 = 90. Rotating a square by 90° looks identical.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m12_q6",
-      "text": "A circle has ________ lines of symmetry.",
-      "options": ["1", "2", "4", "Infinite"],
-      "correctIndex": 3,
-      "explanation": "Any line passing through the center of a circle is a line of symmetry."
+      "text": "The order of rotational symmetry for an equilateral triangle is:",
+      "options": ["1", "2", "3", "6"],
+      "correctIndex": 2,
+      "explanation": "It fits onto itself 3 times in a full turn.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m12_q7",
-      "text": "The letter 'S' has which type of symmetry?",
-      "options": ["Line symmetry", "Rotational symmetry", "Both", "None"],
-      "correctIndex": 1,
-      "explanation": "The letter S has rotational symmetry of order 2 but no line of symmetry."
+      "text": "Which of the following letters has a vertical line of symmetry?",
+      "options": ["B", "C", "D", "A"],
+      "correctIndex": 0,
+      "correctIndex": 3,
+      "explanation": "Letter 'A' can be divided vertically down the middle.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_m12_q8",
-      "text": "What is the order of rotational symmetry of a rectangle?",
-      "options": ["1", "2", "3", "4"],
+      "text": "Which of the following letters has rotational symmetry but no line symmetry?",
+      "options": ["H", "S", "O", "X"],
       "correctIndex": 1,
-      "explanation": "A rectangle looks the same after a 180° and 360° rotation."
+      "explanation": "'S' looks the same after 180° rotation but cannot be folded along a line.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_m12_q9",
-      "text": "Which of these polygons has no line of symmetry?",
-      "options": ["Scalene triangle", "Isosceles triangle", "Equilateral triangle", "Right-angled isosceles triangle"],
-      "correctIndex": 0,
-      "explanation": "A scalene triangle has all sides and angles different, so it cannot be folded into matching halves."
+      "text": "An isosceles triangle has how many lines of symmetry?",
+      "options": ["0", "1", "2", "3"],
+      "correctIndex": 1,
+      "explanation": "Only one line through the vertex between equal sides.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m12_q10",
-      "text": "Order of rotational symmetry for a regular hexagon is:",
-      "options": ["4", "5", "6", "12"],
+      "text": "A scalene triangle has how many lines of symmetry?",
+      "options": ["0", "1", "2", "3"],
+      "correctIndex": 0,
+      "explanation": "No sides or angles are equal, so no line can split it evenly.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m12_q11",
+      "text": "The order of rotational symmetry for a circle is:",
+      "options": ["1", "360", "Infinite", "Zero"],
       "correctIndex": 2,
-      "explanation": "A regular hexagon fits onto itself 6 times during a full 360° turn."
+      "explanation": "A circle looks the same after rotation by any angle.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m12_q12",
+      "text": "A rectangle has how many lines of symmetry?",
+      "options": ["1", "2", "4", "0"],
+      "correctIndex": 1,
+      "explanation": "Two lines connecting mid-points of opposite sides.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m12_q13",
+      "text": "Does a rectangle have rotational symmetry? If yes, of what order?",
+      "options": ["No", "Yes, order 1", "Yes, order 2", "Yes, order 4"],
+      "correctIndex": 2,
+      "explanation": "It looks identical after 180° and 360° rotation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m12_q14",
+      "text": "Which capital letter of English alphabet has both horizontal and vertical line symmetry?",
+      "options": ["A", "H", "M", "E"],
+      "correctIndex": 1,
+      "explanation": "H can be folded both ways. (O, X, I also work).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m12_q15",
+      "text": "A regular hexagon has how many lines of symmetry?",
+      "options": ["3", "6", "12", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "For any regular polygon, number of lines of symmetry = number of sides.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m12_q16",
+      "text": "The fixed point around which a figure is rotated is called:",
+      "options": ["Origin", "Vertex", "Centre of rotation", "Symmetry point"],
+      "correctIndex": 2,
+      "explanation": "Basic definition in rotational symmetry.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m12_q17",
+      "text": "Rotation turns an object through an angle. A half-turn corresponds to:",
+      "options": ["90°", "180°", "270°", "360°"],
+      "correctIndex": 1,
+      "explanation": "1/2 of 360 is 180.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m12_q18",
+      "text": "A rhombus has how many lines of symmetry?",
+      "options": ["2", "4", "0", "1"],
+      "correctIndex": 0,
+      "explanation": "The two diagonals are the only lines of symmetry.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m12_q19",
+      "text": "Order of rotational symmetry for a rhombus is:",
+      "options": ["1", "2", "4", "0"],
+      "correctIndex": 1,
+      "explanation": "It looks identical after 180° and 360°.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m12_q20",
+      "text": "A parallelogram (general) has how many lines of symmetry?",
+      "options": ["0", "1", "2", "4"],
+      "correctIndex": 0,
+      "explanation": "Folding does not result in matching halves unless it's a special case like rectangle.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m12_q21",
+      "text": "Order of rotational symmetry for a parallelogram is:",
+      "options": ["1", "2", "4", "0"],
+      "correctIndex": 1,
+      "explanation": "Rotation of 180° brings it back to original appearance.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m12_q22",
+      "text": "A line of symmetry is also known as a:",
+      "options": ["Mirror line", "Axis of rotation", "Boundary", "Vertex"],
+      "correctIndex": 0,
+      "explanation": "Folding along it produces a mirror image.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m12_q23",
+      "text": "Every object has rotational symmetry of at least order ______.",
+      "options": ["0", "1", "2", "Depends"],
+      "correctIndex": 1,
+      "explanation": "Every object looks the same after a full 360° turn.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m12_q24",
+      "text": "Angle of rotation for order 3 is:",
+      "options": ["60°", "120°", "180°", "90°"],
+      "correctIndex": 1,
+      "explanation": "360 / 3 = 120.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m12_q25",
+      "text": "Which shape has exactly one line of symmetry?",
+      "options": ["Isosceles Trapezium", "Parallelogram", "Circle", "Rectangle"],
+      "correctIndex": 0,
+      "explanation": "Only the line joining midpoints of parallel sides (if sides are equal).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m12_q26",
+      "text": "Does the letter 'Z' have line symmetry?",
+      "options": ["Yes, vertical", "Yes, horizontal", "No", "Both"],
+      "correctIndex": 2,
+      "explanation": "Folding it doesn't match halves, but it has rotational symmetry.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m12_q27",
+      "text": "Rotational symmetry order of 'Z' is:",
+      "options": ["1", "2", "4", "0"],
+      "correctIndex": 1,
+      "explanation": "Identical after 180°.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m12_q28",
+      "text": "For a regular pentagon, angle of rotation is:",
+      "options": ["72°", "60°", "90°", "108°"],
+      "correctIndex": 0,
+      "explanation": "360 / 5 = 72.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m12_q29",
+      "text": "Which quadrilateral has both line and rotational symmetry?",
+      "options": ["Square", "Rectangle", "Rhombus", "All of these"],
+      "correctIndex": 3,
+      "explanation": "All three have at least order 2 rotational and 2 line symmetries.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m12_q30",
+      "text": "Centre of rotation for a circle is its:",
+      "options": ["Circumference", "Diameter", "Centre", "Any point"],
+      "correctIndex": 2,
+      "explanation": "Basic property of a circle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m12_q31",
+      "text": "Line symmetry is related to ______.",
+      "options": ["Reflection", "Rotation", "Translation", "Volume"],
+      "correctIndex": 0,
+      "explanation": "Line symmetry is mirror reflection.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m12_q32",
+      "text": "Number of lines of symmetry in a regular n-gon is:",
+      "options": ["n", "2n", "n-1", "Infinite"],
+      "correctIndex": 0,
+      "explanation": "Standard rule for regular polygons.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m12_q33",
+      "text": "A fan with 3 blades has rotational symmetry of order:",
+      "options": ["1", "2", "3", "6"],
+      "correctIndex": 2,
+      "explanation": "Symmetry depends on the number of identical blades.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m12_q34",
+      "text": "Which digit has both horizontal and vertical line symmetry?",
+      "options": ["0", "1", "8", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Depending on font, these digits often show dual symmetry.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_m12_q35",
+      "text": "Rotational symmetry of order 4 means the angle of rotation is:",
+      "options": ["40°", "90°", "180°", "45°"],
+      "correctIndex": 1,
+      "explanation": "360 / 4 = 90.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m12_q36",
+      "text": "Does an equilateral triangle have rotational symmetry of order 3?",
+      "options": ["Yes", "No", "Only if large", "Only if small"],
+      "correctIndex": 0,
+      "explanation": "Standard property.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m12_q37",
+      "text": "Symmetry is important in:",
+      "options": ["Art", "Architecture", "Nature", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Symmetry creates balance and aesthetic appeal.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_m12_q38",
+      "text": "If a shape has line symmetry, must it have rotational symmetry?",
+      "options": ["Yes", "No", "Always", "Never"],
+      "correctIndex": 1,
+      "explanation": "Letter 'A' has line symmetry but no rotational symmetry (other than order 1).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m12_q39",
+      "text": "If a shape has rotational symmetry, must it have line symmetry?",
+      "options": ["Yes", "No", "Always", "Never"],
+      "correctIndex": 1,
+      "explanation": "Letter 'S' has rotational symmetry but no line symmetry.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m12_q40",
+      "text": "The line dividing a figure into two identical parts is the:",
+      "options": ["Median", "Diagonal", "Line of Symmetry", "Radius"],
+      "correctIndex": 2,
+      "explanation": "General term used in this chapter.",
+      "frequencyRating": 5
     }
   ]
 }

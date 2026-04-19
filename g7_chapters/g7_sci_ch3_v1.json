@@ -8,73 +8,323 @@
   "questions": [
     {
       "id": "g7_s3_q1",
-      "text": "A reliable measure of the hotness of an object is its:",
-      "options": ["Volume", "Temperature", "Mass", "Density"],
+      "text": "Heat is a form of:",
+      "options": ["Matter", "Energy", "Force", "Light"],
       "correctIndex": 1,
-      "explanation": "Temperature is the degree of hotness or coldness of an object."
+      "explanation": "Heat is the transfer of thermal energy between systems.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s3_q2",
-      "text": "The range of a clinical thermometer is:",
-      "options": ["0°C to 100°C", "35°C to 42°C", "-10°C to 110°C", "37°C to 100°C"],
-      "correctIndex": 1,
-      "explanation": "Clinical thermometers are designed to measure human body temperature, which stays within this range."
+      "text": "The standard unit of temperature is:",
+      "options": ["Celsius", "Fahrenheit", "Kelvin", "Joule"],
+      "correctIndex": 2,
+      "explanation": "Kelvin is the SI unit for temperature.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s3_q3",
-      "text": "The process by which heat is transferred in solids is:",
-      "options": ["Convection", "Radiation", "Conduction", "Insulation"],
-      "correctIndex": 2,
-      "explanation": "Conduction is the transfer of heat from the hotter end to the colder end of an object without moving the object itself."
+      "text": "Which type of thermometer is used to measure body temperature?",
+      "options": ["Laboratory thermometer", "Clinical thermometer", "Maximum-minimum thermometer", "Digital thermometer"],
+      "correctIndex": 1,
+      "explanation": "Clinical thermometers have a kink to prevent mercury from falling back, allowing accurate reading.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s3_q4",
-      "text": "Normal human body temperature is approximately:",
-      "options": ["98°C", "37°C", "45°C", "100°C"],
-      "correctIndex": 1,
-      "explanation": "The average temperature of a healthy human body is 37° Celsius."
+      "text": "The normal body temperature of a healthy human being is:",
+      "options": ["37°C", "98.6°C", "0°C", "100°C"],
+      "correctIndex": 0,
+      "explanation": "In Fahrenheit, it is 98.6°F.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s3_q5",
-      "text": "Which of these is a good conductor of heat?",
-      "options": ["Wood", "Plastic", "Copper", "Air"],
-      "correctIndex": 2,
-      "explanation": "Metals like copper and aluminum allow heat to pass through them easily."
+      "text": "The transfer of heat from a hotter part to a colder part by the actual movement of particles is called:",
+      "options": ["Conduction", "Convection", "Radiation", "Insulation"],
+      "correctIndex": 1,
+      "explanation": "Convection occurs in fluids (liquids and gases) due to density differences.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s3_q6",
-      "text": "Heat from the Sun reaches us through the process of:",
-      "options": ["Conduction", "Convection", "Radiation", "Reflection"],
-      "correctIndex": 2,
-      "explanation": "Radiation does not require a medium (like air or water) to transfer heat."
+      "text": "The transfer of heat from a hotter part to a colder part without any actual movement of particles is called:",
+      "options": ["Conduction", "Convection", "Radiation", "Evaporation"],
+      "correctIndex": 0,
+      "explanation": "Conduction is common in solids, where heat is transferred through vibrations of particles.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s3_q7",
-      "text": "Sea breeze blows during the:",
-      "options": ["Day", "Night", "Both day and night", "Winter"],
-      "correctIndex": 0,
-      "explanation": "During the day, land heats up faster than water, causing cool air from the sea to blow towards the land."
+      "text": "The transfer of heat that does not require any medium is called:",
+      "options": ["Conduction", "Convection", "Radiation", "Absorption"],
+      "correctIndex": 2,
+      "explanation": "Radiation can travel through a vacuum, like heat from the sun reaching Earth.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s3_q8",
-      "text": "Dark-colored clothes are preferred during:",
-      "options": ["Summer", "Winter", "Rainy season", "Spring"],
+      "text": "Materials that allow heat to pass through them easily are called:",
+      "options": ["Insulators", "Conductors", "Radiators", "Reflectors"],
       "correctIndex": 1,
-      "explanation": "Dark surfaces absorb more heat, helping to keep the body warm in winter."
+      "explanation": "Metals are good conductors of heat.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s3_q9",
-      "text": "The range of a laboratory thermometer is usually:",
-      "options": ["35°C to 42°C", "0°C to 50°C", "-10°C to 110°C", "10°C to 40°C"],
-      "correctIndex": 2,
-      "explanation": "Laboratory thermometers are designed for scientific experiments and have a wider range than clinical ones."
+      "text": "Materials that do NOT allow heat to pass through them easily are called:",
+      "options": ["Conductors", "Insulators", "Transmitters", "Absorbers"],
+      "correctIndex": 1,
+      "explanation": "Wood, plastic, and air are examples of insulators.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s3_q10",
-      "text": "A wooden spoon is dipped in a cup of ice cream. Its other end:",
-      "options": ["Becomes cold by conduction", "Becomes cold by radiation", "Does not become cold", "Becomes cold by convection"],
+      "text": "Which of the following is the best conductor of heat?",
+      "options": ["Wood", "Plastic", "Air", "Copper"],
+      "correctIndex": 3,
+      "explanation": "Metals, especially copper, are excellent conductors of heat.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s3_q11",
+      "text": "Sea breeze blows during the:",
+      "options": ["Day", "Night", "Morning", "Evening"],
+      "correctIndex": 0,
+      "explanation": "During the day, land heats up faster than the sea, causing air above land to rise and cooler air from the sea to move in.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s3_q12",
+      "text": "Land breeze blows during the:",
+      "options": ["Day", "Night", "Morning", "Afternoon"],
+      "correctIndex": 1,
+      "explanation": "At night, land cools faster than the sea, causing air above the sea to rise and cooler air from land to move in.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s3_q13",
+      "text": "Dark coloured surfaces absorb ______ heat than light coloured surfaces.",
+      "options": ["Less", "More", "Same amount of", "No"],
+      "correctIndex": 1,
+      "explanation": "Dark colours are good absorbers of heat, which is why we prefer light clothes in summer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s3_q14",
+      "text": "Light coloured surfaces reflect ______ heat than dark coloured surfaces.",
+      "options": ["Less", "More", "Same amount of", "No"],
+      "correctIndex": 1,
+      "explanation": "Light colours are good reflectors of heat, keeping us cooler.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s3_q15",
+      "text": "The range of a clinical thermometer is:",
+      "options": ["0°C to 100°C", "35°C to 42°C", "-10°C to 110°C", "20°C to 50°C"],
+      "correctIndex": 1,
+      "explanation": "This range is sufficient for measuring human body temperature.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s3_q16",
+      "text": "The range of a laboratory thermometer is typically:",
+      "options": ["35°C to 42°C", "-10°C to 110°C", "0°C to 50°C", "100°C to 200°C"],
+      "correctIndex": 1,
+      "explanation": "Laboratory thermometers are designed for a wider range of temperatures in experiments.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s3_q17",
+      "text": "Which of the following is an insulator?",
+      "options": ["Iron", "Aluminium", "Water", "Wood"],
+      "correctIndex": 3,
+      "explanation": "Wood does not conduct heat well.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s3_q18",
+      "text": "The process of heat transfer in liquids and gases is mainly by:",
+      "options": ["Conduction", "Convection", "Radiation", "All of these"],
+      "correctIndex": 1,
+      "explanation": "Convection currents are formed due to the movement of fluid particles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s3_q19",
+      "text": "The process of heat transfer in solids is mainly by:",
+      "options": ["Conduction", "Convection", "Radiation", "Evaporation"],
+      "correctIndex": 0,
+      "explanation": "Particles vibrate and transfer energy to adjacent particles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s3_q20",
+      "text": "Which of the following is a good absorber of heat?",
+      "options": ["White surface", "Shiny surface", "Black surface", "Polished surface"],
       "correctIndex": 2,
-      "explanation": "Wood is an insulator (poor conductor) of heat, so heat does not flow through it."
+      "explanation": "Black surfaces absorb most of the incident radiation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s3_q21",
+      "text": "Woollen clothes keep us warm in winter because:",
+      "options": ["Wool is a good conductor of heat", "Wool is an insulator and traps air", "Wool generates heat", "Wool reflects heat"],
+      "correctIndex": 1,
+      "explanation": "Trapped air is a poor conductor of heat, preventing heat loss from our bodies.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s3_q22",
+      "text": "The kink in a clinical thermometer prevents:",
+      "options": ["Mercury from expanding", "Mercury from contracting", "Mercury level from falling on its own", "Mercury from rising too high"],
+      "correctIndex": 2,
+      "explanation": "This allows the thermometer to be read accurately after removal from the patient.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s3_q23",
+      "text": "Which of these is a poor conductor of heat?",
+      "options": ["Aluminium", "Iron", "Water", "Silver"],
+      "correctIndex": 2,
+      "explanation": "Water is a relatively poor conductor compared to metals.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s3_q24",
+      "text": "The transfer of heat from the sun to the Earth is primarily by:",
+      "options": ["Conduction", "Convection", "Radiation", "All of these"],
+      "correctIndex": 2,
+      "explanation": "Space is a vacuum, so heat travels as electromagnetic waves (radiation).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s3_q25",
+      "text": "Temperature is a measure of the ______ of an object.",
+      "options": ["Total heat content", "Kinetic energy of particles", "Potential energy of particles", "Mass"],
+      "correctIndex": 1,
+      "explanation": "Higher temperature means higher average kinetic energy of the particles.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s3_q26",
+      "text": "Which of the following is NOT a unit of heat energy?",
+      "options": ["Joule", "Calorie", "Celsius", "Kilojoule"],
+      "correctIndex": 2,
+      "explanation": "Celsius is a unit of temperature, not energy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s3_q27",
+      "text": "A hot object loses heat to a cold object until:",
+      "options": ["Both objects have the same mass", "Both objects have the same temperature", "The cold object melts", "The hot object cools completely"],
+      "correctIndex": 1,
+      "explanation": "Heat transfer continues until thermal equilibrium is reached.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s3_q28",
+      "text": "Why are cooking utensils made of metal and have plastic handles?",
+      "options": ["Metals are cheap, plastic is expensive", "Metals are good conductors, plastic is an insulator", "Metals are light, plastic is heavy", "Metals are flexible, plastic is rigid"],
+      "correctIndex": 1,
+      "explanation": "Metal conducts heat to cook food, while plastic handles prevent burns.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s3_q29",
+      "text": "The process of heat transfer in boiling water is primarily by:",
+      "options": ["Conduction", "Convection", "Radiation", "Evaporation"],
+      "correctIndex": 1,
+      "explanation": "Convection currents distribute heat throughout the water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s3_q30",
+      "text": "Which type of clothes are preferred in summer?",
+      "options": ["Dark coloured woollen clothes", "Light coloured cotton clothes", "Dark coloured synthetic clothes", "Heavy silk clothes"],
+      "correctIndex": 1,
+      "explanation": "Light colours reflect heat, and cotton is breathable, keeping us cool.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s3_q31",
+      "text": "The lowest temperature on the Celsius scale is 0°C, which corresponds to the freezing point of water. What is the highest temperature on the Celsius scale?",
+      "options": ["37°C", "98.6°C", "100°C", "212°C"],
+      "correctIndex": 2,
+      "explanation": "100°C is the boiling point of water at standard atmospheric pressure.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s3_q32",
+      "text": "A bimetallic strip works on the principle of:",
+      "options": ["Conduction", "Convection", "Thermal expansion", "Radiation"],
+      "correctIndex": 2,
+      "explanation": "Different metals expand at different rates when heated, causing the strip to bend.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s3_q33",
+      "text": "Why are houses in hot climates often painted white?",
+      "options": ["To absorb more heat", "To reflect more heat", "To look aesthetically pleasing", "To attract sunlight"],
+      "correctIndex": 1,
+      "explanation": "White surfaces reflect sunlight, keeping the interior cooler.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s3_q34",
+      "text": "The instrument used to measure temperature is called a:",
+      "options": ["Barometer", "Anemometer", "Thermometer", "Hydrometer"],
+      "correctIndex": 2,
+      "explanation": "A thermometer measures temperature.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s3_q35",
+      "text": "Which of the following is a good conductor of electricity but a poor conductor of heat?",
+      "options": ["Copper", "Silver", "Graphite", "Wood"],
+      "correctIndex": 2,
+      "explanation": "Graphite (a form of carbon) conducts electricity well but is a relatively poor thermal conductor.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_s3_q36",
+      "text": "The process of heat transfer from a hot object to a cold object is always:",
+      "options": ["From cold to hot", "From hot to cold", "Random", "Only by radiation"],
+      "correctIndex": 1,
+      "explanation": "Heat naturally flows from higher temperature to lower temperature.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s3_q37",
+      "text": "What is the purpose of the vacuum in a thermos flask?",
+      "options": ["To prevent conduction and convection", "To prevent radiation", "To make it lighter", "To make it stronger"],
+      "correctIndex": 0,
+      "explanation": "Vacuum is an excellent insulator as it prevents heat transfer by conduction and convection.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s3_q38",
+      "text": "The shiny inner surface of a thermos flask helps to reduce heat transfer by:",
+      "options": ["Conduction", "Convection", "Radiation", "Evaporation"],
+      "correctIndex": 2,
+      "explanation": "Shiny surfaces are poor emitters and good reflectors of thermal radiation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s3_q39",
+      "text": "Which of these is an example of heat transfer by convection?",
+      "options": ["Heating a metal rod", "Sunlight warming the Earth", "Boiling water in a pot", "Ironing clothes"],
+      "correctIndex": 2,
+      "explanation": "Boiling water involves the movement of heated water particles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s3_q40",
+      "text": "The SI unit of heat energy is:",
+      "options": ["Calorie", "Joule", "Watt", "Kelvin"],
+      "correctIndex": 1,
+      "explanation": "Joule is the standard international unit for all forms of energy, including heat.",
+      "frequencyRating": 5
     }
   ]
 }

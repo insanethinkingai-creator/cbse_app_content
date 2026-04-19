@@ -7,84 +7,324 @@
   "version": "v1",
   "questions": [
     {
-      "id": "g7_civ_ch7_q1",
+      "id": "g7_c7_q1",
       "text": "A market that is held on a specific day of the week is called a:",
-      "options": ["Shopping Mall", "Weekly Market", "Wholesale Market", "Departmental Store"],
+      "options": ["Permanent shop", "Weekly market", "Shopping mall", "Supermarket"],
       "correctIndex": 1,
-      "explanation": "Weekly markets do not have permanent shops and are usually cheaper because they don't have high overhead costs.",
+      "explanation": "Weekly markets do not have permanent shops; traders set up stalls for the day and close in the evening.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch7_q2",
+      "id": "g7_c7_q2",
       "text": "Why are things often cheaper in weekly markets?",
-      "options": ["They are of poor quality", "Shops don't pay rent, electricity, or taxes", "The government pays for them", "They are sold only to friends"],
+      "options": ["They are bad quality", "Traders don't have to pay permanent shop expenses like rent and electricity", "The government pays for them", "Traders give them for free"],
       "correctIndex": 1,
-      "explanation": "Because these are temporary setups, the owners save on the costs that permanent shop owners have to pay.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g7_civ_ch7_q3",
-      "text": "Shops in our neighborhood are useful because:",
-      "options": ["They are near our home", "We can go there on any day", "The buyer and seller know each other", "All of these"],
-      "correctIndex": 3,
-      "explanation": "Neighborhood shops provide convenience and often allow people to buy goods on credit.",
+      "explanation": "Shop owners in permanent buildings have many expenses that weekly market traders avoid.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch7_q4",
-      "text": "Large multi-storied air-conditioned buildings with shops on different floors are known as:",
-      "options": ["Weekly markets", "Neighborhood shops", "Shopping Malls", "Wholesale godowns"],
+      "id": "g7_c7_q3",
+      "text": "In weekly markets, most members of the ________ help the traders.",
+      "options": ["Police", "Government", "Family", "Bank"],
       "correctIndex": 2,
-      "explanation": "Malls sell both branded and non-branded goods and are primarily located in urban areas.",
+      "explanation": "Weekly market traders usually don't hire workers, saving on labour costs.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch7_q5",
-      "text": "The series of markets that are connected like links in a chain is called a:",
-      "options": ["Wholesale chain", "Chain of markets", "Market circle", "Trading link"],
+      "id": "g7_c7_q4",
+      "text": "A major advantage of a weekly market is that ________.",
+      "options": ["It is very far", "Most things you need are available in one place", "It is open at night only", "It only sells cars"],
       "correctIndex": 1,
-      "explanation": "Products move from the producer to the wholesaler and finally to the consumer through this chain.",
+      "explanation": "Whether it's vegetables, groceries, or utensils, you can find them all together.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch7_q6",
-      "text": "The person who buys goods in large quantities from producers and sells them to other traders is a:",
-      "options": ["Retailer", "Consumer", "Wholesale trader", "Hawker"],
-      "correctIndex": 2,
-      "explanation": "The wholesale trader acts as an intermediary between the producer and the local retailer.",
+      "id": "g7_c7_q5",
+      "text": "Shops in our neighbourhood are useful because ________.",
+      "options": ["They are far away", "They are open on all days and close to our homes", "They are very big malls", "They only sell toys"],
+      "correctIndex": 1,
+      "explanation": "We can go there at any time during the week and they are usually reachable on foot.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch7_q7",
+      "id": "g7_c7_q6",
+      "text": "In neighbourhood shops, the buyer and seller usually ________ each other.",
+      "options": ["Hate", "Know", "Don't talk to", "Fight"],
+      "correctIndex": 1,
+      "explanation": "This familiarity often allows buyers to get goods on credit.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c7_q7",
+      "text": "What does 'buying on credit' mean?",
+      "options": ["Paying with a credit card only", "Paying for the goods at a later date", "Getting a discount", "Buying extra things"],
+      "correctIndex": 1,
+      "explanation": "Local shopkeepers often allow regular customers to pay after some time (e.g., at the end of the month).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c7_q8",
+      "text": "Large multi-storeyed air-conditioned buildings with shops on different floors are called:",
+      "options": ["Weekly markets", "Malls", "Neighbourhood shops", "Stalls"],
+      "correctIndex": 1,
+      "explanation": "Shopping malls usually sell both branded and non-branded goods and are common in urban areas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c7_q9",
+      "text": "Branded goods are often ________ compared to non-branded ones.",
+      "options": ["Cheaper", "Expensive", "Same price", "Free"],
+      "correctIndex": 1,
+      "explanation": "Advertising and better packaging make branded goods more costly.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c7_q10",
+      "text": "The people who stand between the producer and the final consumer are the:",
+      "options": ["Drivers", "Traders", "Police", "Teachers"],
+      "correctIndex": 1,
+      "explanation": "Traders buy goods from producers and sell them to consumers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c7_q11",
+      "text": "A ________ trader buys goods in large quantities.",
+      "options": ["Retail", "Wholesale", "Street", "Local"],
+      "correctIndex": 1,
+      "explanation": "Wholesale traders buy directly from the producer or big factories and sell to other traders.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c7_q12",
       "text": "The trader who finally sells the goods to the consumer is the:",
-      "options": ["Wholesaler", "Producer", "Retailer", "Agent"],
-      "correctIndex": 2,
-      "explanation": "A retailer could be a trader in a weekly market, a neighborhood hawker, or a shop owner in a mall.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g7_civ_ch7_q8",
-      "text": "Which of these is a way people buy things without going to a physical market?",
-      "options": ["Telemarketing", "Internet shopping", "Ordering over phone", "All of these"],
-      "correctIndex": 3,
-      "explanation": "Modern technology allows us to place orders and receive goods at our doorstep without visiting a market.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g7_civ_ch7_q9",
-      "text": "Markets also have a hierarchy where people with more ________ earn more profit.",
-      "options": ["Time", "Money (Capital)", "Education", "Family members"],
+      "options": ["Wholesaler", "Retailer", "Producer", "Factory owner"],
       "correctIndex": 1,
-      "explanation": "The small trader in a weekly market earns very little compared to the owner of a shop in a big mall.",
+      "explanation": "Retailers can be found in weekly markets, neighbourhood shops, or shopping malls.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c7_q13",
+      "text": "A 'Chain of Markets' starts from the ________ and ends with the ________.",
+      "options": ["Shop, Factory", "Producer, Consumer", "City, Village", "Road, Mall"],
+      "correctIndex": 1,
+      "explanation": "Goods travel through many hands before reaching the person who actually uses them.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c7_q14",
+      "text": "In the modern world, we can buy goods without ________.",
+      "options": ["Money", "Going to a marketplace (Online shopping)", "A phone", "Internet"],
+      "correctIndex": 1,
+      "explanation": "Orders can be placed via phone or internet, and items are delivered to our homes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c7_q15",
+      "text": "Medical representatives who visit doctors are also a form of ________.",
+      "options": ["Traders", "Producers", "Patients", "Drivers"],
+      "correctIndex": 0,
+      "explanation": "They are involved in the process of selling medicines, though they don't have a traditional 'shop'.",
       "frequencyRating": 3
     },
     {
-      "id": "g7_civ_ch7_q10",
-      "text": "Equality in the market is often missing because:",
-      "options": ["Small farmers earn very little", "Consumers always pay high prices", "All traders earn the same", "There are too many markets"],
-      "correctIndex": 0,
-      "explanation": "There is a huge difference between the earnings of different traders and the access poor people have to expensive markets.",
+      "id": "g7_c7_q16",
+      "text": "Which of these is NOT usually seen in a market?",
+      "options": ["Buying and selling", "Price negotiation", "Trading", "Construction of a new house"],
+      "correctIndex": 3,
+      "explanation": "While construction materials are bought in a market, the construction itself is a separate activity.",
       "frequencyRating": 4
+    },
+    {
+      "id": "g7_c7_q17",
+      "text": "There are markets for items like fertilizers and seeds that we ________.",
+      "options": ["See every day in the city", "May not even be aware of", "Only buy in malls", "Get for free"],
+      "correctIndex": 1,
+      "explanation": "Farmers use these items which are sold in specific wholesale markets that ordinary city dwellers rarely visit.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c7_q18",
+      "text": "The income of a weekly market trader is ________ compared to a shop owner in a mall.",
+      "options": ["Higher", "Much less", "Exactly the same", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "Small traders earn very little, while mall shop owners make huge profits.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c7_q19",
+      "text": "Markets also depend on the ________ level of the buyers.",
+      "options": ["Height", "Wealth/Income", "Weight", "Language"],
+      "correctIndex": 1,
+      "explanation": "Whether we buy from a weekly market or a mall depends largely on how much money we have.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c7_q20",
+      "text": "A 'Complex' in a city usually refers to ________.",
+      "options": ["A single hut", "A place with many shops in the same area", "A parking lot", "A forest"],
+      "correctIndex": 1,
+      "explanation": "Urban areas often have these specialized shopping zones.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c7_q21",
+      "text": "The main role of the 'Wholesaler' is to ________.",
+      "options": ["Sell to the user directly", "Store goods and sell to other traders", "Make the goods", "Arrest thieves"],
+      "correctIndex": 1,
+      "explanation": "They act as a bulk storage and supply point in the chain of markets.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c7_q22",
+      "text": "Weekly markets allow people to ________ to get a lower price.",
+      "options": ["Fight", "Bargain", "Wait for years", "Call the police"],
+      "correctIndex": 1,
+      "explanation": "Bargaining is common because many traders sell the same goods, creating competition.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c7_q23",
+      "text": "An example of goods sold in large quantities is ________.",
+      "options": ["A single pencil", "900 quintals of vegetables", "One toy", "Half a cup of tea"],
+      "correctIndex": 1,
+      "explanation": "Wholesale traders deal in massive volumes (quintals/tons) that a single consumer wouldn't need.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c7_q24",
+      "text": "Every city has several ________ areas.",
+      "options": ["Desert", "Wholesale market", "Frozen", "Submerged"],
+      "correctIndex": 1,
+      "explanation": "These are areas where goods first arrive and are then distributed to other traders.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c7_q25",
+      "text": "Which of these provides 'convenience' to the consumer?",
+      "options": ["Weekly market", "Neighbourhood shops", "A shop 50km away", "A closed shop"],
+      "correctIndex": 1,
+      "explanation": "Proximity to home and flexibility in timing and payment make them convenient.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c7_q26",
+      "text": "A 'Consumer' is a person who ________.",
+      "options": ["Sells goods", "Uses/buys the final product", "Manufactures goods", "Works in a bank"],
+      "correctIndex": 1,
+      "explanation": "The consumer is the final link in the economic chain.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c7_q27",
+      "text": "Why do mall shops have high prices?",
+      "options": ["To help the poor", "High rent, air-conditioning, and branding costs", "They don't want to sell anything", "The goods are old"],
+      "correctIndex": 1,
+      "explanation": "The luxurious setting and high operational costs are passed on to the customers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c7_q28",
+      "text": "A cloth merchant buys cloth from a ________.",
+      "options": ["Consumer", "Wholesaler or producer", "Local child", "Grocery shop"],
+      "correctIndex": 1,
+      "explanation": "He is part of the chain that brings clothing from the weaver to the wearer.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c7_q29",
+      "text": "Internet shopping uses ________ to buy products.",
+      "options": ["Old newspapers", "Digital payments and apps", "Only cash", "Wait for a year"],
+      "correctIndex": 1,
+      "explanation": "E-commerce has made markets accessible from anywhere.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c7_q30",
+      "text": "The weekly market trader's shop is ________.",
+      "options": ["A big building", "Temporary", "Underground", "In a palace"],
+      "correctIndex": 1,
+      "explanation": "They set up in the morning and pack up in the evening.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c7_q31",
+      "text": "Neighbourhood shops can be ________.",
+      "options": ["Permanent shops", "Roadside stalls like a vegetable hawker", "Both A and B", "Neither A nor B"],
+      "correctIndex": 2,
+      "explanation": "They include everything from a dairy to a fruit juice cart nearby.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c7_q32",
+      "text": "Bargaining is more likely to happen in a ________.",
+      "options": ["Mall", "Weekly market", "Showroom", "Online store"],
+      "correctIndex": 1,
+      "explanation": "Fixed prices are common in malls, whereas weekly markets allow for negotiation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c7_q33",
+      "text": "A 'Link' in the market chain refers to ________.",
+      "options": ["A metal chain", "A connection between different traders", "An internet URL only", "A bicycle part"],
+      "correctIndex": 1,
+      "explanation": "Each trader is a link that passes the product closer to the consumer.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c7_q34",
+      "text": "A 'Retailer' can be ________.",
+      "options": ["A hawker on a cycle", "A shopkeeper in a mall", "A local grocer", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Any person who sells directly to the consumer is a retailer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c7_q35",
+      "text": "Is there inequality in markets?",
+      "options": ["No, everyone is equal", "Yes, in terms of earnings and access", "Only for children", "Only in villages"],
+      "correctIndex": 1,
+      "explanation": "Big traders earn much more than small ones, and some people cannot afford mall prices.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c7_q36",
+      "text": "Advertising aims to make branded goods look ________.",
+      "options": ["Ugly", "Better and more stylish", "Cheap", "Old"],
+      "correctIndex": 1,
+      "explanation": "This increases demand and justifies the higher price tag.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c7_q37",
+      "text": "Farmers often buy their supplies in ________ markets.",
+      "options": ["Fancy city malls", "Wholesale markets for seeds/fertilizers", "Toy shops", "Flower markets only"],
+      "correctIndex": 1,
+      "explanation": "These are specialized markets serving the agricultural sector.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c7_q38",
+      "text": "Weekly markets provide ________ for local producers to sell their goods.",
+      "options": ["Nothing", "An opportunity", "A burden", "A lock"],
+      "correctIndex": 1,
+      "explanation": "Small farmers and artisans use these markets to reach buyers directly.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c7_q39",
+      "text": "Which of these is a 'hidden' market activity?",
+      "options": ["A consumer buying milk", "A factory buying raw materials", "A trader selling to a retailer", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "Most buying and selling happens before a product ever reaches a retail shop shelf.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c7_q40",
+      "text": "Convenience, price, and choice are three factors why we ________.",
+      "options": ["Go to school", "Choose a particular market", "Sleep", "Run"],
+      "correctIndex": 1,
+      "explanation": "These factors determine where we decide to shop.",
+      "frequencyRating": 5
     }
   ]
 }

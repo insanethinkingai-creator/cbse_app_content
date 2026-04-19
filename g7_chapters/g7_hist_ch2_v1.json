@@ -1,0 +1,330 @@
+{
+  "id": "g7_hist_ch2",
+  "grade": "7",
+  "subject": "History",
+  "number": "2",
+  "title": "New Kings and Kingdoms",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_h2_q1",
+      "text": "What was the term used for big landlords or warrior chiefs by existing kings in the 7th century?",
+      "options": ["Rajas", "Samantas", "Pradhans", "Mahamatras"],
+      "correctIndex": 1,
+      "explanation": "Existing kings acknowledged warrior chiefs as samantas, expecting them to bring gifts and provide military support.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q2",
+      "text": "The Rashtrakutas were initially subordinate to the:",
+      "options": ["Cholas", "Chalukyas of Karnataka", "Pallavas", "Palas"],
+      "correctIndex": 1,
+      "explanation": "In the mid-8th century, Dantidurga, a Rashtrakuta chief, overthrew his Chalukya overlord.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q3",
+      "text": "The 'Hiranya-garbha' ritual was performed to:",
+      "options": ["Gain wealth", "Become a 'Kshatriya' even if not one by birth", "Win a war", "Celebrate a birth"],
+      "correctIndex": 1,
+      "explanation": "Literally meaning the 'golden womb', this ritual symbolized the rebirth of the sacrificer as a Kshatriya.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q4",
+      "text": "Which of these Brahmanas gave up their traditional professions to establish kingdoms?",
+      "options": ["Mayurasharman and Harichandra", "Dantidurga and Rajaraja", "Nagabhata and Prithviraj", "None of the above"],
+      "correctIndex": 0,
+      "explanation": "Kadamba Mayurasharman (Karnataka) and Gurjara-Pratihara Harichandra (Rajasthan) successfully established kingdoms.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h2_q5",
+      "text": "What was the 'vetti' tax under the Cholas?",
+      "options": ["Land revenue", "Forced labour", "Tax on trade", "Cattle tax"],
+      "correctIndex": 1,
+      "explanation": "Vetti was a tax taken not in cash but in the form of forced labour.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q6",
+      "text": "The inscriptions of the Cholas refer to more than ________ terms for different kinds of taxes.",
+      "options": ["100", "200", "400", "500"],
+      "correctIndex": 2,
+      "explanation": "The Chola empire had a highly organized and detailed taxation system.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h2_q7",
+      "text": "Prashastis were composed by:",
+      "options": ["Peasants", "Learned Brahmanas", "Foreign travelers", "Soldiers"],
+      "correctIndex": 1,
+      "explanation": "Prashastis contained details that might not be literally true but showed how rulers wanted to depict themselves.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q8",
+      "text": "Who was the author of the long Sanskrit poem containing the history of kings of Kashmir?",
+      "options": ["Kalhana", "Banabhatta", "Bilhana", "Kalidasa"],
+      "correctIndex": 0,
+      "explanation": "Kalhana's 'Rajatarangini' was unusual because it was critical about rulers and their policies.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q9",
+      "text": "The 'tripartite struggle' was fought over the city of:",
+      "options": ["Delhi", "Kanauj", "Pataliputra", "Madurai"],
+      "correctIndex": 1,
+      "explanation": "The Gurjara-Pratihara, Rashtrakuta, and Pala dynasties fought for centuries for control over Kanauj.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q10",
+      "text": "Sultan Mahmud of Ghazni was from:",
+      "options": ["Iran", "Afghanistan", "Turkey", "Saudi Arabia"],
+      "correctIndex": 1,
+      "explanation": "Mahmud of Ghazni raided the subcontinent 17 times to plunder wealth from wealthy temples.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q11",
+      "text": "Which famous temple was raided by Mahmud of Ghazni?",
+      "options": ["Konark", "Somnath", "Meenakshi", "Tanjavur"],
+      "correctIndex": 1,
+      "explanation": "The Somnath temple in Gujarat was a major target of Mahmud's raids.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q12",
+      "text": "Who wrote 'Kitab al-Hind'?",
+      "options": ["Al-Biruni", "Ibn Battuta", "Minhaj-i-Siraj", "Amir Khusrau"],
+      "correctIndex": 0,
+      "explanation": "Al-Biruni was commissioned by Sultan Mahmud to write an account of the subcontinent.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q13",
+      "text": "The Chahamanas, later known as Chauhans, ruled over the region around:",
+      "options": ["Kanauj", "Delhi and Ajmer", "Gwalior", "Jodhpur"],
+      "correctIndex": 1,
+      "explanation": "The Chauhans attempted to expand their control and clashed with the Chalukyas and Gahadavalas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q14",
+      "text": "Prithviraja III defeated the Afghan ruler Sultan Muhammad Ghori in:",
+      "options": ["1191", "1192", "1206", "1526"],
+      "correctIndex": 0,
+      "explanation": "He defeated Ghori in the first battle of Tarain in 1191 but lost to him the very next year.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q15",
+      "text": "The Chola dynasty was founded by ________ who captured Tanjavur.",
+      "options": ["Rajaraja I", "Rajendra I", "Vijayalaya", "Aditya Chola"],
+      "correctIndex": 2,
+      "explanation": "Vijayalaya, from the ancient family of the Cholas from Uraiyur, captured the Kaveri delta.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q16",
+      "text": "Which Chola ruler built the temple of Brihadishvara at Tanjavur?",
+      "options": ["Vijayalaya", "Rajaraja I", "Rajendra I", "Kulottunga"],
+      "correctIndex": 1,
+      "explanation": "Rajaraja I was the most powerful Chola ruler and a great builder of temples.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q17",
+      "text": "The Chola king who developed a powerful navy and raided Southeast Asia was:",
+      "options": ["Rajaraja I", "Rajendra I", "Vijayalaya", "Parantaka I"],
+      "correctIndex": 1,
+      "explanation": "Rajendra I expanded the empire and launched naval expeditions across the Bay of Bengal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q18",
+      "text": "Chola temples were not only places of worship but also hubs of:",
+      "options": ["Economic, social and cultural life", "Military training", "Political debate", "Only religious rituals"],
+      "correctIndex": 0,
+      "explanation": "Temples were nuclei of settlements and centers of craft production, including bronze images.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q19",
+      "text": "The most distinctive craft associated with Chola temples was the making of:",
+      "options": ["Stone sculptures", "Bronze images", "Silk garments", "Terracotta pottery"],
+      "correctIndex": 1,
+      "explanation": "Chola bronze images are considered amongst the finest in the world.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q20",
+      "text": "The settlements of peasants in the Chola empire were known as:",
+      "options": ["Nadu", "Ur", "Sabha", "Grama"],
+      "correctIndex": 1,
+      "explanation": "Ur were settlements of peasants that became prosperous with irrigation agriculture.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q21",
+      "text": "Groups of villages in the Chola empire formed larger units called:",
+      "options": ["Ur", "Nadu", "Sabha", "Muvendavelan"],
+      "correctIndex": 1,
+      "explanation": "The Nadu performed administrative functions including justice and tax collection.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q22",
+      "text": "The land given to Brahmanas was known as:",
+      "options": ["Brahmadeya", "Vellanvagai", "Shalabhoga", "Devadana"],
+      "correctIndex": 0,
+      "explanation": "As a result of brahmadeya, large numbers of Brahmana settlements emerged in the Kaveri valley.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q23",
+      "text": "The assembly of prominent Brahmana landholders was called the:",
+      "options": ["Ur", "Sabha", "Nadu", "Nagaram"],
+      "correctIndex": 1,
+      "explanation": "The Sabha looked after the affairs of the brahmadeya and recorded its decisions in inscriptions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q24",
+      "text": "Associations of traders were known as:",
+      "options": ["Ur", "Sabha", "Nadu", "Nagarams"],
+      "correctIndex": 3,
+      "explanation": "Nagarams occasionally performed administrative functions in towns.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h2_q25",
+      "text": "Detailed inscriptions from ________ provide information on the organization of the Sabha.",
+      "options": ["Tanjavur", "Uttiramerur", "Uraiyur", "Madurai"],
+      "correctIndex": 1,
+      "explanation": "Inscriptions from Uttiramerur in Tamil Nadu describe how the Sabha was organized and how members were chosen.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q26",
+      "text": "How were members of the Sabha committees chosen?",
+      "options": ["By the King", "By birth", "By lottery (tickets in a pot)", "By open voting"],
+      "correctIndex": 2,
+      "explanation": "Names of eligible persons were written on palm leaf tickets and put into a pot; a young boy then picked them.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q27",
+      "text": "What was 'Shalabhoga'?",
+      "options": ["Land for temples", "Land for the maintenance of a school", "Land for Brahmanas", "Land for Jain institutions"],
+      "correctIndex": 1,
+      "explanation": "Shalabhoga was one of the five categories of land mentioned in Chola inscriptions.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_h2_q28",
+      "text": "Rich peasants of the ________ caste exercised considerable control over the Nadu.",
+      "options": ["Vellala", "Brahmana", "Kshatriya", "Vaishya"],
+      "correctIndex": 0,
+      "explanation": "The Vellala peasants were supervised by the central Chola government.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h2_q29",
+      "text": "Titles like 'Muvendavelan' were given to:",
+      "options": ["Kings", "Brahmanas", "Rich landowners who served three kings", "Foreign ambassadors"],
+      "correctIndex": 2,
+      "explanation": "These titles were marks of respect given by Chola kings to rich landowners.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h2_q30",
+      "text": "The Rashtrakutas rose to power in which region?",
+      "options": ["Deccan", "Bengal", "Rajasthan", "Tamil Nadu"],
+      "correctIndex": 0,
+      "explanation": "They became the primary power in the Deccan after overthrowing the Chalukyas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q31",
+      "text": "Which clan did Nagabhata belong to?",
+      "options": ["Chola", "Rashtrakuta", "Gurjara-Pratihara", "Pala"],
+      "correctIndex": 2,
+      "explanation": "Nagabhata was a famous king whose achievements were recorded in a Gwalior prashasti.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h2_q32",
+      "text": "The Tang dynasty ruled in:",
+      "options": ["India", "China", "Iran", "Cambodia"],
+      "correctIndex": 1,
+      "explanation": "The Tang dynasty in China remained in power for about 300 years.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_h2_q33",
+      "text": "Maharaja-adhiraja means:",
+      "options": ["Great king, overlord of kings", "Servant of the people", "Friend of the gods", "Lord of the universe"],
+      "correctIndex": 0,
+      "explanation": "New kings often took high-sounding titles to assert their authority.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h2_q34",
+      "text": "Resources for the state were collected from:",
+      "options": ["Producers (peasants, cattle-keepers, artisans)", "Only the rich", "Foreigners", "The king's family"],
+      "correctIndex": 0,
+      "explanation": "Producers were often persuaded or compelled to surrender part of what they produced as 'rent'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q35",
+      "text": "Who was the founder of the Pala dynasty?",
+      "options": ["Dharmapala", "Gopala", "Devapala", "Mahipala"],
+      "correctIndex": 1,
+      "explanation": "Gopala founded the Pala dynasty, which ruled mainly over Bengal.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h2_q36",
+      "text": "In the Chola administration, the royal orders were recorded by the:",
+      "options": ["Scribes", "Brahmanas", "Olai", "Samantas"],
+      "correctIndex": 2,
+      "explanation": "Olai was the designation of the officer who recorded royal oral orders.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_h2_q37",
+      "text": "The land for Jain institutions was called:",
+      "options": ["Devadana", "Pallichchhandam", "Shalabhoga", "Brahmadeya"],
+      "correctIndex": 1,
+      "explanation": "Pallichchhandam is a term found in Chola inscriptions for Jain land grants.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_h2_q38",
+      "text": "Which dynasty was involved in the tripartite struggle from the East?",
+      "options": ["Rashtrakutas", "Gurjara-Pratiharas", "Palas", "Cholas"],
+      "correctIndex": 2,
+      "explanation": "The Palas ruled from Bengal in the East.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q39",
+      "text": "Temple of Gangaikondacholapuram was built by:",
+      "options": ["Rajaraja I", "Rajendra I", "Vijayalaya", "Kulottunga"],
+      "correctIndex": 1,
+      "explanation": "Rajendra I built this temple to celebrate his victory in the North (Ganges expedition).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h2_q40",
+      "text": "The main purpose of the military raids of rulers during this period was to:",
+      "options": ["Spread religion", "Capture more subjects", "Acquire wealth, especially in the form of temple treasures", "Build maps"],
+      "correctIndex": 2,
+      "explanation": "Rulers targeted temples because they were centers of immense wealth.",
+      "frequencyRating": 5
+    }
+  ]
+}

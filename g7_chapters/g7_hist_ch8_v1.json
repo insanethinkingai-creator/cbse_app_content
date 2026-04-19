@@ -1,0 +1,330 @@
+{
+  "id": "g7_hist_ch8",
+  "grade": "7",
+  "subject": "History",
+  "number": "8",
+  "title": "Eighteenth-Century Political Formations",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_h8_q1",
+      "text": "Which Mughal Emperor's death in 1707 marked the beginning of the decline of the empire?",
+      "options": ["Akbar", "Shah Jahan", "Aurangzeb", "Bahadur Shah Zafar"],
+      "correctIndex": 2,
+      "explanation": "Aurangzeb's long war in the Deccan exhausted the military and financial resources of the empire.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q2",
+      "text": "The 'Sayyid Brothers' were known as ________ during the later Mughal period.",
+      "options": ["Peacemakers", "King-makers", "Warriors", "Traders"],
+      "correctIndex": 1,
+      "explanation": "They controlled several emperors and wielded significant power in the court.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q3",
+      "text": "Nadir Shah, the ruler of Iran, invaded Delhi in:",
+      "options": ["1707", "1739", "1757", "1761"],
+      "correctIndex": 1,
+      "explanation": "He plundered the city and took away immense wealth, including the Peacock Throne.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q4",
+      "text": "Who was the Afghan ruler who invaded North India five times between 1748 and 1761?",
+      "options": ["Nadir Shah", "Ahmad Shah Abdali", "Genghis Khan", "Timur"],
+      "correctIndex": 1,
+      "explanation": "His invasions further weakened the already fragile Mughal Empire.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q5",
+      "text": "Burhan-ul-Mulk Sa'adat Khan was the founder of which state?",
+      "options": ["Hyderabad", "Awadh", "Bengal", "Punjab"],
+      "correctIndex": 1,
+      "explanation": "He was appointed subadar of Awadh in 1722 and built a strong state.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q6",
+      "text": "The state of Hyderabad was founded by:",
+      "options": ["Murshid Quli Khan", "Asaf Jah", "Saadat Khan", "Safdar Jung"],
+      "correctIndex": 1,
+      "explanation": "Nizam-ul-Mulk Asaf Jah was one of the most powerful members at the court of Emperor Farrukh Siyar.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q7",
+      "text": "The revenue farmers in Awadh were known as:",
+      "options": ["Zamindars", "Ijaradars", "Jagirdars", "Mansabdars"],
+      "correctIndex": 1,
+      "explanation": "The state sold the right to collect tax to these highest bidders.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h8_q8",
+      "text": "Murshid Quli Khan broke the Mughal control in Bengal by:",
+      "options": ["Invasion", "Transferring all Mughal jagirdars to Orissa", "Refusing to pay tribute", "Killing the Emperor"],
+      "correctIndex": 1,
+      "explanation": "He ordered a major reassessment of the revenues of Bengal to secure his power.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q9",
+      "text": "Which bank became extremely prosperous in Bengal during the reign of Alivardi Khan?",
+      "options": ["State Bank", "Jagat Seth", "Saadat Bank", "Asaf Bank"],
+      "correctIndex": 1,
+      "explanation": "The banking house of Jagat Seth became influential due to the state's dependence on them for revenue.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h8_q10",
+      "text": "The 'Watan Jagirs' of the Rajputs were:",
+      "options": ["Land given by the British", "Ancestral estates enjoyed without much Mughal interference", "New lands conquered in war", "Religious land grants"],
+      "correctIndex": 1,
+      "explanation": "Many Rajput kings, especially of Amber and Jodhpur, held these high positions under the Mughals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q11",
+      "text": "Raja Sawai Jai Singh of Amber founded his new capital at:",
+      "options": ["Jodhpur", "Jaipur", "Udaipur", "Bikaner"],
+      "correctIndex": 1,
+      "explanation": "He was given the subadari of Agra in 1722.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q12",
+      "text": "Under whose leadership did the Sikhs organize themselves into a political community?",
+      "options": ["Guru Nanak", "Guru Arjan", "Guru Gobind Singh", "Maharaja Ranjit Singh"],
+      "correctIndex": 2,
+      "explanation": "He inspired the Khalsa with the belief that their destiny was to rule (Raj Karega Khalsa).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q13",
+      "text": "The 'Rakhi' system introduced by the Sikhs offered protection to cultivators in exchange for a tax of:",
+      "options": ["10% of produce", "20% of produce", "50% of produce", "No tax"],
+      "correctIndex": 1,
+      "explanation": "This system helped the Sikhs consolidate their power over a large territory.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h8_q14",
+      "text": "The combined grand army of the Sikhs was known as:",
+      "options": ["Misls", "Dal Khalsa", "Jathas", "Sardars"],
+      "correctIndex": 1,
+      "explanation": "The Dal Khalsa used to meet at Amritsar during Baisakhi and Diwali.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q15",
+      "text": "Who was the Sikh leader who reunited the various misls and established his capital at Lahore in 1799?",
+      "options": ["Banda Bahadur", "Ranjit Singh", "Guru Gobind Singh", "Kapur Singh"],
+      "correctIndex": 1,
+      "explanation": "He was a powerful ruler who expanded the Sikh kingdom significantly.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q16",
+      "text": "Shivaji carved out a stable kingdom with the support of powerful warrior families called:",
+      "options": ["Deshmukhs", "Kunbis", "Peshwas", "Sardars"],
+      "correctIndex": 0,
+      "explanation": "Deshmukhs were influential local leaders in the Maharashtra region.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q17",
+      "text": "The backbone of the Maratha army was the group of highly mobile peasant-pastoralists called:",
+      "options": ["Jats", "Kunbis", "Silahdars", "Paiks"],
+      "correctIndex": 1,
+      "explanation": "Their mobility and knowledge of the terrain were crucial for guerrilla warfare.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q18",
+      "text": "The 'Peshwas' were the ________ of the Maratha state.",
+      "options": ["Priests", "Chief Ministers", "General", "Kings"],
+      "correctIndex": 1,
+      "explanation": "The Peshwas became the effective rulers of the Maratha Empire after Shivaji's successors.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q19",
+      "text": "Which Maratha tax was 25% of the land revenue claimed by zamindars?",
+      "options": ["Sardeshmukhi", "Chauth", "Zakat", "Jizya"],
+      "correctIndex": 1,
+      "explanation": "Chauth was collected from non-Maratha territories in exchange for protection from raids.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q20",
+      "text": "Sardeshmukhi was an additional levy of ________ of the land revenue.",
+      "options": ["5%", "9-10%", "25%", "50%"],
+      "correctIndex": 1,
+      "explanation": "It was paid to the head revenue collector (Sardeshmukh) in the Deccan.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h8_q21",
+      "text": "The Marathas were defeated in the Third Battle of Panipat in:",
+      "options": ["1526", "1556", "1761", "1857"],
+      "correctIndex": 2,
+      "explanation": "This defeat halted their expansion towards Delhi and North India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q22",
+      "text": "Which Jat leader built the fort at Deeg and established a powerful state around Bharatpur?",
+      "options": ["Churaman", "Suraj Mal", "Badan Singh", "Jawahir Shah"],
+      "correctIndex": 1,
+      "explanation": "Under Suraj Mal, the Jat state emerged as a strong political power.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q23",
+      "text": "The city of Hyderabad constanty struggled against the ________ to the west.",
+      "options": ["Mughals", "Marathas", "British", "French"],
+      "correctIndex": 1,
+      "explanation": "The Marathas were a constant threat to the expansion and stability of Hyderabad.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h8_q24",
+      "text": "What were the 'Misls' in Sikh history?",
+      "options": ["Taxes", "Warrior bands/groups", "Religious books", "Trading guilds"],
+      "correctIndex": 1,
+      "explanation": "There were 12 misls, each under its own chief, which later united under Ranjit Singh.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q25",
+      "text": "The Jats were prosperous agriculturists, and towns like ________ became important trading centers.",
+      "options": ["Delhi and Agra", "Panipat and Ballabhgarh", "Jaipur and Jodhpur", "Lucknow and Varanasi"],
+      "correctIndex": 1,
+      "explanation": "The stability provided by the Jat rulers allowed these areas to flourish.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_h8_q26",
+      "text": "The term 'Subadar' refers to:",
+      "options": ["A soldier", "A provincial governor", "A court poet", "A merchant"],
+      "correctIndex": 1,
+      "explanation": "Subadars controlled both political and financial administration of a province.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q27",
+      "text": "Which Mughal Emperor was blinded by his own nobles?",
+      "options": ["Ahmad Shah", "Shah Alam II", "Farrukh Siyar", "Both A and B"],
+      "correctIndex": 3,
+      "explanation": "The later Mughal emperors were often puppets or victims of powerful noble factions.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_h8_q28",
+      "text": "The 'Chauth' and 'Sardeshmukhi' taxes were mainly collected by the:",
+      "options": ["Mughals", "Marathas", "Sikhs", "Jats"],
+      "correctIndex": 1,
+      "explanation": "These taxes were central to the Maratha financial and military strategy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q29",
+      "text": "The capital of the Maratha kingdom was shifted to ________ by the Peshwas.",
+      "options": ["Satara", "Pune", "Nagpur", "Gwalior"],
+      "correctIndex": 1,
+      "explanation": "Pune became the administrative heart of the Maratha Empire under the Peshwas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q30",
+      "text": "Banda Bahadur was captured and executed in:",
+      "options": ["1707", "1715", "1739", "1761"],
+      "correctIndex": 1,
+      "explanation": "He led a major revolt against the Mughals after the death of Guru Gobind Singh.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h8_q31",
+      "text": "The Marathas developed a successful military organization by avoiding ________.",
+      "options": ["Night battles", "Pitched battles with the Mughal army", "Guerrilla warfare", "Using horses"],
+      "correctIndex": 1,
+      "explanation": "They preferred raiding and hitting the supply lines of the large Mughal armies.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h8_q32",
+      "text": "Which community occupied the territory between Delhi and Agra during the Mughal decline?",
+      "options": ["Sikhs", "Jats", "Rajputs", "Marathas"],
+      "correctIndex": 1,
+      "explanation": "The Jats consolidated their power in the strategic region near the capital.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h8_q33",
+      "text": "The title 'Nizam-ul-Mulk' was held by the founder of:",
+      "options": ["Awadh", "Bengal", "Hyderabad", "Carnatic"],
+      "correctIndex": 2,
+      "explanation": "It literally means 'Administrator of the Realm'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q34",
+      "text": "During the 18th century, the Mughals' authority was primarily challenged by:",
+      "options": ["Foreign invasions", "Revolts by peasants and zamindars", "Powerful governors (Nawabs)", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "A combination of internal and external factors led to the fragmentation of the empire.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q35",
+      "text": "The 'Peacock Throne' was carried away by:",
+      "options": ["Ahmad Shah Abdali", "Nadir Shah", "Robert Clive", "Mahadji Scindia"],
+      "correctIndex": 1,
+      "explanation": "It was one of the many treasures looted from Delhi in 1739.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q36",
+      "text": "The revenue reassessment in Bengal led to many zamindars having to:",
+      "options": ["Pay in gold", "Borrow money from bankers and moneylenders", "Leave the country", "Join the army"],
+      "correctIndex": 1,
+      "explanation": "This increased the influence of the merchant-banking class in the state's politics.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_h8_q37",
+      "text": "Maratha expansion into Rajasthan and Bengal happened between:",
+      "options": ["1700-1720", "1720-1761", "1761-1800", "1800-1850"],
+      "correctIndex": 1,
+      "explanation": "This was the period of their greatest territorial expansion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h8_q38",
+      "text": "The Sikh territory in the late 18th century extended from:",
+      "options": ["Indus to the Jamuna", "Delhi to Calcutta", "Lahore to Kabul", "Amritsar to Srinagar"],
+      "correctIndex": 0,
+      "explanation": "They controlled most of the Punjab region before Maharaja Ranjit Singh's reign.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h8_q39",
+      "text": "The Jats reached their zenith of power under:",
+      "options": ["Churaman", "Suraj Mal", "Jawahir Singh", "Badan Singh"],
+      "correctIndex": 1,
+      "explanation": "Suraj Mal is remembered as a wise and powerful statesman.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q40",
+      "text": "By the end of the 18th century, which power was emerging as a major political force in India?",
+      "options": ["The Mughals", "The French", "The British (English East India Company)", "The Portuguese"],
+      "correctIndex": 2,
+      "explanation": "The political vacuum created by the Mughal decline was eventually filled by the British.",
+      "frequencyRating": 5
+    }
+  ]
+}

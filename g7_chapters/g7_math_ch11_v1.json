@@ -8,82 +8,322 @@
   "questions": [
     {
       "id": "g7_m11_q1",
-      "text": "What is the value of 3⁴?",
-      "options": ["12", "81", "27", "64"],
-      "correctIndex": 1,
-      "explanation": "3 to the power of 4 means 3 multiplied by itself 4 times: 3 × 3 × 3 × 3 = 81.",
-      "frequencyRating": 4
+      "text": "In the expression 10^4, 10 is the:",
+      "options": ["Exponent", "Power", "Base", "Constant"],
+      "correctIndex": 2,
+      "explanation": "The number being multiplied repeatedly is the base.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m11_q2",
-      "text": "Any non-zero number raised to the power of 0 is equal to:",
-      "options": ["0", "The number itself", "1", "-1"],
+      "text": "In the expression 10^4, 4 is the:",
+      "options": ["Base", "Power", "Exponent", "Numerical value"],
       "correctIndex": 2,
-      "explanation": "According to the laws of exponents, a⁰ = 1 for any non-zero integer a.",
+      "explanation": "The number of times the base is multiplied is the exponent.",
       "frequencyRating": 5
     },
     {
       "id": "g7_m11_q3",
-      "text": "Express 10,000 in exponential form with base 10.",
-      "options": ["10²", "10³", "10⁴", "10⁵"],
+      "text": "The value of 2^3 is:",
+      "options": ["6", "5", "8", "9"],
       "correctIndex": 2,
-      "explanation": "10,000 has four zeros, so it is 10 × 10 × 10 × 10 = 10⁴.",
-      "frequencyRating": 4
+      "explanation": "2 * 2 * 2 = 8.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m11_q4",
-      "text": "Simplify: aᵐ × aⁿ",
-      "options": ["aᵐ⁺ⁿ", "aᵐ⁻ⁿ", "aᵐⁿ", "aᵐ/ⁿ"],
-      "correctIndex": 0,
-      "explanation": "When multiplying powers with the same base, we add the exponents.",
+      "text": "Any non-zero number raised to the power 0 is:",
+      "options": ["0", "1", "The number itself", "Undefined"],
+      "correctIndex": 1,
+      "explanation": "Law of exponents: a^0 = 1 for a ≠ 0.",
       "frequencyRating": 5
     },
     {
       "id": "g7_m11_q5",
-      "text": "What is the value of (-1)¹⁰⁰⁰?",
-      "options": ["1", "-1", "1000", "0"],
+      "text": "Simplify: a^m × a^n",
+      "options": ["a^(m+n)", "a^(m-n)", "a^(mn)", "a^m + a^n"],
       "correctIndex": 0,
-      "explanation": "-1 raised to any even power results in positive 1.",
-      "frequencyRating": 4
+      "explanation": "When multiplying bases, add the exponents.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m11_q6",
-      "text": "Simplify: (2²)³",
-      "options": ["2⁵", "2⁶", "2⁸", "2¹"],
+      "text": "Simplify: a^m ÷ a^n (where m > n)",
+      "options": ["a^(m+n)", "a^(m-n)", "a^(mn)", "a^(m/n)"],
       "correctIndex": 1,
-      "explanation": "Power of a power rule: (aᵐ)ⁿ = aᵐⁿ. So, (2²)³ = 2²ˣ³ = 2⁶.",
+      "explanation": "When dividing bases, subtract the exponents.",
       "frequencyRating": 5
     },
     {
       "id": "g7_m11_q7",
-      "text": "Which is greater: 2³ or 3²?",
-      "options": ["2³", "3²", "They are equal", "Cannot compare"],
-      "correctIndex": 1,
-      "explanation": "2³ = 8 and 3² = 9. Therefore, 3² is greater.",
-      "frequencyRating": 4
+      "text": "Simplify: (a^m)^n",
+      "options": ["a^(m+n)", "a^(m-n)", "a^(mn)", "a^m^n"],
+      "correctIndex": 2,
+      "explanation": "Power of a power involves multiplying exponents.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m11_q8",
-      "text": "Write 5.9 × 10³ in usual form.",
-      "options": ["590", "5900", "59000", "0.0059"],
+      "text": "The value of (-1)^even number is:",
+      "options": ["-1", "1", "0", "None"],
       "correctIndex": 1,
-      "explanation": "Multiplying by 10³ moves the decimal three places to the right: 5.9 -> 5900.",
-      "frequencyRating": 4
+      "explanation": "Negative base with even exponent results in positive value.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m11_q9",
-      "text": "Simplify: 2⁵ ÷ 2³",
-      "options": ["2⁸", "2²", "2¹⁵", "2¹"],
-      "correctIndex": 1,
-      "explanation": "When dividing powers with the same base, we subtract the exponents: 5 - 3 = 2.",
+      "text": "The value of (-1)^odd number is:",
+      "options": ["-1", "1", "0", "None"],
+      "correctIndex": 0,
+      "explanation": "Negative base with odd exponent results in negative value.",
       "frequencyRating": 5
     },
     {
       "id": "g7_m11_q10",
-      "text": "The standard form of 12345 is:",
-      "options": ["12.345 × 10³", "1.2345 × 10⁴", "123.45 × 10²", "1.2345 × 10⁵"],
+      "text": "Express 64 as a power of 2.",
+      "options": ["2^4", "2^5", "2^6", "2^8"],
+      "correctIndex": 2,
+      "explanation": "2*2*2*2*2*2 = 64.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m11_q11",
+      "text": "Which is greater: 2^3 or 3^2?",
+      "options": ["2^3", "3^2", "Both equal", "Cannot say"],
       "correctIndex": 1,
-      "explanation": "Standard form requires a number between 1 and 10 multiplied by a power of 10.",
+      "explanation": "2^3 = 8, 3^2 = 9. So 9 > 8.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m11_q12",
+      "text": "Standard form of 5985.3 is:",
+      "options": ["5.9853 × 10³", "59.853 × 10²", "5.9853 × 10⁴", "0.59853 × 10⁴"],
+      "correctIndex": 0,
+      "explanation": "Decimal moves 3 places left.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m11_q13",
+      "text": "Simplify: 2^5 × 2^3",
+      "options": ["2^15", "2^8", "4^8", "2^2"],
+      "correctIndex": 1,
+      "explanation": "5 + 3 = 8.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m11_q14",
+      "text": "Simplify: 10^10 ÷ 10^8",
+      "options": ["10^18", "10^2", "100", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "10^(10-8) = 10^2 = 100.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m11_q15",
+      "text": "Value of (5^2)^3 is:",
+      "options": ["5^5", "5^6", "5^8", "15,625"],
+      "correctIndex": 1,
+      "explanation": "2 * 3 = 6. 5^6 = 15625.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m11_q16",
+      "text": "Simplify: 2^3 × 3^3",
+      "options": ["6^3", "6^9", "5^3", "6^6"],
+      "correctIndex": 0,
+      "explanation": "Law: a^m * b^m = (ab)^m. (2*3)^3 = 6^3.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m11_q17",
+      "text": "Value of 1^100 is:",
+      "options": ["100", "1", "0", "10"],
+      "correctIndex": 1,
+      "explanation": "1 multiplied by itself any number of times is always 1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m11_q18",
+      "text": "Value of (-2)^4 is:",
+      "options": ["-16", "16", "8", "-8"],
+      "correctIndex": 1,
+      "explanation": "(-2)*(-2)*(-2)*(-2) = 16. Power is even.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m11_q19",
+      "text": "Value of (-3)^3 is:",
+      "options": ["27", "-27", "-9", "9"],
+      "correctIndex": 1,
+      "explanation": "(-3)*(-3)*(-3) = -27. Power is odd.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m11_q20",
+      "text": "Express 10,00,000 in exponential form.",
+      "options": ["10^5", "10^6", "10^7", "10^4"],
+      "correctIndex": 1,
+      "explanation": "There are 6 zeros.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m11_q21",
+      "text": "Standard form of 0.00007 (conceptual context):",
+      "options": ["7 × 10^-5", "7 × 10^5", "0.7 × 10^-4", "None"],
+      "correctIndex": 0,
+      "explanation": "Moving decimal to the right involves negative powers of 10.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_m11_q22",
+      "text": "Simplify: (2^0 + 3^0) × 4^0",
+      "options": ["0", "1", "2", "3"],
+      "correctIndex": 2,
+      "explanation": "(1 + 1) * 1 = 2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m11_q23",
+      "text": "Value of 10^3 × 10^2 is:",
+      "options": ["1,00,000", "10^6", "10^5", "Both A and C"],
+      "correctIndex": 3,
+      "explanation": "10^(3+2) = 10^5 = 1,00,000.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m11_q24",
+      "text": "If 2^x = 32, then x is:",
+      "options": ["4", "5", "6", "16"],
+      "correctIndex": 1,
+      "explanation": "2^5 = 32.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m11_q25",
+      "text": "Which of the following is correct?",
+      "options": ["a^m + a^n = a^(m+n)", "a^m × a^n = a^(m+n)", "a^m × b^n = (ab)^(m+n)", "a^m / b^m = (a/b)^0"],
+      "correctIndex": 1,
+      "explanation": "Product rule for exponents.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m11_q26",
+      "text": "Value of 125 as a power of 5 is:",
+      "options": ["5^2", "5^3", "5^4", "25^1"],
+      "correctIndex": 1,
+      "explanation": "5 * 5 * 5 = 125.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m11_q27",
+      "text": "Expand: (a/b)^m",
+      "options": ["a^m / b", "a / b^m", "a^m / b^m", "ab^m"],
+      "correctIndex": 2,
+      "explanation": "Power applies to both numerator and denominator.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m11_q28",
+      "text": "Which of these is the largest?",
+      "options": ["2^10", "10^2", "5^4", "2^5"],
+      "correctIndex": 0,
+      "explanation": "2^10 = 1024, 10^2 = 100, 5^4 = 625.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m11_q29",
+      "text": "Evaluate: 3^4 / 3^4",
+      "options": ["3", "0", "1", "81"],
+      "correctIndex": 2,
+      "explanation": "Any non-zero number divided by itself is 1 (or 3^(4-4) = 3^0 = 1).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m11_q30",
+      "text": "What is the base in -5^2?",
+      "options": ["-5", "5", "2", "-25"],
+      "correctIndex": 1,
+      "explanation": "In -5^2, only 5 is squared, then negated. For -5 to be base, it must be (-5)^2.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_m11_q31",
+      "text": "Simplify: 12^4 × 9^3 × 4 / (6^3 × 8^2 × 27) (simplified form)",
+      "options": ["2", "3", "1", "0"],
+      "correctIndex": 2,
+      "explanation": "Converting all to prime bases and cancelling reveals the result is 1.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_m11_q32",
+      "text": "Standard form of 3,18,65,00,000 is:",
+      "options": ["3.1865 × 10^7", "3.1865 × 10^9", "31.865 × 10^8", "3.1865 × 10^10"],
+      "correctIndex": 1,
+      "explanation": "Count decimal shifts: 9 places to reach 3.18...",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m11_q33",
+      "text": "Express 729 as a power of 3.",
+      "options": ["3^4", "3^5", "3^6", "3^7"],
+      "correctIndex": 2,
+      "explanation": "3^6 = 729.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m11_q34",
+      "text": "Value of 0^5 is:",
+      "options": ["1", "0", "5", "Undefined"],
+      "correctIndex": 1,
+      "explanation": "Zero multiplied by itself is zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m11_q35",
+      "text": "Simplify: (2^5 / 2^8)^5 × 2^-5 (conceptual higher)",
+      "options": ["2^0", "2^-20", "2^10", "None"],
+      "correctIndex": 1,
+      "explanation": "(2^-3)^5 * 2^-5 = 2^-15 * 2^-5 = 2^-20.",
+      "frequencyRating": 1
+    },
+    {
+      "id": "g7_m11_q36",
+      "text": "Exponential form of 'a × a × a × b × b' is:",
+      "options": ["3a + 2b", "a^3 b^2", "a^2 b^3", "ab^5"],
+      "correctIndex": 1,
+      "explanation": "Count occurrences of each base.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m11_q37",
+      "text": "If the exponent is 1, the value is:",
+      "options": ["1", "The base itself", "0", "Undefined"],
+      "correctIndex": 1,
+      "explanation": "a^1 = a.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m11_q38",
+      "text": "Simplify: 10^2 × 10^5",
+      "options": ["10^10", "10^7", "100^7", "10^3"],
+      "correctIndex": 1,
+      "explanation": "Add exponents: 2 + 5 = 7.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m11_q39",
+      "text": "Which law allows us to write (2*3)^4 as 2^4 * 3^4?",
+      "options": ["Product rule", "Quotient rule", "Power of a product rule", "Power of a power rule"],
+      "correctIndex": 2,
+      "explanation": "(ab)^m = a^m * b^m.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m11_q40",
+      "text": "Value of 10^3 is:",
+      "options": ["30", "300", "1000", "100"],
+      "correctIndex": 2,
+      "explanation": "10 * 10 * 10 = 1000.",
       "frequencyRating": 5
     }
   ]

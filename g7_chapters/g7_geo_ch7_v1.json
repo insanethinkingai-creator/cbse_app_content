@@ -1,0 +1,330 @@
+{
+  "id": "g7_geo_ch7",
+  "grade": "7",
+  "subject": "Geography",
+  "number": "7",
+  "title": "Life in the Deserts",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_g7_q1",
+      "text": "A desert is an arid region characterized by:",
+      "options": ["High rainfall", "Low rainfall and scanty vegetation", "Dense forests", "Moderate temperatures"],
+      "correctIndex": 1,
+      "explanation": "Deserts receive very little rain and have extreme temperatures.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q2",
+      "text": "The world's largest hot desert is the:",
+      "options": ["Thar", "Gobi", "Sahara", "Kalahari"],
+      "correctIndex": 2,
+      "explanation": "The Sahara covers a large part of North Africa.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q3",
+      "text": "The Sahara desert touches how many countries?",
+      "options": ["5", "8", "11", "15"],
+      "correctIndex": 2,
+      "explanation": "It covers Algeria, Chad, Egypt, Libya, Mali, Mauritania, Morocco, Niger, Sudan, Tunisia, and Western Sahara.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q4",
+      "text": "The climate of the Sahara desert is:",
+      "options": ["Cold and wet", "Scorching hot and parched dry", "Pleasant throughout the year", "Humid"],
+      "correctIndex": 1,
+      "explanation": "It has a short rainy season and temperatures can soar as high as 50°C during the day.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q5",
+      "text": "During the night, temperatures in the Sahara can fall to nearly:",
+      "options": ["20°C", "10°C", "0°C", "-20°C"],
+      "correctIndex": 2,
+      "explanation": "The lack of moisture in the air causes the sand to lose heat rapidly at night.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q6",
+      "text": "Vegetation in the Sahara includes:",
+      "options": ["Teak and Sal", "Cactus, date palms and acacia", "Pine and Fir", "Mangroves"],
+      "correctIndex": 1,
+      "explanation": "These plants are adapted to survive with very little water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q7",
+      "text": "A green island with water and trees in a desert is called a/an:",
+      "options": ["Plateau", "Oasis", "Island", "Peak"],
+      "correctIndex": 1,
+      "explanation": "Oases are formed when groundwater reaches the surface in depressions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q8",
+      "text": "Which of these animals is NOT common in the Sahara?",
+      "options": ["Camel", "Hyena", "Polar Bear", "Scorpion"],
+      "correctIndex": 2,
+      "explanation": "Polar bears live in the Arctic regions, not in hot deserts.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q9",
+      "text": "The Bedouins and Tuaregs are:",
+      "options": ["Animals", "Plants", "Nomadic tribes of the Sahara", "Oases names"],
+      "correctIndex": 2,
+      "explanation": "They are nomadic groups who rear livestock for milk, leather, and hair.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q10",
+      "text": "The discovery of ________ is constantly transforming the landscape of the Sahara.",
+      "options": ["Gold", "Oil", "Coal", "Copper"],
+      "correctIndex": 1,
+      "explanation": "Oil in Algeria, Libya, and Egypt has significantly changed the region's economy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q11",
+      "text": "Ladakh is a ________ desert in the Himalayas.",
+      "options": ["Hot", "Cold", "Coastal", "Wet"],
+      "correctIndex": 1,
+      "explanation": "It is located in the Great Himalayas on the eastern side of Jammu and Kashmir.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q12",
+      "text": "Ladakh is also known as 'Khapa-chan', which means:",
+      "options": ["Land of high passes", "Snow land", "High plateau", "Cold land"],
+      "correctIndex": 1,
+      "explanation": "The term refers to the vast, snow-covered landscape of the region.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q13",
+      "text": "The altitude in Ladakh varies from about 3,000 m in Kargil to more than ________ m in Karakoram.",
+      "options": ["4,000", "5,000", "8,000", "10,000"],
+      "correctIndex": 2,
+      "explanation": "The high altitude makes the air so thin that the sun's heat can be felt intensely.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g7_q14",
+      "text": "The main river flowing through Ladakh is the:",
+      "options": ["Ganga", "Brahmaputra", "Indus", "Yamuna"],
+      "correctIndex": 2,
+      "explanation": "The Indus and its tributaries are the lifelines of this cold desert.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q15",
+      "text": "The climate of Ladakh is extremely:",
+      "options": ["Hot and dry", "Cold and dry", "Hot and wet", "Cold and wet"],
+      "correctIndex": 1,
+      "explanation": "Due to high altitude and being in the rain shadow of the Himalayas, it receives very little rain.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q16",
+      "text": "Night temperatures in Ladakh in winter can fall below:",
+      "options": ["0°C", "-10°C", "-20°C", "-40°C"],
+      "correctIndex": 3,
+      "explanation": "Winters are severely cold, and the region remains frozen for several months.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q17",
+      "text": "Which of these birds are common in Ladakh?",
+      "options": ["Robins, Redstarts and Ravens", "Toucans and Parrots", "Ostriches", "Penguins"],
+      "correctIndex": 0,
+      "explanation": "Many of these birds are migratory birds seen during the summer.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g7_q18",
+      "text": "The 'Chiru' or the Tibetan Antelope is hunted for its wool known as:",
+      "options": ["Cashmere", "Shahtoosh", "Angora", "Pashmina"],
+      "correctIndex": 1,
+      "explanation": "Shahtoosh wool is extremely light and very warm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q19",
+      "text": "The people of Ladakh are primarily:",
+      "options": ["Hindus and Sikhs", "Muslims and Buddhists", "Christians", "Jains"],
+      "correctIndex": 1,
+      "explanation": "Ladakh has several famous Buddhist monasteries like Hemis and Thiksey.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q20",
+      "text": "Buddhist monasteries in Ladakh are known as:",
+      "options": ["Temples", "Gompas", "Mosques", "Churches"],
+      "correctIndex": 1,
+      "explanation": "Gompas are traditional centers of learning and worship for Buddhists.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q21",
+      "text": "In summer, people of Ladakh are busy cultivating:",
+      "options": ["Rice", "Barley, potatoes and peas", "Sugar cane", "Cotton"],
+      "correctIndex": 1,
+      "explanation": "Agriculture is possible only during the short summer when ice melts.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g7_q22",
+      "text": "The capital of Ladakh is:",
+      "options": ["Srinagar", "Leh", "Shimla", "Manali"],
+      "correctIndex": 1,
+      "explanation": "Leh is well connected by road and air to the rest of the country.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q23",
+      "text": "The National Highway 1A connects Leh to Kashmir Valley through the ________ pass.",
+      "options": ["Rohtang", "Zoji La", "Nathu La", "Shipki La"],
+      "correctIndex": 1,
+      "explanation": "This pass is a crucial link through the high mountain ranges.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q24",
+      "text": "Tourism is a major activity in Ladakh because of:",
+      "options": ["Visits to Gompas", "Treks to see meadows and glaciers", "Watching ceremonies and festivities", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "The unique culture and natural beauty attract tourists from all over the world.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q25",
+      "text": "Due to scarcity of resources, the people of Ladakh have learned to live in ________ with nature.",
+      "options": ["Conflict", "Balance and harmony", "Ignorance", "Dependency"],
+      "correctIndex": 1,
+      "explanation": "They are very careful with resources like water and fuel and waste nothing.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q26",
+      "text": "Hemis, Thiksey, Shey and Lamayuru are famous ________ in Ladakh.",
+      "options": ["Rivers", "Monasteries", "Mountains", "Deserts"],
+      "correctIndex": 1,
+      "explanation": "These monasteries are significant cultural landmarks of Ladakh.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g7_q27",
+      "text": "The Tafilalet Oasis in Morocco is a huge oasis covering ________ sq. km.",
+      "options": ["1,000", "5,000", "13,000", "50,000"],
+      "correctIndex": 2,
+      "explanation": "It is one of the largest and most famous oases in the Sahara.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_g7_q28",
+      "text": "Which of these crops is famous in Egypt and grown near the Nile?",
+      "options": ["Egyptian Coffee", "Egyptian Cotton", "Egyptian Tea", "Egyptian Silk"],
+      "correctIndex": 1,
+      "explanation": "Egyptian cotton is world-famous for its high quality.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q29",
+      "text": "The wood of which tree in Ladakh is used to make the finest cricket bats?",
+      "options": ["Pine", "Willow", "Oak", "Teak"],
+      "correctIndex": 1,
+      "explanation": "Willow trees grow in the valleys of Ladakh and Kashmir.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q30",
+      "text": "Which animal provides milk, meat, and hair for making tents in the Sahara?",
+      "options": ["Lion", "Goats, sheep and camels", "Elephants", "Zebra"],
+      "correctIndex": 1,
+      "explanation": "Nomadic tribes depend heavily on these livestock for their survival.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g7_q31",
+      "text": "The Sahara once used to be a ________ plain.",
+      "options": ["Lush green", "Frozen", "Volcanic", "Submerged"],
+      "correctIndex": 0,
+      "explanation": "Cave paintings in the Sahara show that it was once a fertile region with rivers and wildlife.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g7_q32",
+      "text": "Drass, one of the coldest inhabited places on earth, is located in:",
+      "options": ["Siberia", "Antarctica", "Ladakh", "Norway"],
+      "correctIndex": 2,
+      "explanation": "Drass often records some of the lowest temperatures in the Indian subcontinent.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q33",
+      "text": "Which glacier is found in Ladakh?",
+      "options": ["Gangotri", "Yamunotri", "Gangri", "Siachen"],
+      "correctIndex": 2,
+      "explanation": "Several glaciers, such as the Gangri glacier, are found in the mountain ranges of Ladakh.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_g7_q34",
+      "text": "Deserts can be either ________ or ________ depending on the temperature.",
+      "options": ["Wet, Dry", "Hot, Cold", "High, Low", "Small, Large"],
+      "correctIndex": 1,
+      "explanation": "Deserts are categorized by their extreme temperature conditions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q35",
+      "text": "The 'Yak' is a domesticated animal in Ladakh used for:",
+      "options": ["Milk and cheese", "Transportation", "Hair for rugs and woolens", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "The Yak is extremely important to the economy and daily life of Ladakhis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q36",
+      "text": "Life is difficult in deserts because of the:",
+      "options": ["Lack of internet", "Shortage of water and extreme climate", "Too many animals", "Dense forests"],
+      "correctIndex": 1,
+      "explanation": "Finding water and managing extreme heat or cold are the primary challenges.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g7_q37",
+      "text": "Nomads in the Sahara use ________ for clothing as protection against dust storms.",
+      "options": ["Cotton t-shirts", "Heavy robes", "Silk sarees", "Raincoats"],
+      "correctIndex": 1,
+      "explanation": "Heavy robes protect them from the sun, heat, and blowing sand.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g7_q38",
+      "text": "The Manali-Leh highway crosses four passes. Which of these is NOT one of them?",
+      "options": ["Rohtang La", "Baralacha La", "Nathu La", "Tanglang La"],
+      "correctIndex": 2,
+      "explanation": "Nathu La is in Sikkim, whereas the others are on the Manali-Leh route.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g7_q39",
+      "text": "In Ladakh, the summer season begins in:",
+      "options": ["January", "May", "July", "October"],
+      "correctIndex": 1,
+      "explanation": "May to August is the time when the region is accessible and agriculture is possible.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_g7_q40",
+      "text": "Which mineral is found in the Sahara in addition to oil?",
+      "options": ["Iron and Phosphorus", "Manganese and Uranium", "Both A and B", "Neither A nor B"],
+      "correctIndex": 2,
+      "explanation": "The Sahara is rich in several industrial minerals.",
+      "frequencyRating": 3
+    }
+  ]
+}

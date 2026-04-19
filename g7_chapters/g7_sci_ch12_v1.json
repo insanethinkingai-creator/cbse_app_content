@@ -9,72 +9,322 @@
     {
       "id": "g7_s12_q1",
       "text": "The branchy part of a tree above the stem is known as the:",
-      "options": ["Canopy", "Crown", "Trunk", "Understorey"],
+      "options": ["Canopy", "Crown", "Understorey", "Trunk"],
       "correctIndex": 1,
-      "explanation": "The crown of the tree varies in shape and size across different species."
+      "explanation": "Crowns can have different shapes and sizes for different trees.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s12_q2",
-      "text": "The rooftop of the forest formed by tall trees is called the:",
-      "options": ["Canopy", "Understorey", "Forest floor", "Humus"],
-      "correctIndex": 0,
-      "explanation": "The canopy acts like an umbrella, shading the forest floor from direct sunlight and rain."
+      "text": "The roof-like covering formed by the branches of tall trees in a forest is the:",
+      "options": ["Crown", "Canopy", "Understorey", "Sky"],
+      "correctIndex": 1,
+      "explanation": "Tall trees act like a roof over the other plants in the forest.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s12_q3",
-      "text": "Organisms that feed on dead plants and animals and convert them into humus are:",
-      "options": ["Producers", "Autotrophs", "Decomposers", "Carnivores"],
+      "text": "The different horizontal layers in a forest are known as:",
+      "options": ["Slabs", "Stages", "Understoreys", "Floors"],
       "correctIndex": 2,
-      "explanation": "Decomposers like fungi and bacteria play a vital role in recycling nutrients."
+      "explanation": "Giant trees form the top layer, followed by shrubs, tall grasses, and herbs.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s12_q4",
-      "text": "Forests are called 'green lungs' because they:",
-      "options": ["Provide shade", "Maintain oxygen-carbon dioxide balance", "Bring rain", "Prevent soil erosion"],
-      "correctIndex": 1,
-      "explanation": "Plants release oxygen through photosynthesis and consume carbon dioxide."
+      "text": "Forests are often called 'Green ________' of nature.",
+      "options": ["Lungs", "Heart", "Skin", "Eyes"],
+      "correctIndex": 0,
+      "explanation": "Plants release oxygen through photosynthesis, which helps animals to breathe.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s12_q5",
-      "text": "Which of the following is NOT a forest product?",
-      "options": ["Gum", "Plywood", "Sealing wax", "Kerosene"],
-      "correctIndex": 3,
-      "explanation": "Kerosene is a petroleum product, not derived from trees."
+      "text": "Organisms that feed on dead plants and animals are:",
+      "options": ["Producers", "Autotrophs", "Decomposers", "Parasites"],
+      "correctIndex": 2,
+      "explanation": "Decomposers include fungi and bacteria that turn waste into humus.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s12_q6",
-      "text": "The dark-colored substance produced by decomposers is called:",
-      "options": ["Sand", "Humus", "Clay", "Pollen"],
+      "text": "A dark-colored substance formed by the action of decomposers is:",
+      "options": ["Manure", "Humus", "Fertilizer", "Clay"],
       "correctIndex": 1,
-      "explanation": "Humus makes the soil fertile and provides nutrients to the plants."
+      "explanation": "Humus makes the soil fertile and rich in nutrients.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s12_q7",
-      "text": "Which layer of the forest is just below the canopy?",
-      "options": ["Forest floor", "Understorey", "Root zone", "Atmosphere"],
-      "correctIndex": 1,
-      "explanation": "The understorey is formed by smaller trees and shrubs growing beneath the tall canopy."
+      "text": "The sequence of who eats whom in a forest is called a:",
+      "options": ["Food map", "Food cycle", "Food chain", "Food net"],
+      "correctIndex": 2,
+      "explanation": "Example: Grass -> Insects -> Frog -> Snake -> Eagle.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s12_q8",
-      "text": "Forests prevent floods by:",
-      "options": ["Stopping the wind", "Absorbing rainwater", "Releasing oxygen", "Hosting animals"],
+      "text": "Forests maintain the balance between ________ and ________ in the atmosphere.",
+      "options": ["Oxygen, Nitrogen", "Oxygen, Carbon dioxide", "Nitrogen, Carbon dioxide", "Hydrogen, Oxygen"],
       "correctIndex": 1,
-      "explanation": "Trees and forest soil act as a natural absorber, allowing water to seep into the ground."
+      "explanation": "Plants take in CO2 and release O2, balancing animal respiration.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s12_q9",
-      "text": "A sequence of organisms where one eats another is called a:",
-      "options": ["Water cycle", "Food chain", "Oxygen cycle", "Food web"],
+      "text": "How do forests prevent floods?",
+      "options": ["By blocking water", "By acting as a natural absorber of rainwater", "By evaporating water", "By stopping rain"],
       "correctIndex": 1,
-      "explanation": "An example is: Grass -> Insects -> Frog -> Snake -> Eagle."
+      "explanation": "Forests slow down the flow of rainwater and allow it to seep into the ground.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s12_q10",
-      "text": "Deforestation results in:",
-      "options": ["Increased oxygen", "Decreased earth temperature", "Increased carbon dioxide", "More rain"],
+      "text": "Forests help in maintaining the ________ cycle.",
+      "options": ["Rock", "Water", "Nitrogen", "Metal"],
+      "correctIndex": 1,
+      "explanation": "Transpiration from trees contributes to cloud formation and rain.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s12_q11",
+      "text": "Micro-organisms which convert dead plants and animals into humus are called:",
+      "options": ["Scavengers", "Decomposers", "Parasites", "Herbivores"],
+      "correctIndex": 1,
+      "explanation": "They play a vital role in recycling nutrients back into the soil.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s12_q12",
+      "text": "If forests disappear, the amount of ________ in the air will increase.",
+      "options": ["Oxygen", "Carbon dioxide", "Argon", "Helium"],
+      "correctIndex": 1,
+      "explanation": "Fewer trees mean less CO2 is absorbed, leading to global warming.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s12_q13",
+      "text": "Forests protect the soil from:",
+      "options": ["Fertility", "Erosion", "Humidity", "Sunlight"],
+      "correctIndex": 1,
+      "explanation": "Roots of trees bind the soil particles and prevent them from being washed away.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s12_q14",
+      "text": "Which of these is NOT a forest product?",
+      "options": ["Honey", "Sealing wax", "Kerosene", "Gum"],
       "correctIndex": 2,
-      "explanation": "Fewer trees mean more carbon dioxide remains in the air, leading to global warming."
+      "explanation": "Kerosene is a fossil fuel product, not obtained directly from forests.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s12_q15",
+      "text": "All food chains in a forest are:",
+      "options": ["Independent", "Interlinked", "Separated", "Short"],
+      "correctIndex": 1,
+      "explanation": "Interlinked food chains form a complex food web.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s12_q16",
+      "text": "Forest is a ________ living entity.",
+      "options": ["Static", "Dynamic", "Dead", "Artificial"],
+      "correctIndex": 1,
+      "explanation": "It is full of life and vitality, constantly growing and changing.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s12_q17",
+      "text": "Deforestation will lead to:",
+      "options": ["Increase in rainfall", "Soil erosion", "Better climate", "Increased biodiversity"],
+      "correctIndex": 1,
+      "explanation": "Cutting trees removes the protection for soil and habitat for animals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s12_q18",
+      "text": "Which part of the forest forms the lowest layer of vegetation?",
+      "options": ["Canopy", "Shrubs", "Herbs", "Crowns"],
+      "correctIndex": 2,
+      "explanation": "Herbs form the ground layer, whereas shrubs are the middle layer.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s12_q19",
+      "text": "Wild animals like tigers and elephants live in the:",
+      "options": ["Deep forest", "City outskirts", "Forest edges", "Only in zoos"],
+      "correctIndex": 0,
+      "explanation": "Forests provide them with shelter, food, and breeding grounds.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s12_q20",
+      "text": "What is the primary source of nutrients in a forest?",
+      "options": ["Fertilizers", "Decomposing matter", "Rainwater", "Rocks"],
+      "correctIndex": 1,
+      "explanation": "Dead leaves and animals decay to return nutrients to the soil.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s12_q21",
+      "text": "Forests help in decreasing the ________ of the earth.",
+      "options": ["Mass", "Temperature", "Orbit", "Shape"],
+      "correctIndex": 1,
+      "explanation": "Trees provide shade and absorb CO2, which helps reduce global warming.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s12_q22",
+      "text": "In a forest, no waste is generated because:",
+      "options": ["People clean it", "Everything is recycled by decomposers", "Animals eat everything", "It is always dry"],
+      "correctIndex": 1,
+      "explanation": "Decomposers turn all organic waste into nutrients (humus).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s12_q23",
+      "text": "Canopy and Understoreys provide ________ to animals.",
+      "options": ["Warmth", "Shelter and food", "Water", "Light"],
+      "correctIndex": 1,
+      "explanation": "They provide habitats for birds, insects, and mammals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s12_q24",
+      "text": "Plants are called ________ in a food chain.",
+      "options": ["Consumers", "Producers", "Decomposers", "Hunters"],
+      "correctIndex": 1,
+      "explanation": "They produce food using sunlight and are the base of every food chain.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s12_q25",
+      "text": "Mushrooms are a type of:",
+      "options": ["Plant", "Animal", "Decomposer (Fungus)", "Herb"],
+      "correctIndex": 2,
+      "explanation": "Mushrooms grow on dead and decaying matter, helping in decomposition.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s12_q26",
+      "text": "The availability of forests provides ________ to nearby human populations.",
+      "options": ["Medicines and wood", "Pollution", "Floods", "Drought"],
+      "correctIndex": 0,
+      "explanation": "Tribal communities and villagers depend on forests for many needs.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s12_q27",
+      "text": "Roots of trees help in increasing the ________ table.",
+      "options": ["Water", "Sand", "Metal", "Food"],
+      "correctIndex": 0,
+      "explanation": "Forests allow water to percolate and recharge ground water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s12_q28",
+      "text": "Forest floors are usually ________ with decaying matter.",
+      "options": ["Clean", "Dry", "Dark and moist", "Sandy"],
+      "correctIndex": 2,
+      "explanation": "The accumulation of leaves and twigs stays moist and decomposes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s12_q29",
+      "text": "Which of these animals is a decomposer?",
+      "options": ["Deer", "Lion", "Earthworm", "Eagle"],
+      "correctIndex": 2,
+      "explanation": "Earthworms help in breaking down organic matter in the soil.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s12_q30",
+      "text": "Increased CO2 levels in the atmosphere lead to:",
+      "options": ["Cooling", "Global warming", "More oxygen", "No change"],
+      "correctIndex": 1,
+      "explanation": "Carbon dioxide traps heat in the atmosphere.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s12_q31",
+      "text": "Every food chain starts with a:",
+      "options": ["Carnivore", "Herbivore", "Producer", "Decomposer"],
+      "correctIndex": 2,
+      "explanation": "Producers (plants) provide the energy for all other living things.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s12_q32",
+      "text": "Forests act as a natural ________ for noise pollution.",
+      "options": ["Amplifier", "Absorber", "Generator", "Mirror"],
+      "correctIndex": 1,
+      "explanation": "Large areas of trees can dampen sound and reduce noise from roads.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_s12_q33",
+      "text": "Tribal people traditionally live in and depend on:",
+      "options": ["Cities", "Forests", "Farms", "Deserts"],
+      "correctIndex": 1,
+      "explanation": "Forests provide them with all basic necessities like food, water, and shelter.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s12_q34",
+      "text": "The humus provides ________ to the growing plants.",
+      "options": ["Water", "Nutrients", "Air", "Protection"],
+      "correctIndex": 1,
+      "explanation": "It functions as a natural fertilizer.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s12_q35",
+      "text": "In a forest, if the number of carnivores decreases, the herbivore population will:",
+      "options": ["Decrease", "Increase", "Stay same", "Become zero"],
+      "correctIndex": 1,
+      "explanation": "Fewer predators means more herbivores survive and reproduce.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s12_q36",
+      "text": "Wood from forests is used to make:",
+      "options": ["Paper", "Furniture", "Fuel", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Wood is a versatile raw material obtained from forest trees.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s12_q37",
+      "text": "Canopies are more prominent in ________ forests.",
+      "options": ["Desert", "Tropical Rain", "Tundra", "Grassland"],
+      "correctIndex": 1,
+      "explanation": "Abundant rain and sunlight allow for very tall, branchy trees.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s12_q38",
+      "text": "Oxygen released by plants is a byproduct of:",
+      "options": ["Respiration", "Photosynthesis", "Transpiration", "Evaporation"],
+      "correctIndex": 1,
+      "explanation": "Plants split water molecules to produce oxygen during photosynthesis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s12_q39",
+      "text": "Deforestation ________ the likelihood of landslides in hilly areas.",
+      "options": ["Decreases", "Increases", "Has no effect on", "Stops"],
+      "correctIndex": 1,
+      "explanation": "Without tree roots to hold the soil, rain can easily cause soil to slide down.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s12_q40",
+      "text": "Which of these can happen if we cut too many trees?",
+      "options": ["Climate change", "Loss of habitat", "Shortage of forest products", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Forests are essential for planetary health and human survival.",
+      "frequencyRating": 5
     }
   ]
 }

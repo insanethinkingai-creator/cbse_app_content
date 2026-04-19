@@ -8,73 +8,323 @@
   "questions": [
     {
       "id": "g7_s2_q1",
-      "text": "Where does the process of digestion start in humans?",
-      "options": ["Stomach", "Food pipe", "Mouth", "Small intestine"],
-      "correctIndex": 2,
-      "explanation": "Digestion begins in the buccal cavity (mouth) where food is chewed and mixed with saliva."
+      "text": "The process of taking food into the body is called:",
+      "options": ["Digestion", "Absorption", "Assimilation", "Ingestion"],
+      "correctIndex": 3,
+      "explanation": "Ingestion is the first step of nutrition, where food is taken in.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s2_q2",
-      "text": "Bile juice is stored in a sac-like organ called the:",
-      "options": ["Liver", "Gall bladder", "Pancreas", "Stomach"],
+      "text": "The breaking down of complex food substances into simpler substances is called:",
+      "options": ["Ingestion", "Digestion", "Absorption", "Assimilation"],
       "correctIndex": 1,
-      "explanation": "Bile is produced by the liver and stored in the gall bladder until needed."
+      "explanation": "Digestion is the process of breaking down food mechanically and chemically.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s2_q3",
-      "text": "The largest gland in the human body is the:",
-      "options": ["Pancreas", "Liver", "Salivary gland", "Thyroid"],
-      "correctIndex": 1,
-      "explanation": "The liver is a reddish-brown gland situated in the upper part of the abdomen on the right side."
+      "text": "Which of the following animals chews its cud?",
+      "options": ["Dog", "Cat", "Cow", "Lion"],
+      "correctIndex": 2,
+      "explanation": "Cows are ruminants, meaning they regurgitate and re-chew their food (cud).",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s2_q4",
-      "text": "Amoeba captures its food with the help of:",
-      "options": ["Cilia", "Flagella", "Pseudopodia", "Tentacles"],
-      "correctIndex": 2,
-      "explanation": "Amoeba pushes out finger-like projections called pseudopodia or 'false feet' to capture prey."
+      "text": "The longest part of the alimentary canal is the:",
+      "options": ["Stomach", "Small intestine", "Large intestine", "Oesophagus"],
+      "correctIndex": 1,
+      "explanation": "The small intestine is several meters long, allowing for extensive absorption.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s2_q5",
-      "text": "Villi are finger-like outgrowths found in the inner walls of the:",
-      "options": ["Large intestine", "Small intestine", "Stomach", "Oesophagus"],
-      "correctIndex": 1,
-      "explanation": "Villi increase the surface area for the absorption of digested food."
+      "text": "Where does the digestion of carbohydrates begin?",
+      "options": ["Stomach", "Small intestine", "Mouth", "Large intestine"],
+      "correctIndex": 2,
+      "explanation": "Salivary amylase in the mouth starts the breakdown of starch.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s2_q6",
-      "text": "The main function of the large intestine is:",
-      "options": ["Digestion of proteins", "Absorption of water", "Digestion of fats", "Absorption of nutrients"],
-      "correctIndex": 1,
-      "explanation": "The large intestine absorbs water and some salts from the undigested food material."
+      "text": "Bile juice is secreted by the:",
+      "options": ["Stomach", "Pancreas", "Liver", "Gallbladder"],
+      "correctIndex": 2,
+      "explanation": "The liver produces bile, which is stored in the gallbladder and aids fat digestion.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s2_q7",
-      "text": "Ruminants are animals that:",
-      "options": ["Eat insects", "Chew cud", "Live in water", "Fly"],
-      "correctIndex": 1,
-      "explanation": "Ruminants like cows swallow grass quickly and later bring it back to the mouth to chew it."
+      "text": "Which of these organs absorbs water from undigested food?",
+      "options": ["Stomach", "Small intestine", "Large intestine", "Oesophagus"],
+      "correctIndex": 2,
+      "explanation": "The large intestine's primary role is to absorb water and form faeces.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s2_q8",
-      "text": "Saliva breaks down starch into:",
-      "options": ["Proteins", "Fats", "Sugars", "Vitamins"],
-      "correctIndex": 2,
-      "explanation": "The salivary amylase enzyme in saliva acts on starch and converts it into simpler sugars."
+      "text": "The finger-like projections in the inner wall of the small intestine are called:",
+      "options": ["Villi", "Cilia", "Pseudopodia", "Tentacles"],
+      "correctIndex": 0,
+      "explanation": "Villi increase the surface area for efficient absorption of digested food.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s2_q9",
-      "text": "The acid secreted in the stomach to kill bacteria is:",
-      "options": ["Sulfuric acid", "Hydrochloric acid", "Nitric acid", "Acetic acid"],
-      "correctIndex": 1,
-      "explanation": "Hydrochloric acid (HCl) kills many bacteria and creates an acidic medium for protein digestion."
+      "text": "The process of passing out undigested food from the body is called:",
+      "options": ["Digestion", "Absorption", "Assimilation", "Egestion"],
+      "correctIndex": 3,
+      "explanation": "Egestion (or defecation) is the final step of nutrition.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s2_q10",
-      "text": "Complete digestion of food takes place in the:",
-      "options": ["Stomach", "Small intestine", "Large intestine", "Mouth"],
+      "text": "Which acid is present in the stomach?",
+      "options": ["Sulphuric acid", "Nitric acid", "Hydrochloric acid", "Acetic acid"],
+      "correctIndex": 2,
+      "explanation": "Hydrochloric acid helps kill bacteria and provides an acidic medium for pepsin to act.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s2_q11",
+      "text": "Amoeba captures food using:",
+      "options": ["Tentacles", "Cilia", "Pseudopodia", "Mouth"],
+      "correctIndex": 2,
+      "explanation": "Pseudopodia are false feet used for movement and engulfing food particles.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s2_q12",
+      "text": "The process of converting absorbed food into body substances is called:",
+      "options": ["Digestion", "Absorption", "Assimilation", "Egestion"],
+      "correctIndex": 2,
+      "explanation": "Assimilation is the utilization of absorbed nutrients for growth and repair.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s2_q13",
+      "text": "Which of the following is a function of the tongue?",
+      "options": ["Digestion of fats", "Mixing food with saliva", "Absorption of water", "Secretion of bile"],
       "correctIndex": 1,
-      "explanation": "The small intestine receives secretions and completes the digestion of all components of food."
+      "explanation": "The tongue helps in tasting, speaking, and mixing food with saliva during chewing.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s2_q14",
+      "text": "The part of the digestive system that connects the mouth to the stomach is the:",
+      "options": ["Trachea", "Oesophagus", "Pharynx", "Larynx"],
+      "correctIndex": 1,
+      "explanation": "The oesophagus (food pipe) transports food via peristalsis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s2_q15",
+      "text": "Which enzyme digests proteins in the stomach?",
+      "options": ["Amylase", "Lipase", "Pepsin", "Trypsin"],
+      "correctIndex": 2,
+      "explanation": "Pepsin works in the acidic environment of the stomach to break down proteins.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s2_q16",
+      "text": "The largest gland in the human body is the:",
+      "options": ["Pancreas", "Thyroid", "Liver", "Adrenal"],
+      "correctIndex": 2,
+      "explanation": "The liver performs numerous vital functions, including bile production.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s2_q17",
+      "text": "The process of absorption of digested food mainly occurs in the:",
+      "options": ["Stomach", "Small intestine", "Large intestine", "Oesophagus"],
+      "correctIndex": 1,
+      "explanation": "The small intestine, with its villi, is the primary site for nutrient absorption.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s2_q18",
+      "text": "What is the role of saliva in digestion?",
+      "options": ["Digests fats", "Moistens food and starts carbohydrate digestion", "Absorbs water", "Kills bacteria"],
+      "correctIndex": 1,
+      "explanation": "Saliva contains water, mucus, and salivary amylase.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s2_q19",
+      "text": "The part of the digestive system where no digestion takes place is the:",
+      "options": ["Stomach", "Small intestine", "Oesophagus", "Mouth"],
+      "correctIndex": 2,
+      "explanation": "The oesophagus is a muscular tube for transport, not digestion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s2_q20",
+      "text": "Which of these is NOT a part of the human digestive system?",
+      "options": ["Liver", "Lungs", "Pancreas", "Stomach"],
+      "correctIndex": 1,
+      "explanation": "Lungs are part of the respiratory system.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s2_q21",
+      "text": "The temporary storage organ for food in ruminants is the:",
+      "options": ["Omasum", "Abomasum", "Rumen", "Reticulum"],
+      "correctIndex": 2,
+      "explanation": "The rumen is the first and largest stomach chamber where microbial digestion occurs.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s2_q22",
+      "text": "The process of swallowing food is called:",
+      "options": ["Chewing", "Peristalsis", "Deglutition", "Mastication"],
+      "correctIndex": 2,
+      "explanation": "Deglutition is the medical term for swallowing.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s2_q23",
+      "text": "Which of the following is a type of tooth used for cutting food?",
+      "options": ["Molars", "Premolars", "Canines", "Incisors"],
+      "correctIndex": 3,
+      "explanation": "Incisors are the sharp, front teeth used for biting and cutting.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s2_q24",
+      "text": "The outermost hard covering of a tooth is called:",
+      "options": ["Dentine", "Pulp", "Enamel", "Cementum"],
+      "correctIndex": 2,
+      "explanation": "Enamel is the hardest substance in the human body.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s2_q25",
+      "text": "The digestive juice that has no enzymes but helps in fat digestion is:",
+      "options": ["Saliva", "Gastric juice", "Pancreatic juice", "Bile juice"],
+      "correctIndex": 3,
+      "explanation": "Bile emulsifies fats, breaking them into smaller droplets for lipase to act upon.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s2_q26",
+      "text": "The final products of carbohydrate digestion are:",
+      "options": ["Fatty acids and glycerol", "Amino acids", "Glucose", "Vitamins"],
+      "correctIndex": 2,
+      "explanation": "Complex carbohydrates are broken down into simple sugars like glucose.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s2_q27",
+      "text": "The final products of protein digestion are:",
+      "options": ["Glucose", "Fatty acids and glycerol", "Amino acids", "Nucleotides"],
+      "correctIndex": 2,
+      "explanation": "Proteins are broken down into their building blocks, amino acids.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s2_q28",
+      "text": "The final products of fat digestion are:",
+      "options": ["Glucose", "Fatty acids and glycerol", "Amino acids", "Water"],
+      "correctIndex": 1,
+      "explanation": "Fats are broken down into fatty acids and glycerol.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s2_q29",
+      "text": "Which of the following is a gland associated with the human digestive system?",
+      "options": ["Thyroid gland", "Adrenal gland", "Salivary gland", "Pituitary gland"],
+      "correctIndex": 2,
+      "explanation": "Salivary glands produce saliva, which aids in digestion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s2_q30",
+      "text": "The process of chewing food is also known as:",
+      "options": ["Deglutition", "Peristalsis", "Mastication", "Rumination"],
+      "correctIndex": 2,
+      "explanation": "Mastication is the mechanical breakdown of food in the mouth.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s2_q31",
+      "text": "The wave-like movement of food through the oesophagus is called:",
+      "options": ["Digestion", "Peristalsis", "Absorption", "Egestion"],
+      "correctIndex": 1,
+      "explanation": "Peristalsis is the muscular contraction that propels food along the alimentary canal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s2_q32",
+      "text": "Which chamber of a cow's stomach is the 'true stomach' where most chemical digestion occurs?",
+      "options": ["Rumen", "Reticulum", "Omasum", "Abomasum"],
+      "correctIndex": 3,
+      "explanation": "The abomasum is analogous to the monogastric stomach in humans.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s2_q33",
+      "text": "The part of the small intestine where most chemical digestion occurs is the:",
+      "options": ["Duodenum", "Jejunum", "Ileum", "Colon"],
+      "correctIndex": 0,
+      "explanation": "The duodenum receives digestive juices from the pancreas and bile from the liver.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s2_q34",
+      "text": "What is the function of mucus in the stomach lining?",
+      "options": ["To digest food", "To absorb nutrients", "To protect the stomach wall from acid", "To produce enzymes"],
+      "correctIndex": 2,
+      "explanation": "Mucus forms a protective layer against the corrosive hydrochloric acid.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s2_q35",
+      "text": "Which of these is a herbivore?",
+      "options": ["Tiger", "Deer", "Bear", "Human"],
+      "correctIndex": 1,
+      "explanation": "Deer primarily consume plant matter.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s2_q36",
+      "text": "Which of these is an omnivore?",
+      "options": ["Lion", "Cow", "Human", "Rabbit"],
+      "correctIndex": 2,
+      "explanation": "Humans consume both plant and animal products.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s2_q37",
+      "text": "The process of breaking down food in the food vacuole of Amoeba is called:",
+      "options": ["Ingestion", "Digestion", "Egestion", "Absorption"],
+      "correctIndex": 1,
+      "explanation": "Enzymes within the food vacuole break down the engulfed food.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s2_q38",
+      "text": "The appendix in humans is considered a:",
+      "options": ["Vital organ", "Digestive organ", "Vestigial organ", "Respiratory organ"],
+      "correctIndex": 2,
+      "explanation": "A vestigial organ is one that has lost its original function through evolution.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s2_q39",
+      "text": "The role of the gallbladder is to:",
+      "options": ["Produce bile", "Store bile", "Digest proteins", "Absorb nutrients"],
+      "correctIndex": 1,
+      "explanation": "Bile is produced by the liver and stored in the gallbladder.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s2_q40",
+      "text": "Which of the following is a common passage for both food and air?",
+      "options": ["Oesophagus", "Trachea", "Pharynx", "Larynx"],
+      "correctIndex": 2,
+      "explanation": "The pharynx is the throat, serving both digestive and respiratory systems.",
+      "frequencyRating": 3
     }
   ]
 }

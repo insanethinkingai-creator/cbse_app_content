@@ -9,72 +9,322 @@
     {
       "id": "g7_s6_q1",
       "text": "The process of breakdown of food in the cell with the release of energy is called:",
-      "options": ["Breathing", "Photosynthesis", "Cellular respiration", "Digestion"],
-      "correctIndex": 2,
-      "explanation": "Cellular respiration takes place in the cells of all organisms to provide energy."
+      "options": ["Digestion", "Cellular respiration", "Excretion", "Circulation"],
+      "correctIndex": 1,
+      "explanation": "Cellular respiration takes place in the cells of all organisms to release energy from glucose.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s6_q2",
-      "text": "Respiration that uses oxygen is called:",
-      "options": ["Anaerobic", "Aerobic", "Fermentation", "Inhalation"],
+      "text": "When breakdown of glucose occurs with the use of oxygen, it is called:",
+      "options": ["Anaerobic respiration", "Aerobic respiration", "Fermentation", "Photosynthesis"],
       "correctIndex": 1,
-      "explanation": "Aerobic respiration breaks down glucose into carbon dioxide and water using oxygen."
+      "explanation": "Aerobic respiration uses oxygen to break down glucose into carbon dioxide and water.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s6_q3",
-      "text": "During heavy exercise, we get cramps in the legs due to the accumulation of:",
-      "options": ["Carbon dioxide", "Alcohol", "Lactic acid", "Water"],
-      "correctIndex": 2,
-      "explanation": "The partial breakdown of glucose in muscles during anaerobic respiration produces lactic acid."
+      "text": "Organisms like yeast that can survive in the absence of air are called:",
+      "options": ["Aerobes", "Anaerobes", "Parasites", "Saprophytes"],
+      "correctIndex": 1,
+      "explanation": "Anaerobes get energy through anaerobic respiration which does not require oxygen.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_s6_q4",
-      "text": "Yeast respires anaerobically to yield:",
-      "options": ["Water", "Oxygen", "Alcohol", "Sugar"],
-      "correctIndex": 2,
-      "explanation": "Yeast breaks down glucose into alcohol and carbon dioxide without using oxygen."
+      "text": "In anaerobic respiration, glucose breaks down into:",
+      "options": ["Alcohol and CO2", "Lactic acid only", "Water and CO2", "Oxygen and Energy"],
+      "correctIndex": 0,
+      "explanation": "Yeasts convert glucose into alcohol and carbon dioxide in the absence of oxygen.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s6_q5",
-      "text": "Cockroaches breathe through small openings on the sides of their body called:",
-      "options": ["Gills", "Lungs", "Spiracles", "Tracheae"],
+      "text": "During heavy exercise, we get cramps in the legs due to the accumulation of:",
+      "options": ["Carbon dioxide", "Alcohol", "Lactic acid", "Water"],
       "correctIndex": 2,
-      "explanation": "Spiracles lead to a network of air tubes called tracheae for gas exchange."
+      "explanation": "Partial breakdown of glucose in muscles during heavy exercise produces lactic acid, causing cramps.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s6_q6",
-      "text": "Earthworms breathe through their:",
-      "options": ["Skin", "Lungs", "Nose", "Gills"],
-      "correctIndex": 0,
-      "explanation": "The skin of an earthworm feels moist and slimy, allowing gases to pass through easily."
+      "text": "The number of times a person breathes in a minute is termed as the:",
+      "options": ["Pulse rate", "Heartbeat", "Breathing rate", "Respiratory rate"],
+      "correctIndex": 2,
+      "explanation": "On average, an adult human at rest breathes 15–18 times per minute.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s6_q7",
-      "text": "The large, muscular sheet that forms the floor of the chest cavity is the:",
-      "options": ["Rib cage", "Diaphragm", "Windpipe", "Bronchus"],
-      "correctIndex": 1,
-      "explanation": "The movement of the diaphragm and the rib cage helps in the process of breathing."
+      "text": "Taking in of air rich in oxygen into the body is called:",
+      "options": ["Inhalation", "Exhalation", "Respiration", "Diffusion"],
+      "correctIndex": 0,
+      "explanation": "Inhalation is the process of breathing in air containing oxygen.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s6_q8",
-      "text": "Exhaled air contains a higher percentage of:",
-      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Water vapor"],
+      "text": "Which part of the respiratory system is also known as the windpipe?",
+      "options": ["Nasal cavity", "Pharynx", "Trachea", "Lungs"],
       "correctIndex": 2,
-      "explanation": "During respiration, oxygen is consumed and carbon dioxide is produced as a byproduct."
+      "explanation": "The trachea is the tube that connects the pharynx and larynx to the lungs.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_s6_q9",
-      "text": "Fish breathe with the help of:",
-      "options": ["Skin", "Lungs", "Gills", "Spiracles"],
-      "correctIndex": 2,
-      "explanation": "Gills are projections of the skin that help fish use oxygen dissolved in water."
+      "text": "A large, muscular sheet which forms the floor of the chest cavity is called:",
+      "options": ["Ribs", "Diaphragm", "Lungs", "Sternum"],
+      "correctIndex": 1,
+      "explanation": "Breathing involves the movement of the diaphragm and the rib cage.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s6_q10",
-      "text": "During inhalation, the ribs move:",
-      "options": ["Downwards", "Upwards and outwards", "Inwards", "No movement"],
+      "text": "During inhalation, the diaphragm moves:",
+      "options": ["Upwards", "Downwards", "Left", "Does not move"],
       "correctIndex": 1,
-      "explanation": "Ribs move up and out to increase the space in the chest cavity, letting air rush into the lungs."
+      "explanation": "During inhalation, the ribs move up and out and the diaphragm moves down to increase space in the chest cavity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s6_q11",
+      "text": "During exhalation, the ribs move:",
+      "options": ["Upwards", "Downwards and inwards", "Outwards", "Up and out"],
+      "correctIndex": 1,
+      "explanation": "Exhalation involves the ribs moving down and inwards while the diaphragm moves up.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s6_q12",
+      "text": "The percentage of oxygen in exhaled air is approximately:",
+      "options": ["21%", "16.4%", "0.04%", "4.4%"],
+      "correctIndex": 1,
+      "explanation": "Inhaled air has 21% oxygen, while exhaled air has about 16.4% oxygen.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s6_q13",
+      "text": "Cockroaches breathe through small openings on the sides of their body called:",
+      "options": ["Gills", "Spiracles", "Tracheae", "Skin"],
+      "correctIndex": 1,
+      "explanation": "Spiracles are the external openings that lead into a network of air tubes (tracheae).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s6_q14",
+      "text": "The network of air tubes in insects for gas exchange is called:",
+      "options": ["Bronchi", "Spiracles", "Tracheae", "Alveoli"],
+      "correctIndex": 2,
+      "explanation": "Tracheae are used to transport oxygen directly to the tissues in insects.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s6_q15",
+      "text": "Earthworms breathe through their:",
+      "options": ["Lungs", "Gills", "Moist skin", "Spiracles"],
+      "correctIndex": 2,
+      "explanation": "The skin of an earthworm is moist and slimy, allowing gases to pass through easily.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s6_q16",
+      "text": "Frogs can breathe through their lungs and also through their:",
+      "options": ["Gills", "Skin", "Spiracles", "Mouth only"],
+      "correctIndex": 1,
+      "explanation": "Frogs have a pair of lungs but can also respire through their moist skin.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s6_q17",
+      "text": "Which organs help fish to use oxygen dissolved in water?",
+      "options": ["Lungs", "Skin", "Gills", "Spiracles"],
+      "correctIndex": 2,
+      "explanation": "Gills help fish to extract dissolved oxygen from water efficiently.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s6_q18",
+      "text": "What is the end product of glucose breakdown in muscle cells during anaerobic respiration?",
+      "options": ["Carbon dioxide", "Alcohol", "Lactic acid", "Water"],
+      "correctIndex": 2,
+      "explanation": "In muscle cells, partial breakdown of glucose results in lactic acid.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s6_q19",
+      "text": "Which of these is used to test the presence of CO2 in exhaled air?",
+      "options": ["Iodine", "Lime water", "Litmus", "Water"],
+      "correctIndex": 1,
+      "explanation": "Exhaled air turns lime water milky due to the presence of carbon dioxide.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s6_q20",
+      "text": "The process of respiration in plants occurs during:",
+      "options": ["Day only", "Night only", "Both day and night", "Only during growth"],
+      "correctIndex": 2,
+      "explanation": "Like animals, plants respire continuously throughout the day and night.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s6_q21",
+      "text": "Which part of the plant takes in oxygen from the air spaces in the soil?",
+      "options": ["Leaves", "Stem", "Roots", "Flowers"],
+      "correctIndex": 2,
+      "explanation": "Root hairs take in oxygen from the soil particles.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s6_q22",
+      "text": "The exchange of gases in leaves occurs through:",
+      "options": ["Xylem", "Phloem", "Stomata", "Midrib"],
+      "correctIndex": 2,
+      "explanation": "Stomata are tiny pores on the surface of leaves for gas exchange.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s6_q23",
+      "text": "When we exhale, the air is rich in:",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "correctIndex": 1,
+      "explanation": "Respiration produces carbon dioxide which is expelled during exhalation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s6_q24",
+      "text": "The capacity of lungs can be measured using:",
+      "options": ["Thermometer", "Spirometer", "Stethoscope", "Barometer"],
+      "correctIndex": 1,
+      "explanation": "A spirometer is an instrument used to measure the volume of air inspired and expired by the lungs.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s6_q25",
+      "text": "Which of the following organisms is an anaerobe?",
+      "options": ["Dog", "Fish", "Yeast", "Cockroach"],
+      "correctIndex": 2,
+      "explanation": "Yeast can survive without oxygen and produces alcohol via fermentation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s6_q26",
+      "text": "Increased physical activity leads to a/an ________ in breathing rate.",
+      "options": ["Increase", "Decrease", "No change", "Stop"],
+      "correctIndex": 0,
+      "explanation": "More activity requires more energy, thus more oxygen and faster breathing.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s6_q27",
+      "text": "During exhalation, the diaphragm moves:",
+      "options": ["Downwards", "Upwards", "To the right", "Does not move"],
+      "correctIndex": 1,
+      "explanation": "The diaphragm moves back to its original relaxed position (upwards) during exhalation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s6_q28",
+      "text": "Insects have a network of air tubes called ________ for gas exchange.",
+      "options": ["Bronchi", "Alveoli", "Tracheae", "Spiracles"],
+      "correctIndex": 2,
+      "explanation": "Tracheae are the tubes; spiracles are the openings.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s6_q29",
+      "text": "Why do we sneeze when we inhale dust?",
+      "options": ["To get more oxygen", "To expel foreign particles", "Because of cold", "To help breathing"],
+      "correctIndex": 1,
+      "explanation": "Sneezing is a protective mechanism to remove irritants from the nasal cavity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s6_q30",
+      "text": "Which gas is used during aerobic respiration?",
+      "options": ["Nitrogen", "Carbon dioxide", "Oxygen", "Argon"],
+      "correctIndex": 2,
+      "explanation": "Aerobic respiration requires oxygen to break down food.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s6_q31",
+      "text": "The small air sacs at the end of the bronchioles in lungs are:",
+      "options": ["Bronchi", "Trachea", "Alveoli", "Pharynx"],
+      "correctIndex": 2,
+      "explanation": "Alveoli are the primary sites for gas exchange in the human lungs.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s6_q32",
+      "text": "Fish gills are supplied with ________ for gas exchange.",
+      "options": ["Water", "Air tubes", "Blood vessels", "Lungs"],
+      "correctIndex": 2,
+      "explanation": "Blood vessels in the gills absorb oxygen from the water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s6_q33",
+      "text": "Which process allows roots to take in air?",
+      "options": ["Osmosis", "Diffusion", "Active transport", "Photosynthesis"],
+      "correctIndex": 1,
+      "explanation": "Gases move into and out of root cells by diffusion.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s6_q34",
+      "text": "Lenticels are found in which part of the plant for respiration?",
+      "options": ["Leaves", "Roots", "Woody stems", "Flowers"],
+      "correctIndex": 2,
+      "explanation": "Lenticels are pores in the bark of woody stems for gas exchange.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s6_q35",
+      "text": "The accumulation of ________ causes muscle fatigue.",
+      "options": ["Acetic acid", "Citric acid", "Lactic acid", "Hydrochloric acid"],
+      "correctIndex": 2,
+      "explanation": "Lactic acid builds up during anaerobic respiration in muscles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s6_q36",
+      "text": "Respiration is an ________ reaction.",
+      "options": ["Endothermic", "Exothermic", "Neutral", "Physical"],
+      "correctIndex": 1,
+      "explanation": "Respiration releases energy, making it an exothermic biological process.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s6_q37",
+      "text": "Whales and dolphins breathe through:",
+      "options": ["Gills", "Blowholes", "Skin", "Mouth only"],
+      "correctIndex": 1,
+      "explanation": "They are mammals and breathe air through blowholes located on the top of their heads.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s6_q38",
+      "text": "The percent of CO2 in inhaled air is about:",
+      "options": ["0.04%", "4.4%", "21%", "16.4%"],
+      "correctIndex": 0,
+      "explanation": "Atmospheric air contains approximately 0.04% carbon dioxide.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s6_q39",
+      "text": "The percent of CO2 in exhaled air is about:",
+      "options": ["0.04%", "4.4%", "21%", "16.4%"],
+      "correctIndex": 1,
+      "explanation": "Exhaled air has a higher concentration of CO2, roughly 4.4%.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s6_q40",
+      "text": "What happens to our breathing when we feel sleepy or drowsy?",
+      "options": ["Increases", "Decreases", "Stops", "Remains same"],
+      "correctIndex": 1,
+      "explanation": "Our breathing rate slows down when the body is at rest or feeling drowsy.",
+      "frequencyRating": 5
     }
   ]
 }

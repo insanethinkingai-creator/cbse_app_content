@@ -1,0 +1,330 @@
+{
+  "id": "g7_hist_ch3",
+  "grade": "7",
+  "subject": "History",
+  "number": "3",
+  "title": "Delhi: 12th to 15th Century",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_h3_q1",
+      "text": "Delhi first became the capital of a kingdom under the:",
+      "options": ["Chauhans", "Tomara Rajputs", "Mamluks", "Khaljis"],
+      "correctIndex": 1,
+      "explanation": "The Tomara Rajputs were defeated in the mid-12th century by the Chauhans of Ajmer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h3_q2",
+      "text": "The coins minted in Delhi that had a wide circulation were called:",
+      "options": ["Jitals", "Dehliwal", "Tankas", "Dinars"],
+      "correctIndex": 1,
+      "explanation": "Dehliwal coins were symbolic of Delhi becoming an important commercial center.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h3_q3",
+      "text": "The history of the Delhi Sultanate is found in 'Tawarikh', which were written in:",
+      "options": ["Sanskrit", "Arabic", "Persian", "Urdu"],
+      "correctIndex": 2,
+      "explanation": "Persian was the language of administration under the Delhi Sultans.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h3_q4",
+      "text": "In 1236, Sultan Iltutmish’s daughter became Sultan. Her name was:",
+      "options": ["Raziyya", "Rudramadevi", "Didda", "Nur Jahan"],
+      "correctIndex": 0,
+      "explanation": "Raziyya was more able and qualified than all her brothers but was removed from the throne in 1240.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h3_q5",
+      "text": "A 'Garrison town' is a:",
+      "options": ["Market town", "Fortified settlement with soldiers", "Religious center", "Port town"],
+      "correctIndex": 1,
+      "explanation": "In the early 13th century, the Sultans rarely controlled the hinterland of cities and stayed in garrison towns.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h3_q6",
+      "text": "What was the 'internal frontier' of the Sultanate?",
+      "options": ["Conquest of South India", "Consolidation of the hinterlands of garrison towns", "War against Mongols", "Coastal trade"],
+      "correctIndex": 1,
+      "explanation": "This involved clearing forests in the Ganga-Yamuna doab and expelling hunter-gatherers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h3_q7",
+      "text": "The 'external frontier' expansion of the Sultanate peaked during the reign of:",
+      "options": ["Iltutmish", "Alauddin Khalji", "Muhammad Tughluq", "Balban"],
+      "correctIndex": 2,
+      "explanation": "Muhammad Tughluq's armies captured elephants, horses, and slaves across the subcontinent.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h3_q8",
+      "text": "Special slaves purchased for military service were called:",
+      "options": ["Samantas", "Bandagan", "Iqtadars", "Muktars"],
+      "correctIndex": 1,
+      "explanation": "Bandagan were carefully trained to man some of the most important political offices.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h3_q9",
+      "text": "The territories given to military commanders were called:",
+      "options": ["Jagirs", "Iqtas", "Zila", "Ur"],
+      "correctIndex": 1,
+      "explanation": "The holders of iqtas were called iqtadars or muqtis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h3_q10",
+      "text": "The duty of the muqtis was to:",
+      "options": ["Lead military campaigns", "Maintain law and order in their iqtas", "Collect revenues", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Muqtis collected revenue to pay their soldiers and maintain themselves.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h3_q11",
+      "text": "Under Alauddin Khalji, the state brought the ________ of land revenue under its own control.",
+      "options": ["Expenditure", "Assessment and collection", "Exemption", "Distribution"],
+      "correctIndex": 1,
+      "explanation": "The rights of local samantas to levy taxes were cancelled, and they were forced to pay taxes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h3_q12",
+      "text": "The tax on cultivation was called 'kharaj' and amounted to about:",
+      "options": ["10% of produce", "25% of produce", "50% of produce", "75% of produce"],
+      "correctIndex": 2,
+      "explanation": "Kharaj was a heavy tax on the peasants' produce.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h3_q13",
+      "text": "The Mongols under Genghis Khan invaded Transoxiana in:",
+      "options": ["1219", "1299", "1324", "1526"],
+      "correctIndex": 0,
+      "explanation": "The Mongol attacks forced the Delhi Sultans to mobilize a large standing army.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h3_q14",
+      "text": "Which Sultan built a new garrison town named Siri for his soldiers?",
+      "options": ["Iltutmish", "Alauddin Khalji", "Muhammad Tughluq", "Firoz Shah Tughluq"],
+      "correctIndex": 1,
+      "explanation": "Alauddin built Siri to protect his capital from Mongol raids.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h3_q15",
+      "text": "Muhammad Tughluq ordered the residents of Delhi to move to the new capital at:",
+      "options": ["Agra", "Daulatabad", "Lahore", "Tanjavur"],
+      "correctIndex": 1,
+      "explanation": "Moving the capital to the south was an administrative failure that caused great hardship.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h3_q16",
+      "text": "Which Sultan introduced a 'token' currency made of cheap metals?",
+      "options": ["Alauddin Khalji", "Muhammad Tughluq", "Ghiyathuddin Balban", "Ibrahim Lodi"],
+      "correctIndex": 1,
+      "explanation": "People didn't trust the coins and began to forge them, leading to the system's collapse.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h3_q17",
+      "text": "After the Tughluqs, the ________ dynasties ruled from Delhi and Agra.",
+      "options": ["Sayyid and Lodi", "Mughal", "Chauhan", "Khalji"],
+      "correctIndex": 0,
+      "explanation": "The Sayyids and Lodis ruled until 1526 when the Mughal Empire was established.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h3_q18",
+      "text": "Who was the ruler of the slave dynasty who defeated the Mongols in his reign?",
+      "options": ["Balban", "Iltutmish", "Raziyya", "Alauddin"],
+      "correctIndex": 1,
+      "explanation": "Iltutmish managed the threat of the early Mongol advances under Genghis Khan.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_h3_q19",
+      "text": "Sher Shah Sur established a small kingdom in ________ and eventually challenged the Mughals.",
+      "options": ["Bihar", "Bengal", "Gujarat", "Deccan"],
+      "correctIndex": 0,
+      "explanation": "Sher Shah Suri defeated Humayun and established the Suri dynasty.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h3_q20",
+      "text": "The Quwwat al-Islam mosque and minaret were built by:",
+      "options": ["Qutbuddin Aybak", "Iltutmish", "Alauddin Khalji", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "The mosque was enlarged by Iltutmish and Alauddin, and the minaret (Qutb Minar) was built by Aybak and Iltutmish.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h3_q21",
+      "text": "A 'Masjid' is a place where a Muslim prostrates in reverence to:",
+      "options": ["The Sultan", "Allah", "The Khalifa", "The Imam"],
+      "correctIndex": 1,
+      "explanation": "Masjid literally means a 'place of prostration'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h3_q22",
+      "text": "Muslims pray facing Mecca. In India, this direction is to the:",
+      "options": ["East", "West", "North", "South"],
+      "correctIndex": 1,
+      "explanation": "Mecca is located to the west of India; this direction is called 'qibla'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h3_q23",
+      "text": "Who was the first ruler of the Mamluk (Slave) dynasty?",
+      "options": ["Iltutmish", "Qutbuddin Aybak", "Balban", "Raziyya"],
+      "correctIndex": 1,
+      "explanation": "He was a former slave of Muhammad Ghori and founded the Sultanate in 1206.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h3_q24",
+      "text": "The term 'Hinterland' refers to:",
+      "options": ["A coastal region", "The lands adjacent to a city or port that supply it with goods", "A military fortress", "A foreign country"],
+      "correctIndex": 1,
+      "explanation": "Controlling the hinterland was crucial for the survival of the garrison towns.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h3_q25",
+      "text": "Which traveler from Morocco visited India during Muhammad Tughluq's reign?",
+      "options": ["Marco Polo", "Ibn Battuta", "Al-Biruni", "Francois Bernier"],
+      "correctIndex": 1,
+      "explanation": "Ibn Battuta left a detailed account of the administrative and social life of the time.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h3_q26",
+      "text": "What was the 'Circle of Justice'?",
+      "options": ["A group of judges", "A theory explaining the interdependence between king, soldiers, and peasants", "A weapon", "A type of court"],
+      "correctIndex": 1,
+      "explanation": "A king survives on soldiers, soldiers on salaries, and salaries come from revenue paid by prosperous peasants.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h3_q27",
+      "text": "Didda was a famous queen who ruled in ________ from 980-1003.",
+      "options": ["Kashmir", "Kalinga", "Delhi", "Bengal"],
+      "correctIndex": 0,
+      "explanation": "Her name comes from 'didi' (elder sister), showing the affection she received from her subjects.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_h3_q28",
+      "text": "The Qutb Minar has ________ storeys.",
+      "options": ["3", "5", "7", "9"],
+      "correctIndex": 1,
+      "explanation": "The Qutb Minar is a 5-storeyed tower built over several decades.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h3_q29",
+      "text": "Why were accountants appointed by the state to check muqtis?",
+      "options": ["To help them collect more", "To ensure they collected only prescribed taxes and kept required soldiers", "To teach them math", "To spy for the Sultan"],
+      "correctIndex": 1,
+      "explanation": "Strict control was maintained to prevent muqtis from becoming too independent or corrupt.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h3_q30",
+      "text": "The Mongol army under Genghis Khan was known for its:",
+      "options": ["Peaceful trade", "Highly mobile and efficient cavalry", "Naval strength", "Elephant corps"],
+      "correctIndex": 1,
+      "explanation": "The speed and brutality of the Mongol horsemen made them a formidable force.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h3_q31",
+      "text": "What happened to the iqta system during Firoz Shah Tughluq’s reign?",
+      "options": ["It was abolished", "It was made hereditary", "Taxes were doubled", "It was given only to slaves"],
+      "correctIndex": 1,
+      "explanation": "Firoz Shah made iqtas hereditary, which eventually weakened central control.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_h3_q32",
+      "text": "Who defeated Ibrahim Lodi in the Battle of Panipat (1526)?",
+      "options": ["Akbar", "Babur", "Humayun", "Sher Shah Suri"],
+      "correctIndex": 1,
+      "explanation": "Babur's victory ended the Delhi Sultanate and started the Mughal Empire.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h3_q33",
+      "text": "The leader of the prayer in a mosque is called the:",
+      "options": ["Ulama", "Imam", "Mufti", "Qazi"],
+      "correctIndex": 1,
+      "explanation": "The Imam is a learned male chosen for his knowledge of religion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h3_q34",
+      "text": "A 'Sermon' delivered during the Friday prayer is called:",
+      "options": ["Zakat", "Khutba", "Haj", "Namaaz"],
+      "correctIndex": 1,
+      "explanation": "The Khutba often mentions the name of the ruling Sultan.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h3_q35",
+      "text": "The Tughluq dynasty ruled after the:",
+      "options": ["Khaljis", "Sayyids", "Lodis", "Mamluks"],
+      "correctIndex": 0,
+      "explanation": "The Tughluqs succeeded the Khalji dynasty in 1320.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h3_q36",
+      "text": "Which of these Sultans faced the maximum Mongol invasions?",
+      "options": ["Balban", "Alauddin Khalji", "Iltutmish", "Raziyya"],
+      "correctIndex": 1,
+      "explanation": "Alauddin Khalji successfully defended Delhi against several large-scale Mongol invasions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h3_q37",
+      "text": "The word 'Gender distinction' in the text refers to differences between:",
+      "options": ["Castes", "Religions", "Men and Women", "Peasants and Nobles"],
+      "correctIndex": 2,
+      "explanation": "Social and biological differences between women and men were used to justify male dominance.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h3_q38",
+      "text": "Bahlul Lodi was the founder of the ________ dynasty.",
+      "options": ["Sayyid", "Lodi", "Khalji", "Tughluq"],
+      "correctIndex": 1,
+      "explanation": "The Lodi dynasty was the last dynasty of the Delhi Sultanate.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h3_q39",
+      "text": "Which language was used by the common people during this period?",
+      "options": ["Persian", "Arabic", "Regional languages and Sanskrit", "Latin"],
+      "correctIndex": 2,
+      "explanation": "While Persian was the court language, commoners spoke their local dialects.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h3_q40",
+      "text": "A 'client' is someone who is under the ________ of another.",
+      "options": ["Debt", "Protection", "Arrest", "Family"],
+      "correctIndex": 1,
+      "explanation": "The Delhi Sultans often promoted humble people who were their clients to high positions.",
+      "frequencyRating": 3
+    }
+  ]
+}

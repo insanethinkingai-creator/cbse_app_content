@@ -8,83 +8,323 @@
   "questions": [
     {
       "id": "g7_m4_q1",
-      "text": "The specific value of a variable that makes the Left Hand Side (LHS) equal to the Right Hand Side (RHS) is known as the:",
-      "options": ["Variable", "Constant", "Solution", "Expression"],
-      "correctIndex": 2,
-      "explanation": "According to NCERT, a value of the variable which satisfies the equality condition is called a solution of the equation.",
+      "text": "A mathematical statement with an 'equal to' sign is called an:",
+      "options": ["Expression", "Equation", "Variable", "Constant"],
+      "correctIndex": 1,
+      "explanation": "An equation always contains an equality sign (=) showing LHS equals RHS.",
       "frequencyRating": 5
     },
     {
       "id": "g7_m4_q2",
-      "text": "Solve for x: x - 5 = 7",
-      "options": ["2", "12", "-2", "35"],
-      "correctIndex": 1,
-      "explanation": "Adding 5 to both sides gives x = 7 + 5 = 12.",
-      "frequencyRating": 4
+      "text": "In the equation 2x + 5 = 15, 'x' is known as the:",
+      "options": ["Solution", "Constant", "Variable", "Coefficient"],
+      "correctIndex": 2,
+      "explanation": "Variables are letters used to represent unknown numbers.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m4_q3",
-      "text": "Which of the following is the equation for 'Sum of 3 times x and 11 is 32'?",
-      "options": ["3x - 11 = 32", "3x + 11 = 32", "11x + 3 = 32", "3 + x + 11 = 32"],
-      "correctIndex": 1,
-      "explanation": "Three times x is 3x. Adding 11 results in 3x + 11. The statement says this equals 32.",
+      "text": "The value of the variable for which the equation is satisfied is called its:",
+      "options": ["Root or Solution", "Constant", "Term", "Factor"],
+      "correctIndex": 0,
+      "explanation": "A solution makes the LHS of the equation equal to the RHS.",
       "frequencyRating": 5
     },
     {
       "id": "g7_m4_q4",
-      "text": "The value of y in 10y = 80 is:",
-      "options": ["70", "90", "8", "800"],
-      "correctIndex": 2,
-      "explanation": "Dividing both sides by 10 gives y = 80 / 10 = 8.",
-      "frequencyRating": 3
+      "text": "If x + 3 = 10, then x is:",
+      "options": ["13", "7", "-7", "3"],
+      "correctIndex": 1,
+      "explanation": "Transposing 3 to RHS: x = 10 - 3 = 7.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m4_q5",
-      "text": "If we subtract 7 from twice a number, we get 13. The number is:",
-      "options": ["10", "3", "20", "6"],
-      "correctIndex": 0,
-      "explanation": "Let the number be x. 2x - 7 = 13 => 2x = 20 => x = 10.",
-      "frequencyRating": 4
+      "text": "The solution of the equation 5y = 35 is:",
+      "options": ["30", "40", "7", "5"],
+      "correctIndex": 2,
+      "explanation": "y = 35 / 5 = 7.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m4_q6",
-      "text": "What is the first step to solve 3n + 7 = 25?",
-      "options": ["Divide by 3", "Multiply by 7", "Subtract 7 from both sides", "Add 25 to both sides"],
-      "correctIndex": 2,
-      "explanation": "To isolate the term with the variable, we first remove the constant by subtracting 7 from both sides.",
-      "frequencyRating": 3
+      "text": "If we subtract the same number from both sides of an equation, the equality:",
+      "options": ["Changes", "Remains the same", "Becomes negative", "Becomes zero"],
+      "correctIndex": 1,
+      "explanation": "Basic property of equality: adding or subtracting same value doesn't disturb balance.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_m4_q7",
-      "text": "Any equation remains the same if the LHS and RHS are:",
-      "options": ["Interchanged", "Multiplied by zero", "Divided by zero", "Only added"],
-      "correctIndex": 0,
-      "explanation": "An equation is a condition on a variable; switching the sides does not change the equality.",
-      "frequencyRating": 2
+      "text": "Write in equation form: 'Sum of x and 4 is 9'.",
+      "options": ["x - 4 = 9", "4x = 9", "x + 4 = 9", "x/4 = 9"],
+      "correctIndex": 2,
+      "explanation": "Sum means addition.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m4_q8",
-      "text": "Solve: m/4 = 5",
-      "options": ["1", "9", "20", "5/4"],
-      "correctIndex": 2,
-      "explanation": "Multiplying both sides by 4 gives m = 5 * 4 = 20.",
-      "frequencyRating": 3
+      "text": "Solve: m/4 = 6",
+      "options": ["24", "10", "2", "1.5"],
+      "correctIndex": 0,
+      "explanation": "m = 6 * 4 = 24.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_m4_q9",
-      "text": "The solution of 4(m + 3) = 20 is:",
-      "options": ["2", "8", "5", "17"],
-      "correctIndex": 0,
-      "explanation": "Divide by 4 first: m + 3 = 5. Then subtract 3: m = 2.",
-      "frequencyRating": 4
+      "text": "Convert the statement to equation: '7 times m plus 7 gets you 77'.",
+      "options": ["7m = 77", "7m + 7 = 77", "m + 7 = 77", "7(m+7) = 77"],
+      "correctIndex": 1,
+      "explanation": "7 times m (7m) plus (+) 7 equals 77.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m4_q10",
-      "text": "If 1/4 of a number x is 3 more than 7, then x is:",
-      "options": ["10", "40", "28", "16"],
+      "text": "The solution of 3n - 2 = 46 is:",
+      "options": ["12", "14", "16", "18"],
+      "correctIndex": 2,
+      "explanation": "3n = 46 + 2 = 48. n = 48/3 = 16.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m4_q11",
+      "text": "If 10 is subtracted from a number and the result is 5, what is the number?",
+      "options": ["5", "15", "-5", "50"],
       "correctIndex": 1,
-      "explanation": "x/4 = 7 + 3 => x/4 = 10 => x = 40.",
+      "explanation": "x - 10 = 5 => x = 15.",
       "frequencyRating": 4
+    },
+    {
+      "id": "g7_m4_q12",
+      "text": "The solution of 4(m + 3) = 20 is:",
+      "options": ["2", "5", "8", "17"],
+      "correctIndex": 0,
+      "explanation": "m + 3 = 20/4 = 5. m = 5 - 3 = 2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m4_q13",
+      "text": "Changing the sign of a term when moving it from one side to another is called:",
+      "options": ["Addition", "Subtraction", "Transposition", "Transformation"],
+      "correctIndex": 2,
+      "explanation": "Standard term for moving terms across the '=' sign.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m4_q14",
+      "text": "Solve for x: -4 = 2(p - 2)",
+      "options": ["0", "2", "-2", "4"],
+      "correctIndex": 0,
+      "explanation": "-4/2 = p - 2 => -2 = p - 2 => p = 0.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m4_q15",
+      "text": "The sum of three times a number and 11 is 32. The number is:",
+      "options": ["7", "8", "9", "10"],
+      "correctIndex": 0,
+      "explanation": "3x + 11 = 32 => 3x = 21 => x = 7.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m4_q16",
+      "text": "When you multiply both sides of an equation by a non-zero number, the equation:",
+      "options": ["Remains balanced", "Becomes invalid", "Changes the solution", "Becomes zero"],
+      "correctIndex": 0,
+      "explanation": "Multiplying/Dividing by the same non-zero number maintains equality.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m4_q17",
+      "text": "In the equation p/2 + 1 = 5, what is the first step to solve for p?",
+      "options": ["Multiply by 2", "Subtract 1", "Divide by 5", "Add 5"],
+      "correctIndex": 1,
+      "explanation": "Ideally, we isolate the variable term by transposing constants first.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m4_q18",
+      "text": "The solution to p/2 + 1 = 5 is:",
+      "options": ["4", "6", "8", "12"],
+      "correctIndex": 2,
+      "explanation": "p/2 = 4 => p = 8.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m4_q19",
+      "text": "If n/5 = 3, then n = ",
+      "options": ["15", "8", "3/5", "5/3"],
+      "correctIndex": 0,
+      "explanation": "n = 3 * 5 = 15.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m4_q20",
+      "text": "LHS of the equation 2q + 6 = 12 is:",
+      "options": ["12", "6", "2q + 6", "2q"],
+      "correctIndex": 2,
+      "explanation": "LHS stands for Left Hand Side.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m4_q21",
+      "text": "If x - 1 = 0, then x = ",
+      "options": ["0", "-1", "1", "Cannot be solved"],
+      "correctIndex": 2,
+      "explanation": "Transposing -1 to RHS makes it +1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m4_q22",
+      "text": "Solve: 20t = -10",
+      "options": ["-2", "2", "-0.5", "0.5"],
+      "correctIndex": 2,
+      "explanation": "t = -10/20 = -1/2 = -0.5.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m4_q23",
+      "text": "Which value of x satisfies 10x = 100?",
+      "options": ["1", "10", "100", "0"],
+      "correctIndex": 1,
+      "explanation": "10 * 10 = 100.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m4_q24",
+      "text": "Find x if 2x - 3 = 7",
+      "options": ["5", "2", "4", "10"],
+      "correctIndex": 0,
+      "explanation": "2x = 10 => x = 5.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m4_q25",
+      "text": "If 'a' is a root of the equation, then substituting 'a' makes RHS:",
+      "options": ["Zero", "Greater than LHS", "Equal to LHS", "Negative"],
+      "correctIndex": 2,
+      "explanation": "Definition of a root/solution.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m4_q26",
+      "text": "Solve: 4 + 5(p - 1) = 34",
+      "options": ["6", "7", "5", "8"],
+      "correctIndex": 1,
+      "explanation": "5(p-1) = 30 => p-1 = 6 => p = 7.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m4_q27",
+      "text": "The age of father is 5 years more than three times the son's age. If father is 44, find son's age.",
+      "options": ["10", "12", "13", "15"],
+      "correctIndex": 2,
+      "explanation": "3x + 5 = 44 => 3x = 39 => x = 13.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m4_q28",
+      "text": "If a balance scale is in equilibrium, and you double the weight on both pans, the scale:",
+      "options": ["Tilts left", "Tilts right", "Stays in equilibrium", "Breaks"],
+      "correctIndex": 2,
+      "explanation": "Analogy for multiplying both sides of an equation by the same number.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m4_q29",
+      "text": "Laxmi's father is 49 years old. He is 4 years older than three times Laxmi's age. Laxmi's age is:",
+      "options": ["15", "16", "17", "18"],
+      "correctIndex": 0,
+      "explanation": "3x + 4 = 49 => 3x = 45 => x = 15.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m4_q30",
+      "text": "What is the solution of the equation 3s = -9?",
+      "options": ["3", "-3", "0", "-27"],
+      "correctIndex": 1,
+      "explanation": "s = -9 / 3 = -3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m4_q31",
+      "text": "Solve: p/4 + 5 = 5",
+      "options": ["0", "4", "5", "20"],
+      "correctIndex": 0,
+      "explanation": "p/4 = 0 => p = 0.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m4_q32",
+      "text": "Find x if 2x = 0.",
+      "options": ["0", "2", "-2", "Undefined"],
+      "correctIndex": 0,
+      "explanation": "x = 0/2 = 0.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m4_q33",
+      "text": "Statement: 'Subtracting 5 from x gives 12'. Equation:",
+      "options": ["5 - x = 12", "x - 5 = 12", "x + 5 = 12", "5x = 12"],
+      "correctIndex": 1,
+      "explanation": "Subtraction from x means x is the minuend.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m4_q34",
+      "text": "Solve: 10p = 100",
+      "options": ["10", "1", "100", "0"],
+      "correctIndex": 0,
+      "explanation": "p = 100/10 = 10.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m4_q35",
+      "text": "Solve: 10p + 10 = 100",
+      "options": ["10", "9", "90", "11"],
+      "correctIndex": 1,
+      "explanation": "10p = 90 => p = 9.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m4_q36",
+      "text": "The sum of three consecutive integers is 33. The middle integer is:",
+      "options": ["10", "11", "12", "13"],
+      "correctIndex": 1,
+      "explanation": "(x-1) + x + (x+1) = 33 => 3x = 33 => x = 11.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m4_q37",
+      "text": "If x/3 = 5/4, then x = ",
+      "options": ["15/4", "4/15", "1.25", "20/3"],
+      "correctIndex": 0,
+      "explanation": "x = 5/4 * 3 = 15/4.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m4_q38",
+      "text": "Solve: 0 = 16 + 4(m - 6)",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 1,
+      "explanation": "-16 = 4(m - 6) => -4 = m - 6 => m = 2.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m4_q39",
+      "text": "Which equation represents: 'One-fourth of a number minus 4 gives 4'?",
+      "options": ["4/x - 4 = 4", "x/4 - 4 = 4", "1/4 - x = 4", "x - 1/4 = 4"],
+      "correctIndex": 1,
+      "explanation": "One-fourth of x is x/4.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m4_q40",
+      "text": "Solve: 3p/4 = 15",
+      "options": ["20", "15", "60", "45"],
+      "correctIndex": 0,
+      "explanation": "3p = 60 => p = 20.",
+      "frequencyRating": 5
     }
   ]
 }

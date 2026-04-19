@@ -15,7 +15,7 @@
     "adsenseSlotId": "5499649008"
   },
   "security": {
-    "enableSecureMode": true
+    "enableSecureMode": false
   },
   "featureFlags": { 
     "enableNewUI": false,

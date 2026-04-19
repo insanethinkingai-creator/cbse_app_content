@@ -1,0 +1,522 @@
+{
+  "id": "g8_math_ch6",
+  "grade": "8",
+  "subject": "Mathematics",
+  "number": "6",
+  "title": "Cubes and Cube Roots",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_m6_q1",
+      "text": "Cube root symbol:",
+      "options": [
+        "√3",
+        "∛",
+        "^3",
+        "Sq"
+      ],
+      "correctIndex": 1,
+      "explanation": "∛729 =9.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m6_q2",
+      "text": "Prime factorisation cube root:",
+      "options": [
+        "Multiples of 3 powers",
+        "2",
+        "Even",
+        "Prime"
+      ],
+      "correctIndex": 0,
+      "explanation": "3p·3q·3r.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m6_q3",
+      "text": "3^3 =",
+      "options": [
+        "9",
+        "27",
+        "81",
+        "243"
+      ],
+      "correctIndex": 1,
+      "explanation": "27.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m6_q4",
+      "text": "Smallest cube:",
+      "options": [
+        "1",
+        "0",
+        "8",
+        "-1"
+      ],
+      "correctIndex": 0,
+      "explanation": "1^3=1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m6_q5",
+      "text": "Cube ends with:",
+      "options": [
+        "Same as cube root units",
+        "Any",
+        "Even",
+        "Odd"
+      ],
+      "correctIndex": 0,
+      "explanation": "Units digit cubes cycle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m6_q6",
+      "text": "∛1000:",
+      "options": [
+        "10",
+        "100",
+        "20",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "10^3=1000.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m6_q7",
+      "text": "Division method cube root:",
+      "options": [
+        "Groups 3 digits",
+        "2",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "From right.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m6_q8",
+      "text": "Number of cubes 1 to 100:",
+      "options": [
+        "4 (1,8,27,64)",
+        "10",
+        "5",
+        "100"
+      ],
+      "correctIndex": 0,
+      "explanation": "1-4 cubes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m6_q9",
+      "text": "Cube not perfect if prime power:",
+      "options": [
+        "Not multiple 3",
+        "Multiple 3",
+        "Even",
+        "Odd"
+      ],
+      "correctIndex": 0,
+      "explanation": "3k power.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m6_q10",
+      "text": "Pattern cubes units:",
+      "options": [
+        "0->0,1->1,2->8,3->7,4->4,5->5,6->6,7->3,8->2,9->9",
+        "Same square",
+        "Random",
+        "No"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cycle.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m6_q11",
+      "text": "∛3375:",
+      "options": [
+        "15",
+        "25",
+        "35",
+        "45"
+      ],
+      "correctIndex": 0,
+      "explanation": "15^3=3375.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m6_q12",
+      "text": "Largest 3-digit cube:",
+      "options": [
+        "729 (9^3)",
+        "1000",
+        "512",
+        "1331"
+      ],
+      "correctIndex": 0,
+      "explanation": "9^3=729, 10^3=1000.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m6_q13",
+      "text": "Cube root (-64):",
+      "options": [
+        "-4",
+        "4",
+        "No real",
+        "0"
+      ],
+      "correctIndex": 0,
+      "explanation": "(-4)^3=-64.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m6_q14",
+      "text": "Cube number digits 3n or 3n-1:",
+      "options": [
+        "Cube root n digits",
+        "No",
+        "Always 3",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "Groups 3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m6_q15",
+      "text": "∛1728:",
+      "options": [
+        "12",
+        "18",
+        "20",
+        "16"
+      ],
+      "correctIndex": 0,
+      "explanation": "12^3=1728.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m6_q16",
+      "text": "Not cube:",
+      "options": [
+        "64",
+        "125",
+        "128",
+        "1"
+      ],
+      "correctIndex": 2,
+      "explanation": "128 not perfect.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m6_q17",
+      "text": "6^3:",
+      "options": [
+        "216",
+        "36",
+        "1296",
+        "18"
+      ],
+      "correctIndex": 0,
+      "explanation": "216.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m6_q18",
+      "text": "Cube root decimal:",
+      "options": [
+        "Division method",
+        "No",
+        "Prime only",
+        "Integer only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Long division.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m6_q19",
+      "text": "Number cubes 100-999:",
+      "options": [
+        "6 (5^3=125 to 9^3=729)",
+        "10",
+        "4",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "5 to 9.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m6_q20",
+      "text": "Even cube:",
+      "options": [
+        "Even",
+        "Odd",
+        "Any",
+        "Prime"
+      ],
+      "correctIndex": 0,
+      "explanation": "Even^3 even.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m6_q21",
+      "text": "∛(0.064):",
+      "options": [
+        "0.4",
+        "0.04",
+        "4",
+        "0.8"
+      ],
+      "correctIndex": 0,
+      "explanation": "0.4^3=0.064.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m6_q22",
+      "text": "Cube ends 7 units digit root:",
+      "options": [
+        "3 or 7",
+        "1",
+        "5",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "3^3=27,7^3=343.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m6_q23",
+      "text": "9^3:",
+      "options": [
+        "729",
+        "81",
+        "6561",
+        "27"
+      ],
+      "correctIndex": 0,
+      "explanation": "729.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m6_q24",
+      "text": "Prime factor ∛(512):",
+      "options": [
+        "8",
+        "512=2^9, ∛2^3 *2^3 *2^3 =8",
+        "64",
+        "16"
+      ],
+      "correctIndex": 1,
+      "explanation": "Groups 3.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m6_q25",
+      "text": "Cube root 1:",
+      "options": [
+        "1",
+        "0",
+        "-1",
+        "No"
+      ],
+      "correctIndex": 0,
+      "explanation": "1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m6_q26",
+      "text": "Division groups for 5832:",
+      "options": [
+        "583 | 2",
+        "58 | 32",
+        "5 | 832",
+        "5832"
+      ],
+      "correctIndex": 0,
+      "explanation": "3 digits.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m6_q27",
+      "text": "Not cube:",
+      "options": [
+        "216",
+        "343",
+        "512",
+        "400"
+      ],
+      "correctIndex": 3,
+      "explanation": "400 not.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m6_q28",
+      "text": "Cube root negative:",
+      "options": [
+        "Negative",
+        "Positive",
+        "Imaginary",
+        "0"
+      ],
+      "correctIndex": 0,
+      "explanation": "(-)^3 negative.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m6_q29",
+      "text": "8^3:",
+      "options": [
+        "512",
+        "64",
+        "4096",
+        "256"
+      ],
+      "correctIndex": 0,
+      "explanation": "512.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m6_q30",
+      "text": "Cube number pattern:",
+      "options": [
+        "Difference increases",
+        "Constant",
+        "Decreases",
+        "Zero"
+      ],
+      "correctIndex": 0,
+      "explanation": "3k²+3k+1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m6_q31",
+      "text": "∛0.027:",
+      "options": [
+        "0.3",
+        "0.03",
+        "3",
+        "0.9"
+      ],
+      "correctIndex": 0,
+      "explanation": "0.3^3=0.027.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m6_q32",
+      "text": "Cube root 729:",
+      "options": [
+        "9",
+        "27",
+        "81",
+        "3"
+      ],
+      "correctIndex": 0,
+      "explanation": "9.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m6_q33",
+      "text": "Perfect cube prime factors:",
+      "options": [
+        "Power multiple 3",
+        "Even",
+        "Odd",
+        "1"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m6_q34",
+      "text": "Smallest 4-digit cube:",
+      "options": [
+        "1000 (10^3)",
+        "1331",
+        "1728",
+        "2197"
+      ],
+      "correctIndex": 0,
+      "explanation": "10^3.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m6_q35",
+      "text": "7^3:",
+      "options": [
+        "343",
+        "49",
+        "2401",
+        "21"
+      ],
+      "correctIndex": 0,
+      "explanation": "343.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m6_q36",
+      "text": "Cube root method division:","options":["3 digits groups right","2","Left","No"],"correctIndex":0,"explanation":"Cube.","frequencyRating":5},
+    {
+      "id": "g8_m6_q37",
+      "text": "Number cubes between 1000-9999:",
+      "options": [
+        "21 (10 to 21)",
+        "10",
+        "31",
+        "22"
+      ],
+      "correctIndex": 0,
+      "explanation": "10^3=1000,21^3=9261,22^3=10648.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m6_q38",
+      "text": "Units digit cube root 8:",
+      "options": [
+        "2",
+        "6",
+        "4",
+        "8"
+      ],
+      "correctIndex": 1,
+      "explanation": "6^3=216 ends 6? Wait, 2^3=8.",
+      "correctIndex": 0,
+      "explanation": "2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m6_q39",
+      "text": "∛(1/8):",
+      "options": [
+        "1/2",
+        "1/4",
+        "2",
+        "1/8"
+      ],
+      "correctIndex": 0,
+      "explanation": "(1/2)^3=1/8.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m6_q40",
+      "text": "Cube root 15625:",
+      "options": [
+        "25",
+        "125",
+        "35",
+        "45"
+      ],
+      "correctIndex": 0,
+      "explanation": "25^3=15625.",
+      "frequencyRating": 4
+    }
+  ]
+}

@@ -8,82 +8,322 @@
   "questions": [
     {
       "id": "g7_g1_q1",
-      "text": "Which of the following is a component of the natural environment?",
-      "options": ["Buildings", "Industries", "Land", "Parks"],
-      "correctIndex": 2,
-      "explanation": "Natural environment comprises land, water, air, plants, and animals.",
+      "text": "The place, people, things and nature that surround any living organism is called:",
+      "options": ["Atmosphere", "Environment", "Ecosystem", "Lithosphere"],
+      "correctIndex": 1,
+      "explanation": "Environment is our basic life support system providing air, water, food, and land.",
       "frequencyRating": 5
     },
     {
       "id": "g7_g1_q2",
-      "text": "The solid crust or the hard top layer of the earth is known as:",
-      "options": ["Atmosphere", "Hydrosphere", "Biosphere", "Lithosphere"],
-      "correctIndex": 3,
-      "explanation": "Lithosphere is the domain that provides us forests, grasslands, and land for agriculture.",
-      "frequencyRating": 4
+      "text": "Which of the following is a biotic component of the environment?",
+      "options": ["Land", "Air", "Plants", "Water"],
+      "correctIndex": 2,
+      "explanation": "Biotic refers to the world of living organisms, such as plants and animals.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_g1_q3",
-      "text": "The domain of water is referred to as:",
-      "options": ["Hydrosphere", "Lithosphere", "Atmosphere", "Hemisphere"],
-      "correctIndex": 0,
-      "explanation": "It comprises various sources of water and different types of water bodies.",
+      "text": "Abiotic environment consists of:",
+      "options": ["Living organisms", "Non-living elements", "Human beings", "Only plants"],
+      "correctIndex": 1,
+      "explanation": "Abiotic refers to the world of non-living elements like land, air, and water.",
       "frequencyRating": 5
     },
     {
       "id": "g7_g1_q4",
-      "text": "World Environment Day is celebrated on:",
-      "options": ["2nd October", "5th June", "15th August", "26th January"],
-      "correctIndex": 1,
-      "explanation": "June 5th is globally recognized to encourage awareness and action for the protection of our environment.",
+      "text": "The solid crust or the hard top layer of the earth is known as:",
+      "options": ["Hydrosphere", "Atmosphere", "Lithosphere", "Biosphere"],
+      "correctIndex": 2,
+      "explanation": "The lithosphere is made up of rocks and minerals and covered by a thin layer of soil.",
       "frequencyRating": 5
     },
     {
       "id": "g7_g1_q5",
-      "text": "A narrow zone of the earth where land, water, and air interact to support life is:",
-      "options": ["Ecosystem", "Atmosphere", "Biosphere", "Environment"],
-      "correctIndex": 2,
-      "explanation": "Biosphere is the living world consisting of plant and animal kingdoms.",
-      "frequencyRating": 4
+      "text": "The domain of water is referred to as:",
+      "options": ["Lithosphere", "Hydrosphere", "Atmosphere", "Biosphere"],
+      "correctIndex": 1,
+      "explanation": "Hydrosphere comprises various sources of water and different types of water bodies.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_g1_q6",
-      "text": "Which is not a natural ecosystem?",
-      "options": ["Desert", "Aquarium", "Forest", "Mountain"],
-      "correctIndex": 1,
-      "explanation": "An aquarium is a human-made environment, whereas deserts and forests are natural.",
-      "frequencyRating": 3
+      "text": "The thin layer of air that surrounds the earth is the:",
+      "options": ["Atmosphere", "Hydrosphere", "Stratosphere", "Ozone layer"],
+      "correctIndex": 0,
+      "explanation": "The atmosphere is held around the earth by the gravitational force of the earth.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_g1_q7",
-      "text": "The thin layer of air that surrounds the earth is the:",
-      "options": ["Hydrosphere", "Lithosphere", "Atmosphere", "Exosphere"],
+      "text": "Which layer protects us from the harmful rays and scorching heat of the sun?",
+      "options": ["Biosphere", "Lithosphere", "Atmosphere", "Hydrosphere"],
       "correctIndex": 2,
-      "explanation": "The gravitational force of the earth holds the atmosphere around it.",
+      "explanation": "The atmosphere consists of a number of gases, dust, and water vapour that act as a shield.",
       "frequencyRating": 4
     },
     {
       "id": "g7_g1_q8",
-      "text": "What does 'Abiotic' mean?",
-      "options": ["The world of living organisms", "The world of non-living elements", "Human-made environment", "Atmospheric pressure"],
+      "text": "Plants and animal kingdom together make:",
+      "options": ["Ecosystem", "Biosphere", "Environment", "Atmosphere"],
       "correctIndex": 1,
-      "explanation": "Abiotic refers to non-living components like land, whereas Biotic refers to living organisms.",
-      "frequencyRating": 3
+      "explanation": "Biosphere is the narrow zone of the earth where land, water, and air interact with each other to support life.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_g1_q9",
-      "text": "Which gas protects us from the harmful rays and scorching heat of the sun?",
-      "options": ["Oxygen", "Carbon dioxide", "Ozone", "Nitrogen"],
-      "correctIndex": 2,
-      "explanation": "The atmosphere consists of a number of gases, including the ozone layer which filters UV rays.",
-      "frequencyRating": 4
+      "text": "A system formed by the interaction of all living organisms with each other and with physical/chemical factors is:",
+      "options": ["Ecosystem", "Biosphere", "Environment", "Lithosphere"],
+      "correctIndex": 0,
+      "explanation": "An ecosystem involves the transfer of energy and material between organisms and their surroundings.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_g1_q10",
-      "text": "The system formed by the interaction of all living organisms with each other is called:",
-      "options": ["Ecosystem", "Environment", "Biography", "Lithosphere"],
+      "text": "World Environment Day is celebrated on:",
+      "options": ["January 26", "June 5", "August 15", "December 25"],
+      "correctIndex": 1,
+      "explanation": "June 5th is designated by the UN to encourage global awareness and action for the environment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g1_q11",
+      "text": "Which is not a natural ecosystem?",
+      "options": ["Desert", "Aquarium", "Forest", "Mountain"],
+      "correctIndex": 1,
+      "explanation": "An aquarium is a human-made ecosystem.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g1_q12",
+      "text": "Which is not a component of human environment?",
+      "options": ["Land", "Religion", "Community", "Family"],
       "correctIndex": 0,
-      "explanation": "This includes the transfer of energy and material between living and non-living components.",
+      "explanation": "Land is a natural component, while religion and family are parts of the human environment.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g1_q13",
+      "text": "Which is a human-made environment?",
+      "options": ["Mountain", "Sea", "Road", "River"],
+      "correctIndex": 2,
+      "explanation": "Roads are constructed by humans using natural resources.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g1_q14",
+      "text": "Which is a threat to the environment?",
+      "options": ["Growing plant", "Growing population", "Growing crops", "Planting trees"],
+      "correctIndex": 1,
+      "explanation": "Rapidly growing population increases demand for resources, leading to environmental degradation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g1_q15",
+      "text": "The word 'Environment' is derived from the French word 'Environer' meaning:",
+      "options": ["Nature", "Earth", "Neighbourhood", "Life"],
+      "correctIndex": 2,
+      "explanation": "It refers to the surroundings or neighbourhood in which we live.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g1_q16",
+      "text": "Gravitational force of the earth holds the ________ around it.",
+      "options": ["Hydrosphere", "Biosphere", "Atmosphere", "Lithosphere"],
+      "correctIndex": 2,
+      "explanation": "Without gravity, the gases of the atmosphere would escape into space.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g1_q17",
+      "text": "Early humans adapted themselves to the:",
+      "options": ["Space", "Natural surroundings", "Cities", "Artificial environment"],
+      "correctIndex": 1,
+      "explanation": "Early humans lived simple lives and fulfilled their requirements from the nature around them.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_g1_q18",
+      "text": "Trade in which goods are exchanged without the use of money is called:",
+      "options": ["Currency system", "Market system", "Barter system", "Global trade"],
+      "correctIndex": 2,
+      "explanation": "The Barter system was the earliest form of trade used by human beings.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g1_q19",
+      "text": "The Industrial Revolution enabled ________ production.",
+      "options": ["Small scale", "Large scale", "Organic", "Manual"],
+      "correctIndex": 1,
+      "explanation": "Mass production became possible with the help of machines and factories.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g1_q20",
+      "text": "Transportation became faster with the invention of the:",
+      "options": ["Steam engine", "Wheel", "Compass", "Map"],
+      "correctIndex": 1,
+      "explanation": "The invention of the wheel was a major turning point in human history and movement.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_g1_q21",
+      "text": "Lithosphere is an irregular surface with various:",
+      "options": ["Gases", "Clouds", "Landforms", "Water bodies"],
+      "correctIndex": 2,
+      "explanation": "Landforms include mountains, plateaus, plains, and valleys found on the lithosphere.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g1_q22",
+      "text": "Which domain provides us forests and grasslands for grazing?",
+      "options": ["Atmosphere", "Hydrosphere", "Lithosphere", "Biosphere"],
+      "correctIndex": 2,
+      "explanation": "The lithosphere provides land for agriculture and human settlements, as well as forests.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g1_q23",
+      "text": "Life can exist only in the:",
+      "options": ["Lithosphere", "Atmosphere", "Hydrosphere", "Biosphere"],
+      "correctIndex": 3,
+      "explanation": "Biosphere is the living world where all other domains interact to support life.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g1_q24",
+      "text": "The atmosphere consists of a number of gases, ________ and water vapour.",
+      "options": ["Smoke", "Dust", "Clouds", "Oxygen"],
+      "correctIndex": 1,
+      "explanation": "Dust particles and water vapour are essential components of the earth's atmosphere.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g1_q25",
+      "text": "Which of the following describes the interaction between biotic and abiotic components?",
+      "options": ["Atmosphere", "Lithosphere", "Ecosystem", "Hydrosphere"],
+      "correctIndex": 2,
+      "explanation": "An ecosystem is the functional unit where living and non-living parts interact.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g1_q26",
+      "text": "Human beings ________ the environment to suit their needs.",
+      "options": ["Only observe", "Modify", "Ignore", "Protect always"],
+      "correctIndex": 1,
+      "explanation": "Humans use technology and labor to change the natural environment for their comfort.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g1_q27",
+      "text": "Information Revolution made ________ speedy across the world.",
+      "options": ["Trade", "Travel", "Communication", "Farming"],
+      "correctIndex": 2,
+      "explanation": "Modern technology has made global communication instantaneous.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g1_q28",
+      "text": "A perfect ________ is necessary between the natural and human environment.",
+      "options": ["Competition", "Balance", "Separation", "Distance"],
+      "correctIndex": 1,
+      "explanation": "Sustainability depends on maintaining a balance between our needs and nature.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g1_q29",
+      "text": "Hydrosphere includes:",
+      "options": ["Only Oceans", "Only Rivers", "All types of water bodies", "Only groundwater"],
+      "correctIndex": 2,
+      "explanation": "It includes oceans, seas, rivers, lakes, ice caps, etc.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g1_q30",
+      "text": "Which of these is NOT a natural component of environment?",
+      "options": ["Plants", "Water", "Buildings", "Animals"],
+      "correctIndex": 2,
+      "explanation": "Buildings are constructed by humans and are part of the human-made environment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g1_q31",
+      "text": "Changes in the atmosphere produce changes in:",
+      "options": ["Soil only", "Weather and climate", "Rock types", "Ocean depth"],
+      "correctIndex": 1,
+      "explanation": "Atmospheric changes directly impact temperature, precipitation, and wind patterns.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g1_q32",
+      "text": "Which domain is also a source of mineral wealth?",
+      "options": ["Atmosphere", "Lithosphere", "Hydrosphere", "Biosphere"],
+      "correctIndex": 1,
+      "explanation": "Minerals like coal, iron, and gold are found within the earth's crust or lithosphere.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g1_q33",
+      "text": "The interaction of land, water and air is seen in:",
+      "options": ["Lithosphere", "Biosphere", "Atmosphere", "Hydrosphere"],
+      "correctIndex": 1,
+      "explanation": "Biosphere is the thin layer where all three life-supporting domains overlap.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g1_q34",
+      "text": "Early humans fulfilled their needs from:",
+      "options": ["Shops", "Factories", "Nature around them", "Other planets"],
+      "correctIndex": 2,
+      "explanation": "They led a simple life based on gathering and hunting in their immediate environment.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_g1_q35",
+      "text": "With time, human needs ________.",
+      "options": ["Remained same", "Grew and became more varied", "Decreased", "Disappeared"],
+      "correctIndex": 1,
+      "explanation": "As humans progressed, they learned to use and change the environment in new ways.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g1_q36",
+      "text": "Domesticating animals and growing crops led to a ________ life.",
+      "options": ["Nomadic", "Settled", "Wandering", "Unstable"],
+      "correctIndex": 1,
+      "explanation": "Agriculture required people to stay in one place, leading to the formation of villages.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g1_q37",
+      "text": "Which of the following is a component of human-made environment?",
+      "options": ["Bridges", "Air", "Land", "Rivers"],
+      "correctIndex": 0,
+      "explanation": "Bridges are engineering structures created by humans.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g1_q38",
+      "text": "Biotic components are ________ organisms.",
+      "options": ["Dead", "Living", "Non-living", "Inorganic"],
+      "correctIndex": 1,
+      "explanation": "Biotic factors include all biological entities like bacteria, fungi, plants, and animals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g1_q39",
+      "text": "A pond can be an example of a/an:",
+      "options": ["Atmosphere", "Lithosphere", "Ecosystem", "Human-made town"],
+      "correctIndex": 2,
+      "explanation": "A pond contains various organisms interacting with water, soil, and sunlight.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g1_q40",
+      "text": "We must learn to live and use our environment in a ________ way.",
+      "options": ["Careless", "Greedy", "Harmonious", "Destructive"],
+      "correctIndex": 2,
+      "explanation": "Harmony with nature ensures that resources are available for future generations.",
       "frequencyRating": 5
     }
   ]

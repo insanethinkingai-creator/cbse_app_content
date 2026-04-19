@@ -7,84 +7,324 @@
   "version": "v1",
   "questions": [
     {
-      "id": "g7_civ_ch6_q1",
-      "text": "The plural form of the word 'medium' is:",
-      "options": ["Medias", "Media", "Mediums", "Mediator"],
+      "id": "g7_c6_q1",
+      "text": "Everything ranging from the stall at the local fair to the programme you see on TV is called:",
+      "options": ["Internet", "Media", "Publicity", "News"],
       "correctIndex": 1,
-      "explanation": "Media describes the various ways through which we communicate in society.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g7_civ_ch6_q2",
-      "text": "TV, radio, and newspapers are called 'mass media' because:",
-      "options": ["They are very heavy", "They reach millions of people across the world", "They are owned by the government", "They use a lot of electricity"],
-      "correctIndex": 1,
-      "explanation": "Because they reach 'masses' of people, they are categorized as mass media.",
+      "explanation": "Media is the plural form of the word 'medium' and it describes the various ways through which we communicate in society.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch6_q3",
-      "text": "What is the main source of income for most mass media outlets?",
-      "options": ["Government grants", "Subscription fees only", "Advertising", "Charity"],
+      "id": "g7_c6_q2",
+      "text": "Media that reaches millions of people across the world is known as:",
+      "options": ["Local media", "Mass media", "Personal media", "Direct media"],
+      "correctIndex": 1,
+      "explanation": "TV, radio, and newspapers reach a large number of people or the 'masses'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c6_q3",
+      "text": "The term 'print media' refers to:",
+      "options": ["TV and Radio", "Newspapers and Magazines", "Internet and Email", "Phone calls"],
+      "correctIndex": 1,
+      "explanation": "It includes any form of media that is printed on paper.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c6_q4",
+      "text": "The term 'electronic media' refers to:",
+      "options": ["Books", "TV, Radio and Internet", "Magazines", "Pamphlets"],
+      "correctIndex": 1,
+      "explanation": "These media use electronic signals to transmit information.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c6_q5",
+      "text": "Changing ________ helps media to reach more people and improves the quality of sound and images.",
+      "options": ["Names", "Technology", "Language only", "Address"],
+      "correctIndex": 1,
+      "explanation": "Modern technology like satellites and cables has revolutionized how we consume media.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c6_q6",
+      "text": "The mass media needs a great deal of ________ to do its work.",
+      "options": ["Water", "Money", "Time only", "Books"],
+      "correctIndex": 1,
+      "explanation": "TV studios need expensive lights, cameras, sound recorders, and satellites.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c6_q7",
+      "text": "How do most mass media earn the money they need?",
+      "options": ["By selling books", "By advertising different things", "From donations only", "By charging entry fees"],
+      "correctIndex": 1,
+      "explanation": "Advertisements for products like cars, soaps, and clothes are the main source of income for media.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c6_q8",
+      "text": "In a democracy, the media plays a very important role in providing ________.",
+      "options": ["Entertainment only", "Information about government and events", "Jobs", "Money"],
+      "correctIndex": 1,
+      "explanation": "It helps citizens understand how the government works and form opinions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c6_q9",
+      "text": "A 'balanced report' in the media is one that:",
+      "options": ["Only gives the government's side", "Only gives the public's side", "Discusses all points of view and leaves it to readers to decide", "Is very short"],
       "correctIndex": 2,
-      "explanation": "Mass media is constantly thinking of ways to make money, and advertisements are the most effective method.",
+      "explanation": "A balanced report provides a complete and unbiased picture of an issue.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch6_q4",
-      "text": "An 'independent media' means that:",
-      "options": ["It is free from government control", "No one should control its coverage of news", "It can write whatever it wants without checking facts", "Both 1 and 2"],
-      "correctIndex": 3,
-      "explanation": "An independent media is essential in a democracy to provide reliable and balanced information.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g7_civ_ch6_q5",
-      "text": "When the government prevents the media from showing or publishing certain items, it is called:",
-      "options": ["Setting the agenda", "Censorship", "Publicity", "Broadcasting"],
+      "id": "g7_c6_q10",
+      "text": "What is an 'independent' media?",
+      "options": ["One that is owned by the government", "One that is not controlled or influenced by anyone in its news coverage", "One that only shows movies", "One that has no employees"],
       "correctIndex": 1,
-      "explanation": "There have been periods in Indian history, like the Emergency (1975-1977), when the government censored the media.",
+      "explanation": "Independent media is crucial for a healthy democracy to ensure truth is reported.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch6_q6",
-      "text": "A 'balanced report' is one that:",
-      "options": ["Only shows the government's side", "Discusses all points of view of a story", "Is very short", "Is written by one person"],
+      "id": "g7_c6_q11",
+      "text": "The government can prevent the media from publishing or showing certain stories. This is called:",
+      "options": ["Reporting", "Censorship", "Advertising", "Editing"],
       "correctIndex": 1,
-      "explanation": "It leaves it to the readers to make up their own minds after presenting all sides.",
+      "explanation": "The most famous period of censorship in India was the Emergency (1975-1977).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c6_q12",
+      "text": "The media 'sets the agenda' when it ________.",
+      "options": ["Decides which stories to focus on", "Follows the government", "Has a meeting", "Prints books"],
+      "correctIndex": 0,
+      "explanation": "By focusing on specific issues, the media influences what people think and talk about.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c6_q13",
+      "text": "Media recently drew our attention to alarming levels of ________ in cola drinks.",
+      "options": ["Sugar", "Pesticides", "Salt", "Water"],
+      "correctIndex": 1,
+      "explanation": "Despite government resistance, the media report led to safety standards being set for colas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c6_q14",
+      "text": "Local media often covers issues that ________.",
+      "options": ["Are global", "Involve ordinary people and their daily lives", "Are only about celebrities", "Are about outer space"],
+      "correctIndex": 1,
+      "explanation": "National media often ignores small-scale local problems, which local media then highlights.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c6_q15",
+      "text": "Khabar Lahariya is a fortnightly newspaper run by Dalit women in which state?",
+      "options": ["Bihar", "Uttar Pradesh (Chitrakoot)", "Madhya Pradesh", "Rajasthan"],
+      "correctIndex": 1,
+      "explanation": "It is written in the local Bundeli language and reports on Dalit issues and local corruption.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c6_q16",
+      "text": "Mass media is often not independent because ________.",
+      "options": ["It has no staff", "It is controlled by big business houses", "People don't watch it", "It is too cheap"],
+      "correctIndex": 1,
+      "explanation": "Business interests often influence what the media shows to ensure their profits and advertisements aren't affected.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c6_q17",
+      "text": "The 'Public Protest' is a way for people to ________.",
+      "options": ["Agree with everything", "Voice their opposition to a government decision", "Go on holiday", "Watch TV"],
+      "correctIndex": 1,
+      "explanation": "Protests can happen through rallies, signatures, and blocking roads.",
       "frequencyRating": 4
     },
     {
-      "id": "g7_civ_ch6_q7",
-      "text": "The phrase 'setting the agenda' means that the media:",
-      "options": ["Determines which stories are important enough to be news", "Controls the government", "Decides the price of newspapers", "Organizes political rallies"],
-      "correctIndex": 0,
-      "explanation": "By focusing on particular issues, the media influences our thoughts and feelings on those subjects.",
+      "id": "g7_c6_q18",
+      "text": "In a 'balanced' story, the reader should be able to ________.",
+      "options": ["Read only one side", "Understand the whole story and form their own opinion", "See only the photos", "Find out the author's house address"],
+      "correctIndex": 1,
+      "explanation": "Balance provides multiple perspectives on a complex issue.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch6_q8",
-      "text": "'Khabar Lahriya' is a local newspaper run by eight Dalit women in:",
-      "options": ["Uttar Pradesh", "Bihar", "Madhya Pradesh", "Rajasthan"],
-      "correctIndex": 0,
-      "explanation": "This newspaper is written in the local Bundeli dialect and covers issues relevant to the local community.",
+      "id": "g7_c6_q19",
+      "text": "The main goal of an advertisement is to ________.",
+      "options": ["Give free gifts", "Inform you about a product and persuade you to buy it", "Waste time", "Make movies"],
+      "correctIndex": 1,
+      "explanation": "Ads use various techniques to make products look attractive and necessary.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c6_q20",
+      "text": "Media and ________ are very closely linked in the modern world.",
+      "options": ["Agriculture", "Technology", "History", "Maths"],
+      "correctIndex": 1,
+      "explanation": "Advances in technology dictate the reach and speed of media communications.",
       "frequencyRating": 4
     },
     {
-      "id": "g7_civ_ch6_q9",
-      "text": "Which technology allows mass media to reach a global audience via satellites and cables?",
-      "options": ["Typewriters", "Telegram", "Digital technology", "Printing press only"],
-      "correctIndex": 2,
-      "explanation": "Satellites have enabled us to view news and entertainment from around the world instantly.",
+      "id": "g7_c6_q21",
+      "text": "Big businesses often own their own ________.",
+      "options": ["Schools", "Media houses (TV channels/newspapers)", "Parks", "Roads"],
+      "correctIndex": 1,
+      "explanation": "This ownership can lead to biased reporting that favors the business owner.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c6_q22",
+      "text": "The media's focus on a particular issue ________ public opinion.",
+      "options": ["Does not affect", "Shapes and influences", "Is always wrong", "Is only for fun"],
+      "correctIndex": 1,
+      "explanation": "When media highlights an issue, it becomes a topic of national discussion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c6_q23",
+      "text": "Community radio is a form of ________ media.",
+      "options": ["Mass", "Local", "Global", "Censored"],
+      "correctIndex": 1,
+      "explanation": "It allows local people to talk about their own problems and solutions in their own language.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c6_q24",
+      "text": "Social advertisements are those made by the ________.",
+      "options": ["Private companies", "Government or private agencies for a larger message to society", "Schools only", "Children"],
+      "correctIndex": 1,
+      "explanation": "Examples include ads about safety, health, or education for the public good.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c6_q25",
+      "text": "Satellite and cable technology have ________.",
+      "options": ["Made TV smaller", "Allowed us to see global news and entertainment", "Decreased the number of channels", "Banned news"],
+      "correctIndex": 1,
+      "explanation": "We can now watch events happening in the US or Japan from our living rooms in India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c6_q26",
+      "text": "Media serves as a ________ over the government.",
+      "options": ["Partner", "Watchdog", "Secret agent", "Driver"],
+      "correctIndex": 1,
+      "explanation": "By reporting on government actions, it holds leaders accountable to the people.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c6_q27",
+      "text": "An 'Ethics' in journalism means ________.",
+      "options": ["Reporting whatever is fun", "Following a code of truth and fairness", "Making the most money", "Ignoring the public"],
+      "correctIndex": 1,
+      "explanation": "Ethical journalism ensures that information provided to the public is accurate and reliable.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c6_q28",
+      "text": "The cost of an advertisement on a TV channel depends on the ________.",
+      "options": ["Color of the logo", "Popularity of the channel/programme", "Size of the TV", "Name of the anchor"],
+      "correctIndex": 1,
+      "explanation": "High-rated shows charge more for ad slots because they reach more viewers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c6_q29",
+      "text": "Gutenberg is associated with the invention of the ________.",
+      "options": ["Radio", "Printing Press", "Television", "Computer"],
+      "correctIndex": 1,
+      "explanation": "The printing press changed how information was distributed globally.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c6_q30",
+      "text": "Media houses often omit stories that might ________.",
+      "options": ["Be too happy", "Offend their big advertisers", "Be very long", "Use simple words"],
+      "correctIndex": 1,
+      "explanation": "Commercial interests can lead to the suppression of important but 'unfriendly' news.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c6_q31",
+      "text": "A 'Sound-bite' is a ________.",
+      "options": ["Type of food", "Short clip of a person speaking used in a news broadcast", "Loud noise", "Radio station"],
+      "correctIndex": 1,
+      "explanation": "It is a brief, catchy quote used by media to summarize a point.",
       "frequencyRating": 3
     },
     {
-      "id": "g7_civ_ch6_q10",
-      "text": "Social advertising refers to advertisements made by the government or private agencies that have a:",
-      "options": ["Commercial message", "Larger message for the society", "Political campaign", "Celebrity gossip"],
+      "id": "g7_c6_q32",
+      "text": "Media often focuses on ________ to increase their ratings.",
+      "options": ["Boring facts", "Sensational news and celebrities", "Deep science only", "Rural farming daily"],
       "correctIndex": 1,
-      "explanation": "Examples include ads regarding road safety or the importance of pulse polio drops.",
+      "explanation": "This can sometimes come at the cost of ignoring more serious social issues.",
       "frequencyRating": 4
+    },
+    {
+      "id": "g7_c6_q33",
+      "text": "Digital media has made communication ________.",
+      "options": ["Instant and global", "Slower", "Only for rich countries", "Illegal"],
+      "correctIndex": 0,
+      "explanation": "The internet allows people to share information across the planet in seconds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c6_q34",
+      "text": "A 'Press Release' is a ________.",
+      "options": ["New book", "Official statement given to the media for publication", "Type of machine", "Secret letter"],
+      "correctIndex": 1,
+      "explanation": "Governments and companies use press releases to announce their news to the public.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c6_q35",
+      "text": "Media can fail to report on an issue because it is ________.",
+      "options": ["Too far away", "Not 'newsworthy' according to the editors", "In a different language", "Too cheap"],
+      "correctIndex": 1,
+      "explanation": "Editors decide what stories are 'worthy' of the public's attention.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c6_q36",
+      "text": "Censorship can be seen as an ________ to the freedom of the press.",
+      "options": ["Aid", "Obstacle", "Improvement", "Award"],
+      "correctIndex": 1,
+      "explanation": "It restricts the media's ability to report the truth to the public.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c6_q37",
+      "text": "Which of these is NOT an example of mass media?",
+      "options": ["Newspaper", "Radio", "Personal diary", "Television"],
+      "correctIndex": 2,
+      "explanation": "A personal diary is not meant for public consumption or reaching the masses.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c6_q38",
+      "text": "Media should provide a ________ for debate on social issues.",
+      "options": ["Secret room", "Platform", "Closed door", "Lock"],
+      "correctIndex": 1,
+      "explanation": "It is where society discusses and decides its future direction.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c6_q39",
+      "text": "Advertisements often target our ________.",
+      "options": ["Shoes", "Emotions and self-respect", "Calculators", "Old books"],
+      "correctIndex": 1,
+      "explanation": "Ads link products to our feelings of happiness, success, and love for our family.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c6_q40",
+      "text": "We need to be ________ consumers of media information.",
+      "options": ["Passive", "Critical and questioning", "Silent", "Fast"],
+      "correctIndex": 1,
+      "explanation": "It is important to ask who is providing the information and why.",
+      "frequencyRating": 5
     }
   ]
 }
