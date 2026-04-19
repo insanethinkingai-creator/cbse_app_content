@@ -31,7 +31,7 @@ def audit_grade(grade_num, expected_structure):
     total_incomplete = 0
     total_found = 0
     
-    expected_q_count = 10 if grade_num == 7 else 40
+    expected_q_count = 40
 
     for subject, count in expected_structure.items():
         prefix = subject_map.get(subject, subject.lower()[:3])
@@ -73,6 +73,36 @@ def audit_grade(grade_num, expected_structure):
     print(f"Total Expected: {sum(expected_structure.values())}")
 
 if __name__ == "__main__":
+    # Grade 7 Configuration
+    g7_structure = {
+        "Mathematics": 13,
+        "Science": 13,
+        "History": 8,
+        "Geography": 7,
+        "Civics": 8,
+        "English": 8
+    }
+    audit_grade(7, g7_structure)
+
+    # Grade 8 Configuration
+    g8_structure = {
+        "Mathematics": 13,
+        "Science": 13,
+        "History": 8,
+        "Geography": 6,
+        "Civics": 8,
+        "English": 8
+    }
+    audit_grade(8, g8_structure)
+
+    # Grade 9 Configuration
+    g9_structure = {
+        "Mathematics": 15,
+        "Science": 12,
+        "English": 11
+    }
+    audit_grade(9, g9_structure)
+
     # Grade 10 Configuration
     g10_structure = {
         "Mathematics": 14,

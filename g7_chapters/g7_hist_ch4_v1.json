@@ -1,0 +1,330 @@
+{
+  "id": "g7_hist_ch4",
+  "grade": "7",
+  "subject": "History",
+  "number": "4",
+  "title": "The Mughals (16th to 17th Century)",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_h4_q1",
+      "text": "The Mughals were descendants of two great lineages of rulers: Genghis Khan and:",
+      "options": ["Timur", "Sher Shah", "Humayun", "Bahlul Lodi"],
+      "correctIndex": 0,
+      "explanation": "From their mother's side they were descendants of Genghis Khan and from father's side, Timur.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q2",
+      "text": "Who was the first Mughal Emperor?",
+      "options": ["Akbar", "Babur", "Humayun", "Shah Jahan"],
+      "correctIndex": 1,
+      "explanation": "Babur succeeded to the throne of Ferghana in 1494 and captured Delhi in 1526.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q3",
+      "text": "In which battle did Babur defeat Ibrahim Lodi in 1526?",
+      "options": ["Battle of Panipat", "Battle of Khanua", "Battle of Chausa", "Battle of Haldighati"],
+      "correctIndex": 0,
+      "explanation": "The first Battle of Panipat established the Mughal rule in India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q4",
+      "text": "Babur used ________ effectively in the first battle of Panipat.",
+      "options": ["Cavalry", "Elephants", "Canons and firearms", "Ships"],
+      "correctIndex": 2,
+      "explanation": "Babur was the first to use artillery extensively in the Indian subcontinent.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q5",
+      "text": "Which Mughal Emperor was forced to flee to Iran after being defeated by Sher Shah Suri?",
+      "options": ["Babur", "Humayun", "Akbar", "Jahangir"],
+      "correctIndex": 1,
+      "explanation": "Sher Khan defeated Humayun at Chausa (1339) and Kanauj (1340).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q6",
+      "text": "Akbar became Emperor at the young age of:",
+      "options": ["10", "13", "18", "21"],
+      "correctIndex": 1,
+      "explanation": "Akbar's reign can be divided into three periods, starting from 1556.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q7",
+      "text": "Who was Akbar's regent during his early years of rule?",
+      "options": ["Bairam Khan", "Abul Fazl", "Todar Mal", "Man Singh"],
+      "correctIndex": 0,
+      "explanation": "Bairam Khan managed the empire until Akbar became independent in 1560.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q8",
+      "text": "Jahangir’s name before becoming Emperor was:",
+      "options": ["Khurram", "Salim", "Dara Shukoh", "Farman"],
+      "correctIndex": 1,
+      "explanation": "Prince Salim took the title Jahangir (Conqueror of the World).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q9",
+      "text": "The Mughal Emperor who built the Taj Mahal in memory of his wife was:",
+      "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+      "correctIndex": 2,
+      "explanation": "Shah Jahan's reign is known for architectural brilliance.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q10",
+      "text": "Which Mughal Emperor faced the maximum rebellions from Marathas and Sikhs in the later part of his reign?",
+      "options": ["Shah Jahan", "Jahangir", "Aurangzeb", "Akbar"],
+      "correctIndex": 2,
+      "explanation": "Aurangzeb's long reign in the Deccan led to exhaustion of the empire's resources.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q11",
+      "text": "The Mughal system of assigning ranks to officers was called:",
+      "options": ["Iqtadari", "Mansabdari", "Zabt", "Jagirdari"],
+      "correctIndex": 1,
+      "explanation": "Mansab means a position or rank, determining status and salary.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q12",
+      "text": "In the Mansabdari system, 'Zat' determined the:",
+      "options": ["Number of horses", "Rank and salary", "Military responsibility", "Province name"],
+      "correctIndex": 1,
+      "explanation": "The higher the zat, the more prestigious was the noble's position.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q13",
+      "text": "The 'Sawar' rank in the Mansabdari system determined the:",
+      "options": ["Salary", "Status", "Number of cavalrymen to be maintained", "Land area"],
+      "correctIndex": 2,
+      "explanation": "The sawar rank indicated the military strength expected from the noble.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q14",
+      "text": "Mansabdars received their salaries as revenue assignments called:",
+      "options": ["Zabt", "Jagirs", "Iqtas", "Sardeshmukhi"],
+      "correctIndex": 1,
+      "explanation": "Jagirs were somewhat like iqtas, but most mansabdars did not actually reside in or administer them.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q15",
+      "text": "The revenue system developed by Todar Mal was called:",
+      "options": ["Zabt", "Mansab", "Jagir", "Suba"],
+      "correctIndex": 0,
+      "explanation": "Zabt involved the careful survey of crop yields, prices, and areas cultivated for a 10-year period.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q16",
+      "text": "Who was Akbar's revenue minister?",
+      "options": ["Birbal", "Todar Mal", "Abul Fazl", "Tansen"],
+      "correctIndex": 1,
+      "explanation": "Todar Mal carried out a careful survey of agriculture for ten years (1570-1580).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q17",
+      "text": "The history of Akbar’s reign, 'Akbar Nama', was written by:",
+      "options": ["Todar Mal", "Abul Fazl", "Birbal", "Jahangir"],
+      "correctIndex": 1,
+      "explanation": "The third volume of Akbar Nama is called 'Ain-i Akbari'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q18",
+      "text": "Akbar divided his empire into provinces called:",
+      "options": ["Parganas", "Sarkars", "Subas", "Iqtas"],
+      "correctIndex": 2,
+      "explanation": "Each suba was governed by a Subadar who exercised both political and military functions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q19",
+      "text": "The financial officer of a Mughal province was called a:",
+      "options": ["Subadar", "Diwan", "Bakshi", "Kotwal"],
+      "correctIndex": 1,
+      "explanation": "The Diwan maintained the accounts and revenue collection of the suba.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q20",
+      "text": "Akbar's idea of universal peace and tolerance was called:",
+      "options": ["Din-i Ilahi", "Sulh-i-kul", "Ibadat Khana", "Zabt"],
+      "correctIndex": 1,
+      "explanation": "Sulh-i-kul focused on ethics, honesty, and peace that was applicable across all religions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q21",
+      "text": "The 'Ibadat Khana' was a building built by Akbar for:",
+      "options": ["Military strategy", "Discussions with religious scholars", "Wrestling", "Public hearings"],
+      "correctIndex": 1,
+      "explanation": "At Fatehpur Sikri, Akbar discussed religion with Ulama, Brahmanas, Jesuit priests, and Zoroastrians.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q22",
+      "text": "Who was the most influential queen of Jahangir?",
+      "options": ["Mumtaz Mahal", "Nur Jahan", "Jodha Bai", "Raziyya Sultan"],
+      "correctIndex": 1,
+      "explanation": "Mehrunnisa was given the title Nur Jahan and exercised significant political power.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q23",
+      "text": "The Mughals did not like to be called 'Mughal' or 'Mongol' because of:",
+      "options": ["Their poor wealth", "The memory of Genghis Khan’s massacre of people", "They preferred 'Indian'", "Religious reasons"],
+      "correctIndex": 1,
+      "explanation": "Genghis Khan's name was associated with massacres, whereas they were proud of their Timurid ancestry.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h4_q24",
+      "text": "The town where Akbar shifted his capital in 1571 was:",
+      "options": ["Fatehpur Sikri", "Agra", "Lahore", "Shahjahanabad"],
+      "correctIndex": 0,
+      "explanation": "Fatehpur Sikri served as the Mughal capital for a brief period.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q25",
+      "text": "In the Mughal army, the 'Bakshi' was the:",
+      "options": ["Religious head", "Military paymaster", "Police chief", "Land surveyor"],
+      "correctIndex": 1,
+      "explanation": "The Bakshi was responsible for the payment and administration of the army.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h4_q26",
+      "text": "A 'Zamindar' in the Mughal context was a:",
+      "options": ["Peasant", "Village headman or local chieftain acting as an intermediary", "Foreign trader", "Court poet"],
+      "correctIndex": 1,
+      "explanation": "Zamindar was the term used to describe all intermediaries who collected revenue from peasants.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q27",
+      "text": "Which religious community did the Sikhs form during the 17th century?",
+      "options": ["Khalsa", "Sangha", "Panth", "Bhakti"],
+      "correctIndex": 0,
+      "explanation": "The Khalsa was a militarized community established to resist Mughal authority.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q28",
+      "text": "Aurangzeb was given the title of:",
+      "options": ["Alamgir", "Jahangir", "Shah Jahan", "Zinda Pir"],
+      "correctIndex": 0,
+      "explanation": "Alamgir means 'Conqueror of the World'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h4_q29",
+      "text": "The practice of 'primogeniture' means:",
+      "options": ["Dividing inheritance among all sons", "Eldest son inherits the father's estate", "Sons and daughters inherit equally", "King chooses his successor"],
+      "correctIndex": 1,
+      "explanation": "The Mughals did not follow primogeniture, instead preferring 'coparcenary' inheritance (division among all sons).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h4_q30",
+      "text": "Babur defeated Rana Sanga at:",
+      "options": ["Panipat", "Khanua", "Chanderi", "Ghogra"],
+      "correctIndex": 1,
+      "explanation": "The victory at Khanua in 1527 consolidated Babur's position in North India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q31",
+      "text": "Which of these was the mother of Shah Jahan?",
+      "options": ["A Kachhwaha princess", "A Rathor princess", "A Turkish noblewoman", "A Persian princess"],
+      "correctIndex": 1,
+      "explanation": "Shah Jahan's mother was a Rathor princess from Jodhpur.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_h4_q32",
+      "text": "Akbar's army defeated the forces of Hemu in 1556 at:",
+      "options": ["Panipat", "Haldighati", "Chanderi", "Agra"],
+      "correctIndex": 0,
+      "explanation": "The second battle of Panipat secured Akbar's reign.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q33",
+      "text": "The 'Sadr' in Mughal administration was the minister in charge of:",
+      "options": ["War", "Religious and charitable patronage", "Revenue", "Foreign affairs"],
+      "correctIndex": 1,
+      "explanation": "The Sadr advised the Emperor on religious grants and donations.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_h4_q34",
+      "text": "The main source of income for Mughal rulers was tax on:",
+      "options": ["Trade", "Peasants' produce", "Artisans", "Foreign imports"],
+      "correctIndex": 1,
+      "explanation": "Land revenue was the backbone of the Mughal economy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q35",
+      "text": "Which monument is located in the Red Fort complex, Delhi, built by Shah Jahan?",
+      "options": ["Buland Darwaza", "Diwan-i-Aam", "Panch Mahal", "Gol Gumbaz"],
+      "correctIndex": 1,
+      "explanation": "The Diwan-i-Aam was where the Emperor met the general public.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h4_q36",
+      "text": "Mughal painting reached its zenith during the reign of:",
+      "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+      "correctIndex": 1,
+      "explanation": "Jahangir was a great patron of art and an expert judge of paintings.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q37",
+      "text": "Which Sikh Guru was executed by Aurangzeb?",
+      "options": ["Guru Nanak", "Guru Tegh Bahadur", "Guru Gobind Singh", "Guru Arjan"],
+      "correctIndex": 1,
+      "explanation": "The execution of Guru Tegh Bahadur in 1675 led to increased Sikh resistance.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q38",
+      "text": "The Maratha leader who escaped from Aurangzeb's prison and declared himself an independent king was:",
+      "options": ["Shambhaji", "Shivaji", "Baji Rao", "Sahu"],
+      "correctIndex": 1,
+      "explanation": "Shivaji's escape from Agra in 1666 was a major blow to Aurangzeb's prestige.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h4_q39",
+      "text": "Why did the Mughal Empire face a crisis of jagirs towards the end of the 17th century?",
+      "options": ["Too much land", "Shortage of jagirs and increase in the number of mansabdars", "No one wanted land", "Frequent earthquakes"],
+      "correctIndex": 1,
+      "explanation": "The number of mansabdars increased drastically, leading to a long wait for a jagir and corruption.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h4_q40",
+      "text": "The term 'Faujdar' in the Mughal administration refers to a:",
+      "options": ["Tax collector", "Military commander", "Religious teacher", "Judge"],
+      "correctIndex": 1,
+      "explanation": "Faujdars were responsible for maintaining peace and order in their districts.",
+      "frequencyRating": 4
+    }
+  ]
+}

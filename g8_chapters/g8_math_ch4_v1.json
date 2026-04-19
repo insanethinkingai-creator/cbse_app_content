@@ -1,0 +1,350 @@
+{
+  "id": "g8_math_ch4",
+  "grade": "8",
+  "subject": "Mathematics",
+  "number": "4",
+  "title": "Data Handling",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_m4_q1",
+      "text": "Grouping data to form classes is:",
+      "options": [
+        "Ungrouped",
+        "Grouped frequency distribution",
+        "Histogram",
+        "Pie chart"
+      ],
+      "correctIndex": 1,
+      "explanation": "Classes like 0-10, 10-20.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m4_q2",
+      "text": "Histogram has:",
+      "options": [
+        "Gaps between rectangles",
+        "No gaps",
+        "Circles",
+        "Lines only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Continuous data no gaps.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m4_q3",
+      "text": "Bar graph for:",
+      "options": [
+        "Continuous data",
+        "Discrete data",
+        "Both",
+        "None"
+      ],
+      "correctIndex": 1,
+      "explanation": "Separate categories.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m4_q4",
+      "text": "Pictograph uses:",
+      "options": [
+        "Bars",
+        "Pictures/symbols",
+        "Pie slices",
+        "Lines"
+      ],
+      "correctIndex": 1,
+      "explanation": "1 symbol = several units.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m4_q5",
+      "text": "Pie chart sector angle for 25%:",
+      "options": [
+        "90°",
+        "180°",
+        "360°",
+        "45°"
+      ],
+      "correctIndex": 0,
+      "explanation": "25/100 *360 =90°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m4_q6",
+      "text": "Histogram vs bar graph difference:",
+      "options": [
+        "No gap histogram",
+        "Gaps bar",
+        "Both",
+        "Same"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gaps/no gaps.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m4_q7",
+      "text": "Frequency polygon joined by:",
+      "options": [
+        "Bars",
+        "Line segments midpoints",
+        "Curves",
+        "Dots"
+      ],
+      "correctIndex": 1,
+      "explanation": "Class marks.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m4_q8",
+      "text": "Upper class limit 20-30 is:",
+      "options": [
+        "20",
+        "30",
+        "25",
+        "35"
+      ],
+      "correctIndex": 1,
+      "explanation": "Inclusive 30.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m4_q9",
+      "text": "Central angle 72° in pie is what fraction:",
+      "options": [
+        "1/5",
+        "1/4",
+        "1/6",
+        "1/3"
+      ],
+      "correctIndex": 0,
+      "explanation": "72/360 =1/5.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m4_q10",
+      "text": "Class mark of 10-20:",
+      "options": [
+        "10",
+        "20",
+        "15",
+        "25"
+      ],
+      "correctIndex": 2,
+      "explanation": "(10+20)/2=15.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m4_q11",
+      "text": "Double bar graph compares:",
+      "options": [
+        "One set data",
+        "Two sets",
+        "Three",
+        "Pie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Boys/girls.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m4_q12",
+      "text": "Histogram for unequal classes:","options":["Adjust heights","Same width","Impossible","No"],"correctIndex":0,"explanation":"Height ∝ freq, width class.","frequencyRating":4},
+    {
+      "id": "g8_m4_q13",
+      "text": "Frequency polygon closed by joining:",
+      "options": [
+        "First last to x-axis",
+        "Not closed",
+        "Circle",
+        "Bars"
+      ],
+      "correctIndex": 1,
+      "explanation":"Open.",
+      "frequencyRating":4
+    },
+    {
+      "id": "g8_m4_q14",
+      "text": "Data organisation first step:",
+      "options": [
+        "Graph",
+        "Tally marks",
+        "Calculate",
+        "Plot"
+      ],
+      "correctIndex": 1,
+      "explanation": "Frequency table.",
+      "frequencyRating":5
+    },
+    {
+      "id": "g8_m4_q15",
+      "text": "1 symbol = 5 students, 25 students = ? symbols",
+      "options": [
+        "5",
+        "25",
+        "1",
+        "125"
+      ],
+      "correctIndex": 0,
+      "explanation": "25/5=5.",
+      "frequencyRating":5
+    },
+    {
+      "id": "g8_m4_q16",
+      "text": "Pie chart total:",
+      "options": [
+        "100%",
+        "360°",
+        "Both",
+        "50%"
+      ],
+      "correctIndex": 2,
+      "explanation": "Full circle.",
+      "frequencyRating":5
+    },
+    {
+      "id": "g8_m4_q17",
+      "text": "Class interval 5, from 0:",
+      "options": [
+        "0-5,5-10",
+        "0-4,5-9",
+        "1-5,6-10",
+        "No"
+      ],
+      "correctIndex": 0,
+      "explanation": "5 units.",
+      "frequencyRating":4
+    },
+    {
+      "id": "g8_m4_q18",
+      "text": "Histogram heights represent:",
+      "options": [
+        "Width",
+        "Frequency",
+        "Class mark",
+        "Cumulative"
+      ],
+      "correctIndex": 1,
+      "explanation": "Area freq.",
+      "frequencyRating":5
+    },
+    {
+      "id": "g8_m4_q19",
+      "text": "Tally marks group:",
+      "options": [
+        "4 + diagonal =5",
+        "5 straight",
+        "10",
+        "1"
+      ],
+      "correctIndex": 0,
+      "explanation": "Standard.",
+      "frequencyRating":5
+    },
+    {
+      "id": "g8_m4_q20",
+      "text": "Cumulative frequency graph:",
+      "options": [
+        "Ogive",
+        "Histogram",
+        "Bar",
+        "Pie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Less than type.",
+      "frequencyRating":4
+    },
+    {
+      "id": "g8_m4_q21",
+      "text": "Scale pictograph 1★=2 cars, 10 cars = ?",
+      "options": [
+        "5★",
+        "20★",
+        "10",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "10/2=5.",
+      "frequencyRating":5
+    },
+    {
+      "id": "g8_m4_q22",
+      "text": "Unequal classes histogram:","options":["Width proportional sqrt freq","No","Same height","Ignore"],"correctIndex":0,"explanation":"Area = freq, height = freq/width.","frequencyRating":4},
+    {
+      "id": "g8_m4_q23",
+      "text": "Frequency polygon points:",
+      "options": [
+        "Top rectangles",
+        "Mid class mark height freq",
+        "Ends x-axis",
+        "Both B C"
+      ],
+      "correctIndex": 3,
+      "explanation": "Joined.",
+      "frequencyRating":5
+    },
+    {
+      "id": "g8_m4_q24",
+      "text": "Pie chart for 3 parts total 100:",
+      "options": [
+        "120° ,120°,120°",
+        "30%, 30%, 40%",
+        "Both possible",
+        "No"
+      ],
+      "correctIndex": 2,
+      "explanation": "Either.",
+      "frequencyRating":4
+    },
+    {
+      "id": "g8_m4_q25",
+      "text": "Raw data organised:","options":["Tally frequency","Graph","Average","No"],"correctIndex":0,"explanation":"Table.","frequencyRating":5},
+    {
+      "id": "g8_m4_q26",
+      "text": "Bar graph gaps:","options":["Always","No data continuity","Both","None"],"correctIndex":2,"explanation":"Discrete.","frequencyRating":5},
+    {
+      "id": "g8_m4_q27",
+      "text": "Class size 10, 20-30 size:","options":["10","11","9","20"],"correctIndex":0,"explanation":"30-20=10.","frequencyRating":4},
+    {
+      "id": "g8_m4_q28",
+      "text": "Double bar graph:","options":["Compare two groups","Single","Cumulative","Pie"],"correctIndex":0,"explanation":"Side by side.","frequencyRating":4},
+    {
+      "id": "g8_m4_q29",
+      "text": "1/2 ★ = 1.5 symbols for 3 cars (1=2 cars):","options":["1.5★","3★","1★","6"],"correctIndex":0,"explanation":"3/2=1.5.","frequencyRating":4},
+    {
+      "id": "g8_m4_q30",
+      "text": "Ogive rising:","options":["Less than","More than","Histogram","Bar"],"correctIndex":0,"explanation":"Cumulative ascending.","frequencyRating":4},
+    {
+      "id": "g8_m4_q31",
+      "text": "Data 1,2,2,3 frequency of 2:","options":["1","2","3","0"],"correctIndex":1,"explanation":"2 times.","frequencyRating":5},
+    {
+      "id": "g8_m4_q32",
+      "text": "Pie chart fraction 1/4 = angle:","options":["90°","180°","120°","135°"],"correctIndex":0,"explanation":"360/4=90.","frequencyRating":5},
+    {
+      "id": "g8_m4_q33",
+      "text": "Histogram unequal width height:","options":["Freq","Freq/width","Width","No"],"correctIndex":1,"explanation":"Area freq.","frequencyRating":5},
+    {
+      "id": "g8_m4_q34",
+      "text": "Frequency polygon for histogram:","options":["Midpoints","Corners","Random","No"],"correctIndex":0,"explanation":"Class marks.","frequencyRating":5},
+    {
+      "id": "g8_m4_q35",
+      "text": "Scale 1☼ = 50kg, 225kg = ?","options":["4.5☼","4☼","5","2.25"],"correctIndex":0,"explanation":"225/50=4.5.","frequencyRating":5},
+    {
+      "id": "g8_m4_q36",
+      "text": "Class 0-10,10-20 inclusive:","options":["9 or 10","Always 10","Variable","No"],"correctIndex":0,"explanation":"Depending convention.","frequencyRating":4},
+    {
+      "id": "g8_m4_q37",
+      "text": "Choosing graph depends:","options":["Data type","Numbers","Always pie","No"],"correctIndex":0,"explanation":"Discrete/continuous.","frequencyRating":5},
+    {
+      "id": "g8_m4_q38",
+      "text": "Cumulative freq starts:","options":["0","Min","Max","Average"],"correctIndex":0,"explanation":"0 or first freq.","frequencyRating":4},
+    {
+      "id": "g8_m4_q39",
+      "text": "Bar width same as:","options":["Height","Other bars","No matter","Zero"],"correctIndex":1,"explanation":"Uniform.","frequencyRating":4},
+    {
+      "id": "g8_m4_q40",
+      "text": "25% of pie central angle:","options":["90°","100°","75°","50°"],"correctIndex":0,"explanation":"0.25*360=90.","frequencyRating":5}
+  ]
+}

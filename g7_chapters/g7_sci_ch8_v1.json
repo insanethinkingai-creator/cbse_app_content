@@ -8,73 +8,323 @@
   "questions": [
     {
       "id": "g7_s8_q1",
-      "text": "The production of new individuals from their parents is known as:",
-      "options": ["Nutrition", "Respiration", "Reproduction", "Excretion"],
-      "correctIndex": 2,
-      "explanation": "Reproduction ensures the continuity of a species over generations."
+      "text": "The production of new individuals from parents is known as:",
+      "options": ["Digestion", "Reproduction", "Excretion", "Respiration"],
+      "correctIndex": 1,
+      "explanation": "Reproduction ensures the continuity of a species.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s8_q2",
-      "text": "Reproduction through vegetative parts like roots, stems, or leaves is:",
-      "options": ["Sexual reproduction", "Vegetative propagation", "Budding", "Spore formation"],
+      "text": "Reproduction without the production of seeds is called:",
+      "options": ["Sexual reproduction", "Asexual reproduction", "Pollination", "Fertilization"],
       "correctIndex": 1,
-      "explanation": "This is a type of asexual reproduction where seeds are not involved."
+      "explanation": "In asexual reproduction, only one parent is involved.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s8_q3",
-      "text": "Yeast reproduces through a process called:",
-      "options": ["Fragmentation", "Spore formation", "Budding", "Pollination"],
-      "correctIndex": 2,
-      "explanation": "In budding, a small bulb-like projection called a bud grows and detaches from the parent cell."
+      "text": "Reproduction through seeds is called:",
+      "options": ["Asexual reproduction", "Sexual reproduction", "Fragmentation", "Budding"],
+      "correctIndex": 1,
+      "explanation": "Sexual reproduction involve the fusion of male and female gametes.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s8_q4",
-      "text": "Spirogyra (an alga) reproduces asexually by:",
-      "options": ["Budding", "Fragmentation", "Spore formation", "Vegetative propagation"],
-      "correctIndex": 1,
-      "explanation": "The organism breaks up into two or more fragments, which grow into new individuals."
+      "text": "Which of the following is a type of asexual reproduction where plants are produced from roots, stems, or leaves?",
+      "options": ["Budding", "Fragmentation", "Vegetative propagation", "Spore formation"],
+      "correctIndex": 2,
+      "explanation": "Vegetative parts like potato eyes or ginger rhizomes are used.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s8_q5",
-      "text": "The male reproductive part of a flower is the:",
-      "options": ["Pistil", "Stamen", "Petal", "Sepal"],
-      "correctIndex": 1,
-      "explanation": "The stamen consists of an anther (containing pollen) and a filament."
+      "text": "In yeast, reproduction occurs by:",
+      "options": ["Fragmentation", "Spore formation", "Budding", "Pollination"],
+      "correctIndex": 2,
+      "explanation": "A small bulb-like projection called a bud grows and detaches from the parent cell.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s8_q6",
-      "text": "The transfer of pollen grains from anther to stigma is called:",
-      "options": ["Fertilization", "Pollination", "Germination", "Fragmentation"],
+      "text": "Algae like Spirogyra reproduce by:",
+      "options": ["Budding", "Fragmentation", "Sexual reproduction", "Seeds"],
       "correctIndex": 1,
-      "explanation": "Pollination can be self-pollination or cross-pollination via wind, water, or insects."
+      "explanation": "The organism breaks into two or more fragments, which grow into new individuals.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s8_q7",
-      "text": "The fusion of male and female gametes is called:",
-      "options": ["Pollination", "Fertilization", "Embryo", "Zygote"],
+      "text": "Fungi on bread reproduce through:",
+      "options": ["Budding", "Spore formation", "Roots", "Leaves"],
       "correctIndex": 1,
-      "explanation": "Fertilization results in the formation of a zygote."
+      "explanation": "Spores are asexual reproductive bodies protected by a hard coat.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s8_q8",
-      "text": "After fertilization, the ovary grows into a:",
-      "options": ["Seed", "Fruit", "Flower", "Stem"],
-      "correctIndex": 1,
-      "explanation": "The fruit is the ripened ovary, while the seeds develop from ovules."
+      "text": "The reproductive part of a plant is the:",
+      "options": ["Leaf", "Stem", "Root", "Flower"],
+      "correctIndex": 3,
+      "explanation": "Flowers contain the male and female reproductive organs.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s8_q9",
-      "text": "Which of these seeds is dispersed by wind?",
-      "options": ["Maple", "Coconut", "Xanthium", "Mango"],
-      "correctIndex": 0,
-      "explanation": "Winged seeds like maple and drumstick are easily carried away by the wind."
+      "text": "The male reproductive part of a flower is the:",
+      "options": ["Pistil", "Stamen", "Petal", "Sepal"],
+      "correctIndex": 1,
+      "explanation": "Stamen consists of anther and filament.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s8_q10",
-      "text": "Flowers that contain either only pistil or only stamens are:",
-      "options": ["Bisexual flowers", "Unisexual flowers", "Complete flowers", "Neutral flowers"],
+      "text": "The female reproductive part of a flower is the:",
+      "options": ["Stamen", "Anther", "Pistil", "Filament"],
+      "correctIndex": 2,
+      "explanation": "Pistil (or carpel) consists of stigma, style, and ovary.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s8_q11",
+      "text": "Flowers that contain either only stamens or only pistil are called:",
+      "options": ["Bisexual flowers", "Unisexual flowers", "Complete flowers", "Double flowers"],
       "correctIndex": 1,
-      "explanation": "Examples include corn, papaya, and cucumber."
+      "explanation": "Examples include corn, papaya, and cucumber.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s8_q12",
+      "text": "Flowers that contain both stamens and pistil are called:",
+      "options": ["Unisexual flowers", "Bisexual flowers", "Incomplete flowers", "Sterile flowers"],
+      "correctIndex": 1,
+      "explanation": "Examples include mustard, rose, and petunia.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s8_q13",
+      "text": "Anther contains ______ which produce male gametes.",
+      "options": ["Ovules", "Pollen grains", "Eggs", "Zygote"],
+      "correctIndex": 1,
+      "explanation": "Pollen grains are carried to the stigma for pollination.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s8_q14",
+      "text": "Ovary contains one or more ______.",
+      "options": ["Anthers", "Pollen", "Ovules", "Stigmas"],
+      "correctIndex": 2,
+      "explanation": "The female gamete or egg is formed in an ovule.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s8_q15",
+      "text": "The transfer of pollen grains from anther to stigma is called:",
+      "options": ["Fertilization", "Pollination", "Germination", "Transpiration"],
+      "correctIndex": 1,
+      "explanation": "Pollination is the first step toward sexual reproduction in plants.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s8_q16",
+      "text": "If pollen lands on the stigma of the same flower, it is called:",
+      "options": ["Cross-pollination", "Self-pollination", "Autogamy", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "Self-pollination occurs within the same flower or another flower on the same plant.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s8_q17",
+      "text": "If pollen lands on the stigma of a flower of a different plant of the same kind, it is:",
+      "options": ["Self-pollination", "Cross-pollination", "Allogamy", "Hybridization"],
+      "correctIndex": 1,
+      "explanation": "Cross-pollination promotes genetic diversity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s8_q18",
+      "text": "The fusion of male and female gametes to form a zygote is called:",
+      "options": ["Pollination", "Fertilization", "Germination", "Budding"],
+      "correctIndex": 1,
+      "explanation": "This occurs inside the ovule after the pollen tube reaches it.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s8_q19",
+      "text": "After fertilization, the ovary grows into a:",
+      "options": ["Seed", "Fruit", "Leaf", "Root"],
+      "correctIndex": 1,
+      "explanation": "The fruit is the ripened ovary protecting the seeds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s8_q20",
+      "text": "After fertilization, the ovules develop into:",
+      "options": ["Fruits", "Flowers", "Seeds", "Stems"],
+      "correctIndex": 2,
+      "explanation": "Seeds contain the embryo and stored food.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s8_q21",
+      "text": "Which of the following is a method of seed dispersal?",
+      "options": ["Wind", "Water", "Animals", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Dispersal prevents competition between the parent and offspring.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s8_q22",
+      "text": "Winged seeds like those of maple are dispersed by:",
+      "options": ["Water", "Wind", "Animals", "Explosion"],
+      "correctIndex": 1,
+      "explanation": "Wings help the seeds glide and travel long distances in the air.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s8_q23",
+      "text": "Spiny seeds with hooks (like Xanthium) are dispersed by:",
+      "options": ["Wind", "Water", "Animals", "Explosion"],
+      "correctIndex": 2,
+      "explanation": "Hooks attach to the fur of animals or clothing of humans.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s8_q24",
+      "text": "Seeds of coconut are dispersed by:",
+      "options": ["Wind", "Water", "Animals", "Explosion"],
+      "correctIndex": 1,
+      "explanation": "Coconuts have a fibrous outer coat that allows them to float on water.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s8_q25",
+      "text": "Which plant reproduces through leaves?",
+      "options": ["Potato", "Rose", "Bryophyllum", "Wheat"],
+      "correctIndex": 2,
+      "explanation": "Bryophyllum has buds in the margins of its leaves.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s8_q26",
+      "text": "Potato reproduces by its 'eyes', which are actually:",
+      "options": ["Roots", "Leaves", "Buds", "Flowers"],
+      "correctIndex": 2,
+      "explanation": "These buds can grow into new potato plants.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s8_q27",
+      "text": "The 'rhizome' is a vegetative part of:",
+      "options": ["Ginger", "Sweet potato", "Rose", "Dahlia"],
+      "correctIndex": 0,
+      "explanation": "Rhizomes are underground modified stems.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s8_q28",
+      "text": "Plants like roses and grapes are usually grown by:",
+      "options": ["Seeds", "Stem cuttings", "Leaves", "Spores"],
+      "correctIndex": 1,
+      "explanation": "Cutting is a common method of vegetative propagation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s8_q29",
+      "text": "Bread mould reproduces through spores. Spores are:",
+      "options": ["Single-celled", "Protected by thick walls", "Produced in sporangia", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Spores can withstand unfavorable conditions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s8_q30",
+      "text": "The cells that result from the fusion of gametes is called:",
+      "options": ["Embryo", "Seed", "Zygote", "Fruit"],
+      "correctIndex": 2,
+      "explanation": "Zygote is the first cell of a new organism.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s8_q31",
+      "text": "Balsam and castor seeds are dispersed by:",
+      "options": ["Wind", "Water", "Explosion/Bursting of fruit", "Birds"],
+      "correctIndex": 2,
+      "explanation": "The fruits burst suddenly, scattering seeds away from the parent.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s8_q32",
+      "text": "A complete flower is one that has:",
+      "options": ["Only male parts", "Only female parts", "All four whorls (sepals, petals, stamens, pistil)", "Only petals"],
+      "correctIndex": 2,
+      "explanation": "It possesses both reproductive and non-reproductive whorls.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s8_q33",
+      "text": "The sticky part of the pistil that receives pollen is:",
+      "options": ["Stigma", "Style", "Ovary", "Ovule"],
+      "correctIndex": 0,
+      "explanation": "Stigma is specialized to capture pollen grains.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s8_q34",
+      "text": "Ferns and mosses reproduce by:",
+      "options": ["Fragmentation", "Budding", "Spores", "Flowers"],
+      "correctIndex": 2,
+      "explanation": "They are non-flowering plants that use spore formation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s8_q35",
+      "text": "Seed dispersal helps in:",
+      "options": ["Avoiding overcrowding", "Prevents competition for light and water", "Invasion of new habitats", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Dispersal is vital for the survival and expansion of plant species.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s8_q36",
+      "text": "Male gamete is found in ______.",
+      "options": ["Ovule", "Pollen grain", "Stigma", "Style"],
+      "correctIndex": 1,
+      "explanation": "Pollen contains the male sperm cells.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s8_q37",
+      "text": "Female gamete is found in ______.",
+      "options": ["Stigma", "Anther", "Ovule", "Filament"],
+      "correctIndex": 2,
+      "explanation": "Ovule contains the egg cell.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s8_q38",
+      "text": "The part that develops into an embryo is:",
+      "options": ["Fruit", "Zygote", "Pollen", "Stigma"],
+      "correctIndex": 1,
+      "explanation": "The zygote divides and develops into an embryo inside the seed.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s8_q39",
+      "text": "Fleshly fruits are exemplified by:",
+      "options": ["Mango", "Orange", "Apple", "All of these"],
+      "correctIndex": 3,
+      "explanation": "These fruits have a soft, succulent pericarp.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s8_q40",
+      "text": "Dry fruits include:",
+      "options": ["Almond", "Walnut", "Both A and B", "Mango"],
+      "correctIndex": 2,
+      "explanation": "These have a hard and dry pericarp at maturity.",
+      "frequencyRating": 4
     }
   ]
 }

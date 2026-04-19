@@ -1,0 +1,530 @@
+{
+  "id": "g8_sci_ch2",
+  "grade": "8",
+  "subject": "Science",
+  "number": "2",
+  "title": "Microorganisms: Friend and Foe",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_s2_q1",
+      "text": "Microorganisms are also called:",
+      "options": [
+        "Macro organisms",
+        "Microbes",
+        "Viruses only",
+        "Bacteria"
+      ],
+      "correctIndex": 1,
+      "explanation": "Microbes too small to see without microscope.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s2_q2",
+      "text": "Which is not a microorganism?",
+      "options": [
+        "Bacteria",
+        "Fungi",
+        "Ant",
+        "Virus"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ant is visible macroorganism.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s2_q3",
+      "text": "Habitat where microbes not found:",
+      "options": [
+        "Hot springs",
+        "Dry deserts",
+        "Boiling water",
+        "None"
+      ],
+      "correctIndex": 3,
+      "explanation": "Microbes found everywhere.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s2_q4",
+      "text": "Yeast is an example of:",
+      "options": [
+        "Bacteria",
+        "Fungi",
+        "Protozoa",
+        "Algae"
+      ],
+      "correctIndex": 1,
+      "explanation": "Single-celled fungus used in baking.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s2_q5",
+      "text": "Algae that gives green color to ponds:",
+      "options": [
+        "Spirogyra",
+        "Chlamydomonas",
+        "Both",
+        "None"
+      ],
+      "correctIndex": 2,
+      "explanation": "Autotrophic microbes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s2_q6",
+      "text": "Smallest microorganism:",
+      "options": [
+        "Bacteria",
+        "Virus",
+        "Fungi",
+        "Protozoa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Virus non-living outside host.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s2_q7",
+      "text": "Common bread mould:",
+      "options": [
+        "Rhizopus",
+        "Penicillium",
+        "Aspergillus",
+        "Mucor"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rhizopus stolonifer.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s2_q8",
+      "text": "Protozoa example:",
+      "options": [
+        "Amoeba",
+        "Paramecium",
+        "Both",
+        "None"
+      ],
+      "correctIndex": 2,
+      "explanation": "Unicellular animals.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s2_q9",
+      "text": "Vaccines contain:",
+      "options": [
+        "Killed/weak microbes",
+        "Antibiotics",
+        "Medicines",
+        "Viruses only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Develop immunity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s2_q10",
+      "text": "Antibiotics are obtained from:",
+      "options": [
+        "Fungi",
+        "Bacteria",
+        "Both",
+        "Virus"
+      ],
+      "correctIndex": 2,
+      "explanation": "Penicillin from Penicillium.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s2_q11",
+      "text": "Nitrogen fixation by:",
+      "options": [
+        "Rhizobium",
+        "Blue green algae",
+        "Both",
+        "Yeast"
+      ],
+      "correctIndex": 2,
+      "explanation": "In roots/soil.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s2_q12",
+      "text": "Food preservation by high temperature:",
+      "options": [
+        "Pasteurisation",
+        "Canning",
+        "Both",
+        "None"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kills microbes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s2_q13",
+      "text": "Disease caused by bacteria:",
+      "options": [
+        "Cholera",
+        "Tuberculosis",
+        "Typhoid",
+        "All"
+      ],
+      "correctIndex": 3,
+      "explanation": "Water/food borne.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s2_q14",
+      "text": "Virus needs for multiplication:",
+      "options": [
+        "Air",
+        "Living cell",
+        "Nutrients",
+        "Water"
+      ],
+      "correctIndex": 1,
+      "explanation": "Host cell.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s2_q15",
+      "text": "Female Anopheles mosquito carries:",
+      "options": [
+        "Dengue virus",
+        "Malaria parasite",
+        "Chikungunya",
+        "All"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plasmodium.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s2_q16",
+      "text": "Ringworm caused by:",
+      "options": [
+        "Bacteria",
+        "Fungi",
+        "Virus",
+        "Protozoa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Skin infection.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s2_q17",
+      "text": "Common cold caused by:",
+      "options": [
+        "Bacteria",
+        "Virus",
+        "Fungi",
+        "Protozoa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Airborne.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s2_q18",
+      "text": "Antiseptics used on:",
+      "options": [
+        "Body surface",
+        "In body",
+        "Both",
+        "None"
+      ],
+      "correctIndex": 0,
+      "explanation": "Prevent infection.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s2_q19",
+      "text": "Compost made by:",
+      "options": [
+        "Red worms",
+        "Microbes",
+        "Both",
+        "Chemicals"
+      ],
+      "correctIndex": 2,
+      "explanation": "Organic waste.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s2_q20",
+      "text": "Penicillin discovered by:",
+      "options": [
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Robert Koch",
+        "Jenner"
+      ],
+      "correctIndex": 1,
+      "explanation": "1928.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s2_q21",
+      "text": "Useful product of microbes:",
+      "options": [
+        "Idli",
+        "Bread",
+        "Jaggery",
+        "Cheese"
+      ],
+      "correctIndex": 3,
+      "explanation": "All food via fermentation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s2_q22",
+      "text": "Harmful effect: Food spoilage by:",
+      "options": [
+        "Bacteria/Fungi",
+        "Virus",
+        "Algae",
+        "Protozoa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Microbes grow on food.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s2_q23",
+      "text": "Sterilisation means:",
+      "options": [
+        "Kill all microbes",
+        "Reduce microbes",
+        "Add microbes",
+        "None"
+      ],
+      "correctIndex": 0,
+      "explanation": "Utensils in boiling water.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s2_q24",
+      "text": "Rabies vaccine by:",
+      "options": [
+        "Pasteur",
+        "Fleming",
+        "Koch",
+        "Lister"
+      ],
+      "correctIndex": 0,
+      "explanation": "Louis Pasteur.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s2_q25",
+      "text": "Azotobacter fixes nitrogen:",
+      "options": [
+        "Free living",
+        "Symbiotic",
+        "Legume",
+        "Algae"
+      ],
+      "correctIndex": 0,
+      "explanation": "Soil bacteria.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s2_q26",
+      "text": "Polio vaccine type:",
+      "options": [
+        "Injection",
+        "Oral",
+        "Both",
+        "Nasal"
+      ],
+      "correctIndex": 2,
+      "explanation": "OPV oral drops.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s2_q27",
+      "text": "Disinfectants used:",
+      "options": [
+        "In body",
+        "On surfaces",
+        "Drinking water",
+        "All"
+      ],
+      "correctIndex": 3,
+      "explanation": "e.g. chlorine.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s2_q28",
+      "text": "Malaria caused by:",
+      "options": [
+        "Virus",
+        "Bacteria",
+        "Protozoa",
+        "Fungi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Plasmodium via mosquito.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s2_q29",
+      "text": "Amylase in saliva from:",
+      "options": [
+        "Bacteria",
+        "Yeast",
+        "Virus",
+        "Fungi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Useful bacteria.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s2_q30",
+      "text": "Typhoid carrier:",
+      "options": [
+        "Housefly",
+        "Mosquito",
+        "Flea",
+        "None"
+      ],
+      "correctIndex": 0,
+      "explanation": "Flies contaminate food.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s2_q31",
+      "text": "Preservation by salt/sugar:",
+      "options": [
+        "Dehydration",
+        "High temp",
+        "Low temp",
+        "Pasteurisation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Plasmolysis.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s2_q32",
+      "text": "Anthrax disease in:",
+      "options": [
+        "Cattle",
+        "Humans",
+        "Plants",
+        "Both A&amp;B"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bacillus anthracis.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s2_q33",
+      "text": "Retrovirus example:",
+      "options": [
+        "HIV",
+        "Influenza",
+        "Polio",
+        "Rabies"
+      ],
+      "correctIndex": 0,
+      "explanation": "AIDS.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s2_q34",
+      "text": "Cheese production uses:",
+      "options": [
+        "Yeast",
+        "Lactobacillus",
+        "Rhizobium",
+        "Virus"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fermentation.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s2_q35",
+      "text": "MMR vaccine protects from:",
+      "options": [
+        "Measles, mumps, rubella",
+        "Malaria",
+        "TB",
+        "Hepatitis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Viral diseases.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s2_q36",
+      "text": "Spoilage in pickles prevented by:",
+      "options": [
+        "Oil layer",
+        "Salt",
+        "Vinegar",
+        "All"
+      ],
+      "correctIndex": 3,
+      "explanation": "High concentration.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s2_q37",
+      "text": "Bacteria carrying malaria:",
+      "options": [
+        "No",
+        "Yes",
+        "Protozoa",
+        "Virus"
+      ],
+      "correctIndex": 2,
+      "explanation": "Plasmodium protozoan.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s2_q38",
+      "text": "Vaccine given for smallpox:",
+      "options": [
+        "BCG",
+        "OPV",
+        "Variola",
+        "DPT"
+      ],
+      "correctIndex": 2,
+      "explanation": "Eradicated disease.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s2_q39",
+      "text": "Microbes used in sewage treatment:",
+      "options": [
+        "Aerobic bacteria",
+        "Anaerobic",
+        "Both",
+        "Fungi only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Decompose organic waste.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s2_q40",
+      "text": "AIDS spreads through:",
+      "options": [
+        "Casual contact",
+        "Blood/sexual contact",
+        "Mosquito",
+        "Air"
+      ],
+      "correctIndex": 1,
+      "explanation": "HIV virus.",
+      "frequencyRating": 5
+    }
+  ]
+}

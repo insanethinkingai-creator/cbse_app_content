@@ -8,73 +8,323 @@
   "questions": [
     {
       "id": "g7_s9_q1",
-      "text": "The distance moved by an object in unit time is called its:",
-      "options": ["Acceleration", "Speed", "Velocity", "Motion"],
-      "correctIndex": 1,
-      "explanation": "Speed = Total Distance / Total Time."
+      "text": "Which of the following is an example of rectilinear motion?",
+      "options": ["Motion of a pendulum", "Motion of a child on a swing", "Motion of a car on a straight road", "Motion of a fan"],
+      "correctIndex": 2,
+      "explanation": "Rectilinear motion is motion along a straight line.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s9_q2",
-      "text": "The basic unit of time is:",
-      "options": ["Minute", "Hour", "Second", "Day"],
+      "text": "Which of the following is a periodic motion?",
+      "options": ["A car speeding up", "A ball falling", "Oscillation of a pendulum", "Flight of a bird"],
       "correctIndex": 2,
-      "explanation": "While minutes and hours are used, the SI base unit for time is the second (s)."
+      "explanation": "Periodic motion repeats itself at regular intervals of time.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s9_q3",
-      "text": "A motion that repeats itself at regular intervals of time is:",
-      "options": ["Rectilinear motion", "Circular motion", "Periodic motion", "Non-uniform motion"],
-      "correctIndex": 2,
-      "explanation": "Examples include the swinging of a pendulum or the motion of the earth around the sun."
+      "text": "Speed of an object is defined as:",
+      "options": ["Total distance / Total time", "Total time / Total distance", "Distance × Time", "None of these"],
+      "correctIndex": 0,
+      "explanation": "Speed is the rate at which distance is covered.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s9_q4",
-      "text": "The time taken by a pendulum to complete one oscillation is its:",
-      "options": ["Frequency", "Amplitude", "Time period", "Speed"],
+      "text": "The basic unit of speed is:",
+      "options": ["km/min", "m/min", "m/s", "km/h"],
       "correctIndex": 2,
-      "explanation": "The time period of a simple pendulum is constant for a given length."
+      "explanation": "Meters per second (m/s) is the SI unit for speed.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s9_q5",
-      "text": "Which device is used to measure the speed of a vehicle?",
-      "options": ["Odometer", "Speedometer", "Thermometer", "Barometer"],
-      "correctIndex": 1,
-      "explanation": "The speedometer records the speed directly in km/h."
+      "text": "The basic unit of time is:",
+      "options": ["Minute", "Hour", "Second", "Day"],
+      "correctIndex": 2,
+      "explanation": "Second (s) is the SI base unit for time.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s9_q6",
-      "text": "The distance-time graph for an object moving with a constant speed is a:",
-      "options": ["Curved line", "Straight line", "Circle", "Zig-zag line"],
+      "text": "An instrument used to measure the distance travelled by a vehicle is:",
+      "options": ["Speedometer", "Odometer", "Thermometer", "Barometer"],
       "correctIndex": 1,
-      "explanation": "A straight line starting from the origin indicates uniform motion."
+      "explanation": "Odometer records the total distance covered by the vehicle.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s9_q7",
-      "text": "What does an odometer measure?",
-      "options": ["Speed", "Time", "Distance", "Fuel"],
-      "correctIndex": 2,
-      "explanation": "An odometer tracks the total distance covered by the vehicle."
+      "text": "The instrument used to measure the speed of a vehicle is:",
+      "options": ["Odometer", "Speedometer", "Anemometer", "Chronometer"],
+      "correctIndex": 1,
+      "explanation": "Speedometer shows the instantaneous speed of the vehicle.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s9_q8",
-      "text": "Which of these is the correct relationship?",
-      "options": ["Speed = Distance × Time", "Speed = Distance / Time", "Speed = Time / Distance", "Distance = Speed / Time"],
+      "text": "One full to-and-fro motion of a pendulum is called an:",
+      "options": ["Amplitude", "Oscillation", "Frequency", "Time period"],
       "correctIndex": 1,
-      "explanation": "This formula allows us to calculate any of the three variables if the other two are known."
+      "explanation": "The pendulum swings from one extreme position to another and back.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s9_q9",
-      "text": "A car travels 100 km in 2 hours. What is its speed?",
-      "options": ["200 km/h", "50 km/h", "25 km/h", "102 km/h"],
-      "correctIndex": 1,
-      "explanation": "Speed = 100 km / 2 h = 50 km/h."
+      "text": "The time taken by a pendulum to complete one oscillation is called its:",
+      "options": ["Time period", "Frequency", "Amplitude", "Speed"],
+      "correctIndex": 0,
+      "explanation": "Time period remains constant for a fixed length of the pendulum.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s9_q10",
-      "text": "Earlier, people measured time using:",
+      "text": "A car covers 100 km in 2 hours. Its speed is:",
+      "options": ["200 km/h", "50 km/h", "50 m/s", "102 km/h"],
+      "correctIndex": 1,
+      "explanation": "Speed = Distance / Time = 100 / 2 = 50 km/h.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s9_q11",
+      "text": "The distance-time graph for an object moving with a constant speed is a:",
+      "options": ["Curved line", "Straight line", "Circle", "Zig-zag line"],
+      "correctIndex": 1,
+      "explanation": "A straight line starting from origin indicates uniform speed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s9_q12",
+      "text": "Which of the following is NOT correct?",
+      "options": ["Time = Distance / Speed", "Distance = Speed × Time", "Speed = Distance / Time", "Distance = Speed / Time"],
+      "correctIndex": 3,
+      "explanation": "Distance is the product of speed and time.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s9_q13",
+      "text": "Earlier, time was measured using ______.",
       "options": ["Sundials", "Water clocks", "Sand clocks", "All of these"],
       "correctIndex": 3,
-      "explanation": "Before digital clocks, natural periodic events and these ancient devices were used to track time."
+      "explanation": "People used periodic events in nature like sunrise or moon phases before mechanical clocks.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s9_q14",
+      "text": "Galileo Galilei found that the time period of a pendulum depends on its:",
+      "options": ["Mass of the bob", "Amplitude", "Length", "Color"],
+      "correctIndex": 2,
+      "explanation": "Increasing the length of the string increases the time period.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s9_q15",
+      "text": "36 km/h is equal to ______ m/s.",
+      "options": ["10", "360", "1", "100"],
+      "correctIndex": 0,
+      "explanation": "36 * (5/18) = 10 m/s.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s9_q16",
+      "text": "Non-uniform motion is when an object:",
+      "options": ["Moves in a straight line", "Changes its speed", "Stays at rest", "Moves in a circle"],
+      "correctIndex": 1,
+      "explanation": "In non-uniform motion, the object covers unequal distances in equal intervals of time.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s9_q17",
+      "text": "A microsecond is one ______ of a second.",
+      "options": ["Tenth", "Hundredth", "Thousandth", "Millionth"],
+      "correctIndex": 3,
+      "explanation": "1 microsecond = 10^-6 seconds.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s9_q18",
+      "text": "Quartz clocks are more ______ than pendulum clocks.",
+      "options": ["Heavy", "Expensive", "Accurate", "Complex"],
+      "correctIndex": 2,
+      "explanation": "Electronic circuits in quartz clocks provide very precise timekeeping.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s9_q19",
+      "text": "If an object is at rest, its distance-time graph is a:",
+      "options": ["Vertical line", "Horizontal line parallel to time axis", "Slanting line", "Circle"],
+      "correctIndex": 1,
+      "explanation": "Distance does not change as time increases.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s9_q20",
+      "text": "Distance is measured in ______ in the SI system.",
+      "options": ["Kilometer", "Centimeter", "Meter", "Millimeter"],
+      "correctIndex": 2,
+      "explanation": "Meter (m) is the standard unit of length.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s9_q21",
+      "text": "A nanosecond is one-billionth of a:",
+      "options": ["Minute", "Second", "Hour", "Year"],
+      "correctIndex": 1,
+      "explanation": "Used for measuring extremely short time intervals in science.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s9_q22",
+      "text": "An object covers 15 meters in 1 second. Its speed is:",
+      "options": ["15 km/h", "15 m/s", "1.5 m/s", "54 m/s"],
+      "correctIndex": 1,
+      "explanation": "Speed = 15/1 = 15 m/s.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s9_q23",
+      "text": "What does a horizontal line on a distance-time graph indicate?",
+      "options": ["Constant speed", "Accelerating", "Object at rest", "Object returning"],
+      "correctIndex": 2,
+      "explanation": "Zero slope means zero speed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s9_q24",
+      "text": "Average speed is used because most objects:",
+      "options": ["Move in straight lines", "Move with uniform speed", "Move with non-uniform speed", "Do not move"],
+      "correctIndex": 2,
+      "explanation": "Real-world motion often involves starting, stopping, and varying speeds.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s9_q25",
+      "text": "Distance = ______ × Time",
+      "options": ["Mass", "Weight", "Speed", "Density"],
+      "correctIndex": 2,
+      "explanation": "Fundamental formula of kinematics.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s9_q26",
+      "text": "Which of these is a periodic event useful for measuring time?",
+      "options": ["Rainfall", "Sunrise", "Earthquake", "Bird flight"],
+      "correctIndex": 1,
+      "explanation": "Sunrise is predictable and occurs at regular intervals.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s9_q27",
+      "text": "The slope of a distance-time graph represents:",
+      "options": ["Distance", "Time", "Speed", "Area"],
+      "correctIndex": 2,
+      "explanation": "A steeper slope means a higher speed.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s9_q28",
+      "text": "If a car moves at 72 km/h, how much distance will it cover in 10 seconds?",
+      "options": ["720 m", "200 m", "20 m", "7.2 km"],
+      "correctIndex": 1,
+      "explanation": "72 km/h = 20 m/s. Distance = 20 * 10 = 200 m.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s9_q29",
+      "text": "Age of a person is expressed in:",
+      "options": ["Seconds", "Years", "Kilometers", "Degrees"],
+      "correctIndex": 1,
+      "explanation": "Years is a convenient larger unit of time.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s9_q30",
+      "text": "A year is the time taken by Earth to complete one ______ around the sun.",
+      "options": ["Rotation", "Revolution", "Vibration", "Spin"],
+      "correctIndex": 1,
+      "explanation": "This takes approximately 365.25 days.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s9_q31",
+      "text": "A day is the time taken by Earth to complete one ______ on its axis.",
+      "options": ["Revolution", "Rotation", "Oscillation", "Orbit"],
+      "correctIndex": 1,
+      "explanation": "One rotation takes 24 hours.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s9_q32",
+      "text": "The time between two consecutive new moons is a:",
+      "options": ["Day", "Month", "Year", "Week"],
+      "correctIndex": 1,
+      "explanation": "A lunar month is about 29.5 days.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s9_q33",
+      "text": "Simple pendulum is a mass (bob) suspended by a string that ______.",
+      "options": ["Spins", "Rotates", "Oscillates", "Falls"],
+      "correctIndex": 2,
+      "explanation": "It shows to-and-fro motion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s9_q34",
+      "text": "A faster vehicle covers a ______ distance in a given time.",
+      "options": ["Less", "More", "Same", "No"],
+      "correctIndex": 1,
+      "explanation": "Higher speed means more distance per unit time.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s9_q35",
+      "text": "Units of speed like m/min or km/min are ______.",
+      "options": ["Incorrect", "Not standard", "Valid but not SI", "Only for rockets"],
+      "correctIndex": 2,
+      "explanation": "They can be used depending on the context of the motion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s9_q36",
+      "text": "In a distance-time graph, time is usually plotted on the ______ axis.",
+      "options": ["Y-axis", "X-axis", "Both", "Origin"],
+      "correctIndex": 1,
+      "explanation": "Time is the independent variable.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s9_q37",
+      "text": "In a distance-time graph, distance is plotted on the ______ axis.",
+      "options": ["X-axis", "Y-axis", "Z-axis", "Origin"],
+      "correctIndex": 1,
+      "explanation": "Distance is the dependent variable.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s9_q38",
+      "text": "A pendulum bob is at rest in its ______ position.",
+      "options": ["Extreme", "Mean", "Highest", "Lowest"],
+      "correctIndex": 1,
+      "explanation": "The mean position is the equilibrium position in the middle.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s9_q39",
+      "text": "Sundials measure time by the position of the ______.",
+      "options": ["Moon", "Stars", "Sun (Shadow)", "Clouds"],
+      "correctIndex": 2,
+      "explanation": "Shadow cast by the sun changes position throughout the day.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s9_q40",
+      "text": "Is constant speed same as uniform motion?",
+      "options": ["Yes", "No", "Only for cars", "Only for pendulums"],
+      "correctIndex": 0,
+      "explanation": "Uniform motion means speed is constant throughout the journey.",
+      "frequencyRating": 5
     }
   ]
 }

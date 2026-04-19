@@ -7,84 +7,324 @@
   "version": "v1",
   "questions": [
     {
-      "id": "g7_civ_ch8_q1",
-      "text": "Where does the story of a shirt begin?",
-      "options": ["At the tailor's shop", "With the production of cotton by a farmer", "At the spinning mill", "In a shopping mall"],
+      "id": "g7_h8_q1",
+      "text": "The story of a shirt begins with the production of ________.",
+      "options": ["Silk", "Cotton", "Wool", "Polyester"],
       "correctIndex": 1,
-      "explanation": "The production cycle starts with the farmer growing cotton on their land.",
+      "explanation": "Cotton is the basic raw material needed to manufacture most shirts.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch8_q2",
-      "text": "A 'ginning mill' is a place where:",
-      "options": ["Cloth is dyed", "Seeds are removed from cotton bolls", "Shirts are stitched", "Yarn is woven into cloth"],
+      "id": "g7_h8_q2",
+      "text": "Kurnool is a place in ________ famous for cotton cultivation.",
+      "options": ["Tamil Nadu", "Andhra Pradesh", "Gujarat", "Punjab"],
       "correctIndex": 1,
-      "explanation": "The ginning mill processes the raw cotton to press it into bales for spinning.",
-      "frequencyRating": 4
+      "explanation": "Swapna, a small farmer, lives in Kurnool and grows cotton on her small plot of land.",
+      "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch8_q3",
-      "text": "The 'Erode' bi-weekly cloth market is located in which state?",
-      "options": ["Kerala", "Karnataka", "Tamil Nadu", "Andhra Pradesh"],
+      "id": "g7_h8_q3",
+      "text": "Why do small farmers like Swapna borrow money from local traders?",
+      "options": ["To buy a car", "To buy seeds, fertilizers and pesticides", "To go on holiday", "To build a mall"],
+      "correctIndex": 1,
+      "explanation": "Agriculture requires expensive inputs, and poor farmers often don't have savings.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q4",
+      "text": "What condition did the trader put on Swapna for the loan?",
+      "options": ["Pay double interest", "Sell her cotton only to him", "Work in his house", "Give her land to him"],
+      "correctIndex": 1,
+      "explanation": "This ensures the trader gets the cotton at a lower price and can sell it for a profit.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q5",
+      "text": "Swapna's income from the cotton was ________.",
+      "options": ["Very high", "Barely more than what she would have earned as a labourer", "Millions of rupees", "Zero"],
+      "correctIndex": 1,
+      "explanation": "After paying back the loan and interest, very little was left for her family's needs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q6",
+      "text": "The Erode bi-weekly cloth market is located in ________.",
+      "options": ["Kerala", "Tamil Nadu", "Karnataka", "Maharashtra"],
+      "correctIndex": 1,
+      "explanation": "It is one of the largest cloth markets in the world.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q7",
+      "text": "What is the 'Putting-out system'?",
+      "options": ["Putting out a fire", "A system where merchants supply raw material and receive finished products from weavers", "A type of game", "A government tax"],
+      "correctIndex": 1,
+      "explanation": "In this system, weavers work at home and get paid for their labour by the merchants.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q8",
+      "text": "A major disadvantage for weavers in the putting-out system is that ________.",
+      "options": ["They don't have to work", "They don't know the price of the finished cloth and are paid very little", "They get too much money", "They have too much yarn"],
+      "correctIndex": 1,
+      "explanation": "Merchants have all the power as they own the yarn and control the market.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q9",
+      "text": "Weavers have to invest ________ of their own money to buy and set up looms.",
+      "options": ["Nothing", "A large amount", "A small amount", "Only 10 rupees"],
+      "correctIndex": 1,
+      "explanation": "A loom can cost up to Rs 20,000, and a weaver family often needs two or more.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q10",
+      "text": "Weavers' cooperatives are formed so that ________.",
+      "options": ["They can play sports", "They can reduce their dependence on merchants and earn more", "They can leave the village", "They can stop working"],
+      "correctIndex": 1,
+      "explanation": "Cooperatives help weavers buy yarn and sell cloth directly to the market or government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q11",
+      "text": "The garment exporting factory in Delhi mainly sells clothes to ________.",
+      "options": ["Local villagers", "Foreign buyers from US and Europe", "Other weavers", "Small shops"],
+      "correctIndex": 1,
+      "explanation": "These buyers demand high quality and strict delivery schedules at very low prices.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q12",
+      "text": "To keep their costs low, garment factories ________.",
+      "options": ["Give high wages", "Pay the lowest possible wages to workers", "Use gold thread", "Work only 1 hour"],
+      "correctIndex": 1,
+      "explanation": "This allows them to maximize their own profits while meeting the demands of foreign buyers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q13",
+      "text": "Most workers in garment factories are ________.",
+      "options": ["Men", "Women", "Children under 5", "Foreigners"],
+      "correctIndex": 1,
+      "explanation": "Women are often employed for tasks like thread cutting, buttoning, and ironing.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q14",
+      "text": "In a US mall, a shirt that was bought from the factory for Rs 300 might be sold for ________.",
+      "options": ["Rs 300", "Rs 500", "Rs 1,800 ($26)", "Rs 50"],
       "correctIndex": 2,
-      "explanation": "Erode in Tamil Nadu has one of the largest cloth markets in the world.",
+      "explanation": "The US merchant spends a lot on advertising and storage, and keeps a huge profit for himself.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch8_q4",
-      "text": "In the 'putting-out system', the relationship between the merchant and the weavers is that:",
-      "options": ["Merchant provides raw material and buys the finished product", "Weavers buy their own yarn", "The government controls the price", "The weavers sell directly to consumers"],
-      "correctIndex": 0,
-      "explanation": "This system favors the merchants as weavers depend on them for yarn and have no control over the selling price.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g7_civ_ch8_q5",
-      "text": "Why do weavers often form cooperatives?",
-      "options": ["To avoid work", "To reduce dependence on merchants and earn more", "To travel together", "Because the law requires it"],
-      "correctIndex": 1,
-      "explanation": "In a cooperative, people with common interests work together to get a fair price for their labor.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g7_civ_ch8_q6",
-      "text": "Most garment exporting factories in India stitch clothes for:",
-      "options": ["Local villagers", "Domestic markets only", "Foreign buyers in USA and Europe", "Small neighborhood shops"],
-      "correctIndex": 2,
-      "explanation": "These factories work under strict conditions set by powerful foreign business chains.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g7_civ_ch8_q7",
-      "text": "In the chain of market, who usually makes the maximum profit on a shirt sold in the USA?",
-      "options": ["The cotton farmer", "The weaver", "The garment factory owner", "The large businessperson/Foreign retailer"],
+      "id": "g7_h8_q15",
+      "text": "Who earns the *most* in the chain of markets for a shirt?",
+      "options": ["Small farmer", "Weaver", "Garment factory worker", "Foreign businessperson"],
       "correctIndex": 3,
-      "explanation": "The retailer in the foreign country sells the shirt at a high price while having much higher margins than the producers.",
+      "explanation": "The top of the chain (retailers in wealthy countries) takes the largest share of the profit.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch8_q8",
-      "text": "A shirt that costs ₹300 to make is sold in a US mall for ₹1800 ($26 approx). This shows:",
-      "options": ["Equality in the market", "Great imbalance in profit distribution", "Efficient transport", "Fair trade"],
+      "id": "g7_h8_q16",
+      "text": "Who earns the *least* in the chain of markets?",
+      "options": ["Wholesaler", "Small producer/worker", "Big business person", "Factory owner"],
       "correctIndex": 1,
-      "explanation": "The market chain often yields very little for the small farmer and the weaver compared to the big businessmen.",
+      "explanation": "Those who do the most physical labor (farmers/weavers) often get the smallest financial reward.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q17",
+      "text": "Markets offer opportunities for work but ________.",
+      "options": ["Do not always provide fair wages", "Are only in cities", "Have no goods", "Are only for food"],
+      "correctIndex": 0,
+      "explanation": "Equality is often missing in the way profits are distributed in a market chain.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q18",
+      "text": "A 'Ginning Mill' is a place where ________.",
+      "options": ["Shirt is ironed", "Cotton is cleaned and seeds are removed", "Cloth is woven", "Buttons are fixed"],
+      "correctIndex": 1,
+      "explanation": "This is one of the early steps in the processing of cotton.",
       "frequencyRating": 4
     },
     {
-      "id": "g7_civ_ch8_q9",
-      "text": "The market offers people opportunities for work, but it does not ensure ________ between people.",
-      "options": ["Trade", "Equality", "Communication", "Competition"],
+      "id": "g7_h8_q19",
+      "text": "A 'Merchant' in the Erode market is the one who ________.",
+      "options": ["Grows cotton", "Links the weaver to the garment exporter", "Works in the factory", "Buys a shirt for himself"],
       "correctIndex": 1,
-      "explanation": "While it connects producers and consumers, the gains are highly unequal.",
+      "explanation": "They take orders from exporters and get the work done through weavers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q20",
+      "text": "Cotton needs a ________ to grow.",
+      "options": ["Lots of rain only", "Significant amount of time and chemical inputs (pesticides)", "Cold climate", "Marshy land"],
+      "correctIndex": 1,
+      "explanation": "It is a demanding crop that requires careful management and expensive materials.",
       "frequencyRating": 4
     },
     {
-      "id": "g7_civ_ch8_q10",
-      "text": "Who are the 'intermediaries' in the cotton market chain?",
-      "options": ["Consumers", "Farmers", "Traders and Merchants", "Agricultural workers"],
-      "correctIndex": 2,
-      "explanation": "Traders and merchants connect the producers (farmers/weavers) to the manufacturers and retailers.",
+      "id": "g7_h8_q21",
+      "text": "Why do weavers depend on merchants?",
+      "options": ["For food only", "For supply of yarn and for selling cloth", "For transport", "For books"],
+      "correctIndex": 1,
+      "explanation": "Merchants control the raw materials and the access to buyers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q22",
+      "text": "The garment exporter in the story is ________.",
+      "options": ["Earning zero profit", "In the middle between the merchant and the foreign buyer", "The richest person", "A small farmer"],
+      "correctIndex": 1,
+      "explanation": "He makes more than the weaver but much less than the foreign businessperson.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h8_q23",
+      "text": "The worker in the Delhi factory who irons the shirts earns about ________ per month.",
+      "options": ["Rs 50,000", "Rs 3,000", "Rs 10,000", "Rs 100,000"],
+      "correctIndex": 1,
+      "explanation": "Ironing is one of the lower-paid jobs in the factory chain.",
       "frequencyRating": 3
+    },
+    {
+      "id": "g7_h8_q24",
+      "text": "Democracy is about getting a ________ in the market.",
+      "options": ["Free shirt", "Fair wage", "Job in a mall", "Big car"],
+      "correctIndex": 1,
+      "explanation": "Whether it's Swapna or the weaver, if they don't get a fair price, they are not equal in the market.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q25",
+      "text": "A 'Bale' is a ________.",
+      "options": ["Type of fruit", "Pressed bundle of cotton ready for shipping", "Name of a weaver", "Small coin"],
+      "correctIndex": 1,
+      "explanation": "Ginning mills press cotton into bales to send to spinning mills.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h8_q26",
+      "text": "The 'Powerloom' is ________.",
+      "options": ["A hand-operated loom", "A loom operated by electricity", "A big factory only", "A sewing machine"],
+      "correctIndex": 1,
+      "explanation": "Electricity-powered looms are much faster than manual ones.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q27",
+      "text": "Co-optex is a ________.",
+      "options": ["Foreign company", "Tamil Nadu government organization that buys cloth from cooperatives", "Type of cotton", "Ginning mill"],
+      "correctIndex": 1,
+      "explanation": "Government initiatives help ensure weavers get a market for their products.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_h8_q28",
+      "text": "Foreign buyers often have 'Standard' requirements for ________.",
+      "options": ["Only color", "Quality of production and timely delivery", "Only price", "Nothing"],
+      "correctIndex": 1,
+      "explanation": "Any defect or delay results in heavy penalties for the exporter.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q29",
+      "text": "The highest paid worker in the garment factory is the ________.",
+      "options": ["Tailor", "Ironing person", "Checker", "Helper"],
+      "correctIndex": 0,
+      "explanation": "Tailoring is a skilled job that commands a slightly better wage (around Rs 3,000 in the book's context).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h8_q30",
+      "text": "Which process turns cotton fibre into yarn?",
+      "options": ["Ginning", "Spinning", "Weaving", "Ironing"],
+      "correctIndex": 1,
+      "explanation": "Spinning mills take the cotton bales and turn them into threads or yarn.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q31",
+      "text": "What is the biggest challenge for small farmers like Swapna?",
+      "options": ["No land", "Lack of bargaining power against powerful traders", "No seeds", "Too much rain"],
+      "correctIndex": 1,
+      "explanation": "Because she depends on the trader for loans, she cannot argue about the low price he pays.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q32",
+      "text": "In Erode, merchants usually give orders based on ________.",
+      "options": ["Their own needs", "Demands from garment exporters and retailers", "What the weavers want", "What children like"],
+      "correctIndex": 1,
+      "explanation": "The merchant is a middleman driven by market demand.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h8_q33",
+      "text": "A weaver spends almost ________ hours a day on the loom.",
+      "options": ["2", "12", "5", "1"],
+      "correctIndex": 1,
+      "explanation": "It is a labor-intensive job that requires the whole family to participate.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h8_q34",
+      "text": "The price of a shirt in a mall includes ________ costs.",
+      "options": ["Advertising and display", "Storage", "Profits", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "A large part of the final price has nothing to do with the actual manufacturing cost.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q35",
+      "text": "Does the market give everyone equal benefit?",
+      "options": ["Yes", "No, it favors the powerful and wealthy", "Only in the US", "Only for farmers"],
+      "correctIndex": 1,
+      "explanation": "The wealthy traders and businesspeople earn the most, while producers stay poor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q36",
+      "text": "Yarn is used to ________ cloth.",
+      "options": ["Clean", "Weave", "Eat", "Grow"],
+      "correctIndex": 1,
+      "explanation": "Yarn consists of spun fibers that are woven on a loom to create fabric.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q37",
+      "text": "Why do garment exporters accept low prices from foreign buyers?",
+      "options": ["They are nice", "To get large orders and stay in business", "They have too much money", "The government forces them"],
+      "correctIndex": 1,
+      "explanation": "Competition among exporters in different countries (like India, China, Vietnam) keeps prices low.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h8_q38",
+      "text": "In the putting-out system, the weaver is effectively a ________.",
+      "options": ["Boss", "Wage-worker for the merchant", "Independent businessman", "Foreign buyer"],
+      "correctIndex": 1,
+      "explanation": "Although they work at home, they have no control over the product or its price.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q39",
+      "text": "Which of these is a way to improve the condition of producers?",
+      "options": ["Borrowing more money", "Forming cooperatives and direct market links", "Selling for even less", "Stopping work"],
+      "correctIndex": 1,
+      "explanation": "By working together, small producers can gain better bargaining power.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h8_q40",
+      "text": "The 'Chain of Markets' connects the producer of ________ to the consumer of the ________.",
+      "options": ["Cotton, Shirt", "Cars, Food", "Books, Shoes", "Water, Air"],
+      "correctIndex": 0,
+      "explanation": "The story of the shirt illustrates how raw material becomes a finished global product.",
+      "frequencyRating": 5
     }
   ]
 }

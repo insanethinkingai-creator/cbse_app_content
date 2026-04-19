@@ -8,73 +8,323 @@
   "questions": [
     {
       "id": "g7_m3_q1",
-      "text": "The average of a set of data is also called the:",
-      "options": ["Mode", "Median", "Arithmetic Mean", "Range"],
-      "correctIndex": 2,
-      "explanation": "Arithmetic Mean is calculated by dividing the sum of observations by the total number of observations."
+      "text": "The difference between the highest and lowest observations in a data set is called:",
+      "options": ["Mean", "Median", "Mode", "Range"],
+      "correctIndex": 3,
+      "explanation": "Range = Highest Value - Lowest Value.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m3_q2",
-      "text": "The difference between the highest and lowest observations is called:",
-      "options": ["Mean", "Range", "Frequency", "Mode"],
+      "text": "The arithmetic mean of 1, 2, 3, 4, 5 is:",
+      "options": ["2", "3", "4", "5"],
       "correctIndex": 1,
-      "explanation": "Range gives an idea of the spread of the data."
+      "explanation": "Mean = Sum/Count = (1+2+3+4+5)/5 = 15/5 = 3.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m3_q3",
-      "text": "The observation that occurs most frequently in a data set is the:",
-      "options": ["Median", "Mean", "Range", "Mode"],
-      "correctIndex": 3,
-      "explanation": "Mode represents the value with the highest frequency."
+      "text": "The observation that occurs most frequently in a data set is called:",
+      "options": ["Mean", "Median", "Mode", "Range"],
+      "correctIndex": 2,
+      "explanation": "Mode is the most common value.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m3_q4",
-      "text": "The middle value of a data set when arranged in order is the:",
-      "options": ["Mean", "Median", "Mode", "Range"],
-      "correctIndex": 1,
-      "explanation": "Median is the middle observation after sorting data in ascending or descending order."
+      "text": "Find the range of the following data: 2, 10, 5, 8, 20, 15",
+      "options": ["18", "15", "20", "2"],
+      "correctIndex": 0,
+      "explanation": "Highest (20) - Lowest (2) = 18.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m3_q5",
-      "text": "What is the probability of an event that is certain to happen?",
-      "options": ["0", "0.5", "1", "100"],
-      "correctIndex": 2,
-      "explanation": "The probability of a sure event is always 1."
+      "text": "The value which lies in the middle of a data set when arranged in order is:",
+      "options": ["Mean", "Median", "Mode", "Range"],
+      "correctIndex": 1,
+      "explanation": "Median is the middle value.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m3_q6",
-      "text": "When a die is thrown, how many possible outcomes are there?",
-      "options": ["2", "4", "6", "1"],
-      "correctIndex": 2,
-      "explanation": "A standard die has six faces numbered 1 to 6."
+      "text": "Find the median of the data: 24, 36, 46, 17, 18, 25, 35",
+      "options": ["17", "25", "35", "24"],
+      "correctIndex": 1,
+      "explanation": "Arranged: 17, 18, 24, 25, 35, 36, 46. The 4th value is 25.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_m3_q7",
-      "text": "What is the mean of the first five natural numbers?",
-      "options": ["2", "3", "4", "5"],
-      "correctIndex": 1,
-      "explanation": "(1+2+3+4+5)/5 = 15/5 = 3."
+      "text": "Probability of a sure event is:",
+      "options": ["0", "0.5", "1", "Cannot be determined"],
+      "correctIndex": 2,
+      "explanation": "A sure event always happens, so its probability is 1.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m3_q8",
-      "text": "The probability of an impossible event is:",
-      "options": ["1", "0", "-1", "0.1"],
-      "correctIndex": 1,
-      "explanation": "An event that cannot happen has a probability of 0."
+      "text": "Probability of an impossible event is:",
+      "options": ["0", "0.5", "1", "-1"],
+      "correctIndex": 0,
+      "explanation": "Impossible events never happen, so probability is 0.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m3_q9",
-      "text": "A coin is tossed. What is the probability of getting a Head?",
-      "options": ["1", "0", "1/2", "2"],
+      "text": "When a coin is tossed, what is the probability of getting a Head?",
+      "options": ["1", "0", "1/2", "1/4"],
       "correctIndex": 2,
-      "explanation": "There is 1 favorable outcome (Head) out of 2 total outcomes (Head, Tail)."
+      "explanation": "Total outcomes = 2 (H, T). Favorable = 1 (H). Prob = 1/2.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m3_q10",
-      "text": "Find the range of the data: 2, 4, 8, 9, 11.",
-      "options": ["9", "11", "2", "7"],
+      "text": "A die is thrown. What is the probability of getting a number 7?",
+      "options": ["1/6", "1", "0", "6"],
+      "correctIndex": 2,
+      "explanation": "A standard die only has numbers 1 to 6.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m3_q11",
+      "text": "The mean of first five natural numbers is:",
+      "options": ["5", "3", "2.5", "15"],
+      "correctIndex": 1,
+      "explanation": "(1+2+3+4+5)/5 = 3.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m3_q12",
+      "text": "The mean of first five whole numbers is:",
+      "options": ["2", "2.5", "3", "10"],
       "correctIndex": 0,
-      "explanation": "Range = Highest value - Lowest value = 11 - 2 = 9."
+      "explanation": "(0+1+2+3+4)/5 = 10/5 = 2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m3_q13",
+      "text": "In a bar graph, the bars have ______ width and ______ gaps between them.",
+      "options": ["Equal, Equal", "Different, Different", "Equal, Different", "Different, Equal"],
+      "correctIndex": 0,
+      "explanation": "Standard properties of a bar graph.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m3_q14",
+      "text": "What is the mode of the data: 1, 1, 2, 4, 3, 2, 1, 2, 2, 4?",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 1,
+      "explanation": "2 appears 4 times, 1 appears 3 times. Mode is 2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m3_q15",
+      "text": "Probability of drawing a Red ball from a bag containing 3 Red and 2 Blue balls is:",
+      "options": ["3/2", "2/3", "3/5", "2/5"],
+      "correctIndex": 2,
+      "explanation": "Favorable (3) / Total (5) = 3/5.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m3_q16",
+      "text": "Mean is also known as:",
+      "options": ["Average", "Frequency", "Sample", "Chance"],
+      "correctIndex": 0,
+      "explanation": "Arithmetic mean is the common average.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m3_q17",
+      "text": "The data represented by points joined by line segments is a:",
+      "options": ["Bar Graph", "Pictograph", "Line Graph", "Double Bar Graph"],
+      "correctIndex": 2,
+      "explanation": "Definition of a line graph.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m3_q18",
+      "text": "Range of the data 35, 50, 48, 62, 27, 39, 43 is:",
+      "options": ["27", "35", "62", "35"],
+      "correctIndex": 3,
+      "explanation": "62 - 27 = 35.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m3_q19",
+      "text": "If mean of 4, 6, x, 9, 10 is 7, then x is:",
+      "options": ["6", "7", "8", "9"],
+      "correctIndex": 0,
+      "explanation": "Sum = 29 + x. Mean = (29+x)/5 = 7 => 29+x=35 => x=6.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m3_q20",
+      "text": "Which measure is best for 'most popular' items?",
+      "options": ["Mean", "Median", "Mode", "Range"],
+      "correctIndex": 2,
+      "explanation": "Mode shows frequency, indicating popularity.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m3_q21",
+      "text": "Tally marks are usually grouped in sets of:",
+      "options": ["2", "4", "5", "10"],
+      "correctIndex": 2,
+      "explanation": "Four vertical lines and one diagonal across them.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m3_q22",
+      "text": "Probability of getting an even number on a die is:",
+      "options": ["1/6", "1/2", "1/3", "2/3"],
+      "correctIndex": 1,
+      "explanation": "Even numbers: 2, 4, 6 (3 outcomes). 3/6 = 1/2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m3_q23",
+      "text": "Median of data 13, 16, 12, 14, 19, 12, 14, 13, 14 is:",
+      "options": ["12", "13", "14", "16"],
+      "correctIndex": 2,
+      "explanation": "Sorted: 12, 12, 13, 13, 14, 14, 14, 16, 19. 5th is 14.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m3_q24",
+      "text": "Double bar graphs are useful for:",
+      "options": ["Comparing two data sets", "Single data sets", "Finding mean", "None"],
+      "correctIndex": 0,
+      "explanation": "Used for comparison, e.g., marks in two different terms.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m3_q25",
+      "text": "The sum of all probabilities of a trial is:",
+      "options": ["0", "0.5", "1", "Infinity"],
+      "correctIndex": 2,
+      "explanation": "Total probability of all outcomes always sums to 1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m3_q26",
+      "text": "Range of first 10 prime numbers is:",
+      "options": ["27", "29", "2", "31"],
+      "correctIndex": 0,
+      "explanation": "Primes: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29. 29 - 2 = 27.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m3_q27",
+      "text": "Can mode be more than one for a data set?",
+      "options": ["Yes", "No", "Only for integers", "Only for small data"],
+      "correctIndex": 0,
+      "explanation": "Data sets can be bimodal or multimodal.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m3_q28",
+      "text": "Mean is always one of the numbers in a data set.",
+      "options": ["True", "False", "Only for evens", "Only for small data"],
+      "correctIndex": 1,
+      "explanation": "Mean can be a fraction or a value not present in the set.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m3_q29",
+      "text": "Median is always one of the numbers in a data set (if count is odd).",
+      "options": ["True", "False", "Sometimes", "Only for primes"],
+      "correctIndex": 0,
+      "explanation": "If count is odd, median is the middle observation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m3_q30",
+      "text": "A coin is tossed 100 times. Heads appeared 45 times. Frequency of Tails is:",
+      "options": ["45", "55", "100", "0"],
+      "correctIndex": 1,
+      "explanation": "100 - 45 = 55.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m3_q31",
+      "text": "Probability of drawing a king from a deck of 52 cards is:",
+      "options": ["1/52", "4/52", "1/13", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "There are 4 kings in a deck. 4/52 simplifies to 1/13.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m3_q32",
+      "text": "Numerical information is called:",
+      "options": ["Data", "Fact", "Equation", "Expression"],
+      "correctIndex": 0,
+      "explanation": "Basic definition of data.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m3_q33",
+      "text": "Finding 'central' values is called measures of:",
+      "options": ["Central Tendency", "Spread", "Probability", "Range"],
+      "correctIndex": 0,
+      "explanation": "Mean, median, mode are measures of central tendency.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m3_q34",
+      "text": "Mode of 2, 2, 3, 3, 4, 4 is:",
+      "options": ["2", "3", "4", "All of these"],
+      "correctIndex": 3,
+      "explanation": "All three values have the same maximum frequency.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m3_q35",
+      "text": "Probability always lies between:",
+      "options": ["-1 and 1", "0 and 1", "1 and 100", "0 and infinity"],
+      "correctIndex": 1,
+      "explanation": "Probability is never negative and never greater than 1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m3_q36",
+      "text": "The 'average' height of students in a class is calculated by:",
+      "options": ["Mean", "Median", "Mode", "Range"],
+      "correctIndex": 0,
+      "explanation": "Mean provides the standard average height.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m3_q37",
+      "text": "Representing data using pictures is:",
+      "options": ["Bar Graph", "Line Graph", "Pictograph", "Table"],
+      "correctIndex": 2,
+      "explanation": "Definition of pictograph.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m3_q38",
+      "text": "Median of 10, 15, 20, 25, 30 is:",
+      "options": ["15", "20", "25", "20.5"],
+      "correctIndex": 1,
+      "explanation": "Data is already ordered. Middle value is 20.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m3_q39",
+      "text": "Mode of a set of data is always one of the numbers in the data.",
+      "options": ["True", "False", "Sometimes", "Only for even sets"],
+      "correctIndex": 0,
+      "explanation": "Mode must be a value that exists in the observations.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m3_q40",
+      "text": "Data Handling involves:",
+      "options": ["Collecting data", "Organising data", "Interpreting data", "All of these"],
+      "correctIndex": 3,
+      "explanation": "It covers the entire lifecycle of data analysis.",
+      "frequencyRating": 5
     }
   ]
 }

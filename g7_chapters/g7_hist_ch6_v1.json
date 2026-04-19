@@ -1,0 +1,330 @@
+{
+  "id": "g7_hist_ch6",
+  "grade": "7",
+  "subject": "History",
+  "number": "6",
+  "title": "Devotional Paths to the Divine",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_h6_q1",
+      "text": "The idea of a 'Supreme God' who could deliver humans from bondage through devotion (bhakti) is found in the:",
+      "options": ["Vedas", "Bhagavad Gita", "Tripitakas", "Jatakas"],
+      "correctIndex": 1,
+      "explanation": "The Bhagavad Gita popularized the idea that devotion to a personal god could lead to salvation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h6_q2",
+      "text": "The Nayanars were devotees of which deity?",
+      "options": ["Vishnu", "Shiva", "Durga", "Surya"],
+      "correctIndex": 1,
+      "explanation": "The Nayanars were a group of 63 saints devoted to Lord Shiva.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h6_q3",
+      "text": "How many Alvars were there in total?",
+      "options": ["12", "63", "10", "108"],
+      "correctIndex": 0,
+      "explanation": "There were 12 Alvars, who were saints devoted to Lord Vishnu.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h6_q4",
+      "text": "Which philosopher advocated the doctrine of 'Advaita' (oneness of the individual soul and the Supreme God)?",
+      "options": ["Ramanuja", "Shankara", "Basavanna", "Kabir"],
+      "correctIndex": 1,
+      "explanation": "Shankara, born in Kerala, taught that the Brahman is the only ultimate reality.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h6_q5",
+      "text": "Ramanuja, influenced by the Alvars, propounded the doctrine of:",
+      "options": ["Advaita", "Vishishtadvaita", "Virashaivism", "Sufism"],
+      "correctIndex": 1,
+      "explanation": "Vishishtadvaita (qualified oneness) suggests the soul remains distinct even when united with God.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h6_q6",
+      "text": "The Virashaiva movement was initiated by Basavanna and his companions in:",
+      "options": ["Kerala", "Tamil Nadu", "Karnataka", "Maharashtra"],
+      "correctIndex": 2,
+      "explanation": "This movement started in Karnataka in the mid-twelfth century.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h6_q7",
+      "text": "Which of the following was a central belief of the Virashaivas?",
+      "options": ["Equality of all human beings", "Strict adherence to caste", "Worship of many idols", "Animal sacrifice"],
+      "correctIndex": 0,
+      "explanation": "Virashaivas argued strongly for human equality and against Brahmanical ideas about caste.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h6_q8",
+      "text": "The saints of Maharashtra, like Namdev and Tukaram, worshipped:",
+      "options": ["Lord Rama", "Lord Vitthala", "Goddess Kali", "Lord Buddha"],
+      "correctIndex": 1,
+      "explanation": "Vitthala is a form of Vishnu, centered around the temple in Pandharpur.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h6_q9",
+      "text": "Who said, 'He is a Vaishnava who understands the pain of others'?",
+      "options": ["Jnaneshwar", "Narsi Mehta", "Eknath", "Tulsidas"],
+      "correctIndex": 1,
+      "explanation": "This famous line by Narsi Mehta emphasizes the humanitarian aspect of Bhakti.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h6_q10",
+      "text": "The Nathpanthis, Siddhas, and Yogis criticized ritualism and advocated for:",
+      "options": ["Idol worship", "Meditation on the formless Ultimate Reality", "Pilgrimage to Kashi", "Strict fasting"],
+      "correctIndex": 1,
+      "explanation": "They believed the path to salvation lay in meditation and yoga.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h6_q11",
+      "text": "Sufis were ________ mystics.",
+      "options": ["Hindu", "Buddhist", "Muslim", "Christian"],
+      "correctIndex": 2,
+      "explanation": "Sufis were Muslim mystics who rejected outward religiosity and emphasized love for God.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h6_q12",
+      "text": "The genealogical list of Sufi teachers is called:",
+      "options": ["Khanqah", "Silsilah", "Zikr", "Dargah"],
+      "correctIndex": 1,
+      "explanation": "Silsilahs were orders of Sufis, each following a slightly different method of instruction.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h6_q13",
+      "text": "A Sufi hospice where religious discussions took place was known as:",
+      "options": ["Madrasa", "Khanqah", "Masjid", "Qila"],
+      "correctIndex": 1,
+      "explanation": "Khanqahs or hospices were centers where people from all walks of life met Sufi masters.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h6_q14",
+      "text": "Who was the founder of the Chishti Silsilah in India?",
+      "options": ["Baba Farid", "Khwaja Muinuddin Chishti", "Nizamuddin Auliya", "Gisudaraz"],
+      "correctIndex": 1,
+      "explanation": "He settled in Ajmer and is one of the most revered Sufi saints in the subcontinent.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h6_q15",
+      "text": "The compilation of Kabir's verses is found in:",
+      "options": ["Bijak", "Guru Granth Sahib", "Panch Vani", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Kabir's ideas were preserved in the Bijak and were also included in the Holy Scriptures of the Sikhs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h6_q16",
+      "text": "Kabir's teachings were based on a complete rejection of:",
+      "options": ["Religious traditions", "Caste system", "Idol worship", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Kabir ridiculed all forms of external worship of both Brahmanical Hinduism and Islam.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h6_q17",
+      "text": "Baba Guru Nanak was born in:",
+      "options": ["Amritsar", "Talwandi", "Kartarpur", "Patna"],
+      "correctIndex": 1,
+      "explanation": "He was born in Talwandi (Nankana Sahib in present-day Pakistan).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h6_q18",
+      "text": "Guru Nanak appointed ________ as his successor.",
+      "options": ["Guru Angad", "Guru Arjan", "Guru Tegh Bahadur", "Guru Gobind Singh"],
+      "correctIndex": 0,
+      "explanation": "Guru Angad (Lehna) compiled the compositions of Guru Nanak.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h6_q19",
+      "text": "The script developed by Guru Angad is known as:",
+      "options": ["Devanagari", "Gurmukhi", "Persian", "Sanskrit"],
+      "correctIndex": 1,
+      "explanation": "Gurmukhi was a new script used to write the Punjabi language.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h6_q20",
+      "text": "The holy scripture of the Sikhs is called:",
+      "options": ["Adi Granth", "Guru Granth Sahib", "Dasam Granth", "Janamsakhis"],
+      "correctIndex": 1,
+      "explanation": "It contains the compositions of the Gurus and other Bhakti saints like Kabir and Baba Farid.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h6_q21",
+      "text": "The town of Ramdaspur developed into the city of:",
+      "options": ["Chandigarh", "Ludhiana", "Amritsar", "Jalandhar"],
+      "correctIndex": 2,
+      "explanation": "Amritsar grew around the central Gurdwara known as Harmandar Sahib (Golden Temple).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h6_q22",
+      "text": "Which Mughal Emperor ordered the execution of Guru Arjan in 1606?",
+      "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+      "correctIndex": 1,
+      "explanation": "Jahangir saw the growing Sikh community as a potential threat.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h6_q23",
+      "text": "The Khalsa Panth was instituted by Guru Gobind Singh in:",
+      "options": ["1599", "1699", "1707", "1799"],
+      "correctIndex": 1,
+      "explanation": "The Khalsa became a political entity representing the Sikh community.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h6_q24",
+      "text": "Guru Nanak's motto for his followers was:",
+      "options": ["Nam, Dan, Isnan", "Satyamev Jayate", "Ahimsa Parmo Dharma", "Live and let live"],
+      "correctIndex": 0,
+      "explanation": "It signified right worship, welfare of others, and purity of conduct.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h6_q25",
+      "text": "Tulsidas wrote 'Ramcharitmanas' in which language?",
+      "options": ["Sanskrit", "Braj", "Awadhi", "Maithili"],
+      "correctIndex": 2,
+      "explanation": "Awadhi was the language spoken in eastern Uttar Pradesh.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h6_q26",
+      "text": "Surdas was an ardent devotee of:",
+      "options": ["Rama", "Krishna", "Shiva", "Hanuman"],
+      "correctIndex": 1,
+      "explanation": "His compositions are found in Sursagara, Surasaravali, and Sahitya Lahari.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h6_q27",
+      "text": "Mirabai was a Rajput princess married into the royal family of:",
+      "options": ["Jaipur", "Mewar", "Jodhpur", "Bikaner"],
+      "correctIndex": 1,
+      "explanation": "She became a disciple of Ravidas, an untouchable saint.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h6_q28",
+      "text": "The 'Shankaradeva' of Assam emphasized devotion to:",
+      "options": ["Shiva", "Vishnu", "Durga", "Ganesha"],
+      "correctIndex": 1,
+      "explanation": "He started the practice of setting up Namghars (houses of recitation and prayer).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h6_q29",
+      "text": "The Alvars and Nayanars were critical of:",
+      "options": ["Buddhists and Jains", "The King", "Farmers", "Traders"],
+      "correctIndex": 0,
+      "explanation": "They preached that love for Shiva or Vishnu was the path to salvation, unlike the paths taught by Jains or Buddhists.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h6_q30",
+      "text": "The Marathi word for 'holy songs' is:",
+      "options": ["Bhajans", "Abhangs", "Kirtans", "Dohas"],
+      "correctIndex": 1,
+      "explanation": "Abhangs were the form of Marathi devotional poetry used by the Varkari sect.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h6_q31",
+      "text": "Who among the following was a woman Nayanar saint?",
+      "options": ["Andal", "Karaikkal Ammaiyar", "Mirabai", "Sahajabai"],
+      "correctIndex": 1,
+      "explanation": "She adopted the path of extreme asceticism to attain her goal.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_h6_q32",
+      "text": "Who among the following was a woman Alvar saint?",
+      "options": ["Andal", "Karaikkal Ammaiyar", "Janabai", "Akka Mahadevi"],
+      "correctIndex": 0,
+      "explanation": "Andal's songs are widely sung and express her love for Vishnu.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h6_q33",
+      "text": "What does the term 'Dargah' mean?",
+      "options": ["Mosque", "Tomb of a Sufi saint", "Palace", "Market"],
+      "correctIndex": 1,
+      "explanation": "Dargahs became places of pilgrimage for people of all religions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h6_q34",
+      "text": "The Great Sufi saints of Central Asia included:",
+      "options": ["Ghazali, Rumi, Sadi", "Akbar, Birbal", "Ibn Battuta", "Al-Biruni"],
+      "correctIndex": 0,
+      "explanation": "These thinkers greatly influenced Sufi thought in India.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_h6_q35",
+      "text": "Varkari sect is associated with the pilgrimage to:",
+      "options": ["Kashi", "Pandharpur", "Ajmer", "Amritsar"],
+      "correctIndex": 1,
+      "explanation": "It is an biannual pilgrimage to the Vitthala temple in Maharashtra.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h6_q36",
+      "text": "Hagiography refers to:",
+      "options": ["History of kings", "Writing of saints' lives", "Study of maps", "Economic records"],
+      "correctIndex": 1,
+      "explanation": "Hagiographies of Bhakti saints are used as sources by historians today.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h6_q37",
+      "text": "The language used by Kabir in his verses was:",
+      "options": ["Pure Sanskrit", "Persian", "A form of spoken Hindi", "Arabic"],
+      "correctIndex": 2,
+      "explanation": "This made his messages accessible to the ordinary people.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h6_q38",
+      "text": "Which Guru compiled the 'Adi Granth'?",
+      "options": ["Guru Nanak", "Guru Angad", "Guru Arjan", "Guru Gobind Singh"],
+      "correctIndex": 2,
+      "explanation": "Guru Arjan compiled the verses of the first four Gurus and other saints in 1604.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h6_q39",
+      "text": "The term 'Dharmsal' used by Guru Nanak is now known as:",
+      "options": ["Dargah", "Gurdwara", "Temple", "Church"],
+      "correctIndex": 1,
+      "explanation": "Dharmsal was the place of worship and assembly established by Nanak.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h6_q40",
+      "text": "The major emphasis of the Bhakti and Sufi movements was on:",
+      "options": ["Strict ritualism", "Caste superiority", "Personal devotion and love for God", "Converting others"],
+      "correctIndex": 2,
+      "explanation": "Both movements emphasized a direct, emotional bond between the devotee and the Divine.",
+      "frequencyRating": 5
+    }
+  ]
+}

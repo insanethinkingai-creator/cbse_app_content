@@ -8,73 +8,323 @@
   "questions": [
     {
       "id": "g7_s13_q1",
-      "text": "Sewage is mainly a:",
-      "options": ["Solid waste", "Liquid waste", "Gaseous waste", "Medical waste"],
+      "text": "Wastewater released by houses, industries, hospitals, and offices is called:",
+      "options": ["Potable water", "Sewage", "Pure water", "Sludge"],
       "correctIndex": 1,
-      "explanation": "Sewage is wastewater released by homes, industries, and other sources containing dissolved and suspended impurities."
+      "explanation": "Sewage is liquid waste which causes water and soil pollution if not treated properly.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s13_q2",
-      "text": "Impurities present in sewage are called:",
-      "options": ["Nutrients", "Contaminants", "Cleaners", "Minerals"],
+      "text": "Sewage is a complex mixture containing:",
+      "options": ["Only water", "Organic and inorganic impurities, and nutrients", "Only oxygen", "Pure minerals"],
       "correctIndex": 1,
-      "explanation": "These include organic impurities, inorganic impurities, and microbes."
+      "explanation": "Sewage contains various contaminants including bacteria, organic waste like urea, and inorganic salts.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s13_q3",
-      "text": "WWTP stands for:",
-      "options": ["Waste Water Thermal Plant", "Waste Water Treatment Plant", "Water Works Treatment Process", "World Water Treatment Plan"],
-      "correctIndex": 1,
-      "explanation": "WWTP is where physical, chemical, and biological processes remove contaminants from wastewater."
+      "text": "Which of the following is an organic impurity in sewage?",
+      "options": ["Nitrates", "Phosphates", "Urea (human urine)", "Metals"],
+      "correctIndex": 2,
+      "explanation": "Urea, animal waste, and oil are organic impurities, while nitrates and phosphates are inorganic.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_s13_q4",
-      "text": "Which of these is used to disinfect water?",
-      "options": ["Nitrogen", "Chlorine", "Oxygen", "Hydrogen"],
-      "correctIndex": 1,
-      "explanation": "Chemicals like chlorine and ozone are used to kill germs in water before it is distributed."
+      "text": "The full form of WWTP is:",
+      "options": ["Waste Water Treatment Plant", "Water Waste Treatment Plant", "World Water Treatment Plant", "Waste Water Transport Process"],
+      "correctIndex": 0,
+      "explanation": "WWTP is the facility where wastewater is treated to remove physical, chemical, and biological contaminants.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s13_q5",
-      "text": "The solids that settle at the bottom during sewage treatment are called:",
-      "options": ["Scum", "Sludge", "Peat", "Humus"],
+      "text": "Which part of the WWTP removes large objects like rags, sticks, and cans?",
+      "options": ["Grit tank", "Bar screens", "Clarifier", "Aerator"],
       "correctIndex": 1,
-      "explanation": "Sludge is removed by a scraper and transferred to a separate tank for decomposition."
+      "explanation": "Wastewater is first passed through bar screens to filter out large physical debris.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s13_q6",
-      "text": "What is the function of bar screens in a treatment plant?",
-      "options": ["Remove oil", "Remove large objects", "Kill bacteria", "Settle grit"],
+      "text": "In the grit and sand removal tank, the speed of incoming wastewater is:",
+      "options": ["Increased", "Decreased", "Kept constant", "Stopped"],
       "correctIndex": 1,
-      "explanation": "Bar screens remove large items like rags, sticks, cans, and plastic packets."
+      "explanation": "The speed is decreased to allow sand, grit, and pebbles to settle at the bottom.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_s13_q7",
-      "text": "Bacteria that work in the absence of oxygen are called:",
-      "options": ["Aerobic", "Anaerobic", "Virus", "Parasites"],
+      "text": "The solids that settle at the bottom during the primary treatment of wastewater are called:",
+      "options": ["Scum", "Sludge", "Biogas", "Grit"],
       "correctIndex": 1,
-      "explanation": "Anaerobic bacteria decompose sludge to produce biogas."
+      "explanation": "Sludge is the solid waste removed from the bottom of the clarifier tank.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s13_q8",
-      "text": "Dried sludge is used as:",
-      "options": ["Fuel", "Manure", "Medicine", "Food"],
+      "text": "Which device is used to remove floatable solids like oil and grease from wastewater?",
+      "options": ["Scraper", "Skimmer", "Pump", "Filter"],
       "correctIndex": 1,
-      "explanation": "Dried sludge returns organic matter and nutrients to the soil."
+      "explanation": "A skimmer removes floating impurities, while a scraper is used to remove sludge from the bottom.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_s13_q9",
-      "text": "Vermi-processing toilets use ________ to treat human waste.",
-      "options": ["Cockroaches", "Earthworms", "Bacteria only", "Chemicals"],
+      "text": "Water after the removal of sludge and scum is called:",
+      "options": ["Pure water", "Clarified water", "Distilled water", "Raw sewage"],
       "correctIndex": 1,
-      "explanation": "Earthworms convert human excreta into high-quality vermicompost."
+      "explanation": "Clarified water is the intermediate stage where physical solids have been removed.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_s13_q10",
-      "text": "Which of the following should not be thrown down the drain?",
-      "options": ["Water", "Used tea leaves", "Soap", "Milk"],
+      "text": "Sludge is transferred to a separate tank where it is decomposed by:",
+      "options": ["Aerobic bacteria", "Anaerobic bacteria", "Viruses", "Algae"],
       "correctIndex": 1,
-      "explanation": "Solid wastes like tea leaves or food remains can choke the drains and prevent oxygen flow."
+      "explanation": "Anaerobic bacteria decompose sludge in the absence of oxygen, producing biogas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s13_q11",
+      "text": "Biogas produced during sludge decomposition can be used as:",
+      "options": ["Fertilizer", "Fuel or to produce electricity", "Disinfectant", "Coolant"],
+      "correctIndex": 1,
+      "explanation": "Biogas is a renewable energy source consisting primarily of methane.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s13_q12",
+      "text": "Air is pumped into clarified water to help ________ bacteria to grow.",
+      "options": ["Anaerobic", "Aerobic", "Autotrophic", "Saprophytic"],
+      "correctIndex": 1,
+      "explanation": "Aerobic bacteria consume organic waste, food remains, and other unwanted matter in clarified water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s13_q13",
+      "text": "The bacteria that settle at the bottom of the tank after aeration form:",
+      "options": ["Primary sludge", "Activated sludge", "Scum", "Grit"],
+      "correctIndex": 1,
+      "explanation": "Activated sludge is about 97% water and contains active aerobic microbes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s13_q14",
+      "text": "Which of the following chemicals is used to disinfect water?",
+      "options": ["Sodium chloride", "Chlorine", "Nitrogen", "Hydrogen"],
+      "correctIndex": 1,
+      "explanation": "Chlorine and Ozone are commonly used to kill harmful microbes before water is released into distribution systems.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s13_q15",
+      "text": "Why should oils and fats not be released in the drain?",
+      "options": ["They provide food for fish", "They harden and block pipes", "They make water pure", "They increase water flow"],
+      "correctIndex": 1,
+      "explanation": "Oils and fats can harden and clog sewage pipes; in open drains, they clog soil pores, reducing water filtration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s13_q16",
+      "text": "Which of these should not be thrown into the sink as it might kill microbes that help treat water?",
+      "options": ["Food remains", "Paints and solvents", "Water", "Tea leaves"],
+      "correctIndex": 1,
+      "explanation": "Chemicals like paints, solvents, and medicines can kill the beneficial bacteria in the treatment process.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s13_q17",
+      "text": "Dried sludge is used as:",
+      "options": ["Fuel", "Manure", "Medicine", "Disinfectant"],
+      "correctIndex": 1,
+      "explanation": "Dried sludge returns organic matter and nutrients back to the soil.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s13_q18",
+      "text": "Which trees are suggested to be planted along sewage ponds to absorb surplus wastewater?",
+      "options": ["Mango", "Eucalyptus", "Banyan", "Peepal"],
+      "correctIndex": 1,
+      "explanation": "Eucalyptus trees absorb surplus wastewater rapidly and release pure water vapor into the atmosphere.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s13_q19",
+      "text": "Poor sanitation and contaminated drinking water is the cause of a large number of:",
+      "options": ["Accidents", "Diseases", "Fires", "Storms"],
+      "correctIndex": 1,
+      "explanation": "Lack of sanitation leads to water-borne diseases like cholera, typhoid, and hepatitis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s13_q20",
+      "text": "Which of the following is a water-borne disease?",
+      "options": ["Tuberculosis", "Malaria", "Cholera", "Scurvy"],
+      "correctIndex": 2,
+      "explanation": "Cholera is caused by ingesting contaminated water or food.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s13_q21",
+      "text": "An alternative arrangement for sewage disposal in areas where there is no sewerage system is:",
+      "options": ["Open drains", "Septic tanks", "River disposal", "Dumping on land"],
+      "correctIndex": 1,
+      "explanation": "Septic tanks, chemical toilets, and composting pits are used for on-site sewage disposal.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s13_q22",
+      "text": "A toilet in which human excreta is treated by earthworms is called:",
+      "options": ["Chemical toilet", "Vermi-composting toilet", "Septic tank", "Vacuum toilet"],
+      "correctIndex": 1,
+      "explanation": "Vermi-composting toilets convert human waste into nutrient-rich cakes using earthworms.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s13_q23",
+      "text": "The period 2005-2015 was declared as the International Decade for action on:",
+      "options": ["Clean Air", "Water for Life", "Soil Conservation", "Forest Protection"],
+      "correctIndex": 1,
+      "explanation": "The UN set a goal to reduce by half the number of people without access to safe drinking water.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_s13_q24",
+      "text": "Which gas is used in the disinfection stage of water treatment?",
+      "options": ["Oxygen", "Ozone", "Hydrogen", "Nitrogen"],
+      "correctIndex": 1,
+      "explanation": "Ozone (O3) is a powerful oxidizing agent used for disinfecting water.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s13_q25",
+      "text": "The solid waste extracted from the sewage during treatment is:",
+      "options": ["Grit", "Sludge", "Scum", "Filter"],
+      "correctIndex": 1,
+      "explanation": "Sludge contains organic solids that are removed by a scraper.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s13_q26",
+      "text": "The process of removing contaminants from wastewater is called:",
+      "options": ["Pollution", "Sanitation", "Sedimentation", "Erosion"],
+      "correctIndex": 1,
+      "explanation": "Sanitation involves the collection and treatment of waste to maintain hygiene.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s13_q27",
+      "text": "One of the inorganic impurities present in sewage is:",
+      "options": ["Oil", "Pesticides", "Phosphates", "Urea"],
+      "correctIndex": 2,
+      "explanation": "Phosphates and nitrates are examples of inorganic salts found in sewage.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s13_q28",
+      "text": "Meningitis and Polio are diseases that can be spread by:",
+      "options": ["Air", "Contaminated water", "Insects", "Direct contact"],
+      "correctIndex": 1,
+      "explanation": "Many viral and bacterial diseases are transmitted through the fecal-oral route via water.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s13_q29",
+      "text": "What does 'Active Sludge' consist of?",
+      "options": ["Chemicals", "Dead bacteria", "Live aerobic bacteria and water", "Sand"],
+      "correctIndex": 2,
+      "explanation": "It contains a high concentration of microorganisms that digest organic matter.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s13_q30",
+      "text": "Which of these is a byproduct of wastewater treatment?",
+      "options": ["Biogas", "Pure oxygen", "Salt", "Heavy metals"],
+      "correctIndex": 0,
+      "explanation": "Biogas and sludge are the two main useful byproducts of the treatment process.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s13_q31",
+      "text": "Chlorination is a ________ process of water treatment.",
+      "options": ["Physical", "Biological", "Chemical", "Mechanical"],
+      "correctIndex": 2,
+      "explanation": "It involves adding a chemical (chlorine) to destroy microbes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s13_q32",
+      "text": "World Water Day is celebrated on:",
+      "options": ["22 April", "22 March", "5 June", "1 December"],
+      "correctIndex": 1,
+      "explanation": "March 22 is designated to raise awareness about the importance of freshwater.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s13_q33",
+      "text": "The network of small and big pipes for carrying sewage is called:",
+      "options": ["Pipeline", "Drainage", "Sewerage", "Transport system"],
+      "correctIndex": 2,
+      "explanation": "A sewerage system is an underground network that transports sewage to treatment plants.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s13_q34",
+      "text": "Septic tanks are suitable for places where:",
+      "options": ["Water is plenty", "There is no sewerage system", "Population is very high", "Industries are located"],
+      "correctIndex": 1,
+      "explanation": "They provide on-site treatment for hospitals or isolated buildings.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s13_q35",
+      "text": "Human excreta is a health hazard if left in the open because:",
+      "options": ["It smells bad", "It attracts flies and spreads diseases", "It dries up", "It turns into soil"],
+      "correctIndex": 1,
+      "explanation": "Open defecation leads to the contamination of water sources and soil, spreading epidemics.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s13_q36",
+      "text": "Which organism helps in vermi-processing toilets?",
+      "options": ["Bacteria", "Earthworms", "Fungi", "Protozoa"],
+      "correctIndex": 1,
+      "explanation": "Earthworms efficiently process human waste into high-quality compost.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s13_q37",
+      "text": "Which stage of WWTP uses a clarifier?",
+      "options": ["Preliminary", "Primary", "Tertiary", "Disinfection"],
+      "correctIndex": 1,
+      "explanation": "Primary treatment involves physical separation of solids in a clarifier or settling tank.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s13_q38",
+      "text": "Scum is removed from wastewater by using a:",
+      "options": ["Scraper", "Skimmer", "Shovel", "Sieve"],
+      "correctIndex": 1,
+      "explanation": "A skimmer is designed to skim off floating oils and fats (scum).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s13_q39",
+      "text": "Un-treated human excreta can cause:",
+      "options": ["Air pollution", "Water pollution and soil pollution", "Noise pollution", "Only bad smell"],
+      "correctIndex": 1,
+      "explanation": "It pollutes both surface water and groundwater.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s13_q40",
+      "text": "A good citizen should ________ to maintain sanitation.",
+      "options": ["Throw waste in the river", "Not report leaking pipes", "Properly dispose of household waste", "Use open drains for plastic"],
+      "correctIndex": 2,
+      "explanation": "Individual responsibility is key to maintaining a clean and healthy environment.",
+      "frequencyRating": 5
     }
   ]
 }

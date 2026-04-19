@@ -1,0 +1,530 @@
+{
+  "id": "g8_sci_ch1",
+  "grade": "8",
+  "subject": "Science",
+  "number": "1",
+  "title": "Crop Production and Management",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_s1_q1",
+      "text": "Which of the following is a kharif crop?",
+      "options": [
+        "Wheat",
+        "Rice",
+        "Gram",
+        "Mustard"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kharif crops are sown in monsoon season (June-July) like rice, maize, soyabean. Rabi crops like wheat are sown in winter.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s1_q2",
+      "text": "The process of loosening and turning of soil is called:",
+      "options": [
+        "Sowing",
+        "Ploughing",
+        "Manuring",
+        "Harvesting"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ploughing turns soil, removes weeds, and aerates it for better root growth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s1_q3",
+      "text": "Traditional tool used for tilling is:",
+      "options": [
+        "Hoe",
+        "Plough",
+        "Cultivator",
+        "Seed drill"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plough pulled by bullocks is used for tilling large fields traditionally.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s1_q4",
+      "text": "Which implements good seed-soil contact?",
+      "options": [
+        "Plough",
+        "Leveller",
+        "Hoe",
+        "Cultivator"
+      ],
+      "correctIndex": 1,
+      "explanation": "Leveller breaks soil clods and levels field after ploughing.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s1_q5",
+      "text": "Method of sowing seeds by scattering is called:",
+      "options": [
+        "Drilling",
+        "Broadcasting",
+        "Ploughing",
+        "Transplanting"
+      ],
+      "correctIndex": 1,
+      "explanation": "Broadcasting is traditional but uneven; drilling gives proper spacing.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s1_q6",
+      "text": "Optimum plant density is maintained by:",
+      "options": [
+        "Seed drill",
+        "Hoe",
+        "Plough",
+        "Leveller"
+      ],
+      "correctIndex": 0,
+      "explanation": "Seed drill sows seeds at uniform depth and distance.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s1_q7",
+      "text": "Addition of manure increases soil fertility by providing:",
+      "options": [
+        "Nitrogen only",
+        "Humus",
+        "Water",
+        "Minerals only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Manure adds humus, improving soil structure, water retention.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s1_q8",
+      "text": "Fertilizers are used to provide:",
+      "options": [
+        "Humus",
+        "N, P, K",
+        "Organic matter",
+        "Weed control"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fertilizers supply specific nutrients like NPK chemically.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s1_q9",
+      "text": "Which is not a nitrogenous fertilizer?",
+      "options": [
+        "Urea",
+        "Ammonium sulphate",
+        "Superphosphate",
+        "Calcium nitrate"
+      ],
+      "correctIndex": 2,
+      "explanation": "Superphosphate provides phosphorus.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s1_q10",
+      "text": "Irrigation method most suited for uneven land:",
+      "options": [
+        "Drip",
+        "Sprinkler",
+        "Flood",
+        "Tube well"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sprinkler irrigation suitable for undulating land.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s1_q11",
+      "text": "Weedicides are used to:",
+      "options": [
+        "Kill insects",
+        "Remove weeds",
+        "Add nutrients",
+        "Increase water"
+      ],
+      "correctIndex": 1,
+      "explanation": "Weeds compete with crop; weedicides selectively kill them.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s1_q12",
+      "text": "Harvesting is done by:",
+      "options": [
+        "Sickle",
+        "Plough",
+        "Seed drill",
+        "Hoe"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sickle used for manual harvesting.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s1_q13",
+      "text": "Threshing separates:",
+      "options": [
+        "Seeds from chaff",
+        "Soil from roots",
+        "Weeds from crop",
+        "Water from soil"
+      ],
+      "correctIndex": 0,
+      "explanation": "Threshing loosens grains from chaff.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s1_q14",
+      "text": "Winnowing separates grains based on:",
+      "options": [
+        "Size",
+        "Weight",
+        "Color",
+        "Shape"
+      ],
+      "correctIndex": 1,
+      "explanation": "Light chaff blown away by wind.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s1_q15",
+      "text": "Storage godowns are fumigated with:",
+      "options": [
+        "Nitrogen",
+        "Carbon dioxide",
+        "Oxygen",
+        "Hydrogen"
+      ],
+      "correctIndex": 1,
+      "explanation": "CO2 kills insects/rodents without harming grains.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s1_q16",
+      "text": "Rabi crops are harvested in:",
+      "options": [
+        "Monsoon",
+        "Winter",
+        "Summer",
+        "Autumn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rabi: Sown Oct-Nov, harvested Mar-Apr (wheat, gram).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s1_q17",
+      "text": "Modern tool for tilling:",
+      "options": [
+        "Tractor",
+        "Bullock",
+        "Sickle",
+        "Hoe"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tractor-cultivators till faster.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s1_q18",
+      "text": "Advantage of manure over fertilizer:",
+      "options": [
+        "Cheaper",
+        "Provides more nutrients",
+        "Improves soil texture",
+        "Quick acting"
+      ],
+      "correctIndex": 2,
+      "explanation": "Manure adds organic matter.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s1_q19",
+      "text": "Drip irrigation saves:",
+      "options": [
+        "Seeds",
+        "Labour",
+        "Water",
+        "Fertilizer"
+      ],
+      "correctIndex": 2,
+      "explanation": "Drip delivers water drop by drop to roots.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s1_q20",
+      "text": "Pests are controlled by:",
+      "options": [
+        "Manure",
+        "Pesticides",
+        "Irrigation",
+        "Weedicides"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pesticides kill insects/pests.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s1_q21",
+      "text": "Combine is used for:",
+      "options": [
+        "Ploughing",
+        "Sowing",
+        "Harvesting+threshing",
+        "Weeding"
+      ],
+      "correctIndex": 2,
+      "explanation": "Harvester-thresher combine.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s1_q22",
+      "text": "Crop rotation prevents:",
+      "options": [
+        "Soil erosion",
+        "Soil exhaustion",
+        "Pests",
+        "Weeds"
+      ],
+      "correctIndex": 1,
+      "explanation": "Different crops use different nutrients.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s1_q23",
+      "text": "Example of rabi crop:",
+      "options": [
+        "Paddy",
+        "Maize",
+        "Wheat",
+        "Cotton"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wheat is rabi.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s1_q24",
+      "text": "Hoe is used for:",
+      "options": [
+        "Sowing",
+        "Weeding",
+        "Harvesting",
+        "Irrigation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hoe removes weeds.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s1_q25",
+      "text": "Manuring before sowing is:",
+      "options": [
+        "Basal",
+        "Top dressing",
+        "Splitting",
+        "Broadcasting"
+      ],
+      "correctIndex": 0,
+      "explanation": "Basal manure at sowing time.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s1_q26",
+      "text": "Excess fertilizers cause:",
+      "options": [
+        "Soil fertility increase",
+        "Water pollution",
+        "Better yield",
+        "Less weeds"
+      ],
+      "correctIndex": 1,
+      "explanation": "Runoff leads to eutrophication.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s1_q27",
+      "text": "Traditional irrigation:",
+      "options": [
+        "Drip",
+        "Canal",
+        "Sprinkler",
+        "Tube well"
+      ],
+      "correctIndex": 1,
+      "explanation": "Canal system from rivers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s1_q28",
+      "text": "Grain storage structure in villages:",
+      "options": [
+        "Silos",
+        "Bins",
+        "Granaries",
+        "All"
+      ],
+      "correctIndex": 3,
+      "explanation": "All prevent moisture/pests.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s1_q29",
+      "text": "Leguminous crops fix:",
+      "options": [
+        "Carbon",
+        "Nitrogen",
+        "Phosphorus",
+        "Potassium"
+      ],
+      "correctIndex": 1,
+      "explanation": "Via Rhizobium bacteria.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s1_q30",
+      "text": "Animal used in plough traditionally:",
+      "options": [
+        "Camel",
+        "Bullock",
+        "Horse",
+        "Elephant"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bullocks pair for ploughing.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s1_q31",
+      "text": "Splitting of manure doses is done for:",
+      "options": [
+        "Economy",
+        "Better absorption",
+        "Less labour",
+        "Quick action"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plants absorb gradually.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s1_q32",
+      "text": "Flood irrigation suitable for:",
+      "options": [
+        "Flat land",
+        "Hilly",
+        "Desert",
+        "All"
+      ],
+      "correctIndex": 0,
+      "explanation": "Water spreads evenly.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s1_q33",
+      "text": "Neem leaves used in storage as:",
+      "options": [
+        "Fertilizer",
+        "Pesticide",
+        "Manure",
+        "Weedicide"
+      ],
+      "correctIndex": 1,
+      "explanation": "Natural insect repellent.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s1_q34",
+      "text": "Cultivator is:",
+      "options": [
+        "Tractor drawn",
+        "Hand held",
+        "Bullock drawn",
+        "Machine"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tractor operated.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s1_q35",
+      "text": "Top dressing is manuring during:",
+      "options": [
+        "Before sowing",
+        "After emergence",
+        "Harvesting",
+        "Storage"
+      ],
+      "correctIndex": 1,
+      "explanation": "For N-fertilizers.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s1_q36",
+      "text": "Kharif season starts with:",
+      "options": [
+        "Winter",
+        "Monsoon",
+        "Summer",
+        "Autumn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rain-fed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s1_q37",
+      "text": "Weeds removed mechanically by:",
+      "options": [
+        "Harvester",
+        "Weedicides",
+        "Hoeing",
+        "Manure"
+      ],
+      "correctIndex": 2,
+      "explanation": "Manual/mechanical weeding.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s1_q38",
+      "text": "Humus is:",
+      "options": [
+        "Chemical fertilizer",
+        "Decayed organic matter",
+        "Insect",
+        "Weed"
+      ],
+      "correctIndex": 1,
+      "explanation": "Improves fertility.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s1_q39",
+      "text": "Storage losses due to:",
+      "options": [
+        "Rodents/Insects",
+        "Moisture",
+        "Microorganisms",
+        "All"
+      ],
+      "correctIndex": 3,
+      "explanation": "Proper storage prevents.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s1_q40",
+      "text": "Intercropping means:",
+      "options": [
+        "Single crop",
+        "Different crops together",
+        "Rotation",
+        "Mixed farming"
+      ],
+      "correctIndex": 1,
+      "explanation": "Maximizes space, reduces pests.",
+      "frequencyRating": 4
+    }
+  ]
+}

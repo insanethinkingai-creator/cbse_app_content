@@ -7,84 +7,324 @@
   "version": "v1",
   "questions": [
     {
-      "id": "g7_geo_ch5_q1",
-      "text": "The process by which water continually changes its form and circulates between oceans, atmosphere and land is the:",
-      "options": ["Water Cycle", "Tide", "Ocean Current", "Precipitation"],
+      "id": "g7_g5_q1",
+      "text": "The process by which water continually changes its form and circulates between oceans, atmosphere and land is:",
+      "options": ["Water cycle", "Tide", "Ocean current", "Rainfall"],
       "correctIndex": 0,
-      "explanation": "The water cycle is a continuous process driven by solar energy.",
+      "explanation": "The sun's heat causes evaporation of water into vapour.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_geo_ch5_q2",
-      "text": "About how much of the earth's surface is covered by water?",
-      "options": ["one-fourth", "half", "three-fourths", "two-thirds"],
+      "id": "g7_g5_q2",
+      "text": "A terrarium is:",
+      "options": ["A large ocean", "An artificial enclosure for keeping small house plants", "A type of rock", "A source of river"],
+      "correctIndex": 1,
+      "explanation": "Our earth is like a giant terrarium as the same water that existed centuries ago still exists today.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g5_q3",
+      "text": "Which of the following is a major source of fresh water?",
+      "options": ["Oceans", "Seas", "Rivers", "Salt lakes"],
       "correctIndex": 2,
-      "explanation": "Approximately 71% or three-fourths of the earth is covered by water bodies.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g7_geo_ch5_q3",
-      "text": "Which of the following contains the maximum amount of fresh water on earth?",
-      "options": ["Rivers", "Ice-caps", "Groundwater", "Atmosphere"],
-      "correctIndex": 1,
-      "explanation": "Most fresh water is locked up in glaciers and ice-caps (approx 2%).",
+      "explanation": "Other sources include ponds, springs, and glaciers.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_geo_ch5_q4",
-      "text": "The rhythmic rise and fall of ocean water twice in a day is called a:",
-      "options": ["Wave", "Tide", "Current", "Tsunami"],
+      "id": "g7_g5_q4",
+      "text": "Ocean water is salty because it contains large amounts of dissolved:",
+      "options": ["Sugar", "Salts (mostly sodium chloride)", "Oxygen", "Iron"],
       "correctIndex": 1,
-      "explanation": "Tides are caused by the strong gravitational pull exerted by the sun and the moon.",
+      "explanation": "Sodium chloride is the common table salt that we eat.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_geo_ch5_q5",
-      "text": "When the sun, the moon and the earth are in a straight line, we get the highest tides called:",
-      "options": ["Neap tides", "Spring tides", "Low tides", "Ebb tides"],
-      "correctIndex": 1,
-      "explanation": "Spring tides occur during full moon and new moon days.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g7_geo_ch5_q6",
-      "text": "The Gulf Stream is an example of a:",
-      "options": ["Cold ocean current", "Warm ocean current", "Tsunami", "Tide"],
-      "correctIndex": 1,
-      "explanation": "Warm ocean currents originate near the equator and move towards the poles.",
+      "id": "g7_g5_q5",
+      "text": "Salinity is the amount of salt in grams present in ________ grams of water.",
+      "options": ["100", "500", "1000", "5000"],
+      "correctIndex": 2,
+      "explanation": "The average salinity of the oceans is 35 parts per thousand.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_geo_ch5_q7",
+      "id": "g7_g5_q6",
+      "text": "Which sea has a very high salinity (340 grams per litre) where swimmers can float?",
+      "options": ["Caspian Sea", "Dead Sea", "Red Sea", "Arabian Sea"],
+      "correctIndex": 1,
+      "explanation": "The high salt content increases density, making it easy to float.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g5_q7",
+      "text": "What percentage of the earth's surface is covered by water?",
+      "options": ["One-fourth", "One-half", "Three-fourths", "All of it"],
+      "correctIndex": 2,
+      "explanation": "This is why Earth is often called the 'Blue Planet'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g5_q8",
       "text": "World Water Day is celebrated on:",
-      "options": ["March 22", "April 22", "June 5", "September 16"],
+      "options": ["March 22", "April 22", "June 5", "December 1"],
       "correctIndex": 0,
-      "explanation": "March 22 is observed to raise awareness about the importance of fresh water.",
-      "frequencyRating": 4
+      "explanation": "It is observed to highlight the importance of freshwater and advocate for its sustainable management.",
+      "frequencyRating": 5
     },
     {
-      "id": "g7_geo_ch5_q8",
-      "text": "Large waves caused by earthquakes or volcanic eruptions on the ocean floor are called:",
-      "options": ["Tides", "Tsunamis", "Drifts", "Meanders"],
+      "id": "g7_g5_q9",
+      "text": "When the water on the surface of the ocean rises and falls alternately, they are called:",
+      "options": ["Tides", "Waves", "Currents", "Tsunami"],
+      "correctIndex": 1,
+      "explanation": "Waves are formed when winds scrape across the ocean surface.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g5_q10",
+      "text": "A huge tidal wave caused by an earthquake or volcanic eruption under the sea is a:",
+      "options": ["Wave", "Tsunami", "Current", "Tide"],
       "correctIndex": 1,
       "explanation": "Tsunami is a Japanese word that means 'Harbour waves'.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_geo_ch5_q9",
-      "text": "The Labrador Ocean Current is a ________ current.",
+      "id": "g7_g5_q11",
+      "text": "The rhythmic rise and fall of ocean water twice in a day is called a:",
+      "options": ["Wave", "Tide", "Current", "Storm"],
+      "correctIndex": 1,
+      "explanation": "Tides are caused by the strong gravitational pull exerted by the sun and the moon.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g5_q12",
+      "text": "When water covers much of the shore by rising to its highest level, it is:",
+      "options": ["Low tide", "High tide", "Spring tide", "Neap tide"],
+      "correctIndex": 1,
+      "explanation": "High tides help in navigation and fishing.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g5_q13",
+      "text": "During the full moon and new moon days, the sun, moon and earth are in the same line and we get:",
+      "options": ["Neap tides", "Spring tides", "Low tides", "No tides"],
+      "correctIndex": 1,
+      "explanation": "These are the highest tides.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g5_q14",
+      "text": "When the moon is in its first and last quarter, the gravity of sun and moon pull in opposite directions, resulting in:",
+      "options": ["Spring tides", "Neap tides", "High tides", "Tsunami"],
+      "correctIndex": 1,
+      "explanation": "Neap tides are low tides.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g5_q15",
+      "text": "Streams of water flowing constantly on the ocean surface in definite directions are:",
+      "options": ["Tides", "Waves", "Ocean currents", "Rivers"],
+      "correctIndex": 2,
+      "explanation": "They can be warm or cold.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g5_q16",
+      "text": "The Labrador Ocean current is a ________ current.",
       "options": ["Warm", "Cold", "Stationary", "Fast"],
       "correctIndex": 1,
-      "explanation": "It brings cold water from the Arctic into the Atlantic.",
+      "explanation": "It flows from the polar regions towards lower latitudes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g5_q17",
+      "text": "The Gulf Stream is a ________ current.",
+      "options": ["Warm", "Cold", "Slow", "Deep sea"],
+      "correctIndex": 0,
+      "explanation": "Warm ocean currents originate near the equator and move towards the poles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g5_q18",
+      "text": "Areas where warm and cold currents meet are the best ________ in the world.",
+      "options": ["Swimming spots", "Fishing grounds", "Mining zones", "Shipping lanes"],
+      "correctIndex": 1,
+      "explanation": "Examples include seas around Japan and eastern coast of North America.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g5_q19",
+      "text": "Meeting of warm and cold currents also produces ________ which makes navigation difficult.",
+      "options": ["Clear skies", "Foggy weather", "Heavy rain", "Icebergs"],
+      "correctIndex": 1,
+      "explanation": "Fog reduces visibility for ships.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g5_q20",
+      "text": "Most of the water available on earth is in the form of:",
+      "options": ["Fresh water", "Saline water in oceans", "Ice caps", "Groundwater"],
+      "correctIndex": 1,
+      "explanation": "About 97.3% of water is saline and found in oceans and seas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g5_q21",
+      "text": "The largest source of fresh water on earth is:",
+      "options": ["Rivers", "Ice caps and glaciers", "Groundwater", "Lakes"],
+      "correctIndex": 1,
+      "explanation": "Ice caps and glaciers hold about 2.0% of the total water (the largest share of fresh water).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g5_q22",
+      "text": "High tides help ships to arrive at the ________ more easily.",
+      "options": ["Deep sea", "Equator", "Harbour", "Other country"],
+      "correctIndex": 2,
+      "explanation": "The rising water level helps heavy ships enter ports.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g5_q23",
+      "text": "Tides are also used to generate ________ in some places.",
+      "options": ["Heat", "Electricity", "Wind", "Food"],
+      "correctIndex": 1,
+      "explanation": "Tidal energy is a renewable source of power.",
       "frequencyRating": 4
     },
     {
-      "id": "g7_geo_ch5_q10",
-      "text": "Areas where a warm and cold current meet are the best ________ in the world.",
-      "options": ["Tourist spots", "Fishing grounds", "Swimming areas", "Oil fields"],
+      "id": "g7_g5_q24",
+      "text": "A tsunami in the Indian Ocean in ________ caused massive destruction.",
+      "options": ["1999", "2001", "2004", "2010"],
+      "correctIndex": 2,
+      "explanation": "It was triggered by an earthquake near Sumatra and affected many coastal countries.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g5_q25",
+      "text": "The Indira Point in ________ got submerged during the 2004 tsunami.",
+      "options": ["Lakshadweep", "Andaman and Nicobar Islands", "Tamil Nadu", "Kerala"],
       "correctIndex": 1,
-      "explanation": "The mixing of currents creates ideal conditions for plankton, attracting fish.",
+      "explanation": "Indira Point was the southernmost point of India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g5_q26",
+      "text": "Warm ocean currents influence the ________ of the land.",
+      "options": ["Soil", "Temperature", "Altitude", "Population"],
+      "correctIndex": 1,
+      "explanation": "They bring about warm temperatures over the coastlines.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g5_q27",
+      "text": "The sun, moon and earth form a right angle during:",
+      "options": ["Spring tide", "Neap tide", "High tide", "Total eclipse"],
+      "correctIndex": 1,
+      "explanation": "The counteracting gravity leads to lower tidal ranges.",
       "frequencyRating": 4
+    },
+    {
+      "id": "g7_g5_q28",
+      "text": "The velocity of a tsunami wave can be more than ________ km per hour.",
+      "options": ["100", "400", "700", "2000"],
+      "correctIndex": 2,
+      "explanation": "They travel at high speeds across deep ocean waters.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g5_q29",
+      "text": "During high tide, ________ come closer to the shore, helping fishermen.",
+      "options": ["Sharks", "More fish", "Boats", "Sea weeds"],
+      "correctIndex": 1,
+      "explanation": "This allows for a plentiful catch.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g5_q30",
+      "text": "What causes the 'rhythmic' movement of water in tides?",
+      "options": ["Earth's rotation", "Winds", "Gravitational force of moon and sun", "Submarine earthquakes"],
+      "correctIndex": 2,
+      "explanation": "Tides are primarily a gravitational phenomenon.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g5_q31",
+      "text": "Water is a ________ resource.",
+      "options": ["Non-renewable", "Precious", "Useless", "Unlimited always"],
+      "correctIndex": 1,
+      "explanation": "Even though earth is mostly water, fresh water is limited and must be conserved.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g5_q32",
+      "text": "Which of these is NOT a freshwater source?",
+      "options": ["Ponds", "Glaciers", "Oceans", "Springs"],
+      "correctIndex": 2,
+      "explanation": "Oceans are saline.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g5_q33",
+      "text": "The height of waves depends on the:",
+      "options": ["Depth of sea", "Speed of wind", "Temperature of water", "Distance from land"],
+      "correctIndex": 1,
+      "explanation": "Stronger winds blow, the bigger the waves become.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g5_q34",
+      "text": "Inland seas and salt lakes account for ________ per cent of water.",
+      "options": ["0.009", "2.0", "97.3", "0.68"],
+      "correctIndex": 0,
+      "explanation": "They contain a very small fraction of the world's water.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_g5_q35",
+      "text": "Atmosphere contains water in the form of:",
+      "options": ["Ice", "Vapour", "Rivers", "Groundwater"],
+      "correctIndex": 1,
+      "explanation": "Humidity is the measure of this water vapour.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g5_q36",
+      "text": "Water droplets in clouds fall as precipitation when they:",
+      "options": ["Get lighter", "Become too heavy to float in air", "Turn into gas", "Hit a plane"],
+      "correctIndex": 1,
+      "explanation": "Gravity pulls the heavy droplets down as rain or snow.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g5_q37",
+      "text": "When the wind blows during a storm at very high speed, it forms:",
+      "options": ["Small waves", "Huge waves", "Tides", "Currents"],
+      "correctIndex": 1,
+      "explanation": "These can cause tremendous destruction.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g5_q38",
+      "text": "Cold ocean currents carry water from:",
+      "options": ["Equator to poles", "Polar latitudes to tropical latitudes", "East to West", "Bottom to surface"],
+      "correctIndex": 1,
+      "explanation": "They move water from colder to warmer regions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g5_q39",
+      "text": "Which of these is used for indicating the direction of ocean currents?",
+      "options": ["Compass", "Thermometer", "Mapping of temperature/salinity", "Anemometer"],
+      "correctIndex": 2,
+      "explanation": "Scientists study the movement of water masses to track currents.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_g5_q40",
+      "text": "The 'Indira Point' was in which island group?",
+      "options": ["Lakshadweep", "Andaman and Nicobar", "Maldives", "Sri Lanka"],
+      "correctIndex": 1,
+      "explanation": "It was part of the Great Nicobar island.",
+      "frequencyRating": 5
     }
   ]
 }

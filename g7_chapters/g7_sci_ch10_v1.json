@@ -8,73 +8,323 @@
   "questions": [
     {
       "id": "g7_s10_q1",
-      "text": "In the symbol for an electric cell, the longer line represents the:",
-      "options": ["Negative terminal", "Positive terminal", "Neutral terminal", "Switch"],
-      "correctIndex": 1,
-      "explanation": "The longer line represents the positive terminal and the shorter, thicker line represents the negative terminal."
+      "text": "Which of the following is the symbol for an electric cell?",
+      "options": ["A long line and a shorter thick line", "Two equal lines", "A circle", "A wavy line"],
+      "correctIndex": 0,
+      "explanation": "The long line represents the positive terminal and the short thick line represents the negative terminal.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s10_q2",
-      "text": "A combination of two or more cells is called a:",
-      "options": ["Generator", "Battery", "Switch", "Fuse"],
-      "correctIndex": 1,
-      "explanation": "In a battery, the positive terminal of one cell is connected to the negative terminal of the next."
+      "text": "A combination of two or more electric cells is called a:",
+      "options": ["Switch", "Wire", "Battery", "Bulb"],
+      "correctIndex": 2,
+      "explanation": "Cells are connected positive to negative to form a battery.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s10_q3",
-      "text": "When an electric current flows through a wire, it gets hot. This is called:",
-      "options": ["Magnetic effect", "Chemical effect", "Heating effect", "Cooling effect"],
-      "correctIndex": 2,
-      "explanation": "This effect is used in appliances like electric heaters and irons."
+      "text": "The thin wire that gives off light in a bulb is called the:",
+      "options": ["Connecting wire", "Filament", "Switch", "Terminal"],
+      "correctIndex": 1,
+      "explanation": "Filament is usually made of tungsten which has a high melting point.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s10_q4",
-      "text": "The wire used in a fuse has a:",
-      "options": ["High melting point", "Low melting point", "No melting point", "Very thick diameter"],
+      "text": "When an electric current flows through a wire, it gets heated. This is the:",
+      "options": ["Magnetic effect", "Heating effect", "Chemical effect", "Cooling effect"],
       "correctIndex": 1,
-      "explanation": "Fuse wires melt quickly and break the circuit if large currents flow through them."
+      "explanation": "Heat produced depends on the material, length, and thickness of the wire.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s10_q5",
-      "text": "Who discovered the magnetic effect of electric current?",
-      "options": ["Isaac Newton", "Hans Christian Oersted", "Thomas Edison", "Albert Einstein"],
+      "text": "Which of the following appliances works on the heating effect of current?",
+      "options": ["Electric fan", "Electric iron", "Electric bell", "Radio"],
       "correctIndex": 1,
-      "explanation": "Oersted noticed that a compass needle deflected when a current-carrying wire was nearby."
+      "explanation": "Electric iron uses a heating element to generate heat.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s10_q6",
-      "text": "A current-carrying coil of insulated wire wrapped around a piece of iron is an:",
-      "options": ["Electric cell", "Electromagnet", "Electric fuse", "Insulator"],
+      "text": "A safety device that prevents damage to electrical circuits and fire is:",
+      "options": ["Switch", "Fuse", "Electromagnet", "Coil"],
       "correctIndex": 1,
-      "explanation": "The iron core becomes a magnet as long as the current flows through the coil."
+      "explanation": "A fuse has a low melting point wire that breaks when excessive current flows.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s10_q7",
-      "text": "Which device uses an electromagnet?",
-      "options": ["Electric heater", "Electric bell", "Electric bulb", "Electric fuse"],
+      "text": "MCB stands for:",
+      "options": ["Main Circuit Board", "Miniature Circuit Breaker", "Maximum Current Breaker", "Magnetic Circuit Box"],
       "correctIndex": 1,
-      "explanation": "The electric bell uses an electromagnet to pull a hammer that strikes a gong."
+      "explanation": "MCBs are switches that automatically turn off when current exceeds the safe limit.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s10_q8",
-      "text": "The thin wire inside an electric bulb that glows is the:",
-      "options": ["Element", "Filament", "Fuse", "Lead"],
+      "text": "Hans Christian Oersted discovered that current-carrying wire behaves like a:",
+      "options": ["Heater", "Magnet", "Battery", "Insulator"],
       "correctIndex": 1,
-      "explanation": "The filament is usually made of tungsten which has a very high melting point."
+      "explanation": "This is called the magnetic effect of electric current.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s10_q9",
-      "text": "MCB stands for:",
-      "options": ["Main Circuit Board", "Miniature Circuit Breaker", "Maximum Current Battery", "Minimal Circuit Block"],
+      "text": "A coil of wire wound around an iron core that acts as a magnet when current flows is:",
+      "options": ["Permanent magnet", "Electromagnet", "Resistance", "Condenser"],
       "correctIndex": 1,
-      "explanation": "MCBs are switches that automatically turn off when current in a circuit exceeds the safe limit."
+      "explanation": "Its magnetic strength can be turned on or off with the switch.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s10_q10",
-      "text": "Which of the following is a safety device in electrical circuits?",
-      "options": ["Battery", "Switch", "Fuse", "Connecting wire"],
+      "text": "Electric bells work on the principle of:",
+      "options": ["Heating effect", "Magnetic effect", "Chemical effect", "Friction"],
+      "correctIndex": 1,
+      "explanation": "It uses an electromagnet to pull a hammer that strikes a gong.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s10_q11",
+      "text": "Current flows through a circuit only when the switch is in ______ position.",
+      "options": ["OFF", "ON", "Neutral", "Broken"],
+      "correctIndex": 1,
+      "explanation": "ON position creates a closed, complete path for the current.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s10_q12",
+      "text": "CFL stands for:",
+      "options": ["Cold Fluorescent Lamp", "Compact Fluorescent Lamp", "Circular Fluorescent Lamp", "Cool Flash Light"],
+      "correctIndex": 1,
+      "explanation": "CFLs are more energy-efficient than traditional incandescent bulbs.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s10_q13",
+      "text": "ISI mark on electrical appliances ensures:",
+      "options": ["They are cheap", "They are imported", "Safety and minimum wastage of energy", "They look good"],
       "correctIndex": 2,
-      "explanation": "A fuse prevents damage to electrical circuits and possible fires."
+      "explanation": "ISI is a quality certification by the Bureau of Indian Standards.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s10_q14",
+      "text": "Electromagnets are used in:",
+      "options": ["Magnetic toys", "Cranes for lifting scrap iron", "Telephone instruments", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Their temporary magnetic nature makes them very versatile in technology.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s10_q15",
+      "text": "When the filament of a bulb breaks, it is called a ______ bulb.",
+      "options": ["Glowing", "Fused", "Dim", "Safe"],
+      "correctIndex": 1,
+      "explanation": "A fused bulb cannot light up because the circuit is broken.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s10_q16",
+      "text": "Why is a soft iron core used in an electromagnet?",
+      "options": ["It is cheap", "It gains and loses magnetism easily", "It is very hard", "It does not rust"],
+      "correctIndex": 1,
+      "explanation": "Soft iron is a temporary magnetic material.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s10_q17",
+      "text": "The magnetic effect of current is shown by a ______ placed near a current-carrying wire.",
+      "options": ["Compass needle", "Paper", "Heater", "Glass"],
+      "correctIndex": 0,
+      "explanation": "The compass needle deflects due to the magnetic field generated by the wire.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s10_q18",
+      "text": "Electric fuses are based on the ______ effect of current.",
+      "options": ["Magnetic", "Heating", "Chemical", "Mechanical"],
+      "correctIndex": 1,
+      "explanation": "Excess heat melts the fuse wire.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s10_q19",
+      "text": "Heating elements of appliances are usually made of:",
+      "options": ["Copper", "Nichrome", "Silver", "Aluminium"],
+      "correctIndex": 1,
+      "explanation": "Nichrome has high resistance and a high melting point.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s10_q20",
+      "text": "Which terminal of a cell is represented by a longer line in a circuit diagram?",
+      "options": ["Negative", "Positive", "Ground", "None"],
+      "correctIndex": 1,
+      "explanation": "Standard convention for schematic symbols.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s10_q21",
+      "text": "A wire through which current flows acts as a magnet. This is true:",
+      "options": ["Only for copper wires", "Only for thin wires", "For all conductors", "Only for long wires"],
+      "correctIndex": 2,
+      "explanation": "Any conducting wire produces a magnetic field when current passes through it.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s10_q22",
+      "text": "What happens to a compass needle when current in a nearby wire is switched off?",
+      "options": ["It deflects more", "It stays deflected", "It returns to its original north-south position", "It breaks"],
+      "correctIndex": 2,
+      "explanation": "The temporary magnetic field disappears.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s10_q23",
+      "text": "To make a battery of 4 cells, how many terminals are connected to each other?",
+      "options": ["2", "3", "4", "8"],
+      "correctIndex": 1,
+      "explanation": "Connections are (+ to -), (+ to -), and (+ to -). Total 3 joints.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s10_q24",
+      "text": "LED stands for:",
+      "options": ["Light Emitting Diode", "Light Efficient Device", "Linear Electric Diode", "Low Energy Display"],
+      "correctIndex": 0,
+      "explanation": "LEDs are the most efficient light sources today.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s10_q25",
+      "text": "Does an electric bulb produce heat along with light?",
+      "options": ["No", "Yes", "Only when new", "Only when fused"],
+      "correctIndex": 1,
+      "explanation": "Bulbs produce significant heat as a waste byproduct of light generation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s10_q26",
+      "text": "Can we use a silver wire as a fuse?",
+      "options": ["Yes", "No", "Depends on thickness", "Only in batteries"],
+      "correctIndex": 1,
+      "explanation": "Fuse wires should have high resistance and low melting point; silver is a great conductor.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s10_q27",
+      "text": "An electromagnet's strength can be increased by:",
+      "options": ["Increasing number of turns in coil", "Increasing current", "Using a soft iron core", "All of these"],
+      "correctIndex": 3,
+      "explanation": "All these factors enhance the magnetic field.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s10_q28",
+      "text": "Circuit diagram is a ______ representation of an electric circuit.",
+      "options": ["3D", "Photographic", "Schematic/Symbolic", "Painting"],
+      "correctIndex": 2,
+      "explanation": "It uses standard symbols to represent components.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s10_q29",
+      "text": "Heating of wire depends on its:",
+      "options": ["Length", "Material", "Thickness", "All of these"],
+      "correctIndex": 3,
+      "explanation": "All these contribute to the resistance of the wire.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s10_q30",
+      "text": "Switch can be placed ______ in the circuit.",
+      "options": ["Only at start", "Only at end", "Anywhere", "Near the bulb only"],
+      "correctIndex": 2,
+      "explanation": "As long as it can break the loop, its position doesn't matter.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s10_q31",
+      "text": "When the magnetic effect was first observed, what moved?",
+      "options": ["The wire", "The cell", "The compass needle", "The switch"],
+      "correctIndex": 2,
+      "explanation": "The deflection of the needle proved the presence of magnetism.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s10_q32",
+      "text": "A wire is safe if current is ______ than the fuse limit.",
+      "options": ["Greater", "Less", "Equal", "Twice"],
+      "correctIndex": 1,
+      "explanation": "If current exceeds the limit, the fuse blows.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s10_q33",
+      "text": "Do magnets have any effect on an electromagnet?",
+      "options": ["No", "Yes", "Only if permanent", "Only if near battery"],
+      "correctIndex": 1,
+      "explanation": "Like any magnet, it will interact with other magnetic fields.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_s10_q34",
+      "text": "What happens if we reverse the terminals of the cell in a circuit with a compass?",
+      "options": ["Deflection stops", "Deflection reverses direction", "Needle breaks", "No change"],
+      "correctIndex": 1,
+      "explanation": "Reversing current reverses the direction of the magnetic field.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s10_q35",
+      "text": "Electric geysers use the ______ effect of current.",
+      "options": ["Magnetic", "Heating", "Cooling", "Static"],
+      "correctIndex": 1,
+      "explanation": "They are designed to heat water using electrical energy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s10_q36",
+      "text": "In a fuse, the wire used should melt ______.",
+      "options": ["Never", "Quickly when heated", "Slowly", "Only when cold"],
+      "correctIndex": 1,
+      "explanation": "Quick melting breaks the circuit promptly in case of a surge.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s10_q37",
+      "text": "The gong of an electric bell is hit by the:",
+      "options": ["Electromagnet", "Hammer", "Spring", "Screw"],
+      "correctIndex": 1,
+      "explanation": "The armature is pulled and the attached hammer hits the gong.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s10_q38",
+      "text": "Current is measured in ______ (basic unit).",
+      "options": ["Volts", "Ohms", "Amperes", "Watts"],
+      "correctIndex": 2,
+      "explanation": "Ampere (A) is the SI unit for electric current.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s10_q39",
+      "text": "Connecting many devices to one socket can cause:",
+      "options": ["Short circuit", "Overloading", "Battery leak", "Electromagnetism"],
+      "correctIndex": 1,
+      "explanation": "Overloading causes excessive heating and may lead to fires.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s10_q40",
+      "text": "Electric current is the flow of ______ through a conductor.",
+      "options": ["Protons", "Neutrons", "Electrons", "Atoms"],
+      "correctIndex": 2,
+      "explanation": "In metal wires, current is the drift of free electrons.",
+      "frequencyRating": 3
     }
   ]
 }

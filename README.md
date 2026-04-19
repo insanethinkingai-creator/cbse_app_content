@@ -1,12 +1,15 @@
-# CBSE Grade 7, 10 & 12 Quiz App Content
+# CBSE Grade 7-12 Quiz App Content
 
-This directory contains structured JSON data for Grade 7, Grade 10, and Grade 12 MCQ Quiz Apps, strictly aligned with the **NCERT Rationalised Syllabus (2023-24 onwards)** and historical exam frequency patterns.
+This directory contains structured JSON data for Grade 7 to Grade 12 MCQ Quiz Apps, strictly aligned with the **NCERT Rationalised Syllabus (2023-24 onwards)** and historical exam frequency patterns.
 
 ## File Structure
 
 - `version.json`: The manifest file tracking the latest versions of all available chapters.
-- `g7_chapters/`: Grade 7 chapter files (10 MCQs each).
+- `g7_chapters/`: Grade 7 chapter files (40 MCQs each).
+- `g8_chapters/`: Grade 8 chapter files (40 MCQs each).
+- `g9_chapters/`: Grade 9 chapter files (40 MCQs each).
 - `g10_chapters/`: Grade 10 chapter files (40 MCQs each).
+- `g11_chapters/`: Grade 11 chapter files (40 MCQs each).
 - `g12_chapters/`: Grade 12 chapter files (40 MCQs each).
 
 ## Data Schema
@@ -21,7 +24,7 @@ Each chapter JSON file follows a strict schema to ensure compatibility with the 
 | `number` | String | Chapter number as per NCERT |
 | `title` | String | Official chapter name |
 | `version` | String | Version string (e.g., "v1") |
-| `questions` | Array | List of 10 question objects |
+| `questions` | Array | List of 40 question objects |
 
 ### Question Object
 Each question includes:
@@ -43,7 +46,7 @@ To generate additional chapters or update existing ones, use the following promp
 > 2. **Question Object**: Include `id` (format: g{GRADE}_{SUBJ_INITIAL}{NUMBER}_q{INDEX}), `text`, `options` (array of exactly 4), `correctIndex` (0-3), `explanation`, and `frequencyRating` (1-5).
 > 3. **Quantity**: Generate exactly {COUNT} questions (10 for Grade 7, 40 for Grade 10).
 > 4. **Content**: Ensure alignment with NCERT Rationalised Syllabus (2023-24). Provide a mix of easy, conceptual, and high-frequency exam questions with accurate explanations.
-> 5. **Output**: Return only the raw valid JSON code block."
+> 5. **Output**: Return only the raw valid JSON code block. Set {COUNT} to 40 for all grades."
 
 ## Content Maintenance & Bundling
 
@@ -64,7 +67,7 @@ This script automatically packages all chapters into `g7_v1.zip`, calculates its
 
 ## Syllabus Coverage (NCERT Rationalised)
 
-### Mathematics
+### Mathematics (40 Questions per Chapter)
 | Ch # | Chapter Title | Status |
 | :--- | :--- | :--- |
 | 1 | Integers | ✅ v1 |
@@ -81,7 +84,7 @@ This script automatically packages all chapters into `g7_v1.zip`, calculates its
 | 12 | Symmetry | ✅ v1 |
 | 13 | Visualising Solid Shapes | ✅ v1 |
 
-### Science
+### Science (40 Questions per Chapter)
 | Ch # | Chapter Title | Status |
 | :--- | :--- | :--- |
 | 1 | Nutrition in Plants | ✅ v1 |
@@ -98,7 +101,7 @@ This script automatically packages all chapters into `g7_v1.zip`, calculates its
 | 12 | Forests: Our Lifeline | ✅ v1 |
 | 13 | Wastewater Story | ✅ v1 |
 
-### Social Science
+### Social Science (40 Questions per Chapter)
 | Ch # | Chapter Title | Status |
 | :--- | :--- | :--- |
 | Hist 1 | Tracing Changes Through a Thousand Years | ✅ v1 |
@@ -125,7 +128,7 @@ This script automatically packages all chapters into `g7_v1.zip`, calculates its
 | Civ 7 | Markets Around Us | ✅ v1 |
 | Civ 8 | A Shirt in the Market | ✅ v1 |
 
-### English (Honeycomb)
+### English (Honeycomb) (40 Questions per Chapter)
 | Ch # | Chapter Title | Status |
 | :--- | :--- | :--- |
 | 1 | Three Questions | ✅ v1 |
@@ -137,51 +140,133 @@ This script automatically packages all chapters into `g7_v1.zip`, calculates its
 | 7 | The Invention of Vita-Wonk | ✅ v1 |
 | 8 | A Homage to our Brave Soldiers | ✅ v1 |
 
-## Class 10 Syllabus Coverage (NCERT Rationalised)
+## Class 8 Syllabus Coverage (NCERT Rationalised)
+
+### Mathematics (10 Questions per Chapter)
+| Ch # | Chapter Title | Status |
+| :--- | :--- | :--- |
+| 1 | Rational Numbers | ✅ v1 |
+| 2 | Linear Equations in One Variable | ✅ v1 |
+| 3 | Understanding Quadrilaterals | ✅ v1 |
+| 4 | Data Handling | ✅ v1 |
+| 5 | Squares and Square Roots | ✅ v1 |
+| 6 | Cubes and Cube Roots | ✅ v1 |
+| 7 | Comparing Quantities | ✅ v1 |
+| 8 | Algebraic Expressions and Identities | ✅ v1 |
+| 9 | Mensuration | ✅ v1 |
+| 10 | Exponents and Powers | ✅ v1 |
+| 11 | Direct and Inverse Proportions | ✅ v1 |
+| 12 | Factorisation | ✅ v1 |
+| 13 | Introduction to Graphs | ✅ v1 |
+
+### Science (10 Questions per Chapter)
+| Ch # | Chapter Title | Status |
+| :--- | :--- | :--- |
+| 1 | Crop Production and Management | ✅ v1 |
+| 2 | Microorganisms: Friend and Foe | ✅ v1 |
+| 3 | Coal and Petroleum | ✅ v1 |
+| 4 | Combustion and Flame | ✅ v1 |
+| 5 | Conservation of Plants and Animals | ✅ v1 |
+| 6 | Reproduction in Animals | ✅ v1 |
+| 7 | Reaching the Age of Adolescence | ✅ v1 |
+| 8 | Force and Pressure | ✅ v1 |
+| 9 | Friction | ✅ v1 |
+| 10 | Sound | ✅ v1 |
+| 11 | Chemical Effects of Electric Current | ✅ v1 |
+| 12 | Some Natural Phenomena | ✅ v1 |
+| 13 | Light | ✅ v1 |
+
+### Social Science (10 Questions per Chapter)
+| Ch # | Chapter Title | Status |
+| :--- | :--- | :--- |
+| Hist 1 | How, When and Where | ✅ v1 |
+| Hist 2 | From Trade to Territory | ✅ v1 |
+| Hist 3 | Ruling the Countryside | ✅ v1 |
+| Hist 4 | Tribals, Dikus and the Vision of a Golden Age | ✅ v1 |
+| Hist 5 | When People Rebel | ✅ v1 |
+| Hist 6 | Civilising the "Native", Educating the Nation | ✅ v1 |
+| Hist 7 | Women, Caste and Reform | ✅ v1 |
+| Hist 8 | The Making of the National Movement | ✅ v1 |
+| Geo 1 | Resources | ✅ v1 |
+| Geo 2 | Land, Soil, Water, Natural Vegetation | ✅ v1 |
+| Geo 3 | Mineral and Power Resources | ✅ v1 |
+| Geo 4 | Agriculture | ✅ v1 |
+| Geo 5 | Industries | ✅ v1 |
+| Geo 6 | Human Resources | ✅ v1 |
+| Civ 1 | The Indian Constitution | ✅ v1 |
+| Civ 2 | Understanding Secularism | ✅ v1 |
+| Civ 3 | Parliament and the Making of Laws | ✅ v1 |
+| Civ 4 | The Judiciary | ✅ v1 |
+| Civ 5 | Understanding Marginalisation | ✅ v1 |
+| Civ 6 | Confronting Marginalisation | ✅ v1 |
+| Civ 7 | Public Facilities | ✅ v1 |
+| Civ 8 | Law and Social Justice | ✅ v1 |
+
+### English (10 Questions per Chapter)
+| Ch # | Chapter Title | Status |
+| :--- | :--- | :--- |
+| 1 | The Best Christmas Present in the World | ✅ v1 |
+| 2 | The Tsunami | ✅ v1 |
+| 3 | Glimpses of the Past | ✅ v1 |
+| 4 | Bepin Choudhury’s Lapse of Memory | ✅ v1 |
+| 5 | The Summit Within | ✅ v1 |
+| 6 | This is Jody’s Fawn | ✅ v1 |
+| 7 | A Visit to Cambridge | ✅ v1 |
+| 8 | A Short Monsoon Diary | ✅ v1 |
+
+## Class 9 Syllabus Coverage (NCERT Rationalised)
 
 ### Mathematics (40 Questions per Chapter)
 | Ch # | Chapter Title | Status |
 | :--- | :--- | :--- |
-| 1 | Real Numbers | ✅ v1 |
+| 1 | Number Systems | ✅ v1 |
 | 2 | Polynomials | ✅ v1 |
-| 3 | Pair of Linear Equations in Two Variables | ✅ v1 |
-| 4 | Quadratic Equations | ✅ v1 |
-| 5 | Arithmetic Progressions | ✅ v1 |
-| 6 | Triangles | ✅ v1 |
-| 7 | Coordinate Geometry | ✅ v1 |
-| 8 | Introduction to Trigonometry | ✅ v1 |
-| 9 | Some Applications of Trigonometry | ✅ v1 |
+| 3 | Coordinate Geometry | ✅ v1 |
+| 4 | Linear Equations in Two Variables | ✅ v1 |
+| 5 | Introduction to Euclid’s Geometry | ✅ v1 |
+| 6 | Lines and Angles | ✅ v1 |
+| 7 | Triangles | ✅ v1 |
+| 8 | Quadrilaterals | ✅ v1 |
+| 9 | Areas of Parallelograms and Triangles | ✅ v1 |
 | 10 | Circles | ✅ v1 |
-| 11 | Areas Related to Circles | ✅ v1 |
-| 12 | Surface Areas and Volumes | ✅ v1 |
-| 13 | Statistics | ✅ v1 |
-| 14 | Probability | ✅ v1 |
+| 11 | Constructions | ✅ v1 |
+| 12 | Heron’s Formula | ✅ v1 |
+| 13 | Surface Areas and Volumes | ✅ v1 |
+| 14 | Statistics | ✅ v1 |
+| 15 | Probability | ✅ v1 |
 
 ### Science (40 Questions per Chapter)
 | Ch # | Chapter Title | Status |
 | :--- | :--- | :--- |
-| 1 | Chemical Reactions and Equations | ✅ v1 |
-| 2 | Acids, Bases and Salts | ✅ v1 |
-| 3 | Metals and Non-metals | ✅ v1 |
-| 4 | Carbon and its Compounds | ✅ v1 |
-| 5 | Life Processes | ✅ v1 |
-| 6 | Control and Coordination | ✅ v1 |
-| 7 | How do Organisms Reproduce? | ✅ v1 |
-| 8 | Heredity | ✅ v1 |
-| 9 | Light – Reflection and Refraction | ✅ v1 |
-| 10 | The Human Eye and the Colourful World | ✅ v1 |
-| 11 | Electricity | ✅ v1 |
-| 12 | Magnetic Effects of Electric Current | ✅ v1 |
-| 13 | Our Environment | ✅ v1 |
+| 1 | Matter in Our Surroundings | ✅ v1 |
+| 2 | Is Matter Around Us Pure | ✅ v1 |
+| 3 | Atoms and Molecules | ✅ v1 |
+| 4 | Structure of the Atom | ✅ v1 |
+| 5 | The Fundamental Unit of Life | ✅ v1 |
+| 6 | Tissues | ✅ v1 |
+| 7 | Motion | ✅ v1 |
+| 8 | Force and Laws of Motion | ✅ v1 |
+| 9 | Gravitation | ✅ v1 |
+| 10 | Work and Energy | ✅ v1 |
+| 11 | Sound | ✅ v1 |
+| 12 | Improvement in Food Resources | ✅ v1 |
 
-### Social Science - History (40 Questions per Chapter)
+### English (40 Questions per Chapter)
 | Ch # | Chapter Title | Status |
 | :--- | :--- | :--- |
-| 1 | The Rise of Nationalism in Europe | ✅ v1 |
-| 2 | Nationalism in India | ✅ v1 |
-| 3 | The Making of a Global World | ✅ v1 |
-| 4 | The Age of Industrialisation | ✅ v1 |
-| 5 | Print Culture and the Modern World | ✅ v1 |
+| 1 | The Fun They Had | ✅ v1 |
+| 2 | The Sound of Music | ✅ v1 |
+| 3 | The Little Girl | ✅ v1 |
+| 4 | A Truly Beautiful Mind | ✅ v1 |
+| 5 | The Snake and the Mirror | ✅ v1 |
+| 6 | My Childhood | ✅ v1 |
+| 7 | Reach for the Top | ✅ v1 |
+| 8 | Kathmandu | ✅ v1 |
+| 9 | If I Were You | ✅ v1 |
+| 10 | In the Kingdom of Fools | ✅ v1 |
+| 11 | The Happy Prince | ✅ v1 |
+
+## Class 10 Syllabus Coverage (NCERT Rationalised)
 
 ### Mathematics (40 Questions per Chapter)
 | Ch # | Chapter Title | Status |
@@ -274,45 +359,87 @@ This script automatically packages all chapters into `g7_v1.zip`, calculates its
 ### Mathematics (40 Questions per Chapter)
 | Ch # | Chapter Title | Status |
 | :--- | :--- | :--- |
-| 1 | Sets | ⏳ Pending |
-| 2 | Relations and Functions | ⏳ Pending |
-| 3 | Trigonometric Functions | ⏳ Pending |
-| 4 | Principle of Mathematical Induction | ⏳ Pending |
-| 5 | Complex Numbers and Quadratic Equations | ⏳ Pending |
-| 6 | Linear Inequalities | ⏳ Pending |
-| 7 | Permutations and Combinations | ⏳ Pending |
-| 8 | Binomial Theorem | ⏳ Pending |
-| 9 | Sequences and Series | ⏳ Pending |
-| 10 | Straight Lines | ⏳ Pending |
-| 11 | Conic Sections | ⏳ Pending |
-| 12 | Introduction to Three Dimensional Geometry | ⏳ Pending |
-| 13 | Limits and Derivatives | ⏳ Pending |
-| 14 | Statistics | ⏳ Pending |
-| 15 | Probability | ⏳ Pending |
+| 1 | Sets | ✅ v1 |
+| 2 | Relations and Functions | ✅ v1 |
+| 3 | Trigonometric Functions | ✅ v1 |
+| 4 | Complex Numbers and Quadratic Equations | ✅ v1 |
+| 5 | Linear Inequalities | ✅ v1 |
+| 6 | Permutations and Combinations | ✅ v1 |
+| 7 | Binomial Theorem | ✅ v1 |
+| 8 | Sequences and Series | ✅ v1 |
+| 9 | Straight Lines | ✅ v1 |
+| 10 | Conic Sections | ✅ v1 |
+| 11 | Introduction to Three Dimensional Geometry | ✅ v1 |
+| 12 | Limits and Derivatives | ✅ v1 |
+| 13 | Statistics | ✅ v1 |
+| 14 | Probability | ✅ v1 |
 
 ### Physics (40 Questions per Chapter)
 | Ch # | Chapter Title | Status |
 | :--- | :--- | :--- |
-| 1 | Physical World | ⏳ Pending |
-| 2 | Units and Measurements | ⏳ Pending |
-| 3 | Motion in a Straight Line | ⏳ Pending |
-| 4 | Motion in a Plane | ⏳ Pending |
-| 5 | Laws of Motion | ⏳ Pending |
-| 6 | Work, Energy and Power | ⏳ Pending |
-| 7 | System of Particles and Rotational Motion | ⏳ Pending |
-| 8 | Gravitation | ⏳ Pending |
-| 9 | Mechanical Properties of Solids | ⏳ Pending |
-| 10 | Mechanical Properties of Fluids | ⏳ Pending |
-| 11 | Thermal Properties of Matter | ⏳ Pending |
-| 12 | Thermodynamics | ⏳ Pending |
-| 13 | Kinetic Theory | ⏳ Pending |
-| 14 | Oscillations | ⏳ Pending |
-| 15 | Waves | ⏳ Pending |
+| 1 | Physical World | ✅ v1 |
+| 2 | Units and Measurements | ✅ v1 |
+| 3 | Motion in a Straight Line | ✅ v1 |
+| 4 | Motion in a Plane | ✅ v1 |
+| 5 | Laws of Motion | ✅ v1 |
+| 6 | Work, Energy and Power | ✅ v1 |
+| 7 | System of Particles and Rotational Motion | ✅ v1 |
+| 8 | Gravitation | ✅ v1 |
+| 9 | Mechanical Properties of Solids | ✅ v1 |
+| 10 | Mechanical Properties of Fluids | ✅ v1 |
+| 11 | Thermal Properties of Matter | ✅ v1 |
+| 12 | Thermodynamics | ✅ v1 |
+| 13 | Kinetic Theory | ✅ v1 |
+| 14 | Oscillations | ✅ v1 |
+| 15 | Waves | ✅ v1 |
+
+### Chemistry (40 Questions per Chapter)
+| Ch # | Chapter Title | Status |
+| :--- | :--- | :--- |
+| 1 | Some Basic Concepts of Chemistry | ✅ v1 |
+| 2 | Structure of Atom | ✅ v1 |
+| 3 | Classification of Elements and Periodicity | ✅ v1 |
+| 4 | Chemical Bonding and Molecular Structure | ✅ v1 |
+| 5 | Thermodynamics | ✅ v1 |
+| 6 | Equilibrium | ✅ v1 |
+| 7 | Redox Reactions | ✅ v1 |
+| 8 | Organic Chemistry – Basic Principles | ✅ v1 |
+| 9 | Hydrocarbons | ✅ v1 |
+
+### Biology (40 Questions per Chapter)
+| Ch # | Chapter Title | Status |
+| :--- | :--- | :--- |
+| 1 | The Living World | ✅ v1 |
+| 2 | Biological Classification | ✅ v1 |
+| 3 | Plant Kingdom | ✅ v1 |
+| 4 | Animal Kingdom | ✅ v1 |
+| 5 | Morphology of Flowering Plants | ✅ v1 |
+| 6 | Anatomy of Flowering Plants | ✅ v1 |
+| 7 | Structural Organisation in Animals | ✅ v1 |
+| 8 | Cell: The Unit of Life | ✅ v1 |
+| 9 | Biomolecules | ✅ v1 |
+| 10 | Cell Cycle and Cell Division | ✅ v1 |
+| 11 | Photosynthesis in Higher Plants | ✅ v1 |
+| 12 | Respiration in Plants | ✅ v1 |
+| 13 | Plant Growth and Development | ✅ v1 |
+| 14 | Breathing and Exchange of Gases | ✅ v1 |
+| 15 | Body Fluids and Circulation | ✅ v1 |
+| 16 | Excretory Products and their Elimination | ✅ v1 |
+| 17 | Locomotion and Movement | ✅ v1 |
+| 18 | Neural Control and Coordination | ✅ v1 |
+| 19 | Chemical Coordination and Integration | ✅ v1 |
 
 ### English (40 Questions per Chapter)
 | Ch # | Chapter Title | Status |
 | :--- | :--- | :--- |
-| 1 | The Portrait of a Lady | ⏳ Pending |
+| 1 | The Portrait of a Lady | ✅ v1 |
+| 2 | "We’re Not Afraid to Die..." | ✅ v1 |
+| 3 | Discovering Tut: the Saga Continues | ✅ v1 |
+| 4 | Landscape of the Soul | ✅ v1 |
+| 5 | The Ailing Planet | ✅ v1 |
+| 6 | The Browning Version | ✅ v1 |
+| 7 | The Adventure | ✅ v1 |
+| 8 | Silk Road | ✅ v1 |
 
 ## Class 12 Syllabus Coverage (NCERT Rationalised)
 
@@ -321,44 +448,75 @@ This script automatically packages all chapters into `g7_v1.zip`, calculates its
 | :--- | :--- | :--- |
 | 1 | Relations and Functions | ✅ v1 |
 | 2 | Inverse Trigonometric Functions | ✅ v1 |
-| 3 | Matrices | ⏳ Pending |
-| 4 | Determinants | ⏳ Pending |
-| 5 | Continuity and Differentiability | ⏳ Pending |
-| 6 | Application of Derivatives | ⏳ Pending |
-| 7 | Integrals | ⏳ Pending |
-| 8 | Application of Integrals | ⏳ Pending |
-| 9 | Differential Equations | ⏳ Pending |
-| 10 | Vector Algebra | ⏳ Pending |
-| 11 | Three Dimensional Geometry | ⏳ Pending |
-| 12 | Linear Programming | ⏳ Pending |
-| 13 | Probability | ⏳ Pending |
+| 3 | Matrices | ✅ v1 |
+| 4 | Determinants | ✅ v1 |
+| 5 | Continuity and Differentiability | ✅ v1 |
+| 6 | Application of Derivatives | ✅ v1 |
+| 7 | Integrals | ✅ v1 |
+| 8 | Application of Integrals | ✅ v1 |
+| 9 | Differential Equations | ✅ v1 |
+| 10 | Vector Algebra | ✅ v1 |
+| 11 | Three Dimensional Geometry | ✅ v1 |
+| 12 | Linear Programming | ✅ v1 |
+| 13 | Probability | ✅ v1 |
 
 ### Physics (40 Questions per Chapter)
 | Ch # | Chapter Title | Status |
 | :--- | :--- | :--- |
 | 1 | Electric Charges and Fields | ✅ v1 |
-| 2 | Electrostatic Potential and Capacitance | ⏳ Pending |
-| 3 | Current Electricity | ⏳ Pending |
-| 4 | Moving Charges and Magnetism | ⏳ Pending |
-| 5 | Magnetism and Matter | ⏳ Pending |
-| 6 | Electromagnetic Induction | ⏳ Pending |
-| 7 | Alternating Current | ⏳ Pending |
-| 8 | Electromagnetic Waves | ⏳ Pending |
-| 9 | Ray Optics and Optical Instruments | ⏳ Pending |
-| 10 | Wave Optics | ⏳ Pending |
-| 11 | Dual Nature of Radiation and Matter | ⏳ Pending |
-| 12 | Atoms | ⏳ Pending |
-| 13 | Nuclei | ⏳ Pending |
-| 14 | Semiconductor Electronics | ⏳ Pending |
+| 2 | Electrostatic Potential and Capacitance | ✅ v1 |
+| 3 | Current Electricity | ✅ v1 |
+| 4 | Moving Charges and Magnetism | ✅ v1 |
+| 5 | Magnetism and Matter | ✅ v1 |
+| 6 | Electromagnetic Induction | ✅ v1 |
+| 7 | Alternating Current | ✅ v1 |
+| 8 | Electromagnetic Waves | ✅ v1 |
+| 9 | Ray Optics and Optical Instruments | ✅ v1 |
+| 10 | Wave Optics | ✅ v1 |
+| 11 | Dual Nature of Radiation and Matter | ✅ v1 |
+| 12 | Atoms | ✅ v1 |
+| 13 | Nuclei | ✅ v1 |
+| 14 | Semiconductor Electronics | ✅ v1 |
+
+### Chemistry (40 Questions per Chapter)
+| Ch # | Chapter Title | Status |
+| :--- | :--- | :--- |
+| 1 | Solutions | ✅ v1 |
+| 2 | Electrochemistry | ✅ v1 |
+| 3 | Chemical Kinetics | ✅ v1 |
+| 4 | d and f Block Elements | ✅ v1 |
+| 5 | Coordination Compounds | ✅ v1 |
+| 6 | Haloalkanes and Haloarenes | ✅ v1 |
+| 7 | Alcohols, Phenols and Ethers | ✅ v1 |
+| 8 | Aldehydes, Ketones and Carboxylic Acids | ✅ v1 |
+| 9 | Amines | ✅ v1 |
+| 10 | Biomolecules | ✅ v1 |
+
+### Biology (40 Questions per Chapter)
+| Ch # | Chapter Title | Status |
+| :--- | :--- | :--- |
+| 1 | Sexual Reproduction in Flowering Plants | ✅ v1 |
+| 2 | Human Reproduction | ✅ v1 |
+| 3 | Reproductive Health | ✅ v1 |
+| 4 | Principles of Inheritance and Variation | ✅ v1 |
+| 5 | Molecular Basis of Inheritance | ✅ v1 |
+| 6 | Evolution | ✅ v1 |
+| 7 | Human Health and Disease | ✅ v1 |
+| 8 | Microbes in Human Welfare | ✅ v1 |
+| 9 | Biotechnology: Principles and Processes | ✅ v1 |
+| 10 | Biotechnology and its Applications | ✅ v1 |
+| 11 | Organisms and Populations | ✅ v1 |
+| 12 | Ecosystem | ✅ v1 |
+| 13 | Biodiversity and Conservation | ✅ v1 |
 
 ### English - Flamingo (40 Questions per Chapter)
 | Ch # | Chapter Title | Status |
 | :--- | :--- | :--- |
 | 1 | The Last Lesson | ✅ v1 |
-| 2 | Lost Spring | ⏳ Pending |
-| 3 | Deep Water | ⏳ Pending |
-| 4 | The Rattrap | ⏳ Pending |
-| 5 | Indigo | ⏳ Pending |
+| 2 | Lost Spring | ✅ v1 |
+| 3 | Deep Water | ✅ v1 |
+| 4 | The Rattrap | ✅ v1 |
+| 5 | Indigo | ✅ v1 |
 
 ## Deployment & Android Integration Strategy
 

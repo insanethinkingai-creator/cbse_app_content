@@ -1,0 +1,330 @@
+{
+  "id": "g7_hist_ch1",
+  "grade": "7",
+  "subject": "History",
+  "number": "1",
+  "title": "Tracing Changes Through a Thousand Years",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_h1_q1",
+      "text": "Who was the Arab cartographer who made a map of the world in 1154 CE?",
+      "options": ["Al-Idrisi", "Ibn Battuta", "Ziyauddin Barani", "Abul Fazl"],
+      "correctIndex": 0,
+      "explanation": "Al-Idrisi created a world map where south was at the top and Arabia was centrally located.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h1_q2",
+      "text": "A person who makes maps is called a:",
+      "options": ["Biographer", "Cartographer", "Calligrapher", "Choreographer"],
+      "correctIndex": 1,
+      "explanation": "Cartography is the study and practice of making maps.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h1_q3",
+      "text": "In the 13th century, Minhaj-i-Siraj used the term 'Hindustan' to refer to areas of:",
+      "options": ["South India", "The entire subcontinent", "Punjab, Haryana and lands between Ganga and Yamuna", "Gujarat and Rajasthan"],
+      "correctIndex": 2,
+      "explanation": "He used the term in a political sense for lands that were part of the Delhi Sultanate.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h1_q4",
+      "text": "In the medieval period, a 'foreigner' was any stranger who was:",
+      "options": ["From another country", "Not part of a particular society or culture", "An invader", "A person who didn't speak Sanskrit"],
+      "correctIndex": 1,
+      "explanation": "A city-dweller might regard a forest-dweller as a foreigner, but two peasants in the same village were not foreigners.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h1_q5",
+      "text": "Archives are places where ________ are kept.",
+      "options": ["Maps", "Manuscripts", "Coins", "Sculptures"],
+      "correctIndex": 1,
+      "explanation": "Archives and libraries store old documents and manuscripts for historical research.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h1_q6",
+      "text": "Why did the cost of paper fall significantly in the 14th century?",
+      "options": ["It became scarce", "It became more widely available", "People stopped writing", "Printing presses were invented"],
+      "correctIndex": 1,
+      "explanation": "As paper became cheaper and more available, it replaced more expensive materials for record-keeping.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h1_q7",
+      "text": "Manuscripts were collected by wealthy people, rulers, monasteries and:",
+      "options": ["Peasants", "Temples", "Traders", "Artisans"],
+      "correctIndex": 1,
+      "explanation": "Manuscripts were expensive and hand-copied, usually kept in temples and libraries.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_h1_q8",
+      "text": "The difficulty with using manuscripts is that scribes often:",
+      "options": ["Used different languages", "Made small changes and errors while copying", "Burned original copies", "Wrote only in code"],
+      "correctIndex": 1,
+      "explanation": "Copying by hand led to small variations that became significant over centuries of reproduction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h1_q9",
+      "text": "Ziyauddin Barani was a 14th-century:",
+      "options": ["Ruler", "Chronicler", "Cartographer", "Saint"],
+      "correctIndex": 1,
+      "explanation": "He wrote his first chronicle in 1356 and another version two years later.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h1_q10",
+      "text": "Which of these crops arrived in the subcontinent during this period (700-1750)?",
+      "options": ["Wheat and Barley", "Potatoes, corn, chillies, tea and coffee", "Rice and Cotton", "Pulses and Sugarcane"],
+      "correctIndex": 1,
+      "explanation": "New foods and beverages arrived along with people who brought new ideas and technologies.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h1_q11",
+      "text": "The 'Persian wheel' was used in:",
+      "options": ["Weaving", "Irrigation", "Combat", "Writing"],
+      "correctIndex": 1,
+      "explanation": "The Persian wheel was a significant technological innovation for drawing water from wells.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h1_q12",
+      "text": "The term 'Rajput' is derived from 'Rajaputra', which means:",
+      "options": ["Son of a King", "Brave warrior", "Landowner", "Protector of Cows"],
+      "correctIndex": 0,
+      "explanation": "Between the 8th and 14th centuries, the term was applied to a body of warriors of Kshatriya status.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h1_q13",
+      "text": "Which group became important in the administration of the subcontinent during this period?",
+      "options": ["Kayasthas", "Sikhs", "Marathas", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Groups like Marathas, Sikhs, Jats, Ahoms, and Kayasthas (scribes/secretaries) gained political importance.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h1_q14",
+      "text": "Habitat refers to the:",
+      "options": ["Clothes people wear", "Environment of a region and the social and economic lifestyle of its residents", "Types of crops grown", "The language spoken by people"],
+      "correctIndex": 1,
+      "explanation": "Changes in habitat, like clearing forests for agriculture, forced many forest-dwellers to migrate.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_h1_q15",
+      "text": "Jatis framed their own rules and regulations to manage the:",
+      "options": ["Collection of taxes", "Conduct of their members", "Religious ceremonies", "Military training"],
+      "correctIndex": 1,
+      "explanation": "These regulations were enforced by an assembly of elders, often called the 'jati panchayat'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h1_q16",
+      "text": "Who was the 14th-century poet who observed the different languages spoken in every region?",
+      "options": ["Amir Khusrau", "Barani", "Tulsidas", "Kabir"],
+      "correctIndex": 0,
+      "explanation": "Amir Khusrau noted languages like Sindhi, Lahori, Kashmiri, and Gauri, contrasting them with Sanskrit.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h1_q17",
+      "text": "Sanskrit was a language that did not belong to any region and was known only by:",
+      "options": ["Kings", "Brahmanas", "Traders", "Foreigners"],
+      "correctIndex": 1,
+      "explanation": "Sanskrit was considered an ancient, elite language used primarily by priests.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h1_q18",
+      "text": "According to the Ghiyathuddin Balban's prashasti, he was the ruler of a vast empire stretching from:",
+      "options": ["Delhi to Kabul", "Bengal (Gauda) in the east to Gajjana (Ghazni) in the west", "Kashmir to Kanyakumari", "Gujarat to Odisha"],
+      "correctIndex": 1,
+      "explanation": "Prashastis often contained exaggerated claims of territorial conquest.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h1_q19",
+      "text": "When the Mughal Empire declined in the 18th century, it led to the:",
+      "options": ["Disappearance of all states", "Re-emergence of regional states", "Rule of the British in Delhi", "End of Islam in India"],
+      "correctIndex": 1,
+      "explanation": "The decline allowed previously incorporated regional states to assert their independence again.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h1_q20",
+      "text": "The collective belief in a supernatural agency, often connected with social and economic organization, is:",
+      "options": ["Politics", "Culture", "Religion", "Philosophy"],
+      "correctIndex": 2,
+      "explanation": "In this period, important changes occurred in what we call Hinduism today, including the worship of new deities.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h1_q21",
+      "text": "Brahmanas earned great respect in society due to their knowledge of:",
+      "options": ["Astronomy", "Sanskrit texts", "Warfare", "Cartography"],
+      "correctIndex": 1,
+      "explanation": "Their mastery of Sanskrit made them indispensable for rituals and administration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h1_q22",
+      "text": "The idea of Bhakti was of a loving deity that devotees could reach without the aid of:",
+      "options": ["Meditation", "Priests or elaborate rituals", "Sacred books", "Idols"],
+      "correctIndex": 1,
+      "explanation": "Bhakti emphasized a personal, direct connection between the devotee and God.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h1_q23",
+      "text": "The teachings of the holy Quran were first brought to India in the 7th century by:",
+      "options": ["Invaders", "Merchants and migrants", "Sufi saints", "The Mughals"],
+      "correctIndex": 1,
+      "explanation": "Islam arrived through trade and migration long before the establishment of Sultanates.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h1_q24",
+      "text": "The two main sects of Islam are:",
+      "options": ["Shia and Sunni", "Mahayana and Hinayana", "Svetambara and Digambara", "Saguna and Nirguna"],
+      "correctIndex": 0,
+      "explanation": "Shias believe Ali was the legitimate leader; Sunnis accept the authority of the Khalifas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h1_q25",
+      "text": "British historians divided the history of India into three periods:",
+      "options": ["Ancient, Medieval, Modern", "Hindu, Muslim, British", "Early, Middle, Late", "Vedic, Islamic, Colonial"],
+      "correctIndex": 1,
+      "explanation": "This division was based on the religion of the rulers, ignoring social and economic changes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h1_q26",
+      "text": "Most historians today look at ________ factors to characterize different moments of the past.",
+      "options": ["Political", "Religious", "Economic and social", "Geographical"],
+      "correctIndex": 2,
+      "explanation": "Modern history focuses on the transformation of society, economy, and culture rather than just rulers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h1_q27",
+      "text": "The 'Medieval' period in India is generally considered to be from:",
+      "options": ["1000 BCE to 500 CE", "700 CE to 1750 CE", "1206 CE to 1526 CE", "1526 CE to 1857 CE"],
+      "correctIndex": 1,
+      "explanation": "The thousand years between 700 and 1750 saw massive changes in the subcontinent.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h1_q28",
+      "text": "Which script was used in the 'Nastaliq' style of writing?",
+      "options": ["Cursive and easy to read", "Dense and difficult to read", "Pictographic", "Geometric"],
+      "correctIndex": 0,
+      "explanation": "Nastaliq is a cursive style, whereas Shikaste is denser and more difficult.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_h1_q29",
+      "text": "Why is the study of the thousand years between 700 and 1750 a huge challenge to historians?",
+      "options": ["Lack of sources", "The scale and variety of developments that occurred", "Languages became extinct", "No maps were available"],
+      "correctIndex": 1,
+      "explanation": "The period saw the arrival of new technologies, foods, and complex social organizations.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h1_q30",
+      "text": "What was the significance of the invention of firearms in the subcontinent?",
+      "options": ["Used for hunting", "Changed the nature of combat", "Reduced the importance of cavalry", "Banned by the Brahmanas"],
+      "correctIndex": 1,
+      "explanation": "Firearms and cannons were new technologies introduced during this period.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_h1_q31",
+      "text": "The word 'Jati' refers to:",
+      "options": ["A religious sect", "A sub-caste or group based on backgrounds and occupations", "A military rank", "A type of tax"],
+      "correctIndex": 1,
+      "explanation": "As society became more complex, people were grouped into jatis or sub-castes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h1_q32",
+      "text": "The rank and status of Jatis were:",
+      "options": ["Fixed forever", "Determined by birth only", "Not fixed; varied based on power and resources", "Uniform across all regions"],
+      "correctIndex": 2,
+      "explanation": "The same jati could have different status in different areas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h1_q33",
+      "text": "An 'Umma' refers to:",
+      "options": ["A Muslim king", "A community of believers in Islam", "A religious school", "A tax on non-Muslims"],
+      "correctIndex": 1,
+      "explanation": "Islam and the Quran provide a sense of unity to the community of believers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h1_q34",
+      "text": "Who were the patrons of the Brahmanas?",
+      "options": ["Peasants", "Wealthy influential individuals and rulers", "Foreign traders", "Scribes"],
+      "correctIndex": 1,
+      "explanation": "Patrons provided support and resources to artists, learned men, or nobles.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h1_q35",
+      "text": "The term 'Modernity' implies:",
+      "options": ["Ancient traditions", "Intellectual advancement and material progress", "Strict religious rule", "Rule of kings"],
+      "correctIndex": 1,
+      "explanation": "Modernity suggests progress, which can sometimes make the medieval period seem static (which it wasn't).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_h1_q36",
+      "text": "Which century marked the beginning of the Medieval period in India?",
+      "options": ["5th century", "8th century", "12th century", "16th century"],
+      "correctIndex": 1,
+      "explanation": "The 8th century is generally seen as the transition from ancient to medieval history.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h1_q37",
+      "text": "Information for historians comes from which of the following?",
+      "options": ["Coins and Inscriptions", "Architecture", "Textual records", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Historians use a variety of archaeological and literary sources to reconstruct the past.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h1_q38",
+      "text": "During the late 19th century, the first Indian maps were created by:",
+      "options": ["Al-Idrisi", "French cartographers", "The Survey of India", "Mughal painters"],
+      "correctIndex": 1,
+      "explanation": "French cartographers made maps of India in the 1720s that were much more detailed than earlier versions.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_h1_q39",
+      "text": "Which group of people used to copy manuscripts?",
+      "options": ["Painters", "Scribes", "Cartographers", "Farmers"],
+      "correctIndex": 1,
+      "explanation": "Scribes were professionals who hand-copied documents before the printing press.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h1_q40",
+      "text": "The use of 'Hindustan' by Babur included the subcontinent's:",
+      "options": ["Geography and fauna", "Culture of its inhabitants", "Both A and B", "Political boundaries only"],
+      "correctIndex": 2,
+      "explanation": "Babur used the term to describe the geography, fauna, and culture of the land he conquered.",
+      "frequencyRating": 5
+    }
+  ]
+}

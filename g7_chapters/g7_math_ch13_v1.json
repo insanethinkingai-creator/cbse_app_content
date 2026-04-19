@@ -8,73 +8,323 @@
   "questions": [
     {
       "id": "g7_m13_q1",
-      "text": "A 2D skeleton outline that can be folded to make a 3D shape is called a:",
-      "options": ["Map", "Net", "Sketch", "Grid"],
+      "text": "Plane figures like squares and circles are ______ figures.",
+      "options": ["1-D", "2-D", "3-D", "Solid"],
       "correctIndex": 1,
-      "explanation": "A net is a 2-dimensional shape that can be folded to form a 3-dimensional object."
+      "explanation": "They have only two dimensions: length and breadth.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m13_q2",
-      "text": "How many faces does a cube have?",
-      "options": ["4", "6", "8", "12"],
-      "correctIndex": 1,
-      "explanation": "A cube is a solid figure with 6 equal square faces."
+      "text": "Solid shapes like cubes and spheres are ______ figures.",
+      "options": ["1-D", "2-D", "3-D", "Flat"],
+      "correctIndex": 2,
+      "explanation": "They have three dimensions: length, breadth, and height/depth.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m13_q3",
-      "text": "The points where the edges of a solid meet are called:",
-      "options": ["Faces", "Edges", "Vertices", "Sides"],
+      "text": "The corners of a solid shape are called its:",
+      "options": ["Faces", "Edges", "Vertices", "Points"],
       "correctIndex": 2,
-      "explanation": "Vertices are the corner points of a 3D shape."
+      "explanation": "A vertex is a point where three or more edges meet.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m13_q4",
-      "text": "Which solid has no vertices?",
-      "options": ["Cone", "Cylinder", "Sphere", "Pyramid"],
-      "correctIndex": 2,
-      "explanation": "A sphere is perfectly round and has no flat faces, edges, or vertices."
+      "text": "The line segments forming the skeleton of a solid shape are its:",
+      "options": ["Faces", "Edges", "Vertices", "Lines"],
+      "correctIndex": 1,
+      "explanation": "An edge is where two faces meet.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m13_q5",
-      "text": "How many edges does a triangular pyramid have?",
-      "options": ["3", "4", "5", "6"],
-      "correctIndex": 3,
-      "explanation": "A triangular pyramid (tetrahedron) has 3 edges on the base and 3 rising to the apex."
+      "text": "The flat surfaces of a solid shape are its:",
+      "options": ["Edges", "Vertices", "Faces", "Planes"],
+      "correctIndex": 2,
+      "explanation": "Faces are the 2D shapes that make up the boundary of a solid.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m13_q6",
-      "text": "An isometric sketch shows the ________ of the object.",
-      "options": ["Exact measurements", "Proportional lengths", "Front view only", "Weight"],
+      "text": "How many faces does a cube have?",
+      "options": ["4", "6", "8", "12"],
       "correctIndex": 1,
-      "explanation": "Isometric sketches use dot paper to show 3D objects with proportional dimensions."
+      "explanation": "A cube is like a die; it has 6 square faces.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m13_q7",
-      "text": "A cross-section of a cylinder cut horizontally is a:",
-      "options": ["Square", "Rectangle", "Circle", "Triangle"],
-      "correctIndex": 2,
-      "explanation": "Cutting a cylinder parallel to its base results in a circular cross-section."
+      "text": "How many vertices does a cube have?",
+      "options": ["6", "8", "12", "4"],
+      "correctIndex": 1,
+      "explanation": "A cube has 4 top corners and 4 bottom corners.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m13_q8",
-      "text": "How many vertices does a cuboid have?",
-      "options": ["6", "8", "10", "12"],
-      "correctIndex": 1,
-      "explanation": "A cuboid has 8 vertices (corners)."
+      "text": "How many edges does a cube have?",
+      "options": ["6", "8", "12", "24"],
+      "correctIndex": 2,
+      "explanation": "4 top edges, 4 bottom edges, and 4 vertical edges.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m13_q9",
-      "text": "Which of the following is a 3D object?",
-      "options": ["Square", "Circle", "Triangle", "Cone"],
-      "correctIndex": 3,
-      "explanation": "A cone has depth and occupies space, making it a 3D (three-dimensional) shape."
+      "text": "A skeleton-outline of a 3D shape that can be folded to make the shape is a:",
+      "options": ["Mesh", "Web", "Net", "Map"],
+      "correctIndex": 2,
+      "explanation": "A net is a 2D pattern for a 3D object.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m13_q10",
-      "text": "A cylinder has ________ flat faces.",
-      "options": ["0", "1", "2", "3"],
+      "text": "Euler's Formula for polyhedrons is:",
+      "options": ["F + V - E = 2", "F + E - V = 2", "F - V + E = 2", "F + V + E = 2"],
+      "correctIndex": 0,
+      "explanation": "Where F=Faces, V=Vertices, E=Edges. Applies to all simple polyhedrons.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m13_q11",
+      "text": "A triangular pyramid is also known as a:",
+      "options": ["Prism", "Tetrahedron", "Cone", "Cylinder"],
+      "correctIndex": 1,
+      "explanation": "It has 4 faces, all of which are triangles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m13_q12",
+      "text": "How many faces does a triangular pyramid have?",
+      "options": ["3", "4", "5", "6"],
+      "correctIndex": 1,
+      "explanation": "1 base and 3 lateral faces.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m13_q13",
+      "text": "A square pyramid has how many vertices?",
+      "options": ["4", "5", "8", "1"],
+      "correctIndex": 1,
+      "explanation": "4 on the base and 1 apex.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m13_q14",
+      "text": "A cylinder has ______ curved surface and ______ flat circular faces.",
+      "options": ["1, 1", "2, 1", "1, 2", "2, 2"],
       "correctIndex": 2,
-      "explanation": "A cylinder has 2 circular flat faces and 1 curved surface."
+      "explanation": "Top and bottom are circular; middle is curved.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m13_q15",
+      "text": "Does a sphere have any vertices?",
+      "options": ["Yes (1)", "No", "Yes (Infinite)", "Depends on size"],
+      "correctIndex": 1,
+      "explanation": "A sphere is completely curved with no corners.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m13_q16",
+      "text": "Drawings on paper that create an illusion of 3D are called:",
+      "options": ["Nets", "Maps", "Oblique or Isometric sketches", "Pictographs"],
+      "correctIndex": 2,
+      "explanation": "Used to represent 3D solids on a 2D surface.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m13_q17",
+      "text": "In an isometric sketch, the measurements are ______ to the actual solid.",
+      "options": ["Distorted", "Proportional", "Exactly same", "Not related"],
+      "correctIndex": 1,
+      "explanation": "Isometric dot paper helps maintain proportions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m13_q18",
+      "text": "How many vertices does a cone have?",
+      "options": ["0", "1", "2", "3"],
+      "correctIndex": 1,
+      "explanation": "A cone has one vertex (the apex).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m13_q19",
+      "text": "The cross-section of a cylinder when cut vertically is a:",
+      "options": ["Circle", "Triangle", "Rectangle", "Square"],
+      "correctIndex": 2,
+      "explanation": "Imagine cutting a pipe along its length.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m13_q20",
+      "text": "The cross-section of a cylinder when cut horizontally (parallel to base) is a:",
+      "options": ["Circle", "Triangle", "Rectangle", "Point"],
+      "correctIndex": 0,
+      "explanation": "The cut follows the circular base.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m13_q21",
+      "text": "A cube of side 2 cm has a volume (conceptual context):",
+      "options": ["4 cm³", "8 cm³", "12 cm³", "6 cm³"],
+      "correctIndex": 1,
+      "explanation": "Volume = side^3 = 2 * 2 * 2 = 8.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m13_q22",
+      "text": "If F=5 and V=6, how many edges does the polyhedron have?",
+      "options": ["11", "9", "13", "7"],
+      "correctIndex": 1,
+      "explanation": "5 + 6 - E = 2 => 11 - E = 2 => E = 9.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m13_q23",
+      "text": "Which solid has 5 faces, 8 edges and 5 vertices?",
+      "options": ["Triangular Prism", "Square Pyramid", "Tetrahedron", "Cube"],
+      "correctIndex": 1,
+      "explanation": "Matches the properties of a pyramid with a square base.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m13_q24",
+      "text": "A triangular prism has how many faces?",
+      "options": ["3", "4", "5", "6"],
+      "correctIndex": 2,
+      "explanation": "2 triangular bases and 3 rectangular lateral faces.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m13_q25",
+      "text": "How many vertices does a triangular prism have?",
+      "options": ["3", "5", "6", "9"],
+      "correctIndex": 2,
+      "explanation": "3 corners on each of the two triangular bases.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m13_q26",
+      "text": "Number of edges in a triangular prism is:",
+      "options": ["6", "9", "5", "12"],
+      "correctIndex": 1,
+      "explanation": "3 on each triangle and 3 connecting them.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m13_q27",
+      "text": "Shadow of a sphere under a overhead lamp is a:",
+      "options": ["Circle", "Triangle", "Square", "Point"],
+      "correctIndex": 0,
+      "explanation": "Spheres project circular shadows.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m13_q28",
+      "text": "Shadow of a cube when light is from side might be a:",
+      "options": ["Square", "Rectangle", "Both A and B", "Triangle"],
+      "correctIndex": 2,
+      "explanation": "Depends on the angle of projection.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_m13_q29",
+      "text": "Nets of a cube consists of ______ equal squares.",
+      "options": ["4", "5", "6", "8"],
+      "correctIndex": 2,
+      "explanation": "Cube has 6 faces.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m13_q30",
+      "text": "Can a net of 4 triangles and 1 square form a square pyramid?",
+      "options": ["Yes", "No", "Depends on size", "Only if isosceles"],
+      "correctIndex": 0,
+      "explanation": "Matches the surface count of a square pyramid.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m13_q31",
+      "text": "Top view of a glass (tumbler) is a:",
+      "options": ["Rectangle", "Circle", "Triangle", "Line"],
+      "correctIndex": 1,
+      "explanation": "Drinking glasses have circular openings.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m13_q32",
+      "text": "Side view of a cylinder is a:",
+      "options": ["Circle", "Square", "Rectangle", "Curved line"],
+      "correctIndex": 2,
+      "explanation": "Projects as a rectangle from the side.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m13_q33",
+      "text": "Which of these solids is not a polyhedron?",
+      "options": ["Cube", "Cylinder", "Pyramid", "Prism"],
+      "correctIndex": 1,
+      "explanation": "Polyhedrons must have flat faces made of polygons (no curved surfaces).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m13_q34",
+      "text": "A die is a cube where sum of opposite faces is always:",
+      "options": ["6", "7", "5", "8"],
+      "correctIndex": 1,
+      "explanation": "Standard property of a dice.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m13_q35",
+      "text": "Number of faces in a tetrahedron is:",
+      "options": ["4", "3", "5", "6"],
+      "correctIndex": 0,
+      "explanation": "Tetra- means 4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m13_q36",
+      "text": "Shadow of a book (rectangular solid) under light is a:",
+      "options": ["Triangle", "Rectangle", "Square", "Circle"],
+      "correctIndex": 1,
+      "explanation": "Projection of its flat face.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m13_q37",
+      "text": "Section of a cone cut parallel to base is a:",
+      "options": ["Circle", "Point", "Triangle", "Rectangle"],
+      "correctIndex": 0,
+      "explanation": "Follows the shape of the circular base.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m13_q38",
+      "text": "Polyhedron with least number of faces is:",
+      "options": ["Cube", "Pyramid", "Triangular Pyramid", "Square Pyramid"],
+      "correctIndex": 2,
+      "explanation": "Minimum 4 faces are needed to enclose a solid.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m13_q39",
+      "text": "Oblique sketches focus on representing:",
+      "options": ["Exact size", "Proportion", "The front face clearly", "Internal structure"],
+      "correctIndex": 2,
+      "explanation": "Lengths are often not to scale in oblique sketches.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_m13_q40",
+      "text": "Visualisation helps in understanding how 3D shapes look from ______.",
+      "options": ["Front", "Side", "Top", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Solid geometry involves multiple viewpoints.",
+      "frequencyRating": 5
     }
   ]
 }

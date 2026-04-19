@@ -8,83 +8,323 @@
   "questions": [
     {
       "id": "g7_m1_q1",
-      "text": "What is the value of (-10) + (-5)?",
-      "options": ["-5", "5", "-15", "15"],
+      "text": "Which of the following is the additive identity for integers?",
+      "options": ["1", "-1", "0", "None of these"],
       "correctIndex": 2,
-      "explanation": "When adding two negative integers, we add their absolute values and put a negative sign.",
+      "explanation": "Zero is the additive identity because adding zero to any integer results in the same integer.",
       "frequencyRating": 5
     },
     {
       "id": "g7_m1_q2",
-      "text": "The product of two negative integers is always:",
-      "options": ["Negative", "Positive", "Zero", "Undefined"],
-      "correctIndex": 1,
-      "explanation": "According to the rules of multiplication, the product of two negative integers is a positive integer.",
+      "text": "The value of (-10) + (-5) is:",
+      "options": ["-5", "5", "-15", "15"],
+      "correctIndex": 2,
+      "explanation": "When adding two negative integers, we add their absolute values and put the negative sign.",
       "frequencyRating": 5
     },
     {
       "id": "g7_m1_q3",
-      "text": "What is the additive identity for integers?",
-      "options": ["1", "-1", "0", "None of these"],
-      "correctIndex": 2,
-      "explanation": "Zero is called the additive identity because adding zero to any integer results in the same integer.",
-      "frequencyRating": 5
+      "text": "Which property is shown by: a + b = b + a?",
+      "options": ["Closure", "Commutative", "Associative", "Distributive"],
+      "correctIndex": 1,
+      "explanation": "The commutative property states that the order of addition does not change the result.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_m1_q4",
-      "text": "Which property is shown by: a × (b + c) = a × b + a × c?",
-      "options": ["Commutative", "Associative", "Distributive", "Closure"],
-      "correctIndex": 2,
-      "explanation": "This is the distributive property of multiplication over addition.",
+      "text": "The multiplicative identity for integers is:",
+      "options": ["0", "1", "-1", "10"],
+      "correctIndex": 1,
+      "explanation": "Multiplying any integer by 1 results in the same integer.",
       "frequencyRating": 5
     },
     {
       "id": "g7_m1_q5",
-      "text": "Value of (-1) × (-1) × (-1) is:",
-      "options": ["1", "-1", "0", "3"],
+      "text": "What is the result of (-1) × (-1) × (-1)?",
+      "options": ["1", "-1", "3", "-3"],
       "correctIndex": 1,
-      "explanation": "If a negative integer is multiplied an odd number of times, the product is negative.",
+      "explanation": "The product of an odd number of negative integers is always negative.",
       "frequencyRating": 4
     },
     {
       "id": "g7_m1_q6",
-      "text": "What is (-20) ÷ 4?",
-      "options": ["5", "-5", "4", "-4"],
+      "text": "(-20) ÷ 5 equals:",
+      "options": ["4", "-4", "100", "-100"],
       "correctIndex": 1,
-      "explanation": "When a negative integer is divided by a positive integer, the quotient is negative.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g7_m1_q7",
-      "text": "What is 10 - (-5)?",
-      "options": ["5", "15", "-5", "-15"],
-      "correctIndex": 1,
-      "explanation": "Subtracting a negative number is the same as adding its positive counterpart: 10 + 5 = 15.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g7_m1_q8",
-      "text": "The greatest negative integer is:",
-      "options": ["-100", "0", "-1", "Does not exist"],
-      "correctIndex": 2,
-      "explanation": "-1 is the largest negative integer because it is closest to zero on the number line.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g7_m1_q9",
-      "text": "What is the multiplicative identity for integers?",
-      "options": ["0", "1", "-1", "Any integer"],
-      "correctIndex": 1,
-      "explanation": "1 is the multiplicative identity because any integer multiplied by 1 remains unchanged.",
+      "explanation": "Dividing a negative integer by a positive integer results in a negative quotient.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_m1_q10",
-      "text": "If the sum of two integers is -10 and one of them is 2, the other is:",
-      "options": ["-8", "8", "-12", "12"],
+      "id": "g7_m1_q7",
+      "text": "The sum of an integer and its additive inverse is always:",
+      "options": ["1", "-1", "0", "The integer itself"],
       "correctIndex": 2,
-      "explanation": "Let the other be x. x + 2 = -10 => x = -10 - 2 = -12.",
+      "explanation": "The additive inverse of 'a' is '-a', and a + (-a) = 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m1_q8",
+      "text": "Which of the following represents the distributive property?",
+      "options": ["a(b+c) = ab + ac", "a+b = b+a", "(a+b)+c = a+(b+c)", "a×1 = a"],
+      "correctIndex": 0,
+      "explanation": "Multiplication is distributive over addition for integers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m1_q9",
+      "text": "On a number line, -5 is to the ______ of -3.",
+      "options": ["Right", "Left", "Above", "Below"],
+      "correctIndex": 1,
+      "explanation": "Smaller numbers are always to the left on a horizontal number line.",
       "frequencyRating": 4
+    },
+    {
+      "id": "g7_m1_q10",
+      "text": "The product of a positive integer and a negative integer is always:",
+      "options": ["Positive", "Negative", "Zero", "Depends on the values"],
+      "correctIndex": 1,
+      "explanation": "(+) × (-) = (-).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m1_q11",
+      "text": "What is the absolute value of -15?",
+      "options": ["-15", "15", "0", "1"],
+      "correctIndex": 1,
+      "explanation": "Absolute value is the distance from zero, which is always non-negative.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m1_q12",
+      "text": "Evaluation of 0 ÷ (-8) is:",
+      "options": ["-8", "8", "0", "Undefined"],
+      "correctIndex": 2,
+      "explanation": "Zero divided by any non-zero integer is zero.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m1_q13",
+      "text": "Evaluation of (-10) ÷ 0 is:",
+      "options": ["-10", "10", "0", "Undefined"],
+      "correctIndex": 3,
+      "explanation": "Division by zero is not defined in mathematics.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m1_q14",
+      "text": "The predecessor of -9 is:",
+      "options": ["-8", "-10", "8", "10"],
+      "correctIndex": 1,
+      "explanation": "Predecessor is found by subtracting 1: -9 - 1 = -10.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m1_q15",
+      "text": "The successor of -1 is:",
+      "options": ["-2", "0", "1", "-1"],
+      "correctIndex": 1,
+      "explanation": "Successor is found by adding 1: -1 + 1 = 0.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m1_q16",
+      "text": "(-5) × 0 × (-10) equals:",
+      "options": ["50", "-50", "0", "None of these"],
+      "correctIndex": 2,
+      "explanation": "Any number multiplied by zero is zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m1_q17",
+      "text": "Subtracting -5 from -10 gives:",
+      "options": ["-15", "-5", "5", "15"],
+      "correctIndex": 1,
+      "explanation": "-10 - (-5) = -10 + 5 = -5.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m1_q18",
+      "text": "Which of the following is larger: -2 or -10?",
+      "options": ["-2", "-10", "They are equal", "Cannot say"],
+      "correctIndex": 0,
+      "explanation": "On a number line, -2 is to the right of -10.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m1_q19",
+      "text": "The product of two negative integers is:",
+      "options": ["Negative", "Positive", "Zero", "Always 1"],
+      "correctIndex": 1,
+      "explanation": "(-) × (-) = (+).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m1_q20",
+      "text": "(-1) raised to the power of any even natural number is:",
+      "options": ["-1", "1", "0", "None of these"],
+      "correctIndex": 1,
+      "explanation": "-1 multiplied by itself an even number of times results in 1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m1_q21",
+      "text": "(-1) raised to the power of any odd natural number is:",
+      "options": ["-1", "1", "0", "None of these"],
+      "correctIndex": 0,
+      "explanation": "-1 multiplied by itself an odd number of times results in -1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m1_q22",
+      "text": "The closure property for subtraction holds for:",
+      "options": ["Only positive integers", "Only negative integers", "All integers", "No integers"],
+      "correctIndex": 2,
+      "explanation": "The difference between any two integers is always an integer.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m1_q23",
+      "text": "In a quiz, positive marks are given for correct answers and negative for incorrect. If Jack's scores in 5 rounds were 25, -5, -10, 15, 10, his total is:",
+      "options": ["30", "35", "40", "50"],
+      "correctIndex": 1,
+      "explanation": "25 - 5 - 10 + 15 + 10 = 35.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m1_q24",
+      "text": "A plane is flying at 5000m above sea level. A submarine is at 1200m below sea level. The vertical distance between them is:",
+      "options": ["3800m", "6200m", "5000m", "1200m"],
+      "correctIndex": 1,
+      "explanation": "5000 - (-1200) = 5000 + 1200 = 6200m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m1_q25",
+      "text": "The associative property for addition is represented by:",
+      "options": ["a+b = b+a", "a+(b+c) = (a+b)+c", "a(b+c) = ab+ac", "a+0 = a"],
+      "correctIndex": 1,
+      "explanation": "Associative property relates to the grouping of numbers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m1_q26",
+      "text": "Does (a - b) = (b - a) for integers?",
+      "options": ["Yes", "No", "Only if a=b", "Only if a=0"],
+      "correctIndex": 1,
+      "explanation": "Subtraction is not commutative for integers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m1_q27",
+      "text": "Find the product: (-12) × (-11) × (10)",
+      "options": ["1320", "-1320", "1200", "0"],
+      "correctIndex": 0,
+      "explanation": "(-12 × -11) = 132. 132 × 10 = 1320.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m1_q28",
+      "text": "Which of the following is true?",
+      "options": ["a ÷ 1 = a", "a ÷ (-1) = -a", "1 ÷ a = 1", "Both A and B"],
+      "correctIndex": 3,
+      "explanation": "Any integer divided by 1 is itself; divided by -1, it becomes its opposite.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m1_q29",
+      "text": "Is division associative for integers?",
+      "options": ["Yes", "No", "Sometimes", "Always"],
+      "correctIndex": 1,
+      "explanation": "For example, (-16 ÷ 4) ÷ 2 = -2, but -16 ÷ (4 ÷ 2) = -8.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m1_q30",
+      "text": "The value of [(-36) ÷ 12] ÷ 3 is:",
+      "options": ["1", "-1", "9", "-9"],
+      "correctIndex": 1,
+      "explanation": "(-3) ÷ 3 = -1.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m1_q31",
+      "text": "If the temperature dropped from 10°C to -2°C, what is the change?",
+      "options": ["8°C", "-8°C", "12°C", "-12°C"],
+      "correctIndex": 3,
+      "explanation": "Change = Final - Initial = -2 - 10 = -12°C.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m1_q32",
+      "text": "A diver descends at 5m per minute. How far will he be after 20 minutes?",
+      "options": ["100m", "-100m", "25m", "-25m"],
+      "correctIndex": 1,
+      "explanation": "20 × (-5) = -100m (the negative sign indicates depth).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m1_q33",
+      "text": "The product of 5 negative integers and 2 positive integers is:",
+      "options": ["Positive", "Negative", "Zero", "1"],
+      "correctIndex": 1,
+      "explanation": "An odd number of negative signs results in a negative product.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m1_q34",
+      "text": "Which of the following is the smallest integer?",
+      "options": ["0", "-1", "1", "-100"],
+      "correctIndex": 3,
+      "explanation": "On a number line, -100 is furthest to the left among the options.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m1_q35",
+      "text": "The value of 26 × (-48) + (-48) × (-36) using distributive property is:",
+      "options": ["480", "520", "-480", "0"],
+      "correctIndex": 0,
+      "explanation": "-48 × (26 - 36) = -48 × (-10) = 480.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m1_q36",
+      "text": "Every positive integer is greater than:",
+      "options": ["Zero", "Every negative integer", "Both A and B", "None of these"],
+      "correctIndex": 2,
+      "explanation": "Positive numbers are to the right of zero and all negative numbers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m1_q37",
+      "text": "If a is an integer, then a × (-1) is equal to:",
+      "options": ["a", "-a", "1", "0"],
+      "correctIndex": 1,
+      "explanation": "Multiplying by -1 changes the sign of the integer.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m1_q38",
+      "text": "The collection of integers is denoted by:",
+      "options": ["N", "W", "Z", "Q"],
+      "correctIndex": 2,
+      "explanation": "Z stands for 'Zahlen', the German word for numbers.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_m1_q39",
+      "text": "If we move 5 units to the left of 2 on a number line, we reach:",
+      "options": ["7", "-7", "3", "-3"],
+      "correctIndex": 3,
+      "explanation": "2 - 5 = -3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m1_q40",
+      "text": "The set of integers includes:",
+      "options": ["Positive numbers", "Negative numbers", "Zero", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Integers consist of natural numbers, their negatives, and zero.",
+      "frequencyRating": 5
     }
   ]
 }

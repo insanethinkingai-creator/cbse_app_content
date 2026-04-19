@@ -8,73 +8,323 @@
   "questions": [
     {
       "id": "g7_m9_q1",
-      "text": "The area of a parallelogram is given by:",
-      "options": ["Base × Height", "1/2 × Base × Height", "2 × (Base + Height)", "Base + Height"],
-      "correctIndex": 0,
-      "explanation": "The area of a parallelogram is the product of its base and the corresponding altitude (height)."
+      "text": "The perimeter of a square with side 's' is given by:",
+      "options": ["s^2", "2s", "4s", "s/4"],
+      "correctIndex": 2,
+      "explanation": "Perimeter of a square is the sum of all four equal sides.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m9_q2",
-      "text": "What is the area of a triangle with base 6 cm and height 4 cm?",
-      "options": ["24 cm²", "12 cm²", "10 cm²", "48 cm²"],
-      "correctIndex": 1,
-      "explanation": "Area of triangle = 1/2 × base × height = 1/2 × 6 × 4 = 12 cm²."
+      "text": "The area of a rectangle with length 'l' and breadth 'b' is:",
+      "options": ["2(l + b)", "l + b", "l × b", "l / b"],
+      "correctIndex": 2,
+      "explanation": "Area of a rectangle is the product of its length and breadth.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m9_q3",
-      "text": "The ratio of the circumference of a circle to its diameter is:",
-      "options": ["Radius", "π (pi)", "2π", "Area"],
+      "text": "Area of a triangle is calculated using the formula:",
+      "options": ["Base × Height", "1/2 × Base × Height", "2 × (Base + Height)", "Base + Height"],
       "correctIndex": 1,
-      "explanation": "Circumference C = πd, therefore C/d = π, which is approximately 22/7 or 3.14."
+      "explanation": "The area of a triangle is half the area of the parallelogram formed by it.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m9_q4",
-      "text": "If the radius of a circle is 7 cm, its circumference is:",
-      "options": ["22 cm", "44 cm", "154 cm", "14 cm"],
-      "correctIndex": 1,
-      "explanation": "Circumference = 2πr = 2 × (22/7) × 7 = 44 cm."
+      "text": "Area of a parallelogram with base 'b' and height 'h' is:",
+      "options": ["b × h", "1/2 × b × h", "2(b + h)", "b^2"],
+      "correctIndex": 0,
+      "explanation": "A parallelogram can be rearranged into a rectangle of the same base and height.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m9_q5",
-      "text": "The area of a circle with radius 'r' is:",
-      "options": ["2πr", "πr", "πr²", "2πr²"],
+      "text": "The value of π (Pi) is approximately:",
+      "options": ["3.14", "22/7", "Both A and B", "1.414"],
       "correctIndex": 2,
-      "explanation": "The area of a circle is calculated by multiplying pi by the square of the radius."
+      "explanation": "Pi is the ratio of circumference to diameter, commonly approximated as 3.14 or 22/7.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m9_q6",
-      "text": "1 cm² is equal to how many mm²?",
-      "options": ["10 mm²", "100 mm²", "1000 mm²", "0.1 mm²"],
+      "text": "The circumference of a circle with radius 'r' is:",
+      "options": ["πr", "2πr", "πr^2", "2πr^2"],
       "correctIndex": 1,
-      "explanation": "Since 1 cm = 10 mm, 1 cm² = 10 mm × 10 mm = 100 mm²."
+      "explanation": "Circumference is the distance around the circle.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m9_q7",
-      "text": "The distance around a circular region is known as its:",
-      "options": ["Area", "Diameter", "Radius", "Circumference"],
-      "correctIndex": 3,
-      "explanation": "Circumference is the perimeter of a circle."
+      "text": "The area of a circle with radius 'r' is:",
+      "options": ["2πr", "πr^2", "πd", "2πr^2"],
+      "correctIndex": 1,
+      "explanation": "The region enclosed by a circle is π times the square of its radius.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m9_q8",
-      "text": "If the area of a square is 100 cm², its perimeter is:",
-      "options": ["10 cm", "20 cm", "40 cm", "400 cm"],
+      "text": "If the side of a square is doubled, its area becomes:",
+      "options": ["Double", "Half", "Four times", "Eight times"],
       "correctIndex": 2,
-      "explanation": "Side = √100 = 10 cm. Perimeter = 4 × side = 40 cm."
+      "explanation": "(2s)^2 = 4s^2, which is four times the original area.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_m9_q9",
-      "text": "A wire is in the shape of a square of side 10 cm. If it is rebent into a rectangle of length 12 cm, its breadth is:",
-      "options": ["8 cm", "10 cm", "7 cm", "9 cm"],
-      "correctIndex": 0,
-      "explanation": "Perimeter is same: 40 = 2(12 + b) => 20 = 12 + b => b = 8 cm."
+      "text": "If the radius of a circle is 7 cm, its circumference is:",
+      "options": ["22 cm", "44 cm", "154 cm", "14 cm"],
+      "correctIndex": 1,
+      "explanation": "C = 2 * (22/7) * 7 = 44 cm.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m9_q10",
-      "text": "The area of a circle is 154 cm². Its radius is:",
-      "options": ["14 cm", "7 cm", "21 cm", "3.5 cm"],
+      "text": "Find the area of a square whose perimeter is 20 cm.",
+      "options": ["25 sq cm", "16 sq cm", "20 sq cm", "100 sq cm"],
+      "correctIndex": 0,
+      "explanation": "Side = 20/4 = 5 cm. Area = 5 * 5 = 25 sq cm.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m9_q11",
+      "text": "A wire is in the shape of a square of side 10 cm. If it is rebent into a rectangle of length 12 cm, find its breadth.",
+      "options": ["10 cm", "8 cm", "6 cm", "12 cm"],
       "correctIndex": 1,
-      "explanation": "πr² = 154 => (22/7)r² = 154 => r² = 49 => r = 7 cm."
+      "explanation": "Perimeter = 40 cm. 2(12 + b) = 40 => 12 + b = 20 => b = 8 cm.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m9_q12",
+      "text": "1 cm² is equal to:",
+      "options": ["10 mm²", "100 mm²", "1000 mm²", "0.1 mm²"],
+      "correctIndex": 1,
+      "explanation": "1 cm = 10 mm, so 1 cm² = 10mm * 10mm = 100 mm².",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m9_q13",
+      "text": "1 hectare is equal to:",
+      "options": ["100 m²", "1000 m²", "10000 m²", "100000 m²"],
+      "correctIndex": 2,
+      "explanation": "Hectare is a metric unit of area equal to a square with 100m sides.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m9_q14",
+      "text": "Area of a parallelogram with base 5 cm and height 3 cm is:",
+      "options": ["8 cm²", "15 cm²", "7.5 cm²", "16 cm²"],
+      "correctIndex": 1,
+      "explanation": "Area = Base * Height = 5 * 3 = 15 cm².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m9_q15",
+      "text": "If area of a triangle is 36 cm² and its base is 9 cm, its height is:",
+      "options": ["4 cm", "8 cm", "12 cm", "18 cm"],
+      "correctIndex": 1,
+      "explanation": "Area = 1/2 * b * h => 36 = 1/2 * 9 * h => 72 = 9h => h = 8 cm.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m9_q16",
+      "text": "The ratio of the circumference to the diameter of any circle is:",
+      "options": ["Radius", "Area", "π (Pi)", "2π"],
+      "correctIndex": 2,
+      "explanation": "By definition, π = C / d.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m9_q17",
+      "text": "Diameter of a circle is ______ the radius.",
+      "options": ["Half", "Equal to", "Twice", "Square of"],
+      "correctIndex": 2,
+      "explanation": "d = 2r.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m9_q18",
+      "text": "Find the area of a circle if diameter is 14 cm.",
+      "options": ["154 cm²", "44 cm²", "616 cm²", "77 cm²"],
+      "correctIndex": 0,
+      "explanation": "r = 7 cm. Area = (22/7) * 7 * 7 = 154 cm².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m9_q19",
+      "text": "Distance travelled by a circular wheel of radius 'r' in one rotation is:",
+      "options": ["πr²", "2πr", "2r", "πr"],
+      "correctIndex": 1,
+      "explanation": "The distance is equal to its circumference.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m9_q20",
+      "text": "Find the perimeter of a semi-circle including its diameter (radius r).",
+      "options": ["πr", "πr + 2r", "2πr + 2r", "πr² / 2"],
+      "correctIndex": 1,
+      "explanation": "Curve (πr) + Diameter (2r).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m9_q21",
+      "text": "How many times will a wheel of radius 35 cm rotate to cover 220 m?",
+      "options": ["10", "100", "50", "200"],
+      "correctIndex": 1,
+      "explanation": "Circumference = 2 * (22/7) * 35 = 220 cm. Rotations = 22000 / 220 = 100.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m9_q22",
+      "text": "Area of a square is 144 cm². Its perimeter is:",
+      "options": ["12 cm", "24 cm", "48 cm", "36 cm"],
+      "correctIndex": 2,
+      "explanation": "Side = √144 = 12 cm. Perimeter = 4 * 12 = 48 cm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m9_q23",
+      "text": "Base of a parallelogram is 8 cm and area is 24 cm². The corresponding height is:",
+      "options": ["3 cm", "4 cm", "6 cm", "12 cm"],
+      "correctIndex": 0,
+      "explanation": "Height = Area / Base = 24 / 8 = 3 cm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m9_q24",
+      "text": "Two triangles are congruent if they have the same:",
+      "options": ["Area", "Perimeter", "Shape and Size", "Base"],
+      "correctIndex": 2,
+      "explanation": "Congruent figures are identical in all aspects.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m9_q25",
+      "text": "All congruent triangles have equal ______.",
+      "options": ["Altitudes", "Areas", "Both A and B", "None"],
+      "correctIndex": 1,
+      "explanation": "If triangles are congruent, their areas must be equal.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m9_q26",
+      "text": "Find the area of a right-angled triangle with base 6 cm and hypotenuse 10 cm.",
+      "options": ["60 cm²", "30 cm²", "24 cm²", "48 cm²"],
+      "correctIndex": 2,
+      "explanation": "Height = √(10² - 6²) = 8 cm. Area = 1/2 * 6 * 8 = 24 cm².",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m9_q27",
+      "text": "A circle of radius 2 cm is cut out from a square piece of aluminium sheet of side 6 cm. Find left over area. (π=3.14)",
+      "options": ["23.44 cm²", "12.56 cm²", "36 cm²", "20 cm²"],
+      "correctIndex": 0,
+      "explanation": "Area square = 36. Area circle = 3.14 * 4 = 12.56. Left = 36 - 12.56 = 23.44.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m9_q28",
+      "text": "Perimeter of a rectangle is 100 cm. If length is 35 cm, find breadth.",
+      "options": ["15 cm", "65 cm", "30 cm", "20 cm"],
+      "correctIndex": 0,
+      "explanation": "2(35 + b) = 100 => 35 + b = 50 => b = 15 cm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m9_q29",
+      "text": "The length of a ribbon required to cover the boundary of a circular plate is its:",
+      "options": ["Area", "Radius", "Circumference", "Diameter"],
+      "correctIndex": 2,
+      "explanation": "Boundary length is the circumference.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m9_q30",
+      "text": "If the perimeter and area of a square are numerically equal, the side of the square is:",
+      "options": ["1 unit", "2 units", "4 units", "8 units"],
+      "correctIndex": 2,
+      "explanation": "4s = s² => s = 4 (for s > 0).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m9_q31",
+      "text": "Units of area are always in:",
+      "options": ["Linear units", "Square units", "Cubic units", "No units"],
+      "correctIndex": 1,
+      "explanation": "Area represents a 2D space, measured in square units like cm².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m9_q32",
+      "text": "A path 1m wide is built along the border inside a square garden of side 30m. Find area of path.",
+      "options": ["116 m²", "120 m²", "900 m²", "60 m²"],
+      "correctIndex": 0,
+      "explanation": "Outer area = 900. Inner side = 28. Inner area = 784. Path = 900 - 784 = 116 m².",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m9_q33",
+      "text": "Area of a circle with diameter 'd' is:",
+      "options": ["πd²/4", "πd²", "2πd", "πd/2"],
+      "correctIndex": 0,
+      "explanation": "Substitute r = d/2 into πr².",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m9_q34",
+      "text": "If a rectangle and a square have the same perimeter, which one usually has more area?",
+      "options": ["Rectangle", "Square", "Both equal", "Depends on dimensions"],
+      "correctIndex": 1,
+      "explanation": "For a fixed perimeter, the square encloses the maximum area among rectangles.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_m9_q35",
+      "text": "Find the area of a parallelogram if its base is 10 cm and height is 7 cm.",
+      "options": ["35 cm²", "70 cm²", "17 cm²", "140 cm²"],
+      "correctIndex": 1,
+      "explanation": "10 * 7 = 70 cm².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m9_q36",
+      "text": "The height of a triangle whose area is 20 cm² and base 5 cm is:",
+      "options": ["4 cm", "8 cm", "10 cm", "2 cm"],
+      "correctIndex": 1,
+      "explanation": "20 = 1/2 * 5 * h => 40 = 5h => h = 8.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m9_q37",
+      "text": "Radius of a circle is 3.5 cm. Find its area.",
+      "options": ["38.5 cm²", "11 cm²", "22 cm²", "77 cm²"],
+      "correctIndex": 0,
+      "explanation": "Area = (22/7) * 3.5 * 3.5 = 22 * 0.5 * 3.5 = 11 * 3.5 = 38.5 cm².",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m9_q38",
+      "text": "Perimeter of a regular pentagon of side 6 cm is:",
+      "options": ["24 cm", "30 cm", "36 cm", "12 cm"],
+      "correctIndex": 1,
+      "explanation": "5 * 6 = 30 cm.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m9_q39",
+      "text": "If the circumference of a circle is 88 cm, its radius is:",
+      "options": ["7 cm", "14 cm", "21 cm", "28 cm"],
+      "correctIndex": 1,
+      "explanation": "2 * (22/7) * r = 88 => 44/7 * r = 88 => r = 14 cm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m9_q40",
+      "text": "The distance around a closed figure is its:",
+      "options": ["Area", "Volume", "Perimeter", "Region"],
+      "correctIndex": 2,
+      "explanation": "General definition of perimeter.",
+      "frequencyRating": 5
     }
   ]
 }

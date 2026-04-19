@@ -7,84 +7,324 @@
   "version": "v1",
   "questions": [
     {
-      "id": "g7_geo_ch2_q1",
-      "text": "The uppermost layer of the Earth's surface is called the:",
+      "id": "g7_g2_q1",
+      "text": "The uppermost layer over the earth's surface is called the:",
       "options": ["Mantle", "Core", "Crust", "Magma"],
       "correctIndex": 2,
-      "explanation": "The crust is the thinnest of all the layers and is about 35 km on the continental masses.",
+      "explanation": "The crust is the thinnest of all the layers, about 35 km on continental masses.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_geo_ch2_q2",
+      "id": "g7_g2_q2",
+      "text": "The depth of the crust on the ocean floors is only about:",
+      "options": ["5 km", "35 km", "100 km", "2900 km"],
+      "correctIndex": 0,
+      "explanation": "Oceanic crust is much thinner than continental crust.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g2_q3",
       "text": "The main mineral constituents of the continental mass are:",
-      "options": ["Silica and Magnesium", "Silica and Alumina", "Iron and Nickel", "Magnesium and Alumina"],
+      "options": ["Silica and Magnesium", "Silica and Alumina", "Iron and Nickel", "Gold and Silver"],
       "correctIndex": 1,
-      "explanation": "The continental crust is called 'sial' (si-silica and al-alumina).",
+      "explanation": "It is called sial (si-silica and al-alumina).",
       "frequencyRating": 5
     },
     {
-      "id": "g7_geo_ch2_q3",
-      "text": "The thinnest layer of the Earth is the:",
-      "options": ["Crust", "Mantle", "Inner Core", "Outer Core"],
-      "correctIndex": 0,
-      "explanation": "The crust forms only 1 per cent of the volume of the earth, while 84 per cent consists of the mantle and 15 per cent makes the core.",
-      "frequencyRating": 4
+      "id": "g7_g2_q4",
+      "text": "The oceanic crust mainly consists of:",
+      "options": ["Sial", "Sima", "Nife", "Rocks"],
+      "correctIndex": 1,
+      "explanation": "Sima stands for silica (si) and magnesium (ma).",
+      "frequencyRating": 5
     },
     {
-      "id": "g7_geo_ch2_q4",
-      "text": "Rocks that are formed when molten magma cools and solidifies are called:",
-      "options": ["Sedimentary rocks", "Metamorphic rocks", "Igneous rocks", "Fossil rocks"],
+      "id": "g7_g2_q5",
+      "text": "Just beneath the crust is the ________ which extends up to a depth of 2900 km.",
+      "options": ["Inner Core", "Outer Core", "Mantle", "Lithosphere"],
       "correctIndex": 2,
-      "explanation": "Igneous rocks are also called primary rocks. They are formed from cooling lava or magma.",
+      "explanation": "The mantle lies between the crust and the core.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_geo_ch2_q5",
-      "text": "Small fragments of rocks that are compressed and hardened to form layers are:",
-      "options": ["Extrusive rocks", "Sedimentary rocks", "Intrusive rocks", "Primary rocks"],
+      "id": "g7_g2_q6",
+      "text": "The innermost layer of the earth is the core with a radius of about:",
+      "options": ["1000 km", "3500 km", "5000 km", "6371 km"],
       "correctIndex": 1,
-      "explanation": "Sediments are transported and deposited by wind and water to form sedimentary rocks like sandstone.",
+      "explanation": "The core is mainly made up of nickel and iron.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_geo_ch2_q6",
-      "text": "The innermost layer of the Earth is the core, which is mainly made of:",
-      "options": ["Silica and Iron", "Nickel and Iron", "Silica and Alumina", "Nickel and Magnesium"],
+      "id": "g7_g2_q7",
+      "text": "The core is called 'nife' because it is made of:",
+      "options": ["Nitrogen and Iron", "Nickel and Ferrous (Iron)", "Nickel and Fluorine", "Nitrogen and Feldspar"],
       "correctIndex": 1,
-      "explanation": "The core is called 'nife' (ni – nickel and fe – ferrous, i.e. iron).",
+      "explanation": "Ni stands for nickel and fe for ferrous (iron).",
       "frequencyRating": 5
     },
     {
-      "id": "g7_geo_ch2_q7",
-      "text": "The process where one type of rock changes into another under certain conditions is the:",
-      "options": ["Rock Cycle", "Water Cycle", "Erosion", "Weathering"],
-      "correctIndex": 0,
-      "explanation": "The rock cycle is a continuous process where igneous, sedimentary, and metamorphic rocks transform into one another.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g7_geo_ch2_q8",
-      "text": "Which of the following is an example of a metamorphic rock?",
-      "options": ["Granite", "Basalt", "Marble", "Sandstone"],
+      "id": "g7_g2_q8",
+      "text": "The central core has very high:",
+      "options": ["Pressure only", "Temperature only", "Temperature and pressure", "Oxygen levels"],
       "correctIndex": 2,
-      "explanation": "Limestone changes into marble under great heat and pressure.",
-      "frequencyRating": 4
+      "explanation": "The extreme conditions at the center of the earth make it impossible to reach.",
+      "frequencyRating": 5
     },
     {
-      "id": "g7_geo_ch2_q9",
-      "text": "The remains of dead plants and animals trapped in layers of rocks are called:",
-      "options": ["Sediments", "Fossils", "Ores", "Minerals"],
+      "id": "g7_g2_q9",
+      "text": "Any natural mass of mineral matter that makes up the earth's crust is called a:",
+      "options": ["Fossil", "Rock", "Sediment", "Metal"],
       "correctIndex": 1,
-      "explanation": "Fossils are generally found in sedimentary rocks.",
+      "explanation": "Rocks can be of different colour, size, and texture.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g2_q10",
+      "text": "When molten magma cools, it becomes solid. Rocks thus formed are called:",
+      "options": ["Sedimentary rocks", "Igneous rocks", "Metamorphic rocks", "Fossils"],
+      "correctIndex": 1,
+      "explanation": "Igneous rocks are also called primary rocks.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g2_q11",
+      "text": "The two types of igneous rocks are:",
+      "options": ["Hard and Soft", "Intrusive and Extrusive", "Deep and Shallow", "Old and New"],
+      "correctIndex": 1,
+      "explanation": "They are classified based on where the magma cools (inside or on the surface).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g2_q12",
+      "text": "Rocks formed when magma cools on the earth's surface are:",
+      "options": ["Intrusive igneous", "Extrusive igneous", "Sedimentary", "Metamorphic"],
+      "correctIndex": 1,
+      "explanation": "Basalt is a classic example of an extrusive igneous rock.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g2_q13",
+      "text": "The Deccan plateau is made up of ________ rocks.",
+      "options": ["Granite", "Basalt", "Sandstone", "Marble"],
+      "correctIndex": 1,
+      "explanation": "Basaltic lava flows created the vast Deccan Traps in India.",
       "frequencyRating": 4
     },
     {
-      "id": "g7_geo_ch2_q10",
+      "id": "g7_g2_q14",
+      "text": "Sometimes the molten magma cools down deep inside the earth's crust. These are:",
+      "options": ["Extrusive igneous", "Intrusive igneous", "Metamorphic", "Sedimentary"],
+      "correctIndex": 1,
+      "explanation": "Since they cool down slowly they form large grains, like granite.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g2_q15",
+      "text": "Which of the following is an example of intrusive igneous rock?",
+      "options": ["Basalt", "Granite", "Sandstone", "Shale"],
+      "correctIndex": 1,
+      "explanation": "Granite is used for making grinding stones to prepare paste/powder of spices and grains.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g2_q16",
+      "text": "Rocks roll down, crack, and hit each other and are broken into small fragments called:",
+      "options": ["Crystals", "Sediments", "Magma", "Lava"],
+      "correctIndex": 1,
+      "explanation": "These fragments are transported and deposited by wind and water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g2_q17",
+      "text": "Rocks formed by the compression and hardening of layers of sediments are:",
+      "options": ["Igneous", "Sedimentary", "Metamorphic", "Primary"],
+      "correctIndex": 1,
+      "explanation": "Sandstone is made from grains of sand and is a sedimentary rock.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g2_q18",
+      "text": "Fossils are the remains of dead plants and animals found in:",
+      "options": ["Igneous rocks", "Metamorphic rocks", "Sedimentary rocks", "Magma"],
+      "correctIndex": 2,
+      "explanation": "Sedimentary rocks trap organic remains between their layers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g2_q19",
       "text": "Igneous and sedimentary rocks can change into metamorphic rocks under great:",
-      "options": ["Cold and wind", "Heat and pressure", "Water and ice", "Gravity and time"],
+      "options": ["Pressure only", "Heat only", "Heat and pressure", "Wind and water"],
+      "correctIndex": 2,
+      "explanation": "Example: Clay changes into slate and limestone into marble.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g2_q20",
+      "text": "The Red Fort is made of:",
+      "options": ["White marble", "Red sandstone", "Granite", "Basalt"],
       "correctIndex": 1,
-      "explanation": "Great heat and pressure are the primary drivers for the formation of metamorphic rocks.",
+      "explanation": "Red sandstone is a sedimentary rock used extensively in Indian architecture.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g2_q21",
+      "text": "The Taj Mahal is made of:",
+      "options": ["Red sandstone", "White marble", "Granite", "Slate"],
+      "correctIndex": 1,
+      "explanation": "White marble is a metamorphic rock formed from limestone.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g2_q22",
+      "text": "The process of transformation of the rock from one to another is known as the:",
+      "options": ["Rock cycle", "Rock change", "Mineral cycle", "Earth cycle"],
+      "correctIndex": 0,
+      "explanation": "It is a continuous process where one type of rock changes to another under certain conditions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g2_q23",
+      "text": "Magma originates from the ________ of the earth.",
+      "options": ["Crust", "Interior (Mantle/Core)", "Surface", "Atmosphere"],
+      "correctIndex": 1,
+      "explanation": "Extreme heat in the interior melts rocks to form magma.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g2_q24",
+      "text": "Gold, petroleum and coal are examples of:",
+      "options": ["Rocks", "Minerals", "Fossils", "Sediments"],
+      "correctIndex": 1,
+      "explanation": "Minerals are naturally occurring substances with certain physical properties and chemical composition.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g2_q25",
+      "text": "The deepest mine in the world is located in:",
+      "options": ["India", "USA", "South Africa", "Russia"],
+      "correctIndex": 2,
+      "explanation": "It is about 4 km deep and was dug in search for oil/gold.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g2_q26",
+      "text": "To reach the centre of the earth, you would have to dig a hole of ________ km depth.",
+      "options": ["1000", "2900", "6000", "10000"],
+      "correctIndex": 2,
+      "explanation": "The radius of the earth is approximately 6371 km.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g2_q27",
+      "text": "The crust forms only ________ per cent of the volume of the earth.",
+      "options": ["1%", "15%", "84%", "50%"],
+      "correctIndex": 0,
+      "explanation": "Mantle forms 84% and the core forms 15% of the earth's volume.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g2_q28",
+      "text": "Igneous is a Latin word 'ignis' meaning:",
+      "options": ["Settle", "Fire", "Change", "Water"],
+      "correctIndex": 1,
+      "explanation": "It refers to the volcanic origin and heat associated with these rocks.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g2_q29",
+      "text": "Sedimentary is a Latin word 'sedimentum' meaning:",
+      "options": ["Fire", "Settle down", "Change form", "Hard"],
+      "correctIndex": 1,
+      "explanation": "It refers to the settling of particles to form layers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g2_q30",
+      "text": "Metamorphic is a Greek word 'metamorphose' meaning:",
+      "options": ["Fire", "Settle", "Change of form", "Old"],
+      "correctIndex": 2,
+      "explanation": "It describes how rocks change their appearance and properties.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g2_q31",
+      "text": "Molten magma that comes out on the earth's surface and rapidly cools is called:",
+      "options": ["Granite", "Lava", "Crystal", "Gas"],
+      "correctIndex": 1,
+      "explanation": "Lava is fiery red molten magma coming from the interior of the earth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g2_q32",
+      "text": "Which rock is used for making grinding stones?",
+      "options": ["Limestone", "Granite", "Marble", "Slate"],
+      "correctIndex": 1,
+      "explanation": "Granite's hardness and texture make it ideal for grinding.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g2_q33",
+      "text": "The oceanic crust mainly consists of silica and:",
+      "options": ["Alumina", "Magnesium", "Iron", "Nickel"],
+      "correctIndex": 1,
+      "explanation": "This is why it is called 'sima'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_g2_q34",
+      "text": "The thinnest layer of the earth is:",
+      "options": ["Mantle", "Outer core", "Inner core", "Crust"],
+      "correctIndex": 3,
+      "explanation": "Compared to the thousands of kilometers of mantle and core, the crust is like a thin skin.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g2_q35",
+      "text": "Sedimentary rocks are transformed into metamorphic rocks by:",
+      "options": ["Cooling", "Melting", "Heat and Pressure", "Erosion"],
+      "correctIndex": 2,
+      "explanation": "Example: Limestone turning into marble.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g2_q36",
+      "text": "What is the radius of the earth?",
+      "options": ["3500 km", "6371 km", "2900 km", "5 km"],
+      "correctIndex": 1,
+      "explanation": "This is the distance from the surface to the center.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g2_q37",
+      "text": "Which layer of the earth is in a liquid state?",
+      "options": ["Crust", "Mantle", "Outer Core", "Inner Core"],
+      "correctIndex": 2,
+      "explanation": "While the inner core is solid due to pressure, the outer core is molten.",
       "frequencyRating": 3
+    },
+    {
+      "id": "g7_g2_q38",
+      "text": "Minerals are very important to humankind because:",
+      "options": ["They are used as fuels", "They are used in industries", "They are used in medicine/fertilizers", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Modern civilization depends heavily on various minerals for energy, construction, and technology.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g2_q39",
+      "text": "Basalt is a/an ________ igneous rock.",
+      "options": ["Intrusive", "Extrusive", "Sedimentary", "Metamorphic"],
+      "correctIndex": 1,
+      "explanation": "It cools on the surface and has a fine-grained structure.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_g2_q40",
+      "text": "Limestone changes into ________ during metamorphism.",
+      "options": ["Slate", "Quartzite", "Marble", "Coal"],
+      "correctIndex": 2,
+      "explanation": "Marble is the metamorphic version of limestone.",
+      "frequencyRating": 5
     }
   ]
 }

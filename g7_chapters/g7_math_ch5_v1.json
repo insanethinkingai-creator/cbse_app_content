@@ -8,73 +8,323 @@
   "questions": [
     {
       "id": "g7_m5_q1",
-      "text": "If the sum of two angles is 90°, they are called:",
-      "options": ["Supplementary angles", "Complementary angles", "Adjacent angles", "Vertically opposite angles"],
+      "text": "When the sum of the measures of two angles is 90°, the angles are called:",
+      "options": ["Supplementary", "Complementary", "Adjacent", "Linear Pair"],
       "correctIndex": 1,
-      "explanation": "Complementary angles are a pair of angles whose sum is exactly 90 degrees."
+      "explanation": "Complementary angles sum up to exactly 90 degrees.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m5_q2",
-      "text": "What is the supplement of an angle of 70°?",
-      "options": ["20°", "110°", "180°", "90°"],
+      "text": "When the sum of the measures of two angles is 180°, the angles are called:",
+      "options": ["Complementary", "Supplementary", "Vertical", "Right Angles"],
       "correctIndex": 1,
-      "explanation": "Supplementary angles sum to 180°. 180° - 70° = 110°."
+      "explanation": "Supplementary angles sum up to exactly 180 degrees.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m5_q3",
-      "text": "Angles which have a common vertex and a common arm but no common interior points are:",
-      "options": ["Linear pair", "Adjacent angles", "Vertically opposite", "Supplementary"],
-      "correctIndex": 1,
-      "explanation": "Adjacent angles share a vertex and an arm, placed side-by-side."
+      "text": "Find the complement of 30°.",
+      "options": ["60°", "150°", "90°", "120°"],
+      "correctIndex": 0,
+      "explanation": "90 - 30 = 60.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m5_q4",
-      "text": "When two lines intersect, the vertically opposite angles are always:",
-      "options": ["Supplementary", "Complementary", "Equal", "Unequal"],
-      "correctIndex": 2,
-      "explanation": "Vertically opposite angles formed by two intersecting lines are equal in measure."
+      "text": "Find the supplement of 105°.",
+      "options": ["75°", "85°", "180°", "90°"],
+      "correctIndex": 0,
+      "explanation": "180 - 105 = 75.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m5_q5",
-      "text": "A line that intersects two or more lines at distinct points is called a:",
-      "options": ["Parallel line", "Perpendicular line", "Traversal", "Transversal"],
-      "correctIndex": 3,
-      "explanation": "A transversal line cuts through other lines, creating various angle relationships."
+      "text": "Two angles that have a common vertex and a common arm but no common interior points are:",
+      "options": ["Linear Pair", "Adjacent Angles", "Vertically Opposite", "Complementary"],
+      "correctIndex": 1,
+      "explanation": "Adjacent angles are 'side-by-side' angles.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m5_q6",
-      "text": "If two parallel lines are cut by a transversal, each pair of alternate interior angles is:",
-      "options": ["Supplementary", "Equal", "Complementary", "90°"],
-      "correctIndex": 1,
-      "explanation": "Alternate interior angles are equal when the transversal intersects parallel lines."
+      "text": "A pair of adjacent angles whose non-common sides are opposite rays is called a:",
+      "options": ["Vertical Pair", "Right Angle", "Linear Pair", "Supplementary Pair"],
+      "correctIndex": 2,
+      "explanation": "Linear pair angles always add up to 180°.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m5_q7",
-      "text": "A linear pair of angles is always:",
-      "options": ["Complementary", "Supplementary", "Equal", "Acute"],
-      "correctIndex": 1,
-      "explanation": "Angles in a linear pair form a straight line, so their sum is 180° (supplementary)."
+      "text": "When two lines intersect, the vertically opposite angles so formed are:",
+      "options": ["Supplementary", "Complementary", "Equal", "Unequal"],
+      "correctIndex": 2,
+      "explanation": "Vertical angles are always equal in measure.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m5_q8",
-      "text": "Which of the following cannot be a pair of complementary angles?",
-      "options": ["45°, 45°", "30°, 60°", "50°, 40°", "90°, 90°"],
-      "correctIndex": 3,
-      "explanation": "The sum of complementary angles must be 90°. 90° + 90° = 180°."
+      "text": "If two lines are parallel and intersected by a transversal, the corresponding angles are:",
+      "options": ["Supplementary", "Equal", "Complementary", "Opposite"],
+      "correctIndex": 1,
+      "explanation": "Corresponding angles occupy the same relative position at each intersection.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m5_q9",
-      "text": "If one angle of a linear pair is acute, the other angle will be:",
-      "options": ["Acute", "Obtuse", "Right", "Reflex"],
+      "text": "The sum of interior angles on the same side of a transversal of two parallel lines is:",
+      "options": ["90°", "180°", "360°", "Depends on the lines"],
       "correctIndex": 1,
-      "explanation": "Since the sum is 180°, if one is less than 90°, the other must be greater than 90°."
+      "explanation": "Consecutive interior angles are supplementary.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m5_q10",
-      "text": "Two lines in a plane which do not meet at any point are called:",
-      "options": ["Intersecting lines", "Perpendicular lines", "Parallel lines", "Transversals"],
+      "text": "An angle which is equal to its complement is:",
+      "options": ["90°", "45°", "180°", "0°"],
+      "correctIndex": 1,
+      "explanation": "x + x = 90 => 2x = 90 => x = 45.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m5_q11",
+      "text": "An angle which is equal to its supplement is:",
+      "options": ["45°", "90°", "180°", "360°"],
+      "correctIndex": 1,
+      "explanation": "x + x = 180 => 2x = 180 => x = 90.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m5_q12",
+      "text": "If two angles are complementary, the sum of their measures is:",
+      "options": ["45°", "90°", "180°", "360°"],
+      "correctIndex": 1,
+      "explanation": "Definition of complementary angles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m5_q13",
+      "text": "If two angles are supplementary, the sum of their measures is:",
+      "options": ["90°", "180°", "270°", "360°"],
+      "correctIndex": 1,
+      "explanation": "Definition of supplementary angles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m5_q14",
+      "text": "Two right angles are always:",
+      "options": ["Complementary", "Supplementary", "Vertical", "Adjacent"],
+      "correctIndex": 1,
+      "explanation": "90 + 90 = 180.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m5_q15",
+      "text": "Which of the following cannot be a pair of complementary angles?",
+      "options": ["Two acute angles", "One obtuse and one acute", "Two right angles", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "Obtuse is already > 90, and two right angles sum to 180.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m5_q16",
+      "text": "In a linear pair, if one angle is acute, the other must be:",
+      "options": ["Acute", "Right", "Obtuse", "Reflex"],
       "correctIndex": 2,
-      "explanation": "Parallel lines maintain the same distance apart and never intersect."
+      "explanation": "To sum to 180, if one is < 90, the other must be > 90.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m5_q17",
+      "text": "If two lines intersect at a point, and if one pair of vertically opposite angles are acute angles, then the other pair of vertically opposite angles are:",
+      "options": ["Acute", "Right", "Obtuse", "None"],
+      "correctIndex": 2,
+      "explanation": "Adjacent angles in an intersection form a linear pair.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m5_q18",
+      "text": "A line that intersects two or more lines at distinct points is called a:",
+      "options": ["Parallel line", "Transversal", "Perpendicular", "Intersecting line"],
+      "correctIndex": 1,
+      "explanation": "Definition of a transversal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m5_q19",
+      "text": "If a transversal intersects two parallel lines, each pair of alternate interior angles are:",
+      "options": ["Supplementary", "Complementary", "Equal", "Opposite"],
+      "correctIndex": 2,
+      "explanation": "Alternate interior angles form a 'Z' shape and are equal for parallel lines.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m5_q20",
+      "text": "The angles between two parallel lines on the same side of the transversal are:",
+      "options": ["Equal", "Complementary", "Supplementary", "Vertical"],
+      "correctIndex": 2,
+      "explanation": "They sum to 180°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m5_q21",
+      "text": "What is the measure of an angle that is 20° more than its complement?",
+      "options": ["35°", "55°", "70°", "110°"],
+      "correctIndex": 1,
+      "explanation": "x + (x-20) = 90 => 2x = 110 => x = 55.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m5_q22",
+      "text": "How many transversals can be drawn for two given lines?",
+      "options": ["One", "Two", "Ten", "Infinite"],
+      "correctIndex": 3,
+      "explanation": "Any line crossing them at distinct points is a transversal.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m5_q23",
+      "text": "Alternate exterior angles are:",
+      "options": ["Adjacent", "Equal (if lines are parallel)", "Always supplementary", "Inside the parallel lines"],
+      "correctIndex": 1,
+      "explanation": "Standard property of parallel lines.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m5_q24",
+      "text": "If l || m and m || n, then:",
+      "options": ["l is perpendicular to n", "l || n", "l intersects n", "They form a triangle"],
+      "correctIndex": 1,
+      "explanation": "Lines parallel to the same line are parallel to each other.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m5_q25",
+      "text": "A line segment has ______ end points.",
+      "options": ["One", "Two", "Zero", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "A segment is part of a line with fixed start and end.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m5_q26",
+      "text": "A ray has ______ end point(s).",
+      "options": ["One", "Two", "Zero", "Many"],
+      "correctIndex": 0,
+      "explanation": "A ray starts at a point and goes to infinity in one direction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m5_q27",
+      "text": "When two lines intersect, they meet at ______ point(s).",
+      "options": ["One", "Two", "Zero", "Infinite"],
+      "correctIndex": 0,
+      "explanation": "Distinct non-parallel lines intersect at exactly one point.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m5_q28",
+      "text": "An angle of 180° is called a:",
+      "options": ["Right angle", "Acute angle", "Straight angle", "Reflex angle"],
+      "correctIndex": 2,
+      "explanation": "It looks like a straight line.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m5_q29",
+      "text": "If x + 50° forms a linear pair, then x is:",
+      "options": ["40°", "50°", "130°", "180°"],
+      "correctIndex": 2,
+      "explanation": "180 - 50 = 130.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m5_q30",
+      "text": "The measure of an angle which is four times its complement is:",
+      "options": ["18°", "72°", "36°", "144°"],
+      "correctIndex": 1,
+      "explanation": "x = 4(90-x) => x = 360 - 4x => 5x = 360 => x = 72.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m5_q31",
+      "text": "Find the supplement of 0°.",
+      "options": ["0°", "90°", "180°", "Not possible"],
+      "correctIndex": 2,
+      "explanation": "180 - 0 = 180.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m5_q32",
+      "text": "Vertically opposite angles are always equal. This is true:",
+      "options": ["Only for parallel lines", "Only for perpendicular lines", "For any two intersecting lines", "Never"],
+      "correctIndex": 2,
+      "explanation": "It is a universal geometric theorem.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m5_q33",
+      "text": "The letter 'F' in geometry helps identify:",
+      "options": ["Alternate angles", "Corresponding angles", "Vertical angles", "Linear Pair"],
+      "correctIndex": 1,
+      "explanation": "Corresponding angles form an 'F' shape.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m5_q34",
+      "text": "The letter 'Z' in geometry helps identify:",
+      "options": ["Corresponding angles", "Alternate angles", "Adjacent angles", "Right angles"],
+      "correctIndex": 1,
+      "explanation": "Alternate interior angles form a 'Z' shape.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m5_q35",
+      "text": "Can two obtuse angles be supplementary?",
+      "options": ["Yes", "No", "Always", "Depends on orientation"],
+      "correctIndex": 1,
+      "explanation": "Two angles > 90 will sum to > 180.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m5_q36",
+      "text": "Can two acute angles be supplementary?",
+      "options": ["Yes", "No", "Always", "Depends on orientation"],
+      "correctIndex": 1,
+      "explanation": "Two angles < 90 will sum to < 180.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m5_q37",
+      "text": "If one angle of a linear pair is 90°, the other is:",
+      "options": ["45°", "90°", "180°", "0°"],
+      "correctIndex": 1,
+      "explanation": "180 - 90 = 90.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m5_q38",
+      "text": "Complement of 90° is:",
+      "options": ["90°", "180°", "0°", "45°"],
+      "correctIndex": 2,
+      "explanation": "90 - 90 = 0.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m5_q39",
+      "text": "Interior angles on the same side of the transversal are also called:",
+      "options": ["Consecutive interior", "Co-interior", "Allied angles", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "These are synonymous terms in geometry.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m5_q40",
+      "text": "If a line is perpendicular to one of two parallel lines, it is ______ to the other.",
+      "options": ["Parallel", "Perpendicular", "Skew", "Intersecting at 45°"],
+      "correctIndex": 1,
+      "explanation": "Standard property of parallel lines and transversals.",
+      "frequencyRating": 4
     }
   ]
 }

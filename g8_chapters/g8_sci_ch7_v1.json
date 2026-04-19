@@ -1,0 +1,531 @@
+{
+  "id": "g8_sci_ch7",
+  "grade": "8",
+  "subject": "Science",
+  "number": "7",
+  "title": "Reaching the Age of Adolescence",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_s7_q1",
+      "text": "The period between childhood and adulthood is called:",
+      "options": [
+        "Puberty",
+        "Adolescence",
+        "Childhood",
+        "Adulthood"
+      ],
+      "correctIndex": 1,
+      "explanation": "Typically 10 to 19 years.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s7_q2",
+      "text": "Changes during puberty are caused by:",
+      "options": [
+        "Hormones",
+        "Diet",
+        "Exercise",
+        "Sleep"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pituitary gland signals other glands.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s7_q3",
+      "text": "Height spurt in boys occurs around:",
+      "options": [
+        "11 years",
+        "14 years",
+        "17 years",
+        "9 years"
+      ],
+      "correctIndex": 1,
+      "explanation": "Latter than girls.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s7_q4",
+      "text": "Height spurt in girls occurs around:",
+      "options": [
+        "11 years",
+        "14 years",
+        "17 years",
+        "9 years"
+      ],
+      "correctIndex": 0,
+      "explanation": "Earlier than boys.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s7_q5",
+      "text": "Male hormone produced by testes:",
+      "options": [
+        "Testosterone",
+        "Estrogen",
+        "Progesterone",
+        "Insulin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Responsible for secondary characteristics.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s7_q6",
+      "text": "Female hormone produced by ovaries:",
+      "options": [
+        "Testosterone",
+        "Estrogen",
+        "Adrenaline",
+        "Thyroxine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Responsible for breast development etc.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s7_q7",
+      "text": "Voice change in boys due to enlargement of:",
+      "options": [
+        "Larynx",
+        "Thyroid",
+        "Thymus",
+        "Pancreas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Adam's apple.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s7_q8",
+      "text": "Growth of pubic and underarm hair is due to:",
+      "options": [
+        "Hormones",
+        "Genes only",
+        "Diet",
+        "Exercise"
+      ],
+      "correctIndex": 0,
+      "explanation": "Secondary sexual characters.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s7_q9",
+      "text": "Breast development occurs in:",
+      "options": [
+        "Boys",
+        "Girls",
+        "Both",
+        "Neither"
+      ],
+      "correctIndex": 1,
+      "explanation": "Estrogen effect.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s7_q10",
+      "text": "Adam's apple is prominent in:",
+      "options": [
+        "Girls",
+        "Boys",
+        "Both",
+        "Children"
+      ],
+      "correctIndex": 1,
+      "explanation": "Larynx growth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s7_q11",
+      "text": "Master gland controlling others:",
+      "options": [
+        "Pituitary",
+        "Thyroid",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Growth hormone.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s7_q12",
+      "text": "Menstruation occurs if:",
+      "options": [
+        "No fertilisation",
+        "Fertilisation occurs",
+        "Pregnancy",
+        "Ovulation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lining shed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s7_q13",
+      "text": "Average menstrual cycle:",
+      "options": [
+        "28 days",
+        "7 days",
+        "14 days",
+        "35 days"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hormonal cycle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s7_q14",
+      "text": "Semen consists of:",
+      "options": [
+        "Sperms + secretions",
+        "Eggs",
+        "Hormones only",
+        "Blood"
+      ],
+      "correctIndex": 0,
+      "explanation": "From glands.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s7_q15",
+      "text": "Acne pimples due to:",
+      "options": [
+        "Hormones",
+        "Dirt only",
+        "Diet",
+        "All"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sebaceous glands.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s7_q16",
+      "text": "Balanced diet important for:",
+      "options": [
+        "Rapid growth",
+        "No effect",
+        "Fat",
+        "Short"
+      ],
+      "correctIndex": 0,
+      "explanation": "Proteins calcium iron.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s7_q17",
+      "text": "Iron deficiency causes:",
+      "options": [
+        "Anaemia",
+        "Goitre",
+        "Rickets",
+        "Scurvy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Girls especially.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s7_q18",
+      "text": "Calcium source:",
+      "options": [
+        "Milk products",
+        "Meat",
+        "Fruits",
+        "Rice"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bone growth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s7_q19",
+      "text": "Personal hygiene during adolescence:",
+      "options": [
+        "Daily bath",
+        "Weekly",
+        "Monthly",
+        "No need"
+      ],
+      "correctIndex": 0,
+      "explanation": "Increased sweat.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s7_q20",
+      "text": "Sayana Press is:",
+      "options": [
+        "Hormonal injection every 3 months",
+        "Pill daily",
+        "Copper T",
+        "Condom"
+      ],
+      "correctIndex": 0,
+      "explanation": "Progestin.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s7_q21",
+      "text": "Copper-T inserted in:",
+      "options": [
+        "Uterus",
+        "Vagina",
+        "Ovary",
+        "Testes"
+      ],
+      "correctIndex": 0,
+      "explanation": "IUCD.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s7_q22",
+      "text": "Condom prevents:",
+      "options": [
+        "Pregnancy and STDs",
+        "Pregnancy only",
+        "STDs only",
+        "Nothing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Barrier method.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s7_q23",
+      "text": "Oral pills are taken by:",
+      "options": [
+        "Women",
+        "Men",
+        "Both",
+        "Children"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hormones prevent ovulation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s7_q24",
+      "text": "Family planning uses:",
+      "options": [
+        "Contraception",
+        "More children",
+        "No planning",
+        "Herbal only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Population control.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s7_q25",
+      "text": "Adolescent emotional changes:",
+      "options": [
+        "Common due hormones",
+        "No",
+        "Childhood",
+        "Old age"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mood swings.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s7_q26",
+      "text": "Thyroid produces:",
+      "options": [
+        "Thyroxine",
+        "Insulin",
+        "Testosterone",
+        "Growth hormone"
+      ],
+      "correctIndex": 0,
+      "explanation": "Iodine needed.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s7_q27",
+      "text": "Pancreas insulin for:",
+      "options": [
+        "Blood sugar",
+        "Growth",
+        "Metabolism",
+        "Stress"
+      ],
+      "correctIndex": 0,
+      "explanation": "Diabetes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s7_q28",
+      "text": "Adrenal on kidneys produce:",
+      "options": [
+        "Adrenaline",
+        "Thyroxine",
+        "Estrogen",
+        "Insulin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Emergency.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s7_q29",
+      "text": "End of reproductive phase in women:",
+      "options": [
+        "Menopause",
+        "Puberty",
+        "Menstruation",
+        "Ovulation"
+      ],
+      "correctIndex": 0,
+      "explanation": "45-50 years.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s7_q30",
+      "text": "Sperms number in semen:",
+      "options": [
+        "Millions",
+        "One",
+        "Hundreds",
+        "Thousands"
+      ],
+      "correctIndex": 0,
+      "explanation": "40 million/ml.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s7_q31",
+      "text": "Ovum survives:",
+      "options": [
+        "1 day",
+        "Week",
+        "Month",
+        "Years"
+      ],
+      "correctIndex": 0,
+      "explanation": "Short time.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s7_q32",
+      "text": "Adolescent diet needs:",
+      "options": [
+        "Proteins calcium iron vitamins",
+        "Carbs only",
+        "Fats only",
+        "Sugar"
+      ],
+      "correctIndex": 0,
+      "explanation": "Growth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s7_q33",
+      "text": "Calcium deficiency:",
+      "options": [
+        "Weak bones",
+        "Anaemia",
+        "Goitre",
+        "Scurvy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Growth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s7_q34",
+      "text": "Daily bath adolescence:",
+      "options": [
+        "Yes",
+        "No",
+        "Weekly",
+        "Optional"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sweat glands.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s7_q35",
+      "text": "Vasectomy:",
+      "options": [
+        "Male permanent",
+        "Female",
+        "Temporary",
+        "Pill"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sperm duct.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s7_q36",
+      "text": "Tubectomy:",
+      "options": [
+        "Female permanent",
+        "Male",
+        "Temporary",
+        "Condom"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fallopian.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s7_q37",
+      "text": "Peer pressure:",
+      "options": [
+        "Influence friends",
+        "Family",
+        "Teachers",
+        "No"
+      ],
+      "correctIndex": 0,
+      "explanation": "Avoid bad.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s7_q38",
+      "text": "Goitre due to:",
+      "options": [
+        "Iodine deficiency",
+        "Iron",
+        "Calcium",
+        "Protein"
+      ],
+      "correctIndex": 0,
+      "explanation": "Thyroid.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s7_q39",
+      "text": "Rickets due to:",
+      "options": [
+        "Vitamin D",
+        "Vitamin C",
+        "Vitamin B",
+        "Iron"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sunlight.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s7_q40",
+      "text": "Family planning benefits:",
+      "options": [
+        "Healthy mother child spacing",
+        "More children",
+        "No",
+        "Single child"
+      ],
+      "correctIndex": 0,
+      "explanation": "Small happy family.",
+      "frequencyRating": 5
+    }
+  ]
+}
+

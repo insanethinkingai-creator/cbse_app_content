@@ -8,73 +8,323 @@
   "questions": [
     {
       "id": "g7_m6_q1",
-      "text": "A line segment joining a vertex of a triangle to the mid-point of its opposite side is a:",
-      "options": ["Altitude", "Median", "Diagonal", "Hypotenuse"],
+      "text": "A line segment joining a vertex of a triangle to the mid-point of its opposite side is called a:",
+      "options": ["Altitude", "Median", "Bisector", "Hypotenuse"],
       "correctIndex": 1,
-      "explanation": "A median connects a vertex to the center of the opposite side; a triangle has three medians."
+      "explanation": "The median connects a vertex to the midpoint of the opposite side, dividing the side into two equal parts.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m6_q2",
-      "text": "The perpendicular line segment from a vertex of a triangle to its opposite side is the:",
-      "options": ["Median", "Altitude", "Base", "Angle bisector"],
-      "correctIndex": 1,
-      "explanation": "An altitude represents the height of the triangle from a specific base."
+      "text": "How many medians can a triangle have?",
+      "options": ["1", "2", "3", "Infinite"],
+      "correctIndex": 2,
+      "explanation": "A triangle has three vertices and three sides, hence it can have three medians.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m6_q3",
-      "text": "An exterior angle of a triangle is equal to the sum of its:",
-      "options": ["Adjacent interior angles", "Two interior opposite angles", "All interior angles", "Supplementary angles"],
-      "correctIndex": 1,
-      "explanation": "The Exterior Angle Property states that an exterior angle equals the sum of its remote interior angles."
+      "text": "The perpendicular line segment from a vertex of a triangle to its opposite side is called an:",
+      "options": ["Altitude", "Median", "Base", "Diagonal"],
+      "correctIndex": 0,
+      "explanation": "An altitude represents the height of the triangle from a specific vertex.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m6_q4",
-      "text": "The sum of the three angles of a triangle is always:",
-      "options": ["90°", "180°", "270°", "360°"],
+      "text": "An exterior angle of a triangle is equal to the sum of its interior ________ angles.",
+      "options": ["Adjacent", "Opposite", "Right", "Straight"],
       "correctIndex": 1,
-      "explanation": "This is known as the Angle Sum Property of a triangle."
+      "explanation": "The Exterior Angle Property states that an exterior angle equals the sum of its two interior opposite angles.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m6_q5",
-      "text": "A triangle in which two sides are of equal length is called:",
-      "options": ["Scalene", "Isosceles", "Equilateral", "Right-angled"],
+      "text": "In a triangle, the sum of the measures of the three interior angles is:",
+      "options": ["90°", "180°", "270°", "360°"],
       "correctIndex": 1,
-      "explanation": "In an isosceles triangle, the angles opposite the equal sides are also equal."
+      "explanation": "This is known as the Angle Sum Property of a triangle.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m6_q6",
-      "text": "In a right-angled triangle, the side opposite to the right angle is the:",
-      "options": ["Base", "Perpendicular", "Hypotenuse", "Median"],
-      "correctIndex": 2,
-      "explanation": "The hypotenuse is the longest side in a right-angled triangle."
+      "text": "If two angles of a triangle are 60° and 40°, find the third angle.",
+      "options": ["80°", "100°", "60°", "40°"],
+      "correctIndex": 0,
+      "explanation": "180° - (60° + 40°) = 180° - 100° = 80°.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m6_q7",
-      "text": "According to Pythagoras property, in a right triangle:",
-      "options": ["a+b=c", "a²+b²=c²", "a²+b²=c", "a-b=c"],
-      "correctIndex": 1,
-      "explanation": "The square on the hypotenuse equals the sum of the squares on the other two sides."
+      "text": "A triangle in which all three sides are of equal length is called:",
+      "options": ["Scalene", "Isosceles", "Equilateral", "Right-angled"],
+      "correctIndex": 2,
+      "explanation": "In an equilateral triangle, all sides and all angles (60° each) are equal.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m6_q8",
-      "text": "The sum of the lengths of any two sides of a triangle is ________ the third side.",
-      "options": ["Less than", "Equal to", "Greater than", "Half of"],
-      "correctIndex": 2,
-      "explanation": "This property ensures that a closed triangle can actually be formed."
+      "text": "A triangle with two equal sides is called an:",
+      "options": ["Scalene triangle", "Isosceles triangle", "Equilateral triangle", "Obtuse triangle"],
+      "correctIndex": 1,
+      "explanation": "In an isosceles triangle, the angles opposite to the equal sides are also equal.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m6_q9",
-      "text": "Each angle of an equilateral triangle measures:",
-      "options": ["45°", "90°", "60°", "30°"],
+      "text": "The sum of the lengths of any two sides of a triangle is ________ the third side.",
+      "options": ["Less than", "Equal to", "Greater than", "Half of"],
       "correctIndex": 2,
-      "explanation": "Since all sides are equal, all angles are equal: 180° / 3 = 60°."
+      "explanation": "This is the Triangle Inequality Property; if not met, a triangle cannot be formed.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m6_q10",
-      "text": "Can a triangle have two right angles?",
-      "options": ["Yes", "No", "Only if it is isosceles", "Only if it is scalene"],
+      "text": "Can a triangle have sides of length 2 cm, 3 cm, and 5 cm?",
+      "options": ["Yes", "No", "Only if it is right-angled", "Depends on angles"],
       "correctIndex": 1,
-      "explanation": "If two angles were 90°, their sum would be 180°, leaving 0° for the third angle, which is impossible."
+      "explanation": "2 + 3 is not greater than 5 (it is equal), so no triangle can be formed.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m6_q11",
+      "text": "In a right-angled triangle, the side opposite to the right angle is called:",
+      "options": ["Base", "Perpendicular", "Hypotenuse", "Median"],
+      "correctIndex": 2,
+      "explanation": "The hypotenuse is the longest side in a right-angled triangle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m6_q12",
+      "text": "Pythagoras property states that in a right-angled triangle:",
+      "options": ["a + b = c", "a² + b² = c²", "a² - b² = c²", "ab = c"],
+      "correctIndex": 1,
+      "explanation": "The square of the hypotenuse equals the sum of the squares of the other two sides.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m6_q13",
+      "text": "Find the hypotenuse of a right triangle whose legs are 3 cm and 4 cm.",
+      "options": ["5 cm", "7 cm", "12 cm", "25 cm"],
+      "correctIndex": 0,
+      "explanation": "√(3² + 4²) = √(9 + 16) = √25 = 5 cm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m6_q14",
+      "text": "If the exterior angle of a triangle is 110° and one interior opposite angle is 30°, the other is:",
+      "options": ["80°", "70°", "140°", "110°"],
+      "correctIndex": 0,
+      "explanation": "Exterior angle = Sum of interior opposites. 110° - 30° = 80°.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m6_q15",
+      "text": "A triangle can have two right angles.",
+      "options": ["True", "False", "Only if isosceles", "Only if equilateral"],
+      "correctIndex": 1,
+      "explanation": "If two angles were 90°, the sum would already be 180°, leaving 0° for the third angle, which is impossible.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m6_q16",
+      "text": "The difference between the lengths of any two sides of a triangle is ________ the third side.",
+      "options": ["Greater than", "Less than", "Equal to", "Twice"],
+      "correctIndex": 1,
+      "explanation": "A property derived from the Triangle Inequality Property.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m6_q17",
+      "text": "Each angle of an equilateral triangle measures:",
+      "options": ["45°", "60°", "90°", "120°"],
+      "correctIndex": 1,
+      "explanation": "180° / 3 = 60°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m6_q18",
+      "text": "The altitude of a triangle always lies in the interior of the triangle.",
+      "options": ["True", "False", "Only for right triangles", "Only for equilateral"],
+      "correctIndex": 1,
+      "explanation": "In an obtuse-angled triangle, altitudes from the acute vertices lie in the exterior.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m6_q19",
+      "text": "In an isosceles triangle, if the vertex angle is 80°, find the base angles.",
+      "options": ["50°, 50°", "100°, 100°", "80°, 20°", "40°, 40°"],
+      "correctIndex": 0,
+      "explanation": "(180° - 80°) / 2 = 100° / 2 = 50° each.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m6_q20",
+      "text": "Which of the following can be the sides of a right triangle?",
+      "options": ["2, 2, 5", "6, 8, 10", "5, 5, 5", "1, 2, 3"],
+      "correctIndex": 1,
+      "explanation": "6² + 8² = 36 + 64 = 100 = 10². It satisfies Pythagoras property.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m6_q21",
+      "text": "The longest side of a right triangle is the:",
+      "options": ["Base", "Altitude", "Hypotenuse", "Median"],
+      "correctIndex": 2,
+      "explanation": "The hypotenuse is always longer than either of the other two sides.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m6_q22",
+      "text": "If a triangle has angles 90°, 45°, 45°, it is a:",
+      "options": ["Equilateral triangle", "Isosceles right triangle", "Scalene triangle", "Obtuse triangle"],
+      "correctIndex": 1,
+      "explanation": "It has one right angle and two equal angles/sides.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m6_q23",
+      "text": "Find the value of x if angles are x, 2x, and 3x.",
+      "options": ["20°", "30°", "45°", "60°"],
+      "correctIndex": 1,
+      "explanation": "x + 2x + 3x = 180° => 6x = 180° => x = 30°.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m6_q24",
+      "text": "A median of a triangle connects a vertex to the ________ of the opposite side.",
+      "options": ["Corner", "Mid-point", "Altitude", "Bisector"],
+      "correctIndex": 1,
+      "explanation": "Definition of a median.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m6_q25",
+      "text": "In a triangle, if one angle is obtuse, the other two must be:",
+      "options": ["Right", "Obtuse", "Acute", "Straight"],
+      "correctIndex": 2,
+      "explanation": "The sum of angles is 180°. If one is > 90°, the sum of the others must be < 90°.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m6_q26",
+      "text": "The length of the third side of a triangle whose two sides are 6 cm and 8 cm must be between:",
+      "options": ["0 and 14", "2 and 14", "6 and 8", "14 and 48"],
+      "correctIndex": 1,
+      "explanation": "Difference (8-6=2) < side < Sum (8+6=14).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m6_q27",
+      "text": "An equilateral triangle can also be called an isosceles triangle.",
+      "options": ["True", "False", "Only if sides are 5cm", "Only if angles are 90"],
+      "correctIndex": 0,
+      "explanation": "An equilateral triangle has at least two equal sides, satisfying the isosceles condition.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_m6_q28",
+      "text": "The point where all three medians of a triangle meet is called the:",
+      "options": ["Incentre", "Orthocentre", "Centroid", "Circumcentre"],
+      "correctIndex": 2,
+      "explanation": "While not heavily emphasized in Grade 7, the Centroid is the intersection of medians.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_m6_q29",
+      "text": "The point where all three altitudes meet is the:",
+      "options": ["Centroid", "Orthocentre", "Incentre", "Midpoint"],
+      "correctIndex": 1,
+      "explanation": "Orthocentre is the intersection point of altitudes.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_m6_q30",
+      "text": "In an isosceles triangle, if the equal angles are 45° each, the third angle is:",
+      "options": ["45°", "60°", "90°", "180°"],
+      "correctIndex": 2,
+      "explanation": "180 - (45 + 45) = 90°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m6_q31",
+      "text": "A ladder 15 m long reaches a window 12 m high from the ground. Find the distance of the foot of the ladder from the wall.",
+      "options": ["3 m", "9 m", "27 m", "81 m"],
+      "correctIndex": 1,
+      "explanation": "√(15² - 12²) = √(225 - 144) = √81 = 9 m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m6_q32",
+      "text": "A tree is broken at a height of 5 m and its top touches the ground at 12 m from its base. Find the original height.",
+      "options": ["13 m", "17 m", "18 m", "25 m"],
+      "correctIndex": 2,
+      "explanation": "Broken part = √(5² + 12²) = 13 m. Total height = 5 + 13 = 18 m.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m6_q33",
+      "text": "Find the perimeter of the rectangle whose length is 40 cm and a diagonal is 41 cm.",
+      "options": ["81 cm", "98 cm", "82 cm", "162 cm"],
+      "correctIndex": 1,
+      "explanation": "Width = √(41² - 40²) = √81 = 9 cm. Perimeter = 2(40 + 9) = 98 cm.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m6_q34",
+      "text": "Diagonal of a rhombus measure 16 cm and 30 cm. Find its perimeter.",
+      "options": ["34 cm", "68 cm", "46 cm", "92 cm"],
+      "correctIndex": 1,
+      "explanation": "Side = √(8² + 15²) = 17 cm. Perimeter = 4 * 17 = 68 cm.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m6_q35",
+      "text": "The sum of any two angles of a triangle is always greater than the third angle.",
+      "options": ["True", "False", "Only for equilateral", "Only for right-angled"],
+      "correctIndex": 1,
+      "explanation": "This is true for sides, but not necessarily for angles (e.g., 100°, 40°, 40°).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m6_q36",
+      "text": "An equilateral triangle has ________ lines of symmetry.",
+      "options": ["1", "2", "3", "None"],
+      "correctIndex": 2,
+      "explanation": "One through each vertex and midpoint of the opposite side.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m6_q37",
+      "text": "In triangle ABC, if AB = AC and angle B = 50°, then angle A is:",
+      "options": ["50°", "80°", "100°", "40°"],
+      "correctIndex": 1,
+      "explanation": "Angle C = Angle B = 50°. Angle A = 180 - (50 + 50) = 80°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m6_q38",
+      "text": "In a right triangle, can the hypotenuse be 10 cm if the other sides are 6 cm and 7 cm?",
+      "options": ["Yes", "No", "Only if isosceles", "Depends on base"],
+      "correctIndex": 1,
+      "explanation": "6² + 7² = 36 + 49 = 85. Since 10² = 100 and 85 ≠ 100, it's not a right triangle.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m6_q39",
+      "text": "How many altitudes does a triangle have?",
+      "options": ["1", "2", "3", "0"],
+      "correctIndex": 2,
+      "explanation": "One from each vertex.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m6_q40",
+      "text": "The sum of the interior opposite angles is 120°. The exterior angle is:",
+      "options": ["60°", "120°", "180°", "240°"],
+      "correctIndex": 1,
+      "explanation": "By exterior angle property, they are equal.",
+      "frequencyRating": 5
     }
   ]
 }

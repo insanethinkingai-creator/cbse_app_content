@@ -8,73 +8,323 @@
   "questions": [
     {
       "id": "g7_s4_q1",
-      "text": "Which of these substances tastes sour?",
-      "options": ["Sugar", "Baking soda", "Lemon juice", "Common salt"],
-      "correctIndex": 2,
-      "explanation": "Acids are chemical substances that have a sour taste."
+      "text": "Substances that are sour in taste and turn blue litmus red are called:",
+      "options": ["Acids", "Bases", "Salts", "Indicators"],
+      "correctIndex": 0,
+      "explanation": "Acids are characterized by their sour taste and ability to change blue litmus to red.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s4_q2",
-      "text": "What color does blue litmus paper turn when dipped in an acid?",
-      "options": ["Green", "Yellow", "Red", "No change"],
-      "correctIndex": 2,
-      "explanation": "Acids turn blue litmus paper red."
+      "text": "Substances that are bitter in taste, soapy to touch, and turn red litmus blue are called:",
+      "options": ["Acids", "Bases", "Salts", "Indicators"],
+      "correctIndex": 1,
+      "explanation": "Bases are known for their bitter taste, slippery feel, and ability to change red litmus to blue.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s4_q3",
-      "text": "Bases feel _______ to touch.",
-      "options": ["Rough", "Soapy", "Sticky", "Hard"],
-      "correctIndex": 1,
-      "explanation": "Substances that are bitter in taste and soapy to touch are known as bases."
+      "text": "A substance used to test whether another substance is acidic or basic is called an:",
+      "options": ["Acid", "Base", "Salt", "Indicator"],
+      "correctIndex": 3,
+      "explanation": "Indicators change color in the presence of acids or bases.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s4_q4",
-      "text": "Which indicator turns green in a basic solution?",
-      "options": ["Litmus", "Turmeric", "China rose", "Phenolphthalein"],
+      "text": "Which of the following is a natural indicator?",
+      "options": ["Phenolphthalein", "Methyl orange", "Litmus", "Universal indicator"],
       "correctIndex": 2,
-      "explanation": "China rose indicator turns acidic solutions dark pink and basic solutions green."
+      "explanation": "Litmus is extracted from lichens and is a common natural indicator.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s4_q5",
-      "text": "The reaction between an acid and a base is called:",
-      "options": ["Crystallization", "Neutralization", "Oxidation", "Fermentation"],
-      "correctIndex": 1,
-      "explanation": "Neutralization results in the formation of salt and water with the evolution of heat."
+      "text": "What color does turmeric turn in a basic solution?",
+      "options": ["Red", "Blue", "Yellow", "Green"],
+      "correctIndex": 0,
+      "explanation": "Turmeric remains yellow in acidic/neutral solutions but turns red in basic solutions.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s4_q6",
-      "text": "Which acid is present in an ant's sting?",
-      "options": ["Citric acid", "Acetic acid", "Formic acid", "Lactic acid"],
+      "text": "The reaction between an acid and a base is called:",
+      "options": ["Oxidation", "Reduction", "Neutralization", "Decomposition"],
       "correctIndex": 2,
-      "explanation": "An ant injects formic acid into the skin when it bites."
+      "explanation": "Neutralization reaction produces salt and water.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s4_q7",
-      "text": "Milk of Magnesia contains which base?",
-      "options": ["Sodium hydroxide", "Magnesium hydroxide", "Calcium hydroxide", "Ammonium hydroxide"],
+      "text": "What are the products of a neutralization reaction?",
+      "options": ["Acid and base", "Salt and water", "Only salt", "Only water"],
       "correctIndex": 1,
-      "explanation": "Magnesium hydroxide is used as an antacid to neutralize excessive stomach acid."
+      "explanation": "Acid + Base → Salt + Water.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s4_q8",
-      "text": "What happens when phenolphthalein is added to an acidic solution?",
-      "options": ["Turns pink", "Turns red", "Remains colorless", "Turns blue"],
+      "text": "Which of the following is an example of an acid?",
+      "options": ["Soap", "Baking soda", "Lemon juice", "Washing soda"],
       "correctIndex": 2,
-      "explanation": "Phenolphthalein remains colorless in acidic solutions and turns pink in basic solutions."
+      "explanation": "Lemon juice contains citric acid.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s4_q9",
-      "text": "Common salt is chemically known as:",
-      "options": ["Sodium carbonate", "Sodium chloride", "Calcium chloride", "Sodium bicarbonate"],
-      "correctIndex": 1,
-      "explanation": "Sodium chloride (NaCl) is a neutral salt used in our food."
+      "text": "Which of the following is an example of a base?",
+      "options": ["Vinegar", "Orange juice", "Milk of magnesia", "Curd"],
+      "correctIndex": 2,
+      "explanation": "Milk of magnesia (magnesium hydroxide) is a common antacid, which is basic.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s4_q10",
-      "text": "Which of these is a natural indicator?",
-      "options": ["Turmeric", "Methyl orange", "Phenolphthalein", "Hydrochloric acid"],
+      "text": "Stinging of an ant injects which acid into the skin?",
+      "options": ["Citric acid", "Lactic acid", "Formic acid", "Acetic acid"],
+      "correctIndex": 2,
+      "explanation": "Formic acid causes the burning sensation from an ant bite.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s4_q11",
+      "text": "What is the nature of common salt (sodium chloride)?",
+      "options": ["Acidic", "Basic", "Neutral", "Amphoteric"],
+      "correctIndex": 2,
+      "explanation": "Common salt is formed from a strong acid (HCl) and a strong base (NaOH), resulting in a neutral solution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s4_q12",
+      "text": "Which indicator turns pink in a basic solution and remains colorless in an acidic solution?",
+      "options": ["Litmus", "Turmeric", "Phenolphthalein", "Methyl orange"],
+      "correctIndex": 2,
+      "explanation": "Phenolphthalein is a synthetic indicator commonly used in titrations.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s4_q13",
+      "text": "Indigestion is caused by the excess secretion of which acid in the stomach?",
+      "options": ["Sulphuric acid", "Nitric acid", "Hydrochloric acid", "Acetic acid"],
+      "correctIndex": 2,
+      "explanation": "Excess hydrochloric acid in the stomach can lead to acidity and indigestion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s4_q14",
+      "text": "What is used to neutralize the effect of an ant sting?",
+      "options": ["Vinegar", "Lemon juice", "Baking soda solution", "Salt water"],
+      "correctIndex": 2,
+      "explanation": "Baking soda (sodium bicarbonate) is a mild base that neutralizes the formic acid.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s4_q15",
+      "text": "Soil becomes acidic due to:",
+      "options": ["Excessive use of fertilizers", "Excessive use of pesticides", "Excessive rainfall", "All of the above"],
       "correctIndex": 0,
-      "explanation": "Turmeric is a natural substance that changes color in the presence of a base."
+      "explanation": "Many chemical fertilizers are acidic and can lower soil pH over time.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s4_q16",
+      "text": "What is added to acidic soil to neutralize it?",
+      "options": ["Slaked lime", "Common salt", "Vinegar", "Sulphuric acid"],
+      "correctIndex": 0,
+      "explanation": "Slaked lime (calcium hydroxide) is a base used to increase soil pH.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s4_q17",
+      "text": "Which of these is an example of a strong acid?",
+      "options": ["Citric acid", "Acetic acid", "Hydrochloric acid", "Lactic acid"],
+      "correctIndex": 2,
+      "explanation": "Hydrochloric acid completely dissociates in water, making it a strong acid.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s4_q18",
+      "text": "Which of these is an example of a weak base?",
+      "options": ["Sodium hydroxide", "Potassium hydroxide", "Ammonium hydroxide", "Calcium hydroxide"],
+      "correctIndex": 2,
+      "explanation": "Ammonium hydroxide does not completely dissociate in water.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s4_q19",
+      "text": "The pH scale measures the:",
+      "options": ["Temperature of a solution", "Concentration of salts", "Acidity or basicity of a solution", "Density of a solution"],
+      "correctIndex": 2,
+      "explanation": "pH values range from 0 (highly acidic) to 14 (highly basic), with 7 being neutral.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s4_q20",
+      "text": "A solution with a pH of 7 is considered:",
+      "options": ["Acidic", "Basic", "Neutral", "Strongly acidic"],
+      "correctIndex": 2,
+      "explanation": "Pure water has a pH of 7 and is neutral.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s4_q21",
+      "text": "What color does red litmus paper turn in a basic solution?",
+      "options": ["Red", "Blue", "Green", "Yellow"],
+      "correctIndex": 1,
+      "explanation": "This is a characteristic test for bases.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s4_q22",
+      "text": "What color does blue litmus paper turn in an acidic solution?",
+      "options": ["Red", "Blue", "Green", "Yellow"],
+      "correctIndex": 0,
+      "explanation": "This is a characteristic test for acids.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s4_q23",
+      "text": "Which of the following is an olfactory indicator?",
+      "options": ["Litmus", "Turmeric", "Vanilla essence", "China rose"],
+      "correctIndex": 2,
+      "explanation": "Olfactory indicators change their smell in acidic or basic media.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s4_q24",
+      "text": "Which acid is present in curd?",
+      "options": ["Citric acid", "Lactic acid", "Formic acid", "Acetic acid"],
+      "correctIndex": 1,
+      "explanation": "Lactic acid is produced by bacteria during the fermentation of milk.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s4_q25",
+      "text": "Which acid is present in vinegar?",
+      "options": ["Citric acid", "Lactic acid", "Formic acid", "Acetic acid"],
+      "correctIndex": 3,
+      "explanation": "Vinegar is a dilute solution of acetic acid.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s4_q26",
+      "text": "Which acid is present in oranges and lemons?",
+      "options": ["Citric acid", "Lactic acid", "Formic acid", "Acetic acid"],
+      "correctIndex": 0,
+      "explanation": "Citric acid gives citrus fruits their sour taste.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s4_q27",
+      "text": "The solution of an acid and a base is mixed. The temperature of the mixture:",
+      "options": ["Decreases", "Increases", "Remains same", "First decreases then increases"],
+      "correctIndex": 1,
+      "explanation": "Neutralization reactions are typically exothermic, releasing heat.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s4_q28",
+      "text": "What is the nature of a solution with pH 2?",
+      "options": ["Strongly acidic", "Weakly acidic", "Neutral", "Basic"],
+      "correctIndex": 0,
+      "explanation": "Lower pH values indicate stronger acidity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s4_q29",
+      "text": "What is the nature of a solution with pH 12?",
+      "options": ["Acidic", "Neutral", "Weakly basic", "Strongly basic"],
+      "correctIndex": 3,
+      "explanation": "Higher pH values indicate stronger basicity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s4_q30",
+      "text": "Which of these is used as an antacid?",
+      "options": ["Sodium hydroxide", "Magnesium hydroxide", "Hydrochloric acid", "Sulphuric acid"],
+      "correctIndex": 1,
+      "explanation": "Antacids are mild bases that neutralize excess stomach acid.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s4_q31",
+      "text": "China rose indicator turns acidic solutions to:",
+      "options": ["Green", "Dark pink (magenta)", "Blue", "Yellow"],
+      "correctIndex": 1,
+      "explanation": "China rose is a natural indicator that shows distinct color changes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s4_q32",
+      "text": "China rose indicator turns basic solutions to:",
+      "options": ["Green", "Dark pink (magenta)", "Blue", "Yellow"],
+      "correctIndex": 0,
+      "explanation": "This is the characteristic color change for basic solutions with China rose indicator.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s4_q33",
+      "text": "Which of the following is a mineral acid?",
+      "options": ["Citric acid", "Lactic acid", "Sulphuric acid", "Acetic acid"],
+      "correctIndex": 2,
+      "explanation": "Mineral acids (inorganic acids) are derived from inorganic minerals.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s4_q34",
+      "text": "Which of the following is an organic acid?",
+      "options": ["Hydrochloric acid", "Nitric acid", "Formic acid", "Sulphuric acid"],
+      "correctIndex": 2,
+      "explanation": "Organic acids contain carbon atoms, like formic acid found in ant stings.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s4_q35",
+      "text": "The common name for sodium hydroxide is:",
+      "options": ["Baking soda", "Washing soda", "Caustic soda", "Bleaching powder"],
+      "correctIndex": 2,
+      "explanation": "Sodium hydroxide (NaOH) is a strong base.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s4_q36",
+      "text": "The common name for calcium hydroxide is:",
+      "options": ["Quicklime", "Slaked lime", "Limestone", "Gypsum"],
+      "correctIndex": 1,
+      "explanation": "Calcium hydroxide (Ca(OH)₂) is also known as slaked lime.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s4_q37",
+      "text": "Acid rain is caused by the presence of which gases in the atmosphere?",
+      "options": ["Oxygen and Nitrogen", "Carbon dioxide and Methane", "Sulphur dioxide and Nitrogen dioxide", "Hydrogen and Helium"],
+      "correctIndex": 2,
+      "explanation": "These gases react with water vapor to form acids.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s4_q38",
+      "text": "Which of these is a property of acids?",
+      "options": ["Soapy touch", "Bitter taste", "Corrosive nature", "Turns red litmus blue"],
+      "correctIndex": 2,
+      "explanation": "Strong acids can cause severe burns and damage materials.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s4_q39",
+      "text": "Which of these is a property of bases?",
+      "options": ["Sour taste", "Turns blue litmus red", "Reacts with metals to produce hydrogen", "Slippery to touch"],
+      "correctIndex": 3,
+      "explanation": "The soapy feel is characteristic of bases.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s4_q40",
+      "text": "What happens when an acidic solution is mixed with a basic solution?",
+      "options": ["It becomes more acidic", "It becomes more basic", "It becomes neutral or less acidic/basic", "It boils"],
+      "correctIndex": 2,
+      "explanation": "The acid and base neutralize each other, moving the pH closer to 7.",
+      "frequencyRating": 5
     }
   ]
 }

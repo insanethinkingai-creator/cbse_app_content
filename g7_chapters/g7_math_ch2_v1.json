@@ -8,73 +8,323 @@
   "questions": [
     {
       "id": "g7_m2_q1",
-      "text": "What is 1/2 of 10?",
-      "options": ["2", "5", "10", "20"],
+      "text": "What is 2/7 of 21?",
+      "options": ["3", "6", "14", "9"],
       "correctIndex": 1,
-      "explanation": "The word 'of' represents multiplication: (1/2) × 10 = 5."
+      "explanation": "(2/7) * 21 = 2 * (21/7) = 2 * 3 = 6.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m2_q2",
-      "text": "The reciprocal of 2/3 is:",
-      "options": ["-2/3", "3/2", "1/3", "1/2"],
+      "text": "The reciprocal of the fraction 3/5 is:",
+      "options": ["3/5", "5/3", "1", "-3/5"],
       "correctIndex": 1,
-      "explanation": "The reciprocal of a fraction a/b is b/a."
+      "explanation": "Reciprocal is obtained by interchanging the numerator and denominator.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m2_q3",
-      "text": "What is 0.1 × 0.1?",
-      "options": ["0.1", "0.01", "1.1", "0.2"],
-      "correctIndex": 1,
-      "explanation": "Multiplying 1/10 by 1/10 gives 1/100, which is 0.01."
+      "text": "Which of the following is an improper fraction?",
+      "options": ["2/3", "5/9", "7/4", "1/2"],
+      "correctIndex": 2,
+      "explanation": "In an improper fraction, the numerator is greater than or equal to the denominator.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_m2_q4",
-      "text": "2.5 ÷ 0.5 is equal to:",
-      "options": ["0.5", "5", "50", "0.05"],
+      "text": "The value of 0.03 × 1000 is:",
+      "options": ["3", "30", "300", "0.3"],
       "correctIndex": 1,
-      "explanation": "2.5 divided by 0.5 is the same as 25 divided by 5, which equals 5."
+      "explanation": "When multiplying by 1000, the decimal point moves three places to the right.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m2_q5",
-      "text": "A fraction where the numerator is less than the denominator is called:",
-      "options": ["Improper fraction", "Proper fraction", "Mixed fraction", "Unit fraction"],
+      "text": "Convert 7 cm into meters.",
+      "options": ["0.7 m", "0.07 m", "70 m", "0.007 m"],
       "correctIndex": 1,
-      "explanation": "A proper fraction represents a part of a whole where the numerator is smaller than the denominator."
+      "explanation": "Since 100 cm = 1 m, 7 cm = 7/100 = 0.07 m.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m2_q6",
-      "text": "Express 7/10 as a decimal.",
-      "options": ["0.07", "7.0", "0.7", "0.007"],
+      "text": "What is the result of 1/2 ÷ 3?",
+      "options": ["3/2", "2/3", "1/6", "6"],
       "correctIndex": 2,
-      "explanation": "Dividing 7 by 10 moves the decimal point one place to the left."
+      "explanation": "1/2 ÷ 3 = 1/2 * 1/3 = 1/6.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_m2_q7",
-      "text": "What is 3/4 + 1/4?",
-      "options": ["4/8", "1", "3/8", "4/4"],
-      "correctIndex": 1,
-      "explanation": "3/4 + 1/4 = 4/4, which simplifies to 1."
+      "text": "The product of a proper fraction and an improper fraction is:",
+      "options": ["Less than proper fraction", "Greater than improper fraction", "Less than improper but greater than proper", "Always 1"],
+      "correctIndex": 2,
+      "explanation": "The product is generally between the values of the two fractions.",
+      "frequencyRating": 3
     },
     {
       "id": "g7_m2_q8",
-      "text": "What is 0.01 × 100?",
-      "options": ["1", "0.1", "10", "0.001"],
-      "correctIndex": 0,
-      "explanation": "Multiplying by 100 moves the decimal point two places to the right."
+      "text": "Find the area of a square with side 2.5 cm.",
+      "options": ["5 sq cm", "6.25 sq cm", "10 sq cm", "12.5 sq cm"],
+      "correctIndex": 1,
+      "explanation": "Area = side * side = 2.5 * 2.5 = 6.25 sq cm.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m2_q9",
-      "text": "The value of 2/3 × 5/7 is:",
-      "options": ["10/21", "7/10", "21/10", "14/15"],
+      "text": "Which is greater: 0.5 or 0.05?",
+      "options": ["0.5", "0.05", "Both are equal", "Cannot say"],
       "correctIndex": 0,
-      "explanation": "Multiply numerators together and denominators together: (2×5)/(3×7) = 10/21."
+      "explanation": "Comparing the tenths place: 5 is greater than 0.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m2_q10",
-      "text": "How many centimeters are in 1.5 meters?",
-      "options": ["15 cm", "150 cm", "1500 cm", "0.15 cm"],
+      "text": "The place value of 2 in 21.36 is:",
+      "options": ["Units", "Tens", "Tenths", "Hundredths"],
       "correctIndex": 1,
-      "explanation": "Since 1m = 100cm, 1.5m = 1.5 × 100 = 150 cm."
+      "explanation": "2 is in the tens place.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m2_q11",
+      "text": "0.4 ÷ 2 gives:",
+      "options": ["0.2", "2", "0.02", "0.8"],
+      "correctIndex": 0,
+      "explanation": "4/10 * 1/2 = 2/10 = 0.2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m2_q12",
+      "text": "1.2 * 1.2 is equal to:",
+      "options": ["1.44", "14.4", "0.144", "144"],
+      "correctIndex": 0,
+      "explanation": "12 * 12 = 144. Placing decimal two places from right gives 1.44.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m2_q13",
+      "text": "Find the average of 4.2, 3.8 and 7.6.",
+      "options": ["5.2", "4.8", "5.6", "15.6"],
+      "correctIndex": 0,
+      "explanation": "Average = (4.2 + 3.8 + 7.6) / 3 = 15.6 / 3 = 5.2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m2_q14",
+      "text": "How much less is 28 km than 42.6 km?",
+      "options": ["14 km", "14.6 km", "70.6 km", "12.6 km"],
+      "correctIndex": 1,
+      "explanation": "42.6 - 28.0 = 14.6 km.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m2_q15",
+      "text": "A vehicle covers 43.2 km in 2.4 litres of petrol. Distance covered in 1 litre is:",
+      "options": ["18 km", "21 km", "15 km", "10 km"],
+      "correctIndex": 0,
+      "explanation": "43.2 / 2.4 = 432 / 24 = 18 km.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m2_q16",
+      "text": "The reciprocal of 1 is:",
+      "options": ["0", "1", "-1", "Not defined"],
+      "correctIndex": 1,
+      "explanation": "1/1 = 1.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m2_q17",
+      "text": "Product of two proper fractions is always ______ than each fraction.",
+      "options": ["Greater", "Less", "Equal", "Twice"],
+      "correctIndex": 1,
+      "explanation": "E.g., 1/2 * 1/2 = 1/4, which is less than 1/2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m2_q18",
+      "text": "2/3 of a year (in months) is:",
+      "options": ["4 months", "6 months", "8 months", "10 months"],
+      "correctIndex": 2,
+      "explanation": "(2/3) * 12 = 2 * 4 = 8 months.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m2_q19",
+      "text": "If 1/5 of a number is 10, the number is:",
+      "options": ["2", "5", "50", "20"],
+      "correctIndex": 2,
+      "explanation": "x/5 = 10 => x = 50.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m2_q20",
+      "text": "The value of 7/3 ÷ 2 is:",
+      "options": ["14/3", "7/6", "6/7", "3/14"],
+      "correctIndex": 1,
+      "explanation": "7/3 * 1/2 = 7/6.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m2_q21",
+      "text": "Which decimal is equivalent to 3/4?",
+      "options": ["0.3", "0.4", "0.75", "0.34"],
+      "correctIndex": 2,
+      "explanation": "3/4 = 75/100 = 0.75.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m2_q22",
+      "text": "0.01 * 0.01 is:",
+      "options": ["0.1", "0.01", "0.001", "0.0001"],
+      "correctIndex": 3,
+      "explanation": "1 * 1 = 1. Decimal moves 2+2=4 places left.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m2_q23",
+      "text": "Division of a decimal number by 100 moves the decimal point to the left by:",
+      "options": ["1 place", "2 places", "3 places", "None"],
+      "correctIndex": 1,
+      "explanation": "Each zero in the power of 10 move the point one place left for division.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m2_q24",
+      "text": "7.75 ÷ 0.25 equals:",
+      "options": ["31", "3.1", "310", "3100"],
+      "correctIndex": 0,
+      "explanation": "775 / 25 = 31.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m2_q25",
+      "text": "A rectangular park is 20.5m long and 15.5m wide. Its area is:",
+      "options": ["317.75 sq m", "36 sq m", "310 sq m", "320.5 sq m"],
+      "correctIndex": 0,
+      "explanation": "20.5 * 15.5 = 317.75.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m2_q26",
+      "text": "Reciprocal of an improper fraction is always a:",
+      "options": ["Proper fraction", "Improper fraction", "Mixed fraction", "Whole number"],
+      "correctIndex": 0,
+      "explanation": "Since improper > 1, its reciprocal < 1 (proper).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m2_q27",
+      "text": "3/5 of 25 kg is:",
+      "options": ["5 kg", "15 kg", "20 kg", "10 kg"],
+      "correctIndex": 1,
+      "explanation": "3 * (25/5) = 3 * 5 = 15.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m2_q28",
+      "text": "Write 2.08 in expanded form.",
+      "options": ["2 + 8/10", "2 + 8/100", "20 + 8", "2/10 + 8/100"],
+      "correctIndex": 1,
+      "explanation": "2 ones + 0 tenths + 8 hundredths.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_m2_q29",
+      "text": "If 1 kg of sugar costs ₹45, what is the cost of 2.5 kg?",
+      "options": ["₹90", "₹112.5", "₹100", "₹120"],
+      "correctIndex": 1,
+      "explanation": "45 * 2.5 = 112.5.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m2_q30",
+      "text": "0.5 * 0.05 * 0.005 equals:",
+      "options": ["0.125", "0.0125", "0.000125", "0.0000125"],
+      "correctIndex": 3,
+      "explanation": "5*5*5=125. Decimal places: 1+2+3=6. Result 0.000125.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m2_q31",
+      "text": "Find the value of 5 ÷ 1/2.",
+      "options": ["2.5", "5", "10", "1/10"],
+      "correctIndex": 2,
+      "explanation": "5 * (2/1) = 10.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m2_q32",
+      "text": "What is 1/4 of 1/4?",
+      "options": ["1/8", "1/16", "1/2", "1"],
+      "correctIndex": 1,
+      "explanation": "Multiply numerators and denominators: 1/16.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m2_q33",
+      "text": "Convert 250g into kg.",
+      "options": ["2.5 kg", "0.25 kg", "25 kg", "0.025 kg"],
+      "correctIndex": 1,
+      "explanation": "250/1000 = 0.25 kg.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m2_q34",
+      "text": "The fraction representing 'three-quarters' is:",
+      "options": ["1/3", "1/4", "3/4", "4/3"],
+      "correctIndex": 2,
+      "explanation": "Standard terminology for 3/4.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m2_q35",
+      "text": "Which of the following is equivalent to 1/3?",
+      "options": ["2/3", "3/9", "3/1", "1/6"],
+      "correctIndex": 1,
+      "explanation": "3/9 simplifies to 1/3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m2_q36",
+      "text": "Divide 30.94 by 0.7.",
+      "options": ["44.2", "4.42", "442", "0.442"],
+      "correctIndex": 0,
+      "explanation": "309.4 / 7 = 44.2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m2_q37",
+      "text": "A side of a regular polygon is 2.5 cm. If the perimeter is 12.5 cm, how many sides does it have?",
+      "options": ["3", "4", "5", "6"],
+      "correctIndex": 2,
+      "explanation": "12.5 / 2.5 = 5 sides.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m2_q38",
+      "text": "The value of 10.05 * 1.05 is approximately:",
+      "options": ["10.55", "11.55", "10.05", "11.05"],
+      "correctIndex": 0,
+      "explanation": "Calculation results in 10.5525.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_m2_q39",
+      "text": "Fractions with the same denominator are called:",
+      "options": ["Proper", "Unlike", "Like", "Equivalent"],
+      "correctIndex": 2,
+      "explanation": "Definitions of types of fractions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m2_q40",
+      "text": "Mixed fraction 2 (3/4) is equal to:",
+      "options": ["5/4", "6/4", "11/4", "8/4"],
+      "correctIndex": 2,
+      "explanation": "(2*4 + 3) / 4 = 11/4.",
+      "frequencyRating": 5
     }
   ]
 }

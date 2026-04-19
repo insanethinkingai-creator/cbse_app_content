@@ -8,73 +8,323 @@
   "questions": [
     {
       "id": "g7_s1_q1",
-      "text": "Organisms that prepare their own food are called:",
-      "options": ["Heterotrophs", "Autotrophs", "Saprotrophs", "Parasites"],
-      "correctIndex": 1,
-      "explanation": "Auto means self and trophos means nourishment; hence plants are autotrophs."
+      "text": "The components of food that are necessary for our body are called:",
+      "options": ["Nutrients", "Carbohydrates", "Vitamins", "Minerals"],
+      "correctIndex": 0,
+      "explanation": "Nutrients include carbohydrates, proteins, fats, vitamins, and minerals required for growth and maintenance.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s1_q2",
-      "text": "The green pigment present in leaves is called:",
-      "options": ["Hemoglobin", "Chlorophyll", "Xanthophyll", "Stomata"],
-      "correctIndex": 1,
-      "explanation": "Chlorophyll helps leaves capture the energy of sunlight for photosynthesis."
+      "text": "Which of the following can prepare their own food?",
+      "options": ["Humans", "Animals", "Green plants", "Fungi"],
+      "correctIndex": 2,
+      "explanation": "Green plants are autotrophs, meaning they can synthesize their own food using photosynthesis.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s1_q3",
-      "text": "Which gas is taken in by plants during photosynthesis?",
-      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
-      "correctIndex": 2,
-      "explanation": "Plants take in carbon dioxide from the air through stomata for food synthesis."
+      "text": "The mode of nutrition in which organisms make food themselves from simple substances is called:",
+      "options": ["Heterotrophic", "Autotrophic", "Saprotrophic", "Parasitic"],
+      "correctIndex": 1,
+      "explanation": "Auto means self, and trophos means nourishment; hence self-nourishing.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s1_q4",
-      "text": "Cuscuta (Amarbel) is an example of a:",
-      "options": ["Host", "Parasite", "Saprotroph", "Autotroph"],
+      "text": "Animals and most other organisms take in food prepared by plants. They are called:",
+      "options": ["Autotrophs", "Heterotrophs", "Saprotrophs", "Parasites"],
       "correctIndex": 1,
-      "explanation": "Cuscuta does not have chlorophyll and takes ready-made food from the host plant."
+      "explanation": "Hetero means other; these organisms depend on others for food.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s1_q5",
-      "text": "The tiny pores on the surface of leaves are called:",
-      "options": ["Vessels", "Stomata", "Cells", "Lamina"],
-      "correctIndex": 1,
-      "explanation": "Stomata are surrounded by guard cells and facilitate gas exchange."
+      "text": "The 'food factories' of plants are the:",
+      "options": ["Roots", "Stem", "Leaves", "Flowers"],
+      "correctIndex": 2,
+      "explanation": "Leaves are the primary site where the synthesis of food occurs in plants.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s1_q6",
-      "text": "Which of these is an insectivorous plant?",
-      "options": ["Cuscuta", "Pitcher plant", "Mushroom", "Lichen"],
+      "text": "Water and minerals are transported to the leaves by the:",
+      "options": ["Stomata", "Vessels", "Chlorophyll", "Guard cells"],
       "correctIndex": 1,
-      "explanation": "Pitcher plants trap and digest insects to fulfill their nitrogen requirements."
+      "explanation": "Vessels run like pipes throughout the root, stem, branches, and leaves.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_s1_q7",
-      "text": "The mode of nutrition in which organisms take in nutrients from dead and decaying matter is:",
-      "options": ["Parasitic", "Autotrophic", "Saprotrophic", "Holozoic"],
-      "correctIndex": 2,
-      "explanation": "Fungi are common examples of saprotrophs that live on decaying matter."
+      "text": "The green pigment present in the leaves is called:",
+      "options": ["Hemoglobin", "Chlorophyll", "Anthocyanin", "Xanthophyll"],
+      "correctIndex": 1,
+      "explanation": "Chlorophyll helps leaves to capture the energy of the sunlight.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s1_q8",
-      "text": "Lichens represent a symbiotic relationship between:",
-      "options": ["Alga and Fungus", "Alga and Bacteria", "Fungus and Bacteria", "Plant and Animal"],
-      "correctIndex": 0,
-      "explanation": "In lichens, the fungus provides shelter/water, and the alga prepares food."
+      "text": "Tiny pores present on the surface of leaves for gas exchange are:",
+      "options": ["Vessels", "Stomata", "Chloroplasts", "Pores"],
+      "correctIndex": 1,
+      "explanation": "These pores are surrounded by guard cells and are called stomata.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s1_q9",
-      "text": "Which bacterium helps in atmospheric nitrogen fixation in leguminous plants?",
-      "options": ["Lactobacillus", "Rhizobium", "Yeast", "E. coli"],
+      "text": "During photosynthesis, plants take in ________ and release ________.",
+      "options": ["Oxygen, Carbon dioxide", "Carbon dioxide, Oxygen", "Nitrogen, Oxygen", "Oxygen, Nitrogen"],
       "correctIndex": 1,
-      "explanation": "Rhizobium lives in root nodules and converts atmospheric nitrogen into a usable form."
+      "explanation": "Plants use CO2 for photosynthesis and produce O2 as a byproduct.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_s1_q10",
       "text": "The ultimate source of energy for all living organisms is:",
-      "options": ["Water", "Sunlight", "Wind", "Food"],
+      "options": ["Plants", "Sun", "Water", "Oxygen"],
       "correctIndex": 1,
-      "explanation": "Sunlight is the primary source of energy that plants convert into chemical energy."
+      "explanation": "Solar energy is captured by plants and converted into chemical energy for all life forms.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s1_q11",
+      "text": "The product of photosynthesis is:",
+      "options": ["Protein", "Fat", "Carbohydrate (Starch)", "Vitamin"],
+      "correctIndex": 2,
+      "explanation": "Photosynthesis initially produces glucose, which is stored as starch.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s1_q12",
+      "text": "Presence of ________ in leaves indicates the occurrence of photosynthesis.",
+      "options": ["Water", "Starch", "Protein", "Mineral"],
+      "correctIndex": 1,
+      "explanation": "Starch is a carbohydrate, and its presence is tested using iodine.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s1_q13",
+      "text": "Slimy, green patches in ponds or stagnant water bodies are usually:",
+      "options": ["Fungi", "Bacteria", "Algae", "Viruses"],
+      "correctIndex": 2,
+      "explanation": "Algae are green organisms that can prepare their own food by photosynthesis.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s1_q14",
+      "text": "Cuscuta (Amarbel) is an example of a:",
+      "options": ["Autotroph", "Parasite", "Saprotroph", "Host"],
+      "correctIndex": 1,
+      "explanation": "Cuscuta does not have chlorophyll and takes ready-made food from the plant on which it climbs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s1_q15",
+      "text": "The plant on which a parasite climbs is called a:",
+      "options": ["Parasite", "Host", "Saprotroph", "Cuscuta"],
+      "correctIndex": 1,
+      "explanation": "The parasite deprives the host of valuable nutrients.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s1_q16",
+      "text": "Insect-eating plants are known as:",
+      "options": ["Parasitic plants", "Saprotrophic plants", "Insectivorous plants", "Autotrophic plants"],
+      "correctIndex": 2,
+      "explanation": "The Pitcher plant is an example of an insectivorous plant.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s1_q17",
+      "text": "Why do some plants eat insects even if they are green?",
+      "options": ["They lack chlorophyll", "They cannot get enough nitrogen from the soil", "They cannot get water", "They love the taste"],
+      "correctIndex": 1,
+      "explanation": "Insectivorous plants grow in nitrogen-deficient soil and get nitrogen from insects.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s1_q18",
+      "text": "Organisms that take in nutrients from dead and decaying matter are called:",
+      "options": ["Parasites", "Autotrophs", "Saprotrophs", "Heterotrophs"],
+      "correctIndex": 2,
+      "explanation": "Fungi like bread moulds and mushrooms are saprotrophs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s1_q19",
+      "text": "The mode of nutrition used by fungi is:",
+      "options": ["Autotrophic", "Heterotrophic", "Saprotrophic", "Parasitic"],
+      "correctIndex": 2,
+      "explanation": "They secrete digestive juices on dead matter and then absorb the nutrients.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s1_q20",
+      "text": "Organisms that live together and share both shelter and nutrients have a ________ relationship.",
+      "options": ["Parasitic", "Symbiotic", "Saprotrophic", "Competitive"],
+      "correctIndex": 1,
+      "explanation": "Symbiosis is a mutually beneficial partnership between two organisms.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s1_q21",
+      "text": "In Lichens, which two organisms live in a symbiotic relationship?",
+      "options": ["Fungus and Bacteria", "Alga and Fungus", "Alga and Bacteria", "Plant and Insect"],
+      "correctIndex": 1,
+      "explanation": "The fungus provides shelter and water; the alga provides food.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s1_q22",
+      "text": "Which bacterium can take atmospheric nitrogen and convert it into a usable form?",
+      "options": ["Lactobacillus", "Rhizobium", "E. coli", "Yeast"],
+      "correctIndex": 1,
+      "explanation": "Rhizobium lives in the root nodules of leguminous plants.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s1_q23",
+      "text": "Leguminous plants include:",
+      "options": ["Wheat and Rice", "Gram, peas, and beans", "Potato and Tomato", "Mango and Apple"],
+      "correctIndex": 1,
+      "explanation": "Pulses (dal) are obtained from leguminous plants.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s1_q24",
+      "text": "The relationship between Rhizobium and leguminous plants is:",
+      "options": ["Parasitic", "Symbiotic", "Saprotrophic", "Autotrophic"],
+      "correctIndex": 1,
+      "explanation": "The plant provides food and shelter, while the bacteria provide nitrogen.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s1_q25",
+      "text": "Farmers add ________ to the soil to replenish nutrients like nitrogen, potassium, and phosphorus.",
+      "options": ["Water", "Fertilizers and Manures", "Pesticides", "Insects"],
+      "correctIndex": 1,
+      "explanation": "Continuous cropping depletes soil nutrients, requiring external replenishment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s1_q26",
+      "text": "What is the role of guard cells?",
+      "options": ["Protect the leaf", "Open and close stomata", "Synthesize food", "Transport water"],
+      "correctIndex": 1,
+      "explanation": "Guard cells regulate the opening and closing of stomatal pores for gas exchange.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s1_q27",
+      "text": "Which part of the plant is responsible for capturing solar energy?",
+      "options": ["Stem", "Chlorophyll in leaves", "Roots", "Flowers"],
+      "correctIndex": 1,
+      "explanation": "Chlorophyll is the specific pigment that traps sunlight for photosynthesis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s1_q28",
+      "text": "During photosynthesis, solar energy is converted into ________ energy.",
+      "options": ["Heat", "Electrical", "Chemical", "Mechanical"],
+      "correctIndex": 2,
+      "explanation": "The energy is stored in the form of food (carbohydrates).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s1_q29",
+      "text": "Fungi can be both useful and harmful.",
+      "options": ["True", "False", "Only harmful", "Only useful"],
+      "correctIndex": 0,
+      "explanation": "Yeast and mushrooms are useful; some cause diseases in plants and humans.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s1_q30",
+      "text": "Plants need nitrogen to synthesize ________.",
+      "options": ["Carbohydrates", "Proteins", "Fats", "Vitamins"],
+      "correctIndex": 1,
+      "explanation": "Nitrogen is a key component of proteins.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s1_q31",
+      "text": "Can plants absorb nitrogen directly from the air?",
+      "options": ["Yes, through stomata", "No, they need it in soluble form from soil", "Yes, through roots", "No, they don't need nitrogen"],
+      "correctIndex": 1,
+      "explanation": "Atmospheric nitrogen (N2) cannot be used directly by plants.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s1_q32",
+      "text": "Which of these is a saprotroph?",
+      "options": ["Rose", "Mushroom", "Cuscuta", "Algae"],
+      "correctIndex": 1,
+      "explanation": "Mushrooms grow on decaying organic matter.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s1_q33",
+      "text": "The lid of the Pitcher plant is formed by the modification of:",
+      "options": ["Stem", "Leaf", "Flower", "Root"],
+      "correctIndex": 1,
+      "explanation": "The pitcher itself is a modified leaf, and the apex of the leaf forms the lid.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s1_q34",
+      "text": "Which gas is released by plants during the night?",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "correctIndex": 1,
+      "explanation": "In the absence of photosynthesis at night, plants only respire, releasing CO2.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_s1_q35",
+      "text": "Iodine solution is used to test for the presence of:",
+      "options": ["Proteins", "Fats", "Starch", "Vitamins"],
+      "correctIndex": 2,
+      "explanation": "Iodine turns blue-black in the presence of starch.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s1_q36",
+      "text": "Plants synthesize carbohydrates using:",
+      "options": ["Oxygen and water", "Carbon dioxide and water", "Nitrogen and water", "Oxygen and Nitrogen"],
+      "correctIndex": 1,
+      "explanation": "CO2 and water are the raw materials for photosynthesis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_s1_q37",
+      "text": "The bodies of living organisms are made of tiny units called:",
+      "options": ["Atoms", "Cells", "Molecules", "Organelles"],
+      "correctIndex": 1,
+      "explanation": "Cells are the basic structural and functional units of life.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s1_q38",
+      "text": "The jelly-like substance surrounding the nucleus in a cell is:",
+      "options": ["Cell membrane", "Cytoplasm", "Chlorophyll", "Stomata"],
+      "correctIndex": 1,
+      "explanation": "Cytoplasm is the medium where cell organelles are suspended.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s1_q39",
+      "text": "Desert plants have scale-like or spine-like leaves to:",
+      "options": ["Look beautiful", "Capture more sunlight", "Reduce loss of water by transpiration", "Protect from rain"],
+      "correctIndex": 2,
+      "explanation": "Spines minimize surface area to save water in arid environments.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_s1_q40",
+      "text": "In the absence of photosynthesis, life would be impossible on Earth because:",
+      "options": ["There would be no food", "There would be no oxygen", "Both A and B", "The Earth would be too hot"],
+      "correctIndex": 2,
+      "explanation": "Photosynthesis provides the base of the food chain and the oxygen we breathe.",
+      "frequencyRating": 5
     }
   ]
 }

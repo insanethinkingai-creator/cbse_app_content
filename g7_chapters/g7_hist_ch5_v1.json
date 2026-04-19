@@ -1,0 +1,330 @@
+{
+  "id": "g7_hist_ch5",
+  "grade": "7",
+  "subject": "History",
+  "number": "5",
+  "title": "Tribes, Nomads and Settled Communities",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_h5_q1",
+      "text": "Most tribes were located in:",
+      "options": ["Cities", "Villages", "Remote areas like forests, hills, and deserts", "Near the sea"],
+      "correctIndex": 2,
+      "explanation": "Tribal societies lived in difficult-to-reach areas to preserve their independence and culture.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h5_q2",
+      "text": "Tribal societies did not follow the social rules and rituals prescribed by the:",
+      "options": ["Kings", "Brahmanas", "Foreigners", "Traders"],
+      "correctIndex": 1,
+      "explanation": "Tribal societies were egalitarian and did not follow the varna-based caste system.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h5_q3",
+      "text": "The term used for people who move from one place to another is:",
+      "options": ["Settled", "Nomads", "Artisans", "Peasants"],
+      "correctIndex": 1,
+      "explanation": "Nomadic pastoralists moved long distances with their animals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h5_q4",
+      "text": "Which powerful tribe controlled the Punjab during the 13th and 14th centuries?",
+      "options": ["Gonds", "Khokhar", "Ahoms", "Bhils"],
+      "correctIndex": 1,
+      "explanation": "The Khokhar tribe was very influential in the Punjab region.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h5_q5",
+      "text": "Who was the Gakkhar chief made a noble (mansabdar) by Emperor Akbar?",
+      "options": ["Kamal Khan Gakkhar", "Aman Das", "Durgawati", "Sib Singh"],
+      "correctIndex": 0,
+      "explanation": "The Gakkhars became more important after the Khokhars, and their chief was recognized by Akbar.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h5_q6",
+      "text": "The Balochis were a large and powerful tribe in the:",
+      "options": ["South", "North-west", "East", "Central India"],
+      "correctIndex": 1,
+      "explanation": "They were divided into many smaller clans led by different chiefs.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h5_q7",
+      "text": "In the western Himalaya lived the shepherd tribe of:",
+      "options": ["Gaddis", "Nagas", "Ahoms", "Kolis"],
+      "correctIndex": 0,
+      "explanation": "The Gaddis were a pastoral tribe in the Himalayan region.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h5_q8",
+      "text": "Tribes in the North-eastern part of the subcontinent were dominated by:",
+      "options": ["Nagas and Ahoms", "Bhils", "Gonds", "Marathas"],
+      "correctIndex": 0,
+      "explanation": "The Nagas, Ahoms, and many others completely dominated this region.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h5_q9",
+      "text": "Which tribe was found across vast areas of western and central India?",
+      "options": ["Gonds", "Bhils", "Santhals", "Cheros"],
+      "correctIndex": 1,
+      "explanation": "By the late 16th century, many Bhils had become settled agriculturists and some even zamindars.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h5_q10",
+      "text": "The Gonds lived in a vast forested region called:",
+      "options": ["Gondwana", "Magadha", "Dandakaranya", "Vatapi"],
+      "correctIndex": 0,
+      "explanation": "Gondwana means 'country inhabited by Gonds'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h5_q11",
+      "text": "Gonds practiced ________ cultivation.",
+      "options": ["Intensive", "Shifting", "Step", "Plantation"],
+      "correctIndex": 1,
+      "explanation": "Shifting cultivation involves clearing a patch of forest, burning it, and sowing crops in the ashes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h5_q12",
+      "text": "A 'clan' is a group of families or households claiming descent from a:",
+      "options": ["King", "Common ancestor", "God", "Village"],
+      "correctIndex": 1,
+      "explanation": "Tribal organization is often based on kinship or clan loyalties.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h5_q13",
+      "text": "The Gond kingdom was divided into administrative units called:",
+      "options": ["Subas", "Garhs", "Iqtas", "Sarkars"],
+      "correctIndex": 1,
+      "explanation": "Each garh was controlled by a particular Gond clan.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h5_q14",
+      "text": "A 'Garh' was further divided into units of 84 villages called:",
+      "options": ["Chaurasi", "Barhot", "Nadu", "Ur"],
+      "correctIndex": 0,
+      "explanation": "Chaurasi literally means 84.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h5_q15",
+      "text": "The Chaurasi was further subdivided into 'Barhots' which had ________ villages each.",
+      "options": ["10", "12", "14", "20"],
+      "correctIndex": 1,
+      "explanation": "The administration was becoming centralized as large Gond kingdoms emerged.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h5_q16",
+      "text": "Who was the Rani of Garha Katanga who fought against the Mughal forces?",
+      "options": ["Rani Laxmi Bai", "Rani Durgawati", "Rani Didda", "Rani Rudramadevi"],
+      "correctIndex": 1,
+      "explanation": "Rani Durgawati ruled on behalf of her young son and died fighting the Mughals in 1565.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h5_q17",
+      "text": "Garha Katanga was a rich state that earned wealth by trapping and exporting:",
+      "options": ["Tigers", "Elephants", "Horses", "Peacocks"],
+      "correctIndex": 1,
+      "explanation": "The export of wild elephants was a major source of revenue for the Gond kingdom.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h5_q18",
+      "text": "The Ahoms migrated to the Brahmaputra valley from present-day:",
+      "options": ["Thailand", "Myanmar (Burma)", "Vietnam", "Laos"],
+      "correctIndex": 1,
+      "explanation": "They migrated in the 13th century and created a new state by suppressing older landlords.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h5_q19",
+      "text": "The Ahoms suppressed the older political system of the 'bhuiyans', which means:",
+      "options": ["Kings", "Landlords", "Traders", "Priests"],
+      "correctIndex": 1,
+      "explanation": "By defeating the bhuiyans, the Ahoms established their own authority.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h5_q20",
+      "text": "The Ahom state depended upon forced labour, and those forced to work were called:",
+      "options": ["Slaves", "Paiks", "Muktars", "Samantas"],
+      "correctIndex": 1,
+      "explanation": "A census of the population was taken, and each village had to send a number of paiks by rotation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h5_q21",
+      "text": "The Ahom society was divided into clans or:",
+      "options": ["Jatis", "Khels", "Garhs", "Ur"],
+      "correctIndex": 1,
+      "explanation": "A khel often controlled several villages.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h5_q22",
+      "text": "Historical works written by the Ahoms were called:",
+      "options": ["Tawarikh", "Buranjis", "Prashastis", "Vedas"],
+      "correctIndex": 1,
+      "explanation": "Buranjis were written first in the Ahom language and then in Assamese.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h5_q23",
+      "text": "Who were the most important trader-nomads?",
+      "options": ["Banjaras", "Gond", "Bhils", "Ahoms"],
+      "correctIndex": 0,
+      "explanation": "Their caravan was called a 'tanda'. Sultan Alauddin Khalji used them to transport grain to city markets.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h5_q24",
+      "text": "Nomadic pastoralists lived on milk and other pastoral products, and exchanged these for:",
+      "options": ["Gold and Silver", "Grain, cloth, utensils and salt", "Weapons", "Books"],
+      "correctIndex": 1,
+      "explanation": "They traded items they obtained from their animals with settled agriculturists.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h5_q25",
+      "text": "What is 'shifting cultivation'?",
+      "options": ["Moving from one village to another", "Trees and bushes are cut and burnt; crops are sown in the ashes", "Planting different crops every year", "Trading crops for cattle"],
+      "correctIndex": 1,
+      "explanation": "When this land loses its fertility, another patch of land is cleared.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h5_q26",
+      "text": "The Mughals under ________ attacked and defeated Garha Katanga in 1565.",
+      "options": ["Akbar (Asaf Khan)", "Jahangir", "Aurangzeb", "Babur"],
+      "correctIndex": 0,
+      "explanation": "The Mughal forces led by Asaf Khan defeated the Gonds despite their strong resistance.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h5_q27",
+      "text": "As the Gond kingdoms weakened, they were later attacked by the:",
+      "options": ["British", "Bundelas and Marathas", "Sikhs", "Dutch"],
+      "correctIndex": 1,
+      "explanation": "The Gond kingdoms struggled against the rising power of the Bundelas and Marathas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h5_q28",
+      "text": "The Ahoms built a large state using ________ in the 1660s.",
+      "options": ["Canons and high-quality gunpowder", "Elephants", "Wooden forts", "Bows and arrows"],
+      "correctIndex": 0,
+      "explanation": "The Ahoms were technologically advanced in warfare.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h5_q29",
+      "text": "The Mughal army under ________ captured the Ahom capital Garhgaon in 1662.",
+      "options": ["Mir Jumla", "Asaf Khan", "Man Singh", "Todar Mal"],
+      "correctIndex": 0,
+      "explanation": "Despite the Ahom resistance, the Mughals managed to capture their capital.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_h5_q30",
+      "text": "In the Ahom state, almost all adult males served in the ________ during war.",
+      "options": ["Agriculture", "Army", "Administration", "Temples"],
+      "correctIndex": 1,
+      "explanation": "The Ahom state had a system where citizens contributed military service.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h5_q31",
+      "text": "Ahoms introduced new methods of ________ cultivation.",
+      "options": ["Wheat", "Wet rice", "Cotton", "Tea"],
+      "correctIndex": 1,
+      "explanation": "Their agricultural innovations helped support a growing population.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h5_q32",
+      "text": "Under whose reign did Hinduism become the predominant religion of the Ahoms?",
+      "options": ["Sib Singh", "Rudra Singh", "Gadadhar Singh", "Sukaphaa"],
+      "correctIndex": 0,
+      "explanation": "During Sib Singh's reign (1714-1744), Hinduism became very important, but kings did not give up traditional beliefs.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_h5_q33",
+      "text": "The Gond Raja of Garha Katanga, Aman Das, assumed the title of:",
+      "options": ["Sangram Shah", "Chhatrapati", "Maharaja", "Sultan"],
+      "correctIndex": 0,
+      "explanation": "He took the title to gain status and associate himself with Rajput traditions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h5_q34",
+      "text": "Many tribes were divided into numerous smaller:",
+      "options": ["Subas", "Clans", "Nadus", "Nagarams"],
+      "correctIndex": 1,
+      "explanation": "Clans were the basic unit of social and political organization in tribes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h5_q35",
+      "text": "Why are there few written records of tribal people?",
+      "options": ["They were not literate", "They did not keep written records; preserved customs orally", "The records were destroyed by fire", "Kings banned them from writing"],
+      "correctIndex": 1,
+      "explanation": "Historians use these rich oral traditions to write tribal histories.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h5_q36",
+      "text": "Chero chiefdoms had emerged in the 12th century in present-day:",
+      "options": ["Bihar and Jharkhand", "Assam", "Kerala", "Odisha"],
+      "correctIndex": 0,
+      "explanation": "Raja Man Singh, Akbar's general, attacked and defeated them in 1591.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_h5_q37",
+      "text": "The Mundas and Santhals were important tribes in:",
+      "options": ["Gujarat", "Odisha and Bengal", "Tamil Nadu", "Punjab"],
+      "correctIndex": 1,
+      "explanation": "They lived in these regions and also in Jharkhand.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_h5_q38",
+      "text": "Kolis and Berads lived in the highlands of:",
+      "options": ["Maharashtra and Karnataka", "Rajasthan", "Himalayas", "Ganges plain"],
+      "correctIndex": 0,
+      "explanation": "Kolis were also found in many areas of Gujarat.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_h5_q39",
+      "text": "Which community of people were essentially wandering singers and dancers?",
+      "options": ["Banjaras", "Pedlars", "Itinerant groups", "Shifting cultivators"],
+      "correctIndex": 2,
+      "explanation": "These groups moved from village to village performing for their livelihood.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_h5_q40",
+      "text": "As the economy and needs of society grew, people with new skills were required. This led to:",
+      "options": ["Abolition of Jatis", "Emergence of new Jatis within Varnas", "End of the Mughal rule", "Banning of tribes"],
+      "correctIndex": 1,
+      "explanation": "Specialized artisans like smiths, carpenters, and masons were recognized as separate jatis.",
+      "frequencyRating": 5
+    }
+  ]
+}

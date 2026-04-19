@@ -1,90 +1,330 @@
 {
   "id": "g7_civ_ch3",
   "grade": "7",
-      "subject": "Civics",
+  "subject": "Civics",
   "number": "3",
   "title": "How the State Government Works",
   "version": "v1",
   "questions": [
     {
-      "id": "g7_civ_ch3_q1",
-      "text": "What does MLA stand for?",
-      "options": ["Member of Local Authority", "Member of Legislative Assembly", "Member of Legal Association", "Main Legislative Administrator"],
+      "id": "g7_c3_q1",
+      "text": "MLA stands for:",
+      "options": ["Member of Local Authority", "Member of Legislative Assembly", "Member of Legal Association", "Member of Land Agency"],
       "correctIndex": 1,
-      "explanation": "MLAs are elected by the people and then become members of the legislative assembly.",
+      "explanation": "MLAs are elected by the people and represent them in the state government.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch3_q2",
-      "text": "Who is the head of the state government who appoints the Chief Minister and other ministers?",
-      "options": ["President", "Prime Minister", "Governor", "Chief Justice"],
+      "id": "g7_c3_q2",
+      "text": "Every state in India is divided into different areas called:",
+      "options": ["Districts", "Constituencies", "Villages", "Blocks"],
+      "correctIndex": 1,
+      "explanation": "From each constituency, the people elect one representative who becomes an MLA.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q3",
+      "text": "A political party whose MLAs have won more than half the number of constituencies in a state is said to be in a:",
+      "options": ["Minority", "Majority", "Coalition", "Opposition"],
+      "correctIndex": 1,
+      "explanation": "The party with a majority becomes the ruling party.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q4",
+      "text": "All other members who do not belong to the ruling party are called the:",
+      "options": ["Allies", "Opposition", "Leaders", "Ministers"],
+      "correctIndex": 1,
+      "explanation": "The opposition questions the government's decisions and debates bills.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q5",
+      "text": "After the elections, the MLAs of the ruling party elect their leader who becomes the:",
+      "options": ["Governor", "Chief Minister", "President", "Speaker"],
+      "correctIndex": 1,
+      "explanation": "The Chief Minister then selects other MLAs to be ministers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q6",
+      "text": "Who appoints the Chief Minister and other ministers?",
+      "options": ["President", "Prime Minister", "Governor", "People"],
       "correctIndex": 2,
-      "explanation": "The Governor of a state is appointed by the Central Government to ensure the state works within the Constitution.",
+      "explanation": "The Governor is the head of the state and performs this formal duty.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch3_q3",
-      "text": "The political party that has the majority of MLAs is called the:",
-      "options": ["Opposition party", "Ruling party", "Coalition party", "Independent party"],
+      "id": "g7_c3_q7",
+      "text": "The Chief Minister and other ministers have the responsibility of running various government:",
+      "options": ["Shops", "Departments or ministries", "Factories", "Schools only"],
       "correctIndex": 1,
-      "explanation": "The party that has more than half the number of MLAs in a state is considered to be in a majority.",
+      "explanation": "Examples include the Health department, Education department, etc.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch3_q4",
-      "text": "A place where all the MLAs, from the ruling party as well as the opposition, meet to discuss various things is the:",
-      "options": ["Parliament", "Legislative Assembly", "Secretariat", "District Court"],
+      "id": "g7_c3_q8",
+      "text": "A place where all the MLAs, whether from the ruling party or from the opposition, meet to discuss various things is called the:",
+      "options": ["Parliament", "Legislative Assembly", "Supreme Court", "Secretariat"],
       "correctIndex": 1,
-      "explanation": "The Legislative Assembly is the venue for debates and decision-making for the state.",
+      "explanation": "In the assembly, MLAs can express their opinions, ask questions, and debate issues.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch3_q5",
-      "text": "The executive head of the state government is the:",
-      "options": ["Governor", "Chief Minister", "Education Minister", "Speaker"],
+      "id": "g7_c3_q9",
+      "text": "The word 'government' commonly refers to:",
+      "options": ["Only the Chief Minister", "Government departments and various ministers", "Only the police", "All citizens"],
       "correctIndex": 1,
-      "explanation": "The Chief Minister and the cabinet of ministers are responsible for running various government departments.",
+      "explanation": "It's the collective term for the executive branch that implements laws.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q10",
+      "text": "The actual head of the executive branch of the state government is the:",
+      "options": ["Governor", "Chief Minister", "Home Minister", "Chief Justice"],
+      "correctIndex": 1,
+      "explanation": "The Chief Minister leads the council of ministers and makes key decisions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q11",
+      "text": "Who is the head of the State who is appointed by the Central Government?",
+      "options": ["MLA", "Chief Minister", "Governor", "Sarpanch"],
+      "correctIndex": 2,
+      "explanation": "The Governor ensures that the state government works within the rules of the Constitution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q12",
+      "text": "Sometimes the ruling party is not a single party but a group of parties working together. This is called a:",
+      "options": ["Single party rule", "Dictatorship", "Coalition government", "Direct democracy"],
+      "correctIndex": 2,
+      "explanation": "Parties join forces to reach the majority mark required to form a government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q13",
+      "text": "The legislative assembly is not the only place where opinions are expressed about the government. Others include:",
+      "options": ["Newspapers", "TV channels", "Press conferences", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "In a democracy, various platforms are used to hold the government accountable.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q14",
+      "text": "A gathering of journalists from the media who are invited to hear about and ask questions on a particular issue is a:",
+      "options": ["Public meeting", "Press conference", "Seminar", "Debate"],
+      "correctIndex": 1,
+      "explanation": "Ministers use press conferences to explain government actions to the public through the media.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q15",
+      "text": "Laws for the entire state are made in the:",
+      "options": ["Parliament", "Legislative Assembly", "High Court", "Police Station"],
+      "correctIndex": 1,
+      "explanation": "The assembly is the law-making body of the state.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q16",
+      "text": "The various government departments then ________ the laws made by the assembly.",
+      "options": ["Ignore", "Implement/execute", "Delete", "Change"],
+      "correctIndex": 1,
+      "explanation": "While the legislature makes laws, the executive (departments) carries them out.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q17",
+      "text": "Decisions taken by the Chief Minister and ministers must be ________ by the members of the legislative assembly.",
+      "options": ["Rejected", "Approved", "Secretly kept", "Written in a diary"],
+      "correctIndex": 1,
+      "explanation": "This ensures that the executive is accountable to the people's representatives.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q18",
+      "text": "The people in a democracy can organize ________ to voice their opinions and protest against the government.",
+      "options": ["Parties", "Rallies and meetings", "Wars", "Secret clubs"],
+      "correctIndex": 1,
+      "explanation": "Protests and public meetings are healthy signs of a functioning democracy.",
       "frequencyRating": 4
     },
     {
-      "id": "g7_civ_ch3_q6",
-      "text": "Who has the dual role of being an MLA and also a Minister?",
-      "options": ["Every MLA", "Only the Speaker", "Ministers selected by the Chief Minister", "The Governor"],
-      "correctIndex": 2,
-      "explanation": "Certain MLAs are assigned ministerial portfolios, giving them responsibilities in both the legislature and executive.",
+      "id": "g7_c3_q19",
+      "text": "In Patalpuram, people were facing a crisis due to:",
+      "options": ["Lack of internet", "Shortage of clean water and spread of diarrhea", "Too much rain", "High taxes"],
+      "correctIndex": 1,
+      "explanation": "The story illustrates how local issues are discussed in the assembly and media.",
       "frequencyRating": 4
     },
     {
-      "id": "g7_civ_ch3_q7",
-      "text": "What is the purpose of a press conference held by a minister?",
-      "options": ["To pass new laws", "To explain government steps and answer questions", "To elect a new leader", "To debate with the opposition"],
+      "id": "g7_c3_q20",
+      "text": "MLAs are directly elected by the:",
+      "options": ["Governor", "Chief Minister", "People", "President"],
+      "correctIndex": 2,
+      "explanation": "People cast their votes in their respective constituencies.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q21",
+      "text": "A 'Press Conference' helps the government to:",
+      "options": ["Hide information", "Communicate its steps to the public", "Arrest people", "Make more money"],
       "correctIndex": 1,
-      "explanation": "Press conferences are a way for the government to communicate its actions to the public through the media.",
+      "explanation": "It is a way of being transparent and answerable to the public.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q22",
+      "text": "Which of these is a government department?",
+      "options": ["Public Works Department (PWD)", "Agriculture Department", "Health Department", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Each department is headed by a minister and managed by government officials.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q23",
+      "text": "Laws for the entire country are made in the:",
+      "options": ["Legislative Assembly", "Parliament", "Supreme Court", "United Nations"],
+      "correctIndex": 1,
+      "explanation": "Parliament (Sansad) makes laws for the whole of India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q24",
+      "text": "Members of the ruling party are often called the ________.",
+      "options": ["Treasury benches", "Opposition", "Independent", "Auditors"],
+      "correctIndex": 0,
+      "explanation": "In many legislative systems, the ruling party sits on the treasury side of the house.",
       "frequencyRating": 3
     },
     {
-      "id": "g7_civ_ch3_q8",
-      "text": "The government can also decide to make new laws for the state regarding sanitation and health. This is done in the:",
-      "options": ["High Court", "Legislative Assembly", "Police Station", "Gram Panchayat"],
+      "id": "g7_c3_q25",
+      "text": "When the government is questioned in the assembly, it must ________.",
+      "options": ["Leave the house", "Respond and explain its position", "Stay silent", "Angry at the opposition"],
       "correctIndex": 1,
-      "explanation": "Laws for the entire state are debated and passed in the Legislative Assembly.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g7_civ_ch3_q9",
-      "text": "In a democracy, who has the main authority and elects the representatives?",
-      "options": ["The Governor", "The Prime Minister", "The People", "The Army"],
-      "correctIndex": 2,
-      "explanation": "The people elect their representatives (MLAs) and thus have the main authority in a democracy.",
+      "explanation": "Responding to questions is part of the accountability process in democracy.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch3_q10",
-      "text": "When no single party gets a majority and two or more parties come together, it is a:",
-      "options": ["Monarchy", "Coalition government", "Direct democracy", "Dictatorship"],
+      "id": "g7_c3_q26",
+      "text": "An MLA represents a specific ________.",
+      "options": ["State", "Constituency", "Country", "World"],
       "correctIndex": 1,
-      "explanation": "A coalition is formed when multiple parties combine their MLA counts to cross the majority mark.",
+      "explanation": "Their focus is primarily on the development and issues of their own area.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q27",
+      "text": "The Governor ensures that the state government acts according to the ________.",
+      "options": ["Rules of the party", "Constitution", "Wishes of the King", "Orders of the police"],
+      "correctIndex": 1,
+      "explanation": "Constitutional adherence is the primary duty of the Governor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q28",
+      "text": "Laws related to sanitation and health can be made by the ________.",
+      "options": ["People themselves", "State Government", "Only the Prime Minister", "Foreign countries"],
+      "correctIndex": 1,
+      "explanation": "Health and sanitation are subjects under the state's authority.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q29",
+      "text": "Public meetings and rallies are ________ ways to protest.",
+      "options": ["Illegal", "Democratic", "Unnecessary", "Violent"],
+      "correctIndex": 1,
+      "explanation": "Peaceful assembly is a fundamental right in a democracy.",
       "frequencyRating": 4
+    },
+    {
+      "id": "g7_c3_q30",
+      "text": "Government departments are headed by ________.",
+      "options": ["MLAs only", "Ministers", "Judges", "Journalists"],
+      "correctIndex": 1,
+      "explanation": "A minister is politically responsible for the performance of their assigned department.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q31",
+      "text": "The ________ is the highest law-making body in a state.",
+      "options": ["High Court", "Legislative Assembly", "Collector's office", "Panchayat"],
+      "correctIndex": 1,
+      "explanation": "All legislative powers of the state are vested in this assembly.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q32",
+      "text": "If an MLA is also a minister, they have ________.",
+      "options": ["No work", "Dual responsibilities (MLA and Department head)", "Only to stay at home", "To leave their constituency"],
+      "correctIndex": 1,
+      "explanation": "They must manage their department's work while also looking after their constituency.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c3_q33",
+      "text": "Opposition members usually ________ the government's policies.",
+      "options": ["Praise", "Criticize and provide feedback", "Ignore", "Delete"],
+      "correctIndex": 1,
+      "explanation": "Critical evaluation by the opposition is essential for a healthy democracy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q34",
+      "text": "Press conferences provide a platform for the ________ to ask questions.",
+      "options": ["Students", "Media/Journalists", "Scientists", "Farmers"],
+      "correctIndex": 1,
+      "explanation": "Journalists relay information and concerns from the public to the government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q35",
+      "text": "The government is answerable to the ________.",
+      "options": ["Only the Governor", "Legislative Assembly and the People", "Only to the Ruling party", "Foreign powers"],
+      "correctIndex": 1,
+      "explanation": "Popular sovereignty is the basis of democracy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q36",
+      "text": "Which of these is NOT a function of the MLA?",
+      "options": ["Making laws for the state", "Discussing issues in the assembly", "Arresting criminals", "Representing their constituency"],
+      "correctIndex": 2,
+      "explanation": "Arresting criminals is the job of the police/executive branch, not the legislature.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q37",
+      "text": "Decisions in the assembly are taken through ________.",
+      "options": ["Fights", "Discussion and voting", "Orders of the CM only", "Coin toss"],
+      "correctIndex": 1,
+      "explanation": "Democratic decisions are based on collective deliberation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q38",
+      "text": "Sanitation refers to ________.",
+      "options": ["Building houses", "Public cleanliness and hygiene", "Making cars", "Planting trees"],
+      "correctIndex": 1,
+      "explanation": "Sanitation is vital for preventing diseases like cholera.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q39",
+      "text": "The state government works at the ________ level.",
+      "options": ["Local (Village)", "State", "National", "International"],
+      "correctIndex": 1,
+      "explanation": "India has a federal structure with governments at the central, state, and local levels.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c3_q40",
+      "text": "Media plays a crucial role in ________ people about government actions.",
+      "options": ["Confusing", "Informing", "Boring", "Tricking"],
+      "correctIndex": 1,
+      "explanation": "Media is often called the 'fourth pillar' of democracy.",
+      "frequencyRating": 5
     }
   ]
 }

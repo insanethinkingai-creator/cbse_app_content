@@ -7,83 +7,323 @@
   "version": "v1",
   "questions": [
     {
-      "id": "g7_civ_ch2_q1",
-      "text": "In a democracy, what do people expect the government to work for?",
-      "options": ["Their welfare", "Their entertainment", "Only infrastructure", "Foreign travel"],
-      "correctIndex": 0,
-      "explanation": "People expect the government to provide education, health, employment, and housing.",
-      "frequencyRating": 4
+      "id": "g7_c2_q1",
+      "text": "Health refers to our ability to remain free from:",
+      "options": ["Work", "Illness and injuries", "Taxes", "School"],
+      "correctIndex": 1,
+      "explanation": "Health is not just about diseases; it also involves mental well-being and a clean environment.",
+      "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch2_q2",
-      "text": "Health means our ability to remain free of:",
-      "options": ["Work", "Taxes", "Illness and injuries", "School"],
+      "id": "g7_c2_q2",
+      "text": "Apart from disease, which of the following is an important factor for health?",
+      "options": ["Clean drinking water", "Pollution-free environment", "Nutritious food", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "If people live in unhygienic conditions or don't get enough food, they are more likely to fall ill.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c2_q3",
+      "text": "India has the largest number of ________ in the world.",
+      "options": ["Hospitals", "Medical colleges", "Patients", "Nurses"],
+      "correctIndex": 1,
+      "explanation": "India produces a high number of doctors every year, yet healthcare access remains a challenge for many.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c2_q4",
+      "text": "What is the primary reason why many people in India do not receive proper healthcare?",
+      "options": ["Lack of doctors", "Inadequate public health facilities", "High cost of private care", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "Public hospitals are overcrowded, and private hospitals are too expensive for the poor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c2_q5",
+      "text": "Public health services are a chain of health centres and hospitals run by the:",
+      "options": ["Private companies", "Individuals", "Government", "NGOs"],
       "correctIndex": 2,
-      "explanation": "Health is not just about diseases; it also includes mental well-being and a clean environment.",
+      "explanation": "These services are funded by the taxes we pay to the government.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch2_q3",
-      "text": "Which of the following is a public health service?",
-      "options": ["Private clinics", "Health centers run by the government", "Large private hospitals", "Pharmacies in malls"],
+      "id": "g7_c2_q6",
+      "text": "At the village level, health services are usually provided by a:",
+      "options": ["Super-specialty hospital", "Health worker and a nurse", "Pharmacist only", "Private clinic"],
       "correctIndex": 1,
-      "explanation": "Public health services are a chain of health centres and hospitals run by the government for all citizens.",
+      "explanation": "They are trained to deal with common illnesses and work under the supervision of doctors at Primary Health Centres (PHC).",
       "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch2_q4",
-      "text": "What is the primary reason why many people in India do not get proper healthcare?",
-      "options": ["Lack of doctors", "Expensive private services", "Both 1 and 2", "Lack of interest"],
+      "id": "g7_c2_q7",
+      "text": "PHC stands for:",
+      "options": ["Private Health Centre", "Primary Health Centre", "Public Health Clinic", "Personal Health Care"],
+      "correctIndex": 1,
+      "explanation": "PHCs cover several villages in a rural area and are the first point of contact for public healthcare.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c2_q8",
+      "text": "Why are public health services called 'public'?",
+      "options": ["They are for all citizens", "They use public money (taxes)", "They are located in public places", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "The government is committed to providing healthcare to all citizens using the resources contributed by the people.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c2_q9",
+      "text": "Which of the following is a key feature of private health facilities?",
+      "options": ["They are free of cost", "They are owned and managed by private individuals/companies", "They are funded by taxes", "They have long queues like public hospitals"],
+      "correctIndex": 1,
+      "explanation": "Private facilities are often expensive and motivated by profit.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c2_q10",
+      "text": "In private hospitals, patients have to pay ________ for every service.",
+      "options": ["Nothing", "A lot of money", "A small fee", "Wait for years"],
+      "correctIndex": 1,
+      "explanation": "Private healthcare is often unaffordable for a large section of the population.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c2_q11",
+      "text": "According to our Constitution, it is the primary duty of the government to ensure the ________ of the people.",
+      "options": ["Wealth", "Welfare", "Entertainment", "Traveling"],
+      "correctIndex": 1,
+      "explanation": "Providing healthcare is an essential part of the government's responsibility towards its citizens.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c2_q12",
+      "text": "The Right to ________ is a part of the Right to Life guaranteed by the Constitution.",
+      "options": ["Education", "Property", "Health", "Leisure"],
       "correctIndex": 2,
-      "explanation": "High costs of private care and the concentration of doctors in urban areas create access barriers.",
+      "explanation": "If the government cannot provide timely medical treatment, it means the protection of life is not being ensured.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch2_q5",
-      "text": "The public health system is 'public' because:",
-      "options": ["It is free for everyone", "It is meant for all citizens and funded by taxes", "It is located in public parks", "Anyone can work there"],
-      "correctIndex": 1,
-      "explanation": "It is established by the government for the welfare of all citizens using public tax money.",
+      "id": "g7_c2_q13",
+      "text": "Ranjan, a boy from a well-to-do family, went to a ________ hospital for treatment.",
+      "options": ["Government", "Primary", "Private", "Charity"],
+      "correctIndex": 2,
+      "explanation": "In the story, he received quick and clean service but had to pay a high fee.",
       "frequencyRating": 4
     },
     {
-      "id": "g7_civ_ch2_q6",
-      "text": "Which country is considered one of the healthiest in Central America?",
-      "options": ["Mexico", "Costa Rica", "Panama", "Brazil"],
-      "correctIndex": 1,
-      "explanation": "Costa Rica decided not to have an army and spent that money on health and education instead.",
+      "id": "g7_c2_q14",
+      "text": "Aman, who came from a poor background, had to wait in long queues at the ________ hospital.",
+      "options": ["Private", "Corporate", "Government", "Foreign"],
+      "correctIndex": 2,
+      "explanation": "The story highlights the contrast between public and private healthcare experiences.",
       "frequencyRating": 4
     },
     {
-      "id": "g7_civ_ch2_q7",
-      "text": "Diseases that spread from one person to another through water, food, or air are:",
-      "options": ["Communicable diseases", "Genetic diseases", "Non-communicable diseases", "Chronic diseases"],
+      "id": "g7_c2_q15",
+      "text": "In India, about ________ per cent of the population can afford the medicines required during an illness.",
+      "options": ["20", "50", "80", "100"],
       "correctIndex": 0,
-      "explanation": "Examples include diarrhea, worms, hepatitis, etc.",
+      "explanation": "This shows that for the majority of Indians, even basic medical costs are a burden.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch2_q8",
-      "text": "Private health facilities are generally concentrated in:",
-      "options": ["Rural areas", "Urban areas (cities)", "Forests", "Hilly regions"],
+      "id": "g7_c2_q16",
+      "text": "For the poor, every illness in the family is a cause of great:",
+      "options": ["Joy", "Anxiety and distress", "Excitement", "Learning"],
       "correctIndex": 1,
-      "explanation": "Private services are profit-driven and are mostly found in large cities.",
+      "explanation": "Illness leads to loss of wages and high medical expenses, pushing them deeper into poverty.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c2_q17",
+      "text": "Women in many parts of India are ________ to see a doctor compared to men.",
+      "options": ["Encouraged", "Not taken promptly", "Given priority", "Paid"],
+      "correctIndex": 1,
+      "explanation": "Gender inequality often results in women's health being considered less important than men's.",
       "frequencyRating": 4
     },
     {
-      "id": "g7_civ_ch2_q9",
-      "text": "What does PHC stand for in the Indian health system?",
-      "options": ["Public Health Center", "Primary Health Centre", "Private Health Club", "People Health Care"],
+      "id": "g7_c2_q18",
+      "text": "In 1996, which Indian state made a major change by giving 40% of its budget to Panchayats?",
+      "options": ["Tamil Nadu", "Kerala", "Punjab", "West Bengal"],
       "correctIndex": 1,
-      "explanation": "Primary Health Centres serve groups of villages in rural areas.",
+      "explanation": "This allowed village councils to plan and provide for water, food, and education, improving health.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c2_q19",
+      "text": "Which country is considered to be one of the healthiest in Central America?",
+      "options": ["Mexico", "Costa Rica", "Panama", "Cuba"],
+      "correctIndex": 1,
+      "explanation": "Costa Rica decided not to have an army and used the money for healthcare, education, and basic needs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c2_q20",
+      "text": "Costa Rica believes that a country has to be ________ for its development.",
+      "options": ["Strong and military-rich", "Healthy", "Large", "Isolated"],
+      "correctIndex": 1,
+      "explanation": "A healthy population is essential for a nation's growth and progress.",
       "frequencyRating": 4
     },
     {
-      "id": "g7_civ_ch2_q10",
-      "text": "According to our Constitution, it is the primary duty of the government to ensure the welfare of the people and provide:",
-      "options": ["Luxury cars", "Health care facilities", "Free cinema tickets", "Large playgrounds"],
+      "id": "g7_c2_q21",
+      "text": "Medical tourism in India is growing because:",
+      "options": ["Doctors are bad", "Treatment is very expensive", "Hospitals provide world-class facilities at lower costs", "People like traveling"],
+      "correctIndex": 2,
+      "explanation": "People from other countries come to India for surgeries and treatments that are cheaper than in their home countries.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c2_q22",
+      "text": "A 'Communicable Disease' is one that is:",
+      "options": ["Genetic", "Spread through water, food, air, or contact", "Not dangerous", "Only for children"],
       "correctIndex": 1,
-      "explanation": "The right to life is a fundamental right, and health is essential to protect it.",
+      "explanation": "Examples include diarrhea, worms, and hepatitis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c2_q23",
+      "text": "Public health services also work to prevent the spread of diseases like:",
+      "options": ["TB and Malaria", "Jaundice and Cholera", "Chikungunya", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Government organizes campaigns for vaccination and mosquito control.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c2_q24",
+      "text": "The government uses ________ to provide various public services for the benefit of all.",
+      "options": ["Donations", "Taxes", "Loans", "Lottery"],
+      "correctIndex": 1,
+      "explanation": "Taxes fund the defense, police, judicial system, and healthcare.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c2_q25",
+      "text": "Which of these is NOT a private health facility?",
+      "options": ["Registered Medical Practitioners (RMP)", "Nursing homes", "Primary Health Centres (PHC)", "Laboratories for X-rays"],
+      "correctIndex": 2,
+      "explanation": "PHCs are run by the government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c2_q26",
+      "text": "In many private hospitals, doctors may prescribe ________ medicines just for profit.",
+      "options": ["Cheap", "Unnecessary and expensive", "Ayurvedic", "Expired"],
+      "correctIndex": 1,
+      "explanation": "Ethical concerns often arise in private healthcare due to the profit motive.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c2_q27",
+      "text": "Poor people are often ________ before they even fall ill.",
+      "options": ["Healthy", "Undernourished", "Overweight", "Rich"],
+      "correctIndex": 1,
+      "explanation": "Lack of adequate food makes them vulnerable to diseases.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c2_q28",
+      "text": "To improve health, it is necessary to work on ________ as well as ________.",
+      "options": ["Money, Jobs", "Basic amenities, Healthcare services", "Clothing, Housing", "Education, Sports"],
+      "correctIndex": 1,
+      "explanation": "Good health requires both medical facilities and a clean, safe environment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c2_q29",
+      "text": "RMP stands for:",
+      "options": ["Rural Medical Practitioner", "Registered Medical Practitioner", "Royal Medical Physician", "Regular Medicine Provider"],
+      "correctIndex": 1,
+      "explanation": "They are private doctors practicing in rural areas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c2_q30",
+      "text": "Public hospitals have the responsibility to provide ________ to everyone in an emergency.",
+      "options": ["Money", "Free treatment", "Transport only", "Food only"],
+      "correctIndex": 1,
+      "explanation": "Emergency care is a vital function of the public healthcare system.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c2_q31",
+      "text": "What does a government hospital require for people to stand in?",
+      "options": ["Cars", "Waiting halls", "Long queues", "Stages"],
+      "correctIndex": 2,
+      "explanation": "Due to high demand and limited staff, queues are common in government hospitals.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c2_q32",
+      "text": "Health is about more than just ________.",
+      "options": ["Wealth", "Hospitals", "Diseases", "Medicine"],
+      "correctIndex": 2,
+      "explanation": "It's a state of complete physical, mental, and social well-being.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c2_q33",
+      "text": "Many tribal areas have ________ health centres and they don't run properly.",
+      "options": ["Many", "Few", "Excellent", "Too many"],
+      "correctIndex": 1,
+      "explanation": "Geographical and social barriers often limit healthcare in tribal regions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c2_q34",
+      "text": "Which of these is a mental aspect of health?",
+      "options": ["Being active", "Being free from stress and dullness", "Lifting weights", "Running fast"],
+      "correctIndex": 1,
+      "explanation": "A healthy mind is as important as a healthy body.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c2_q35",
+      "text": "Public health services also provide vaccines for children for ________.",
+      "options": ["Free or at very low cost", "High prices", "Gift cards", "Only to rich children"],
+      "correctIndex": 0,
+      "explanation": "Immunization is a key public health initiative of the government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c2_q36",
+      "text": "Private services are ________ and concentrated in urban areas.",
+      "options": ["Cheap", "Expanding rapidly", "Closing down", "Only for old people"],
+      "correctIndex": 1,
+      "explanation": "Private players find it more profitable to set up in cities.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c2_q37",
+      "text": "The cost of treatment in a private hospital is ________.",
+      "options": ["Very low", "Moderate", "High", "Zero"],
+      "correctIndex": 2,
+      "explanation": "Patients often have to take loans to pay for private medical care.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c2_q38",
+      "text": "Safe drinking water is essential to prevent ________ diseases.",
+      "options": ["Bone", "Water-borne", "Eye", "Hair"],
+      "correctIndex": 1,
+      "explanation": "Cholera and Typhoid are examples of diseases spread through contaminated water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c2_q39",
+      "text": "The Kerala experience shows that ________ of funds can improve health.",
+      "options": ["Centralization", "Decentralization", "Saving", "Ignoring"],
+      "correctIndex": 1,
+      "explanation": "Giving power and money to local Panchayats helps address ground-level needs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c2_q40",
+      "text": "Overall, healthcare in India is ________.",
+      "options": ["Perfect", "Equal for all", "Inadequate and unequal", "The best in the world"],
+      "correctIndex": 2,
+      "explanation": "While medical technology is advancing, access for the common man remains a major issue.",
       "frequencyRating": 5
     }
   ]
