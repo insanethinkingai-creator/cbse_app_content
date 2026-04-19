@@ -1,0 +1,330 @@
+{
+  "id": "g8_eng_ch8",
+  "grade": "8",
+  "subject": "English",
+  "number": "8",
+  "title": "A Short Monsoon Diary",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_e8_q1",
+      "text": "Who is the author of 'A Short Monsoon Diary'?",
+      "options": ["Ruskin Bond", "Satyajit Ray", "Michael Morpurgo", "Vikram Seth"],
+      "correctIndex": 0,
+      "explanation": "The chapter consists of diary extracts from the famous Indian author Ruskin Bond.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e8_q2",
+      "text": "Where are the diary entries set?",
+      "options": ["Shimla", "Mussoorie", "Dehradun", "Nainital"],
+      "correctIndex": 1,
+      "explanation": "Bond lives in Mussoorie, and the entries describe the monsoon there.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e8_q3",
+      "text": "On which date does the diary begin?",
+      "options": ["June 24", "July 1", "August 15", "June 1"],
+      "correctIndex": 0,
+      "explanation": "The first entry is dated June 24, marking the first day of monsoon mist.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e8_q4",
+      "text": "What is the first sign of the monsoon mentioned by the author?",
+      "options": ["Heavy thunder", "Mist climbing the hills", "Snowfall", "Dry wind"],
+      "correctIndex": 1,
+      "explanation": "The mist is the characteristic sign that the monsoon has arrived.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e8_q5",
+      "text": "How does the mist affect the environment?",
+      "options": ["It makes it noisy", "It conceals the hills and brings a strange silence", "It makes it very hot", "It dries the plants"],
+      "correctIndex": 1,
+      "explanation": "The mist 'blankets' the hills and silences the birds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e8_q6",
+      "text": "Who was Biju in the first entry?",
+      "options": ["A forest guard", "The author's servant", "A boy calling to his sister", "A doctor"],
+      "correctIndex": 2,
+      "explanation": "The author can hear Biju calling but cannot see him through the mist.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e8_q7",
+      "text": "What happens on June 25 according to the diary?",
+      "options": ["The mist disappears", "Genuine monsoon rain begins - warm and humid", "It starts snowing", "The author leaves Mussoorie"],
+      "correctIndex": 1,
+      "explanation": "The weather changes from cool to typically humid monsoon rain.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e8_q8",
+      "text": "Which flower 'rears its head' from the ferns in late June?",
+      "options": ["Rose", "Cobra Lily", "Lotus", "Sunflower"],
+      "correctIndex": 1,
+      "explanation": "The Cobra Lily is one of the first monsoon flowers mentioned.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e8_q9",
+      "text": "What animal 'liftoff' a dog from near the servants' quarters on June 27?",
+      "options": ["A bear", "A tiger", "A leopard", "A wolf"],
+      "correctIndex": 2,
+      "explanation": "The leopard is a common predator in the hills during the rains.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e8_q10",
+      "text": "Which birds are described as 'brightly colored' and like 'cuckoos'?",
+      "options": ["Parrots", "Minivets", "Sparrows", "Eagles"],
+      "correctIndex": 1,
+      "explanation": "Minivets are bright red or yellow birds that flit through the trees.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e8_q11",
+      "text": "What does the 'Drongo' bird do?",
+      "options": ["It sings at night", "It aggressively chases away the minivets", "It builds nests on the ground", "It eats Cobra Lilies"],
+      "correctIndex": 1,
+      "explanation": "The Drongo is described as 'unnecessarily aggressive'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e8_q12",
+      "text": "What insects or small creatures arrive with the rain and become a nuisance?",
+      "options": ["Bees", "Leeches", "Ants", "Butterflies"],
+      "correctIndex": 1,
+      "explanation": "Leeches are very common in the damp forests of the Himalayas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e8_q13",
+      "text": "By August 2, what is the author's feeling about the rain?",
+      "options": ["He is happy", "He finds the steady drumming on the roof comforting", "He is scared", "He is bored"],
+      "correctIndex": 1,
+      "explanation": "Bond describes the sound of rain on a tin roof as a pleasant experience.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e8_q14",
+      "text": "What happens to the garden by August 3?",
+      "options": ["It dries up", "The rain stops", "It becomes lush and green", "The flowers die"],
+      "correctIndex": 2,
+      "explanation": "The monsoon brings rapid growth to the vegetation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e8_q15",
+      "text": "What does the author say about the 'ground orchids' in August?",
+      "options": ["They turn blue", "They start to flower", "They are eaten by leopards", "They disappear"],
+      "correctIndex": 1,
+      "explanation": "August is the peak time for many hill flowers to bloom.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e8_q16",
+      "text": "By August 31, what change is noticed in the Cobra Lily?",
+      "options": ["It grows taller", "Its seeds are turning red", "It withers away", "It turns white"],
+      "correctIndex": 1,
+      "explanation": "Red seeds signify that the monsoon is coming to an end.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e8_q17",
+      "text": "When the monsoon ends, what replaces the lush green hills in late September?",
+      "options": ["Snow", "Yellowing ferns", "Bare rocks", "Desert sand"],
+      "correctIndex": 1,
+      "explanation": "The ferns start to turn yellow as the dry season approaches.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e8_q18",
+      "text": "October 3 entry mentions that the 'winter rain' has begun. How is it different?",
+      "options": ["It is warmer", "It is accompanied by snow at higher altitudes", "It is much heavier", "It lasts all day"],
+      "correctIndex": 1,
+      "explanation": "Winter rain marks the transition to the cold season.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e8_q19",
+      "text": "What bird is mentioned in the January 26 entry?",
+      "options": ["Minivet", "Drongo", "Crows", "No birds are mentioned"],
+      "correctIndex": 2,
+      "explanation": "In winter, only the silent crows are mentioned in the lonely house.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e8_q20",
+      "text": "What is the final entry date in the diary?",
+      "options": ["Dec 31", "Jan 26", "March 23", "Feb 10"],
+      "correctIndex": 2,
+      "explanation": "The diary ends with the arrival of spring in late March.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e8_q21",
+      "text": "The author describes the monsoon as a 'lush' time. What does 'lush' mean?",
+      "options": ["Dry", "Growing thickly and strongly", "Cold", "Silent"],
+      "correctIndex": 1,
+      "explanation": "Lush refers to the abundant green vegetation caused by the rain.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e8_q22",
+      "text": "What animal does the author mention as having 'stolen' into the house?",
+      "options": ["A mouse", "A leopard", "A snake", "A shrew"],
+      "correctIndex": 3,
+      "explanation": "A 'Chuchundar' (shrew) is mentioned as a sign of luck in the house.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e8_q23",
+      "text": "Why do the children not kill the shrew (Chuchundar)?",
+      "options": ["They are afraid of it", "The grandmother says it brings money", "It is a pet", "It is too fast"],
+      "correctIndex": 1,
+      "explanation": "Traditional belief says shrews are lucky and bring wealth.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e8_q24",
+      "text": "The phrase 'melancholy' is used to describe the mist. What does it mean?",
+      "options": ["Happy", "Sad/Gloomy", "Bright", "Fast"],
+      "correctIndex": 1,
+      "explanation": "The mist creates a somber and lonely atmosphere.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e8_q25",
+      "text": "Where does the author sit during the heavy rain on August 2?",
+      "options": ["In the garden", "By the window inside the house", "On the roof", "In a cave"],
+      "correctIndex": 1,
+      "explanation": "He observes the rain from the safety and dryness of his room.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e8_q26",
+      "text": "The monsoon in Mussoorie usually lasts for about ________ months.",
+      "options": ["One", "Two to three", "Six", "Twelve"],
+      "correctIndex": 1,
+      "explanation": "It starts in late June and ends in late August or September.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e8_q27",
+      "text": "What is the author's primary focus in this diary?",
+      "options": ["Political events", "The beauty and details of nature during the seasons", "History of Mussoorie", "Cooking recipes"],
+      "correctIndex": 1,
+      "explanation": "Bond is famous for his nature writing and observations of the hills.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e8_q28",
+      "text": "The 'tin roof' is mentioned because it makes a ________ sound.",
+      "options": ["Musical", "Drumming/Rattling", "Silent", "Whistling"],
+      "correctIndex": 1,
+      "explanation": "The rain hitting the tin roof is a distinct auditory memory of the monsoon.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e8_q29",
+      "text": "When the author says 'The hills were suddenly silent', he means:",
+      "options": ["The birds stopped singing because of the mist", "People went to sleep", "There was no wind", "The cars stopped"],
+      "correctIndex": 0,
+      "explanation": "The mist has a dampening effect on the sounds of nature.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e8_q30",
+      "text": "What is a 'shrew' often called in Hindi in the chapter?",
+      "options": ["Chuha", "Chuchundar", "Billi", "Kutta"],
+      "correctIndex": 1,
+      "explanation": "The author uses the local name for the small mammal.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e8_q31",
+      "text": "In the January entry, the author feels ________.",
+      "options": ["Excited", "Very lonely", "Hot", "Angry"],
+      "correctIndex": 1,
+      "explanation": "He describes the silence of the winter house and his isolation.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e8_q32",
+      "text": "The phrase 'a paradise that might have been' refers to:",
+      "options": ["A dream", "A schoolboy's description of the valley", "A book", "The author's house"],
+      "correctIndex": 1,
+      "explanation": "A schoolboy used these words to describe the beauty of the Mussoorie hills.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e8_q33",
+      "text": "What happens in late March?",
+      "options": ["Monsoon starts", "Winter ends and hailstorms occur", "Everything turns brown", "The author leaves"],
+      "correctIndex": 1,
+      "explanation": "The end of March marks the transition from winter to spring.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e8_q34",
+      "text": "The diary entries cover a period of almost ________.",
+      "options": ["One month", "One year", "Ten years", "A week"],
+      "correctIndex": 1,
+      "explanation": "The entries go from June to the following March.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e8_q35",
+      "text": "How many minivets were mentioned in the tree?",
+      "options": ["One", "Dozens", "None", "Two"],
+      "correctIndex": 1,
+      "explanation": "The author describes them as flitting silently through the leaves like brilliant jewels.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e8_q36",
+      "text": "What does the author do when he can't go out in the rain?",
+      "options": ["He sleeps all day", "He paces the room and looks out the window", "He cooks", "He fixes the roof"],
+      "correctIndex": 1,
+      "explanation": "He describes the 'confinement' of the house during heavy rain.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e8_q37",
+      "text": "The Cobra Lily's seeds turning red is a sign of:",
+      "options": ["The beginning of rain", "The end of the monsoon", "Spring", "Winter"],
+      "correctIndex": 1,
+      "explanation": "It's a biological clock for the season's end.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e8_q38",
+      "text": "Bond's writing style is usually:",
+      "options": ["Simple and evocative", "Complex and difficult", "Scientific", "Aggressive"],
+      "correctIndex": 0,
+      "explanation": "He is known for his clear, beautiful descriptions of nature.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e8_q39",
+      "text": "Which of these is NOT a monsoon flower mentioned?",
+      "options": ["Wild Balsam", "Dahlias", "Marigold", "Cobra Lily"],
+      "correctIndex": 2,
+      "explanation": "Balsam, Dahlias, and Cobra Lilies are mentioned, but Marigold is not in this specific text.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g8_e8_q40",
+      "text": "The main mood of the 'Monsoon Diary' is:",
+      "options": ["Anxious", "Peaceful and observant", "Terrifying", "Loud"],
+      "correctIndex": 1,
+      "explanation": "The diary reflects the author's quiet connection with his surroundings.",
+      "frequencyRating": 5
+    }
+  ]
+}

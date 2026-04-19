@@ -8,323 +8,323 @@
   "questions": [
     {
       "id": "g7_m8_q1",
-      "text": "A number that can be expressed in form p/q where p, q are integers and q ≠ 0 is:",
-      "options": ["Whole Number", "Natural Number", "Rational Number", "Irrational Number"],
+      "text": "A number that can be expressed in the form p/q, where p and q are integers and q ≠ 0, is called a:",
+      "options": ["Natural number", "Whole number", "Rational number", "Irrational number"],
       "correctIndex": 2,
-      "explanation": "Standard definition of a rational number.",
+      "explanation": "This is the formal definition of a rational number.",
       "frequencyRating": 5
     },
     {
       "id": "g7_m8_q2",
-      "text": "In p/q, 'p' is called numerator and 'q' is called:",
-      "options": ["Integer", "Divisor", "Denominator", "Quotient"],
+      "text": "In the rational number p/q, 'q' cannot be:",
+      "options": ["1", "-1", "0", "Positive"],
       "correctIndex": 2,
-      "explanation": "Terms used for top and bottom of a fraction/rational number.",
+      "explanation": "Division by zero is undefined in mathematics.",
       "frequencyRating": 5
     },
     {
       "id": "g7_m8_q3",
-      "text": "Which of the following is NOT a rational number?",
-      "options": ["0", "-5", "3/0", "1/2"],
+      "text": "Which of the following is a positive rational number?",
+      "options": ["-2/3", "2/-3", "-5/-7", "0/-5"],
       "correctIndex": 2,
-      "explanation": "Denominator cannot be zero.",
+      "explanation": "If both numerator and denominator have the same sign, the number is positive.",
       "frequencyRating": 5
     },
     {
       "id": "g7_m8_q4",
-      "text": "If numerator is positive and denominator is negative, the rational number is:",
-      "options": ["Positive", "Negative", "Zero", "Not rational"],
-      "correctIndex": 1,
-      "explanation": "(+) / (-) = (-).",
+      "text": "The number '0' is:",
+      "options": ["Positive rational", "Negative rational", "Neither positive nor negative rational", "Not a rational number"],
+      "correctIndex": 2,
+      "explanation": "Zero is rational (0/1) but carries no sign.",
       "frequencyRating": 5
     },
     {
       "id": "g7_m8_q5",
-      "text": "Which of the following is a positive rational number?",
-      "options": ["-3/4", "3/-4", "-3/-4", "0/-3"],
+      "text": "Rational numbers with different numerators and denominators that represent the same value are:",
+      "options": ["Reciprocals", "Additive inverses", "Equivalent rational numbers", "Integers"],
       "correctIndex": 2,
-      "explanation": "Both negative signs cancel out: -3/-4 = 3/4.",
+      "explanation": "For example, 1/2 and 2/4 are equivalent.",
       "frequencyRating": 5
     },
     {
       "id": "g7_m8_q6",
-      "text": "Equivalent rational numbers are obtained by ______ numerator and denominator by same non-zero integer.",
-      "options": ["Adding", "Subtracting", "Multiplying or Dividing", "Squaring"],
-      "correctIndex": 2,
-      "explanation": "Ratio remains the same.",
+      "text": "A rational number is in standard form if its denominator is positive and the HCF of p and q is:",
+      "options": ["0", "1", "p", "q"],
+      "correctIndex": 1,
+      "explanation": "Standard form means the fraction is in its simplest form.",
       "frequencyRating": 5
     },
     {
       "id": "g7_m8_q7",
-      "text": "A rational number is in standard form if p and q have no common factors other than:",
-      "options": ["0", "1", "Themselves", "p"],
-      "correctIndex": 1,
-      "explanation": "Also, the denominator 'q' should be positive in standard form.",
+      "text": "The standard form of -12/18 is:",
+      "options": ["-6/9", "2/-3", "-2/3", "-12/18"],
+      "correctIndex": 2,
+      "explanation": "Divide both by 6: -12/6 = -2, 18/6 = 3.",
       "frequencyRating": 5
     },
     {
       "id": "g7_m8_q8",
-      "text": "Standard form of -12/18 is:",
-      "options": ["-6/9", "6/-9", "-2/3", "2/-3"],
-      "correctIndex": 2,
-      "explanation": "Divide by HCF (6): -12/6 = -2, 18/6 = 3.",
+      "text": "How many rational numbers are there between two given rational numbers?",
+      "options": ["One", "Ten", "Hundred", "Countless"],
+      "correctIndex": 3,
+      "explanation": "There are infinitely many rational numbers between any two rational numbers.",
       "frequencyRating": 5
     },
     {
       "id": "g7_m8_q9",
-      "text": "How many rational numbers are there between two given rational numbers?",
-      "options": ["One", "Ten", "Finite", "Infinite"],
-      "correctIndex": 3,
-      "explanation": "There are unlimited rational numbers between any two points on a number line.",
+      "text": "To add rational numbers with the same denominator, we:",
+      "options": ["Add denominators", "Add numerators and keep denominator same", "Multiply them", "Take LCM"],
+      "correctIndex": 1,
+      "explanation": "p/q + r/q = (p+r)/q.",
       "frequencyRating": 5
     },
     {
       "id": "g7_m8_q10",
-      "text": "To add rational numbers with different denominators, we first find the ______ of denominators.",
-      "options": ["Sum", "Product", "LCM", "HCF"],
-      "correctIndex": 2,
-      "explanation": "LCM helps create like denominators for addition/subtraction.",
+      "text": "The sum of a rational number and its additive inverse is:",
+      "options": ["1", "0", "-1", "Itself"],
+      "correctIndex": 1,
+      "explanation": "a/b + (-a/b) = 0.",
       "frequencyRating": 5
     },
     {
       "id": "g7_m8_q11",
-      "text": "Additive inverse of -4/7 is:",
-      "options": ["-7/4", "4/7", "1", "0"],
+      "text": "The product of a rational number and its reciprocal is:",
+      "options": ["0", "1", "-1", "2"],
       "correctIndex": 1,
-      "explanation": "Sign is reversed: -(-4/7) = 4/7.",
+      "explanation": "a/b * b/a = 1. The reciprocal is also called the multiplicative inverse.",
       "frequencyRating": 5
     },
     {
       "id": "g7_m8_q12",
-      "text": "The sum of a rational number and its additive inverse is:",
-      "options": ["1", "-1", "0", "Itself"],
-      "correctIndex": 2,
-      "explanation": "p/q + (-p/q) = 0.",
+      "text": "Find the sum: 5/4 + (-11/4)",
+      "options": ["16/4", "-6/4", "6/4", "-1.5"],
+      "correctIndex": 1,
+      "explanation": "(5 - 11) / 4 = -6/4 or -3/2.",
       "frequencyRating": 5
     },
     {
       "id": "g7_m8_q13",
-      "text": "Multiply: (-3/5) * 7",
-      "options": ["-21/35", "-21/5", "4/5", "-3/35"],
+      "text": "Which is greater? -3/4 or -1/4?",
+      "options": ["-3/4", "-1/4", "Both are equal", "Cannot be determined"],
       "correctIndex": 1,
-      "explanation": "Multiply numerator by the integer.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g7_m8_q14",
-      "text": "Reciprocal of -5/9 is:",
-      "options": ["5/9", "9/5", "-9/5", "1"],
-      "correctIndex": 2,
-      "explanation": "Flip the fraction, sign stays same.",
+      "explanation": "On the number line, -1/4 is to the right of -3/4.",
       "frequencyRating": 5
     },
     {
+      "id": "g7_m8_q14",
+      "text": "Rational number -5/-2 lies to the ________ of zero on the number line.",
+      "options": ["Left", "Right", "Above", "Below"],
+      "correctIndex": 1,
+      "explanation": "-5/-2 = 5/2, which is a positive number.",
+      "frequencyRating": 4
+    },
+    {
       "id": "g7_m8_q15",
-      "text": "Division is the same as multiplication by the ______ of the divisor.",
-      "options": ["Inverse", "Reciprocal", "Square", "Opposite"],
+      "text": "The reciprocal of -5 is:",
+      "options": ["5", "1/5", "-1/5", "0.5"],
+      "correctIndex": 2,
+      "explanation": "-5 can be written as -5/1. Its reciprocal is 1/-5 or -1/5.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m8_q16",
+      "text": "Value of (-3/5) * 7 is:",
+      "options": ["-21/5", "-3/35", "21/5", "10/5"],
+      "correctIndex": 0,
+      "explanation": "Multiply numerator with integer: -3 * 7 = -21.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_m8_q17",
+      "text": "Every integer is also a rational number.",
+      "options": ["True", "False", "Only positive integers", "Only zero"],
+      "correctIndex": 0,
+      "explanation": "Any integer 'n' can be written as n/1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m8_q18",
+      "text": "The product of 2/3 and 0 is:",
+      "options": ["2/3", "3/2", "0", "1"],
+      "correctIndex": 2,
+      "explanation": "Any number multiplied by zero is zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_m8_q19",
+      "text": "To divide one rational number by another, we multiply the first by the ________ of the second.",
+      "options": ["Additive inverse", "Reciprocal", "Square", "Denominator"],
       "correctIndex": 1,
       "explanation": "a/b ÷ c/d = a/b * d/c.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_m8_q16",
-      "text": "Which is greater: -1/2 or -1/4?",
-      "options": ["-1/2", "-1/4", "Equal", "Cannot say"],
-      "correctIndex": 1,
-      "explanation": "-0.25 is to the right of -0.5 on number line.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g7_m8_q17",
-      "text": "Zero is ______ than every negative rational number.",
-      "options": ["Smaller", "Greater", "Equal", "Depends on denominator"],
-      "correctIndex": 1,
-      "explanation": "Zero is to the right of all negative numbers.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g7_m8_q18",
-      "text": "Standard form of 5/-15 is:",
-      "options": ["1/-3", "-1/3", "1/3", "-5/15"],
-      "correctIndex": 1,
-      "explanation": "Denominator must be positive in standard form.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g7_m8_q19",
-      "text": "Sum of 5/4 and (-11/4) is:",
-      "options": ["16/4", "6/4", "-6/4", "-1.5"],
-      "correctIndex": 2,
-      "explanation": "(5 - 11)/4 = -6/4.",
-      "frequencyRating": 5
-    },
-    {
       "id": "g7_m8_q20",
-      "text": "Is 5 a rational number?",
-      "options": ["Yes", "No", "Only if written 5/1", "Both A and C"],
-      "correctIndex": 3,
-      "explanation": "Every integer 'n' can be written as n/1.",
-      "frequencyRating": 5
+      "text": "Find the value of (-4) ÷ 2/3.",
+      "options": ["-8/3", "-6", "-12", "-1.5"],
+      "correctIndex": 1,
+      "explanation": "-4 * 3/2 = -12/2 = -6.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_m8_q21",
-      "text": "Multiplicative inverse of a rational number is also called its:",
-      "options": ["Opposite", "Reciprocal", "Additive identity", "Absolute value"],
-      "correctIndex": 1,
-      "explanation": "A * (1/A) = 1.",
-      "frequencyRating": 4
+      "text": "Which of the following rational numbers is in standard form?",
+      "options": ["2/4", "-3/9", "4/7", "10/-20"],
+      "correctIndex": 2,
+      "explanation": "4/7 cannot be simplified further and has a positive denominator.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m8_q22",
-      "text": "Product of (-2/3) and (-3/2) is:",
-      "options": ["1", "-1", "6/6", "Both A and C"],
-      "correctIndex": 3,
-      "explanation": "(-) * (-) = (+). 6/6 = 1.",
+      "text": "The additive inverse of -7/9 is:",
+      "options": ["7/9", "9/7", "-9/7", "1"],
+      "correctIndex": 0,
+      "explanation": "The additive inverse of a negative number is its positive counterpart.",
       "frequencyRating": 5
     },
     {
       "id": "g7_m8_q23",
-      "text": "Value of 7/24 - 17/36 is:",
-      "options": ["-10/12", "-13/72", "13/72", "1/12"],
+      "text": "What is the numerator of the rational number -5/11?",
+      "options": ["5", "-5", "11", "-11"],
       "correctIndex": 1,
-      "explanation": "LCM = 72. (21 - 34)/72 = -13/72.",
-      "frequencyRating": 3
+      "explanation": "In p/q, p is the numerator.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_m8_q24",
-      "text": "On a number line, positive rational numbers are to the ______ of zero.",
-      "options": ["Left", "Right", "Above", "Below"],
+      "text": "The value of 3/7 - 2/7 is:",
+      "options": ["5/7", "1/7", "-1/7", "1/14"],
       "correctIndex": 1,
-      "explanation": "Standard convention for number lines.",
+      "explanation": "(3 - 2) / 7 = 1/7.",
       "frequencyRating": 5
     },
     {
       "id": "g7_m8_q25",
-      "text": "Rational number equal to -3/4 with numerator 12 is:",
-      "options": ["12/16", "12/-16", "-12/16", "-3/12"],
-      "correctIndex": 1,
-      "explanation": "Multiply -3/4 by -4/-4 = 12/-16.",
+      "text": "Which rational number is its own reciprocal?",
+      "options": ["0", "1", "2", "Both 1 and -1"],
+      "correctIndex": 3,
+      "explanation": "1/1 = 1 and 1/-1 = -1.",
       "frequencyRating": 4
     },
     {
       "id": "g7_m8_q26",
-      "text": "Standard form of 36/-24 is:",
-      "options": ["3/-2", "-3/2", "9/-6", "1.5"],
-      "correctIndex": 1,
-      "explanation": "Divide by 12 and move sign to numerator.",
-      "frequencyRating": 4
+      "text": "Multiplication of 4/9 by -5/7 gives:",
+      "options": ["-20/63", "20/63", "-9/16", "1/2"],
+      "correctIndex": 0,
+      "explanation": "(4 * -5) / (9 * 7) = -20 / 63.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_m8_q27",
-      "text": "Sum of -3/11 and 5/9 is:",
-      "options": ["2/20", "28/99", "82/99", "-28/99"],
-      "correctIndex": 1,
-      "explanation": "(-27 + 55)/99 = 28/99.",
+      "text": "Rational numbers are closed under:",
+      "options": ["Addition", "Subtraction", "Multiplication", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Operating on two rational numbers using +, -, or * always results in a rational number.",
       "frequencyRating": 3
     },
     {
       "id": "g7_m8_q28",
-      "text": "Evaluate: 3/13 ÷ (-4/65)",
-      "options": ["-15/4", "15/4", "-12/65", "-1"],
+      "text": "Is 5/-3 the same as -5/3?",
+      "options": ["Yes", "No", "Only if simplified", "Cannot be determined"],
       "correctIndex": 0,
-      "explanation": "3/13 * 65/-4 = 3 * 5 / -4 = -15/4.",
+      "explanation": "The negative sign can be placed with the numerator, denominator, or the whole fraction.",
       "frequencyRating": 4
     },
     {
       "id": "g7_m8_q29",
-      "text": "Which of the following is equivalent to 2/3?",
-      "options": ["4/9", "6/9", "2/6", "4/3"],
-      "correctIndex": 1,
-      "explanation": "2/3 * 3/3 = 6/9.",
-      "frequencyRating": 5
+      "text": "Zero is the additive identity for rational numbers.",
+      "options": ["True", "False", "Only for integers", "Only for fractions"],
+      "correctIndex": 0,
+      "explanation": "Adding zero to any rational number doesn't change its value.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_m8_q30",
-      "text": "Is 0 a positive or negative rational number?",
-      "options": ["Positive", "Negative", "Both", "Neither"],
-      "correctIndex": 3,
-      "explanation": "Zero is the origin and is neutral.",
-      "frequencyRating": 5
+      "text": "One is the multiplicative identity for rational numbers.",
+      "options": ["True", "False", "Only for positive ones", "Only for integers"],
+      "correctIndex": 0,
+      "explanation": "Any rational number multiplied by 1 remains unchanged.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_m8_q31",
-      "text": "Between 1/5 and 2/5, we can find ______ rational numbers.",
-      "options": ["0", "1", "10", "Infinite"],
+      "text": "The reciprocal of 0 is:",
+      "options": ["0", "1", "-1", "Not defined"],
       "correctIndex": 3,
-      "explanation": "Density property of rational numbers.",
+      "explanation": "Reciprocal of 0 would be 1/0, which is undefined.",
       "frequencyRating": 5
     },
     {
       "id": "g7_m8_q32",
-      "text": "To divide a rational number by another, we multiply by the reciprocal. This reciprocal is also called:",
-      "options": ["Inverse", "Multiplicative Inverse", "Additive Inverse", "Both A and B"],
-      "correctIndex": 3,
-      "explanation": "Technical names for the flipped number.",
-      "frequencyRating": 2
+      "text": "Between two rational numbers 1/5 and 2/5, find a rational number.",
+      "options": ["3/10", "3/5", "0", "1/2"],
+      "correctIndex": 0,
+      "explanation": "1/5 = 2/10, 2/5 = 4/10. Between them is 3/10.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_m8_q33",
-      "text": "Every integer is a rational number.",
-      "options": ["True", "False", "Only if it is positive", "Only if it is zero"],
-      "correctIndex": 0,
-      "explanation": "Any integer 'z' can be written as z/1.",
-      "frequencyRating": 5
+      "text": "Equivalent rational number of 2/5 with numerator 6 is:",
+      "options": ["6/5", "6/10", "6/15", "6/20"],
+      "correctIndex": 2,
+      "explanation": "Multiply both by 3: 2*3 / 5*3 = 6/15.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_m8_q34",
-      "text": "Every fraction is a rational number.",
-      "options": ["True", "False", "Depends on the fraction", "Only if numerator is prime"],
+      "text": "The point representing 1/2 on a number line lies exactly between:",
+      "options": ["0 and 1", "1 and 2", "-1 and 0", "2 and 3"],
       "correctIndex": 0,
-      "explanation": "Fractions fit the definition p/q.",
+      "explanation": "1/2 is the midpoint of 0 and 1.",
       "frequencyRating": 5
     },
     {
       "id": "g7_m8_q35",
-      "text": "Standard form of -8/28 is:",
-      "options": ["-4/14", "4/-14", "-2/7", "2/-7"],
-      "correctIndex": 2,
-      "explanation": "Divide by 4.",
-      "frequencyRating": 4
+      "text": "Calculate: 7/24 - 17/36",
+      "options": ["-10/72", "-13/72", "13/72", "-10/12"],
+      "correctIndex": 1,
+      "explanation": "LCM(24,36) = 72. (21 - 34) / 72 = -13/72.",
+      "frequencyRating": 3
     },
     {
       "id": "g7_m8_q36",
-      "text": "The reciprocal of 1 is:",
-      "options": ["0", "1", "-1", "Infinite"],
+      "text": "Standard form of 35/-49 is:",
+      "options": ["5/-7", "-5/7", "35/49", "5/7"],
       "correctIndex": 1,
-      "explanation": "1/1 = 1.",
+      "explanation": "Divide by 7: 5/-7. Move sign to numerator: -5/7.",
       "frequencyRating": 4
     },
     {
       "id": "g7_m8_q37",
-      "text": "The reciprocal of -1 is:",
-      "options": ["0", "1", "-1", "Not defined"],
+      "text": "The value of -2 1/3 is:",
+      "options": ["-1/3", "-5/3", "-7/3", "-6/3"],
       "correctIndex": 2,
-      "explanation": "1/-1 = -1.",
+      "explanation": "-(2 * 3 + 1) / 3 = -7/3.",
       "frequencyRating": 4
     },
     {
       "id": "g7_m8_q38",
-      "text": "Does 0 have a reciprocal?",
-      "options": ["Yes (0)", "Yes (1)", "No", "Depends on context"],
-      "correctIndex": 2,
-      "explanation": "1/0 is undefined.",
+      "text": "Compare: 5/8 and 3/4.",
+      "options": ["5/8 > 3/4", "5/8 < 3/4", "5/8 = 3/4", "None"],
+      "correctIndex": 1,
+      "explanation": "3/4 = 6/8. Clearly 5/8 < 6/8.",
       "frequencyRating": 5
     },
     {
       "id": "g7_m8_q39",
-      "text": "Value of (-1/8) ÷ 3/4 is:",
-      "options": ["-1/6", "1/6", "-3/32", "-1/2"],
+      "text": "If x/3 = 10/15, then x is:",
+      "options": ["2", "3", "5", "10"],
       "correctIndex": 0,
-      "explanation": "-1/8 * 4/3 = -4/24 = -1/6.",
+      "explanation": "10/15 = 2/3. So x/3 = 2/3 => x = 2.",
       "frequencyRating": 4
     },
     {
       "id": "g7_m8_q40",
-      "text": "Find x if -3/5 = x/10.",
-      "options": ["6", "-6", "5", "-5"],
-      "correctIndex": 1,
-      "explanation": "-3 * 10 / 5 = -30 / 5 = -6.",
-      "frequencyRating": 5
+      "text": "Rational numbers are used to represent quantities that are:",
+      "options": ["Only whole", "Fractions of a whole", "Both positive and negative directions", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Rational numbers cover integers and fractions, extending our ability to measure and count.",
+      "frequencyRating": 4
     }
   ]
 }

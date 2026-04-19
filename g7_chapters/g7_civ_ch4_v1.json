@@ -7,84 +7,324 @@
   "version": "v1",
   "questions": [
     {
-      "id": "g7_civ_ch4_q1",
-      "text": "According to research on Samoan islands in the 1920s, children did not:",
-      "options": ["Play", "Go to school", "Help siblings", "Fish"],
+      "id": "g7_c4_q1",
+      "text": "In the 1920s, in which islands did children not go to school and instead learned household tasks?",
+      "options": ["Lakshadweep", "Samoan Islands", "Andaman Islands", "Maldives"],
       "correctIndex": 1,
-      "explanation": "In Samoa, children stayed home and learned household tasks and fishing as they grew up.",
+      "explanation": "In Samoa, children learned how to take care of siblings and do fishing from a very young age.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c4_q2",
+      "text": "At what age were Samoan boys allowed to go on fishing expeditions with older boys?",
+      "options": ["5 years", "9 years", "14 years", "18 years"],
+      "correctIndex": 1,
+      "explanation": "After age nine, boys joined older boys to learn outdoor jobs like fishing and planting coconuts.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c4_q3",
+      "text": "Societies make clear distinctions between boys and girls from a ________ age.",
+      "options": ["Very young", "Adult", "Old", "Late"],
+      "correctIndex": 0,
+      "explanation": "Distinctions are often made through the toys children are given, like dolls for girls and cars for boys.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c4_q4",
+      "text": "Which of these is a common stereotype about boys in many societies?",
+      "options": ["They should be soft", "They don't cry", "They like cooking", "They play with dolls"],
+      "correctIndex": 1,
+      "explanation": "Boys are often taught to be tough and that crying is a sign of weakness.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c4_q5",
+      "text": "In the 1960s in Madhya Pradesh, the girls' school was designed with a ________ in the middle.",
+      "options": ["Garden", "Central courtyard", "Market", "Parking lot"],
+      "correctIndex": 1,
+      "explanation": "The courtyard provided a secluded and safe place where they could play in total privacy.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c4_q6",
+      "text": "Why did girls in 1960s Madhya Pradesh walk to school in groups?",
+      "options": ["To talk loudly", "For fear of being teased or attacked", "Because they had one cycle", "To save time"],
+      "correctIndex": 1,
+      "explanation": "Walking in groups gave them a sense of security while using the public streets.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c4_q7",
+      "text": "Our society values the work done by men ________ than the work done by women.",
+      "options": ["Less", "More", "Equally", "Not at all"],
+      "correctIndex": 1,
+      "explanation": "Domestic work done by women is often seen as 'natural' and is not recognized as real work.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c4_q8",
+      "text": "Housework is actually ________ and time-consuming.",
+      "options": ["Easy", "Physically demanding", "Fun only", "Very fast"],
+      "correctIndex": 1,
+      "explanation": "Housework involves heavy tasks like carrying water, firewood, and standing for long hours while cooking.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c4_q9",
+      "text": "What is the main reason why the work of housewives is 'invisible'?",
+      "options": ["They work at night", "It is done inside the home and not paid for", "They don't work hard", "They use machines"],
+      "correctIndex": 1,
+      "explanation": "Since it does not produce a direct income, housework is often taken for granted.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c4_q10",
+      "text": "Across the world, the main responsibility for housework and care-giving lies with:",
+      "options": ["Men", "Children", "Women", "Government"],
+      "correctIndex": 2,
+      "explanation": "This includes looking after the family, especially children, the elderly, and sick members.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c4_q11",
+      "text": "Equality is an important principle of our ________.",
+      "options": ["Religion", "Constitution", "Tradition", "Market"],
+      "correctIndex": 1,
+      "explanation": "The Constitution says that being male or female should not be a reason for discrimination.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c4_q12",
+      "text": "To help women work outside, the government has passed laws to set up ________.",
+      "options": ["Anganwadis (Childcare centres)", "Theatres", "Parks", "Stadiums"],
+      "correctIndex": 0,
+      "explanation": "Crèches or childcare centres allow women to seek employment and help girls attend school.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c4_q13",
+      "text": "The government has made it mandatory for organizations with more than ________ women employees to provide crèche facilities.",
+      "options": ["10", "30", "50", "100"],
+      "correctIndex": 1,
+      "explanation": "This law ensures that working mothers have a safe place to keep their children during work hours.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c4_q14",
+      "text": "Harmeet's family in the story believed that Jaspreet (the mother) ________.",
+      "options": ["Worked very hard", "Did not work", "Was a doctor", "Was a teacher"],
+      "correctIndex": 1,
+      "explanation": "They felt she stayed at home all day and hence didn't 'work', prompting her to go on strike.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c4_q15",
+      "text": "Many domestic workers are ________.",
+      "options": ["Men", "Women", "Young boys", "Robots"],
+      "correctIndex": 1,
+      "explanation": "Women form a large part of the domestic workforce in both rural and urban areas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c4_q16",
+      "text": "The lives of domestic workers like Melani involve ________.",
+      "options": ["Short hours", "Low wages and long hours", "High pay", "Only one task"],
+      "correctIndex": 1,
+      "explanation": "They often start work as early as 5 AM and finish late at night with very little rest.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c4_q17",
+      "text": "The term 'Care-giving' includes looking after ________.",
+      "options": ["Animals", "Children, elderly and sick members", "Plants", "Buildings"],
+      "correctIndex": 1,
+      "explanation": "It is a vital aspect of domestic work that is almost entirely handled by women.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c4_q18",
+      "text": "Gender inequality is a ________ issue, not just a personal one.",
+      "options": ["Small", "Scientific", "Systemic and social", "Natural"],
+      "correctIndex": 2,
+      "explanation": "It is rooted in the way society is organized and requires government action to fix.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c4_q19",
+      "text": "The toys given to children are a way of telling them they will have ________ futures.",
+      "options": ["Same", "Different", "No", "Easy"],
+      "correctIndex": 1,
+      "explanation": "Toys signal the roles they are expected to play as adults.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c4_q20",
+      "text": "Valuing housework means ________.",
+      "options": ["Ignoring it", "Recognizing it as real labor", "Paying more taxes", "Doing it fast"],
+      "correctIndex": 1,
+      "explanation": "Societal attitudes need to change to appreciate the effort and time spent in domestic chores.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c4_q21",
+      "text": "Which of these is a physically demanding domestic task?",
+      "options": ["Watching TV", "Fetching water and firewood", "Sleeping", "Reading"],
+      "correctIndex": 1,
+      "explanation": "In rural areas, women walk long distances to provide these basic necessities for their families.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c4_q22",
+      "text": "In the Samoan islands, girls continued to look after younger children until they were ________.",
+      "options": ["Teenagers", "Elderly", "Adults", "10 years old"],
+      "correctIndex": 0,
+      "explanation": "Once they were teenagers, they had much more freedom and eventually learned weaving and cooking.",
       "frequencyRating": 3
     },
     {
-      "id": "g7_civ_ch4_q2",
-      "text": "Societies often give different ________ to boys and girls from a very young age.",
-      "options": ["Names", "Education", "Toys", "Food"],
+      "id": "g7_c4_q23",
+      "text": "The feeling of 'being a boy' or 'being a girl' is part of one's ________.",
+      "options": ["Address", "Identity", "Grade", "Hobby"],
+      "correctIndex": 1,
+      "explanation": "Gender is a major part of how individuals see themselves and are seen by others.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c4_q24",
+      "text": "The 'double burden' of women's work refers to ________.",
+      "options": ["Doing two jobs at an office", "Working both inside and outside the home", "Cooking two meals", "Lifting two bags"],
+      "correctIndex": 1,
+      "explanation": "Many women manage household chores as well as professional careers, effectively working two 'shifts'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c4_q25",
+      "text": "Providing crèche facilities helps in ________.",
+      "options": ["Increasing pollution", "Improving girls' attendance in school", "Building roads", "Making food"],
+      "correctIndex": 1,
+      "explanation": "Older girls often stay home to mind younger siblings; crèches free them to attend school.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c4_q26",
+      "text": "In many societies, girls are taught to be ________.",
+      "options": ["Aggressive", "Soft-spoken and mild", "Loud", "Fast"],
+      "correctIndex": 1,
+      "explanation": "This is part of the gender socialization process that prepares them for specific social roles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c4_q27",
+      "text": "Who does the cooking in Samoan society for special meals?",
+      "options": ["Only women", "Only children", "Mostly boys/men in special houses", "The chief only"],
       "correctIndex": 2,
-      "explanation": "Boys are often given cars to play with, while girls are given dolls, suggesting different futures.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g7_civ_ch4_q3",
-      "text": "The work that women do within the home is often:",
-      "options": ["Paid well", "Highly recognized", "Invisible and devalued", "Only hobby"],
-      "correctIndex": 2,
-      "explanation": "Household work is physically demanding and time-consuming, yet often not considered real 'work'.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g7_civ_ch4_q4",
-      "text": "The term used when a person works both inside the house (domestic chores) and outside (paid job) is:",
-      "options": ["Hard work", "Double burden", "Overtime", "Full-time"],
-      "correctIndex": 1,
-      "explanation": "This term describes the heavy work pressure faced by many women across the world.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g7_civ_ch4_q5",
-      "text": "Most domestic workers in Indian homes are:",
-      "options": ["Men", "Women", "Children", "Elderly"],
-      "correctIndex": 1,
-      "explanation": "Domestic work involves cleaning, cooking, and care-giving, which is frequently done by women.",
+      "explanation": "In Samoa, boys did most of the cooking while girls helped with preparations.",
       "frequencyRating": 4
     },
     {
-      "id": "g7_civ_ch4_q6",
-      "text": "Childcare and housework are part of ________ work.",
-      "options": ["Commercial", "Domestic", "Industrial", "Professional"],
+      "id": "g7_c4_q28",
+      "text": "When we say housework is 'invisible', we mean it is ________.",
+      "options": ["Not important", "Not noticed or acknowledged", "Transparent", "Small"],
       "correctIndex": 1,
-      "explanation": "These tasks are essential for the family but are often undervalued by society.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g7_civ_ch4_q7",
-      "text": "Anganwadis or child-care centres help women by:",
-      "options": ["Giving them money", "Teaching them to cook", "Taking care of children so women can work outside", "Providing clothing"],
-      "correctIndex": 2,
-      "explanation": "The government has passed laws making it mandatory for organizations with over 30 women to provide crèche facilities.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g7_civ_ch4_q8",
-      "text": "Gender is a ________ concept that defines roles for men and women.",
-      "options": ["Biological", "Social", "Geographical", "Mathematical"],
-      "correctIndex": 1,
-      "explanation": "Gender roles are learned from family and society, rather than being determined solely by biology.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g7_civ_ch4_q9",
-      "text": "A central principle of our Constitution is that ________ should be a reality for all.",
-      "options": ["Wealth", "Equality", "Fame", "Success"],
-      "correctIndex": 1,
-      "explanation": "The Constitution states that being male or female should not become a reason for discrimination.",
+      "explanation": "It is work that is done behind the scenes and rarely appreciated as a contribution to the economy.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch4_q10",
-      "text": "In the 1960s in Madhya Pradesh, school designs for boys and girls were different because:",
-      "options": ["Of different colors", "Girls' schools had a central courtyard for safety and seclusion", "Boys' schools had more rooms", "Girls' schools were smaller"],
+      "id": "g7_c4_q29",
+      "text": "Most girls in the Madhya Pradesh story used the streets ________.",
+      "options": ["To play games", "Simply as a place to get from point A to B", "To sell goods", "To wait for friends"],
       "correctIndex": 1,
-      "explanation": "The girls' school was designed to provide a private space for them to play away from the public gaze.",
+      "explanation": "Unlike boys who used streets for playing or idling, for girls, it was a space to cross quickly to reach home.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c4_q30",
+      "text": "The strike by Jaspreet in the story showed that the house ________.",
+      "options": ["Could run itself", "Became a mess without her work", "Was very clean", "Was quiet"],
+      "correctIndex": 1,
+      "explanation": "It proved that her 'non-work' was actually essential for the family to function.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c4_q31",
+      "text": "Inequality between men and women is ________.",
+      "options": ["Only in India", "A global phenomenon", "Non-existent", "Good for society"],
+      "correctIndex": 1,
+      "explanation": "The devaluation of women's work is a widespread issue found in many countries.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c4_q32",
+      "text": "Cleaning, washing, and sweeping are examples of ________ tasks.",
+      "options": ["Professional", "Domestic", "Outdoor", "Administrative"],
+      "correctIndex": 1,
+      "explanation": "These are the core components of housework.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c4_q33",
+      "text": "Socialization is the process of ________.",
+      "options": ["Making friends", "Learning the norms and values of society", "Going to parties", "Talking to neighbors"],
+      "correctIndex": 1,
+      "explanation": "It is how children learn what behavior is expected of them as boys or girls.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c4_q34",
+      "text": "Domestic workers often face ________ from their employers.",
+      "options": ["High respect", "Lack of dignity and low pay", "Bonuses", "Free holidays"],
+      "correctIndex": 1,
+      "explanation": "Despite their hard work, they are often treated as inferior and paid very little.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c4_q35",
+      "text": "Cooking in a household involves standing for ________.",
+      "options": ["5 minutes", "Long hours over hot stoves", "2 minutes", "Only when guests come"],
+      "correctIndex": 1,
+      "explanation": "It is a strenuous task that is often part of a woman's daily routine.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c4_q36",
+      "text": "The government acts to promote equality because ________.",
+      "options": ["It is bored", "It is a constitutional obligation", "To win prizes", "To save money"],
+      "correctIndex": 1,
+      "explanation": "Upholding equality is a fundamental duty of a democratic government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c4_q37",
+      "text": "Which of these is NOT a gender stereotype?",
+      "options": ["Girls are good at math", "Boys are brave", "Girls are emotional", "Boys are strong"],
+      "correctIndex": 0,
+      "explanation": "Usually, the stereotype is that girls are *not* good at math; saying they are is less common as a traditional stereotype.",
       "frequencyRating": 3
+    },
+    {
+      "id": "g7_c4_q38",
+      "text": "In rural areas, women spend much time ________.",
+      "options": ["Shopping", "Collecting water and fuel", "Watching movies", "Driving cars"],
+      "correctIndex": 1,
+      "explanation": "These essential survival tasks are time-consuming and physically draining.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c4_q39",
+      "text": "The phrase 'Natural to women' is often used to ________ housework.",
+      "options": ["Appreciate", "Devalue and not pay for", "Celebrate", "Promote"],
+      "correctIndex": 1,
+      "explanation": "By calling it 'natural', society avoids recognizing it as skilled labor that deserves value.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c4_q40",
+      "text": "A girl's identity is often shaped by her family's ________.",
+      "options": ["Car", "Expectations and gender roles", "Phone", "Internet speed"],
+      "correctIndex": 1,
+      "explanation": "Families play a key role in teaching children what it means to be a man or a woman.",
+      "frequencyRating": 5
     }
   ]
 }

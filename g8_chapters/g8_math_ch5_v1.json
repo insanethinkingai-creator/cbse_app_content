@@ -8,523 +8,323 @@
   "questions": [
     {
       "id": "g8_m5_q1",
-      "text": "Perfect square ends with:",
-      "options": [
-        "2,3,7,8",
-        "0,1,4,5,6,9",
-        "All digits",
-        "Even only"
-      ],
+      "text": "What is the square of 15?",
+      "options": ["30", "225", "125", "255"],
       "correctIndex": 1,
-      "explanation": "Square units digit properties.",
+      "explanation": "15 * 15 = 225.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m5_q2",
-      "text": "Square root of 144:",
-      "options": [
-        "12",
-        "14",
-        "10",
-        "16"
-      ],
-      "correctIndex": 0,
-      "explanation": "12×12=144.",
+      "text": "Which of the following cannot be the unit digit of a square number?",
+      "options": ["0", "1", "2", "5"],
+      "correctIndex": 2,
+      "explanation": "Square numbers only end in 0, 1, 4, 5, 6, or 9.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m5_q3",
-      "text": "Pythagoras theorem states:",
-      "options": [
-        "a² + b² = c²",
-        "a + b = c",
-        "a² - b² = c²",
-        "No"
-      ],
-      "correctIndex": 0,
-      "explanation": "Right triangle hypotenuse.",
+      "text": "The square of an even number is always:",
+      "options": ["Odd", "Even", "Prime", "Zero"],
+      "correctIndex": 1,
+      "explanation": "Example: 4² = 16, 6² = 36. Both are even.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m5_q4",
-      "text": "Square of 25:",
-      "options": [
-        "50",
-        "625",
-        "125",
-        "250"
-      ],
-      "correctIndex": 1,
-      "explanation": "25×25=625.",
+      "text": "How many natural numbers lie between 9² and 10²?",
+      "options": ["18", "19", "20", "81"],
+      "correctIndex": 0,
+      "explanation": "Numbers between n² and (n+1)² is 2n. 2 * 9 = 18.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m5_q5",
-      "text": "Largest 3-digit perfect square:",
-      "options": [
-        "961 (31²)",
-        "1000",
-        "900",
-        "784"
-      ],
-      "correctIndex": 0,
-      "explanation": "31²=961, 32²=1024.",
+      "text": "What is the square root of 625?",
+      "options": ["15", "25", "35", "45"],
+      "correctIndex": 1,
+      "explanation": "25 * 25 = 625.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m5_q6",
-      "text": "Square root method:",
-      "options": [
-        "Prime factor",
-        "Division",
-        "Both",
-        "Long multiplication"
-      ],
-      "correctIndex": 2,
-      "explanation": "Methods.",
+      "text": "The sum of first 'n' odd natural numbers is:",
+      "options": ["2n", "n²", "n+1", "n³"],
+      "correctIndex": 1,
+      "explanation": "For example, 1+3+5 = 9 = 3².",
       "frequencyRating": 5
     },
     {
       "id": "g8_m5_q7",
-      "text": "Pattern squares 1 to 10 units digit:",
-      "options": [
-        "Cycles every 10",
-        "1,4,9,6,5,6,9,4,1,0",
-        "Increasing",
-        "No"
-      ],
+      "text": "Which of the following is a Pythagorean triplet?",
+      "options": ["2, 3, 4", "3, 4, 5", "5, 12, 14", "1, 2, 3"],
       "correctIndex": 1,
-      "explanation": "Units digit squares cycle.",
-      "frequencyRating": 4
+      "explanation": "3² + 4² = 9 + 16 = 25 = 5².",
+      "frequencyRating": 5
     },
     {
       "id": "g8_m5_q8",
-      "text": "√196:",
-      "options": [
-        "14",
-        "15",
-        "13",
-        "16"
-      ],
+      "text": "Find the value of √1.44.",
+      "options": ["1.2", "0.12", "12", "1.4"],
       "correctIndex": 0,
-      "explanation": "14×14=196.",
+      "explanation": "1.2 * 1.2 = 1.44.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m5_q9",
-      "text": "Number of zeros between pair in square:",
-      "options": [
-        "Even number zeros",
-        "Odd",
-        "Any",
-        "No"
-      ],
-      "correctIndex": 0,
-      "explanation": "Even for perfect square.",
+      "text": "The square of a number ending in 5 always ends in:",
+      "options": ["5", "15", "25", "05"],
+      "correctIndex": 2,
+      "explanation": "Example: 5²=25, 15²=225, 25²=625.",
       "frequencyRating": 4
     },
     {
       "id": "g8_m5_q10",
-      "text": "Prime factor √(81):",
-      "options": [
-        "3×3×3×3",
-        "9×9",
-        "3^4",
-        "All"
-      ],
-      "correctIndex": 3,
-      "explanation": "Pair factors.",
+      "text": "Which number is a perfect square?",
+      "options": ["222", "441", "1000", "50"],
+      "correctIndex": 1,
+      "explanation": "441 is 21².",
       "frequencyRating": 5
     },
     {
       "id": "g8_m5_q11",
-      "text": "Division method for √144:",
-      "options": [
-        "12",
-        "120",
-        "1.2",
-        "No"
-      ],
-      "correctIndex": 0,
-      "explanation": "Long division.",
+      "text": "The number of zeros at the end of a perfect square is always:",
+      "options": ["Odd", "Even", "One", "Three"],
+      "correctIndex": 1,
+      "explanation": "Perfect squares always have an even number of trailing zeros.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m5_q12",
-      "text": "Smallest 4-digit perfect square:",
-      "options": [
-        "1000",
-        "1024 (32²)",
-        "961",
-        "1089"
-      ],
+      "text": "What is the square of 0.3?",
+      "options": ["0.9", "0.09", "0.009", "3.0"],
       "correctIndex": 1,
-      "explanation": "32²=1024.",
+      "explanation": "0.3 * 0.3 = 0.09.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m5_q13",
-      "text": "Square number divisible by 4:",
-      "options": [
-        "Always if even",
-        "Odd squares no",
-        "Both even",
-        "Prime"
-      ],
-      "correctIndex": 0,
-      "explanation": "Even number 2k square 4k².",
+      "text": "The smallest number by which 9408 must be divided so that the quotient is a perfect square is:",
+      "options": ["2", "3", "7", "6"],
+      "correctIndex": 1,
+      "explanation": "Prime factorization of 9408 = 2⁶ * 3 * 7². To make it a square, divide by 3.",
       "frequencyRating": 4
     },
     {
       "id": "g8_m5_q14",
-      "text": "Pythagorean triplet 5,12, ?",
-      "options": [
-        "13",
-        "17",
-        "10",
-        "15"
-      ],
-      "correctIndex": 0,
-      "explanation": "5²+12²=25+144=169=13².",
+      "text": "Find the square root of 1764 using prime factorization.",
+      "options": ["32", "42", "52", "48"],
+      "correctIndex": 1,
+      "explanation": "√(2² * 3² * 7²) = 2 * 3 * 7 = 42.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m5_q15",
-      "text": "√(256):",
-      "options": [
-        "16",
-        "18",
-        "14",
-        "20"
-      ],
-      "correctIndex": 0,
-      "explanation": "16×16=256.",
+      "text": "A Pythagorean triplet whose smallest member is 8 is:",
+      "options": ["8, 10, 12", "8, 15, 17", "8, 9, 10", "8, 6, 10"],
+      "correctIndex": 1,
+      "explanation": "8² + 15² = 64 + 225 = 289 = 17².",
       "frequencyRating": 5
     },
     {
       "id": "g8_m5_q16",
-      "text": "Digits in square root n-digit square:",
-      "options": [
-        "n or n/2",
-        "n-1",
-        "n+1",
-        "Always n/2"
-      ],
+      "text": "The square of which of the following would be an odd number?",
+      "options": ["431", "2826", "7778", "8200"],
       "correctIndex": 0,
-      "explanation": "1 or 2 digits.",
-      "frequencyRating": 4
+      "explanation": "Square of an odd number (ending in 1) is odd.",
+      "frequencyRating": 5
     },
     {
       "id": "g8_m5_q17",
-      "text": "25²:",
-      "options": [
-        "525",
-        "625",
-        "550",
-        "500"
-      ],
-      "correctIndex": 1,
-      "explanation": "625.",
+      "text": "The square root of 12.25 is:",
+      "options": ["3.5", "2.5", "4.5", "3.25"],
+      "correctIndex": 0,
+      "explanation": "3.5 * 3.5 = 12.25.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m5_q18",
-      "text": "Last two digits perfect square possible:",
-      "options": [
-        "00",
-        "25",
-        "76",
-        "All above"
-      ],
-      "correctIndex": 3,
-      "explanation": "Check units tens.",
+      "text": "What is the least number that must be subtracted from 4002 to make it a perfect square?",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 1,
+      "explanation": "63² = 3969. 4002 - 3969 = 33. Wait, 60²=3600, 63²=3969, 64²=4096. 4002-3969=33.",
       "frequencyRating": 4
     },
     {
       "id": "g8_m5_q19",
-      "text": "√729:",
-      "options": [
-        "27",
-        "28",
-        "26",
-        "29"
-      ],
-      "correctIndex": 0,
-      "explanation": "27×27=729.",
+      "text": "A square board has an area of 144 sq cm. Its perimeter is:",
+      "options": ["12 cm", "24 cm", "48 cm", "36 cm"],
+      "correctIndex": 2,
+      "explanation": "Side = √144 = 12. Perimeter = 4 * 12 = 48 cm.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m5_q20",
-      "text": "Even perfect square:",
-      "options": [
-        "Divisible by 4",
-        "2",
-        "Both",
-        "Odd"
-      ],
-      "correctIndex": 2,
-      "explanation": "(2k)²=4k².",
-      "frequencyRating": 5
+      "text": "The square root of 0.0004 is:",
+      "options": ["0.2", "0.02", "0.002", "0.4"],
+      "correctIndex": 1,
+      "explanation": "0.02 * 0.02 = 0.0004.",
+      "frequencyRating": 4
     },
     {
       "id": "g8_m5_q21",
-      "text": "3-4-5 triangle:",
-      "options": [
-        "Right",
-        "Acute",
-        "Obtuse",
-        "Equilateral"
-      ],
+      "text": "Without adding, find the sum of 1+3+5+7+9+11+13.",
+      "options": ["49", "36", "64", "42"],
       "correctIndex": 0,
-      "explanation": "Pythagoras holds.",
+      "explanation": "There are 7 odd numbers. Sum = 7² = 49.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m5_q22",
-      "text": "√(3.24):",
-      "options": [
-        "1.8",
-        "18",
-        "0.18",
-        "1.8"
-      ],
-      "correctIndex": 0,
-      "explanation": "1.8×1.8=3.24.",
-      "frequencyRating": 4
+      "text": "The number 1000 is a perfect square.",
+      "options": ["True", "False", "Only in base 10", "Depends"],
+      "correctIndex": 1,
+      "explanation": "1000 has 3 zeros (odd count), so it cannot be a perfect square.",
+      "frequencyRating": 5
     },
     {
       "id": "g8_m5_q23",
-      "text": "Number not perfect square:",
-      "options": [
-        "121",
-        "12321",
-        "123",
-        "14641"
-      ],
-      "correctIndex": 2,
-      "explanation": "No integer root.",
+      "text": "Which of the following is the square root of 1296?",
+      "options": ["34", "36", "44", "46"],
+      "correctIndex": 1,
+      "explanation": "36 * 36 = 1296.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m5_q24",
-      "text": "Prime factor method pairs:",
-      "options": [
-        "Group 2",
-        "3",
-        "1",
-        "4"
-      ],
-      "correctIndex": 0,
-      "explanation": "Even power.",
+      "text": "What is the unit digit of the square of 79?",
+      "options": ["9", "7", "1", "3"],
+      "correctIndex": 2,
+      "explanation": "9² = 81. The unit digit is 1.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m5_q25",
-      "text": "23²:",
-      "options": [
-        "529",
-        "441",
-        "484",
-        "576"
-      ],
-      "correctIndex": 0,
-      "explanation": "529.",
+      "text": "The smallest square number that is divisible by each of the numbers 4, 9 and 10 is:",
+      "options": ["90", "180", "900", "400"],
+      "correctIndex": 2,
+      "explanation": "LCM(4,9,10) = 180. 180 = 2² * 3² * 5. Multiply by 5 to make it square: 900.",
       "frequencyRating": 4
     },
     {
       "id": "g8_m5_q26",
-      "text": "Square root decimal approx:",
-      "options": [
-        "Division method",
-        "No",
-        "Prime",
-        "Pyth"
-      ],
+      "text": "Find the value of √900 + √0.09.",
+      "options": ["30.3", "30.03", "33", "30.003"],
       "correctIndex": 0,
-      "explanation":"Long division.",
-      "frequencyRating":5
-    },
-    {
-      "id": "g8_m5_q27",
-      "text": "Perfect square between 2 zeros:",
-      "options": [
-        "No",
-        "Yes even",
-        "Odd",
-        "1"
-      ],
-      "correctIndex": 1,
-      "explanation": "Even zeros.",
+      "explanation": "30 + 0.3 = 30.3.",
       "frequencyRating": 4
     },
     {
+      "id": "g8_m5_q27",
+      "text": "How many digits will be there in the square root of 1234321?",
+      "options": ["3", "4", "5", "7"],
+      "correctIndex": 1,
+      "explanation": "By placing bars: 1 23 43 21. There are 4 bars, so 4 digits.",
+      "frequencyRating": 3
+    },
+    {
       "id": "g8_m5_q28",
-      "text": "√1 =",
-      "options": [
-        "1",
-        "0",
-        "-1",
-        "No"
-      ],
+      "text": "Find the square of 99 using identity (a-b)².",
+      "options": ["9801", "9901", "9811", "9701"],
       "correctIndex": 0,
-      "explanation": "Principal.",
-      "frequencyRating": 5
+      "explanation": "(100-1)² = 10000 - 200 + 1 = 9801.",
+      "frequencyRating": 4
     },
     {
       "id": "g8_m5_q29",
-      "text": "15² - 14² = ?",
-      "options": [
-        "29",
-        "1",
-        "225",
-        "196"
-      ],
-      "correctIndex": 0,
-      "explanation": "(a² - b²)=(a-b)(a+b)=1*29=29.",
+      "text": "The square root of a perfect square of n digits has n/2 digits if n is:",
+      "options": ["Odd", "Even", "Prime", "Zero"],
+      "correctIndex": 1,
+      "explanation": "For example, 10000 (5 digits) root is 100 (3 digits). 16 (2 digits) root is 4 (1 digit).",
       "frequencyRating": 4
     },
     {
       "id": "g8_m5_q30",
-      "text": "8² + 15² =17² check:",
-      "options": [
-        "64+225=289=17²",
-        "No",
-        "Right triangle",
-        "All"
-      ],
-      "correctIndex": 3,
-      "explanation": "Pythagoras.",
+      "text": "The estimated square root of 80 is closest to:",
+      "options": ["8", "9", "8.5", "10"],
+      "correctIndex": 1,
+      "explanation": "81 is 9², so √80 is very close to 9.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m5_q31",
-      "text": "√(1764):",
-      "options": [
-        "42",
-        "40",
-        "44",
-        "41"
-      ],
-      "correctIndex": 0,
-      "explanation": "42×42=1764.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g8_m5_q32",
-      "text": "Square not end 2:",
-      "options": [
-        "Never",
-        "Sometimes",
-        "Always",
-        "Odd"
-      ],
-      "correctIndex": 0,
-      "explanation": "Units digit impossible.",
+      "text": "Unit digit of √15625 is:",
+      "options": ["1", "5", "0", "2"],
+      "correctIndex": 1,
+      "explanation": "Since the number ends in 25, its square root must end in 5.",
       "frequencyRating": 5
     },
     {
-      "id": "g8_m5_q33",
-      "text": "Division method for √50 approx:",
-      "options": [
-        "7.07",
-        "7",
-        "5",
-        "10"
-      ],
-      "correctIndex": 0,
-      "explanation": "7.07.",
+      "id": "g8_m5_q32",
+      "text": "Square numbers are also called ________ numbers.",
+      "options": ["Rectangular", "Triangular", "Perfect square", "Circular"],
+      "correctIndex": 2,
+      "explanation": "This is their common alternative name.",
       "frequencyRating": 4
     },
     {
+      "id": "g8_m5_q33",
+      "text": "√64 + √36 is equal to:",
+      "options": ["√100", "14", "10", "100"],
+      "correctIndex": 1,
+      "explanation": "8 + 6 = 14.",
+      "frequencyRating": 5
+    },
+    {
       "id": "g8_m5_q34",
-      "text": "Number perfect square if:",
-      "options": [
-        "All prime factors even powers",
-        "Odd",
-        "Prime",
-        "No"
-      ],
-      "correctIndex": 0,
-      "explanation": "Yes.",
+      "text": "What is the square root of 4096?",
+      "options": ["54", "64", "74", "84"],
+      "correctIndex": 1,
+      "explanation": "64 * 64 = 4096.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m5_q35",
-      "text": "35²:",
-      "options": [
-        "1225",
-        "1156",
-        "1296",
-        "1176"
-      ],
-      "correctIndex": 0,
-      "explanation": "1225.",
+      "text": "The square of a fraction less than 1 is ________ the fraction itself.",
+      "options": ["Greater than", "Less than", "Equal to", "Double"],
+      "correctIndex": 1,
+      "explanation": "Example: (1/2)² = 1/4. 1/4 < 1/2.",
       "frequencyRating": 4
     },
     {
       "id": "g8_m5_q36",
-      "text": "Consecutive squares difference:",
-      "options": [
-        "Odd numbers",
-        "Even",
-        "Constant",
-        "Square"
-      ],
+      "text": "The pattern 1, 1+3, 1+3+5, 1+3+5+7 represents:",
+      "options": ["Square numbers", "Cube numbers", "Prime numbers", "Even numbers"],
       "correctIndex": 0,
-      "explanation": "(n+1)² - n² =2n+1 odd.",
+      "explanation": "These sums are 1, 4, 9, 16 respectively.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m5_q37",
-      "text": "√0.81:",
-      "options": [
-        "0.9",
-        "0.09",
-        "9",
-        "90"
-      ],
-      "correctIndex": 0,
-      "explanation": "0.9×0.9=0.81.",
-      "frequencyRating": 4
+      "text": "Find the smallest number by which 180 must be multiplied so that it becomes a perfect square.",
+      "options": ["2", "3", "5", "6"],
+      "correctIndex": 2,
+      "explanation": "180 = 2² * 3² * 5. We need one more 5.",
+      "frequencyRating": 5
     },
     {
       "id": "g8_m5_q38",
-      "text": "20²:",
-      "options": [
-        "400",
-        "420",
-        "380",
-        "360"
-      ],
-      "correctIndex": 0,
-      "explanation": "400.",
+      "text": "The symbol for square root is:",
+      "options": ["²", "√", "³", "π"],
+      "correctIndex": 1,
+      "explanation": "The radical sign √ is used for square roots.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m5_q39",
-      "text": "Pyth triplet multiple 3,4,5:",
-      "options": [
-        "6,8,10",
-        "9,12,15",
-        "5,12,13",
-        "All"
-      ],
-      "correctIndex": 3,
-      "explanation": "Multiples.",
-      "frequencyRating": 4
+      "text": "Which of the following is NOT a property of square numbers?",
+      "options": ["Ends in 2, 3, 7 or 8", "Even zeros at the end", "Square of odd is odd", "Square of even is even"],
+      "correctIndex": 0,
+      "explanation": "Square numbers never end in 2, 3, 7, or 8.",
+      "frequencyRating": 5
     },
     {
       "id": "g8_m5_q40",
-      "text": "√4096:",
-      "options": [
-        "64",
-        "60",
-        "70",
-        "66"
-      ],
-      "correctIndex": 0,
-      "explanation": "64×64=4096.",
-      "frequencyRating": 4
+      "text": "The square root of 1000000 is:",
+      "options": ["100", "1000", "10000", "10"],
+      "correctIndex": 1,
+      "explanation": "√1,000,000 = 1,000.",
+      "frequencyRating": 5
     }
   ]
 }

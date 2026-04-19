@@ -1,1 +1,330 @@
-{"id":"g8_hist_ch1","grade":"8","subject":"History","number":"1","title":"How, When and Where","version":"v1","questions":[{"id":"g8_h1_q1","text":"History official records:","options":["British colonial","Yes","No","Myth"],"correctIndex":0,"explanation":"Bias.","frequencyRating":5},{"id":"g8_h1_q2","text":"James Mill 1817:","options":["History modern India","Yes 2 vol","No","Ancient"],"correctIndex":0,"explanation":"East India.","frequencyRating":5},{"id":"g8_h1_q3","text":"Nationalism surveys:","options":["Census","Yes","Maps","Both"],"correctIndex":0,"explanation":"1890s.","frequencyRating":5},{"id":"g8_h1_q4","text":"James Rennel first map:","options":["Survey India","Yes 1806","No","Modern"],"correctIndex":0,"explanation":"1 inch 10 mile.","frequencyRating":5},{"id":"g8_h1_q5","text":"Census regular 1881:","options":["Yes","Irregular","No","Maps"],"correctIndex":0,"explanation":"Munshi","frequencyRating":5},{"id":"g8_h1_q6","text":"History past present:","options":["Yes change perspective","No","Fixed","Myth"],"correctIndex":0,"explanation":"Nationalist vs.","frequencyRating":5},{"id":"g8_h1_q7","text":"Sources:","options":["Archives documents oral","Yes","Books only","No"],"correctIndex":0,"explanation":"Multiple.","frequencyRating":5},{"id":"g8_h1_q8","text":"Periodisation problem:","options":["Euro centric medieval modern","Yes","Indian calendar","No"],"correctIndex":0,"explanation":"Colonial.","frequencyRating":5},{"id":"g8_h1_q9","text":"National archives Delhi:","options":["Preserve documents","Yes","No","Maps"],"correctIndex":0,"explanation":"Important.","frequencyRating":5},{"id":"g8_h1_q10","text":"Historians surveys:","options":["Admin records","Yes","Myth","No"],"correctIndex":0,"explanation":"Knowledge.","frequencyRating":5},{"id":"g8_h1_q11","text":"Mill orientalist utilitarian:","options":["Western superior","Yes","Indian best","No"],"correctIndex":0,"explanation":"History.","frequencyRating":4},{"id":"g8_h1_q12","text":"Russel Strachey abbreviate:","options":["Yes Mill","No","Full","No"],"correctIndex":0,"explanation":"Short.","frequencyRating":4},{"id":"g8_h1_q13","text":"Census social reform:","options":["Yes statistics caste","No","Maps","No"],"correctIndex":0,"explanation":"Data.","frequencyRating":5},{"id":"g8_h1_q14","text":"Botanical survey:","options":["Plants","Yes","Animals","No"],"correctIndex":0,"explanation":"Herbarium.","frequencyRating":4},{"id":"g8_h1_q15","text":"Archaeological survey:","options":["Monuments","Yes","Maps","Census"],"correctIndex":0,"explanation":"Cunningham.","frequencyRating":5},{"id":"g8_h1_q16","text":"History new sources:","options":["Oral traditions newspapers","Yes","Books only","No"],"correctIndex":0,"explanation":"Diverse.","frequencyRating":5},{"id":"g8_h1_q17","text":"Colonial knowledge power:","options":["Yes control","No","Equal","No"],"correctIndex":0,"explanation":"Edward Said.","frequencyRating":4},{"id":"g8_h1_q18","text":"Periodisation regional cultures:","options":["Yes","One","No","Euro"],"correctIndex":0,"explanation":"Flexible.","frequencyRating":5},{"id":"g8_h1_q19","text":"Survey maps accurate:","options":["Yes boundary","No rough","Political","No"],"correctIndex":0,"explanation":"Control.","frequencyRating":5},{"id":"g8_h1_q20","text":"Census 1871 standardise:","options":["Yes","No","1881","No"],"correctIndex":0,"explanation":"Regular.","frequencyRating":4},{"id":"g8_h1_q21","text":"Mill periodisation:","options":["Hindu Muslim British","Yes","No","Ancient"],"correctIndex":0,"explanation":"Oriental despot.","frequencyRating":5},{"id":"g8_h1_q22","text":"Historians critical:","options":["Yes facts interpret","No","Myth","Copy"],"correctIndex":0,"explanation":"Perspective.","frequencyRating":5},{"id":"g8_h1_q23","text":"Archives store:","options":["Yes manuscripts","Print","Oral","No"],"correctIndex":0,"explanation":"Preserve.","frequencyRating":5},{"id":"g8_h1_q24","text":"Nationalism history:","options":["Yes glory","No bias","Myth","No"],"correctIndex":0,"explanation":"Unity.","frequencyRating":5},{"id":"g8_h1_q25","text":"Surveys scientific:","options":["Yes","Myth","No","Story"],"correctIndex":0,"explanation":"Data.","frequencyRating":5},{"id":"g8_h1_q26","text":"Rennell inaccuracies:","options":["Yes","Perfect","No","Modern"],"correctIndex":0,"explanation":"First.","frequencyRating":4},{"id":"g8_h1_q27","text":"Census enumerators:","options":["Village","Yes","City only","No"],"correctIndex":0,"explanation":"Count.","frequencyRating":5},{"id":"g8_h1_q28","text":"Botanical herbarium:","options":["Pressed plants","Yes","Live","No"],"correctIndex":0,"explanation":"Specimens.","frequencyRating":4},{"id":"g8_h1_q29","text":"Archaeology digs:","options":["Yes past","No","Maps","Census"],"correctIndex":0,"explanation":"Artefacts.","frequencyRating":5},{"id":"g8_h1_q30","text":"History official colonial:","options":["Yes bias","Neutral","No","Myth"],"correctIndex":0,"explanation":"Perspective.","frequencyRating":5},{"id":"g8_h1_q31","text":"Mill History 1817:","options":["First modern","Yes","Ancient","No"],"correctIndex":0,"explanation":"Comprehensive.","frequencyRating":5},{"id":"g8_h1_q32","text":"Abbreviated versions:","options":["Yes short","Full","No","Maps"],"correctIndex":0,"explanation":"Popular.","frequencyRating":4},{"id":"g8_h1_q33","text":"Survey knowledge power:","options":["Yes colonial","No","Equal","No"],"correctIndex":0,"explanation":"Control.","frequencyRating":5},{"id":"g8_h1_q34","text":"Indian historians nationalist:","options":["Yes glory unity","Colonial","No","Marxist"],"correctIndex":0,"explanation":"Independence.","frequencyRating":5},{"id":"g8_h1_q35","text":"Periodisation Indian:","options":["Regional change","Yes","Fixed medieval","No"],"correctIndex":0,"explanation":"Flexible.","frequencyRating":5},{"id":"g8_h1_q36","text":"Sources multiple:","options":["Yes cross check","One","No","Myth"],"correctIndex":0,"explanation":"Reliable.","frequencyRating":5},{"id":"g8_h1_q37","text":"Colonial mindset:","options":["Superior","Yes","Equal","Inferior"],"correctIndex":0,"explanation":"View.","frequencyRating":5},{"id":"g8_h1_q38","text":"Census social:","options":["Yes caste religion","No","Economic","No"],"correctIndex":0,"explanation":"Data.","frequencyRating":5},{"id":"g8_h1_q39","text":"Survey maps revenue:","options":["Yes boundary","No","Political only","No"],"correctIndex":0,"explanation":"Tax.","frequencyRating":5},{"id":"g8_h1_q40","text":"History dynamic:","options":["Yes new sources perspective","Fixed","No","End"],"correctIndex":0,"explanation":"Living.","frequencyRating":5}]}
+{
+  "id": "g8_hist_ch1",
+  "grade": "8",
+  "subject": "History",
+  "number": "1",
+  "title": "How, When and Where",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_h1_q1",
+      "text": "Who was the first Governor-General of India?",
+      "options": ["Lord Dalhousie", "Lord Mountbatten", "Warren Hastings", "Lord Canning"],
+      "correctIndex": 2,
+      "explanation": "Warren Hastings became the first Governor-General of India in 1773.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h1_q2",
+      "text": "In 1817, James Mill published a massive three-volume work titled:",
+      "options": ["The Discovery of India", "A History of British India", "The History of the Indian Mutiny", "Glimpses of World History"],
+      "correctIndex": 1,
+      "explanation": "James Mill was a Scottish economist and political philosopher who divided Indian history into three periods.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h1_q3",
+      "text": "James Mill divided Indian history into which three periods?",
+      "options": ["Ancient, Medieval, Modern", "Hindu, Muslim, British", "Pre-colonial, Colonial, Post-colonial", "Vedic, Mughal, European"],
+      "correctIndex": 1,
+      "explanation": "Mill's periodization was based on the religion of the rulers, which was later criticized by historians.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h1_q4",
+      "text": "Why do we find it difficult to use James Mill's division of Indian history today?",
+      "options": ["It is too long", "It ignores the variety of faiths existing simultaneously", "It was written in Scottish", "It only talks about geography"],
+      "correctIndex": 1,
+      "explanation": "Historians argue that it is wrong to characterize an age through the religion of the rulers alone.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h1_q5",
+      "text": "The British believed that the act of ________ was important for effective administration.",
+      "options": ["Fighting", "Writing", "Singing", "Trading"],
+      "correctIndex": 1,
+      "explanation": "The British maintained detailed records of every instruction, plan, policy decision, and agreement.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h1_q6",
+      "text": "Where were the official records of the British administration kept?",
+      "options": ["In schools", "In record rooms attached to all administrative institutions", "In the local markets", "In the homes of common people"],
+      "correctIndex": 1,
+      "explanation": "Specialized institutions like archives and museums were established to preserve important records.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h1_q7",
+      "text": "The National Archives of India came up in the:",
+      "options": ["1910s", "1920s", "1940s", "1950s"],
+      "correctIndex": 1,
+      "explanation": "The National Archives of India was built in the 1920s in New Delhi, close to the Viceregal Palace.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h1_q8",
+      "text": "Who were Calligraphists?",
+      "options": ["People who specialized in the art of beautiful writing", "People who studied rocks", "People who fought wars", "People who traded in spices"],
+      "correctIndex": 0,
+      "explanation": "In the early 19th century, records were carefully copied out and beautifully written by calligraphists.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h1_q9",
+      "text": "By the middle of the 19th century, with the spread of ________, multiple copies of records were printed.",
+      "options": ["Education", "Printing", "Trade", "Railways"],
+      "correctIndex": 1,
+      "explanation": "The advent of the printing press allowed for the mass production of administrative records.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h1_q10",
+      "text": "The practice of ________ also became common under the colonial administration.",
+      "options": ["Slavery", "Surveying", "Painting", "Farming"],
+      "correctIndex": 1,
+      "explanation": "The British believed a country had to be properly known before it could be effectively administered.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h1_q11",
+      "text": "Revenue surveys were conducted in villages to know about:",
+      "options": ["The weather", "The topography, soil quality, and cropping pattern", "The number of animals", "The local songs"],
+      "correctIndex": 1,
+      "explanation": "These surveys provided essential data for land revenue collection and agricultural planning.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h1_q12",
+      "text": "Census operations were held every ________ years.",
+      "options": ["5", "10", "15", "20"],
+      "correctIndex": 1,
+      "explanation": "From the end of the 19th century, census operations provided detailed records of the population.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h1_q13",
+      "text": "What information did the Census NOT provide?",
+      "options": ["Number of people in each province", "Castes and religions", "Occupations", "Personal feelings of the people"],
+      "correctIndex": 3,
+      "explanation": "Census and official records focus on administrative data, not individual emotions or private thoughts.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h1_q14",
+      "text": "Which of these is an example of an unofficial source of history?",
+      "options": ["Governor-General's diary", "Diaries of pilgrims and travelers", "Police records", "Village revenue maps"],
+      "correctIndex": 1,
+      "explanation": "Unofficial sources like diaries, autobiographies, and popular booklets provide a different perspective than government records.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h1_q15",
+      "text": "What is the main limitation of official British records?",
+      "options": ["They are written in English", "They only tell us what officials thought and wanted to preserve", "They are too old to read", "They were destroyed in 1947"],
+      "correctIndex": 1,
+      "explanation": "Official records often hide the perspectives of common people, tribals, and the poor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h1_q16",
+      "text": "Who was asked by Robert Clive to produce maps of Hindustan?",
+      "options": ["James Mill", "James Rennell", "Warren Hastings", "Thomas Munro"],
+      "correctIndex": 1,
+      "explanation": "Rennell was an enthusiastic supporter of British conquest and saw mapping as essential to domination.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_h1_q17",
+      "text": "Lipton Tea advertisements in the 1920s suggested that it was associated with:",
+      "options": ["The Indian poor", "British Royalty", "American farmers", "French artists"],
+      "correctIndex": 1,
+      "explanation": "Advertisements often used images of royalty to suggest class and quality.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g8_h1_q18",
+      "text": "James Mill thought that all Asian societies were at a ________ level of civilization than Europe.",
+      "options": ["Higher", "Lower", "Equal", "More spiritual"],
+      "correctIndex": 1,
+      "explanation": "Mill held a Eurocentric view that saw European culture and progress as superior.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h1_q19",
+      "text": "Historians usually divide Indian history into Ancient, Medieval and:",
+      "options": ["Colonial", "Modern", "Post-Modern", "Victorian"],
+      "correctIndex": 1,
+      "explanation": "The 'Modern' period in this classification is associated with the growth of science, reason, and liberty.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h1_q20",
+      "text": "Many historians refer to the British period in India as:",
+      "options": ["Golden Age", "Colonial", "Imperial", "Democratic"],
+      "correctIndex": 1,
+      "explanation": "Colonization refers to the subjection of one country by another leading to political, social, and economic changes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h1_q21",
+      "text": "What does 'Colonization' mean?",
+      "options": ["When people move to a new country", "Subjugation of one country by another leading to political, economic and social changes", "Friendly trade between nations", "Freedom from foreign rule"],
+      "correctIndex": 1,
+      "explanation": "Colonialism involves the dominance and exploitation of a territory by a foreign power.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h1_q22",
+      "text": "Official records were often preserved in specialized institutions called:",
+      "options": ["Libraries", "Archives", "Schools", "Forts"],
+      "correctIndex": 1,
+      "explanation": "Archives are repositories for storing historical documents and records.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h1_q23",
+      "text": "Botanical surveys, Zoological surveys, and Archaeological surveys are examples of:",
+      "options": ["Administrative rules", "Colonial surveys", "Religious texts", "Trade agreements"],
+      "correctIndex": 1,
+      "explanation": "The British conducted various types of surveys to document the resources and history of India.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h1_q24",
+      "text": "Why is it difficult to know how peasants or tribals lived from official records?",
+      "options": ["They didn't exist", "Officials were not interested in their lives", "The records were only about elite administrative activities", "Peasants lived in secret"],
+      "correctIndex": 2,
+      "explanation": "Government records prioritize the actions and thoughts of administrators, leaving out the marginalized.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h1_q25",
+      "text": "The last Viceroy of India was:",
+      "options": ["Lord Curzon", "Lord Mountbatten", "Lord Irwin", "Lord Ripon"],
+      "correctIndex": 1,
+      "explanation": "Lord Mountbatten oversaw the transition to independence in 1947.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h1_q26",
+      "text": "A History of British India was published in:",
+      "options": ["1817", "1857", "1757", "1947"],
+      "correctIndex": 0,
+      "explanation": "James Mill published his three-volume history in 1817.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_h1_q27",
+      "text": "The British felt that surveys were necessary for:",
+      "options": ["Decorating offices", "Proper administration", "Increasing the population", "Teaching English"],
+      "correctIndex": 1,
+      "explanation": "Information about resources and land was considered vital for governance.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h1_q28",
+      "text": "Historians use a variety of sources to write about the last ________ years of Indian history.",
+      "options": ["50", "100", "250", "1000"],
+      "correctIndex": 2,
+      "explanation": "The chapter focuses on the colonial period and the records generated during that time.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h1_q29",
+      "text": "Which of these would NOT be found in an archive of the 19th century?",
+      "options": ["Letters and memos", "Village maps", "Video recordings of speeches", "Reports to district collectors"],
+      "correctIndex": 2,
+      "explanation": "Video technology did not exist in the 19th century.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_h1_q30",
+      "text": "Which source helps us understand what the illiterate and poor were thinking?",
+      "options": ["Official memos", "Census reports", "Oral histories and folk songs", "Governor-General's speeches"],
+      "correctIndex": 2,
+      "explanation": "Alternative sources like oral tradition are needed to recover the history of those who didn't write.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h1_q31",
+      "text": "In Mill’s view, British rule could ________ India.",
+      "options": ["Destroy", "Civilise", "Bankrupt", "Ignore"],
+      "correctIndex": 1,
+      "explanation": "Mill believed British laws, manners, and institutions were necessary to progress India.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_h1_q32",
+      "text": "Why were dates historically considered very important in history writing?",
+      "options": ["To confuse students", "History was synonymous with dates of battles and crowning of kings", "Because paper was expensive", "Dates were the only things known"],
+      "correctIndex": 1,
+      "explanation": "Traditional history focused on political events and 'big' individuals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h1_q33",
+      "text": "The choice of a set of dates as 'important' depends on:",
+      "options": ["The calendar used", "The focus of the story being told", "The length of the year", "The language of the historian"],
+      "correctIndex": 1,
+      "explanation": "If the focus of study changes, a new set of dates will appear significant.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h1_q34",
+      "text": "The British colonial period is often characterized as one lacking:",
+      "options": ["Trade", "Equality, liberty and fraternity", "Bureaucracy", "Soldiers"],
+      "correctIndex": 1,
+      "explanation": "While 'modernity' implies these values, they were often absent for Indians under colonial rule.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h1_q35",
+      "text": "Who among the following was a Scottish economist?",
+      "options": ["Warren Hastings", "James Mill", "James Rennell", "Robert Clive"],
+      "correctIndex": 1,
+      "explanation": "James Mill is primarily known for his economic and historical work on India.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_h1_q36",
+      "text": "What does a 'Calligraphist' do?",
+      "options": ["Writes beautiful scripts", "Builds ships", "Collects taxes", "Fights in the army"],
+      "correctIndex": 0,
+      "explanation": "They were employed to make neat, beautiful copies of official documents.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h1_q37",
+      "text": "Reports from the Home Department in 1946 (e.g., regarding the Naval Mutiny) are found in:",
+      "options": ["Newspapers", "Official records/Archives", "Private diaries", "Religious texts"],
+      "correctIndex": 1,
+      "explanation": "These are primary administrative sources preserved by the government.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_h1_q38",
+      "text": "Official records tell us ________.",
+      "options": ["Everything about all people", "Only what the officials wanted us to know", "Nothing about history", "Only about the weather"],
+      "correctIndex": 1,
+      "explanation": "Official sources have an inherent bias towards the interests of the government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h1_q39",
+      "text": "James Mill's division of Indian history was based on:",
+      "options": ["Economic stages", "The religion of the rulers", "Scientific progress", "Geographical regions"],
+      "correctIndex": 1,
+      "explanation": "He viewed the 'Hindu' and 'Muslim' periods as static and backward.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h1_q40",
+      "text": "To get at the history of the marginalized, we must look at:",
+      "options": ["Only Government Gazettes", "Unofficial sources like local newspapers and diaries", "Nothing, it's impossible", "Only British textbooks"],
+      "correctIndex": 1,
+      "explanation": "Unofficial sources offer the 'history from below' that official records often miss.",
+      "frequencyRating": 5
+    }
+  ]
+}

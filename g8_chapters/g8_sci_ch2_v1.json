@@ -8,522 +8,322 @@
   "questions": [
     {
       "id": "g8_s2_q1",
-      "text": "Microorganisms are also called:",
-      "options": [
-        "Macro organisms",
-        "Microbes",
-        "Viruses only",
-        "Bacteria"
-      ],
-      "correctIndex": 1,
-      "explanation": "Microbes too small to see without microscope.",
+      "text": "Microorganisms that can reproduce only inside the cells of a host organism are:",
+      "options": ["Bacteria", "Fungi", "Viruses", "Protozoa"],
+      "correctIndex": 2,
+      "explanation": "Viruses are borderline between living and non-living; they require a host cell to replicate.",
       "frequencyRating": 5
     },
     {
       "id": "g8_s2_q2",
-      "text": "Which is not a microorganism?",
-      "options": [
-        "Bacteria",
-        "Fungi",
-        "Ant",
-        "Virus"
-      ],
+      "text": "The process of conversion of sugar into alcohol is called:",
+      "options": ["Nitrogen fixation", "Moulding", "Fermentation", "Infection"],
       "correctIndex": 2,
-      "explanation": "Ant is visible macroorganism.",
+      "explanation": "Louis Pasteur discovered fermentation in 1857.",
       "frequencyRating": 5
     },
     {
       "id": "g8_s2_q3",
-      "text": "Habitat where microbes not found:",
-      "options": [
-        "Hot springs",
-        "Dry deserts",
-        "Boiling water",
-        "None"
-      ],
-      "correctIndex": 3,
-      "explanation": "Microbes found everywhere.",
+      "text": "Which of the following is an antibiotic?",
+      "options": ["Sodium bicarbonate", "Streptomycin", "Alcohol", "Yeast"],
+      "correctIndex": 1,
+      "explanation": "Streptomycin, tetracycline and erythromycin are common antibiotics made from fungi and bacteria.",
       "frequencyRating": 5
     },
     {
       "id": "g8_s2_q4",
-      "text": "Yeast is an example of:",
-      "options": [
-        "Bacteria",
-        "Fungi",
-        "Protozoa",
-        "Algae"
-      ],
-      "correctIndex": 1,
-      "explanation": "Single-celled fungus used in baking.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g8_s2_q5",
-      "text": "Algae that gives green color to ponds:",
-      "options": [
-        "Spirogyra",
-        "Chlamydomonas",
-        "Both",
-        "None"
-      ],
+      "text": "The bread dough rises because of:",
+      "options": ["Heat", "Grinding", "Growth of yeast cells", "Kneading"],
       "correctIndex": 2,
-      "explanation": "Autotrophic microbes.",
+      "explanation": "Yeast reproduces rapidly and produces carbon dioxide during respiration, which fills the dough.",
       "frequencyRating": 4
     },
     {
+      "id": "g8_s2_q5",
+      "text": "Carrier of malaria-causing protozoan is:",
+      "options": ["Female Anopheles mosquito", "Cockroach", "Housefly", "Female Aedes mosquito"],
+      "correctIndex": 0,
+      "explanation": "Female Anopheles carries the parasite Plasmodium.",
+      "frequencyRating": 5
+    },
+    {
       "id": "g8_s2_q6",
-      "text": "Smallest microorganism:",
-      "options": [
-        "Bacteria",
-        "Virus",
-        "Fungi",
-        "Protozoa"
-      ],
+      "text": "The most common carrier of communicable diseases is:",
+      "options": ["Ant", "Housefly", "Dragonfly", "Spider"],
       "correctIndex": 1,
-      "explanation": "Virus non-living outside host.",
+      "explanation": "Houseflies sit on garbage and animal excreta, carrying pathogens to uncovered food.",
       "frequencyRating": 5
     },
     {
       "id": "g8_s2_q7",
-      "text": "Common bread mould:",
-      "options": [
-        "Rhizopus",
-        "Penicillium",
-        "Aspergillus",
-        "Mucor"
-      ],
-      "correctIndex": 0,
-      "explanation": "Rhizopus stolonifer.",
+      "text": "Which microorganism contains chlorophyll?",
+      "options": ["Virus", "Fungi", "Algae", "Protozoa"],
+      "correctIndex": 2,
+      "explanation": "Algae like Spirogyra and Chlamydomonas are autotrophic and contain chlorophyll.",
       "frequencyRating": 4
     },
     {
       "id": "g8_s2_q8",
-      "text": "Protozoa example:",
-      "options": [
-        "Amoeba",
-        "Paramecium",
-        "Both",
-        "None"
-      ],
-      "correctIndex": 2,
-      "explanation": "Unicellular animals.",
-      "frequencyRating": 4
+      "text": "The bacterium that helps in the formation of curd is:",
+      "options": ["Rhizobium", "Lactobacillus", "Vibrio cholerae", "Bacillus anthracis"],
+      "correctIndex": 1,
+      "explanation": "Lactobacillus promotes the formation of curd from milk by multiplying in it.",
+      "frequencyRating": 5
     },
     {
       "id": "g8_s2_q9",
-      "text": "Vaccines contain:",
-      "options": [
-        "Killed/weak microbes",
-        "Antibiotics",
-        "Medicines",
-        "Viruses only"
-      ],
-      "correctIndex": 0,
-      "explanation": "Develop immunity.",
+      "text": "Who discovered the vaccine for smallpox?",
+      "options": ["Louis Pasteur", "Alexander Fleming", "Edward Jenner", "Robert Koch"],
+      "correctIndex": 2,
+      "explanation": "Edward Jenner discovered the smallpox vaccine in 1798.",
       "frequencyRating": 5
     },
     {
       "id": "g8_s2_q10",
-      "text": "Antibiotics are obtained from:",
-      "options": [
-        "Fungi",
-        "Bacteria",
-        "Both",
-        "Virus"
-      ],
-      "correctIndex": 2,
-      "explanation": "Penicillin from Penicillium.",
-      "frequencyRating": 5
+      "text": "Antibiotics are effective against:",
+      "options": ["Viruses", "Bacteria", "Dengue", "Common cold"],
+      "correctIndex": 1,
+      "explanation": "Antibiotics do not work against viruses; they target bacterial cell walls or processes.",
+      "frequencyRating": 4
     },
     {
       "id": "g8_s2_q11",
-      "text": "Nitrogen fixation by:",
-      "options": [
-        "Rhizobium",
-        "Blue green algae",
-        "Both",
-        "Yeast"
-      ],
-      "correctIndex": 2,
-      "explanation": "In roots/soil.",
+      "text": "Atmospheric nitrogen is fixed in the soil by ________ to increase fertility.",
+      "options": ["Water", "Blue green algae", "Chemicals", "Viruses"],
+      "correctIndex": 1,
+      "explanation": "Some bacteria and blue green algae can fix nitrogen from the atmosphere.",
       "frequencyRating": 5
     },
     {
       "id": "g8_s2_q12",
-      "text": "Food preservation by high temperature:",
-      "options": [
-        "Pasteurisation",
-        "Canning",
-        "Both",
-        "None"
-      ],
+      "text": "Cholera is caused by:",
+      "options": ["Fungi", "Virus", "Bacteria", "Protozoa"],
       "correctIndex": 2,
-      "explanation": "Kills microbes.",
+      "explanation": "Cholera is a bacterial disease spread through contaminated water or food.",
       "frequencyRating": 4
     },
     {
       "id": "g8_s2_q13",
-      "text": "Disease caused by bacteria:",
-      "options": [
-        "Cholera",
-        "Tuberculosis",
-        "Typhoid",
-        "All"
-      ],
-      "correctIndex": 3,
-      "explanation": "Water/food borne.",
-      "frequencyRating": 5
+      "text": "Which of these is a fungal disease in plants?",
+      "options": ["Citrus canker", "Rust of wheat", "Yellow vein mosaic", "None"],
+      "correctIndex": 1,
+      "explanation": "Rust of wheat is caused by fungi and is air-borne.",
+      "frequencyRating": 3
     },
     {
       "id": "g8_s2_q14",
-      "text": "Virus needs for multiplication:",
-      "options": [
-        "Air",
-        "Living cell",
-        "Nutrients",
-        "Water"
-      ],
-      "correctIndex": 1,
-      "explanation": "Host cell.",
-      "frequencyRating": 5
+      "text": "Amoeba belongs to the group of:",
+      "options": ["Algae", "Bacteria", "Protozoa", "Fungi"],
+      "correctIndex": 2,
+      "explanation": "Protozoa are single-celled microscopic animals like Amoeba and Paramecium.",
+      "frequencyRating": 4
     },
     {
       "id": "g8_s2_q15",
-      "text": "Female Anopheles mosquito carries:",
-      "options": [
-        "Dengue virus",
-        "Malaria parasite",
-        "Chikungunya",
-        "All"
-      ],
+      "text": "Sodium benzoate and sodium metabisulphite are common:",
+      "options": ["Antibiotics", "Preservatives", "Fertilizers", "Vaccines"],
       "correctIndex": 1,
-      "explanation": "Plasmodium.",
+      "explanation": "These are chemical preservatives used to check the growth of microorganisms in jams and squashes.",
       "frequencyRating": 5
     },
     {
       "id": "g8_s2_q16",
-      "text": "Ringworm caused by:",
-      "options": [
-        "Bacteria",
-        "Fungi",
-        "Virus",
-        "Protozoa"
-      ],
-      "correctIndex": 1,
-      "explanation": "Skin infection.",
-      "frequencyRating": 4
+      "text": "Mushroom is a type of:",
+      "options": ["Algae", "Plant", "Fungus", "Bacteria"],
+      "correctIndex": 2,
+      "explanation": "Mushrooms are multicellular fungi that feed on decaying matter.",
+      "frequencyRating": 3
     },
     {
       "id": "g8_s2_q17",
-      "text": "Common cold caused by:",
-      "options": [
-        "Bacteria",
-        "Virus",
-        "Fungi",
-        "Protozoa"
-      ],
-      "correctIndex": 1,
-      "explanation": "Airborne.",
+      "text": "Who discovered the first antibiotic, Penicillin?",
+      "options": ["Edward Jenner", "Louis Pasteur", "Alexander Fleming", "Robert Koch"],
+      "correctIndex": 2,
+      "explanation": "Alexander Fleming discovered Penicillin in 1929 from a mold called Penicillium notatum.",
       "frequencyRating": 5
     },
     {
       "id": "g8_s2_q18",
-      "text": "Antiseptics used on:",
-      "options": [
-        "Body surface",
-        "In body",
-        "Both",
-        "None"
-      ],
-      "correctIndex": 0,
-      "explanation": "Prevent infection.",
-      "frequencyRating": 4
+      "text": "The science of study of microorganisms is called:",
+      "options": ["Biology", "Microbiology", "Zoology", "Ecology"],
+      "correctIndex": 1,
+      "explanation": "Microbiology deals with organisms that are too small to be seen with the naked eye.",
+      "frequencyRating": 3
     },
     {
       "id": "g8_s2_q19",
-      "text": "Compost made by:",
-      "options": [
-        "Red worms",
-        "Microbes",
-        "Both",
-        "Chemicals"
-      ],
-      "correctIndex": 2,
-      "explanation": "Organic waste.",
+      "text": "Which of the following is used in the production of vinegar?",
+      "options": ["Rhizobium", "Yeast", "Acetobacter", "Lactobacillus"],
+      "correctIndex": 1,
+      "explanation": "Yeast is used for commercial production of alcohol and wine, which is then converted to acetic acid (vinegar).",
       "frequencyRating": 4
     },
     {
       "id": "g8_s2_q20",
-      "text": "Penicillin discovered by:",
-      "options": [
-        "Louis Pasteur",
-        "Alexander Fleming",
-        "Robert Koch",
-        "Jenner"
-      ],
+      "text": "Tuberculosis is caused by:",
+      "options": ["Virus", "Bacteria", "Protozoa", "Fungi"],
       "correctIndex": 1,
-      "explanation": "1928.",
+      "explanation": "TB is a bacterial disease primarily affecting the lungs.",
       "frequencyRating": 4
     },
     {
       "id": "g8_s2_q21",
-      "text": "Useful product of microbes:",
-      "options": [
-        "Idli",
-        "Bread",
-        "Jaggery",
-        "Cheese"
-      ],
-      "correctIndex": 3,
-      "explanation": "All food via fermentation.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g8_s2_q22",
-      "text": "Harmful effect: Food spoilage by:",
-      "options": [
-        "Bacteria/Fungi",
-        "Virus",
-        "Algae",
-        "Protozoa"
-      ],
-      "correctIndex": 0,
-      "explanation": "Microbes grow on food.",
+      "text": "Preservation of milk by heating it to 70°C and then suddenly chilling it is:",
+      "options": ["Fermentation", "Pasteurization", "Sterilization", "Nitrogen fixation"],
+      "correctIndex": 1,
+      "explanation": "Pasteurization kills harmful microbes without changing the taste of milk.",
       "frequencyRating": 5
     },
     {
-      "id": "g8_s2_q23",
-      "text": "Sterilisation means:",
-      "options": [
-        "Kill all microbes",
-        "Reduce microbes",
-        "Add microbes",
-        "None"
-      ],
-      "correctIndex": 0,
-      "explanation": "Utensils in boiling water.",
+      "id": "g8_s2_q22",
+      "text": "Foot and mouth disease of cattle is caused by a:",
+      "options": ["Bacterium", "Fungus", "Virus", "Protozoan"],
+      "correctIndex": 2,
+      "explanation": "It is a highly contagious viral disease of clover-hoofed animals.",
       "frequencyRating": 4
+    },
+    {
+      "id": "g8_s2_q23",
+      "text": "Rhizobium bacteria are found in the root nodules of ________ plants.",
+      "options": ["Cereal", "Leguminous", "Aquatic", "Desert"],
+      "correctIndex": 1,
+      "explanation": "Leguminous plants like peas and beans have a symbiotic relationship with Rhizobium.",
+      "frequencyRating": 5
     },
     {
       "id": "g8_s2_q24",
-      "text": "Rabies vaccine by:",
-      "options": [
-        "Pasteur",
-        "Fleming",
-        "Koch",
-        "Lister"
-      ],
-      "correctIndex": 0,
-      "explanation": "Louis Pasteur.",
-      "frequencyRating": 3
+      "text": "Which microorganism is used to produce large scale alcohol?",
+      "options": ["Bacteria", "Yeast", "Algae", "Mould"],
+      "correctIndex": 1,
+      "explanation": "Yeast ferments sugars in grains like barley and wheat to produce alcohol.",
+      "frequencyRating": 5
     },
     {
       "id": "g8_s2_q25",
-      "text": "Azotobacter fixes nitrogen:",
-      "options": [
-        "Free living",
-        "Symbiotic",
-        "Legume",
-        "Algae"
-      ],
-      "correctIndex": 0,
-      "explanation": "Soil bacteria.",
-      "frequencyRating": 3
+      "text": "Dengue is spread by:",
+      "options": ["Anopheles mosquito", "Aedes mosquito", "Housefly", "Butterfly"],
+      "correctIndex": 1,
+      "explanation": "The female Aedes mosquito acts as a carrier for the Dengue virus.",
+      "frequencyRating": 5
     },
     {
       "id": "g8_s2_q26",
-      "text": "Polio vaccine type:",
-      "options": [
-        "Injection",
-        "Oral",
-        "Both",
-        "Nasal"
-      ],
+      "text": "Microorganisms that cause diseases are called:",
+      "options": ["Antibodies", "Antigens", "Pathogens", "Vaccines"],
       "correctIndex": 2,
-      "explanation": "OPV oral drops.",
-      "frequencyRating": 4
+      "explanation": "Pathogens are disease-causing microbes that enter our body through air, water, or food.",
+      "frequencyRating": 5
     },
     {
       "id": "g8_s2_q27",
-      "text": "Disinfectants used:",
-      "options": [
-        "In body",
-        "On surfaces",
-        "Drinking water",
-        "All"
-      ],
-      "correctIndex": 3,
-      "explanation": "e.g. chlorine.",
+      "text": "Yeast is used in making idlis and dhosals to provide:",
+      "options": ["Taste", "Color", "Softness/Fluffiness", "Smell"],
+      "correctIndex": 2,
+      "explanation": "The CO2 bubbles produced by yeast/fermentation create pores and make the food soft.",
       "frequencyRating": 4
     },
     {
       "id": "g8_s2_q28",
-      "text": "Malaria caused by:",
-      "options": [
-        "Virus",
-        "Bacteria",
-        "Protozoa",
-        "Fungi"
-      ],
-      "correctIndex": 2,
-      "explanation": "Plasmodium via mosquito.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g8_s2_q29",
-      "text": "Amylase in saliva from:",
-      "options": [
-        "Bacteria",
-        "Yeast",
-        "Virus",
-        "Fungi"
-      ],
-      "correctIndex": 0,
-      "explanation": "Useful bacteria.",
-      "frequencyRating": 3
-    },
-    {
-      "id": "g8_s2_q30",
-      "text": "Typhoid carrier:",
-      "options": [
-        "Housefly",
-        "Mosquito",
-        "Flea",
-        "None"
-      ],
-      "correctIndex": 0,
-      "explanation": "Flies contaminate food.",
+      "text": "Anthrax is a dangerous human and cattle disease caused by a:",
+      "options": ["Virus", "Bacterium", "Fungus", "Protozoan"],
+      "correctIndex": 1,
+      "explanation": "Robert Koch discovered the bacterium (Bacillus anthracis) which causes anthrax.",
       "frequencyRating": 4
     },
     {
+      "id": "g8_s2_q29",
+      "text": "Common cold and Influenza (Flu) are caused by:",
+      "options": ["Bacteria", "Viruses", "Protozoa", "Fungi"],
+      "correctIndex": 1,
+      "explanation": "Most common respiratory infections are viral in nature.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s2_q30",
+      "text": "The percentage of nitrogen in the atmosphere is approximately:",
+      "options": ["21%", "0.03%", "78%", "1%"],
+      "correctIndex": 2,
+      "explanation": "Nitrogen is the most abundant gas in our atmosphere.",
+      "frequencyRating": 5
+    },
+    {
       "id": "g8_s2_q31",
-      "text": "Preservation by salt/sugar:",
-      "options": [
-        "Dehydration",
-        "High temp",
-        "Low temp",
-        "Pasteurisation"
-      ],
-      "correctIndex": 0,
-      "explanation": "Plasmolysis.",
+      "text": "Salt and edible oils are used to check microbial growth. They are called:",
+      "options": ["Sweeteners", "Preservatives", "Colors", "Nutrients"],
+      "correctIndex": 1,
+      "explanation": "Salting draws out water from cells, preventing microbial growth.",
       "frequencyRating": 4
     },
     {
       "id": "g8_s2_q32",
-      "text": "Anthrax disease in:",
-      "options": [
-        "Cattle",
-        "Humans",
-        "Plants",
-        "Both A&amp;B"
-      ],
-      "correctIndex": 3,
-      "explanation": "Bacillus anthracis.",
-      "frequencyRating": 3
-    },
-    {
-      "id": "g8_s2_q33",
-      "text": "Retrovirus example:",
-      "options": [
-        "HIV",
-        "Influenza",
-        "Polio",
-        "Rabies"
-      ],
-      "correctIndex": 0,
-      "explanation": "AIDS.",
+      "text": "Which of these cannot be seen even with a powerful light microscope?",
+      "options": ["Bacteria", "Yeast", "Viruses", "Amoeba"],
+      "correctIndex": 2,
+      "explanation": "Viruses are so small they can only be seen with an electron microscope.",
       "frequencyRating": 4
     },
     {
+      "id": "g8_s2_q33",
+      "text": "Malaria is a ________ disease.",
+      "options": ["Bacterial", "Viral", "Protozoan", "Fungal"],
+      "correctIndex": 2,
+      "explanation": "It is caused by the Plasmodium protozoan.",
+      "frequencyRating": 5
+    },
+    {
       "id": "g8_s2_q34",
-      "text": "Cheese production uses:",
-      "options": [
-        "Yeast",
-        "Lactobacillus",
-        "Rhizobium",
-        "Virus"
-      ],
+      "text": "Polio and Chicken Pox are caused by:",
+      "options": ["Bacteria", "Viruses", "Fungi", "Worms"],
       "correctIndex": 1,
-      "explanation": "Fermentation.",
-      "frequencyRating": 3
+      "explanation": "These are common viral diseases for which vaccines are available.",
+      "frequencyRating": 4
     },
     {
       "id": "g8_s2_q35",
-      "text": "MMR vaccine protects from:",
-      "options": [
-        "Measles, mumps, rubella",
-        "Malaria",
-        "TB",
-        "Hepatitis"
-      ],
-      "correctIndex": 0,
-      "explanation": "Viral diseases.",
+      "text": "Algae mostly live in:",
+      "options": ["Deserts", "Ice", "Water/Moist places", "Air"],
+      "correctIndex": 2,
+      "explanation": "Most algae are aquatic, found in both fresh and marine water.",
       "frequencyRating": 3
     },
     {
       "id": "g8_s2_q36",
-      "text": "Spoilage in pickles prevented by:",
-      "options": [
-        "Oil layer",
-        "Salt",
-        "Vinegar",
-        "All"
-      ],
-      "correctIndex": 3,
-      "explanation": "High concentration.",
+      "text": "Dry fruits and vegetables are sold in sealed air-tight packets to prevent:",
+      "options": ["Loss of taste", "Moisture loss", "Attack of microbes", "Color change"],
+      "correctIndex": 2,
+      "explanation": "Microbes need air and moisture to grow; air-tight packing removes these factors.",
       "frequencyRating": 4
     },
     {
       "id": "g8_s2_q37",
-      "text": "Bacteria carrying malaria:",
-      "options": [
-        "No",
-        "Yes",
-        "Protozoa",
-        "Virus"
-      ],
-      "correctIndex": 2,
-      "explanation": "Plasmodium protozoan.",
-      "frequencyRating": 5
+      "text": "A common preservative used in jams and pickles is:",
+      "options": ["Sugar", "Salt", "Vinegar", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Sugar is used in jams, while salt and vinegar are common in pickles.",
+      "frequencyRating": 4
     },
     {
       "id": "g8_s2_q38",
-      "text": "Vaccine given for smallpox:",
-      "options": [
-        "BCG",
-        "OPV",
-        "Variola",
-        "DPT"
-      ],
-      "correctIndex": 2,
-      "explanation": "Eradicated disease.",
-      "frequencyRating": 3
+      "text": "Which of these is not a group of microorganisms?",
+      "options": ["Bacteria", "Fungi", "Protozoa", "Insects"],
+      "correctIndex": 3,
+      "explanation": "Insects are animals visible to the naked eye and are not classified as microorganisms.",
+      "frequencyRating": 5
     },
     {
       "id": "g8_s2_q39",
-      "text": "Microbes used in sewage treatment:",
-      "options": [
-        "Aerobic bacteria",
-        "Anaerobic",
-        "Both",
-        "Fungi only"
-      ],
-      "correctIndex": 2,
-      "explanation": "Decompose organic waste.",
-      "frequencyRating": 3
+      "text": "Which bacterium lives in our gut and helps in digestion?",
+      "options": ["E. coli", "Salmonella", "Streptococcus", "None"],
+      "correctIndex": 0,
+      "explanation": "Certain strains of E. coli are part of the normal flora of the human gut.",
+      "frequencyRating": 2
     },
     {
       "id": "g8_s2_q40",
-      "text": "AIDS spreads through:",
-      "options": [
-        "Casual contact",
-        "Blood/sexual contact",
-        "Mosquito",
-        "Air"
-      ],
+      "text": "Vaccination works by producing ________ in our body.",
+      "options": ["Antigens", "Antibodies", "Pathogens", "Antibiotics"],
       "correctIndex": 1,
-      "explanation": "HIV virus.",
+      "explanation": "Antibodies are produced to fight the weakened/dead microbes in the vaccine, creating immunity.",
       "frequencyRating": 5
     }
   ]

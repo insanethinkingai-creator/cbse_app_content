@@ -1,1 +1,330 @@
-{"id":"g8_math_ch7","grade":"8","subject":"Mathematics","number":"7","title":"Comparing Quantities","version":"v1","questions":[{"id":"g8_m7_q1","text":"Discount = ?","options":["Marked - selling price","Selling - marked","Cost - selling","No"],"correctIndex":0,"explanation":"Reduction.","frequencyRating":5},{"id":"g8_m7_q2","text":"Sales tax % = ?","options":["Tax amount/SP *100","CP/SP *100","Profit %","Loss %"],"correctIndex":0,"explanation":"Added to SP.","frequencyRating":5},{"id":"g8_m7_q3","text":"CP Rs100 SP110 profit:","options":["10%","11%","20%","1%"],"correctIndex":0,"explanation":"10/100*100=10%.","frequencyRating":5},{"id":"g8_m7_q4","text":"SP Rs90 CP100 loss:","options":["10%","11.11%","20%","9%"],"correctIndex":1,"explanation":"10/100*100=10%, but 10/90? No, loss (CP-SP)/CP*100=10/100=10%.","correctIndex":0,"explanation":"10%.","frequencyRating":5},{"id":"g8_m7_q5","text":"Simple interest I = ?","options":["P*r*t/100","P+r+t","P*r*t","No"],"correctIndex":0,"explanation":"Formula.","frequencyRating":5},{"id":"g8_m7_q6","text":"Compound interest yearly:","options":["P(1+r/100)^t - P","Simple","No","Average"],"correctIndex":0,"explanation":"Yearly.","frequencyRating":5},{"id":"g8_m7_q7","text":"Ratio 2:3 = fraction:","options":["2/3","2/5","3/2","3/5"],"correctIndex":1,"explanation":"2/5.","frequencyRating":5},{"id":"g8_m7_q8","text":"Increase 20 Rs50 from:","options":["Rs40","Rs30","Rs70","Rs25"],"correctIndex":0,"explanation":"50/120*100=41.67%? No, increase 20 on 30=66.67, wait question Rs50 after 20 increase =30 original, (20/30)*100≈66.67%. Assume standard. 20% of 100=20, 120. Question increase 20 become 50 original 30. % =20/30*100=66.67. Assume option Rs30.","frequencyRating":4},{"id":"g8_m7_q9","text":"Profit % = ?","options":["(SP-CP)/CP *100","SP-CP","CP/SP*100","No"],"correctIndex":0,"explanation":"Formula.","frequencyRating":5},{"id":"g8_m7_q10","text":"GST = CGST + SGST","options":["Yes","No","Central only","State only"],"correctIndex":0,"explanation":"Dual.","frequencyRating":5},{"id":"g8_m7_q11","text":"Marked 500 SP450 discount:","options":["10%","50 Rs","20%","5%"],"correctIndex":1,"explanation":"50/500=10%.","frequencyRating":5},{"id":"g8_m7_q12","text":"SI Rs1000 5% 2yr:","options":["Rs100","Rs200","Rs50","Rs150"],"correctIndex":1,"explanation":"1000*5*2/100=100? 100, but option 200 no. 1000*0.05*2=100.","correctIndex":0,"explanation":"100.","frequencyRating":5},{"id":"g8_m7_q13","text":"Ratio equivalent 4:6:","options":["2:3","1:2","8:12","All"],"correctIndex":3,"explanation":"Simplify.","frequencyProportion":5},{"id":"g8_m7_q14","text":"Loss % formula:","options":["(CP-SP)/CP *100","(SP-CP)/CP *100","SP/CP","No"],"correctIndex":0,"explanation":"Yes.","frequencyRating":5},{"id":"g8_m7_q15","text":"CP200 SP250 profit %:","options":["25%","20%","50%","12.5%"],"correctIndex":0,"explanation":"50/200*100=25%.","frequencyRating":5},{"id":"g8_m7_q16","text":"Marked400 discount 25% SP:","options":["300","100","200","400"],"correctIndex":0,"explanation":"75%.","frequencyRating":5},{"id":"g8_m7_q17","text":"Tax 10% SP100:","options":["Rs10","Rs110 total","Rs90","No"],"correctIndex":1,"explanation":"Added.","frequencyRating":5},{"id":"g8_m7_q18","text":"CI Rs1000 10% 2yr yearly:","options":["Rs210","Rs200","Rs100","Rs121"],"correctIndex":0,"explanation":"1000*1.1^2 -1000=1210-1000=210.","frequencyRating":5},{"id":"g8_m7_q19","text":"Proportion direct:","options":["Increase together","Inverse","No","Constant"],"correctIndex":0,"explanation":"y=kx.","frequencyRating":4},{"id":"g8_m7_q20","text":"Inverse proportion:","options":["Product constant","Sum","No","Difference"],"correctIndex":0,"explanation":"xy=k.","frequencyRating":5},{"id":"g8_m7_q21","text":"4 workers 20 days, 5 workers:","options":["16 days","25","20","10"],"correctIndex":0,"explanation":"Inverse, 20*4/5=16.","frequencyRating":5},{"id":"g8_m7_q22","text":"Speed time inverse:","options":["Yes","No","Direct","Constant"],"correctIndex":0,"explanation":"Distance fixed.","frequencyRating":5},{"id":"g8_m7_q23","text":"Selling price profit:","options":["CP + profit","CP - loss","Tax","Discount"],"correctIndex":0,"explanation":"Yes.","frequencyRating":5},{"id":"g8_m7_q24","text":"Overhead expenses added to:","options":["CP","SP","Profit","No"],"correctIndex":0,"explanation":"Total cost.","frequencyRating":4},{"id":"g8_m7_q25","text":"Compound ratio 2:3, 4:5 = ? : ?","options":["8:15","2:5","8:9","4:3"],"correctIndex":0,"explanation":"2*4 : 3*5=8:15.","frequencyRating":4},{"id":"g8_m7_q26","text":"Percentage increase 10 Rs20 original:","options":["50%","10%","20%","100%"],"correctIndex":0,"explanation":"10/20*100=50%.","frequencyRating":5},{"id":"g8_m7_q27","text":"Sales tax paid to:","options":["Government","Shop","No","Customer"],"correctIndex":0,"explanation":"GST.","frequencyRating":5},{"id":"g8_m7_q28","text":"Simple interest formula P R T /100","options":["Yes","No","Compound","No"],"correctIndex":0,"explanation":"I.","frequencyRating":5},{"id":"g8_m7_q29","text":"2:3 part A:","options":["2/5","3/5","1/2","1"],"correctIndex":0,"explanation":"Ratio.","frequencyRating":5},{"id":"g8_m7_q30","text":"CP250 SP200 loss %:","options":["20%","25%","15%","30%"],"correctIndex":0,"explanation":"50/250*100=20%.","frequencyRating":5},{"id":"g8_m7_q31","text":"Marked Rs200 20% discount SP:","options":["160","180","200","40"],"correctIndex":0,"explanation":"40 discount 160.","frequencyRating":5},{"id":"g8_m7_q32","text":"Amount = P + SI","options":["Yes","No","P-SI","No"],"correctIndex":0,"explanation":"Total.","frequencyRating":5},{"id":"g8_m7_q33","text":"Proportion 2kg Rs20, 5kg:","options":["Rs50","Rs40","Rs10","Rs100"],"correctIndex":0,"explanation":"Direct 50.","frequencyRating":5},{"id":"g8_m7_q34","text":"8 men 12 days, 6 men:","options":["16 days","10","24","8"],"correctIndex":0,"explanation":"Inverse 12*8/6=16.","frequencyRating":5},{"id":"g8_m7_q35","text":"Profit Rs50 CP400 %:","options":["12.5%","20%","10%","25%"],"correctIndex":0,"explanation":"50/400*100=12.5%.","frequencyRating":5},{"id":"g8_m7_q36","text":"GST 18% item Rs100:","options":["118","18","82","100"],"correctIndex":0,"explanation":"Total 118.","frequencyRating":5},{"id":"g8_m7_q37","text":"CI diff SI for 10% 2yr P1000:","options":["10 more CI","20","0","5"],"correctIndex":0,"explanation":"210-200=10.","frequencyRating":4},{"id":"g8_m7_q38","text":"Ratio 5:7 total 48 parts:","options":["20:28","25:23","No","15:33"],"correctIndex":0,"explanation":"20:28.","frequencyRating":4},{"id":"g8_m7_q39","text":"Marked 600 SP480 discount %:","options":["20%","25%","15%","30%"],"correctIndex":0,"explanation":"120/600=20%.","frequencyRating":5},{"id":"g8_m7_q40","text":"Loss Rs80 CP320 %:","options":["25%","20%","30%","10%"],"correctIndex":0,"explanation":"80/320*100=25%.","frequencyRating":5}]}
+{
+  "id": "g8_math_ch7",
+  "grade": "8",
+  "subject": "Mathematics",
+  "number": "7",
+  "title": "Comparing Quantities",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_m7_q1",
+      "text": "What is the ratio of 5 m to 10 km?",
+      "options": ["1:2", "1:20", "1:2000", "1:200"],
+      "correctIndex": 2,
+      "explanation": "10 km = 10,000 m. Ratio = 5 / 10000 = 1 / 2000.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m7_q2",
+      "text": "Convert 3:4 to percentage.",
+      "options": ["30%", "40%", "75%", "133%"],
+      "correctIndex": 2,
+      "explanation": "(3/4) * 100 = 75%.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m7_q3",
+      "text": "72% of 25 students are good in mathematics. How many are not good in mathematics?",
+      "options": ["18", "7", "25", "12"],
+      "correctIndex": 1,
+      "explanation": "28% of 25 are not good. 0.28 * 25 = 7.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m7_q4",
+      "text": "A football team won 10 matches out of the total number of matches they played. If their win percentage was 40, how many matches did they play in total?",
+      "options": ["20", "25", "30", "40"],
+      "correctIndex": 1,
+      "explanation": "40% of x = 10. x = 10 / 0.4 = 25.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m7_q5",
+      "text": "If Chameli had Rs 600 left after spending 75% of her money, how much did she have in the beginning?",
+      "options": ["Rs 2400", "Rs 1200", "Rs 1800", "Rs 3000"],
+      "correctIndex": 0,
+      "explanation": "25% of total = 600. Total = 600 / 0.25 = 2400.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m7_q6",
+      "text": "Discount is a reduction given on the:",
+      "options": ["Cost Price", "Selling Price", "Marked Price", "Profit"],
+      "correctIndex": 2,
+      "explanation": "Discount = Marked Price - Selling Price.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m7_q7",
+      "text": "An item marked at Rs 840 is sold for Rs 714. What is the discount percentage?",
+      "options": ["10%", "15%", "12.5%", "20%"],
+      "correctIndex": 1,
+      "explanation": "Discount = 840 - 714 = 126. Discount % = (126/840) * 100 = 15%.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m7_q8",
+      "text": "A table marked at Rs 15,000 is available for Rs 14,400. Find the discount.",
+      "options": ["Rs 500", "Rs 600", "Rs 400", "Rs 1000"],
+      "correctIndex": 1,
+      "explanation": "15000 - 14400 = 600.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m7_q9",
+      "text": "A shop gives 20% discount. What would the sale price of a dress marked at Rs 120 be?",
+      "options": ["Rs 100", "Rs 96", "Rs 24", "Rs 110"],
+      "correctIndex": 1,
+      "explanation": "Discount = 20% of 120 = 24. Sale price = 120 - 24 = 96.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m7_q10",
+      "text": "The price of a scooter was Rs 34,000 last year. It has increased by 20% this year. What is the price now?",
+      "options": ["Rs 40,000", "Rs 40,800", "Rs 38,000", "Rs 42,000"],
+      "correctIndex": 1,
+      "explanation": "Increase = 20% of 34000 = 6800. New price = 34000 + 6800 = 40800.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m7_q11",
+      "text": "If Profit % is 10 and Cost Price is Rs 100, then Selling Price is:",
+      "options": ["Rs 90", "Rs 110", "Rs 100", "Rs 120"],
+      "correctIndex": 1,
+      "explanation": "SP = CP + (Profit % of CP) = 100 + 10 = 110.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m7_q12",
+      "text": "The cost of a flower vase is Rs 120. If the shopkeeper sells it at a loss of 10%, find the price at which it is sold.",
+      "options": ["Rs 108", "Rs 110", "Rs 132", "Rs 100"],
+      "correctIndex": 0,
+      "explanation": "Loss = 10% of 120 = 12. SP = 120 - 12 = 108.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m7_q13",
+      "text": "Selling Price is less than Cost Price in case of:",
+      "options": ["Profit", "Loss", "No Profit No Loss", "Discount"],
+      "correctIndex": 1,
+      "explanation": "Loss occurs when SP < CP.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m7_q14",
+      "text": "If an item is bought for Rs 50 and sold for Rs 60, the profit percentage is:",
+      "options": ["10%", "20%", "25%", "15%"],
+      "correctIndex": 1,
+      "explanation": "Profit = 10. Profit % = (10/50) * 100 = 20%.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m7_q15",
+      "text": "VAT stands for:",
+      "options": ["Value Added Tax", "Value Account Tax", "Variation Added Tax", "Variable Added Tax"],
+      "correctIndex": 0,
+      "explanation": "VAT is a tax on the value added at each stage of production and distribution.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m7_q16",
+      "text": "An air cooler is purchased for Rs 3300 including a tax of 10%. Find the price of the air cooler before VAT was added.",
+      "options": ["Rs 3000", "Rs 3100", "Rs 2900", "Rs 3200"],
+      "correctIndex": 0,
+      "explanation": "Let price be x. x + 0.1x = 3300. 1.1x = 3300. x = 3000.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m7_q17",
+      "text": "Simple Interest for 2 years on Rs 10,000 at 10% per annum is:",
+      "options": ["Rs 1000", "Rs 2000", "Rs 500", "Rs 2100"],
+      "correctIndex": 1,
+      "explanation": "SI = (P * R * T) / 100 = (10000 * 10 * 2) / 100 = 2000.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m7_q18",
+      "text": "Compound Interest on Rs 1000 at 10% for 1 year compounded annually is:",
+      "options": ["Rs 100", "Rs 110", "Rs 10", "Rs 200"],
+      "correctIndex": 0,
+      "explanation": "For 1st year, SI = CI. CI = 10% of 1000 = 100.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m7_q19",
+      "text": "In the formula A = P(1 + r/100)^n, 'n' stands for:",
+      "options": ["Number of years", "Rate", "Principal", "Number of times interest is compounded"],
+      "correctIndex": 3,
+      "explanation": "n is the number of conversion periods.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m7_q20",
+      "text": "If interest is compounded half yearly, the rate is ________ and time is ________.",
+      "options": ["Doubled, halved", "Halved, doubled", "Same, same", "Squared, same"],
+      "correctIndex": 1,
+      "explanation": "Conversion period becomes 6 months, so rate is r/2 and n is 2 * years.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m7_q21",
+      "text": "The population of a city was 20,000 in the year 1997. It increased at the rate of 5% p.a. What would be the population at the end of the year 2000?",
+      "options": ["23,153", "22,050", "21,000", "24,000"],
+      "correctIndex": 0,
+      "explanation": "A = 20000(1.05)^3 ≈ 23153.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m7_q22",
+      "text": "Find the compound interest on Rs 12,600 for 2 years at 10% per annum compounded annually.",
+      "options": ["Rs 2520", "Rs 2646", "Rs 15246", "Rs 2000"],
+      "correctIndex": 1,
+      "explanation": "A = 12600(1.1)^2 = 15246. CI = 15246 - 12600 = 2646.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m7_q23",
+      "text": "GST stands for:",
+      "options": ["Goods and Services Tax", "Goods and Sales Tax", "General Service Tax", "Government Service Tax"],
+      "correctIndex": 0,
+      "explanation": "GST replaced several indirect taxes in India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m7_q24",
+      "text": "A shopkeeper bought two fans for Rs 1200 each. He sold one at a loss of 5% and the other at a profit of 10%. Find the total profit or loss.",
+      "options": ["Loss of Rs 60", "Profit of Rs 60", "No profit no loss", "Profit of Rs 120"],
+      "correctIndex": 1,
+      "explanation": "Loss = 60, Profit = 120. Net profit = 120 - 60 = 60.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m7_q25",
+      "text": "The ratio 2:3 can be written as ________ percentage.",
+      "options": ["20%", "30%", "66.67%", "50%"],
+      "correctIndex": 2,
+      "explanation": "(2/3) * 100 = 66.67%.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m7_q26",
+      "text": "Find the amount to be paid at the end of 2 years on Rs 2400 at 5% per annum compounded annually.",
+      "options": ["Rs 2640", "Rs 2646", "Rs 2520", "Rs 2400"],
+      "correctIndex": 1,
+      "explanation": "A = 2400(1.05)^2 = 2400 * 1.1025 = 2646.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m7_q27",
+      "text": "An item is sold for Rs 540 after a 10% discount on marked price. Find the marked price.",
+      "options": ["Rs 600", "Rs 500", "Rs 594", "Rs 550"],
+      "correctIndex": 0,
+      "explanation": "0.9 * MP = 540. MP = 540 / 0.9 = 600.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m7_q28",
+      "text": "The overhead expenses are added to the:",
+      "options": ["Selling Price", "Cost Price", "Marked Price", "Profit"],
+      "correctIndex": 1,
+      "explanation": "Effective Cost Price = Buying Price + Overhead Expenses.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m7_q29",
+      "text": "If a person gets a 10% increase in his salary and his new salary is Rs 1,54,000, find his original salary.",
+      "options": ["Rs 1,40,000", "Rs 1,50,000", "Rs 1,30,000", "Rs 1,44,000"],
+      "correctIndex": 0,
+      "explanation": "1.1x = 154000. x = 154000 / 1.1 = 140000.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m7_q30",
+      "text": "25% can be written as the ratio:",
+      "options": ["1:4", "1:25", "4:1", "1:5"],
+      "correctIndex": 0,
+      "explanation": "25/100 = 1/4.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m7_q31",
+      "text": "The interest for the first period in compound interest is ________ simple interest for the same period.",
+      "options": ["Greater than", "Less than", "Equal to", "Double"],
+      "correctIndex": 2,
+      "explanation": "For the first conversion period, CI and SI are the same.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m7_q32",
+      "text": "Formula for Amount in SI is:",
+      "options": ["P + I", "P - I", "P * I", "I - P"],
+      "correctIndex": 0,
+      "explanation": "Amount = Principal + Interest.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m7_q33",
+      "text": "A machine was purchased for Rs 42,000. Its value depreciates at the rate of 8% per annum. Find its value after one year.",
+      "options": ["Rs 38,640", "Rs 34,000", "Rs 40,000", "Rs 45,360"],
+      "correctIndex": 0,
+      "explanation": "Value = 42000(1 - 0.08) = 42000 * 0.92 = 38640.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m7_q34",
+      "text": "100% of a number is:",
+      "options": ["1", "The number itself", "0", "100"],
+      "correctIndex": 1,
+      "explanation": "100/100 * x = x.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m7_q35",
+      "text": "A bag costs Rs 500. A sales tax of 5% is added. Total bill is:",
+      "options": ["Rs 505", "Rs 525", "Rs 550", "Rs 475"],
+      "correctIndex": 1,
+      "explanation": "Tax = 5% of 500 = 25. Bill = 500 + 25 = 525.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m7_q36",
+      "text": "Find CI on Rs 100 for 2 years at 10% per annum.",
+      "options": ["Rs 20", "Rs 21", "Rs 10", "Rs 11"],
+      "correctIndex": 1,
+      "explanation": "A = 100(1.1)^2 = 121. CI = 121 - 100 = 21.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m7_q37",
+      "text": "In a laboratory, the count of bacteria in a certain experiment was increasing at the rate of 2.5% per hour. Find the bacteria at the end of 2 hours if the count was initially 5,06,000.",
+      "options": ["5,31,616", "5,18,650", "5,31,316", "5,20,000"],
+      "correctIndex": 0,
+      "explanation": "A = 506000(1.025)^2 ≈ 531616.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g8_m7_q38",
+      "text": "What is 15% of 250?",
+      "options": ["37.5", "25", "15", "3.75"],
+      "correctIndex": 0,
+      "explanation": "0.15 * 250 = 37.5.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m7_q39",
+      "text": "A man got a 10% increase in his salary. If his original salary was Rs 50,000, his new salary is:",
+      "options": ["Rs 55,000", "Rs 50,500", "Rs 60,000", "Rs 45,000"],
+      "correctIndex": 0,
+      "explanation": "Increase = 5000. New = 50000 + 5000 = 55000.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m7_q40",
+      "text": "The population of a place increased to 54,000 in 2003 at a rate of 5% per annum. Find the population in 2001.",
+      "options": ["48,980", "50,000", "49,000", "51,428"],
+      "correctIndex": 0,
+      "explanation": "x(1.05)^2 = 54000. x = 54000 / 1.1025 ≈ 48980.",
+      "frequencyRating": 2
+    }
+  ]
+}

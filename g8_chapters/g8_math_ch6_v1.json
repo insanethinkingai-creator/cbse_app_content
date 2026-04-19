@@ -8,515 +8,323 @@
   "questions": [
     {
       "id": "g8_m6_q1",
-      "text": "Cube root symbol:",
-      "options": [
-        "√3",
-        "∛",
-        "^3",
-        "Sq"
-      ],
+      "text": "Which of the following is a perfect cube?",
+      "options": ["100", "216", "256", "512"],
       "correctIndex": 1,
-      "explanation": "∛729 =9.",
+      "explanation": "216 is the cube of 6 (6 * 6 * 6 = 216).",
       "frequencyRating": 5
     },
     {
       "id": "g8_m6_q2",
-      "text": "Prime factorisation cube root:",
-      "options": [
-        "Multiples of 3 powers",
-        "2",
-        "Even",
-        "Prime"
-      ],
-      "correctIndex": 0,
-      "explanation": "3p·3q·3r.",
+      "text": "The cube of an even number is always:",
+      "options": ["Odd", "Even", "Prime", "Negative"],
+      "correctIndex": 1,
+      "explanation": "If n is even, n = 2k, so n^3 = 8k^3, which is always even.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m6_q3",
-      "text": "3^3 =",
-      "options": [
-        "9",
-        "27",
-        "81",
-        "243"
-      ],
-      "correctIndex": 1,
-      "explanation": "27.",
-      "frequencyRating": 5
+      "text": "What is the unit digit of the cube of 23?",
+      "options": ["3", "9", "7", "1"],
+      "correctIndex": 2,
+      "explanation": "The unit digit of 3^3 is 27, so the unit digit of 23^3 is 7.",
+      "frequencyRating": 4
     },
     {
       "id": "g8_m6_q4",
-      "text": "Smallest cube:",
-      "options": [
-        "1",
-        "0",
-        "8",
-        "-1"
-      ],
-      "correctIndex": 0,
-      "explanation": "1^3=1.",
-      "frequencyRating": 5
+      "text": "How many consecutive odd numbers starting from 1 are added to get the cube of 3?",
+      "options": ["2", "3", "4", "9"],
+      "correctIndex": 1,
+      "explanation": "3^3 = 27. The pattern is 7 + 9 + 11 = 27. Note: For n^3, we use n odd numbers starting from n(n-1)+1.",
+      "frequencyRating": 3
     },
     {
       "id": "g8_m6_q5",
-      "text": "Cube ends with:",
-      "options": [
-        "Same as cube root units",
-        "Any",
-        "Even",
-        "Odd"
-      ],
-      "correctIndex": 0,
-      "explanation": "Units digit cubes cycle.",
+      "text": "What is the smallest number by which 72 must be multiplied to make it a perfect cube?",
+      "options": ["2", "3", "4", "6"],
+      "correctIndex": 1,
+      "explanation": "72 = 2 * 2 * 2 * 3 * 3. To make a triplet for 3, we need one more 3.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m6_q6",
-      "text": "∛1000:",
-      "options": [
-        "10",
-        "100",
-        "20",
-        "8"
-      ],
+      "text": "What is the smallest number by which 81 must be divided to make it a perfect cube?",
+      "options": ["3", "9", "27", "2"],
       "correctIndex": 0,
-      "explanation": "10^3=1000.",
+      "explanation": "81 = 3 * 3 * 3 * 3. Dividing by 3 leaves 3 * 3 * 3 = 27, which is a perfect cube.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m6_q7",
-      "text": "Division method cube root:",
-      "options": [
-        "Groups 3 digits",
-        "2",
-        "1",
-        "4"
-      ],
-      "correctIndex": 0,
-      "explanation": "From right.",
+      "text": "The cube root of 1000 is:",
+      "options": ["1", "10", "100", "1000"],
+      "correctIndex": 1,
+      "explanation": "10 * 10 * 10 = 1000.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m6_q8",
-      "text": "Number of cubes 1 to 100:",
-      "options": [
-        "4 (1,8,27,64)",
-        "10",
-        "5",
-        "100"
-      ],
-      "correctIndex": 0,
-      "explanation": "1-4 cubes.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g8_m6_q9",
-      "text": "Cube not perfect if prime power:",
-      "options": [
-        "Not multiple 3",
-        "Multiple 3",
-        "Even",
-        "Odd"
-      ],
-      "correctIndex": 0,
-      "explanation": "3k power.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g8_m6_q10",
-      "text": "Pattern cubes units:",
-      "options": [
-        "0->0,1->1,2->8,3->7,4->4,5->5,6->6,7->3,8->2,9->9",
-        "Same square",
-        "Random",
-        "No"
-      ],
-      "correctIndex": 0,
-      "explanation": "Cycle.",
+      "text": "Which of these numbers ends with the digit 8 when cubed?",
+      "options": ["2", "12", "22", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Numbers ending in 2 have cubes ending in 8 (2^3 = 8).",
       "frequencyRating": 4
     },
     {
+      "id": "g8_m6_q9",
+      "text": "The cube root of a negative number is:",
+      "options": ["Positive", "Negative", "Zero", "Does not exist"],
+      "correctIndex": 1,
+      "explanation": "For example, the cube root of -8 is -2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m6_q10",
+      "text": "The symbol for cube root is:",
+      "options": ["√", "³√", "²√", "⁴√"],
+      "correctIndex": 1,
+      "explanation": "The index 3 denotes the cube root.",
+      "frequencyRating": 5
+    },
+    {
       "id": "g8_m6_q11",
-      "text": "∛3375:",
-      "options": [
-        "15",
-        "25",
-        "35",
-        "45"
-      ],
-      "correctIndex": 0,
-      "explanation": "15^3=3375.",
+      "text": "What is the cube of 0.2?",
+      "options": ["0.4", "0.04", "0.008", "0.8"],
+      "correctIndex": 2,
+      "explanation": "0.2 * 0.2 * 0.2 = 0.008.",
       "frequencyRating": 4
     },
     {
       "id": "g8_m6_q12",
-      "text": "Largest 3-digit cube:",
-      "options": [
-        "729 (9^3)",
-        "1000",
-        "512",
-        "1331"
-      ],
-      "correctIndex": 0,
-      "explanation": "9^3=729, 10^3=1000.",
-      "frequencyRating": 5
+      "text": "If a number ends in 0, its cube ends in how many zeros?",
+      "options": ["1", "2", "3", "Variable"],
+      "correctIndex": 2,
+      "explanation": "The number of zeros is tripled (e.g., 10^3 = 1000).",
+      "frequencyRating": 4
     },
     {
       "id": "g8_m6_q13",
-      "text": "Cube root (-64):",
-      "options": [
-        "-4",
-        "4",
-        "No real",
-        "0"
-      ],
-      "correctIndex": 0,
-      "explanation": "(-4)^3=-64.",
-      "frequencyRating": 4
+      "text": "The value of 4^3 - 3^3 is:",
+      "options": ["1", "7", "37", "64"],
+      "correctIndex": 2,
+      "explanation": "64 - 27 = 37.",
+      "frequencyRating": 3
     },
     {
       "id": "g8_m6_q14",
-      "text": "Cube number digits 3n or 3n-1:",
-      "options": [
-        "Cube root n digits",
-        "No",
-        "Always 3",
-        "2"
-      ],
+      "text": "Find the cube root of 1331.",
+      "options": ["11", "13", "17", "19"],
       "correctIndex": 0,
-      "explanation": "Groups 3.",
-      "frequencyRating": 4
+      "explanation": "11 * 11 * 11 = 1331.",
+      "frequencyRating": 5
     },
     {
       "id": "g8_m6_q15",
-      "text": "∛1728:",
-      "options": [
-        "12",
-        "18",
-        "20",
-        "16"
-      ],
-      "correctIndex": 0,
-      "explanation": "12^3=1728.",
-      "frequencyRating": 4
+      "text": "Hardy-Ramanujan number 1729 can be expressed as the sum of two cubes in how many ways?",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 1,
+      "explanation": "1729 = 1^3 + 12^3 and 1729 = 9^3 + 10^3.",
+      "frequencyRating": 5
     },
     {
       "id": "g8_m6_q16",
-      "text": "Not cube:",
-      "options": [
-        "64",
-        "125",
-        "128",
-        "1"
-      ],
-      "correctIndex": 2,
-      "explanation": "128 not perfect.",
-      "frequencyRating": 5
+      "text": "What is the unit digit of the cube root of a number ending in 5?",
+      "options": ["0", "5", "1", "25"],
+      "correctIndex": 1,
+      "explanation": "5^3 = 125, so the cube root of a number ending in 5 also ends in 5.",
+      "frequencyRating": 4
     },
     {
       "id": "g8_m6_q17",
-      "text": "6^3:",
-      "options": [
-        "216",
-        "36",
-        "1296",
-        "18"
-      ],
-      "correctIndex": 0,
-      "explanation": "216.",
-      "frequencyRating": 5
+      "text": "Which method is used to find the cube root of 17576?",
+      "options": ["Long division", "Prime factorization", "Estimation", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "Prime factorization or estimation (grouping digits) are common for large perfect cubes.",
+      "frequencyRating": 4
     },
     {
       "id": "g8_m6_q18",
-      "text": "Cube root decimal:",
-      "options": [
-        "Division method",
-        "No",
-        "Prime only",
-        "Integer only"
-      ],
+      "text": "The cube root of 27/64 is:",
+      "options": ["3/4", "9/16", "3/8", "27/64"],
       "correctIndex": 0,
-      "explanation": "Long division.",
+      "explanation": "³√(27)/³√(64) = 3/4.",
       "frequencyRating": 4
     },
     {
       "id": "g8_m6_q19",
-      "text": "Number cubes 100-999:",
-      "options": [
-        "6 (5^3=125 to 9^3=729)",
-        "10",
-        "4",
-        "9"
-      ],
-      "correctIndex": 0,
-      "explanation": "5 to 9.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g8_m6_q20",
-      "text": "Even cube:",
-      "options": [
-        "Even",
-        "Odd",
-        "Any",
-        "Prime"
-      ],
-      "correctIndex": 0,
-      "explanation": "Even^3 even.",
+      "text": "What is the cube of 11?",
+      "options": ["121", "1331", "1441", "1221"],
+      "correctIndex": 1,
+      "explanation": "11 * 11 * 11 = 1331.",
       "frequencyRating": 5
     },
     {
-      "id": "g8_m6_q21",
-      "text": "∛(0.064):",
-      "options": [
-        "0.4",
-        "0.04",
-        "4",
-        "0.8"
-      ],
-      "correctIndex": 0,
-      "explanation": "0.4^3=0.064.",
+      "id": "g8_m6_q20",
+      "text": "The smallest number to multiply 250 to make it a perfect cube is:",
+      "options": ["2", "4", "5", "10"],
+      "correctIndex": 1,
+      "explanation": "250 = 2 * 5 * 5 * 5. To make a triplet for 2, we need 2 * 2 = 4.",
       "frequencyRating": 4
     },
     {
+      "id": "g8_m6_q21",
+      "text": "Which of these is NOT a perfect cube?",
+      "options": ["1", "8", "27", "36"],
+      "correctIndex": 3,
+      "explanation": "36 is a perfect square (6^2) but not a perfect cube.",
+      "frequencyRating": 5
+    },
+    {
       "id": "g8_m6_q22",
-      "text": "Cube ends 7 units digit root:",
-      "options": [
-        "3 or 7",
-        "1",
-        "5",
-        "9"
-      ],
-      "correctIndex": 0,
-      "explanation": "3^3=27,7^3=343.",
+      "text": "Cube root of 0.000125 is:",
+      "options": ["0.5", "0.05", "0.005", "5"],
+      "correctIndex": 1,
+      "explanation": "0.05 * 0.05 * 0.05 = 0.000125.",
       "frequencyRating": 4
     },
     {
       "id": "g8_m6_q23",
-      "text": "9^3:",
-      "options": [
-        "729",
-        "81",
-        "6561",
-        "27"
-      ],
-      "correctIndex": 0,
-      "explanation": "729.",
-      "frequencyRating": 5
+      "text": "If n is an odd number, then n^3 is:",
+      "options": ["Even", "Odd", "Prime", "Negative"],
+      "correctIndex": 1,
+      "explanation": "The product of three odd numbers is always odd.",
+      "frequencyRating": 4
     },
     {
       "id": "g8_m6_q24",
-      "text": "Prime factor ∛(512):",
-      "options": [
-        "8",
-        "512=2^9, ∛2^3 *2^3 *2^3 =8",
-        "64",
-        "16"
-      ],
-      "correctIndex": 1,
-      "explanation": "Groups 3.",
-      "frequencyRating": 5
+      "text": "The sum of the first n odd numbers is n^2. What is the sum of the cubes of the first 3 natural numbers?",
+      "options": ["6", "18", "36", "48"],
+      "correctIndex": 2,
+      "explanation": "1^3 + 2^3 + 3^3 = 1 + 8 + 27 = 36. Formula: [n(n+1)/2]^2.",
+      "frequencyRating": 3
     },
     {
       "id": "g8_m6_q25",
-      "text": "Cube root 1:",
-      "options": [
-        "1",
-        "0",
-        "-1",
-        "No"
-      ],
+      "text": "Cube root of 8000 is:",
+      "options": ["20", "40", "80", "200"],
       "correctIndex": 0,
-      "explanation": "1.",
+      "explanation": "20 * 20 * 20 = 8000.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m6_q26",
-      "text": "Division groups for 5832:",
-      "options": [
-        "583 | 2",
-        "58 | 32",
-        "5 | 832",
-        "5832"
-      ],
+      "text": "Find the smallest number by which 128 is divided to get a perfect cube.",
+      "options": ["2", "4", "8", "16"],
       "correctIndex": 0,
-      "explanation": "3 digits.",
+      "explanation": "128 = 2^7. Dividing by 2 gives 2^6 = 64 (cube of 4).",
       "frequencyRating": 4
     },
     {
       "id": "g8_m6_q27",
-      "text": "Not cube:",
-      "options": [
-        "216",
-        "343",
-        "512",
-        "400"
-      ],
-      "correctIndex": 3,
-      "explanation": "400 not.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g8_m6_q28",
-      "text": "Cube root negative:",
-      "options": [
-        "Negative",
-        "Positive",
-        "Imaginary",
-        "0"
-      ],
-      "correctIndex": 0,
-      "explanation": "(-)^3 negative.",
+      "text": "The unit digit of a number is 7. Its cube ends in:",
+      "options": ["1", "3", "7", "9"],
+      "correctIndex": 1,
+      "explanation": "7^3 = 343, so the unit digit is 3.",
       "frequencyRating": 4
     },
     {
+      "id": "g8_m6_q28",
+      "text": "Which is the smallest natural number that is both a perfect square and a perfect cube?",
+      "options": ["1", "16", "64", "Both A and C"],
+      "correctIndex": 3,
+      "explanation": "1 = 1^2 = 1^3. 64 = 8^2 = 4^3.",
+      "frequencyRating": 3
+    },
+    {
       "id": "g8_m6_q29",
-      "text": "8^3:",
-      "options": [
-        "512",
-        "64",
-        "4096",
-        "256"
-      ],
-      "correctIndex": 0,
-      "explanation": "512.",
+      "text": "Find the cube root of 512 using prime factorization.",
+      "options": ["6", "8", "12", "16"],
+      "correctIndex": 1,
+      "explanation": "512 = 2 * 2 * 2 * 2 * 2 * 2 * 2 * 2 * 2 = 2^9. ³√(2^9) = 2^3 = 8.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m6_q30",
-      "text": "Cube number pattern:",
-      "options": [
-        "Difference increases",
-        "Constant",
-        "Decreases",
-        "Zero"
-      ],
-      "correctIndex": 0,
-      "explanation": "3k²+3k+1.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g8_m6_q31",
-      "text": "∛0.027:",
-      "options": [
-        "0.3",
-        "0.03",
-        "3",
-        "0.9"
-      ],
-      "correctIndex": 0,
-      "explanation": "0.3^3=0.027.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g8_m6_q32",
-      "text": "Cube root 729:",
-      "options": [
-        "9",
-        "27",
-        "81",
-        "3"
-      ],
-      "correctIndex": 0,
-      "explanation": "9.",
+      "text": "The volume of a cubical box is 64 cm^3. What is the length of its side?",
+      "options": ["2 cm", "4 cm", "8 cm", "16 cm"],
+      "correctIndex": 1,
+      "explanation": "Side = ³√Volume = ³√64 = 4 cm.",
       "frequencyRating": 5
     },
     {
+      "id": "g8_m6_q31",
+      "text": "Estimation method: To find the cube root of 12167, we group it as:",
+      "options": ["12, 16, 7", "1, 216, 7", "12, 167", "121, 67"],
+      "correctIndex": 2,
+      "explanation": "We group digits into three starting from the right: 12 and 167.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m6_q32",
+      "text": "In the estimation of ³√12167, the unit digit of the cube root is determined by:",
+      "options": ["12", "167", "1", "7"],
+      "correctIndex": 1,
+      "explanation": "The last group '167' determines the unit digit. Since it ends in 7, the root ends in 3.",
+      "frequencyRating": 3
+    },
+    {
       "id": "g8_m6_q33",
-      "text": "Perfect cube prime factors:",
-      "options": [
-        "Power multiple 3",
-        "Even",
-        "Odd",
-        "1"
-      ],
+      "text": "The cube root of 3375 is:",
+      "options": ["15", "25", "35", "5"],
       "correctIndex": 0,
-      "explanation": "Yes.",
+      "explanation": "15 * 15 * 15 = 3375.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m6_q34",
-      "text": "Smallest 4-digit cube:",
-      "options": [
-        "1000 (10^3)",
-        "1331",
-        "1728",
-        "2197"
-      ],
-      "correctIndex": 0,
-      "explanation": "10^3.",
-      "frequencyRating": 5
+      "text": "What is the cube root of 91125?",
+      "options": ["35", "45", "55", "65"],
+      "correctIndex": 1,
+      "explanation": "45^3 = 91125.",
+      "frequencyRating": 4
     },
     {
       "id": "g8_m6_q35",
-      "text": "7^3:",
-      "options": [
-        "343",
-        "49",
-        "2401",
-        "21"
-      ],
-      "correctIndex": 0,
-      "explanation": "343.",
+      "text": "The cube of a number ending in 4 ends in:",
+      "options": ["2", "4", "6", "8"],
+      "correctIndex": 1,
+      "explanation": "4 * 4 * 4 = 64, so it ends in 4.",
       "frequencyRating": 4
     },
     {
       "id": "g8_m6_q36",
-      "text": "Cube root method division:","options":["3 digits groups right","2","Left","No"],"correctIndex":0,"explanation":"Cube.","frequencyRating":5},
+      "text": "Is 392 a perfect cube? If not, find the smallest number to multiply it to make it one.",
+      "options": ["No, multiply by 2", "No, multiply by 7", "Yes", "No, multiply by 14"],
+      "correctIndex": 1,
+      "explanation": "392 = 2 * 2 * 2 * 7 * 7. We need one more 7.",
+      "frequencyRating": 4
+    },
     {
       "id": "g8_m6_q37",
-      "text": "Number cubes between 1000-9999:",
-      "options": [
-        "21 (10 to 21)",
-        "10",
-        "31",
-        "22"
-      ],
+      "text": "Find the cube root of 10648.",
+      "options": ["22", "18", "28", "32"],
       "correctIndex": 0,
-      "explanation": "10^3=1000,21^3=9261,22^3=10648.",
+      "explanation": "22 * 22 * 22 = 10648.",
       "frequencyRating": 4
     },
     {
       "id": "g8_m6_q38",
-      "text": "Units digit cube root 8:",
-      "options": [
-        "2",
-        "6",
-        "4",
-        "8"
-      ],
-      "correctIndex": 1,
-      "explanation": "6^3=216 ends 6? Wait, 2^3=8.",
-      "correctIndex": 0,
-      "explanation": "2.",
-      "frequencyRating": 4
+      "text": "The number of perfect cubes between 1 and 100 is:",
+      "options": ["2", "3", "4", "5"],
+      "correctIndex": 2,
+      "explanation": "The perfect cubes are 1, 8, 27, 64.",
+      "frequencyRating": 3
     },
     {
       "id": "g8_m6_q39",
-      "text": "∛(1/8):",
-      "options": [
-        "1/2",
-        "1/4",
-        "2",
-        "1/8"
-      ],
-      "correctIndex": 0,
-      "explanation": "(1/2)^3=1/8.",
-      "frequencyRating": 4
+      "text": "If n^3 = 216, then n is:",
+      "options": ["4", "5", "6", "8"],
+      "correctIndex": 2,
+      "explanation": "6^3 = 216.",
+      "frequencyRating": 5
     },
     {
       "id": "g8_m6_q40",
-      "text": "Cube root 15625:",
-      "options": [
-        "25",
-        "125",
-        "35",
-        "45"
-      ],
-      "correctIndex": 0,
-      "explanation": "25^3=15625.",
-      "frequencyRating": 4
+      "text": "Which of the following is true?",
+      "options": ["Cube of any odd number is even", "A perfect cube does not end with two zeros", "Cube root of 8 is 4", "Square of a number is always greater than its cube"],
+      "correctIndex": 1,
+      "explanation": "A perfect cube ends with zero count in multiples of 3 (e.g., 1000, 1000000).",
+      "frequencyRating": 3
     }
   ]
 }

@@ -1,1 +1,330 @@
-{"id":"g8_math_ch3","grade":"8","subject":"Mathematics","number":"3","title":"Understanding Quadrilaterals","version":"v1","questions":[{"id":"g8_m3_q1","text":"Sum of interior angles of quadrilateral:","options":["180°","360°","540°","720°"],"correctIndex":1,"explanation":"360°.","frequencyRating":5},{"id":"g8_m3_q2","text":"Quadrilateral with all sides equal:","options":["Rectangle","Rhombus","Square","Trapezium"],"correctIndex":1,"explanation":"Rhombus.","frequencyRating":5},{"id":"g8_m3_q3","text":"Angle sum property verified by dividing into:","options":["Two triangles","One triangle","Square","No"],"correctIndex":0,"explanation":"2*180=360.","frequencyRating":5},{"id":"g8_m3_q4","text":"Parallelogram opposite angles:","options":["Equal","Sum 180°","Both","None"],"correctIndex":2,"explanation":"Equal and consecutive 180°.","frequencyRating":5},{"id":"g8_m3_q5","text":"Diagonal of parallelogram divides into:","options":["Two congruent triangles","Unequal","3 triangles","No"],"correctIndex":0,"explanation":"Congruent.","frequencyRating":4},{"id":"g8_m3_q6","text":"Kite has:","options":["2 pairs adjacent equal sides","All equal","Opposite equal","No"],"correctIndex":0,"explanation":"Kite property.","frequencyRating":4},{"id":"g8_m3_q7","text":"Polygon with 5 sides minimum exterior angle:","options":["72°","36°","108°","144°"],"correctIndex":0,"explanation":"360/5=72°.","frequencyRating":4},{"id":"g8_m3_q8","text":"Regular hexagon angles:","options":["120° interior","60°","90°","180°"],"correctIndex":0,"explanation":"Interior (n-2)*180/n =120°.","frequencyRating":4},{"id":"g8_m3_q9","text":"Irregular quadrilateral angle sum:","options":["360°","180°","Not fixed","540°"],"correctIndex":0,"explanation":"Always 360°.","frequencyRating":5},{"id":"g8_m3_q10","text":"Trapezium has:","options":["One parallel side pair","Two","None","All"],"correctIndex":0,"explanation":"Trapezium definition.","frequencyRating":5},{"id":"g8_m3_q11","text":"In parallelogram ABCD, AB = CD = ?","options":["Opposite sides equal","Adjacent","Diagonal","No"],"correctIndex":0,"explanation":"Opposite equal parallel.","frequencyRating":5},{"id":"g8_m3_q12","text":"Mid point theorem for quadrilateral diagonal:","options":["Bisects","Joins midpoints parallel half","Triangle","No"],"correctIndex":1,"explanation":"Vector.","frequencyRating":4},{"id":"g8_m3_q13","text":"Exterior angle of polygon = ?","options":["Interior","360/n","180-interior","No"],"correctIndex":2,"explanation":"Straight line.","frequencyRating":4},{"id":"g8_m3_q14","text":"Square is special:","options":["Rhombus","Rectangle","Parallelogram","All"],"correctIndex":3,"explanation":"All properties.","frequencyRating":5},{"id":"g8_m3_q15","text":"Diagonals of rhombus:","options":["Equal","Perpendicular bisectors","Parallel","No"],"correctIndex":1,"explanation":"Perp bisectors.","frequencyRating":5},{"id":"g8_m3_q16","text":"Angle D in parallelogram ABC D if A 70°:","options":["70°","110°","180°","90°"],"correctIndex":1,"explanation":"Consecutive 180°? Opposite equal.","frequencyRating":5},{"id":"g8_m3_q17","text":"Number of diagonals in quadrilateral:","options":["2","4","6","1"],"correctIndex":0,"explanation":"4 vertices choose 2 no adjacent.","frequencyRating":4},{"id":"g8_m3_q18","text":"Convex quadrilateral:","options":["All interior <180°","One >180°","No angles","All"],"correctIndex":0,"explanation":"Convex definition.","frequencyRating":4},{"id":"g8_m3_q19","text":"To verify angle sum, draw:","options":["One diagonal","Two","No","Median"],"correctIndex":0,"explanation":"Two triangles.","frequencyRating":5},{"id":"g8_m3_q20","text":"Parallelogram diagonals:","options":["Bisect each other","Equal","Perp","Parallel"],"correctIndex":0,"explanation":"Bisect.","frequencyRating":5},{"id":"g8_m3_q21","text":"Kite diagonals:","options":["Perp, one bisects","Both bisect","Equal","No"],"correctIndex":0,"explanation":"One symmetry diagonal bisects other.","frequencyRating":4},{"id":"g8_m3_q22","text":"Exterior sum polygon:","options":["360°","180° n","(n-2)180","n*90"],"correctIndex":0,"explanation":"Always 360°.","frequencyRating":5},{"id":"g8_m3_q23","text":"Minimum polygon sides:","options":["3","4","5","2"],"correctIndex":0,"explanation":"Triangle.","frequencyRating":4},{"id":"g8_m3_q24","text":"Trapezium diagonals:","options":["Equal","Not necessarily","Perp","Bisect"],"correctIndex":1,"explanation":"Not special.","frequencyRating":4},{"id":"g8_m3_q25","text":"Rectangle diagonals:","options":["Equal","Perp","Bisect angles","Half"],"correctIndex":0,"explanation":"Equal bisect.","frequencyRating":5},{"id":"g8_m3_q26","text":"Rhombus diagonals:","options":["Perp bisectors","Equal","Parallel","No"],"correctIndex":0,"explanation":"Perpendicular.","frequencyRating":5},{"id":"g8_m3_q27","text":"Angle sum pentagon:","options":["540°","360°","720°","180°"],"correctIndex":0,"explanation":"(5-2)*180=540°.","frequencyRating":4},{"id":"g8_m3_q28","text":"Quadrilateral not parallelogram:","options":["Opposite sides equal parallel","Opposite angles equal","Diagonals bisect","One parallel pair"],"correctIndex":3,"explanation":"Trapezium.","frequencyRating":5},{"id":"g8_m3_q29","text":"In kite, equal sides:","options":["Two pairs adjacent","Opposite","All","No"],"correctIndex":0,"explanation":"Adjacent pairs.","frequencyRating":4},{"id":"g8_m3_q30","text":"Exterior angle polygon = interior adjacent:","options":["No","Yes","Half","Double"],"correctIndex":1,"explanation":"Linear pair.","frequencyRating":5},{"id":"g8_m3_q31","text":"Diagonals of square:","options":["Perp equal bisectors","Perp","Equal","Bisect"],"correctIndex":0,"explanation":"All properties rhombus+rectangle.","frequencyRating":5},{"id":"g8_m3_q32","text":"Irregular quadrilateral also angle sum:","options":["360°","Varies","Not","180°"],"correctIndex":0,"explanation":"Proof same.","frequencyRating":5},{"id":"g8_m3_q33","text":"Consecutive angles parallelogram:","options":["Equal","180°","90°","Acute"],"correctIndex":1,"explanation":"Co-interior.","frequencyRating":5},{"id":"g8_m3_q34","text":"Polygon diagonals formula n(n-3)/2, for n=4:","options":["2","6","4","1"],"correctIndex":0,"explanation":"4(1)/2=2.","frequencyRating":4},{"id":"g8_m3_q35","text":"Midpoints quadrilateral form:","options":["Parallelogram","Rhombus","Rectangle","Any"],"correctIndex":0,"explanation":"Varignon's theorem.","frequencyRating":4},{"id":"g8_m3_q36","text":"Angle C parallelogram if B 110°:","options":["70°","110°","180°","90°"],"correctIndex":1,"explanation":"Opposite equal.","frequencyRating":5},{"id":"g8_m3_q37","text":"One diagonal divides quadrilateral:","options":["Two triangles","Four","Three","One"],"correctIndex":0,"explanation":"Two triangles.","frequencyRating":5},{"id":"g8_m3_q38","text":"Regular pentagon interior angle approx:","options":["108°","72°","120°","90°"],"correctIndex":0,"explanation":"(5-2)*180/5 =108°.","frequencyRating":4},{"id":"g8_m3_q39","text":"Kite area = (1/2) d1 d2 for diagonals:","options":["Yes","No","Only square","Trapezium"],"correctIndex":0,"explanation":"Perp diagonals.","frequencyRating":4},{"id":"g8_m3_q40","text":"In parallelogram, vectors AB + DC = ?","options":["0","AC","BD","AB"],"correctIndex":1,"explanation":"Diagonal.","frequencyRating":3}]}
+{
+  "id": "g8_math_ch3",
+  "grade": "8",
+  "subject": "Mathematics",
+  "number": "3",
+  "title": "Understanding Quadrilaterals",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_m3_q1",
+      "text": "The sum of all interior angles of a quadrilateral is:",
+      "options": ["180°", "360°", "540°", "720°"],
+      "correctIndex": 1,
+      "explanation": "Using formula (n-2)*180: (4-2)*180 = 360°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m3_q2",
+      "text": "A simple closed curve made up of only line segments is called a:",
+      "options": ["Circle", "Polygon", "Line", "Angle"],
+      "correctIndex": 1,
+      "explanation": "Polygons are classified by their number of sides.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m3_q3",
+      "text": "How many diagonals does a convex quadrilateral have?",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 1,
+      "explanation": "A quadrilateral connects opposite vertices with two diagonals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m3_q4",
+      "text": "The sum of the measures of the external angles of any polygon is:",
+      "options": ["180°", "360°", "Depends on sides", "540°"],
+      "correctIndex": 1,
+      "explanation": "No matter the number of sides, the exterior angles always sum to 360°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m3_q5",
+      "text": "A quadrilateral with exactly one pair of parallel sides is a:",
+      "options": ["Parallelogram", "Rhombus", "Trapezium", "Kite"],
+      "correctIndex": 2,
+      "explanation": "This is the definition of a trapezium.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m3_q6",
+      "text": "In a parallelogram, opposite angles are ________.",
+      "options": ["Equal", "Supplementary", "Complementary", "Unequal"],
+      "correctIndex": 0,
+      "explanation": "This is a fundamental property of parallelograms.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m3_q7",
+      "text": "A rhombus is a parallelogram with ________ sides equal.",
+      "options": ["Two", "No", "All", "Opposite"],
+      "correctIndex": 2,
+      "explanation": "All four sides of a rhombus are equal in length.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m3_q8",
+      "text": "The diagonals of a rectangle are ________.",
+      "options": ["Perpendicular", "Equal", "Unequal", "Parallel"],
+      "correctIndex": 1,
+      "explanation": "Rectangles have diagonals of equal length.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m3_q9",
+      "text": "Which quadrilateral has all sides equal and all angles equal to 90°?",
+      "options": ["Rhombus", "Rectangle", "Square", "Parallelogram"],
+      "correctIndex": 2,
+      "explanation": "A square is a regular quadrilateral.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m3_q10",
+      "text": "The diagonals of a rhombus bisect each other at:",
+      "options": ["45°", "60°", "90°", "180°"],
+      "correctIndex": 2,
+      "explanation": "Diagonals of a rhombus are perpendicular bisectors of each other.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m3_q11",
+      "text": "Find the number of sides of a regular polygon whose each exterior angle has a measure of 45°.",
+      "options": ["4", "6", "8", "10"],
+      "correctIndex": 2,
+      "explanation": "Number of sides = 360 / exterior angle = 360 / 45 = 8.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m3_q12",
+      "text": "A polygon with 10 sides is called a:",
+      "options": ["Heptagon", "Octagon", "Nonagon", "Decagon"],
+      "correctIndex": 3,
+      "explanation": "Deca means ten.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m3_q13",
+      "text": "Which of the following is a convex polygon?",
+      "options": ["Star shape", "A polygon where all diagonals lie inside", "A polygon with one interior angle > 180°", "Circle"],
+      "correctIndex": 1,
+      "explanation": "In convex polygons, no part of the diagonals lies in the exterior.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m3_q14",
+      "text": "The adjacent angles of a parallelogram are ________.",
+      "options": ["Equal", "Supplementary", "Complementary", "90°"],
+      "correctIndex": 1,
+      "explanation": "Adjacent angles sum to 180° because they are consecutive interior angles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m3_q15",
+      "text": "A quadrilateral with two pairs of equal adjacent sides but unequal opposite sides is a:",
+      "options": ["Parallelogram", "Rhombus", "Kite", "Square"],
+      "correctIndex": 2,
+      "explanation": "A kite has exactly two pairs of equal consecutive sides.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m3_q16",
+      "text": "What is the measure of each interior angle of a regular hexagon?",
+      "options": ["60°", "90°", "108°", "120°"],
+      "correctIndex": 3,
+      "explanation": "Sum = (6-2)*180 = 720. Each angle = 720/6 = 120°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m3_q17",
+      "text": "The minimum interior angle possible for a regular polygon is:",
+      "options": ["30°", "45°", "60°", "90°"],
+      "correctIndex": 2,
+      "explanation": "This occurs in an equilateral triangle (3 sides).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m3_q18",
+      "text": "The maximum exterior angle possible for a regular polygon is:",
+      "options": ["60°", "120°", "180°", "360°"],
+      "correctIndex": 1,
+      "explanation": "For an equilateral triangle, exterior angle = 180 - 60 = 120°.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m3_q19",
+      "text": "If three angles of a quadrilateral are 75°, 90°, and 75°, the fourth angle is:",
+      "options": ["90°", "120°", "105°", "150°"],
+      "correctIndex": 1,
+      "explanation": "360 - (75+90+75) = 360 - 240 = 120°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m3_q20",
+      "text": "Which property is NOT true for a parallelogram?",
+      "options": ["Opposite sides are equal", "Diagonals are equal", "Opposite angles are equal", "Diagonals bisect each other"],
+      "correctIndex": 1,
+      "explanation": "Diagonals are equal in rectangles and squares, but not necessarily in all parallelograms.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m3_q21",
+      "text": "A quadrilateral whose all sides are equal but angles are not 90° is a:",
+      "options": ["Square", "Rectangle", "Rhombus", "Trapezium"],
+      "correctIndex": 2,
+      "explanation": "In a rhombus, sides are equal, but angles can be any value (with opposite angles equal).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m3_q22",
+      "text": "The diagonals of which quadrilateral bisect each other at right angles?",
+      "options": ["Rectangle", "Rhombus", "Parallelogram", "Trapezium"],
+      "correctIndex": 1,
+      "explanation": "Rhombus and Square have this property.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m3_q23",
+      "text": "In a parallelogram ABCD, if ∠A = 70°, then ∠B is:",
+      "options": ["70°", "110°", "90°", "180°"],
+      "correctIndex": 1,
+      "explanation": "Adjacent angles are supplementary: 180 - 70 = 110°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m3_q24",
+      "text": "A regular polygon has ________ sides and ________ angles equal.",
+      "options": ["Opposite", "No", "All", "Alternate"],
+      "correctIndex": 2,
+      "explanation": "Regular polygons are both equilateral and equiangular.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m3_q25",
+      "text": "How many sides does a heptagon have?",
+      "options": ["5", "6", "7", "8"],
+      "correctIndex": 2,
+      "explanation": "Hepta refers to seven.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m3_q26",
+      "text": "Which of the following quadrilaterals is NOT a parallelogram?",
+      "options": ["Rectangle", "Rhombus", "Trapezium", "Square"],
+      "correctIndex": 2,
+      "explanation": "A trapezium has only one pair of parallel sides, whereas a parallelogram needs two.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m3_q27",
+      "text": "The angles of a quadrilateral are in the ratio 1:2:3:4. The largest angle is:",
+      "options": ["36°", "144°", "100°", "72°"],
+      "correctIndex": 1,
+      "explanation": "x + 2x + 3x + 4x = 360 => 10x = 360 => x = 36. Largest = 4 * 36 = 144°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m3_q28",
+      "text": "In a kite, how many diagonals are there?",
+      "options": ["1", "2", "3", "0"],
+      "correctIndex": 1,
+      "explanation": "All quadrilaterals have 2 diagonals.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m3_q29",
+      "text": "If each interior angle of a regular polygon is 108°, it is a:",
+      "options": ["Square", "Pentagon", "Hexagon", "Octagon"],
+      "correctIndex": 1,
+      "explanation": "Exterior = 180 - 108 = 72. Sides = 360/72 = 5.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m3_q30",
+      "text": "Which of the following quadrilaterals has perpendicular diagonals?",
+      "options": ["Rectangle", "Parallelogram", "Kite", "Trapezium"],
+      "correctIndex": 2,
+      "explanation": "In a kite, diagonals are perpendicular to each other.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m3_q31",
+      "text": "A quadrilateral with all sides equal is necessarily a square.",
+      "options": ["True", "False", "Only if it is a polygon", "Only if it is convex"],
+      "correctIndex": 1,
+      "explanation": "It could be a rhombus.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m3_q32",
+      "text": "The measure of each angle of a square is:",
+      "options": ["45°", "60°", "90°", "120°"],
+      "correctIndex": 2,
+      "explanation": "A square is a special case of a rectangle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m3_q33",
+      "text": "If diagonals of a parallelogram are equal, it is a ________.",
+      "options": ["Rhombus", "Rectangle", "Kite", "Trapezium"],
+      "correctIndex": 1,
+      "explanation": "This is a key property that distinguishes a rectangle from a general parallelogram.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m3_q34",
+      "text": "A polygon where one or more interior angles are greater than 180° is:",
+      "options": ["Convex", "Concave", "Regular", "Irregular"],
+      "correctIndex": 1,
+      "explanation": "This allows part of a diagonal to fall outside the polygon.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m3_q35",
+      "text": "Total number of exterior angles in a pentagon is:",
+      "options": ["3", "4", "5", "10"],
+      "correctIndex": 2,
+      "explanation": "One exterior angle for each vertex.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m3_q36",
+      "text": "Two adjacent angles of a parallelogram are (3x - 4)° and (3x + 10)°. Find x.",
+      "options": ["29", "30", "28", "31"],
+      "correctIndex": 0,
+      "explanation": "(3x-4) + (3x+10) = 180 => 6x + 6 = 180 => 6x = 174 => x = 29.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m3_q37",
+      "text": "Diagonals of which figure do NOT bisect each other?",
+      "options": ["Square", "Rectangle", "Trapezium", "Rhombus"],
+      "correctIndex": 2,
+      "explanation": "In a non-isosceles trapezium, diagonals do not bisect each other.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m3_q38",
+      "text": "A square is both a rectangle and a rhombus.",
+      "options": ["Always True", "Always False", "Depends on size", "None"],
+      "correctIndex": 0,
+      "explanation": "A square has properties of both: 90° angles (rectangle) and equal sides (rhombus).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m3_q39",
+      "text": "What is the sum of exterior angles of a decagon?",
+      "options": ["180°", "360°", "1440°", "720°"],
+      "correctIndex": 1,
+      "explanation": "Sum of exterior angles is 360° for any polygon.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m3_q40",
+      "text": "If a quadrilateral has both pairs of opposite sides equal, it is a ________.",
+      "options": ["Trapezium", "Parallelogram", "Kite", "None"],
+      "correctIndex": 1,
+      "explanation": "This is a sufficient condition for a quadrilateral to be a parallelogram.",
+      "frequencyRating": 5
+    }
+  ]
+}

@@ -7,84 +7,324 @@
   "version": "v1",
   "questions": [
     {
-      "id": "g7_eng_ch3_q1",
-      "text": "What was everyone talking about in the entire kingdom?",
-      "options": ["The King's wealth", "Hilsa fish", "Gopal's wisdom", "A coming war"],
+      "id": "g7_e3_q1",
+      "text": "What was the season that everyone was talking about?",
+      "options": ["Mango season", "Hilsa fish season", "Rainy season", "Winter season"],
       "correctIndex": 1,
-      "explanation": "It was the season for Hilsa fish, and fishermen and courtiers could talk of nothing else.",
+      "explanation": "It was the season for Hilsa fish, and fishermen could think of nothing else.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_eng_ch3_q2",
-      "text": "Why was the King annoyed with his courtiers?",
-      "options": ["They were not working", "They were only talking about Hilsa fish", "They were losing wars", "They were laughing at him"],
-      "correctIndex": 1,
-      "explanation": "The King lost his temper because even the courtiers were talking about fish instead of important matters.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g7_eng_ch3_q3",
-      "text": "What challenge did the King give to Gopal?",
-      "options": ["To catch the biggest Hilsa fish", "To bring a Hilsa fish to the palace without anyone asking about it", "To cook Hilsa fish for the palace", "To stop the people from fishing"],
-      "correctIndex": 1,
-      "explanation": "The King challenged Gopal to buy a huge Hilsa and bring it to the court without a single person asking a word about it.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g7_eng_ch3_q4",
-      "text": "Gopal prepared himself by shaving only half his face and smearing himself with:",
-      "options": ["Mud", "Oil", "Ash", "Paint"],
+      "id": "g7_e3_q2",
+      "text": "The king was tired of hearing about ________ from everyone.",
+      "options": ["War", "Taxes", "Hilsa fish", "Gopal"],
       "correctIndex": 2,
-      "explanation": "Gopal made himself look like a madman by using ash and wearing rags.",
+      "explanation": "Even the courtiers were talking about Hilsa fish all the time.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_eng_ch3_q5",
-      "text": "Gopal's wife thought he was:",
-      "options": ["Going to a party", "Looking handsome", "Going mad", "Cleaning the house"],
+      "id": "g7_e3_q3",
+      "text": "The king challenged ________ to buy a huge Hilsa and bring it to the palace without anyone asking about it.",
+      "options": ["The minister", "A fisherman", "Gopal", "The queen"],
       "correctIndex": 2,
-      "explanation": "She was shocked by his disgraceful appearance and thought he had lost his mind.",
+      "explanation": "Gopal was a clever courtier known for his wit.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e3_q4",
+      "text": "What did Gopal do to his face before going to buy the fish?",
+      "options": ["He painted it", "He half-shaved it", "He wore a mask", "He put on makeup"],
+      "correctIndex": 1,
+      "explanation": "He half-shaved his face as part of his disguise to look like a madman.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e3_q5",
+      "text": "Gopal smeared ________ on his body before leaving.",
+      "options": ["Oil", "Mud", "Ash", "Paint"],
+      "correctIndex": 2,
+      "explanation": "He rubbed ash on himself to further enhance his ridiculous appearance.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e3_q6",
+      "text": "What was Gopal's wife's reaction to his appearance?",
+      "options": ["She was happy", "She thought he was going mad", "She ignored him", "She helped him"],
+      "correctIndex": 1,
+      "explanation": "She was shocked and asked him why he was dressing in such a disgraceful fashion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e3_q7",
+      "text": "When Gopal went to the market, people thought he was a:",
+      "options": ["King", "Rich merchant", "Madman/Mystic", "Soldier"],
+      "correctIndex": 2,
+      "explanation": "His half-shaven face, ash-smeared body, and rags made him look like a lunatic.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e3_q8",
+      "text": "Did anyone in the market ask Gopal about the Hilsa fish he was carrying?",
+      "options": ["Everyone asked", "Only the king asked", "No one asked", "His wife asked"],
+      "correctIndex": 2,
+      "explanation": "People were so distracted by his appearance that they forgot to notice the fish.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e3_q9",
+      "text": "What happened when Gopal reached the palace gates?",
+      "options": ["He was welcomed", "The guards refused to let him in", "The king came out", "He lost the fish"],
+      "correctIndex": 1,
+      "explanation": "The guards didn't recognize him and wouldn't let a 'madman' inside.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e3_q10",
+      "text": "How did Gopal get the king's attention at the palace?",
+      "options": ["He shouted loudly", "He started to dance and sing loudly", "He broke the gate", "He sent a letter"],
+      "correctIndex": 1,
+      "explanation": "His loud singing and dancing forced the king to order the guards to bring him in.",
       "frequencyRating": 4
     },
     {
-      "id": "g7_eng_ch3_q6",
-      "text": "When Gopal reached the palace with the fish, the guards:",
-      "options": ["Welcomed him", "Refused to let him in", "Asked about the fish", "Gave him food"],
+      "id": "g7_e3_q11",
+      "text": "What was the king's reaction when he realized the 'madman' was Gopal?",
+      "options": ["He was angry", "He was surprised and asked why he was dressed like that", "He laughed immediately", "He arrested him"],
       "correctIndex": 1,
-      "explanation": "The guards didn't recognize him and wouldn't let the 'madman' enter until he started singing and dancing loudly.",
+      "explanation": "The king recognized Gopal but was confused by his attire.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e3_q12",
+      "text": "Gopal reminded the king about ________ when he stood before him with the fish.",
+      "options": ["The challenge", "The tax", "The war", "His salary"],
+      "correctIndex": 0,
+      "explanation": "Gopal showed that he had successfully completed the impossible challenge.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e3_q13",
+      "text": "The king ________ at the end when he realized Gopal had won.",
+      "options": ["Cried", "Laughed", "Slept", "Fainted"],
+      "correctIndex": 1,
+      "explanation": "The king congratulated Gopal on achieving the impossible once again.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e3_q14",
+      "text": "The story of Gopal and the Hilsa Fish is presented in the form of a:",
+      "options": ["Poem", "Comic strip/Graphic story", "Essay", "Drama"],
+      "correctIndex": 1,
+      "explanation": "It uses illustrations and speech bubbles to tell the witty tale.",
       "frequencyRating": 4
     },
     {
-      "id": "g7_eng_ch3_q7",
-      "text": "Inside the palace, what did the King's courtiers think of Gopal?",
-      "options": ["He is a genius", "He has lost his mind", "He is a great fisherman", "He is the new cook"],
+      "id": "g7_e3_q15",
+      "text": "What does the story tell us about Gopal?",
+      "options": ["He was a coward", "He was very clever and witty", "He was a great fisherman", "He was a poor man"],
       "correctIndex": 1,
-      "explanation": "They thought he was crazy or that it was one of his clever jokes.",
+      "explanation": "Gopal used his intelligence to outsmart the obvious obsession of the people.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e3_q16",
+      "text": "Fishermen sold Hilsa fish to ________ in the palace.",
+      "options": ["Soldiers", "Courtiers", "The King", "The Cook"],
+      "correctIndex": 1,
+      "explanation": "Even the high-ranking courtiers were interested in the prices of Hilsa.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e3_q17",
+      "text": "The word 'disgraceful' used by Gopal's wife means:",
+      "options": ["Beautiful", "Shameful/Shocking", "Expensive", "Funny"],
+      "correctIndex": 1,
+      "explanation": "She was embarrassed by how he looked in rags and ash.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e3_q18",
+      "text": "Gopal's strategy was to create a bigger ________ than the fish itself.",
+      "options": ["Market", "Distraction", "Smell", "Sound"],
+      "correctIndex": 1,
+      "explanation": "By looking ridiculous, he made himself the center of attention.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e3_q19",
+      "text": "The 'Hilsa' is a popular fish found in:",
+      "options": ["Deserts", "Rivers/Seas (especially during monsoon)", "Mountains", "Forests"],
+      "correctIndex": 1,
+      "explanation": "It is a well-known fish in the Indian subcontinent, especially in Bengal.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e3_q20",
+      "text": "The King lost his ________ when a courtier asked him about Hilsa fish.",
+      "options": ["Crown", "Temper", "Way", "Money"],
+      "correctIndex": 1,
+      "explanation": "He was so frustrated with the constant fish talk that he snapped at the courtier.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e3_q21",
+      "text": "Gopal put on ________ clothes to look like a beggar.",
+      "options": ["Silk", "New", "Ragged", "Golden"],
+      "correctIndex": 2,
+      "explanation": "Rags helped him look the part of a crazy man.",
       "frequencyRating": 3
     },
     {
-      "id": "g7_eng_ch3_q8",
-      "text": "Did anyone ask Gopal about the Hilsa fish on his way to the palace?",
-      "options": ["Yes, the King asked", "No one asked", "Everyone asked", "Only the guards asked"],
+      "id": "g7_e3_q22",
+      "text": "Why did Gopal half-shave his face?",
+      "options": ["He ran out of blades", "To look eccentric/weird", "It was the fashion", "He forgot to finish"],
       "correctIndex": 1,
-      "explanation": "Everyone was so busy looking at his strange appearance that they forgot to notice the fish.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g7_eng_ch3_q9",
-      "text": "What was the King's reaction when he realized Gopal had won the challenge?",
-      "options": ["He was angry", "He laughed and congratulated him", "He punished the guards", "He threw away the fish"],
-      "correctIndex": 1,
-      "explanation": "The King laughed and admitted that Gopal had achieved the impossible once again.",
+      "explanation": "It was a deliberate part of his 'madman' costume.",
       "frequencyRating": 4
     },
     {
-      "id": "g7_eng_ch3_q10",
-      "text": "The story 'Gopal and the Hilsa Fish' is written in the form of a:",
-      "options": ["Poem", "Comic strip", "Long novel", "Scientific report"],
+      "id": "g7_e3_q23",
+      "text": "The courtier who was scolded by the king felt:",
+      "options": ["Happy", "Guilty and silent", "Angry", "Brave"],
       "correctIndex": 1,
-      "explanation": "The chapter uses a visual comic strip format to tell the story.",
+      "explanation": "He dropped his eyes in shame after the king's outburst.",
       "frequencyRating": 3
+    },
+    {
+      "id": "g7_e3_q24",
+      "text": "What was the 'impossible' task according to the king?",
+      "options": ["Catching a Hilsa", "Stopping people from talking about Hilsa", "Cooking Hilsa", "Selling Hilsa"],
+      "correctIndex": 1,
+      "explanation": "The challenge was to bring the fish without anyone mentioning it.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e3_q25",
+      "text": "Gopal walked a long distance to the palace with the ________.",
+      "options": ["King", "Wife", "Huge Hilsa fish", "Basket of gold"],
+      "correctIndex": 2,
+      "explanation": "He carried the very thing people were obsessed with, yet no one noticed it.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e3_q26",
+      "text": "Gopal's wife thought he was 'smearing' ash. Smearing means:",
+      "options": ["Washing", "Rubbing/Applying", "Eating", "Throwing"],
+      "correctIndex": 1,
+      "explanation": "He was rubbing the ash onto his skin.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e3_q27",
+      "text": "The people in the palace thought Gopal was a 'comical' character. Comical means:",
+      "options": ["Scary", "Funny", "Wise", "Brave"],
+      "correctIndex": 1,
+      "explanation": "His appearance was so absurd that it provoked laughter and curiosity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e3_q28",
+      "text": "The story teaches us that ________ can solve any problem.",
+      "options": ["Strength", "Wit and intelligence", "Money", "Silence"],
+      "correctIndex": 1,
+      "explanation": "Gopal's clever thinking turned the tables on the king's challenge.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e3_q29",
+      "text": "Who said, 'I accept the challenge, Your Majesty'?",
+      "options": ["The fisherman", "The guard", "Gopal", "The minister"],
+      "correctIndex": 2,
+      "explanation": "Gopal confidently took up the king's bet.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e3_q30",
+      "text": "Which of these words describes the king's state of mind at the start of the story?",
+      "options": ["Peaceful", "Frustrated/Annoyed", "Excited", "Sad"],
+      "correctIndex": 1,
+      "explanation": "He was fed up with the non-stop talk about Hilsa fish.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e3_q31",
+      "text": "The guards told Gopal, 'You can't see the ________.'",
+      "options": ["Fish", "Queen", "King", "Treasure"],
+      "correctIndex": 2,
+      "explanation": "They barred his entry because he looked like a dangerous or crazy beggar.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e3_q32",
+      "text": "What was the main focus of the people in the market?",
+      "options": ["Buying vegetables", "Gopal's strange look", "The price of Hilsa", "The king's health"],
+      "correctIndex": 1,
+      "explanation": "They were entirely occupied with Gopal's bizarre appearance.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e3_q33",
+      "text": "How many people asked Gopal about the Hilsa fish on his journey?",
+      "options": ["Ten", "Five", "Not a soul (zero)", "The whole town"],
+      "correctIndex": 2,
+      "explanation": "Not a single person mentioned the fish until he reached the king.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e3_q34",
+      "text": "The king ________ Gopal when he proved his point.",
+      "options": ["Punished", "Congratulated", "Ignored", "Exiled"],
+      "correctIndex": 1,
+      "explanation": "He was impressed by Gopal's success.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e3_q35",
+      "text": "Gopal's wife tried to ________ him from going out.",
+      "options": ["Encourage", "Stop", "Follow", "Help"],
+      "correctIndex": 1,
+      "explanation": "She was worried about his sanity and social reputation.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e3_q36",
+      "text": "Gopal said, 'I am going to buy a ________.'",
+      "options": ["Magic wand", "Huge Hilsa fish", "New house", "Horse"],
+      "correctIndex": 1,
+      "explanation": "He stated his goal clearly to his wife, even if she didn't believe his methods.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e3_q37",
+      "text": "Which part of Gopal's plan was most effective?",
+      "options": ["The half-shaven face", "The ash", "The rags", "The combination of all three"],
+      "correctIndex": 3,
+      "explanation": "The total effect of his appearance was what created the perfect distraction.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e3_q38",
+      "text": "The king's palace was ________ by a large crowd of people.",
+      "options": ["Attacked", "Surrounded", "Visited", "Destroyed"],
+      "correctIndex": 1,
+      "explanation": "A crowd had gathered to watch the 'madman' singing outside.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e3_q39",
+      "text": "Was the king's challenge fair?",
+      "options": ["No, it was mean", "Yes, it was a test of Gopal's famous wit", "It was illegal", "Gopal hated it"],
+      "correctIndex": 1,
+      "explanation": "The king knew Gopal was the only one who could possibly do it.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e3_q40",
+      "text": "Gopal's achievement was called ________ by the king.",
+      "options": ["Impossible", "Lucky", "Normal", "Bad"],
+      "correctIndex": 0,
+      "explanation": "Bringing the fish unnoticed during the Hilsa season was considered an impossible feat.",
+      "frequencyRating": 5
     }
   ]
 }

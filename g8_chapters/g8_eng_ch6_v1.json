@@ -1,1 +1,330 @@
-{"id":"g8_eng_ch6","grade":"8","subject":"English","number":"6","title":"This is Jody's Fawn","version":"v1","questions":[{"id":"g8_e6_q1","text":"Jody fawn mother:","options":["Yes doe killed panther","Deer","No","Male"],"correctIndex":0,"explanation":"Creek.","frequencyRating":5},{"id":"g8_e6_q2","text":"Fawn spotted:","options":["Yes leg broken","Healthy","No","Adult"],"correctIndex":0,"explanation":"Bled.","frequencyRating":5},{"id":"g8_e6_q3","text":"Millard father:","options":["Yes hunter","Farmer","No","Doctor"],"correctIndex":0,"explanation":"Doe.","frequencyRating":5},{"id":"g8_e6_q4","text":"Jody permission:","options":["Yes keep fawn","No kill","Leave","No"],"correctIndex":0,"explanation":"Responsibility.","frequencyRating":5},{"id":"g8_e6_q5","text":"Fawn milk:","options":["Yes goat millie","Cow","No","Water"],"correctIndex":0,"explanation":"Suck.","frequencyRating":5},{"id":"g8_e6_q6","text":"Fawn spot:","options":["Yes white throat","Black","No","Brown"],"correctIndex":0,"explanation":"Beautiful.","frequencyRating":5},{"id":"g8_e6_q7","text":"Jody devotion:","options":["Yes nurture","Ignore","No","Kill"],"correctIndex":0,"explanation":"Love.","frequencyRating":5},{"id":"g8_e6_q8","text":"Fawn name:","options":["Yes","No name","Penny","Millie"],"correctIndex":0,"explanation":"Not named.","frequencyRating":5},{"id":"g8_e6_q9","text":"Millie goat:","options":["Yes milk fawn","No","Cow","Water"],"correctIndex":0,"explanation":"Hand milked.","frequencyRating":5},{"id":"g8_e6_q10","text":"Fawn legs:","options":["Yes wobbly","Strong","No","Broken"],"correctIndex":0,"explanation":"Stand.","frequencyRating":5},{"id":"g8_e6_q11","text":"Panther track:","options":["Yes doe killed","Fawn","No","Bear"],"correctIndex":0,"explanation":"Print.","frequencyRating":5},{"id":"g8_e6_q12","text":"Jody pluck:","options":["Yes follow fawn call","Fear","No","Home"],"correctIndex":0,"explanation":"Creek.","frequencyRating":5},{"id":"g8_e6_q13","text":"Fawn response:","options":["Yes lick Jody","Run","No","Attack"],"correctIndex":0,"explanation":"Accept.","frequencyRating":5},{"id":"g8_e6_q14","text":"Penny panther:","options":["Yes shot","No","Fawn","Bear"],"correctIndex":0,"explanation":"Revenge.","frequencyRating":5},{"id":"g8_e6_q15","text":"Fawn motherless:","options":["Yes Jody responsibility","Wild","No","Kill"],"correctIndex":0,"explanation":"Nurture.","frequencyRating":5},{"id":"g8_e6_q16","text":"Millie milk:","options":["Yes fawn suck","No","Spill","Cow"],"correctIndex":0,"explanation":"Jody.","frequencyRating":5},{"id":"g8_e6_q17","text":"Spot throat:","options":["Yes white like milk","Black","No","Red"],"correctIndex":0,"explanation":"Beautiful.","frequencyRating":5},{"id":"g8_e6_q18","text":"Jody pet:","options":["Yes fawn","Dog","No","Horse"],"correctIndex":0,"explanation":"Devotion.","frequencyRating":5},{"id":"g8_e6_q19","text":"Panther doe:","options":["Yes hind leg shot","Front","No","Miss"],"correctIndex":0,"explanation":"Track.","frequencyRating":5},{"id":"g8_e6_q20","text":"Fawn bleat:","options":["Yes mother call","Silence","No","Run"],"correctIndex":0,"explanation":"Jody.","frequencyRating":5},{"id":"g8_e6_q21","text":"Creek fawn:","options":["Yes alone","Family","No","Dead"],"correctIndex":0,"explanation":"Bleating.","frequencyRating":5},{"id":"g8_e6_q22","text":"Fawn lick:","options":["Yes Jody face","Bite","No","Run"],"correctIndex":0,"explanation":"Bond.","frequencyRating":5},{"id":"g8_e6_q23","text":"Penny shot:","options":["Yes panther revenge","Miss","No","Fawn"],"correctIndex":0,"explanation":"Doe.","frequencyRating":5},{"id":"g8_e6_q24","text":"Jody role:","options":["Yes fawn mother","Father","No","Kill"],"correctIndex":0,"explanation":"Responsibility.","frequencyRating":5},{"id":"g8_e6_q25","text":"Millie hand:","options":["Yes milked","Automatic","No","Cow"],"correctIndex":0,"explanation":"Fawn.","frequencyRating":5},{"id":"g8_e6_q26","text":"Fawn first stand:","options":["Yes wobble","Fall","No","Run"],"correctIndex":0,"explanation":"Legs.","frequencyRating":5},{"id":"g8_e6_q27","text":"Panther sign:","options":["Yes track print","No","Bear","Wolf"],"correctIndex":0,"explanation":"Doe.","frequencyRating":5},{"id":"g8_e6_q28","text":"Jody follow:","options":["Yes bleat","Silent","No","Fear"],"correctIndex":0,"explanation":"Pluck.","frequencyRating":5},{"id":"g8_e6_q29","text":"Fawn accept:","options":["Yes lick accept","Reject","No","Attack"],"correctIndex":0,"explanation":"Jody.","frequencyRating":5},{"id":"g8_e6_q30","text":"Theme:","options":["Yes compassion responsibility nature bond","Hunt","No","Fear"],"correctIndex":0,"explanation":"Fawn.","frequencyRating":5},{"id":"g8_e6_q31","text":"Doe shot:","options":["Yes hind","Front","No","Miss"],"correctIndex":0,"explanation":"Panther.","frequencyRating":5},{"id":"g8_e6_q32","text":"Fawn spot:","options":["Yes throat white","Leg","No","Eye"],"correctIndex":0,"explanation":"Like milk.","frequencyRating":5},{"id":"g8_e6_q33","text":"Millie goat:","options":["Yes source milk","Cow","No","Water"],"correctIndex":0,"explanation":"Fawn.","frequencyRating":5},{"id":"g8_e6_q34","text":"Jody devotion:","options":["Yes nurture pet","Ignore","No","Hunt"],"correctIndex":0,"explanation":"Fawn.","frequencyRating":5},{"id":"g8_e6_q35","text":"Panther revenge:","options":["Yes Penny shot","No","Jody","Fawn"],"correctIndex":0,"explanation":"Doe.","frequencyRating":5},{"id":"g8_e6_q36","text":"Fawn bleat response:","options":["Yes mother","Silence","No","Angry"],"correctIndex":0,"explanation":"Jody.","frequencyRating":5},{"id":"g8_e6_q37","text":"Creek scene:","options":["Yes fawn alone","Family","No","Panther"],"correctIndex":0,"explanation":"Bleat.","frequencyRating":5},{"id":"g8_e6_q38","text":"Bond lick:","options":["Yes instant","Slow","No","Fear"],"correctIndex":0,"explanation":"Fawn Jody.","frequencyRating":5},{"id":"g8_e6_q39","text":"Responsibility theme:","options":["Yes human animal","Hunt","No","Abandon"],"correctIndex":0,"explanation":"Jody.","frequencyRating":5},{"id":"g8_e6_q40","text":"Nature circle life:","options":["Yes death new life","End","No","Fear"],"correctIndex":0,"explanation":"Fawn.","frequencyRating":5}]}
+{
+  "id": "g8_eng_ch6",
+  "grade": "8",
+  "subject": "English",
+  "number": "6",
+  "title": "This is Jody’s Fawn",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_e6_q1",
+      "text": "Who is the author of the story 'This is Jody's Fawn'?",
+      "options": ["Ruskin Bond", "Marjorie Kinnan Rawlings", "Michael Morpurgo", "Leo Tolstoy"],
+      "correctIndex": 1,
+      "explanation": "The story is written by Marjorie Kinnan Rawlings.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e6_q2",
+      "text": "What happened to Jody's father, Penny?",
+      "options": ["He was bitten by a rattlesnake", "He was lost in the woods", "He was ill with fever", "He fell from a tree"],
+      "correctIndex": 0,
+      "explanation": "Jody's father was bitten by a rattlesnake while in the forest.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e6_q3",
+      "text": "How did Penny save his own life after the snake bite?",
+      "options": ["By taking medicine", "By killing a doe and using its heart and liver to draw out the poison", "By calling a doctor", "By running home immediately"],
+      "correctIndex": 1,
+      "explanation": "He used a traditional remedy of using a doe's internal organs to extract the venom.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e6_q4",
+      "text": "Why was Jody worried about the fawn?",
+      "options": ["He wanted a pet", "He was afraid it would starve to death without its mother", "He wanted to hunt it", "He thought it was dangerous"],
+      "correctIndex": 1,
+      "explanation": "Since they killed the mother doe, Jody felt responsible for the abandoned fawn's survival.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e6_q5",
+      "text": "What was the father's reaction when Jody asked to bring the fawn home?",
+      "options": ["He was angry", "He agreed, saying it would be ungrateful to leave it to starve", "He said they had no food", "He ignored Jody"],
+      "correctIndex": 1,
+      "explanation": "Penny felt a sense of gratitude and guilt, agreeing with Jody's compassionate plea.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e6_q6",
+      "text": "What did Jody offer to give up so they could keep the fawn?",
+      "options": ["His toys", "His bed", "His share of milk", "His clothes"],
+      "correctIndex": 2,
+      "explanation": "Jody promised to share his milk with the fawn as they didn't have much extra food.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e6_q7",
+      "text": "Who went with Jody on the horse to find the fawn?",
+      "options": ["His father", "Mill-wheel", "Doc Wilson", "His mother"],
+      "correctIndex": 1,
+      "explanation": "Mill-wheel accompanied Jody into the forest on horseback.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e6_q8",
+      "text": "Why did Jody want to go alone into the woods at the final stage of the search?",
+      "options": ["He was afraid of Mill-wheel", "He didn't want anyone to see his disappointment or intense joy", "He wanted to hide from his father", "He knew the way better"],
+      "correctIndex": 1,
+      "explanation": "Jody wanted the moment of finding (or not finding) the fawn to be private.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e6_q9",
+      "text": "What did Jody see in the clearing that indicated something had died there?",
+      "options": ["Bears", "Buzzards (vultures)", "Wolves", "Lions"],
+      "correctIndex": 1,
+      "explanation": "A group of buzzards were sitting in a circle around the carcass of the doe.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e6_q10",
+      "text": "How did the buzzards react when Jody threw a twig at them?",
+      "options": ["They attacked him", "They flew into a nearby tree", "They ignored him", "They ran away"],
+      "correctIndex": 1,
+      "explanation": "They rose in a noisy cloud and settled in the branches of a tree.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e6_q11",
+      "text": "How did Jody know that the fawn was a male?",
+      "options": ["From its size", "The spots were all in a line", "It had horns", "By its sound"],
+      "correctIndex": 1,
+      "explanation": "Penny had told him that on a buck-fawn, the spots are all in a line.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e6_q12",
+      "text": "What was the fawn's reaction when Jody first touched it?",
+      "options": ["It ran away", "It bit him", "It quivered and didn't move", "It started playing"],
+      "correctIndex": 2,
+      "explanation": "The fawn was startled and shook, but it allowed Jody to touch its neck.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e6_q13",
+      "text": "How did Jody carry the fawn back through the bushes?",
+      "options": ["He tied a rope", "He carried it in his arms, shielding its face", "He let it walk", "He put it in a bag"],
+      "correctIndex": 1,
+      "explanation": "He picked it up and tried to protect it from the prickly vines.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e6_q14",
+      "text": "Why did Jody have to stop and rest while carrying the fawn?",
+      "options": ["His legs were aching", "The fawn was too heavy", "He was lost", "Both A and B"],
+      "correctIndex": 3,
+      "explanation": "Jody was a young boy and the physical effort of carrying the fawn was exhausting.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e6_q15",
+      "text": "What did Jody remember his father saying about fawns?",
+      "options": ["They are dangerous", "A fawn will follow you if it has first been carried", "They never leave their mothers", "They like to eat grass"],
+      "correctIndex": 1,
+      "explanation": "This memory encouraged Jody to let the fawn walk some of the distance.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e6_q16",
+      "text": "When Jody reached home, where did he take the fawn first?",
+      "options": ["To the kitchen", "Into his father's bedroom", "To the barn", "To the garden"],
+      "correctIndex": 1,
+      "explanation": "He wanted to show his father that he had successfully brought the fawn back.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e6_q17",
+      "text": "What was the fawn's reaction to the stairs?",
+      "options": ["It ran up", "It balked and refused to climb them", "It fell down", "It cried"],
+      "correctIndex": 1,
+      "explanation": "The fawn was scared of the unfamiliar wooden stairs and had to be carried up.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e6_q18",
+      "text": "How did Jody feed the milk to the fawn?",
+      "options": ["With a spoon", "He dipped his fingers in milk and let the fawn suck them", "From a bowl on the floor", "From a bottle"],
+      "correctIndex": 1,
+      "explanation": "The fawn didn't know how to drink from a bowl, so Jody used his fingers to mimic nursing.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e6_q19",
+      "text": "What did the fawn do with its small hooves while drinking milk?",
+      "options": ["It kicked Jody", "It danced", "It stamped them impatiently on the floor", "It slept"],
+      "correctIndex": 2,
+      "explanation": "This showed the fawn's eagerness and hunger.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e6_q20",
+      "text": "Which word best describes Jody's character?",
+      "options": ["Cruel", "Selfish", "Compassionate and responsible", "Lazy"],
+      "correctIndex": 2,
+      "explanation": "Jody's concern for the orphaned animal shows his deep empathy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e6_q21",
+      "text": "What was the mother's initial reaction when Jody told her about the fawn?",
+      "options": ["She was delighted", "She gasped and held her coffee pot in mid-air", "She started crying", "She told him to leave"],
+      "correctIndex": 1,
+      "explanation": "She was shocked by the idea of bringing a wild animal into the house.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e6_q22",
+      "text": "Who said, 'Nothing in the world ever comes quite free'?",
+      "options": ["Penny", "Doc Wilson", "Mill-wheel", "Ma Baxter"],
+      "correctIndex": 1,
+      "explanation": "Doc Wilson said this to support Jody's decision, implying they owed a debt to the doe.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e6_q23",
+      "text": "What kind of snake bit Penny?",
+      "options": ["Cobra", "Rattlesnake", "Python", "Viper"],
+      "correctIndex": 1,
+      "explanation": "The text explicitly mentions it was a rattlesnake.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e6_q24",
+      "text": "What was the 'scrub' mentioned in the story?",
+      "options": ["A tool for cleaning", "An area of low trees and bushes", "A river", "A mountain"],
+      "correctIndex": 1,
+      "explanation": "It refers to the vegetation in the forest where the hunt happened.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e6_q25",
+      "text": "How did Jody find his way back home?",
+      "options": ["He followed a map", "He followed the horse's tracks", "He used a compass", "He followed the sound of a bell"],
+      "correctIndex": 1,
+      "explanation": "He relied on the physical trail left by the horse.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e6_q26",
+      "text": "The fawn's skin was ________.",
+      "options": ["Rough", "Very soft", "Scaly", "Wet"],
+      "correctIndex": 1,
+      "explanation": "The author describes the fawn's coat as sleek and clean with a sweet scent of grass.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e6_q27",
+      "text": "Jody's father's eyes were ________ when Jody spoke to him.",
+      "options": ["Closed", "Bright and clear", "Red with anger", "Filled with tears"],
+      "correctIndex": 1,
+      "explanation": "This indicated that Penny was recovering and feeling better.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e6_q28",
+      "text": "Why did Jody feel the fawn belonged to him?",
+      "options": ["He bought it", "Because he had found it and saved it", "His mother gave it to him", "The law said so"],
+      "correctIndex": 1,
+      "explanation": "The shared experience and his effort created a bond of ownership.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e6_q29",
+      "text": "Mill-wheel offered to give Jody a ride because:",
+      "options": ["He wanted to see the fawn too", "Jody was too small to walk that far", "He was bored", "Penny ordered him to"],
+      "correctIndex": 1,
+      "explanation": "The distance was long and the terrain difficult for a child.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e6_q30",
+      "text": "The story takes place in a ________ setting.",
+      "options": ["City", "Rural/Forest", "Desert", "Seaside"],
+      "correctIndex": 1,
+      "explanation": "The entire story revolves around a homestead near a forest.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e6_q31",
+      "text": "What did the buzzards do when Jody approached the doe's carcass?",
+      "options": ["They hissed at him", "They flew away immediately", "They flapped their wings and stayed in the tree", "They ignored him"],
+      "correctIndex": 0,
+      "explanation": "The large birds hissed as a defensive gesture.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e6_q32",
+      "text": "How did Jody feel when he finally found the fawn?",
+      "options": ["Scared", "Light-headed with joy", "Angry", "Indifferent"],
+      "correctIndex": 1,
+      "explanation": "He was overwhelmed with emotion and happiness.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e6_q33",
+      "text": "What did Jody use to shield the fawn's face from the vines?",
+      "options": ["His hat", "His hands/arms", "A cloth", "A leaf"],
+      "correctIndex": 1,
+      "explanation": "He used his own body to protect the small animal.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e6_q34",
+      "text": "The fawn's spots were ________.",
+      "options": ["Random", "In a line", "Circular", "None"],
+      "correctIndex": 1,
+      "explanation": "Specific to male fawns (bucks), the spots are aligned.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e6_q35",
+      "text": "Jody's house was located in:",
+      "options": ["A clearing", "Under a bridge", "On a cliff", "In a cave"],
+      "correctIndex": 0,
+      "explanation": "The family lived in a cabin within a forest clearing.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e6_q36",
+      "text": "The fawn bleated ________ when Jody walked away for a moment.",
+      "options": ["Loudly", "Pitifully", "Happily", "Angrily"],
+      "correctIndex": 1,
+      "explanation": "It showed the fawn's dependency and attachment to Jody.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e6_q37",
+      "text": "What was the name of the author's famous novel from which this might be inspired?",
+      "options": ["The Yearling", "Black Beauty", "Old Yeller", "Lassie"],
+      "correctIndex": 0,
+      "explanation": "Marjorie Kinnan Rawlings is best known for 'The Yearling'.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g8_e6_q38",
+      "text": "The story teaches us about:",
+      "options": ["Hunting skills", "Moral obligation and kindness toward animals", "Snake bite remedies", "How to ride a horse"],
+      "correctIndex": 1,
+      "explanation": "The core theme is taking responsibility for the consequences of one's actions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e6_q39",
+      "text": "Jody's mother eventually ________ the idea of the fawn.",
+      "options": ["Rejected", "Accepted", "Forgot", "Laughed at"],
+      "correctIndex": 1,
+      "explanation": "Though reluctant, she allowed Jody to go and bring it back.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e6_q40",
+      "text": "By the end of the story, the fawn is:",
+      "options": ["Lost again", "Back in the woods", "Safe and being fed at Jody's home", "Dead"],
+      "correctIndex": 2,
+      "explanation": "The story ends with a touching scene of Jody nursing the fawn.",
+      "frequencyRating": 5
+    }
+  ]
+}

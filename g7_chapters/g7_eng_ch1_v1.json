@@ -8,83 +8,323 @@
   "questions": [
     {
       "id": "g7_e1_q1",
-      "text": "The story 'Three Questions' was written by:",
-      "options": ["Rabindranath Tagore", "Leo Tolstoy", "Roald Dahl", "Ruskin Bond"],
-      "correctIndex": 1,
-      "explanation": "Leo Tolstoy is a famous Russian author known for this philosophical short story.",
-      "frequencyRating": 3
+      "text": "What was the first question that came to the king's mind?",
+      "options": ["What is the right time to begin something?", "Who are the right people to listen to?", "What is the most important thing to do?", "How can I become famous?"],
+      "correctIndex": 0,
+      "explanation": "The king believed that if he knew the right time for every action, he would never fail.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_e1_q2",
-      "text": "What was the most important time according to the hermit?",
-      "options": ["The future", "The past", "Now", "A fixed schedule"],
-      "correctIndex": 2,
-      "explanation": "The most important time is 'Now' because it is the only time we have power to act.",
+      "text": "The king promised a large sum of money to anyone who could:",
+      "options": ["Find a treasure", "Answer his three questions", "Defeat his enemies", "Build a palace"],
+      "correctIndex": 1,
+      "explanation": "He sent messengers throughout his kingdom promising a reward for the correct answers.",
       "frequencyRating": 5
     },
     {
       "id": "g7_e1_q3",
-      "text": "Who is the most important person?",
-      "options": ["A King", "A Priest", "The person you are with at a particular moment", "A Doctor"],
-      "correctIndex": 2,
-      "explanation": "The most important person is the one with whom you are at any given moment.",
-      "frequencyRating": 5
+      "text": "To know the right time for every action, some wise men suggested the king should have a:",
+      "options": ["Council of wise men", "Magic mirror", "Clock", "Army of soldiers"],
+      "correctIndex": 0,
+      "explanation": "Some believed a single man couldn't decide the right time, so a council was needed.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_e1_q4",
-      "text": "What is the most important business/work?",
-      "options": ["Fighting wars", "Collecting taxes", "To do good for the person you are with", "Studying science"],
-      "correctIndex": 2,
-      "explanation": "The purpose of life is to do good for others.",
-      "frequencyRating": 5
+      "text": "Others said that only ________ could look into the future and tell the right time.",
+      "options": ["Doctors", "Magicians", "Priests", "Farmers"],
+      "correctIndex": 1,
+      "explanation": "Since some things might be urgent, only magicians were thought to know the future.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_e1_q5",
-      "text": "The King went to visit the hermit in:",
-      "options": ["Rich clothes", "Simple clothes", "His armor", "A disguise"],
-      "correctIndex": 1,
-      "explanation": "The hermit only saw common folk, so the King put on simple clothes.",
-      "frequencyRating": 3
+      "text": "In answer to the second question, some wise men said the most important people were:",
+      "options": ["Soldiers", "Councillors", "Doctors", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Different people gave different answers, mentioning councillors, priests, doctors, or soldiers.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_e1_q6",
-      "text": "When the King reached the hermit's hut, the hermit was:",
-      "options": ["Sleeping", "Praying", "Digging the ground", "Eating"],
-      "correctIndex": 2,
-      "explanation": "The hermit was digging the flower beds in front of his hut.",
-      "frequencyRating": 4
+      "text": "The king decided to seek the advice of a certain ________ widely known for his wisdom.",
+      "options": ["Teacher", "Hermit", "Scientist", "Merchant"],
+      "correctIndex": 1,
+      "explanation": "The hermit lived in a wood which he never left and saw only simple people.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_e1_q7",
-      "text": "Who was the bearded man who came running out of the woods?",
-      "options": ["The King's brother", "The King's enemy", "The hermit's son", "A thief"],
+      "text": "When the king went to see the hermit, he put on:",
+      "options": ["Royal robes", "Simple clothes", "A soldier's uniform", "A merchant's outfit"],
       "correctIndex": 1,
-      "explanation": "The man was the King's enemy who had planned to kill him.",
-      "frequencyRating": 4
+      "explanation": "The hermit saw only common folk, so the king disguised himself as a simple person.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_e1_q8",
-      "text": "Why did the bearded man ask for the King's forgiveness?",
-      "options": ["He stole money", "He broke the law", "The King saved his life", "He lost his way"],
+      "text": "What was the hermit doing when the king arrived?",
+      "options": ["Sleeping", "Praying", "Digging the ground", "Eating"],
       "correctIndex": 2,
-      "explanation": "The King dressed his wounds and saved him even though he was an enemy.",
-      "frequencyRating": 4
+      "explanation": "The hermit was digging the ground in front of his hut for seed beds.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_e1_q9",
-      "text": "The hermit gave his answers to the King's questions:",
-      "options": ["Immediately", "Through a letter", "After the King helped the wounded man", "He never answered"],
+      "text": "How did the hermit respond when the king first asked his questions?",
+      "options": ["He answered immediately", "He told the king to go away", "He listened but said nothing", "He laughed at the king"],
       "correctIndex": 2,
-      "explanation": "The hermit waited for the King to experience the answers through his actions.",
-      "frequencyRating": 3
+      "explanation": "The hermit continued digging and did not speak to the king initially.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_e1_q10",
-      "text": "Which question was the King NOT seeking an answer to?",
-      "options": ["What is the right time to begin something?", "Which people should he listen to?", "How can he become the richest King?", "What is the most important thing to do?"],
-      "correctIndex": 2,
-      "explanation": "The King wanted to know how to be successful and never fail, not specifically about wealth.",
+      "text": "The king offered to help the hermit because the hermit looked:",
+      "options": ["Strong", "Tired and frail", "Angry", "Happy"],
+      "correctIndex": 1,
+      "explanation": "The hermit was old and weak, and each time he struck the ground, he breathed heavily.",
       "frequencyRating": 4
+    },
+    {
+      "id": "g7_e1_q11",
+      "text": "Who came running out of the wood while the king was with the hermit?",
+      "options": ["A wild animal", "A bearded man", "A soldier", "The king's messenger"],
+      "correctIndex": 1,
+      "explanation": "A man with his hands pressed against his stomach came running towards them.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e1_q12",
+      "text": "What had happened to the bearded man?",
+      "options": ["He was bitten by a snake", "He was wounded by the king's bodyguards", "He fell into a pit", "He was sick"],
+      "correctIndex": 1,
+      "explanation": "He was hiding to ambush the king, but the bodyguards recognized and wounded him.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e1_q13",
+      "text": "How did the king help the wounded man?",
+      "options": ["He called a doctor", "He bandaged the wound with his handkerchief", "He gave him water only", "He ignored him"],
+      "correctIndex": 1,
+      "explanation": "The king washed and bandaged the man's stomach wound until the bleeding stopped.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e1_q14",
+      "text": "Why did the bearded man want to kill the king?",
+      "options": ["To steal his money", "To become the king", "To take revenge for his brother's death and property", "He was a foreign spy"],
+      "correctIndex": 2,
+      "explanation": "The king had put the man's brother to death and seized his property.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e1_q15",
+      "text": "What did the man promise the king after being saved?",
+      "options": ["To kill him later", "To serve him as his most faithful servant", "To leave the country", "To give him a gift"],
+      "correctIndex": 1,
+      "explanation": "Grateful for his life, the man asked for forgiveness and pledged his loyalty.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e1_q16",
+      "text": "According to the hermit, what is the only time that is important?",
+      "options": ["Yesterday", "Tomorrow", "Now", "Midnight"],
+      "correctIndex": 2,
+      "explanation": "The most important time is 'Now', because it is the only time we have any power to act.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e1_q17",
+      "text": "Who is the most necessary person, according to the hermit's final answer?",
+      "options": ["The King", "The person you are with at a particular moment", "A family member", "A famous wise man"],
+      "correctIndex": 1,
+      "explanation": "No one knows what will happen in the future, so the person you are with 'now' is the most important.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e1_q18",
+      "text": "What is the most important business/thing to do?",
+      "options": ["To earn money", "To do good to the person you are with", "To conquer lands", "To study books"],
+      "correctIndex": 1,
+      "explanation": "The hermit explained that humans were sent into this life for the purpose of doing good.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e1_q19",
+      "text": "If the king had not pitied the hermit's weakness and dug the beds, what would have happened?",
+      "options": ["He would have been bored", "The man would have attacked him on his way back", "He would have found the answers earlier", "The hermit would have died"],
+      "correctIndex": 1,
+      "explanation": "The hermit pointed out that the king's act of digging saved his life from the ambush.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e1_q20",
+      "text": "The story 'Three Questions' is written by:",
+      "options": ["Leo Tolstoy", "Rabindranath Tagore", "Ruskin Bond", "William Shakespeare"],
+      "correctIndex": 0,
+      "explanation": "Leo Tolstoy is a famous Russian author known for this philosophical story.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e1_q21",
+      "text": "The word 'beds' in the context of the story means:",
+      "options": ["Places to sleep", "Small patches of ground for plants", "River bottoms", "Layers of rocks"],
+      "correctIndex": 1,
+      "explanation": "The king helped the hermit dig seed-beds for planting.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e1_q22",
+      "text": "The king's messengers were sent throughout the kingdom to:",
+      "options": ["Collect taxes", "Declare war", "Announce the reward for the answers", "Find the hermit"],
+      "correctIndex": 2,
+      "explanation": "They were used to publicize the king's need for wise advice.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e1_q23",
+      "text": "When the king reached the hermit's hut, he left his ________ with his bodyguards.",
+      "options": ["Crown", "Horse", "Sword", "Bag of gold"],
+      "correctIndex": 1,
+      "explanation": "He dismounted and walked the remaining distance alone to appear humble.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e1_q24",
+      "text": "The hermit was ________ while he spoke to the king for the first time.",
+      "options": ["Eating", "Sleeping", "Breathing heavily", "Singing"],
+      "correctIndex": 2,
+      "explanation": "He was weak and old, and the work of digging was physically taxing.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e1_q25",
+      "text": "Why did the king forgive the bearded man?",
+      "options": ["Because he was afraid", "Because the man was wounded", "Because he had made peace with his enemy so easily", "Because the hermit told him to"],
+      "correctIndex": 2,
+      "explanation": "The king was happy to have gained a friend and resolved a conflict.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e1_q26",
+      "text": "What does the word 'fainted' mean in the story?",
+      "options": ["Died", "Lost consciousness", "Ran away", "Cried loudly"],
+      "correctIndex": 1,
+      "explanation": "The wounded man lost consciousness and fell to the ground due to pain and blood loss.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e1_q27",
+      "text": "The king repeated his questions after digging ________.",
+      "options": ["One bed", "Two beds", "Ten beds", "For an hour"],
+      "correctIndex": 1,
+      "explanation": "After digging two beds, the king stopped to see if the hermit would answer him.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e1_q28",
+      "text": "The tone of the story is primarily:",
+      "options": ["Humorous", "Scary", "Moral and philosophical", "Scientific"],
+      "correctIndex": 2,
+      "explanation": "The story aims to teach a lesson about living in the present and doing good.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e1_q29",
+      "text": "What did the king use to wash the man's wound?",
+      "options": ["Wine", "Clean water", "Milk", "Soap"],
+      "correctIndex": 1,
+      "explanation": "He used fresh water to clean the injury as best as he could in the woods.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e1_q30",
+      "text": "The bearded man was hiding in an ________ to wait for the king.",
+      "options": ["Ambush (hiding place)", "Underground tunnel", "Tree", "Cave"],
+      "correctIndex": 0,
+      "explanation": "He intended to surprise and kill the king on his way home.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e1_q31",
+      "text": "The king was not satisfied with the answers of the wise men because:",
+      "options": ["They were too short", "They were all different and confusing", "They were expensive", "The messengers lost them"],
+      "correctIndex": 1,
+      "explanation": "The variety of conflicting answers provided no clear guidance to the king.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e1_q32",
+      "text": "A 'Council' is a group of people chosen to:",
+      "options": ["Fight in wars", "Give advice or make rules", "Build roads", "Cook for the king"],
+      "correctIndex": 1,
+      "explanation": "The king considered forming a council to help him decide the right time for everything.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e1_q33",
+      "text": "The king spent the night ________ at the hermit's hut.",
+      "options": ["On a soft bed", "On the floor", "On the grass outside", "In a chair"],
+      "correctIndex": 1,
+      "explanation": "He was so tired from the day's work and walk that he slept on the threshold/floor.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e1_q34",
+      "text": "When did the king decide to ask the questions one last time?",
+      "options": ["Before leaving the next morning", "In the middle of the night", "Right after the man fainted", "He never asked again"],
+      "correctIndex": 0,
+      "explanation": "Before departing, he made one final attempt to get answers from the hermit.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e1_q35",
+      "text": "The hermit was sowing seeds in the beds that had been dug ________.",
+      "options": ["A week ago", "The day before", "That morning", "By the bearded man"],
+      "correctIndex": 1,
+      "explanation": "When the king approached him the next morning, the hermit was busy with the beds they had dug.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e1_q36",
+      "text": "The hermit told the king that he had ________ been answered.",
+      "options": ["Never", "Already", "Partially", "Wrongly"],
+      "correctIndex": 1,
+      "explanation": "The hermit used the events of the previous day to show the king the answers in practice.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e1_q37",
+      "text": "Which of these is a synonym for 'Hermit'?",
+      "options": ["Socialite", "Recluse", "Monarch", "Warrior"],
+      "correctIndex": 1,
+      "explanation": "A hermit is someone who lives a solitary and often simple life.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e1_q38",
+      "text": "What does the king's willingness to dig for the hermit show about his character?",
+      "options": ["He was lazy", "He was humble and helpful", "He was showing off", "He was forced to do it"],
+      "correctIndex": 1,
+      "explanation": "It demonstrated that he was down-to-earth and compassionate towards others.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e1_q39",
+      "text": "The bearded man's initial intention was to take ________ from the king.",
+      "options": ["Money", "Property", "Revenge", "His crown"],
+      "correctIndex": 2,
+      "explanation": "Revenge was the primary motivator for his planned attack.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e1_q40",
+      "text": "The moral of the story is that life's purpose is to:",
+      "options": ["Become the most powerful ruler", "Live for oneself", "Serve others and do good in the present", "Find all the answers in books"],
+      "correctIndex": 2,
+      "explanation": "The story concludes that the only reason humans are sent to this earth is to do good for others.",
+      "frequencyRating": 5
     }
   ]
 }

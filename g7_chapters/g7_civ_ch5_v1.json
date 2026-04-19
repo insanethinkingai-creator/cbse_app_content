@@ -7,84 +7,324 @@
   "version": "v1",
   "questions": [
     {
-      "id": "g7_civ_ch5_q1",
-      "text": "Who was the first Indian woman to write an autobiography, titled 'Amar Jiban'?",
-      "options": ["Rokeya Sakhawat Hossain", "Rashsundari Devi", "Pandita Ramabai", "Tarabai Shinde"],
+      "id": "g7_c5_q1",
+      "text": "Which of the following is a common stereotype regarding women's work?",
+      "options": ["They are good at technical things", "They are good nurses because they are patient and gentle", "They should be army officers", "They are better scientists than men"],
       "correctIndex": 1,
-      "explanation": "Rashsundari Devi was a housewife from a rich landlord's family who learned to read and write in secret.",
+      "explanation": "Stereotypes often limit women to roles seen as an extension of their domestic care-giving.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch5_q2",
-      "text": "Pandita Ramabai was given the title 'Pandita' because she could read and write:",
-      "options": ["Hindi", "Sanskrit", "English", "Marathi"],
-      "correctIndex": 1,
-      "explanation": "She was a remarkable achievement as women then were not allowed such knowledge; she set up a Mission in Khedgaon.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g7_civ_ch5_q3",
-      "text": "What was the title of the story written by Rokeya Sakhawat Hossain in 1905 while she was learning English?",
-      "options": ["Amar Jiban", "Sultana's Dream", "Women's Power", "Learning to Fly"],
-      "correctIndex": 1,
-      "explanation": "The story imagined a place called Ladyland where women had the freedom to study and invent.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g7_civ_ch5_q4",
-      "text": "International Women's Day is celebrated globally on:",
-      "options": ["January 26", "August 15", "March 8", "October 2"],
+      "id": "g7_c5_q2",
+      "text": "Many people believe that science requires a technical mind and ________ are not capable of dealing with it.",
+      "options": ["Men", "Boys", "Girls/Women", "Adults"],
       "correctIndex": 2,
-      "explanation": "On March 8, women all over the world come together to celebrate their struggles and solidarity.",
+      "explanation": "This stereotype prevents many girls from pursuing careers in STEM fields.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch5_q5",
-      "text": "Which method of the women's movement involves creating public awareness through songs, plays, and meetings?",
-      "options": ["Campaigning", "Protesting", "Raising Awareness", "Boycotting"],
+      "id": "g7_c5_q3",
+      "text": "Who became the first woman engine driver for Northern Railways?",
+      "options": ["Rashsundari Devi", "Laxmi Lakra", "Rokeya Sakhawat Hossain", "Pandita Ramabai"],
+      "correctIndex": 1,
+      "explanation": "Laxmi Lakra, from a poor tribal family in Jharkhand, broke stereotypes to become an engine driver.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c5_q4",
+      "text": "Pandita Ramabai was given the title 'Pandita' because she could read and write ________.",
+      "options": ["English", "Hindi", "Sanskrit", "Bengali"],
       "correctIndex": 2,
-      "explanation": "Spreading awareness is a key part of the women's movement to sensitize the public on women's rights.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g7_civ_ch5_q6",
-      "text": "In the 2011 census, what was the literacy rate for women in India?",
-      "options": ["82%", "65%", "54%", "40%"],
-      "correctIndex": 1,
-      "explanation": "While literacy has increased, the gap between male (82%) and female (65%) literacy still exists.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g7_civ_ch5_q7",
-      "text": "Campaigning is an important part of the women's movement to fight:",
-      "options": ["Price rise", "Discrimination and violence", "Bad weather", "Foreign trade"],
-      "correctIndex": 1,
-      "explanation": "Campaigns have led to new laws being passed, such as the law against domestic violence in 2006.",
+      "explanation": "Sanskrit knowledge was a remarkable achievement for a woman at a time when they were not allowed to be educated.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_civ_ch5_q8",
-      "text": "What is the primary reason why many girls from Dalit and Adivasi backgrounds leave school?",
-      "options": ["Lack of interest", "Poverty and discrimination", "They prefer working", "Lack of books"],
-      "correctIndex": 1,
-      "explanation": "A combination of lack of facilities in rural areas and socio-economic pressures leads to higher dropout rates.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g7_civ_ch5_q9",
-      "text": "The women's movement uses 'Solidarity' to:",
-      "options": ["Show support for other women and causes", "Earn more money", "Compete with men", "Win elections"],
+      "id": "g7_c5_q5",
+      "text": "Where did Pandita Ramabai set up a Mission to teach women various skills like carpentry?",
+      "options": ["Pune (Khedgaon)", "Mumbai", "Delhi", "Kolkata"],
       "correctIndex": 0,
-      "explanation": "Solidarity is about showing unity with other women and shared global struggles.",
+      "explanation": "The mission helped widows and poor women become independent through education and vocational training.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c5_q6",
+      "text": "Rashsundari Devi wrote her autobiography, the first by an Indian woman, titled:",
+      "options": ["Joothan", "Amar Jiban", "Wings of Fire", "Discovery of India"],
+      "correctIndex": 1,
+      "explanation": "'Amar Jiban' (My Life) was written in Bengali and describes her struggle to learn reading in secret.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c5_q7",
+      "text": "Rashsundari Devi learned to read by secretly looking at pages of the ________.",
+      "options": ["Ramayana", "Chaitanya Bhagabat", "Quran", "Bible"],
+      "correctIndex": 1,
+      "explanation": "She was 60 years old when she finished writing her life story.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c5_q8",
+      "text": "Rokeya Sakhawat Hossain wrote a remarkable story about a utopian world where women run everything, titled:",
+      "options": ["Wonder Woman", "Sultana's Dream", "The Female State", "Queen's Land"],
+      "correctIndex": 1,
+      "explanation": "The story was written in 1905 and imagined a place called 'Ladyland' where men were in seclusion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c5_q9",
+      "text": "Rokeya Sakhawat Hossain started a school for girls in ________ in 1910.",
+      "options": ["Patna", "Kolkata", "Both A and B", "Neither A nor B"],
+      "correctIndex": 2,
+      "explanation": "She remained a champion for girls' education throughout her life.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c5_q10",
+      "text": "According to the 2011 census, what is the literacy rate for girls/women in India?",
+      "options": ["50%", "65.46%", "82%", "40%"],
+      "correctIndex": 1,
+      "explanation": "While literacy has increased (from 8.9% in 1951), it still lags behind men (82.14%).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c5_q11",
+      "text": "The percentage of children who leave school is highest among ________ communities.",
+      "options": ["Urban", "SC, ST and Muslim", "General", "Rich"],
+      "correctIndex": 1,
+      "explanation": "Social and economic reasons, including poverty and discrimination, lead to higher drop-out rates in these groups.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c5_q12",
+      "text": "Women and girls now have the right to study and go to school. This is due to the:",
+      "options": ["Government only", "Women's Movement", "Kings", "Foreigners"],
+      "correctIndex": 1,
+      "explanation": "Individual and collective struggles have brought about changes in education, health, and legal rights.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c5_q13",
+      "text": "What is 'Campaigning' in the context of the Women's Movement?",
+      "options": ["Going on a trip", "Fighting against discrimination and violence", "Selling products", "Opening a shop"],
+      "correctIndex": 1,
+      "explanation": "Campaigns have led to new laws being passed, such as the Domestic Violence Act of 2005.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c5_q14",
+      "text": "In 2006, a law was passed to give women some legal protection against ________.",
+      "options": ["Bad food", "Domestic violence", "Traveling", "Homework"],
+      "correctIndex": 1,
+      "explanation": "The law provides protection to women facing physical and mental violence within their homes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c5_q15",
+      "text": "The Women's Movement campaigned against the ________ system, leading to changes in the 1980s.",
+      "options": ["Caste", "Dowry", "Tax", "School"],
+      "correctIndex": 1,
+      "explanation": "Protests against 'dowry deaths' and harassment forced the law to be changed to punish families who do this.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c5_q16",
+      "text": "The Supreme Court formulated guidelines in 1997 to protect women against ________ at work and in schools.",
+      "options": ["Theft", "Sexual harassment", "Rain", "Loud music"],
+      "correctIndex": 1,
+      "explanation": "These guidelines aim to ensure a safe environment for women to study and work.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c5_q17",
+      "text": "Public rallies, street plays, and meetings are part of ________ in the women's movement.",
+      "options": ["Raising awareness", "Censorship", "Secret meetings", "Trading"],
+      "correctIndex": 0,
+      "explanation": "It is important to spread the message of women's rights to the general public.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c5_q18",
+      "text": "When women hold up candles or join hands to support a cause, it is called ________.",
+      "options": ["Protesting", "Showing solidarity", "Campaigning", "Stereotyping"],
+      "correctIndex": 1,
+      "explanation": "Solidarity is about showing support for other women and their struggles.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c5_q19",
+      "text": "International Women's Day is celebrated on:",
+      "options": ["January 1", "March 8", "August 15", "December 25"],
+      "correctIndex": 1,
+      "explanation": "On this day, women all over the world come together to celebrate their achievements and struggle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c5_q20",
+      "text": "Stereotypes about women can be ________ for their development.",
+      "options": ["Helpful", "Harmful", "Useless", "Nice"],
+      "correctIndex": 1,
+      "explanation": "Stereotypes limit the opportunities available to women and girls.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c5_q21",
+      "text": "Why do many girls drop out of school in rural areas?",
+      "options": ["They are lazy", "Lack of proper schools and teachers", "They don't like reading", "Too many schools"],
+      "correctIndex": 1,
+      "explanation": "Distance from home, lack of transport, and absence of teachers make schooling difficult.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c5_q22",
+      "text": "Rashsundari Devi was a ________ woman from a landlord's family.",
+      "options": ["Poor", "High-status", "Tribal", "Foreign"],
+      "correctIndex": 1,
+      "explanation": "Even though she was from a wealthy background, she was denied the right to education.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c5_q23",
+      "text": "What is the literacy rate of SC and ST girls compared to the national average?",
+      "options": ["Higher", "Lower", "Same", "100%"],
+      "correctIndex": 1,
+      "explanation": "Social disadvantages result in lower educational attainment for girls from these communities.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c5_q24",
+      "text": "In the story 'Sultana's Dream', men are kept in 'murdana' while women have ________.",
+      "options": ["No rights", "Complete freedom and power", "To cook", "To stay home"],
+      "correctIndex": 1,
+      "explanation": "The story was a powerful subversion of the existing 'purdah' system.",
       "frequencyRating": 3
     },
     {
-      "id": "g7_civ_ch5_q10",
-      "text": "Satya Rani, an active member of the women's movement, fought specifically against:",
-      "options": ["Child labor", "Dowry deaths", "Illiteracy", "Environmental pollution"],
-      "correctIndex": 1,
-      "explanation": "She sat on the steps of the Supreme Court seeking justice for her daughter who was murdered for dowry.",
+      "id": "g7_c5_q25",
+      "text": "The women's movement is also known as the ________ movement.",
+      "options": ["Feminist", "Traditional", "Silent", "Fast"],
+      "correctIndex": 0,
+      "explanation": "It involves the struggle for women's equality in all spheres of life.",
       "frequencyRating": 4
+    },
+    {
+      "id": "g7_c5_q26",
+      "text": "When the women's movement takes to the streets to oppose a wrong decision, it is ________.",
+      "options": ["Campaigning", "Protesting", "Sleeping", "Dancing"],
+      "correctIndex": 1,
+      "explanation": "Public protests are a way of drawing attention to injustices.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c5_q27",
+      "text": "In 1910, Rokeya Sakhawat Hossain was learning ________ while her family wanted her to stay in purdah.",
+      "options": ["Cooking", "English and Urdu", "Sanskrit", "Dancing"],
+      "correctIndex": 1,
+      "explanation": "She was supported by her elder brother and sister in her studies.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_c5_q28",
+      "text": "Literacy means the ability to ________.",
+      "options": ["Drive", "Read and write", "Cook", "Run fast"],
+      "correctIndex": 1,
+      "explanation": "It is the first step towards empowerment and awareness.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c5_q29",
+      "text": "A 'Utopia' like the one in Sultana's Dream is an ________.",
+      "options": ["Actual city", "Imaginary ideal society", "Ancient tomb", "Modern school"],
+      "correctIndex": 1,
+      "explanation": "It is a place where everything is perfect, used as a literary device to critique reality.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_c5_q30",
+      "text": "According to the 1961 census, about ________ per cent of men were literate.",
+      "options": ["15", "40", "80", "100"],
+      "correctIndex": 1,
+      "explanation": "In 1961, there was a huge gap between male (40%) and female (15%) literacy.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c5_q31",
+      "text": "The struggle for women's rights is a ________ struggle.",
+      "options": ["Personal", "Collective", "Useless", "Small"],
+      "correctIndex": 1,
+      "explanation": "It involves many people working together for a common goal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c5_q32",
+      "text": "Which of these is NOT a method used by the women's movement?",
+      "options": ["Campaigning", "Raising Awareness", "Protesting", "Ignoring issues"],
+      "correctIndex": 3,
+      "explanation": "Active engagement is key to the movement's success.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c5_q33",
+      "text": "The law against sexual harassment was a result of ________.",
+      "options": ["The King's order", "Long-term campaigning by women's groups", "A lottery", "Chance"],
+      "correctIndex": 1,
+      "explanation": "Pressure from activists forced the legal system to take action.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c5_q34",
+      "text": "Stereotypes about 'boys' technical minds' often discourage girls from studying ________.",
+      "options": ["History", "Engineering and Physics", "Art", "Languages"],
+      "correctIndex": 1,
+      "explanation": "These biases shape the career choices and educational paths of students.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c5_q35",
+      "text": "Laxmi Lakra's father was a ________.",
+      "options": ["Rich trader", "Poor labourer", "Government officer", "Doctor"],
+      "correctIndex": 1,
+      "explanation": "Her background highlights that even with great odds, determination can lead to change.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c5_q36",
+      "text": "A 'Census' is held every ________ years in India.",
+      "options": ["5", "10", "15", "20"],
+      "correctIndex": 1,
+      "explanation": "It provides vital data about the population, including literacy and sex ratios.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c5_q37",
+      "text": "The Beti Bachao Beti Padhao campaign was started in ________.",
+      "options": ["1990", "2000", "2014", "2020"],
+      "correctIndex": 2,
+      "explanation": "It is a government initiative to improve the efficiency of welfare services for girls.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c5_q38",
+      "text": "Women's organizations also work for ________.",
+      "options": ["Ending global warming only", "Justice and equality for all marginalized groups", "Lowering food prices only", "More rain"],
+      "correctIndex": 1,
+      "explanation": "The movement often links with other social justice causes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_c5_q39",
+      "text": "Learning to read and write was a/an ________ experience for Rashsundari Devi.",
+      "options": ["Boring", "Empowering", "Bad", "Easy"],
+      "correctIndex": 1,
+      "explanation": "It gave her a voice and the ability to share her story with the world.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_c5_q40",
+      "text": "Breaking stereotypes means ________.",
+      "options": ["Doing what everyone else does", "Doing something unexpected of your gender/group", "Breaking toys", "Following all rules"],
+      "correctIndex": 1,
+      "explanation": "Individuals like Laxmi Lakra challenge societal expectations to pave new paths.",
+      "frequencyRating": 5
     }
   ]
 }

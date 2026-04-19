@@ -8,133 +8,323 @@
   "questions": [
     {
       "id": "g8_e1_q1",
-      "text": "What did the narrator buy from the junk shop?",
-      "options": [
-        "A roll-top writing desk",
-        "An old painting",
-        "A broken clock",
-        "A vintage lamp"
-      ],
-      "correctIndex": 0,
-      "explanation": "The narrator bought a large roll-top writing desk that had been discarded as scrap.",
+      "text": "Where did the author find the roll-top desk?",
+      "options": ["In a library", "In a junk shop in Bridport", "At an auction", "In his attic"],
+      "correctIndex": 1,
+      "explanation": "The author found the 19th-century oak desk in a junk shop in Bridport.",
       "frequencyRating": 5
     },
     {
       "id": "g8_e1_q2",
-      "text": "The desk was marked with which date?",
-      "options": [
-        "1850",
-        "1912",
-        "1942",
-        "1921"
-      ],
-      "correctIndex": 1,
-      "explanation": "The desk had a drawer marked '1912', indicating it belonged to that period.",
-      "frequencyRating": 5
+      "text": "What was the condition of the roll-top desk when the author bought it?",
+      "options": ["Brand new", "Slightly used", "In bad condition, scorched on one side", "Perfectly polished"],
+      "correctIndex": 2,
+      "explanation": "The desk was in a clumsy condition with burn marks down one side.",
+      "frequencyRating": 4
     },
     {
       "id": "g8_e1_q3",
-      "text": "Who was the letter from the desk written by?",
-      "options": [
-        "Captain Jim Macpherson",
-        "Hans Wolf",
-        "The junk dealer",
-        "Mrs. Macpherson"
-      ],
+      "text": "When did the author begin working on the desk?",
+      "options": ["On Christmas Eve", "On New Year's Day", "On a Monday morning", "During summer"],
       "correctIndex": 0,
-      "explanation": "Captain Jim Macpherson wrote the letter to his wife during World War I.",
-      "frequencyRating": 5
+      "explanation": "He started repairing the desk on Christmas Eve.",
+      "frequencyRating": 4
     },
     {
       "id": "g8_e1_q4",
-      "text": "When did the Christmas truce take place?",
-      "options": [
-        "December 24, 1914",
-        "December 25, 1914",
-        "December 26, 1914",
-        "January 1, 1915"
-      ],
+      "text": "What did the author find in the secret drawer?",
+      "options": ["Gold coins", "A black tin box", "An old key", "A map"],
       "correctIndex": 1,
-      "explanation": "The letter describes the Christmas truce on December 25, 1914, between British and German soldiers.",
+      "explanation": "Inside the secret drawer, he found a small black tin box taped with a letter.",
       "frequencyRating": 5
     },
     {
       "id": "g8_e1_q5",
-      "text": "What activity did the enemy troops engage in during the truce?",
-      "options": [
-        "Fighting",
-        "Playing football",
-        "Digging trenches",
-        "Shooting cannons"
-      ],
-      "correctIndex": 1,
-      "explanation": "The British and German soldiers played a football match in No Man's Land.",
+      "text": "Who was the letter addressed to?",
+      "options": ["The author", "Jim Macpherson", "Mrs. Connie Macpherson", "Hans Wolf"],
+      "correctIndex": 2,
+      "explanation": "The letter was addressed to Mrs. Jim Macpherson at 12 Copper Beeches, Bridport.",
       "frequencyRating": 5
     },
     {
       "id": "g8_e1_q6",
-      "text": "Who was Fritz?",
-      "options": [
-        "A British officer",
-        "A German soldier who spoke English",
-        "Captain Macpherson's son",
-        "The narrator's friend"
-      ],
+      "text": "What date was written on the letter found in the desk?",
+      "options": ["Dec 25, 1914", "Dec 26, 1914", "Jan 1, 1915", "Dec 24, 1914"],
       "correctIndex": 1,
-      "explanation": "Fritz was a young German soldier from Dusseldorf who conversed with the Captain.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g8_e1_q7",
-      "text": "What was Hans Wolf the captain of?",
-      "options": [
-        "Scots Greys",
-        "2nd Saxon Regiment",
-        "Dorsetshire Regiment",
-        "Irish Guards"
-      ],
-      "correctIndex": 1,
-      "explanation": "Hans Wolf commanded the 2nd Saxon Regiment and led their regimental band.",
+      "explanation": "The letter was written on December 26, 1914.",
       "frequencyRating": 4
     },
     {
-      "id": "g8_e1_q8",
-      "text": "Which carol did both sides sing together?",
-      "options": [
-        "Jingle Bells",
-        "Silent Night",
-        "We Wish You a Merry Christmas",
-        "O Come All Ye Faithful"
-      ],
+      "id": "g8_e1_q7",
+      "text": "Who was Jim Macpherson in the story?",
+      "options": ["A doctor", "A captain of the British army", "A German soldier", "A carpenter"],
       "correctIndex": 1,
-      "explanation": "The Germans sang 'Stille Nacht' (Silent Night), which the English knew and joined.",
+      "explanation": "Jim Macpherson was a captain in the British army during World War I.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e1_q8",
+      "text": "Before joining the army, what was Jim Macpherson's profession?",
+      "options": ["Banker", "Sailor", "School teacher", "Farmer"],
+      "correctIndex": 2,
+      "explanation": "Jim was a school teacher from Dorset in the west of England.",
       "frequencyRating": 5
     },
     {
       "id": "g8_e1_q9",
-      "text": "What German food did Hans offer the Captain?",
-      "options": [
-        "Bread and sausages",
-        "Cake and wine",
-        "Chocolate and beer",
-        "Cheese and apples"
-      ],
-      "correctIndex": 0,
-      "explanation": "Hans offered dark, crusty bread, sausages, and cake.",
-      "frequencyRating": 4
+      "text": "Who initiated the Christmas truce in the letter?",
+      "options": ["The British (Tommies)", "The Germans (Fritzes)", "The Generals", "The author"],
+      "correctIndex": 1,
+      "explanation": "The Germans (Fritzes) first waved a white flag from the trenches.",
+      "frequencyRating": 5
     },
     {
       "id": "g8_e1_q10",
-      "text": "What was the final score of the football match?",
-      "options": [
-        "3-3",
-        "2-2",
-        "1-1",
-        "English won 2-1"
-      ],
-      "correctIndex": 0,
-      "explanation": "The match ended in a 3-3 draw.",
+      "text": "What did the German officer, Hans Wolf, play in the orchestra before the war?",
+      "options": ["Violin", "Piano", "Cello", "Flute"],
+      "correctIndex": 2,
+      "explanation": "Hans Wolf mentioned he used to play the cello in an orchestra in Dusseldorf.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e1_q11",
+      "text": "Which book by Thomas Hardy did Jim and Hans discuss?",
+      "options": ["Tess of the d'Urbervilles", "Far from the Madding Crowd", "The Mayor of Casterbridge", "Jude the Obscure"],
+      "correctIndex": 1,
+      "explanation": "They talked about Bathsheba, Gabriel Oak, and the book 'Far from the Madding Crowd'.",
       "frequencyRating": 4
+    },
+    {
+      "id": "g8_e1_q12",
+      "text": "What food and drink did the soldiers share during the truce?",
+      "options": ["Tea and biscuits", "Wine and cheese", "Schnapps, sausage, and rum", "Beef and potatoes"],
+      "correctIndex": 2,
+      "explanation": "The soldiers shared German schnapps and canned sausage along with British rum.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e1_q13",
+      "text": "How did the soldiers spend time together during the truce?",
+      "options": ["By fighting", "By playing a football match", "By building a wall", "By sleeping"],
+      "correctIndex": 1,
+      "explanation": "The Tommies and Fritzes played a football match in no man's land.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e1_q14",
+      "text": "Who won the football match described in the letter?",
+      "options": ["The British", "The Germans", "It was a draw", "The game was cancelled"],
+      "correctIndex": 1,
+      "explanation": "The Germans won two goals to one.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e1_q15",
+      "text": "What did Hans Wolf and Jim Macpherson agree about resolving wars?",
+      "options": ["Wars are necessary", "Wars should be resolved by a football match", "Wars should be longer", "More weapons are needed"],
+      "correctIndex": 1,
+      "explanation": "They agreed that a football match is a better way to resolve conflict because no one dies and no children are orphaned.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e1_q16",
+      "text": "What was the name of Jim's wife?",
+      "options": ["Sarah", "Connie", "Elizabeth", "Mary"],
+      "correctIndex": 1,
+      "explanation": "Her name was Connie Macpherson.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e1_q17",
+      "text": "What happened to Connie's house?",
+      "options": ["It was sold", "It was destroyed by fire", "It was flooded", "It was renovated"],
+      "correctIndex": 1,
+      "explanation": "Her house had caught fire, likely caused by candles she used instead of electricity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e1_q18",
+      "text": "Where was Connie staying when the author went to find her?",
+      "options": ["At a hotel", "In the ruins of her house", "At Burlington House Nursing Home", "With her sister"],
+      "correctIndex": 2,
+      "explanation": "She was staying in a nursing home on the Dorchester Road.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e1_q19",
+      "text": "How old was Connie when the author visited her?",
+      "options": ["80", "90", "101", "110"],
+      "correctIndex": 2,
+      "explanation": "The story mentions she was a hundred and one years old.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e1_q20",
+      "text": "Who did Connie mistake the author for?",
+      "options": ["Her doctor", "The postman", "Her husband, Jim", "A German soldier"],
+      "correctIndex": 2,
+      "explanation": "Due to her age and memory, she thought the author was Jim returning home for Christmas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e1_q21",
+      "text": "What did Connie call 'the best Christmas present in the world'?",
+      "options": ["The roll-top desk", "The letter", "Jim's (mistaken) return", "A cake"],
+      "correctIndex": 2,
+      "explanation": "She believed Jim had finally come home as promised, which was the best gift for her.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e1_q22",
+      "text": "Which county in England is Bridport located in?",
+      "options": ["Kent", "Dorset", "Sussex", "Devon"],
+      "correctIndex": 1,
+      "explanation": "Bridport is in Dorset, which is where Jim was from.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e1_q23",
+      "text": "Why did Connie use candles instead of electricity?",
+      "options": ["She liked the smell", "She thought electricity was too expensive", "She didn't have power", "Candles were safer"],
+      "correctIndex": 1,
+      "explanation": "The narrator mentions she always thought electricity was too expensive.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e1_q24",
+      "text": "What was the atmosphere in No Man's Land during the truce?",
+      "options": ["Hostile", "Peaceful and friendly", "Tense", "Dark"],
+      "correctIndex": 1,
+      "explanation": "Despite being enemies, the soldiers shared food, laughter, and games.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e1_q25",
+      "text": "What did the author do with the letter at the end?",
+      "options": ["He kept it", "He burnt it", "He delivered it to Connie", "He sold it"],
+      "correctIndex": 2,
+      "explanation": "He felt a sense of duty to return the letter to its owner.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e1_q26",
+      "text": "What is 'No Man's Land'?",
+      "options": ["A park", "The area between two opposing armies' trenches", "A neutral country", "A graveyard"],
+      "correctIndex": 1,
+      "explanation": "It refers to the disputed or unoccupied ground between the front lines of two armies.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e1_q27",
+      "text": "What was the significance of the white flag mentioned by Jim?",
+      "options": ["Signal for attack", "Signal for surrender or truce", "Sign of victory", "Sign of a new king"],
+      "correctIndex": 1,
+      "explanation": "The German soldier waved a white flag to indicate they wanted to stop fighting for Christmas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e1_q28",
+      "text": "Hans Wolf said he had never been to Dorset but knew it from:",
+      "options": ["Radio", "His father", "Books and school", "Travelling in secret"],
+      "correctIndex": 2,
+      "explanation": "He knew England and Dorset from reading books in English at school.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e1_q29",
+      "text": "What was the color of the German soldiers' uniforms?",
+      "options": ["Khaki", "Grey", "Blue", "Red"],
+      "correctIndex": 1,
+      "explanation": "The Germans wore grey coats (Fritzes) while the British wore khaki.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e1_q30",
+      "text": "Jim promised to be home by which occasion in his letter?",
+      "options": ["His birthday", "Next Christmas", "Easter", "Summer"],
+      "correctIndex": 1,
+      "explanation": "He wrote that he expected to be back by next Christmas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e1_q31",
+      "text": "What did the author find difficult about opening the desk drawer?",
+      "options": ["It was locked", "It was stuck tight due to water and fire damage", "He lost the key", "It was too heavy"],
+      "correctIndex": 1,
+      "explanation": "The last drawer was stuck fast and required force to open.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e1_q32",
+      "text": "Who is the author of 'The Best Christmas Present in the World'?",
+      "options": ["Michael Morpurgo", "Leo Tolstoy", "Roald Dahl", "Ruskin Bond"],
+      "correctIndex": 0,
+      "explanation": "The story was written by the famous British author Michael Morpurgo.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e1_q33",
+      "text": "What was the feeling of the author when he found the letter?",
+      "options": ["Angry", "Indifferent", "Guilty but curious", "Scared"],
+      "correctIndex": 2,
+      "explanation": "He felt that 'scruples' (guilt) should have stopped him from reading it, but curiosity won.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e1_q34",
+      "text": "The phrase 'Happy Christmas, Tommy' was shouted by:",
+      "options": ["The Germans", "The British", "The author", "Connie"],
+      "correctIndex": 0,
+      "explanation": "The Germans shouted this to the British soldiers to start the truce.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e1_q35",
+      "text": "What does the story highlight about war?",
+      "options": ["It is glorious", "Soldiers on both sides want peace and family", "It is the only way to win", "Soldiers hate each other personally"],
+      "correctIndex": 1,
+      "explanation": "The story shows that the common soldier values humanity and peace over national conflict.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e1_q36",
+      "text": "How did the author know the address of Connie?",
+      "options": ["He asked the neighbors", "It was written on the envelope in the tin box", "He looked it up in a phone book", "He already knew her"],
+      "correctIndex": 1,
+      "explanation": "The address was clearly written on the envelope inside the desk.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e1_q37",
+      "text": "In the letter, what was the 'marzipan'?",
+      "options": ["A type of gun", "A sweet covering on a cake", "A code word", "A soldier's name"],
+      "correctIndex": 1,
+      "explanation": "Marzipan is a sugar and almond paste used on Christmas cakes, which Jim said was the best he'd tasted.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e1_q38",
+      "text": "Which sport was used to symbolize a peaceful alternative to war?",
+      "options": ["Cricket", "Football", "Rugby", "Tennis"],
+      "correctIndex": 1,
+      "explanation": "Football was the game played by both sides in the story.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e1_q39",
+      "text": "What did the author find in the middle drawer of the desk?",
+      "options": ["The letter", "Nothing", "Stationery", "Old coins"],
+      "correctIndex": 1,
+      "explanation": "The text describes the autor opening the first and second drawers, but the secret box was specifically in the secret drawer beneath a fake bottom.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g8_e1_q40",
+      "text": "What is the mood at the end of the story?",
+      "options": ["Joyous", "Tragic", "Bittersweet and poignant", "Violent"],
+      "correctIndex": 2,
+      "explanation": "It is touching because Connie is happy, but sad because the reader knows Jim never actually returned.",
+      "frequencyRating": 5
     }
   ]
 }

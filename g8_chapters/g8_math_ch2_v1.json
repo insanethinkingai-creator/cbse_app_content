@@ -1,1 +1,330 @@
-{"id":"g8_math_ch2","grade":"8","subject":"Mathematics","number":"2","title":"Linear Equations in One Variable","version":"v1","questions":[{"id":"g8_m2_q1","text":"An equation having one variable is:","options":["Quadratic","Linear","Cubic","Biquadratic"],"correctIndex":1,"explanation":"Highest power 1.","frequencyRating":5},{"id":"g8_m2_q2","text":"Solution of 2x + 5 = 11 is:","options":["3","8","2","16"],"correctIndex":0,"explanation":"x = (11-5)/2 = 3.","frequencyRating":5},{"id":"g8_m2_q3","text":"If 3x = 12, x = ?","options":["4","36","3","15"],"correctIndex":0,"explanation":"x = 12/3 = 4.","frequencyRating":5},{"id":"g8_m2_q4","text":"Solve 3x - 7 = 5x + 1.","options":["-4","4","2"," -2"],"correctIndex":0,"explanation":"3x - 5x = 1 + 7 => -2x = 8 => x = -4.","frequencyRating":5},{"id":"g8_m2_q5","text":"The number which when added to its half gives 48 is:","options":["32","64","24","96"],"correctIndex":0,"explanation":"Let x, x + x/2 = 48 => (3x/2) = 48 => x = 32.","frequencyRating":5},{"id":"g8_m2_q6","text":"Solve x/3 + 1/4 = 1/6.","options":["1/4","0","-1/12","1/12"],"correctIndex":2,"explanation":"LCM12: 4x/12 + 3/12 = 2/12 => 4x = -1 => x = -1/12.","frequencyRating":5},{"id":"g8_m2_q7","text":"If 5 - 2x = 11, x = ?","options":["-3","3","-2","2"],"correctIndex":0,"explanation":"-2x = 6 => x = -3.","frequencyRating":5},{"id":"g8_m2_q8","text":"Twice a number plus 5 is 11. Number is:","options":["3","6","8","2"],"correctIndex":0,"explanation":"2x + 5 = 11 => 2x = 6 => x=3.","frequencyRating":5},{"id":"g8_m2_q9","text":"A number decreased by 12 equals 3 times itself decreased by 8. Find number.","options":["10","4","5","2"],"correctIndex":0,"explanation":"x - 12 = 3(x - 8) => x - 12 = 3x - 24 => 12 = 2x => x=6? Wait, solve.","frequencyRating":4},{"id":"g8_m2_q10","text":"Cost price Rs 100, sell Rs 120, profit % ?","options":["20%","10%","25%","30%"],"correctIndex":0,"explanation":"Profit 20 on 100 = 20%.","frequencyRating":4},{"id":"g8_m2_q11","text":"x/2 + 3 = 7, x = ?","options":["8","4","16","10"],"correctIndex":0,"explanation":"x/2 = 4 => x=8.","frequencyRating":5},{"id":"g8_m2_q12","text":"3(x + 4) = 21, x = ?","options":["3","7","1","5"],"correctIndex":0,"explanation":"x + 4 = 7 => x=3.","frequencyRating":5},{"id":"g8_m2_q13","text":"Number 10 more than its 3/4 is 70.","options":["40","20","80","50"],"correctIndex":0,"explanation":"x + 10 = (3/4)x => (1/4)x = -10? Solve correctly.","frequencyRating":4},{"id":"g8_m2_q14","text":"Solve 4 - 3y = 18.","options":["-14/3","14/3","4/3"," -4/3"],"correctIndex":0,"explanation":" -3y = 14 => y = -14/3.","frequencyRating":5},{"id":"g8_m2_q15","text":"A's age 3 times B's, 24 years later A 2 times B. B's age now?","options":["16","12","8","20"],"correctIndex":1,"explanation":"Let b, 3b now, 3b+24 = 2(b+24) => 3b + 24 = 2b + 48 => b=24? Solve.","frequencyRating":4},{"id":"g8_m2_q16","text":"Speed 60 km/h, time for 180 km?","options":["3 h","2 h","4 h","5 h"],"correctIndex":0,"explanation":"Time = distance/speed = 180/60 = 3h.","frequencyRating":5},{"id":"g8_m2_q17","text":"(x-2)/3 = 4, x = ?","options":["14","10","12","8"],"correctIndex":0,"explanation":"x-2 = 12 => x=14.","frequencyRating":5},{"id":"g8_m2_q18","text":"2/3 of number is 14 less than number. Number?","options":["21","42","28","35"],"correctIndex":1,"explanation":"Let x, x - (2/3)x = 14 => (1/3)x = 14 => x=42.","frequencyRating":4},{"id":"g8_m2_q19","text":"Solve 5(x + 1) = 3(x - 2) + 8.","options":["1","0","2"," -1"],"correctIndex":0,"explanation":"5x + 5 = 3x - 6 + 8 => 5x + 5 = 3x + 2 => 2x = -3 => x = -3/2? Recalc.","frequencyRating":5},{"id":"g8_m2_q20","text":"Distance = 240 km, speeds 60, 80 km/h, time?","options":["3.5 h","3 h","4 h","2.5 h"],"correctIndex":0,"explanation":"Average speed (2*60*80)/(60+80) = 96/140 *2 = 68.57, time 240/68.57≈3.5h.","frequencyRating":4},{"id":"g8_m2_q21","text":"x/4 - 1/2 = 1/4, x = ?","options":["3","2","4","1"],"correctIndex":0,"explanation":"x/4 = 1/4 + 1/2 = 3/4 => x=3.","frequencyRating":5},{"id":"g8_m2_q22","text":"Three consecutive even numbers sum 72. Middle?","options":["22","24","20","26"],"correctIndex":1,"explanation":"x-2, x, x+2 =72 => 3x=74? Even.","frequencyRating":4},{"id":"g8_m2_q23","text":"1/2 (x - 4) + 1/4 (x + 2) = 1/4 x + 11/2.","options":["10","8","12","6"],"correctIndex":0,"explanation":"Solve step by step.","frequencyRating":5},{"id":"g8_m2_q24","text":"Ages sum 50, ratio 3:2, elder?","options":["30","20","25","35"],"correctIndex":0,"explanation":"3parts 30, 5parts 50.","frequencyRating":5},{"id":"g8_m2_q25","text":"Solve 0.4x + 1.8 = 0.7x - 2.4.","options":["10.5"," -10.5","10"," -10"],"correctIndex":1,"explanation":"1.8 + 2.4 = 0.7x - 0.4x => 4.2 = 0.3x => x = 14? Recheck.","frequencyRating":5},{"id":"g8_m2_q26","text":"Ticket Rs 20, n people Rs 400, n?","options":["20","15","25","30"],"correctIndex":0,"explanation":"400/20=20.","frequencyRating":4},{"id":"g8_m2_q27","text":"x years ago A twice B, now 1.5 times. A now?","options":["30","24","36","28"],"correctIndex":0,"explanation":"Complex age problem.","frequencyRating":4},{"id":"g8_m2_q28","text":"Fraction 1/5 of number less 4 = 1/10 number. Number?","options":["80","100","40","200"],"correctIndex":0,"explanation":"(1/5 - 1/10)x = 4 => (1/10)x = 4 => x=40? Recheck.","frequencyRating":4},{"id":"g8_m2_q29","text":"Boat downstream 30 km/h, upstream 18, speed in still water?","options":["24 km/h","25","23","26"],"correctIndex":0,"explanation":" (30+18)/2 = 24.","frequencyRating":5},{"id":"g8_m2_q30","text":"Solve for x: 2.4x - 1.2 = 3.6.","options":["2.5","3","2","4"],"correctIndex":0,"explanation":"2.4x = 4.8 => x=2.","frequencyRating":5},{"id":"g8_m2_q31","text":"Perimeter rectangle 50, length 5 more breadth, dimensions?","options":["15,10","12,13","20,5","18,7"],"correctIndex":0,"explanation":"2(l+b)=50, l=b+5 => b+5 + b =25 => b=10, l=15.","frequencyRating":5},{"id":"g8_m2_q32","text":"Sum three consecutive numbers 33. Middle?","options":["11","10","12","9"],"correctIndex":0,"explanation":"3x=33, x=11.","frequencyRating":5},{"id":"g8_m2_q33","text":"Money divided 3:5, larger Rs 50 more. Total?","options":["160","200","120","180"],"correctIndex":0,"explanation":"8parts, 2parts=50, part=25, total 200.","frequencyRating":4},{"id":"g8_m2_q34","text":"Train speed 72 km/h = ? m/s","options":["20 m/s","30","40","25"],"correctIndex":0,"explanation":"72*5/18 = 20.","frequencyRating":5},{"id":"g8_m2_q35","text":"x/5 + x/10 = 11.","options":["50","40","60","30"],"correctIndex":0,"explanation":"2x/10 + x/10 = 11 => 3x/10 = 11 => x=110/3? Recheck.","frequencyRating":4},{"id":"g8_m2_q36","text":"A does job in 10 days, B 15, together?","options":["6 days","5","7","4"],"correctIndex":0,"explanation":"1/10 + 1/15 = 1/6, 6 days.","frequencyRating":5},{"id":"g8_m2_q37","text":"Circumference 44 cm, radius? (22/7)","options":["7 cm","14","3.5","21"],"correctIndex":0,"explanation": "2πr=44 => r=7.","frequencyRating":4},{"id":"g8_m2_q38","text":"Solve  (x+1)/2 - (x-1)/3 = 3/2.","options":["1","2","0","3"],"correctIndex":1,"explanation":"Solve with LCM 6.","frequencyRating":5},{"id":"g8_m2_q39","text":"Length 2x cm, breadth x cm, perimeter 30 cm, x?","options":["5 cm","10","3","6"],"correctIndex":0,"explanation":"2(2x + x)=30 => 6x=30 => x=5.","frequencyRating":5},{"id":"g8_m2_q40","text":"A's income Rs 6000, spends 3/4, saves?","options":["Rs 1500","Rs 4500","Rs 2000","Rs 4000"],"correctIndex":0,"explanation":"6000 - (3/4)*6000 = 1500.","frequencyRating":5}]}
+{
+  "id": "g8_math_ch2",
+  "grade": "8",
+  "subject": "Mathematics",
+  "number": "2",
+  "title": "Linear Equations in One Variable",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_m2_q1",
+      "text": "The degree of a linear equation in one variable is:",
+      "options": ["0", "1", "2", "Any number"],
+      "correctIndex": 1,
+      "explanation": "A linear equation always has a maximum power of 1 for the variable.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m2_q2",
+      "text": "The solution of the equation 3x = 12 is:",
+      "options": ["3", "4", "9", "36"],
+      "correctIndex": 1,
+      "explanation": "Divide both sides by 3: x = 12/3 = 4.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m2_q3",
+      "text": "If x - 5 = 7, then x is:",
+      "options": ["2", "12", "-2", "35"],
+      "correctIndex": 1,
+      "explanation": "Add 5 to both sides: x = 7 + 5 = 12.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m2_q4",
+      "text": "In a linear equation, the LHS and RHS are connected by the sign of:",
+      "options": ["Plus", "Minus", "Equality", "Multiplication"],
+      "correctIndex": 2,
+      "explanation": "An equation must have an '=' sign.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m2_q5",
+      "text": "Solve: 2x + 3 = 7",
+      "options": ["x = 2", "x = 5", "x = 4", "x = 1"],
+      "correctIndex": 0,
+      "explanation": "2x = 7 - 3 => 2x = 4 => x = 2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m2_q6",
+      "text": "What is the value of y if y/5 = 10?",
+      "options": ["2", "15", "50", "0.5"],
+      "correctIndex": 2,
+      "explanation": "Multiply both sides by 5: y = 10 * 5 = 50.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m2_q7",
+      "text": "If 7x - 9 = 16, then x is:",
+      "options": ["1", "2.5", "3.5", "25/7"],
+      "correctIndex": 3,
+      "explanation": "7x = 16 + 9 => 7x = 25 => x = 25/7.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m2_q8",
+      "text": "A linear equation in one variable has ________ solution(s).",
+      "options": ["Zero", "One", "Two", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "Every linear equation in one variable has a unique solution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m2_q9",
+      "text": "Solve: x/3 + 5/2 = -3/2",
+      "options": ["x = -12", "x = 12", "x = -4", "x = 4"],
+      "correctIndex": 0,
+      "explanation": "x/3 = -3/2 - 5/2 = -8/2 = -4. So x = -4 * 3 = -12.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m2_q10",
+      "text": "The sum of three consecutive integers is 30. The middle integer is:",
+      "options": ["9", "10", "11", "12"],
+      "correctIndex": 1,
+      "explanation": "(x-1) + x + (x+1) = 30 => 3x = 30 => x = 10.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m2_q11",
+      "text": "If 2x/3 = 18, then x is:",
+      "options": ["12", "27", "54", "6"],
+      "correctIndex": 1,
+      "explanation": "2x = 18 * 3 = 54 => x = 54/2 = 27.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m2_q12",
+      "text": "Solve: 5t - 3 = 3t - 5",
+      "options": ["t = 1", "t = -1", "t = 2", "t = -2"],
+      "correctIndex": 1,
+      "explanation": "5t - 3t = -5 + 3 => 2t = -2 => t = -1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m2_q13",
+      "text": "The perimeter of a rectangle is 20 cm. If the length is 6 cm, what is the width?",
+      "options": ["4 cm", "14 cm", "8 cm", "10 cm"],
+      "correctIndex": 0,
+      "explanation": "2(6 + w) = 20 => 6 + w = 10 => w = 4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m2_q14",
+      "text": "Solve for m: 8m + 4 = 3(m - 1) + 7",
+      "options": ["m = 0", "m = 1", "m = -1", "m = 2"],
+      "correctIndex": 0,
+      "explanation": "8m + 4 = 3m - 3 + 7 => 8m + 4 = 3m + 4 => 5m = 0 => m = 0.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m2_q15",
+      "text": "Two numbers are in the ratio 5:3. If they differ by 18, what are the numbers?",
+      "options": ["45, 27", "30, 12", "50, 32", "20, 2"],
+      "correctIndex": 0,
+      "explanation": "5x - 3x = 18 => 2x = 18 => x = 9. Numbers are 45 and 27.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m2_q16",
+      "text": "Solve: 2x/3 + 1 = 7/15 + 1",
+      "options": ["x = 7/10", "x = 10/7", "x = 7/5", "x = 5/7"],
+      "correctIndex": 0,
+      "explanation": "2x/3 = 7/15 => x = (7/15) * (3/2) = 7/10.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m2_q17",
+      "text": "Which of the following is NOT a linear equation?",
+      "options": ["3x + 5 = 0", "x² + 1 = 5", "y/2 = 4", "z + 3 = 10"],
+      "correctIndex": 1,
+      "explanation": "x² makes the equation quadratic, not linear.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m2_q18",
+      "text": "The sum of a number and its double is 21. The number is:",
+      "options": ["7", "10.5", "14", "3"],
+      "correctIndex": 0,
+      "explanation": "x + 2x = 21 => 3x = 21 => x = 7.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m2_q19",
+      "text": "Solve: x = 4/5(x + 10)",
+      "options": ["x = 40", "x = 10", "x = 20", "x = 5"],
+      "correctIndex": 0,
+      "explanation": "5x = 4x + 40 => x = 40.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m2_q20",
+      "text": "In a linear equation, the variable must have a power of ________.",
+      "options": ["0", "1", "2", "-1"],
+      "correctIndex": 1,
+      "explanation": "A degree of 1 is the defining property of linear expressions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m2_q21",
+      "text": "If 15/4 - 7x = 9, then x is:",
+      "options": ["-3/4", "3/4", "-21/28", "-3/7"],
+      "correctIndex": 0,
+      "explanation": "-7x = 9 - 15/4 = (36-15)/4 = 21/4. So x = 21/(4 * -7) = -3/4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m2_q22",
+      "text": "The value of variable which satisfies the equation is called its ________.",
+      "options": ["Coefficient", "Constant", "Solution", "Identity"],
+      "correctIndex": 2,
+      "explanation": "Root or solution are the values that make the equation true.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m2_q23",
+      "text": "If you subtract 1/2 from a number and multiply the result by 1/2, you get 1/8. The number is:",
+      "options": ["1/4", "1/2", "3/4", "1"],
+      "correctIndex": 2,
+      "explanation": "(x - 1/2) * 1/2 = 1/8 => x - 1/2 = 1/4 => x = 1/4 + 1/2 = 3/4.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m2_q24",
+      "text": "Solve: 0.25(4f - 3) = 0.05(10f - 9)",
+      "options": ["f = 0.6", "f = 0.1", "f = 1", "f = 0.5"],
+      "correctIndex": 0,
+      "explanation": "1f - 0.75 = 0.5f - 0.45 => 0.5f = 0.3 => f = 0.6.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m2_q25",
+      "text": "Sum of two numbers is 95. If one exceeds the other by 15, the numbers are:",
+      "options": ["40, 55", "50, 65", "30, 45", "45, 60"],
+      "correctIndex": 0,
+      "explanation": "x + (x + 15) = 95 => 2x = 80 => x = 40.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m2_q26",
+      "text": "To solve an equation, we can ________ the same number from both sides.",
+      "options": ["Add", "Subtract", "Only add", "Add or subtract"],
+      "correctIndex": 3,
+      "explanation": "The properties of equality allow adding, subtracting, multiplying, or dividing the same number on both sides.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m2_q27",
+      "text": "Fifteen years from now Ravi's age will be four times his present age. His present age is:",
+      "options": ["5 years", "10 years", "15 years", "20 years"],
+      "correctIndex": 0,
+      "explanation": "x + 15 = 4x => 3x = 15 => x = 5.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m2_q28",
+      "text": "The denominator of a rational number is greater than its numerator by 8. If numerator is x, denominator is:",
+      "options": ["x - 8", "x + 8", "8x", "x/8"],
+      "correctIndex": 1,
+      "explanation": "Denominator = Numerator + 8.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m2_q29",
+      "text": "Solving 7x/10 = 14 gives:",
+      "options": ["x = 20", "x = 2", "x = 10", "x = 7"],
+      "correctIndex": 0,
+      "explanation": "7x = 140 => x = 20.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m2_q30",
+      "text": "Transposing a number to the other side of an equation changes its ________.",
+      "options": ["Value", "Sign", "Power", "Variable"],
+      "correctIndex": 1,
+      "explanation": "Positive becomes negative, and negative becomes positive during transposition.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m2_q31",
+      "text": "Solve: n/2 - 3n/4 + 5n/6 = 21",
+      "options": ["n = 36", "n = 42", "n = 12", "n = 24"],
+      "correctIndex": 0,
+      "explanation": "(6n - 9n + 10n)/12 = 21 => 7n/12 = 21 => n = 36.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m2_q32",
+      "text": "The sum of three consecutive multiples of 8 is 888. The multiples are multiples of:",
+      "options": ["8", "11", "3", "All"],
+      "correctIndex": 0,
+      "explanation": "The problem states they are multiples of 8.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g8_m2_q33",
+      "text": "If x/2 - 1/5 = x/3 + 1/4, then x is:",
+      "options": ["27/10", "2.7", "10/27", "None"],
+      "correctIndex": 1,
+      "explanation": "x/2 - x/3 = 1/4 + 1/5 => x/6 = 9/20 => x = 54/20 = 2.7.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m2_q34",
+      "text": "One of the two digits of a two digit number is three times the other digit. If you interchange the digits of this two-digit number and add the resulting number to the original number, you get 88. Original number could be:",
+      "options": ["26", "62", "Both 26 and 62", "None"],
+      "correctIndex": 2,
+      "explanation": "26 + 62 = 88. Also 6 is 3 times 2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m2_q35",
+      "text": "Which property allows us to write 2x + 5 = 15 as 2x = 10?",
+      "options": ["Subtraction property of equality", "Addition property", "Multiplication property", "Division property"],
+      "correctIndex": 0,
+      "explanation": "Subtracting 5 from both sides.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m2_q36",
+      "text": "A linear equation in one variable can have at most ________ variables.",
+      "options": ["0", "1", "2", "Any"],
+      "correctIndex": 1,
+      "explanation": "By definition, it has only one variable (like x, y, or z).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m2_q37",
+      "text": "Solve: (x - 5)/3 = (x - 3)/5",
+      "options": ["x = 8", "x = -8", "x = 4", "x = 2"],
+      "correctIndex": 0,
+      "explanation": "5(x-5) = 3(x-3) => 5x - 25 = 3x - 9 => 2x = 16 => x = 8.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m2_q38",
+      "text": "A term of an equation can be moved from one side to the other with a change in ________.",
+      "options": ["Sign", "Variable", "Constant", "None"],
+      "correctIndex": 0,
+      "explanation": "This is the process of transposition.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m2_q39",
+      "text": "Solve: 4z + 3 = 6 + 2z",
+      "options": ["z = 1.5", "z = 3", "z = 2", "z = 4"],
+      "correctIndex": 0,
+      "explanation": "2z = 3 => z = 3/2 = 1.5.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m2_q40",
+      "text": "The result of (x + 1)/(2x + 3) = 3/8 is:",
+      "options": ["x = 0.5", "x = 1", "x = 2.5", "x = 2"],
+      "correctIndex": 0,
+      "explanation": "8x + 8 = 6x + 9 => 2x = 1 => x = 0.5.",
+      "frequencyRating": 3
+    }
+  ]
+}

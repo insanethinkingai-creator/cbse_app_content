@@ -8,523 +8,323 @@
   "questions": [
     {
       "id": "g8_m1_q1",
-      "text": "A number of the form p/q where p, q are integers and q ≠ 0 is called:",
-      "options": [
-        "Irrational",
-        "Rational",
-        "Whole",
-        "Natural"
-      ],
-      "correctIndex": 1,
-      "explanation": "Rational numbers are expressed as ratio of integers p/q with q ≠ 0.",
+      "text": "Which property states that for any two rational numbers a and b, a + b is also a rational number?",
+      "options": ["Closure Property", "Commutative Property", "Associative Property", "Distributive Property"],
+      "correctIndex": 0,
+      "explanation": "The closure property ensures that the result of an operation on members of a set stays within that set.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m1_q2",
-      "text": "Which of the following is a rational number?",
-      "options": [
-        "√2",
-        "π",
-        "3/4",
-        "0.101001000..."
-      ],
-      "correctIndex": 2,
-      "explanation": "3/4 is p/q form.",
+      "text": "The additive identity for rational numbers is:",
+      "options": ["1", "0", "-1", "Not defined"],
+      "correctIndex": 1,
+      "explanation": "Adding zero to any rational number does not change its value.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m1_q3",
-      "text": "0.333... is:",
-      "options": [
-        "Irrational",
-        "Rational (1/3)",
-        "Whole",
-        "Integer"
-      ],
+      "text": "The multiplicative identity for rational numbers is:",
+      "options": ["0", "1", "-1", "None"],
       "correctIndex": 1,
-      "explanation": "Repeating decimal is rational.",
+      "explanation": "Any rational number multiplied by 1 remains the same.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m1_q4",
-      "text": "The rational number between 1/4 and 1/2 is:",
-      "options": [
-        "1/3",
-        "2/3",
-        "1/5",
-        "3/4"
-      ],
-      "correctIndex": 0,
-      "explanation": "1/3 = 0.333 lies between 0.25 and 0.5.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g8_m1_q5",
-      "text": "Properties of rational numbers do not include:",
-      "options": [
-        "Closure",
-        "Commutativity",
-          "Associativity",
-        "Distribution"
-      ],
-      "correctIndex": 3,
-      "explanation": "Distribution for multiplication over addition.",
+      "text": "The additive inverse of -7/19 is:",
+      "options": ["-19/7", "7/19", "19/7", "0"],
+      "correctIndex": 1,
+      "explanation": "The sum of a number and its additive inverse is always zero. -7/19 + 7/19 = 0.",
       "frequencyRating": 5
     },
     {
+      "id": "g8_m1_q5",
+      "text": "The reciprocal of a negative rational number is:",
+      "options": ["Positive", "Negative", "Zero", "1"],
+      "correctIndex": 1,
+      "explanation": "Reciprocal (multiplicative inverse) maintains the sign of the original number.",
+      "frequencyRating": 4
+    },
+    {
       "id": "g8_m1_q6",
-      "text": "Rational numbers are closed under:",
-      "options": [
-        "Subtraction only",
-        "Division by zero",
-        "Addition, subtraction, multiplication",
-        "Division only"
-      ],
+      "text": "Which of the following rational numbers is its own reciprocal?",
+      "options": ["0", "2", "-1", "1/2"],
       "correctIndex": 2,
-      "explanation": "Closed for +, -, ×; not ÷0.",
+      "explanation": "Both 1 and -1 are their own reciprocals. Here -1 is given.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m1_q7",
-      "text": "Which is the multiplicative identity for rational numbers?",
-      "options": [
-        "0",
-        "1",
-        "-1",
-        "Any number"
-      ],
-      "correctIndex": 1,
-      "explanation": "1 × q = q.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g8_m1_q8",
-      "text": "Additive inverse of -5/7 is:",
-      "options": [
-        "5/7",
-        "-5/7",
-        "0",
-        "7/5"
-      ],
-      "correctIndex": 0,
-      "explanation": "(-5/7) + 5/7 = 0.",
+      "text": "Rational numbers are NOT associative under:",
+      "options": ["Addition", "Multiplication", "Subtraction", "None of these"],
+      "correctIndex": 2,
+      "explanation": "Subtraction and division are not associative for rational numbers.",
       "frequencyRating": 4
     },
     {
-      "id": "g8_m1_q9",
-      "text": "1/2 + 3/8 = ?",
-      "options": [
-        "7/8",
-        "11/8",
-        "5/8",
-        "4/8"
-      ],
-      "correctIndex": 0,
-      "explanation": "4/8 + 3/8 = 7/8.",
+      "id": "g8_m1_q8",
+      "text": "The product of 2/3 and the reciprocal of -5/6 is:",
+      "options": ["-5/9", "-4/5", "5/4", "4/5"],
+      "correctIndex": 1,
+      "explanation": "2/3 * (-6/5) = -12/15 = -4/5.",
       "frequencyRating": 5
     },
     {
+      "id": "g8_m1_q9",
+      "text": "Find the value of (1/2 + 1/4) * 8.",
+      "options": ["4", "6", "2", "8"],
+      "correctIndex": 1,
+      "explanation": "(2/4 + 1/4) * 8 = 3/4 * 8 = 6.",
+      "frequencyRating": 4
+    },
+    {
       "id": "g8_m1_q10",
-      "text": "The rational number 0 has:",
-      "options": [
-        "No reciprocal",
-        "Reciprocal 1",
-        "Reciprocal 0",
-        "Reciprocal undefined"
-      ],
-      "correctIndex": 3,
-      "explanation": "Division by 0 undefined.",
+      "text": "Zero has ________ reciprocal.",
+      "options": ["One", "No", "Infinite", "Two"],
+      "correctIndex": 1,
+      "explanation": "Division by zero is undefined, hence zero has no reciprocal.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m1_q11",
-      "text": "Number of rationals between 0 and 1 is:",
-      "options": [
-        "Finite",
-        "Infinite",
-        "One",
-        "None"
-      ],
-      "correctIndex": 1,
-      "explanation": "Infinite rationals (density property).",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g8_m1_q12",
-      "text": "Reciprocal of 1/(-7) is:",
-      "options": [
-        "-7",
-        "-1/7",
-        "7",
-        "1/7"
-      ],
-      "correctIndex": 0,
-      "explanation": "Reciprocal swaps numerator/denominator.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g8_m1_q13",
-      "text": "If x + y = 0, y is:",
-      "options": [
-        "Reciprocal of x",
-        "Additive inverse",
-        "Multiplicative inverse",
-        "Identity"
-      ],
-      "correctIndex": 1,
-      "explanation": "y = -x.",
+      "text": "Between any two rational numbers, there are ________ rational numbers.",
+      "options": ["No", "One", "Ten", "Infinitely many"],
+      "correctIndex": 3,
+      "explanation": "This is known as the density property of rational numbers.",
       "frequencyRating": 5
     },
     {
+      "id": "g8_m1_q12",
+      "text": "Which property is used here: a(b + c) = ab + ac?",
+      "options": ["Commutative", "Associative", "Distributive", "Closure"],
+      "correctIndex": 2,
+      "explanation": "Multiplication is distributive over addition for rational numbers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m1_q13",
+      "text": "The multiplicative inverse of 0/1 is:",
+      "options": ["0", "1", "Not defined", "-1"],
+      "correctIndex": 2,
+      "explanation": "Reciprocal of 0 is 1/0, which is undefined.",
+      "frequencyRating": 4
+    },
+    {
       "id": "g8_m1_q14",
-      "text": "Distributive property: a × (b + c) = ?",
-      "options": [
-        "a×b + a×c",
-        "(a+b)×c",
-        "a + b + c",
-        "None"
-      ],
-      "correctIndex": 0,
-      "explanation": "Holds for rationals.",
+      "text": "Rational number -3/5 on a number line lies to the:",
+      "options": ["Right of 0", "Left of 0", "On 0", "None"],
+      "correctIndex": 1,
+      "explanation": "All negative numbers lie to the left of zero on the number line.",
       "frequencyRating": 4
     },
     {
       "id": "g8_m1_q15",
-      "text": "(-2/3) ÷ (5/6) = ?",
-      "options": [
-        "-4/5",
-        "4/5",
-        "-5/4",
-        "5/4"
-      ],
+      "text": "Simplify: -4/5 * 3/7 * 15/16 * (-14/9)",
+      "options": ["1/2", "2/3", "1/3", "3/4"],
       "correctIndex": 0,
-      "explanation": "(-2/3) × (6/5) = -12/15 = -4/5.",
-      "frequencyRating": 5
+      "explanation": "By canceling terms: (-4/16) * (15/5) * (3/9) * (-14/7) = (-1/4) * 3 * (1/3) * -2 = 1/2.",
+      "frequencyRating": 3
     },
     {
       "id": "g8_m1_q16",
-      "text": "Which decimal is rational?",
-      "options": [
-        "0.123456789101112...",
-        "0.1010010001...",
-        "1.25",
-        "√2 ≈1.414"
-      ],
-      "correctIndex": 2,
-      "explanation": "Terminating decimal rational.",
+      "text": "The sum of a rational number and its additive inverse is:",
+      "options": ["1", "0", "-1", "The number itself"],
+      "correctIndex": 1,
+      "explanation": "By definition, x + (-x) = 0.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m1_q17",
-      "text": "Associative for addition: (a+b)+c = ?",
-      "options": [
-        "a+(b+c)",
-        "a×(b+c)",
-        "Does not hold",
-        "None"
-      ],
+      "text": "What is the result of 0 ÷ 5/8?",
+      "options": ["0", "5/8", "8/5", "Undefined"],
       "correctIndex": 0,
-      "explanation": "Associativity holds.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g8_m1_q18",
-      "text": "0.47 = ?/100",
-      "options": [
-        "47",
-        "470",
-        "4.7",
-        "47/10"
-      ],
-      "correctIndex": 0,
-      "explanation": "47/100.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g8_m1_q19",
-      "text": "Multiplicative property of 0: a × 0 = ?",
-      "options": [
-        "a",
-        "0",
-        "1",
-        "Undefined"
-      ],
-      "correctIndex": 1,
-      "explanation": "Any rational ×0 =0.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g8_m1_q20",
-      "text": "Rational between 3/5 and 4/5:",
-      "options": [
-        "1/2",
-        "2/5",
-        "1/5",
-        "7/10"
-      ],
-      "correctIndex": 0,
-      "explanation": "1/2=0.5 lies between 0.6 and 0.8.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g8_m1_q21",
-      "text": "Commutative: a + b = ?",
-      "options": [
-        "b + a",
-        "a - b",
-        "a × b",
-        "None"
-      ],
-      "correctIndex": 0,
-      "explanation": "Order doesn't matter.",
+      "explanation": "Zero divided by any non-zero number is always zero.",
       "frequencyRating": 5
     },
     {
-      "id": "g8_m1_q22",
-      "text": "Find 10 rationals between 1/4 and 1/2.",
-      "options": [
-        "Multiply by 11/11",
-        "Add 0.01 each",
-        "Any method",
-        "Impossible"
-      ],
+      "id": "g8_m1_q18",
+      "text": "Reciprocal of 1/x, where x ≠ 0 is:",
+      "options": ["1", "0", "x", "1/x"],
       "correctIndex": 2,
-      "explanation": "Infinite; one way (11/44 to 21/44).",
-      "frequencyRating": 3
+      "explanation": "Reciprocal of a fraction a/b is b/a.",
+      "frequencyRating": 5
     },
     {
-      "id": "g8_m1_q23",
-      "text": "-7/9 reciprocal:",
-      "options": [
-        "9/7",
-        "-9/7",
-        "7/-9",
-        "-7/9"
-      ],
+      "id": "g8_m1_q19",
+      "text": "Which of the following is commutative for rational numbers?",
+      "options": ["Subtraction", "Division", "Multiplication", "None"],
+      "correctIndex": 2,
+      "explanation": "a * b = b * a for any rational numbers a and b.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m1_q20",
+      "text": "A rational number that does not have a reciprocal is:",
+      "options": ["1", "-1", "0", "2"],
+      "correctIndex": 2,
+      "explanation": "Zero has no reciprocal as 1/0 is undefined.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m1_q21",
+      "text": "Find a rational number between 1/4 and 1/2.",
+      "options": ["1/3", "3/8", "1/5", "5/8"],
       "correctIndex": 1,
-      "explanation": "-9/7.",
-      "frequencyRating": 3
-    },
-    {
-      "id": "g8_m1_q24",
-      "text": "0.375 as fraction:",
-      "options": [
-        "3/8",
-        "3/5",
-        "375/1000",
-        "All"
-      ],
-      "correctIndex": 3,
-      "explanation": "Simplest 3/8.",
+      "explanation": "Mean of 1/4 and 1/2 is (1/4+2/4)/2 = 3/8.",
       "frequencyRating": 4
     },
     {
-      "id": "g8_m1_q25",
-      "text": "(2/3) × (-3/4) = ?",
-      "options": [
-        "-1/2",
-        "1/2",
-        "-6/7",
-        "6/7"
-      ],
+      "id": "g8_m1_q22",
+      "text": "If x = 1/3 and y = 6/7, then x * y is:",
+      "options": ["2/7", "7/2", "3/7", "1/7"],
       "correctIndex": 0,
-      "explanation": "-6/12 = -1/2.",
+      "explanation": "(1/3) * (6/7) = 2/7.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m1_q23",
+      "text": "The negative of a negative rational number is:",
+      "options": ["Negative", "Positive", "Zero", "1"],
+      "correctIndex": 1,
+      "explanation": "-(-x) = x, which is positive if x is positive.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m1_q24",
+      "text": "Which number is neither positive nor negative?",
+      "options": ["1", "-1", "0", "1/2"],
+      "correctIndex": 2,
+      "explanation": "Zero is the only rational number that is neither positive nor negative.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m1_q25",
+      "text": "To get the product 1, we should multiply 8/21 by:",
+      "options": ["-8/21", "21/8", "-21/8", "1"],
+      "correctIndex": 1,
+      "explanation": "Multiplying a number by its reciprocal gives 1.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m1_q26",
-      "text": "Rational numbers include:",
-      "options": [
-        "All integers",
-        "All naturals",
-        "All reals",
-        "None"
-      ],
-      "correctIndex": 0,
-      "explanation": "Integers are rationals (p/1).",
-      "frequencyRating": 5
+      "text": "Subtraction of rational numbers is ________.",
+      "options": ["Commutative", "Associative", "Not commutative", "Distributive"],
+      "correctIndex": 2,
+      "explanation": "Example: 1/2 - 1/3 ≠ 1/3 - 1/2.",
+      "frequencyRating": 4
     },
     {
       "id": "g8_m1_q27",
-      "text": "Which is not rational property?",
-      "options": [
-        "Closure under division",
-        "Commutative",
-        "Associative",
-        "Identity"
-      ],
+      "text": "Is 0 a rational number?",
+      "options": ["Yes", "No", "Only if denominator is 1", "Cannot be determined"],
       "correctIndex": 0,
-      "explanation": "Not closed for ÷0.",
-      "frequencyRating": 4
+      "explanation": "Zero can be written as 0/1, where 1 is not zero.",
+      "frequencyRating": 5
     },
     {
       "id": "g8_m1_q28",
-      "text": "1/2 - 1/6 = ?",
-      "options": [
-        "1/3",
-        "2/3",
-        "1/4",
-        "3/6"
-      ],
+      "text": "The decimal representation of a rational number is either ________ or non-terminating repeating.",
+      "options": ["Terminating", "Non-terminating", "Zero", "Natural"],
       "correctIndex": 0,
-      "explanation": "3/6 - 1/6 = 2/6 = 1/3.",
-      "frequencyRating": 5
+      "explanation": "This is a key characteristic of rational numbers.",
+      "frequencyRating": 3
     },
     {
       "id": "g8_m1_q29",
-      "text": "Additive identity is:",
-      "options": [
-        "1",
-        "0",
-        "-1",
-        "Any"
-      ],
-      "correctIndex": 1,
-      "explanation": "q + 0 = q.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g8_m1_q30",
-      "text": "0.6 = ?",
-      "options": [
-        "3/5",
-        "6/10",
-        "2/5",
-        "All equivalent"
-      ],
-      "correctIndex": 3,
-      "explanation": "3/5=0.6.",
+      "text": "Identify the property: 2/3 + 0 = 0 + 2/3 = 2/3",
+      "options": ["Identity Property", "Commutative Property", "Associative Property", "None"],
+      "correctIndex": 0,
+      "explanation": "This shows zero is the additive identity.",
       "frequencyRating": 4
     },
     {
+      "id": "g8_m1_q30",
+      "text": "What is the value of 1/2 ÷ (-1/2)?",
+      "options": ["1", "-1", "0", "1/4"],
+      "correctIndex": 1,
+      "explanation": "1/2 * (-2/1) = -1.",
+      "frequencyRating": 5
+    },
+    {
       "id": "g8_m1_q31",
-      "text": "( -1/2 ) + ( 1/4 ) = ?",
-      "options": [
-        "-1/4",
-        "1/4",
-        "-3/4",
-        "3/4"
-      ],
+      "text": "Every whole number is a rational number.",
+      "options": ["True", "False", "Only if it is even", "Only if it is zero"],
       "correctIndex": 0,
-      "explanation": "-2/4 + 1/4 = -1/4.",
+      "explanation": "Any whole number n can be written as n/1.",
       "frequencyRating": 4
     },
     {
       "id": "g8_m1_q32",
-      "text": "Number of rationals between two rationals is:",
-      "options": [
-        "0",
-        "1",
-        "Infinite",
-        "Finite"
-      ],
+      "text": "The product of two rational numbers is always a ________ number.",
+      "options": ["Whole", "Natural", "Rational", "Irrational"],
       "correctIndex": 2,
-      "explanation": "Density of rationals.",
-      "frequencyRating": 4
+      "explanation": "This is the closure property of multiplication.",
+      "frequencyRating": 5
     },
     {
       "id": "g8_m1_q33",
-      "text": "Role of 1 in multiplication:",
-      "options": [
-        "Changes value",
-        "No change",
-        "Zero",
-        "Negative"
-      ],
+      "text": "Which of the following is NOT a rational number?",
+      "options": ["0", "2/0", "0/2", "-5"],
       "correctIndex": 1,
-      "explanation": "Identity element.",
-      "frequencyRating": 4
+      "explanation": "In p/q, q cannot be zero.",
+      "frequencyRating": 5
     },
     {
       "id": "g8_m1_q34",
-      "text": "2/5 ÷ 4/5 = ?",
-      "options": [
-        "1/2",
-        "8/25",
-        "10/20",
-        "1/10"
-      ],
-      "correctIndex": 0,
-      "explanation": "2/5 × 5/4 = 2/4 = 1/2.",
-      "frequencyRating": 5
+      "text": "Compare 2/3 and 5/7. Which is larger?",
+      "options": ["2/3", "5/7", "They are equal", "Cannot compare"],
+      "correctIndex": 1,
+      "explanation": "2/3 = 14/21, 5/7 = 15/21. 15/21 is larger.",
+      "frequencyRating": 4
     },
     {
       "id": "g8_m1_q35",
-      "text": "Rational form of 0.25:",
-      "options": [
-        "1/5",
-        "1/4",
-        "25/100",
-        "All"
-      ],
-      "correctIndex": 3,
-      "explanation": "1/4.",
-      "frequencyRating": 4
+      "text": "What is the result of 3/4 + (-3/4)?",
+      "options": ["1", "0", "6/4", "-6/4"],
+      "correctIndex": 1,
+      "explanation": "A number plus its additive inverse is zero.",
+      "frequencyRating": 5
     },
     {
       "id": "g8_m1_q36",
-      "text": "Closure property fails for:",
-      "options": [
-        "Addition",
-        "Multiplication",
-        "Division by non-zero",
-        "Division by 0"
-      ],
-      "correctIndex": 3,
-      "explanation": "Undefined.",
-      "frequencyRating": 5
+      "text": "The multiplicative inverse of -1 is:",
+      "options": ["1", "0", "-1", "Not defined"],
+      "correctIndex": 2,
+      "explanation": "1/(-1) = -1.",
+      "frequencyRating": 4
     },
     {
       "id": "g8_m1_q37",
-      "text": "(-3/7) × (7/-3) = ?",
-      "options": [
-        "1",
-        "-1",
-        "0",
-        "9/21"
-      ],
-      "correctIndex": 0,
-      "explanation": "1.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g8_m1_q38",
-      "text": "Repeating 0.142857 is:",
-      "options": [
-        "Irrational",
-        "1/7",
-        "Rational",
-        "Both B&amp;D"
-      ],
-      "correctIndex": 3,
-      "explanation": "1/7=0.142857 repeating.",
+      "text": "Division of two rational numbers is ________ associative.",
+      "options": ["Always", "Never", "Sometimes", "Only for 1"],
+      "correctIndex": 1,
+      "explanation": "Division does not follow the associative law.",
       "frequencyRating": 3
     },
     {
+      "id": "g8_m1_q38",
+      "text": "Identify the property: (a + b) + c = a + (b + c)",
+      "options": ["Commutative", "Associative", "Closure", "Distributive"],
+      "correctIndex": 1,
+      "explanation": "This is the associative property of addition.",
+      "frequencyRating": 5
+    },
+    {
       "id": "g8_m1_q39",
-      "text": "Find additive inverse of 4/9:",
-      "options": [
-        "-4/9",
-        "9/4",
-        "4/-9",
-        "-9/4"
-      ],
-      "correctIndex": 0,
-      "explanation": "-4/9.",
-      "frequencyRating": 4
+      "text": "Simplified form of 1/2 + 1/3 is:",
+      "options": ["2/5", "5/6", "1/5", "1/6"],
+      "correctIndex": 1,
+      "explanation": "(3+2)/6 = 5/6.",
+      "frequencyRating": 5
     },
     {
       "id": "g8_m1_q40",
-      "text": "a × (b + c) = a×b + a×c verifies:",
-      "options": [
-        "Commutative",
-        "Associative",
-        "Distributive",
-        "Closure"
-      ],
-      "correctIndex": 2,
-      "explanation": "Distributive property.",
-      "frequencyRating": 5
+      "text": "Every integer is a rational number.",
+      "options": ["True", "False", "Only positive integers", "Only negative integers"],
+      "correctIndex": 0,
+      "explanation": "Any integer 'z' can be represented as z/1.",
+      "frequencyRating": 4
     }
   ]
 }

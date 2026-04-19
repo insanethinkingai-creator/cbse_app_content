@@ -1,0 +1,330 @@
+{
+  "id": "g8_eng_ch7",
+  "grade": "8",
+  "subject": "English",
+  "number": "7",
+  "title": "A Visit to Cambridge",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_e7_q1",
+      "text": "Who is the author of 'A Visit to Cambridge'?",
+      "options": ["Firdaus Kanga", "Stephen Hawking", "Ruskin Bond", "Satyajit Ray"],
+      "correctIndex": 0,
+      "explanation": "The chapter is an account written by the journalist and writer Firdaus Kanga.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e7_q2",
+      "text": "Which university is the setting for the meeting in the story?",
+      "options": ["Oxford", "Cambridge", "Harvard", "Delhi University"],
+      "correctIndex": 1,
+      "explanation": "The author visited Cambridge, which he calls the 'metaphor for England'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e7_q3",
+      "text": "Who did Firdaus Kanga meet during his visit?",
+      "options": ["Isaac Newton", "Stephen Hawking", "Albert Einstein", "A tourist guide"],
+      "correctIndex": 1,
+      "explanation": "He met the world-famous astrophysicist Stephen Hawking.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e7_q4",
+      "text": "What physical disability did Firdaus Kanga have?",
+      "options": ["Blindness", "Brittle bones (osteogenesis imperfecta) and used a wheelchair", "Deafness", "He had no disability"],
+      "correctIndex": 1,
+      "explanation": "Kanga, like Hawking, was a person with a physical disability who used a wheelchair.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e7_q5",
+      "text": "Stephen Hawking occupied the same chair once held by ________ at Cambridge.",
+      "options": ["Charles Darwin", "Isaac Newton", "John Milton", "William Wordsworth"],
+      "correctIndex": 1,
+      "explanation": "Hawking was the Lucasian Professor of Mathematics, a position Newton once held.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e7_q6",
+      "text": "How did Stephen Hawking communicate with the author?",
+      "options": ["By writing on paper", "Using a computer that spoke for him in a synthesized voice", "By sign language", "Through a translator"],
+      "correctIndex": 1,
+      "explanation": "Hawking tapped buttons on a computer to select words which were then spoken by the machine.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e7_q7",
+      "text": "How much time did Hawking's assistant give Kanga for the interview?",
+      "options": ["One hour", "Ten minutes", "Half an hour", "Five minutes"],
+      "correctIndex": 2,
+      "explanation": "The assistant allowed thirty minutes, though the meeting lasted longer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e7_q8",
+      "text": "What did Hawking say when Kanga asked if he found it brave to be who he was?",
+      "options": ["He was very proud", "He said he had had no choice", "He said it was easy", "He didn't answer"],
+      "correctIndex": 1,
+      "explanation": "Hawking dismisses the idea of 'bravery' as a simple lack of alternative options.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e7_q9",
+      "text": "What was Hawking's response when asked if it annoyed him when people patronized him?",
+      "options": ["He got angry", "He smiled a one-way smile", "He cried", "He ignored the question"],
+      "correctIndex": 1,
+      "explanation": "Hawking admitted it was amusing, showing his sense of humor despite his condition.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e7_q10",
+      "text": "What did Kanga see in Hawking's face during the meeting?",
+      "options": ["Only sadness", "Agony and a spirit that was very restless", "Confusion", "A blank expression"],
+      "correctIndex": 1,
+      "explanation": "The author felt the intense intellectual energy trapped in a motionless body.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e7_q11",
+      "text": "What advice did Stephen Hawking give to disabled people?",
+      "options": ["They should try to be like everyone else", "They should concentrate on what they are good at", "They should participate in the Olympics", "They should stay at home"],
+      "correctIndex": 1,
+      "explanation": "He believed in focusing on one's strengths rather than struggling with impossible physical tasks.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e7_q12",
+      "text": "How did Kanga describe Hawking's body in the chapter?",
+      "options": ["Strong and tall", "Like a lantern whose walls are worn so thin you see only the light inside", "Heavy and solid", "Invisible"],
+      "correctIndex": 1,
+      "explanation": "This beautiful metaphor highlights Hawking's brilliant mind over his fragile physical state.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e7_q13",
+      "text": "According to Hawking, what is a waste of time for the disabled?",
+      "options": ["Reading books", "Things like the 'Disabled Olympics'", "Using a computer", "Traveling"],
+      "correctIndex": 1,
+      "explanation": "He felt that pushing disabled people into standard competitive physical activities was often futile.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e7_q14",
+      "text": "What did the author feel when he was leaving Hawking's house?",
+      "options": ["Sadness", "A sense of inspiration and relief", "Anger at the world", "Nothing"],
+      "correctIndex": 1,
+      "explanation": "Seeing someone as disabled as himself achieve so much gave Kanga great strength.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e7_q15",
+      "text": "Why did Kanga feel that Hawking was the most 'beautiful' man he had seen?",
+      "options": ["Because of his physical looks", "Because of his inner glow and brilliant spirit", "Because he was rich", "Because he was in Cambridge"],
+      "correctIndex": 1,
+      "explanation": "The beauty refers to the radiance of his intellect and soul.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e7_q16",
+      "text": "What happened when the thirty minutes of the interview were over?",
+      "options": ["Kanga was kicked out", "Hawking offered him tea and showed him his garden", "Hawking went to sleep", "Kanga forgot his notebook"],
+      "correctIndex": 1,
+      "explanation": "Hawking was kind enough to extend the visit and spend more time with Kanga.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e7_q17",
+      "text": "What did Kanga do to thank Hawking at the end of the meeting?",
+      "options": ["He gave him a gift", "He touched Hawking's shoulder and wheeled out", "He sang a song", "He promised to write a book"],
+      "correctIndex": 1,
+      "explanation": "It was a silent, respectful gesture of connection between two similar souls.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e7_q18",
+      "text": "The computer voice of Hawking had ________.",
+      "options": ["Much emotion", "No inflection and no shades", "A British accent", "A very low volume"],
+      "correctIndex": 1,
+      "explanation": "The synthesized voice was functional but lacked the human quality of tone.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e7_q19",
+      "text": "Kanga's book from which this is taken is called:",
+      "options": ["The Theory of Everything", "Heaven on Wheels", "Cambridge Days", "My Story"],
+      "correctIndex": 1,
+      "explanation": "Firdaus Kanga's travelogue is titled 'Heaven on Wheels'.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e7_q20",
+      "text": "What did the author mean by 'the incandescence of a man'?",
+      "options": ["His clothes", "The inner light/brilliance of his personality", "His wealth", "His height"],
+      "correctIndex": 1,
+      "explanation": "It refers to the shining quality of Hawking's mind.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e7_q21",
+      "text": "How did Hawking feel when Kanga told him he was an inspiration to others?",
+      "options": ["He was happy", "It didn't make it any better for him", "He was surprised", "He agreed"],
+      "correctIndex": 1,
+      "explanation": "Hawking pointed out that being an inspiration doesn't help the person suffering the pain.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e7_q22",
+      "text": "The meeting was a 'journey' for the author because:",
+      "options": ["He traveled by plane", "It changed his perspective on life and disability", "He moved from one room to another", "He went to a new country"],
+      "correctIndex": 1,
+      "explanation": "It was a profound emotional and spiritual journey.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e7_q23",
+      "text": "Stephen Hawking is known for his work in:",
+      "options": ["Biology", "Astrophysics", "English Literature", "History"],
+      "correctIndex": 1,
+      "explanation": "He was one of the greatest theoretical physicists/astrophysicists of our time.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e7_q24",
+      "text": "What was the name of the assistant who answered the phone?",
+      "options": ["Not mentioned by name", "Newton", "Bond", "Kanga"],
+      "correctIndex": 0,
+      "explanation": "The text refers to him as 'a man' or 'assistant' but doesn't name him.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g8_e7_q25",
+      "text": "The author felt ________ when Hawking's computer voice started.",
+      "options": ["Scared", "A strange sense of unity", "Bored", "Angry"],
+      "correctIndex": 1,
+      "explanation": "He felt a deep connection with the man who shared his struggles.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e7_q26",
+      "text": "Hawking's eyes were described as:",
+      "options": ["Closed", "Pale and saying something urgent", "Bright blue", "Small"],
+      "correctIndex": 1,
+      "explanation": "Kanga felt Hawking's eyes were trying to communicate things that were difficult to put into words.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e7_q27",
+      "text": "What is the primary theme of the chapter?",
+      "options": ["Architecture of Cambridge", "The resilience of the human spirit over physical limitations", "How to use a computer", "History of Mathematics"],
+      "correctIndex": 1,
+      "explanation": "The story focuses on how the mind can remain free despite a disabled body.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e7_q28",
+      "text": "The author says 'Cambridge was my metaphor for England'. This means:",
+      "options": ["He didn't like Cambridge", "To him, Cambridge represented the essence of England", "He lived in Cambridge", "He was a teacher there"],
+      "correctIndex": 1,
+      "explanation": "He associated the whole country with the prestigious university town.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e7_q29",
+      "text": "What did Hawking think about 'being disabled'?",
+      "options": ["It is fun", "There is nothing good about it", "It is the best thing", "It is better than being healthy"],
+      "correctIndex": 1,
+      "explanation": "He was realistic and didn't sugarcoat the difficulties of his condition.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e7_q30",
+      "text": "Did the author ask any questions to Hawking?",
+      "options": ["No", "Yes, many", "Only one", "He forgot to ask"],
+      "correctIndex": 1,
+      "explanation": "He asked several deep questions about Hawking's life and views.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e7_q31",
+      "text": "How did Hawking's fingers look?",
+      "options": ["Strong", "Pale and tapping at the switch", "Moving fast", "Not mentioned"],
+      "correctIndex": 1,
+      "explanation": "The text describes the physical effort he made to communicate.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e7_q32",
+      "text": "The author felt like a 'clumsy' person in front of Hawking because:",
+      "options": ["He broke a glass", "He felt his own questions were small compared to Hawking's life", "He couldn't walk", "He didn't know English"],
+      "correctIndex": 1,
+      "explanation": "It was a psychological feeling of humility in the presence of greatness.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e7_q33",
+      "text": "Where was Firdaus Kanga from?",
+      "options": ["London", "Mumbai, India", "New York", "Paris"],
+      "correctIndex": 1,
+      "explanation": "He is an Indian writer born in Mumbai.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e7_q34",
+      "text": "Hawking's garden was:",
+      "options": ["Small", "Large, as big as a park", "Full of vegetables", "Dry"],
+      "correctIndex": 1,
+      "explanation": "Kanga describes it as being quite spacious.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e7_q35",
+      "text": "What did the author do to reach Hawking's house?",
+      "options": ["Walked", "Used a wheelchair", "Took a taxi", "Rode a bicycle"],
+      "correctIndex": 1,
+      "explanation": "He moved in his own motorized wheelchair.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e7_q36",
+      "text": "Hawking's wheelchair was:",
+      "options": ["Manual", "Motorized", "Not used", "A wooden chair"],
+      "correctIndex": 1,
+      "explanation": "He used a specialized motorized wheelchair with a computer attached.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e7_q37",
+      "text": "The tone of the chapter is:",
+      "options": ["Humorous", "Deeply reflective and moving", "Angry", "Scientific only"],
+      "correctIndex": 1,
+      "explanation": "It is a touching account of a meeting between two brilliant minds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e7_q38",
+      "text": "What does 'propel' mean in the context of the wheelchair?",
+      "options": ["To break", "To push or move forward", "To stop", "To lift"],
+      "correctIndex": 1,
+      "explanation": "It refers to the action of moving the chair.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g8_e7_q39",
+      "text": "Who said 'I've managed to do something'?",
+      "options": ["Kanga", "Hawking", "The guide", "Newton"],
+      "correctIndex": 1,
+      "explanation": "Hawking said this about his life and work despite his challenges.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e7_q40",
+      "text": "By the end of the meeting, Kanga felt:",
+      "options": ["That he had failed", "That his body no longer mattered as much as his spirit", "That he wanted to live in Cambridge", "Tired"],
+      "correctIndex": 1,
+      "explanation": "The meeting liberated him from his own physical frustrations.",
+      "frequencyRating": 5
+    }
+  ]
+}

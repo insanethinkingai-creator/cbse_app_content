@@ -1,0 +1,330 @@
+{
+  "id": "g7_eng_ch6",
+  "grade": "7",
+  "subject": "English",
+  "number": "6",
+  "title": "Expert Detectives",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_e6_q1",
+      "text": "Who are the 'Expert Detectives' in the story?",
+      "options": ["Nishad and Maya", "Mr. Nath and his visitor", "Mamma and Mr. Nath", "The Police"],
+      "correctIndex": 0,
+      "explanation": "Nishad (Seven) and his sister Maya consider themselves detectives investigating Mr. Nath.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e6_q2",
+      "text": "Why is Nishad called 'Seven'?",
+      "options": ["He is seven years old", "He is the seventh child", "His name corresponds to the seventh note of the musical scale", "He has seven pets"],
+      "correctIndex": 2,
+      "explanation": "Nishad is a name for the seventh note on the Indian musical scale (Sa Re Ga Ma Pa Dha Ni).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e6_q3",
+      "text": "What is Maya's opinion of Mr. Nath?",
+      "options": ["He is a lonely man", "He is a crook on the run", "He is a family friend", "He is a secret agent"],
+      "correctIndex": 1,
+      "explanation": "Maya is convinced that Mr. Nath is a dangerous criminal hiding from the police.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e6_q4",
+      "text": "What is Nishad's initial feeling about Mr. Nath?",
+      "options": ["He is afraid of him", "He thinks he is very rich", "He thinks he is poor and starving", "He hates him"],
+      "correctIndex": 2,
+      "explanation": "Nishad notices Mr. Nath's thin appearance and thinks he doesn't have enough money for food.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e6_q5",
+      "text": "Who is the visitor who comes to see Mr. Nath every Sunday?",
+      "options": ["A tall, fair, stout man", "A small, dark, thin man", "A police officer", "A doctor"],
+      "correctIndex": 0,
+      "explanation": "A specific person visits Mr. Nath every Sunday afternoon for lunch.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e6_q6",
+      "text": "What does Ramesh tell the children about Mr. Nath's food habits?",
+      "options": ["He eats different things every day", "He eats the same meal twice a day", "He only eats fruit", "He never eats"],
+      "correctIndex": 1,
+      "explanation": "Ramesh, who brings the food, says Mr. Nath always has two chapattis, some dal, and a vegetable.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e6_q7",
+      "text": "What did Nishad give Mr. Nath when he went to his room?",
+      "options": ["A book", "A bar of chocolate", "A pencil", "Some money"],
+      "correctIndex": 1,
+      "explanation": "Nishad gave Mr. Nath a bar of chocolate out of sympathy for his condition.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e6_q8",
+      "text": "Why does Maya think Mr. Nath has scars on his face?",
+      "options": ["They are chicken pox marks", "They are from a fire during a police shoot-out", "He had an accident", "They are birthmarks"],
+      "correctIndex": 1,
+      "explanation": "Maya imagines the scars are a result of a confrontation with the law.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e6_q9",
+      "text": "What does Mr. Nath pay Ramesh for the delivery?",
+      "options": ["He doesn't pay", "He pays exactly the bill amount", "He pays well and tips generously", "He pays in old coins"],
+      "correctIndex": 2,
+      "explanation": "Ramesh mentions that Mr. Nath tips him well, which surprises Nishad.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e6_q10",
+      "text": "What was the purpose of the 'List of Facts' Maya wrote?",
+      "options": ["To show Nishad she was right", "To trap the crook", "To help her mother", "To win a school competition"],
+      "correctIndex": 1,
+      "explanation": "Maya compiled a list of facts to logically prove Mr. Nath was a criminal.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e6_q11",
+      "text": "How did Maya and Nishad get into Mr. Nath's room initially?",
+      "options": ["They were invited", "Nishad's marble rolled into the room", "They broke the door", "They climbed through the window"],
+      "correctIndex": 1,
+      "explanation": "A marble rolling into the room gave Nishad a chance to see Mr. Nath.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e6_q12",
+      "text": "What does Mamma say about Mr. Nath's scars?",
+      "options": ["They are burn scars", "They are from an operation", "They are birthmarks", "She doesn't know"],
+      "correctIndex": 0,
+      "explanation": "Mamma, being a doctor, told them they were burn scars.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e6_q13",
+      "text": "What was Nishad's reaction to Maya's list of facts?",
+      "options": ["He agreed with everything", "He was very impressed", "He was quiet and didn't seem to care about the 'facts'", "He tore the paper"],
+      "correctIndex": 2,
+      "explanation": "Nishad was only interested in whether Mr. Nath was lonely and poor, not Maya's detective work.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e6_q14",
+      "text": "Why does Maya think the Sunday visitor is an accomplice?",
+      "options": ["He looks like a criminal", "He brings the loot stolen by Mr. Nath", "He talks in code", "He carries a gun"],
+      "correctIndex": 1,
+      "explanation": "Maya theorizes that the visitor keeps the money and brings part of it to Mr. Nath regularly.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e6_q15",
+      "text": "Which day did the children have off from school due to rain?",
+      "options": ["Monday", "Friday", "Saturday", "Wednesday"],
+      "correctIndex": 0,
+      "explanation": "The story mentions that the monsoon rains gave them an unexpected holiday on a Monday.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e6_q16",
+      "text": "What was Maya's title for her list of facts?",
+      "options": ["The Secret of Mr. Nath", "Catching a Crook", "Expert Detectives: Maya and Nishad", "The Mystery of the Scars"],
+      "correctIndex": 1,
+      "explanation": "She headed her paper 'CATCHING A CROOK' followed by the names of the detectives.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e6_q17",
+      "text": "Nishad says Mr. Nath is 'meek'. What does 'meek' mean?",
+      "options": ["Aggressive", "Quiet and gentle", "Very rich", "Dishonest"],
+      "correctIndex": 1,
+      "explanation": "Meek describes someone who is quiet, gentle, and easily imposed upon.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_e6_q18",
+      "text": "According to Maya, why does Mr. Nath not have any friends?",
+      "options": ["He is very shy", "He is afraid someone might recognize him and tell the police", "He is a mean person", "He prefers to be alone"],
+      "correctIndex": 1,
+      "explanation": "Maya believes a criminal on the run cannot afford to have friends.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_eng_ch6_q19",
+      "text": "What was the result of the argument between Maya and Nishad at the end?",
+      "options": ["They stopped speaking to each other", "Nishad walked out of the room", "Maya admitted she was wrong", "They both laughed it off"],
+      "correctIndex": 1,
+      "explanation": "Nishad got fed up with Maya's theories and walked out, saying he wanted to be Mr. Nath's friend.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e6_q20",
+      "text": "What does Nishad want to find out about Mr. Nath?",
+      "options": ["Where his gold is", "Why he is so thin and why he is lonely", "What his real name is", "Where he went to school"],
+      "correctIndex": 1,
+      "explanation": "Nishad's interest is purely based on empathy and human curiosity.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e6_q21",
+      "text": "Who is the author of 'Expert Detectives'?",
+      "options": ["Roald Dahl", "Sharada Dwivedi", "Ruskin Bond", "Anita Desai"],
+      "correctIndex": 1,
+      "explanation": "The story is an excerpt from 'The Broken Flute' by Sharada Dwivedi.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e6_q22",
+      "text": "What is the relation between Nishad and Maya?",
+      "options": ["Friends", "Brother and Sister", "Cousins", "Neighbors"],
+      "correctIndex": 1,
+      "explanation": "They are siblings who live with their mother.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e6_q23",
+      "text": "How many facts did Maya list in her notes?",
+      "options": ["Five", "Seven", "Nine", "Ten"],
+      "correctIndex": 2,
+      "explanation": "Maya numbered her facts from one to nine.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_e6_q24",
+      "text": "Where does Mr. Nath live?",
+      "options": ["In a hotel", "In a rented room at Shankar House", "In an apartment", "In a small cottage"],
+      "correctIndex": 1,
+      "explanation": "He lived in one of the rooms at Shankar House.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e6_q25",
+      "text": "What does Ramesh bring for Mr. Nath every day from the restaurant?",
+      "options": ["Pizza", "Tea and meals", "Only snacks", "Coffee and sandwiches"],
+      "correctIndex": 1,
+      "explanation": "Ramesh brings two meals and tea (morning and afternoon).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e6_q26",
+      "text": "What is Mamma's profession?",
+      "options": ["Teacher", "Lawyer", "Doctor", "Detective"],
+      "correctIndex": 2,
+      "explanation": "She is a doctor, and Mr. Nath is one of her patients.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e6_q27",
+      "text": "How long has Mr. Nath been living at Shankar House?",
+      "options": ["One month", "More than a year", "Two weeks", "Ten years"],
+      "correctIndex": 1,
+      "explanation": "Maya notes as Fact 1 that he has been there for over a year.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e6_q28",
+      "text": "Why do the other tenants at Shankar House think Mr. Nath is 'mad, strange and unfriendly'?",
+      "options": ["He shouts at them", "He doesn't talk to anyone", "He breaks things", "He dresses strangely"],
+      "correctIndex": 1,
+      "explanation": "His isolation and refusal to socialize makes people suspicious.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e6_q29",
+      "text": "Nishad was 'glaring' at Maya. What does 'glaring' mean?",
+      "options": ["Smiling", "Staring angrily", "Looking away", "Closing eyes"],
+      "correctIndex": 1,
+      "explanation": "To glare is to stare in an angry or fierce way.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_e6_q30",
+      "text": "What did Maya call her brother as a nickname?",
+      "options": ["Seven", "Nish", "Little Bro", "Partner"],
+      "correctIndex": 0,
+      "explanation": "She consistently refers to him as Seven throughout their investigation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e6_q31",
+      "text": "What does 'accomplice' mean in the context of the story?",
+      "options": ["A helper in a crime", "A good friend", "A doctor", "A landlord"],
+      "correctIndex": 0,
+      "explanation": "Maya uses this term to describe her theory about the Sunday visitor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e6_q32",
+      "text": "Which of these is a 'fact' listed by Maya about Mr. Nath's behavior toward others?",
+      "options": ["He is very talkative", "He has no manners", "He doesn't receive any letters", "He loves children"],
+      "correctIndex": 2,
+      "explanation": "One of her points was that nobody ever writes to him.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e6_q33",
+      "text": "In Maya's view, how would the police catch Mr. Nath?",
+      "options": ["Wait for him to make a mistake", "Ask his mother", "Track his Sunday visitor", "Search his room for the trunk of silver and gold"],
+      "correctIndex": 3,
+      "explanation": "She assumes he has a trunk full of treasure hidden in his room.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e6_q34",
+      "text": "What was Nishad doing while Maya was writing the facts?",
+      "options": ["Lying on his tummy and reading comics", "Helping her write", "Watching TV", "Sleeping"],
+      "correctIndex": 0,
+      "explanation": "Nishad was indifferent to her writing and was busy with his comics.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e6_q35",
+      "text": "Maya believes Mr. Nath is a 'crook'. What is another word for 'crook'?",
+      "options": ["Honest man", "Criminal", "Teacher", "Athlete"],
+      "correctIndex": 1,
+      "explanation": "A crook is an informal term for a criminal or a swindler.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e6_q36",
+      "text": "Why did Nishad feel sorry for Mr. Nath?",
+      "options": ["He was old", "He looked lonely and had no friends", "He was sick", "He was mean"],
+      "correctIndex": 1,
+      "explanation": "Nishad's empathy is triggered by Mr. Nath's perceived loneliness.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e6_q37",
+      "text": "What color was the chocolate bar Nishad gave?",
+      "options": ["The text doesn't specify", "Brown", "White", "Dark"],
+      "correctIndex": 0,
+      "explanation": "The story mentions he thrust a bar of chocolate into his hand but doesn't specify the color.",
+      "frequencyRating": 1
+    },
+    {
+      "id": "g7_e6_q38",
+      "text": "Nishad said, 'I'll go and find out why he is so thin'. This shows he is:",
+      "options": ["Greedy", "Observant and compassionate", "Fearful", "Arrogant"],
+      "correctIndex": 1,
+      "explanation": "Nishad's focus is on understanding and helping, unlike Maya's focus on judgment.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e6_q39",
+      "text": "What was the atmosphere at the beginning of the story?",
+      "options": ["Bright and sunny", "A dark and stormy monsoon evening", "A cold winter morning", "A hot summer day"],
+      "correctIndex": 1,
+      "explanation": "The story sets a mysterious tone with the rain and lightning.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_e6_q40",
+      "text": "The conflict in the story is mainly between:",
+      "options": ["Mr. Nath and the Police", "Maya's logic and Nishad's empathy", "Mamma and Mr. Nath", "Ramesh and the children"],
+      "correctIndex": 1,
+      "explanation": "The core of the story is the differing perspectives of the two children regarding the same person.",
+      "frequencyRating": 5
+    }
+  ]
+}
