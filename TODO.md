@@ -1,0 +1,1 @@
+# TODO: Fix create_bundle.py to abort only if less than 40 questions per chapter\n\n1. ✅ Edit create_bundle.py - change validation condition from ==40 to >=40 (abort if <40)\n2. Test by running python create_bundle.py\n3. [ ] Update if needed based on test output

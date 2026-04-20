@@ -1,0 +1,330 @@
+{
+  "id": "g11_phy_ch15",
+  "grade": "11",
+  "subject": "Physics",
+  "number": "15",
+  "title": "Waves",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g11_p15_q1",
+      "text": "In a transverse wave, the particles of the medium vibrate:",
+      "options": ["Parallel to the direction of wave propagation", "Perpendicular to the direction of wave propagation", "In a circular motion", "At an angle of 45 degrees to the propagation"],
+      "correctIndex": 1,
+      "explanation": "By definition, transverse waves involve oscillations perpendicular to the direction of energy transfer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p15_q2",
+      "text": "Sound waves in air are always:",
+      "options": ["Transverse", "Longitudinal", "Electromagnetic", "Stationary"],
+      "correctIndex": 1,
+      "explanation": "Sound travels through air as a series of compressions and rarefactions, which are longitudinal oscillations.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p15_q3",
+      "text": "The distance between two consecutive crests or troughs is called:",
+      "options": ["Amplitude", "Frequency", "Wavelength", "Wave number"],
+      "correctIndex": 2,
+      "explanation": "Wavelength (λ) is the spatial period of a periodic wave—the distance over which the wave's shape repeats.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p15_q4",
+      "text": "If the frequency of a wave is 50 Hz, its time period is:",
+      "options": ["0.02 s", "0.2 s", "2 s", "50 s"],
+      "correctIndex": 0,
+      "explanation": "Time period T = 1/f = 1/50 = 0.02 seconds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p15_q5",
+      "text": "The propagation constant or angular wave number (k) is defined as:",
+      "options": ["k = 2π/λ", "k = λ/2π", "k = 2πf", "k = 1/λ"],
+      "correctIndex": 0,
+      "explanation": "The wave number k represents the number of radians per unit distance.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p15_q6",
+      "text": "In the wave equation y(x, t) = a sin(kx - ωt + φ), what does 'ω' represent?",
+      "options": ["Wavelength", "Wave number", "Angular frequency", "Initial phase"],
+      "correctIndex": 2,
+      "explanation": "ω (omega) is the angular frequency, related to frequency by ω = 2πf.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p15_q7",
+      "text": "The speed of a transverse wave on a stretched string depends on:",
+      "options": ["Frequency and wavelength", "Tension and linear mass density", "Amplitude and frequency", "Tension and length of the string"],
+      "correctIndex": 1,
+      "explanation": "The velocity is given by v = √(T/μ), where T is tension and μ is mass per unit length.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p15_q8",
+      "text": "According to Newton's formula, the speed of sound in a gas is proportional to:",
+      "options": ["√(P/ρ)", "P/ρ", "√(ρ/P)", "Pρ"],
+      "correctIndex": 0,
+      "explanation": "Newton assumed isothermal conditions, giving v = √(P/ρ).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p15_q9",
+      "text": "Laplace's correction to the speed of sound accounts for ______ behavior of gas.",
+      "options": ["Isothermal", "Isobaric", "Adiabatic", "Isochoric"],
+      "correctIndex": 2,
+      "explanation": "Laplace corrected Newton's formula by assuming that compressions and rarefactions happen so fast they are adiabatic.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p15_q10",
+      "text": "The speed of sound in a gas is independent of:",
+      "options": ["Temperature", "Humidity", "Pressure", "Density"],
+      "correctIndex": 2,
+      "explanation": "At a constant temperature, if pressure increases, density increases proportionally, keeping the ratio P/ρ constant.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p15_q11",
+      "text": "With an increase in temperature, the speed of sound in air:",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correctIndex": 0,
+      "explanation": "Speed of sound v ∝ √T. As temperature rises, velocity increases.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p15_q12",
+      "text": "The principle of superposition states that the resultant displacement is the:",
+      "options": ["Product of individual displacements", "Algebraic sum of individual displacements", "Vector sum of individual displacements", "Difference of individual displacements"],
+      "correctIndex": 2,
+      "explanation": "The principle states that y = y1 + y2 + ... yn (vector sum).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p15_q13",
+      "text": "When a wave is reflected from a rigid boundary, the phase change is:",
+      "options": ["0", "π/2", "π", "2π"],
+      "correctIndex": 2,
+      "explanation": "Reflection at a fixed end causes a phase reversal of 180 degrees (π radians).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p15_q14",
+      "text": "In a stationary wave, the points of zero amplitude are called:",
+      "options": ["Antinodes", "Nodes", "Crests", "Troughs"],
+      "correctIndex": 1,
+      "explanation": "Nodes are positions where the two interfering waves always cancel each other out.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p15_q15",
+      "text": "The distance between a node and an adjacent antinode is:",
+      "options": ["λ", "λ/2", "λ/4", "λ/8"],
+      "correctIndex": 2,
+      "explanation": "Nodes are separated by λ/2; the point exactly in the middle of two nodes is an antinode (λ/4 from a node).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p15_q16",
+      "text": "A string of length L fixed at both ends vibrates in its fundamental mode. The wavelength is:",
+      "options": ["L", "2L", "L/2", "4L"],
+      "correctIndex": 1,
+      "explanation": "In the first harmonic, L = λ/2, therefore λ = 2L.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p15_q17",
+      "text": "An open organ pipe produces:",
+      "options": ["Only odd harmonics", "Only even harmonics", "Both odd and even harmonics", "No harmonics"],
+      "correctIndex": 2,
+      "explanation": "Open pipes support all integer multiples of the fundamental frequency.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p15_q18",
+      "text": "A closed organ pipe (closed at one end) produces:",
+      "options": ["Only odd harmonics", "Only even harmonics", "Both odd and even harmonics", "All harmonics"],
+      "correctIndex": 0,
+      "explanation": "Closed pipes only produce the 1st, 3rd, 5th, etc., harmonics.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p15_q19",
+      "text": "The phenomenon of beats is a result of:",
+      "options": ["Reflection", "Refraction", "Interference of waves of slightly different frequencies", "Polarization"],
+      "correctIndex": 2,
+      "explanation": "Beats occur when two sound waves of nearly equal frequencies overlap.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p15_q20",
+      "text": "If two tuning forks of frequencies 256 Hz and 260 Hz are sounded together, the beat frequency is:",
+      "options": ["258 Hz", "516 Hz", "4 Hz", "2 Hz"],
+      "correctIndex": 2,
+      "explanation": "Beat frequency = |f1 - f2| = |256 - 260| = 4 Hz.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p15_q21",
+      "text": "Stationary waves ______ energy.",
+      "options": ["Transport", "Do not transport", "Accelerate", "Dissipate"],
+      "correctIndex": 1,
+      "explanation": "Unlike progressive waves, stationary waves store energy within the medium between nodes rather than transferring it.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p15_q22",
+      "text": "Which of the following properties of a wave is independent of the others?",
+      "options": ["Velocity", "Wavelength", "Frequency", "Amplitude"],
+      "correctIndex": 3,
+      "explanation": "Amplitude depends on the energy of the source, whereas v, f, and λ are related by v = fλ.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p15_q23",
+      "text": "The speed of sound is maximum in:",
+      "options": ["Solids", "Liquids", "Gases", "Vacuum"],
+      "correctIndex": 0,
+      "explanation": "Solids have higher elasticity and bulk modulus, leading to higher sound speeds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p15_q24",
+      "text": "A wave represented by y = A cos(kx + ωt) is travelling in:",
+      "options": ["Positive x-direction", "Negative x-direction", "Positive y-direction", "Negative y-direction"],
+      "correctIndex": 1,
+      "explanation": "In (kx + ωt), the '+' sign indicates propagation towards the negative x-axis.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p15_q25",
+      "text": "The ratio of frequencies of the first three harmonics in a stretched string is:",
+      "options": ["1:2:3", "1:3:5", "1:4:9", "3:2:1"],
+      "correctIndex": 0,
+      "explanation": "Strings produce all harmonics (f, 2f, 3f...).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p15_q26",
+      "text": "The ratio of frequencies of the first three harmonics in a closed organ pipe is:",
+      "options": ["1:2:3", "1:3:5", "1:4:9", "1:1:1"],
+      "correctIndex": 1,
+      "explanation": "Closed pipes only produce odd harmonics.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p15_q27",
+      "text": "What is the phase difference between two points on a wave separated by a distance λ/2?",
+      "options": ["π/2", "π", "2π", "0"],
+      "correctIndex": 1,
+      "explanation": "Phase difference Δφ = (2π/λ) * Δx. If Δx = λ/2, Δφ = π.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p15_q28",
+      "text": "The frequency of a man's voice is 300 Hz and the wavelength is 1 m. The velocity of sound is:",
+      "options": ["300 m/s", "150 m/s", "600 m/s", "330 m/s"],
+      "correctIndex": 0,
+      "explanation": "v = f * λ = 300 * 1 = 300 m/s.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p15_q29",
+      "text": "Ultrasonic waves have frequencies:",
+      "options": ["Below 20 Hz", "Between 20 Hz and 20,000 Hz", "Above 20,000 Hz", "Exactly 100 Hz"],
+      "correctIndex": 2,
+      "explanation": "Ultrasound refers to sound frequencies higher than the human hearing limit.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p15_q30",
+      "text": "The velocity of sound in vacuum is:",
+      "options": ["332 m/s", "3 * 10^8 m/s", "Zero", "Infinity"],
+      "correctIndex": 2,
+      "explanation": "Sound is a mechanical wave and requires a material medium to propagate.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p15_q31",
+      "text": "In a longitudinal wave, a compression is a region of:",
+      "options": ["High pressure and high density", "Low pressure and low density", "High pressure and low density", "Low pressure and high density"],
+      "correctIndex": 0,
+      "explanation": "Particles are crowded together in a compression, increasing both pressure and density.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p15_q32",
+      "text": "The speed of sound in air at STP is approximately:",
+      "options": ["331 m/s", "344 m/s", "1500 m/s", "5000 m/s"],
+      "correctIndex": 0,
+      "explanation": "Standard value used in Physics at 0°C (STP).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p15_q33",
+      "text": "A pipe open at both ends has a fundamental frequency 'f'. If one end is closed, the new fundamental frequency will be:",
+      "options": ["f/2", "2f", "f", "f/4"],
+      "correctIndex": 0,
+      "explanation": "f_open = v/2L and f_closed = v/4L. Thus f_closed = f_open / 2.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p15_q34",
+      "text": "Two waves y1 = A sin(ωt) and y2 = A cos(ωt) have a phase difference of:",
+      "options": ["0", "π", "π/2", "π/4"],
+      "correctIndex": 2,
+      "explanation": "cos(ωt) can be written as sin(ωt + π/2).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p15_q35",
+      "text": "Which of the following is not a characteristic of a musical sound?",
+      "options": ["Pitch", "Quality (Timbre)", "Loudness", "Wavelength"],
+      "correctIndex": 3,
+      "explanation": "Pitch, Quality, and Loudness are the three psychological characteristics of musical sound.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p15_q36",
+      "text": "Pitch of a sound depends on its:",
+      "options": ["Amplitude", "Frequency", "Velocity", "Waveform"],
+      "correctIndex": 1,
+      "explanation": "Higher frequency corresponds to a higher pitch.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p15_q37",
+      "text": "Quality of sound depends on:",
+      "options": ["Frequency", "Overtones (Harmonics) present", "Amplitude", "Velocity"],
+      "correctIndex": 1,
+      "explanation": "Quality allows us to distinguish between two sounds of same pitch and loudness based on their harmonic content.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g11_p15_q38",
+      "text": "The intensity of a wave is proportional to the ______ of its amplitude.",
+      "options": ["Square", "Square root", "Cube", "Direct value"],
+      "correctIndex": 0,
+      "explanation": "Intensity I ∝ A².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g11_p15_q39",
+      "text": "Beats can be heard only if the frequency difference is less than about:",
+      "options": ["2 Hz", "10 Hz", "50 Hz", "100 Hz"],
+      "correctIndex": 1,
+      "explanation": "Due to persistence of hearing, the human ear can distinguish beats only up to about 7-10 per second.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g11_p15_q40",
+      "text": "The speed of sound increases with increase in ______ of the air.",
+      "options": ["Pressure", "Density", "Humidity", "Dryness"],
+      "correctIndex": 2,
+      "explanation": "Moist air is less dense than dry air, and since v ∝ 1/√ρ, speed increases with humidity.",
+      "frequencyRating": 4
+    }
+  ]
+}

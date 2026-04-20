@@ -1,0 +1,330 @@
+{
+  "id": "g9_math_ch3",
+  "grade": "9",
+  "subject": "Mathematics",
+  "number": "3",
+  "title": "Coordinate Geometry",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_m3_q1",
+      "text": "The point of intersection of the horizontal and vertical axes is called:",
+      "options": ["Abscissa", "Ordinate", "Origin", "Quadrant"],
+      "correctIndex": 2,
+      "explanation": "The origin is the starting point (0,0) where the x and y axes meet.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m3_q2",
+      "text": "The horizontal line in a Cartesian plane is called the:",
+      "options": ["y-axis", "x-axis", "Ordinate", "Origin"],
+      "correctIndex": 1,
+      "explanation": "The x-axis is horizontal, while the y-axis is vertical.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m3_q3",
+      "text": "The coordinates of the origin are:",
+      "options": ["(1, 1)", "(1, 0)", "(0, 1)", "(0, 0)"],
+      "correctIndex": 3,
+      "explanation": "At the origin, both x and y distances are zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m3_q4",
+      "text": "A point both of whose coordinates are negative lies in:",
+      "options": ["Quadrant I", "Quadrant II", "Quadrant III", "Quadrant IV"],
+      "correctIndex": 2,
+      "explanation": "In Quadrant III, x < 0 and y < 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m3_q5",
+      "text": "The abscissa of any point on the y-axis is:",
+      "options": ["0", "1", "-1", "Any number"],
+      "correctIndex": 0,
+      "explanation": "Any point on the y-axis has no horizontal displacement, so x = 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m3_q6",
+      "text": "The ordinate of any point on the x-axis is:",
+      "options": ["0", "1", "-1", "Any number"],
+      "correctIndex": 0,
+      "explanation": "Any point on the x-axis has no vertical displacement, so y = 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m3_q7",
+      "text": "Points (-3, 5) lies in the:",
+      "options": ["First quadrant", "Second quadrant", "Third quadrant", "Fourth quadrant"],
+      "correctIndex": 1,
+      "explanation": "Here x is negative and y is positive, which corresponds to the second quadrant.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m3_q8",
+      "text": "The x-coordinate of a point is also called its:",
+      "options": ["Ordinate", "Abscissa", "Origin", "Quadrant"],
+      "correctIndex": 1,
+      "explanation": "Abscissa refers to the x-value, ordinate refers to the y-value.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m3_q9",
+      "text": "If the y-coordinate of a point is zero, then this point always lies:",
+      "options": ["In Quadrant I", "In Quadrant II", "On the x-axis", "On the y-axis"],
+      "correctIndex": 2,
+      "explanation": "When y=0, the point is located exactly on the horizontal axis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m3_q10",
+      "text": "The perpendicular distance of the point P(3, 4) from the y-axis is:",
+      "options": ["3", "4", "5", "7"],
+      "correctIndex": 0,
+      "explanation": "Distance from y-axis is given by the absolute value of the x-coordinate (abscissa).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m3_q11",
+      "text": "The perpendicular distance of the point P(4, 3) from the x-axis is:",
+      "options": ["4", "3", "5", "None"],
+      "correctIndex": 1,
+      "explanation": "Distance from x-axis is given by the absolute value of the y-coordinate (ordinate).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m3_q12",
+      "text": "Abscissa of a point is positive in:",
+      "options": ["I and II quadrants", "I and IV quadrants", "I quadrant only", "II quadrant only"],
+      "correctIndex": 1,
+      "explanation": "x is positive on the right side of the y-axis (Quadrants I and IV).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m3_q13",
+      "text": "The point (0, -7) lies:",
+      "options": ["On the x-axis", "In the second quadrant", "On the y-axis", "In the fourth quadrant"],
+      "correctIndex": 2,
+      "explanation": "Since the x-coordinate is 0, the point must lie on the vertical axis (y-axis).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m3_q14",
+      "text": "In which quadrant do points with signs (+, -) lie?",
+      "options": ["I", "II", "III", "IV"],
+      "correctIndex": 3,
+      "explanation": "Positive x and negative y describe the bottom-right section (IV).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m3_q15",
+      "text": "Ordinate of a point is negative in:",
+      "options": ["III and IV quadrants", "II and III quadrants", "III quadrant only", "IV quadrant only"],
+      "correctIndex": 0,
+      "explanation": "y is negative below the x-axis (Quadrants III and IV).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m3_q16",
+      "text": "The axes divide the Cartesian plane into how many parts?",
+      "options": ["2", "3", "4", "1"],
+      "correctIndex": 2,
+      "explanation": "The plane is divided into four quadrants.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m3_q17",
+      "text": "The point (-10, 0) lies:",
+      "options": ["On the positive x-axis", "On the negative x-axis", "On the negative y-axis", "In the third quadrant"],
+      "correctIndex": 1,
+      "explanation": "Since y=0 and x is negative, it is on the negative part of the horizontal axis.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m3_q18",
+      "text": "If a point is at a distance of 5 units from the x-axis and 2 units from the y-axis in the IV quadrant, its coordinates are:",
+      "options": ["(5, -2)", "(2, -5)", "(-2, -5)", "(-5, 2)"],
+      "correctIndex": 1,
+      "explanation": "Distance from y-axis = x = 2. Distance from x-axis = |y| = 5. In IV quadrant, y is negative, so (2, -5).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m3_q19",
+      "text": "Which point lies on the x-axis?",
+      "options": ["(0, 3)", "(3, 0)", "(3, 3)", "(-3, -3)"],
+      "correctIndex": 1,
+      "explanation": "Points on the x-axis must have y = 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m3_q20",
+      "text": "The point whose ordinate is 4 and which lies on y-axis is:",
+      "options": ["(4, 0)", "(0, 4)", "(1, 4)", "(4, 2)"],
+      "correctIndex": 1,
+      "explanation": "Lying on the y-axis means x = 0. Ordinate is the y-value.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m3_q21",
+      "text": "Points (1, -1), (2, -2), (4, -5), (-3, -4) - which does not lie in the IV quadrant?",
+      "options": ["(1, -1)", "(2, -2)", "(4, -5)", "(-3, -4)"],
+      "correctIndex": 3,
+      "explanation": "(-3, -4) has both coordinates negative, so it lies in the III quadrant.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m3_q22",
+      "text": "The distance of the point (h, k) from the origin is:",
+      "options": ["h + k", "√(h + k)", "√(h² + k²)", "h² + k²"],
+      "correctIndex": 2,
+      "explanation": "By Pythagoras theorem, distance d = √(x² + y²).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m3_q23",
+      "text": "If the coordinates of a point are (0, 0), then the point is:",
+      "options": ["On x-axis", "On y-axis", "Origin", "All of these"],
+      "correctIndex": 3,
+      "explanation": "The origin (0,0) lies on both axes simultaneously.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m3_q24",
+      "text": "A point whose abscissa is -3 and ordinate is 2 lies in:",
+      "options": ["I quadrant", "II quadrant", "III quadrant", "IV quadrant"],
+      "correctIndex": 1,
+      "explanation": "x < 0 and y > 0 is the Second Quadrant.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m3_q25",
+      "text": "Signs of the coordinates of a point in the II quadrant are:",
+      "options": ["(+, +)", "(-, +)", "(-, -)", "(+, -)"],
+      "correctIndex": 1,
+      "explanation": "In Quadrant II, x is negative (left) and y is positive (up).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m3_q26",
+      "text": "The ordinate of every point on the x-axis is:",
+      "options": ["1", "-1", "0", "constant"],
+      "correctIndex": 2,
+      "explanation": "On the x-axis, there is no vertical movement, so y = 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m3_q27",
+      "text": "The name of the system used for locating a point in a plane is:",
+      "options": ["Coordinate System", "Cartesian System", "Both A and B", "None of these"],
+      "correctIndex": 2,
+      "explanation": "It is commonly called the Cartesian coordinate system.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m3_q28",
+      "text": "If P(-1, 1), Q(3, -4), R(1, -1), S(-2, -3) and T(-4, 4) are plotted, which points lie in the IV quadrant?",
+      "options": ["P and T", "Q and R", "S and T", "P and R"],
+      "correctIndex": 1,
+      "explanation": "Q(3, -4) and R(1, -1) have positive x and negative y.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m3_q29",
+      "text": "Point (-4, -4) is equidistant from:",
+      "options": ["x-axis", "y-axis", "Both axes", "None"],
+      "correctIndex": 2,
+      "explanation": "The distances are |-4| = 4 and |-4| = 4, so it is equidistant from both axes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m3_q30",
+      "text": "A point lies on the y-axis at a distance of 5 units in the negative direction. Its coordinates are:",
+      "options": ["(-5, 0)", "(0, -5)", "(5, 0)", "(0, 5)"],
+      "correctIndex": 1,
+      "explanation": "On y-axis means x = 0. Negative direction 5 units means y = -5.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m3_q31",
+      "text": "The Cartesian plane is also called:",
+      "options": ["XY-plane", "Coordinate plane", "Both A and B", "Scalar plane"],
+      "correctIndex": 2,
+      "explanation": "These are common synonyms in geometry.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m3_q32",
+      "text": "Abscissa of (5, 2) is:",
+      "options": ["5", "2", "7", "3"],
+      "correctIndex": 0,
+      "explanation": "Abscissa is the x-coordinate.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m3_q33",
+      "text": "Ordinate of (2, 5) is:",
+      "options": ["2", "5", "7", "3"],
+      "correctIndex": 1,
+      "explanation": "Ordinate is the y-coordinate.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m3_q34",
+      "text": "Point (x, y) where x > 0 and y > 0 is in quadrant:",
+      "options": ["I", "II", "III", "IV"],
+      "correctIndex": 0,
+      "explanation": "Both positive coordinates define the first quadrant.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m3_q35",
+      "text": "Point (x, y) where x < 0 and y < 0 is in quadrant:",
+      "options": ["I", "II", "III", "IV"],
+      "correctIndex": 2,
+      "explanation": "Both negative coordinates define the third quadrant.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m3_q36",
+      "text": "The x-axis and y-axis are ______ to each other.",
+      "options": ["Parallel", "Perpendicular", "Coincident", "None"],
+      "correctIndex": 1,
+      "explanation": "They meet at a 90-degree angle at the origin.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m3_q37",
+      "text": "The distance of point (3, 0) from the origin is:",
+      "options": ["0", "3", "√3", "9"],
+      "correctIndex": 1,
+      "explanation": "Distance = √(3² + 0²) = 3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m3_q38",
+      "text": "Point (10, -10) lies in quadrant:",
+      "options": ["I", "II", "III", "IV"],
+      "correctIndex": 3,
+      "explanation": "x positive, y negative is quadrant IV.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m3_q39",
+      "text": "To plot the point (4, 5), we move 4 units along ______ and 5 units along ______.",
+      "options": ["x-axis, y-axis", "y-axis, x-axis", "Origin, x-axis", "Origin, y-axis"],
+      "correctIndex": 0,
+      "explanation": "First coordinate is for x (horizontal), second is for y (vertical).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m3_q40",
+      "text": "René Descartes is credited with the development of:",
+      "options": ["Algebra", "Calculus", "Coordinate Geometry", "Trigonometry"],
+      "correctIndex": 2,
+      "explanation": "Cartesian geometry is named after him.",
+      "frequencyRating": 3
+    }
+  ]
+}

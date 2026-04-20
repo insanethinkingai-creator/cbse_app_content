@@ -1,0 +1,330 @@
+{
+  "id": "g9_math_ch6",
+  "grade": "9",
+  "subject": "Mathematics",
+  "number": "6",
+  "title": "Lines and Angles",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_m6_q1",
+      "text": "An angle which is greater than 180° but less than 360° is called:",
+      "options": ["Acute angle", "Obtuse angle", "Reflex angle", "Straight angle"],
+      "correctIndex": 2,
+      "explanation": "By definition, a reflex angle lies between 180 and 360 degrees.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m6_q2",
+      "text": "If the sum of two angles is 90°, then they are called:",
+      "options": ["Supplementary angles", "Complementary angles", "Adjacent angles", "Vertically opposite angles"],
+      "correctIndex": 1,
+      "explanation": "Complementary angles add up to a right angle (90°).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m6_q3",
+      "text": "If a ray stands on a line, then the sum of the two adjacent angles so formed is:",
+      "options": ["90°", "180°", "270°", "360°"],
+      "correctIndex": 1,
+      "explanation": "This is the Linear Pair Axiom; angles on a straight line sum to 180°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m6_q4",
+      "text": "Two lines are parallel to the same line. These two lines are ______ to each other.",
+      "options": ["Perpendicular", "Intersecting", "Parallel", "Coincident"],
+      "correctIndex": 2,
+      "explanation": "Lines parallel to the same line are parallel to each other (Transitive property of parallelism).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m6_q5",
+      "text": "The sum of all the angles of a triangle is:",
+      "options": ["90°", "180°", "270°", "360°"],
+      "correctIndex": 1,
+      "explanation": "The Angle Sum Property of a triangle states the total internal angles equal 180°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m6_q6",
+      "text": "If one angle of a triangle is equal to the sum of the other two angles, then the triangle is:",
+      "options": ["An isosceles triangle", "An obtuse angled triangle", "An equilateral triangle", "A right angled triangle"],
+      "correctIndex": 3,
+      "explanation": "x + (y + z) = 180. If x = y + z, then 2x = 180, so x = 90°.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m6_q7",
+      "text": "If two interior angles on the same side of a transversal intersecting two parallel lines are in the ratio 2:3, the greater angle is:",
+      "options": ["72°", "108°", "54°", "120°"],
+      "correctIndex": 1,
+      "explanation": "2x + 3x = 180 => 5x = 180 => x = 36. 3x = 108°.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m6_q8",
+      "text": "In a triangle, an exterior angle is equal to the sum of its:",
+      "options": ["Adjacent interior angles", "Two interior opposite angles", "All three interior angles", "None"],
+      "correctIndex": 1,
+      "explanation": "The Exterior Angle Theorem states it equals the sum of the two non-adjacent interior angles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m6_q9",
+      "text": "Vertically opposite angles are always:",
+      "options": ["Complementary", "Supplementary", "Equal", "Unequal"],
+      "correctIndex": 2,
+      "explanation": "When two lines intersect, the angles opposite the vertex are identical.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m6_q10",
+      "text": "If a transversal intersects two parallel lines, then the alternate interior angles are:",
+      "options": ["Equal", "Supplementary", "Complementary", "Parallel"],
+      "correctIndex": 0,
+      "explanation": "This is a fundamental property of parallel lines cut by a transversal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m6_q11",
+      "text": "The complement of 55° is:",
+      "options": ["35°", "45°", "125°", "145°"],
+      "correctIndex": 0,
+      "explanation": "90° - 55° = 35°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m6_q12",
+      "text": "The supplement of 105° is:",
+      "options": ["75°", "85°", "90°", "15°"],
+      "correctIndex": 0,
+      "explanation": "180° - 105° = 75°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m6_q13",
+      "text": "An angle is equal to its supplement. The angle is:",
+      "options": ["45°", "90°", "180°", "60°"],
+      "correctIndex": 1,
+      "explanation": "x = 180 - x => 2x = 180 => x = 90°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m6_q14",
+      "text": "An angle is 1/4 of its complement. Find the angle:",
+      "options": ["18°", "72°", "22.5°", "45°"],
+      "correctIndex": 0,
+      "explanation": "x = 1/4(90 - x) => 4x = 90 - x => 5x = 90 => x = 18°.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m6_q15",
+      "text": "How many lines can pass through a single point?",
+      "options": ["One", "Two", "Infinite", "Zero"],
+      "correctIndex": 2,
+      "explanation": "Infinite lines can be drawn originating from or passing through a single point.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m6_q16",
+      "text": "Two angles form a linear pair. If one is acute, the other must be:",
+      "options": ["Acute", "Obtuse", "Right", "Reflex"],
+      "correctIndex": 1,
+      "explanation": "If x < 90, then 180 - x > 90. Therefore, the other must be obtuse.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m6_q17",
+      "text": "In a right triangle, the sum of the two acute angles is:",
+      "options": ["45°", "90°", "180°", "60°"],
+      "correctIndex": 1,
+      "explanation": "180 - 90 (the right angle) = 90 degrees.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m6_q18",
+      "text": "If three or more points lie on the same line, they are called:",
+      "options": ["Collinear points", "Coplanar points", "Concurrent points", "Parallel points"],
+      "correctIndex": 0,
+      "explanation": "Collinear means 'on the same line'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m6_q19",
+      "text": "The angle between the bisectors of two adjacent supplementary angles is:",
+      "options": ["45°", "90°", "180°", "60°"],
+      "correctIndex": 1,
+      "explanation": "1/2(x) + 1/2(180-x) = 1/2(180) = 90°.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m6_q20",
+      "text": "If two lines intersect, and one of the vertically opposite angles is 40°, find the other three angles:",
+      "options": ["40°, 40°, 40°", "140°, 40°, 140°", "40°, 140°, 180°", "60°, 120°, 60°"],
+      "correctIndex": 1,
+      "explanation": "Vertically opposite is 40. Linear pair is 180 - 40 = 140. Its opposite is also 140.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m6_q21",
+      "text": "The sum of angles at a point is:",
+      "options": ["180°", "90°", "360°", "270°"],
+      "correctIndex": 2,
+      "explanation": "Angles around a complete point rotation sum to 360 degrees.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m6_q22",
+      "text": "If two lines are intersected by a transversal, and the corresponding angles are equal, the lines are:",
+      "options": ["Parallel", "Perpendicular", "Intersecting", "Non-coplanar"],
+      "correctIndex": 0,
+      "explanation": "This is the converse of the corresponding angles axiom.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m6_q23",
+      "text": "An exterior angle of a triangle is 110° and its two interior opposite angles are equal. Each of these angles is:",
+      "options": ["70°", "55°", "110°", "35°"],
+      "correctIndex": 1,
+      "explanation": "x + x = 110 => 2x = 110 => x = 55°.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m6_q24",
+      "text": "The angles of a triangle are in the ratio 2:4:3. The smallest angle of the triangle is:",
+      "options": ["20°", "40°", "60°", "80°"],
+      "correctIndex": 1,
+      "explanation": "2x + 4x + 3x = 180 => 9x = 180 => x = 20. Smallest is 2x = 40°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m6_q25",
+      "text": "If a transversal intersects two parallel lines, then the sum of consecutive interior angles is:",
+      "options": ["90°", "180°", "360°", "270°"],
+      "correctIndex": 1,
+      "explanation": "Consecutive interior angles (co-interior) are supplementary.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m6_q26",
+      "text": "A line joining two points is called a:",
+      "options": ["Ray", "Line segment", "Point", "Plane"],
+      "correctIndex": 1,
+      "explanation": "A line segment has two fixed endpoints.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m6_q27",
+      "text": "A ray has ______ end point(s).",
+      "options": ["One", "Two", "No", "Infinite"],
+      "correctIndex": 0,
+      "explanation": "A ray starts at one point and extends indefinitely in one direction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m6_q28",
+      "text": "Angles which have a common vertex and a common arm but no common interior points are:",
+      "options": ["Vertical angles", "Adjacent angles", "Linear pair", "Corresponding angles"],
+      "correctIndex": 1,
+      "explanation": "This is the definition of adjacent angles.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m6_q29",
+      "text": "If two lines are perpendicular to the same line, they are:",
+      "options": ["Perpendicular to each other", "Parallel to each other", "Intersecting", "Coincident"],
+      "correctIndex": 1,
+      "explanation": "In a plane, two lines perpendicular to a third line must be parallel.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m6_q30",
+      "text": "The measure of a straight angle is:",
+      "options": ["90°", "180°", "0°", "360°"],
+      "correctIndex": 1,
+      "explanation": "A straight angle forms a straight line.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m6_q31",
+      "text": "The measure of a complete angle is:",
+      "options": ["180°", "360°", "90°", "270°"],
+      "correctIndex": 1,
+      "explanation": "A full rotation is 360 degrees.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m6_q32",
+      "text": "Two adjacent angles sum to 180°. They form a:",
+      "options": ["Linear pair", "Reflex angle", "Acute angle", "Obtuse angle"],
+      "correctIndex": 0,
+      "explanation": "If adjacent angles are supplementary, their non-common arms form a line (linear pair).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m6_q33",
+      "text": "If one angle of a triangle is 130°, then the angle between the bisectors of the other two angles is:",
+      "options": ["65°", "155°", "130°", "50°"],
+      "correctIndex": 1,
+      "explanation": "Angle = 90 + (1/2 * 130) = 90 + 65 = 155°.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g9_m6_q34",
+      "text": "A triangle can have ______ obtuse angle(s).",
+      "options": ["Only one", "Two", "Three", "None"],
+      "correctIndex": 0,
+      "explanation": "If it had two, the sum would exceed 180°.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m6_q35",
+      "text": "The internal bisectors of the angles of a triangle are:",
+      "options": ["Parallel", "Concurrent", "Perpendicular", "None"],
+      "correctIndex": 1,
+      "explanation": "They meet at a single point called the incenter.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m6_q36",
+      "text": "Find the angle which is four times its complement:",
+      "options": ["72°", "18°", "45°", "36°"],
+      "correctIndex": 0,
+      "explanation": "x = 4(90 - x) => 5x = 360 => x = 72°.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m6_q37",
+      "text": "An angle whose measure is exactly 90° is:",
+      "options": ["Obtuse", "Acute", "Right", "Reflex"],
+      "correctIndex": 2,
+      "explanation": "Standard definition of a right angle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m6_q38",
+      "text": "A line segment has ______ length.",
+      "options": ["Definite", "Infinite", "Zero", "Variable"],
+      "correctIndex": 0,
+      "explanation": "A line segment is measurable between its two endpoints.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m6_q39",
+      "text": "If two lines are parallel, they ______ intersect.",
+      "options": ["Always", "Never", "Sometimes", "At infinity"],
+      "correctIndex": 1,
+      "explanation": "Parallel lines maintain a constant distance and never cross.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m6_q40",
+      "text": "In triangle ABC, if AB = AC and angle B = 50°, then angle C is:",
+      "options": ["40°", "50°", "80°", "130°"],
+      "correctIndex": 1,
+      "explanation": "Angles opposite to equal sides of a triangle are equal.",
+      "frequencyRating": 5
+    }
+  ]
+}

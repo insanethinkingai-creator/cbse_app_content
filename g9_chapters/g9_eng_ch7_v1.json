@@ -1,0 +1,330 @@
+{
+  "id": "g9_eng_ch7",
+  "grade": "9",
+  "subject": "English",
+  "number": "7",
+  "title": "Reach for the Top",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_e7_q1",
+      "text": "In which state was Santosh Yadav born?",
+      "options": ["Punjab", "Haryana", "Rajasthan", "Uttar Pradesh"],
+      "correctIndex": 1,
+      "explanation": "Santosh Yadav was born in the small village of Joniyawas of Rewari District in Haryana.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e7_q2",
+      "text": "What does the name 'Santosh' mean?",
+      "options": ["Hope", "Peace", "Contentment", "Success"],
+      "correctIndex": 2,
+      "explanation": "The name Santosh means contentment, though she was not always content with her place in a traditional society.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e7_q3",
+      "text": "Why was Santosh sent to the local village school?",
+      "options": ["Lack of money", "Family tradition", "It was the best school", "Her own choice"],
+      "correctIndex": 1,
+      "explanation": "In line with the prevailing custom in the family, she was sent to the local village school.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e7_q4",
+      "text": "At what age was Santosh under pressure to get married?",
+      "options": ["14", "15", "16", "18"],
+      "correctIndex": 2,
+      "explanation": "In her village, girls were usually married at sixteen, and she was pressured to do the same.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e7_q5",
+      "text": "Where did Santosh go for her higher studies after finishing school in Delhi?",
+      "options": ["Mumbai", "Jaipur", "Lucknow", "Chandigarh"],
+      "correctIndex": 1,
+      "explanation": "She went to Jaipur to join Maharani College.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e7_q6",
+      "text": "Which hills could Santosh see from her room in Kasturba Hostel?",
+      "options": ["Himalayas", "Vindhyas", "Aravalli Hills", "Nilgiris"],
+      "correctIndex": 2,
+      "explanation": "From her room, she used to watch villagers going up the Aravalli Hills and vanishing.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e7_q7",
+      "text": "Which institute did Santosh join for mountaineering training?",
+      "options": ["Himalayan Mountaineering Institute", "Nehru Institute of Mountaineering", "National Institute of Sports", "Indian Institute of Skiing"],
+      "correctIndex": 1,
+      "explanation": "She enrolled at Uttarkashi’s Nehru Institute of Mountaineering.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e7_q8",
+      "text": "How many times did Santosh Yadav scale Mt. Everest?",
+      "options": ["Once", "Twice", "Thrice", "Four times"],
+      "correctIndex": 1,
+      "explanation": "She is the only woman in the world who has scaled Mt Everest twice.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e7_q9",
+      "text": "What honor was conferred upon Santosh by the Indian Government?",
+      "options": ["Bharat Ratna", "Padma Shri", "Arjuna Award", "Padma Bhushan"],
+      "correctIndex": 1,
+      "explanation": "The government bestowed upon her one of the nation’s top honours, the Padma Shri.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e7_q10",
+      "text": "How did Santosh feel when she was literally on top of the world?",
+      "options": ["Terrified", "Indifferent", "It took time for the enormity to sink in", "Angry"],
+      "correctIndex": 2,
+      "explanation": "She described it as an indescribable moment that took time to process.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e7_q11",
+      "text": "Santosh brought down ______ kg of garbage from the Himalayas.",
+      "options": ["100", "200", "500", "1000"],
+      "correctIndex": 2,
+      "explanation": "Being a fervent environmentalist, she collected and brought down 500 kg of garbage.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e7_q12",
+      "text": "Maria Sharapova reached the number one position in world women's tennis on:",
+      "options": ["22 August 2005", "22 July 2004", "15 May 2005", "10 January 2006"],
+      "correctIndex": 0,
+      "explanation": "She achieved the world number one ranking on Monday, 22 August 2005.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e7_q13",
+      "text": "Maria Sharapova was born in:",
+      "options": ["USA", "Siberia, Russia", "Ukraine", "Poland"],
+      "correctIndex": 1,
+      "explanation": "Maria Sharapova is a Russian girl from Siberia.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e7_q14",
+      "text": "At what age did Maria leave for the United States?",
+      "options": ["7", "9", "11", "13"],
+      "correctIndex": 1,
+      "explanation": "She was not yet ten (9 years old) when she was packed off to train in the US.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e7_q15",
+      "text": "Who accompanied Maria to the United States?",
+      "options": ["Her mother Yelena", "Her father Yuri", "Her grandparents", "Her coach"],
+      "correctIndex": 1,
+      "explanation": "The trip to Florida with her father Yuri launched her on the path to success.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e7_q16",
+      "text": "Why couldn't Maria's mother accompany her to the US?",
+      "options": ["She didn't like tennis", "Health issues", "Visa restrictions", "Lack of money"],
+      "correctIndex": 2,
+      "explanation": "Her mother Yelena had to stay back in Siberia due to visa restrictions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e7_q17",
+      "text": "What did the senior tennis pupils make Maria do at night?",
+      "options": ["Cook for them", "Tidy up the room and clean it", "Wash their clothes", "Do their homework"],
+      "correctIndex": 1,
+      "explanation": "The seniors would wake her up at 11 p.m. and order her to clean the room.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e7_q18",
+      "text": "Instead of letting bullying depress her, Maria became more:",
+      "options": ["Aggressive", "Quiet", "Determined and mentally tough", "Lazy"],
+      "correctIndex": 2,
+      "explanation": "She learned how to take care of herself and never thought of quitting.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e7_q19",
+      "text": "Maria Sharapova won the Women's Singles at Wimbledon in:",
+      "options": ["2003", "2004", "2005", "2006"],
+      "correctIndex": 1,
+      "explanation": "She bagged the women’s singles crown at Wimbledon in 2004.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e7_q20",
+      "text": "What is Maria's mantra for success?",
+      "options": ["Luck", "Hard work", "I am very, very competitive", "B and C"],
+      "correctIndex": 3,
+      "explanation": "She works hard and is highly competitive, viewing it as her job.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e7_q21",
+      "text": "Which of these is NOT a hobby of Maria Sharapova?",
+      "options": ["Fashion", "Singing", "Dancing", "Cooking pancakes"],
+      "correctIndex": 1,
+      "explanation": "Her hobbies are fashion, singing, and dancing, but singing is mentioned alongside dancing as 'hobbies'. Pancake cooking is also a favorite.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e7_q22",
+      "text": "What is Maria Sharapova's favorite drink?",
+      "options": ["Apple juice", "Sparkling orange drinks", "Tea", "Coffee"],
+      "correctIndex": 1,
+      "explanation": "She has a fondness for sophisticated evening gowns and sparkling orange drinks.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e7_q23",
+      "text": "Maria Sharapova considers tennis as:",
+      "options": ["A game", "A business and a sport", "A burden", "A hobby"],
+      "correctIndex": 1,
+      "explanation": "She says, 'Tennis is a business and a sport, but the most important thing is becoming number one.'",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e7_q24",
+      "text": "Despite living in the US, Maria is proud of her ______ nationality.",
+      "options": ["American", "Russian", "Ukrainian", "Siberian"],
+      "correctIndex": 1,
+      "explanation": "She says her blood is totally Russian and she would play the Olympics for Russia.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e7_q25",
+      "text": "Santosh was a 'rebel' because she:",
+      "options": ["Wore shorts instead of traditional dresses", "Refused to study", "Fought with her parents", "Left her village"],
+      "correctIndex": 0,
+      "explanation": "She preferred shorts while other girls wore traditional Indian dresses.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e7_q26",
+      "text": "Santosh threatened her parents that she would never marry if she did not:",
+      "options": ["Get a car", "Get a proper education", "Go abroad", "Become famous"],
+      "correctIndex": 1,
+      "explanation": "She left home and got herself enrolled in a school in Delhi to ensure she got an education.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e7_q27",
+      "text": "How did Santosh's parents react when she said she'd work part-time to pay her fees?",
+      "options": ["They were happy", "They agreed to pay her fees", "They ignored her", "They brought her back home"],
+      "correctIndex": 1,
+      "explanation": "Her parents then agreed to pay for her education in Delhi.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e7_q28",
+      "text": "The iron will and mental toughness of Santosh was evident during her:",
+      "options": ["Childhood", "School days", "Expeditions", "College"],
+      "correctIndex": 2,
+      "explanation": "Her physical endurance and mental toughness were repeatedly proven during her climbs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e7_q29",
+      "text": "During the 1992 Everest mission, Santosh saved the life of which climber?",
+      "options": ["Yuri", "Mohan Singh", "Itai", "Aman"],
+      "correctIndex": 1,
+      "explanation": "She shared her oxygen with Mohan Singh, saving his life.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e7_q30",
+      "text": "What was the result of Santosh's hard work during the Aravalli Hills incident?",
+      "options": ["She found gold", "She was invited by climbers to join them", "She got lost", "She returned home"],
+      "correctIndex": 1,
+      "explanation": "The climbers she met encouraged her to take to climbing.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e7_q31",
+      "text": "Maria's father worked hard in the US to:",
+      "options": ["Buy a house", "Keep her tennis-training going", "Become a coach", "Go back to Russia"],
+      "correctIndex": 1,
+      "explanation": "He worked as much as he could to pay for her training.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e7_q32",
+      "text": "What did Maria sacrifice to reach the top?",
+      "options": ["Her health", "Her friendships", "Her family life and mother's company", "Her money"],
+      "correctIndex": 2,
+      "explanation": "The two-year separation from her mother was a heart-wrenching sacrifice.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e7_q33",
+      "text": "Maria believes that 'nothing comes ______'.",
+      "options": ["Hard", "Easy", "For free", "Without luck"],
+      "correctIndex": 1,
+      "explanation": "She emphasizes that one has to pay the price for excellence.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e7_q34",
+      "text": "What does Maria like to read?",
+      "options": ["Arthur Conan Doyle", "Shakespeare", "J.K. Rowling", "Agatha Christie"],
+      "correctIndex": 0,
+      "explanation": "She has a fondness for the novels of Arthur Conan Doyle.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e7_q35",
+      "text": "What common trait do Santosh and Maria share?",
+      "options": ["They are from the same country", "Mental toughness and determination", "They are both tennis players", "They both like climbing"],
+      "correctIndex": 1,
+      "explanation": "Both women showed exceptional mental strength to reach the top of their fields.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e7_q36",
+      "text": "Santosh climbed Everest for the second time within ______ months of her first climb.",
+      "options": ["6", "12", "18", "24"],
+      "correctIndex": 1,
+      "explanation": "She was invited by an Indo-Nepalese Women’s Expedition within twelve months.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e7_q37",
+      "text": "Santosh's concern for the environment is shown by her bringing back:",
+      "options": ["Flowers", "Stones", "Garbage", "Flags"],
+      "correctIndex": 2,
+      "explanation": "She brought back 500 kg of waste to help clean the mountains.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e7_q38",
+      "text": "Maria Sharapova's ascent to the top took only ______ years of professional tennis.",
+      "options": ["2", "4", "6", "10"],
+      "correctIndex": 1,
+      "explanation": "She reached the number one spot just four years after starting her journey in professional tennis.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e7_q39",
+      "text": "Santosh was born in a family of how many brothers?",
+      "options": ["3", "4", "5", "6"],
+      "correctIndex": 2,
+      "explanation": "She was the sixth child in a family with five sons.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e7_q40",
+      "text": "Why did Maria call herself 'a Russian'?",
+      "options": ["To hide her identity", "Because of her deep roots and heritage", "She lived there currently", "To impress others"],
+      "correctIndex": 1,
+      "explanation": "She maintains her Russian citizenship and pride despite living in the US.",
+      "frequencyRating": 4
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "id": "g9_geo_ch03",
+  "grade": "9",
+  "subject": "Geography",
+  "number": "3",
+  "title": "Drainage",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_g3_q1",
+      "text": "The area drained by a single river system is called a:",
+      "options": ["Water divide", "Drainage basin", "River valley", "Floodplain"],
+      "correctIndex": 1,
+      "explanation": "The area drained by a single river system is called a drainage basin.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g3_q2",
+      "text": "Any elevated area, such as a mountain or an upland, separating two drainage basins is known as:",
+      "options": ["Basin", "Water divide", "Gorge", "Meander"],
+      "correctIndex": 1,
+      "explanation": "An upland separating two drainage basins is called a water divide.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g3_q3",
+      "text": "Which of the following is the largest river basin in the world?",
+      "options": ["Ganga basin", "Nile basin", "Amazon basin", "Mississippi basin"],
+      "correctIndex": 2,
+      "explanation": "The Amazon basin is the largest drainage basin in the world.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g3_q4",
+      "text": "Most of the Himalayan rivers are ________.",
+      "options": ["Seasonal", "Perennial", "Short", "Ephemeral"],
+      "correctIndex": 1,
+      "explanation": "Perennial rivers have water throughout the year because they receive water from rain and melted snow.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g3_q5",
+      "text": "The Himalayan rivers perform intensive ________ activity in their upper courses.",
+      "options": ["Depositional", "Erosional", "Storage", "Agricultural"],
+      "correctIndex": 1,
+      "explanation": "Due to steep slopes, they perform intensive erosional activity and carry huge loads of silt and sand.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g3_q6",
+      "text": "Lakes formed when a meandering river is cut off from the main channel are called:",
+      "options": ["Lagoon", "Ox-bow lakes", "Glacial lakes", "Tectonic lakes"],
+      "correctIndex": 1,
+      "explanation": "Meanders in the floodplains form cut-offs that eventually become ox-bow lakes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g3_q7",
+      "text": "The Indus river rises in Tibet, near Lake ________.",
+      "options": ["Wular", "Mansarowar", "Dal", "Chilika"],
+      "correctIndex": 1,
+      "explanation": "The Indus rises in Tibet, near Lake Mansarowar.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g3_q8",
+      "text": "Which of the following is NOT a tributary of the Indus in the Punjab region?",
+      "options": ["Satluj", "Beas", "Yamuna", "Ravi"],
+      "correctIndex": 2,
+      "explanation": "The Satluj, Beas, Ravi, Chenab and Jhelum join the Indus in Pakistan. Yamuna is a tributary of the Ganga.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g3_q9",
+      "text": "According to the Indus Waters Treaty (1960), India can use only ________ of the total water carried by the Indus river system.",
+      "options": ["10%", "20%", "50%", "80%"],
+      "correctIndex": 1,
+      "explanation": "India can use 20% of the Indus river system's water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g3_q10",
+      "text": "The headwaters of the Ganga are called ________.",
+      "options": ["Alaknanda", "Bhagirathi", "Mandakini", "Yamuna"],
+      "correctIndex": 1,
+      "explanation": "The headwaters of the Ganga are called the 'Bhagirathi'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g3_q11",
+      "text": "At which place do the Bhagirathi and Alaknanda join to form the Ganga?",
+      "options": ["Haridwar", "Devaprayag", "Allahabad", "Rishikesh"],
+      "correctIndex": 1,
+      "explanation": "They join at Devaprayag in Uttarakhand.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g3_q12",
+      "text": "Which is the largest tributary of the Ganga that rises from the Yamunotri Glacier?",
+      "options": ["Ghaghara", "Gandak", "Yamuna", "Kosi"],
+      "correctIndex": 2,
+      "explanation": "The Yamuna rises from the Yamunotri Glacier and meets the Ganga at Allahabad.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g3_q13",
+      "text": "The Ganga and Brahmaputra rivers form the largest delta in the world, known as:",
+      "options": ["Sundarban Delta", "Godavari Delta", "Mahanadi Delta", "Indus Delta"],
+      "correctIndex": 0,
+      "explanation": "The Sundarban Delta is the world's largest and fastest-growing delta.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g3_q14",
+      "text": "The Brahmaputra is known as ________ in Tibet.",
+      "options": ["Dihang", "Tsangpo", "Meghna", "Jamuna"],
+      "correctIndex": 1,
+      "explanation": "In Tibet, the Brahmaputra is called the Tsangpo.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g3_q15",
+      "text": "Why does the Brahmaputra carry less silt in Tibet despite its long course?",
+      "options": ["It is a cold and dry area", "It is a desert", "The river is very deep", "The water is salty"],
+      "correctIndex": 0,
+      "explanation": "In Tibet, the river carries a smaller volume of water and less silt as it is a cold and dry area.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g3_q16",
+      "text": "Which river is known as the 'Dakshin Ganga'?",
+      "options": ["Krishna", "Kaveri", "Godavari", "Narmada"],
+      "correctIndex": 2,
+      "explanation": "Because of its length and the area it covers, the Godavari is known as 'Dakshin Ganga'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g3_q17",
+      "text": "The Narmada rises in the ________ hills in Madhya Pradesh.",
+      "options": ["Aravalli", "Amarkantak", "Satpura", "Nilgiri"],
+      "correctIndex": 1,
+      "explanation": "The Narmada rises in the Amarkantak hills.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g3_q18",
+      "text": "Which of the following rivers flows through a rift valley?",
+      "options": ["Ganga", "Narmada", "Godavari", "Krishna"],
+      "correctIndex": 1,
+      "explanation": "The Narmada and Tapi flow through rift valleys formed due to faulting.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g3_q19",
+      "text": "The Tapi river rises in the ________.",
+      "options": ["Amarkantak hills", "Satpura ranges", "Western Ghats", "Aravali ranges"],
+      "correctIndex": 1,
+      "explanation": "The Tapi rises in the Satpura ranges, in the Betul district of MP.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g3_q20",
+      "text": "The largest Peninsular river is:",
+      "options": ["Mahanadi", "Krishna", "Godavari", "Kaveri"],
+      "correctIndex": 2,
+      "explanation": "The Godavari is the largest Peninsular river with a length of about 1500 km.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g3_q21",
+      "text": "The river Kaveri rises in the ________ range of the Western Ghats.",
+      "options": ["Mahabaleshwar", "Brahmagri", "Amarkantak", "Nasik"],
+      "correctIndex": 1,
+      "explanation": "The Kaveri rises in the Brahmagri range.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g3_q22",
+      "text": "Which of these is a west-flowing river of the Peninsula?",
+      "options": ["Krishna", "Godavari", "Tapi", "Mahanadi"],
+      "correctIndex": 2,
+      "explanation": "Narmada and Tapi are the only long rivers which flow west and make estuaries.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g3_q23",
+      "text": "Which lake is a result of tectonic activity in India?",
+      "options": ["Dal Lake", "Wular Lake", "Chilika Lake", "Sambhar Lake"],
+      "correctIndex": 1,
+      "explanation": "The Wular lake in Jammu and Kashmir is the largest freshwater lake in India, formed by tectonic activity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g3_q24",
+      "text": "Sambhar Lake in Rajasthan is a ________ lake.",
+      "options": ["Freshwater", "Salt water", "Glacial", "Artificial"],
+      "correctIndex": 1,
+      "explanation": "Sambhar Lake is a salt water lake, and its water is used for producing salt.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g3_q25",
+      "text": "A lake used for generating hydel power is:",
+      "options": ["Dal Lake", "Guru Gobind Sagar", "Wular Lake", "Chilika Lake"],
+      "correctIndex": 1,
+      "explanation": "Guru Gobind Sagar (Bhakra Nangal Project) is an artificial lake used for power generation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g3_q26",
+      "text": "Rivers are considered the ________ of the economy.",
+      "options": ["Backbone", "Obstacle", "Pollutant", "End"],
+      "correctIndex": 0,
+      "explanation": "Using rivers for irrigation, navigation, and hydropower is of fundamental importance to an agrarian economy like India.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_g3_q27",
+      "text": "What is the main cause of river pollution?",
+      "options": ["Growing domestic and industrial demand", "Dumping of untreated sewage and industrial effluents", "Excessive irrigation", "All of the above"],
+      "correctIndex": 1,
+      "explanation": "A heavy load of untreated sewage and industrial effluents are emptied into the rivers, affecting water quality.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g3_q28",
+      "text": "The 'National River Conservation Plan' (NRCP) was started with the launch of ________.",
+      "options": ["Narmada Bachao Andolan", "Ganga Action Plan (GAP)", "Yamuna Action Plan", "Clean India Mission"],
+      "correctIndex": 1,
+      "explanation": "River cleaning programme in India was started with the GAP in 1985.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g3_q29",
+      "text": "Which river flows through Ladakh, Gilgit and Pakistan?",
+      "options": ["Indus", "Ganga", "Brahmaputra", "Yamuna"],
+      "correctIndex": 0,
+      "explanation": "The Indus river flows through these regions before reaching the Arabian Sea.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g3_q30",
+      "text": "Most Peninsular rivers originate in the ________.",
+      "options": ["Himalayas", "Central Highlands", "Western Ghats", "Eastern Ghats"],
+      "correctIndex": 2,
+      "explanation": "The Western Ghats act as the main water divide for Peninsular India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g3_q31",
+      "text": "The length of the Ganga river is over ________.",
+      "options": ["1500 km", "2500 km", "3500 km", "5000 km"],
+      "correctIndex": 1,
+      "explanation": "The length of the Ganga is over 2500 km.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g3_q32",
+      "text": "Which river forms the 'Dhuadhar Falls' near Jabalpur?",
+      "options": ["Narmada", "Tapi", "Godavari", "Krishna"],
+      "correctIndex": 0,
+      "explanation": "The Narmada river creates the Dhuadhar falls where it leaps over steep rocks.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g3_q33",
+      "text": "The Godavari's main tributaries include:",
+      "options": ["Purna, Wardha, Pranhita", "Tungabhadra, Musi", "Koyana, Ghatprabha", "None"],
+      "correctIndex": 0,
+      "explanation": "Purna, Wardha, Pranhita, Manjra, Wainganga and Penganga are tributaries of the Godavari.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g3_q34",
+      "text": "The drainage pattern where a river and its tributaries resemble branches of a tree is:",
+      "options": ["Trellis", "Rectangular", "Radial", "Dendritic"],
+      "correctIndex": 3,
+      "explanation": "Dendritic pattern develops where the river channel follows the slope of the terrain.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g3_q35",
+      "text": "A radial drainage pattern develops when ________.",
+      "options": ["Rivers flow in different directions from a central peak", "Tributaries join at right angles", "The terrain is highly folded", "Rivers flow parallel to each other"],
+      "correctIndex": 0,
+      "explanation": "A radial pattern develops when streams flow in different directions from a central peak or dome like structure.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g3_q36",
+      "text": "The Sunderban Delta derived its name from the ________ tree.",
+      "options": ["Teak", "Sundari", "Sal", "Peepal"],
+      "correctIndex": 1,
+      "explanation": "It is named after the Sundari tree which grows well in marshland.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_g3_q37",
+      "text": "Which river rises in the highlands of Chhattisgarh and flows through Odisha to reach the Bay of Bengal?",
+      "options": ["Godavari", "Mahanadi", "Krishna", "Kaveri"],
+      "correctIndex": 1,
+      "explanation": "The Mahanadi rises in the highlands of Chhattisgarh.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g3_q38",
+      "text": "The Tungabhadra and Musi are tributaries of the river ________.",
+      "options": ["Godavari", "Krishna", "Kaveri", "Mahanadi"],
+      "correctIndex": 1,
+      "explanation": "The Tungabhadra, the Koyana, the Ghatprabha, the Musi and the Bhima are tributaries of the Krishna.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g3_q39",
+      "text": "Lakes are of great value to human beings because they ________.",
+      "options": ["Help to regulate the flow of a river", "Prevent flooding", "Develop hydel power", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Lakes help regulate river flow, prevent flooding during heavy rains, and maintain water flow during dry seasons.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g3_q40",
+      "text": "Which city is located on the water divide between the Indus and the Ganga river systems?",
+      "options": ["Delhi", "Ambala", "Saharanpur", "Lucknow"],
+      "correctIndex": 1,
+      "explanation": "Ambala is located on the water divide between the Indus and the Ganga.",
+      "frequencyRating": 4
+    }
+  ]
+}

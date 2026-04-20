@@ -1,0 +1,330 @@
+{
+  "id": "g9_civ_ch03",
+  "grade": "9",
+  "subject": "Civics",
+  "number": "3",
+  "title": "Electoral Politics",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_c3_q1",
+      "text": "Why do we need elections?",
+      "options": ["To choose who will make laws", "To choose who will form the government", "To choose which party's policies will guide the government", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Elections are a democratic way for people to choose their representatives and the path of the country.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c3_q2",
+      "text": "What is the minimum age to vote in India?",
+      "options": ["16 years", "18 years", "21 years", "25 years"],
+      "correctIndex": 1,
+      "explanation": "According to the principle of Universal Adult Franchise, every citizen aged 18 and above can vote.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c3_q3",
+      "text": "The country is divided into different areas for purposes of elections. These are called:",
+      "options": ["Districts", "States", "Electoral Constituencies", "Blocks"],
+      "correctIndex": 2,
+      "explanation": "A constituency is a specific area where voters elect one representative.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c3_q4",
+      "text": "For Lok Sabha elections, India is divided into how many constituencies?",
+      "options": ["543", "545", "250", "299"],
+      "correctIndex": 0,
+      "explanation": "There are 543 elected seats in the Lok Sabha.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c3_q5",
+      "text": "The representative elected from each Lok Sabha constituency is called:",
+      "options": ["MLA", "MP", "Councilor", "Governor"],
+      "correctIndex": 1,
+      "explanation": "MP stands for Member of Parliament.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c3_q6",
+      "text": "For State Assembly elections, the elected representative is called:",
+      "options": ["MP", "MLA", "Sarpanch", "Mayor"],
+      "correctIndex": 1,
+      "explanation": "MLA stands for Member of Legislative Assembly.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c3_q7",
+      "text": "What is a 'Reserved Constituency'?",
+      "options": ["A constituency for rich people", "A constituency where only someone belonging to SC or ST can contest", "A constituency for the ruling party", "A constituency for NRIs"],
+      "correctIndex": 1,
+      "explanation": "The Constitution provides for reservations to ensure weaker sections have a fair share of representation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c3_q8",
+      "text": "The list of those who are eligible to vote is officially called the:",
+      "options": ["Citizens List", "Voters' List (Electoral Roll)", "Population Register", "Election Diary"],
+      "correctIndex": 1,
+      "explanation": "The Electoral Roll is updated regularly to include new voters and remove those who have passed away.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c3_q9",
+      "text": "What is the minimum age to be a candidate for elections in India?",
+      "options": ["18 years", "21 years", "25 years", "35 years"],
+      "correctIndex": 2,
+      "explanation": "While you can vote at 18, you must be 25 to contest most legislative elections.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c3_q10",
+      "text": "What is an 'Election Manifesto'?",
+      "options": ["A list of winners", "A document where a party states its policies and promises", "The rulebook for election officers", "A voter ID card"],
+      "correctIndex": 1,
+      "explanation": "Parties use manifestos to tell voters what they will do if elected.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c3_q11",
+      "text": "The 'Election Campaign' in India usually lasts for:",
+      "options": ["One month", "Two weeks", "One week", "Six months"],
+      "correctIndex": 1,
+      "explanation": "The official campaign period is between the announcement of the final list of candidates and the date of polling.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c3_q12",
+      "text": "Which of these is a slogan used in Indian elections?",
+      "options": ["Garibi Hatao", "Save Democracy", "Land to the Tiller", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "These are famous slogans used by different parties to attract voters.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c3_q13",
+      "text": "According to Election Law, no party or candidate can:",
+      "options": ["Bribe or threaten voters", "Appeal to them in the name of religion", "Spend more than the specified limit", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "These restrictions are part of the 'Model Code of Conduct' to ensure fair play.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c3_q14",
+      "text": "Which body conducts elections in India?",
+      "options": ["The Parliament", "The Supreme Court", "The Election Commission", "The President"],
+      "correctIndex": 2,
+      "explanation": "The Election Commission of India (ECI) is an independent body that manages the entire election process.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c3_q15",
+      "text": "Who appoints the Chief Election Commissioner (CEC) of India?",
+      "options": ["The Prime Minister", "The Chief Justice", "The President of India", "The Governor"],
+      "correctIndex": 2,
+      "explanation": "The President appoints the CEC, but once appointed, the CEC is not answerable to the President or government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c3_q16",
+      "text": "Elections held for only one constituency to fill a vacancy caused by death or resignation are called:",
+      "options": ["General Elections", "Mid-term Elections", "By-elections", "Direct Elections"],
+      "correctIndex": 2,
+      "explanation": "By-elections are specific to vacancies between general election cycles.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c3_q17",
+      "text": "Elections held in all constituencies at the same time, either on the same day or within a few days, are:",
+      "options": ["General Elections", "By-elections", "Local Elections", "Selection"],
+      "correctIndex": 0,
+      "explanation": "General elections happen every five years for the Lok Sabha and State Assemblies.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c3_q18",
+      "text": "What is 'Rigging' in an election?",
+      "options": ["Setting up the voting booths", "Fraud and malpractice to increase votes of a party", "Counting the votes", "Distributing pamphlets"],
+      "correctIndex": 1,
+      "explanation": "Rigging includes stuffing ballot boxes, intimidation, and impersonation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c3_q19",
+      "text": "The EPIC card is the:",
+      "options": ["Voter Identity Card", "Adhaar Card", "Ration Card", "PAN Card"],
+      "correctIndex": 0,
+      "explanation": "EPIC stands for Election Photo Identity Card.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c3_q20",
+      "text": "Which of the following is a challenge to free and fair elections in India?",
+      "options": ["Money power of big parties", "Candidates with criminal records", "Dynastic politics", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "While India's elections are largely free, these factors still pose significant challenges.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c3_q21",
+      "text": "What does 'Turnout' mean in an election?",
+      "options": ["The number of candidates who lost", "The percentage of eligible voters who actually cast their vote", "The time it takes to count votes", "Closing the polling station"],
+      "correctIndex": 1,
+      "explanation": "High turnout usually indicates that voters believe their vote matters.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c3_q22",
+      "text": "In India, who has the power to remove the CEC?",
+      "options": ["The Prime Minister", "The President", "Difficult process similar to impeachment of a Judge", "No one"],
+      "correctIndex": 2,
+      "explanation": "The CEC has a high degree of independence and cannot be easily removed by the executive.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c3_q23",
+      "text": "A 'Polling Booth' is a place where:",
+      "options": ["Candidates give speeches", "Voters cast their votes", "Votes are counted", "The President lives"],
+      "correctIndex": 1,
+      "explanation": "Polling booths are set up in schools or government buildings on election day.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c3_q24",
+      "text": "The machine used to record votes is called:",
+      "options": ["EVM", "ATM", "VCR", "Calculator"],
+      "correctIndex": 0,
+      "explanation": "EVM stands for Electronic Voting Machine.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c3_q25",
+      "text": "What is 'Booth Capturing'?",
+      "options": ["Decorating the booth", "Taking over a booth by force to cast false votes", "Cleaning the booth", "Building a new booth"],
+      "correctIndex": 1,
+      "explanation": "It is an illegal and undemocratic practice.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_c3_q26",
+      "text": "Which state assembly election did Chaudhary Devi Lal lead with the 'Nyaya Yudh' movement?",
+      "options": ["Punjab", "Haryana", "Rajasthan", "Bihar"],
+      "correctIndex": 1,
+      "explanation": "Devi Lal led the Lok Dal party to victory in the 1987 Haryana elections.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c3_q27",
+      "text": "In India, one-third of seats in local government bodies are reserved for:",
+      "options": ["Men", "Women", "Students", "Teachers"],
+      "correctIndex": 1,
+      "explanation": "This reservation aims to improve female participation in decision making.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c3_q28",
+      "text": "Elections provide a 'Level Playing Field'. What does this mean?",
+      "options": ["A stadium for players", "All candidates and parties have an equal opportunity to compete", "Only rich people can win", "The ground must be flat"],
+      "correctIndex": 1,
+      "explanation": "The Election Commission ensures that no one has an unfair advantage.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c3_q29",
+      "text": "In a democracy, the final result of the election is usually accepted as the 'People's ________'.",
+      "options": ["Veridct", "Verdict", "Demand", "Mistake"],
+      "correctIndex": 1,
+      "explanation": "Accepting the verdict is a key part of the democratic process.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c3_q30",
+      "text": "Which of these is NOT an unfair practice in elections?",
+      "options": ["Inclusion of false names in voters' list", "Misuse of government facilities by ruling party", "Voters attending a political rally", "Intimidation of voters"],
+      "correctIndex": 2,
+      "explanation": "Attending rallies is a normal and legal part of political participation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c3_q31",
+      "text": "Voter ID cards are ________.",
+      "options": ["Mandatory to carry always", "Not yet mandatory, but useful for identification", "Only for old people", "Banned"],
+      "correctIndex": 1,
+      "explanation": "Voters can also use other identity proofs like Ration card or Driving license if they don't have an EPIC.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_c3_q32",
+      "text": "A candidate must give a legal declaration of ________ while filing nomination.",
+      "options": ["Criminal cases pending", "Details of assets and liabilities", "Educational qualifications", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "This information allows voters to make an informed choice.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c3_q33",
+      "text": "The slogan 'Save Democracy' was given by the Janata Party in ________.",
+      "options": ["1971", "1977", "1980", "1984"],
+      "correctIndex": 1,
+      "explanation": "It was used after the Emergency was lifted.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c3_q34",
+      "text": "The slogan 'Garibi Hatao' was used by which leader?",
+      "options": ["Indira Gandhi", "Narendra Modi", "Devi Lal", "NTR"],
+      "correctIndex": 0,
+      "explanation": "Indira Gandhi led the Congress party with this slogan in the 1971 Lok Sabha elections.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c3_q35",
+      "text": "During elections, government officials on election duty work under the control of:",
+      "options": ["The Government", "The Election Commission", "The Police", "The Judiciary"],
+      "correctIndex": 1,
+      "explanation": "This prevents the ruling party from influencing the officers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c3_q36",
+      "text": "The number of SC reserved seats in Lok Sabha is ________.",
+      "options": ["47", "84", "543", "2"],
+      "correctIndex": 1,
+      "explanation": "As per current data, 84 seats are reserved for SC.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_c3_q37",
+      "text": "The number of ST reserved seats in Lok Sabha is ________.",
+      "options": ["47", "84", "20", "10"],
+      "correctIndex": 0,
+      "explanation": "As per current data, 47 seats are reserved for ST.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_c3_q38",
+      "text": "How much money can a candidate spend for a Lok Sabha election (as per NCERT text limits)?",
+      "options": ["25 Lakhs", "70 Lakhs", "10 Lakhs", "No limit"],
+      "correctIndex": 1,
+      "explanation": "There are legal limits on spending; it's 70 lakhs for Lok Sabha and 28 lakhs for Assembly (limits vary by state and time).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c3_q39",
+      "text": "Why is political competition good?",
+      "options": ["It creates divisions", "It forces parties to serve the people to stay in power", "It leads to fights", "It is not good"],
+      "correctIndex": 1,
+      "explanation": "Like market competition, it incentivizes politicians to work for the public interest.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c3_q40",
+      "text": "In India, election results are counted in a ________ manner.",
+      "options": ["Secret", "Transparent", "Slow", "Partial"],
+      "correctIndex": 1,
+      "explanation": "Counting happens in the presence of agents of all candidates to ensure transparency.",
+      "frequencyRating": 5
+    }
+  ]
+}

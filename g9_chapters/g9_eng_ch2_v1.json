@@ -1,0 +1,330 @@
+{
+  "id": "g9_eng_ch2",
+  "grade": "9",
+  "subject": "English",
+  "number": "2",
+  "title": "The Sound of Music",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_e2_q1",
+      "text": "Who is the multi-percussionist discussed in Part I of the chapter?",
+      "options": ["Bismillah Khan", "Evelyn Glennie", "Ron Forbes", "James Blades"],
+      "correctIndex": 1,
+      "explanation": "Part I tells the story of Evelyn Glennie, a deaf girl who became a world-renowned percussionist.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q2",
+      "text": "At what age did Evelyn's deafness first become noticeable?",
+      "options": ["Eleven", "Eight", "Three", "Sixteen"],
+      "correctIndex": 1,
+      "explanation": "Her mother noticed something was wrong when eight-year-old Evelyn didn't respond when her name was called to play piano.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q3",
+      "text": "By what age was Evelyn's hearing completely impaired?",
+      "options": ["Eight", "Eleven", "Sixteen", "Seventeen"],
+      "correctIndex": 1,
+      "explanation": "Her hearing loss was confirmed by a specialist when she was eleven years old.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q4",
+      "text": "Who was the percussionist that spotted Evelyn's potential and encouraged her?",
+      "options": ["James Blades", "Ron Forbes", "Isabel Glennie", "Ann Richlin"],
+      "correctIndex": 1,
+      "explanation": "Ron Forbes noticed her talent and taught her to feel music through different parts of her body.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q5",
+      "text": "How did Ron Forbes ask Evelyn to hear the music?",
+      "options": ["Through her ears", "By reading notes", "By feeling it some other way", "By lip-reading"],
+      "correctIndex": 2,
+      "explanation": "He told her, 'Don’t listen through your ears... try to sense it some other way.'",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q6",
+      "text": "Which prestigious music school did Evelyn audition for?",
+      "options": ["Juilliard School", "Royal Academy of Music", "Berklee College", "Paris Conservatoire"],
+      "correctIndex": 1,
+      "explanation": "She auditioned for the Royal Academy of Music in London and scored one of the highest marks in its history.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q7",
+      "text": "In 1991, Evelyn was presented with which prestigious award?",
+      "options": ["Bharat Ratna", "Grammy Award", "Soloist of the Year Award", "Padma Shri"],
+      "correctIndex": 2,
+      "explanation": "The Royal Philharmonic Society’s prestigious Soloist of the Year Award was given to her in 1991.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e2_q8",
+      "text": "What does Evelyn do before playing on a wooden platform?",
+      "options": ["She prays", "She removes her shoes", "She closes her eyes", "She tunes her instrument"],
+      "correctIndex": 1,
+      "explanation": "She removes her shoes so the vibrations pass through her bare feet and up her legs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q9",
+      "text": "Evelyn Glennie is a citizen of which country?",
+      "options": ["England", "Scotland", "USA", "Australia"],
+      "correctIndex": 1,
+      "explanation": "The story mentions her 'fresh from a Scottish farm' background.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e2_q10",
+      "text": "Apart from regular concerts, where else does Evelyn give free concerts?",
+      "options": ["Schools and Hospitals", "Prisons and Hospitals", "Parks and Streets", "Orphanages"],
+      "correctIndex": 1,
+      "explanation": "She gives free concerts in prisons and hospitals to share the joy of music.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e2_q11",
+      "text": "Who is the master percussionist who said 'God may have taken her hearing but He has given her back something extraordinary'?",
+      "options": ["Ron Forbes", "James Blades", "Bismillah Khan", "Evelyn's father"],
+      "correctIndex": 1,
+      "explanation": "James Blades made this famous remark about Evelyn's talent.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q12",
+      "text": "Which instrument did Emperor Aurangzeb ban in his palace?",
+      "options": ["Shehnai", "Pungi", "Sitar", "Tabla"],
+      "correctIndex": 1,
+      "explanation": "Aurangzeb banned the pungi because it had a shrill, unpleasant sound.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q13",
+      "text": "Who improved the pungi and named it the 'Shehnai'?",
+      "options": ["A professional musician", "A barber of a family of professional musicians", "Aurangzeb himself", "Bismillah Khan's ancestor"],
+      "correctIndex": 1,
+      "explanation": "A barber (nai) improved the instrument and played it in the Shah's chambers, hence 'Sheh-nai'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q14",
+      "text": "Where was Bismillah Khan born?",
+      "options": ["Varanasi", "Dumraon (Bihar)", "Lucknow", "Delhi"],
+      "correctIndex": 1,
+      "explanation": "Ustad Bismillah Khan was born in Dumraon, Bihar, in 1916.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q15",
+      "text": "As a five-year-old, what did Bismillah Khan do in Dumraon?",
+      "options": ["Played the Shehnai", "Played Gilli-danda near a pond", "Sang in the choir", "Taught music"],
+      "correctIndex": 1,
+      "explanation": "He used to play gilli-danda and sing Bhojpuri 'Chaita' in the local Bihariji temple.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e2_q16",
+      "text": "What was the reward Bismillah Khan earned for singing the Chaita?",
+      "options": ["A gold medal", "A big laddu weighing 1.25 kg", "Money", "A Shehnai"],
+      "correctIndex": 1,
+      "explanation": "The local Maharaja would reward him with a 1.25 kg laddu.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q17",
+      "text": "Bismillah Khan's maternal uncle, Ali Bux, was the official player of which temple?",
+      "options": ["Kashi Vishwanath", "Varanasi Vishnu temple", "Lucknow temple", "Bihariji temple"],
+      "correctIndex": 1,
+      "explanation": "His uncle was the shehnai player at the Vishnu temple of Varanasi.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q18",
+      "text": "At what age did Bismillah Khan accompany his uncle to the Allahabad Music Conference?",
+      "options": ["Ten", "Fourteen", "Sixteen", "Eighteen"],
+      "correctIndex": 1,
+      "explanation": "He was fourteen when he performed at the Allahabad conference, gaining praise from Ustad Faiyaz Khan.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e2_q19",
+      "text": "Which opening in 1938 became a big break for Bismillah Khan?",
+      "options": ["Film 'Gunj Uthi Shehnai'", "All India Radio in Lucknow", "Performance at Red Fort", "World Expo"],
+      "correctIndex": 1,
+      "explanation": "The opening of All India Radio in Lucknow in 1938 provided him frequent opportunities to play.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q20",
+      "text": "Bismillah Khan was the first Indian to greet the nation with his Shehnai on:",
+      "options": ["15 August 1947", "26 January 1950", "2 October 1947", "15 August 1950"],
+      "correctIndex": 0,
+      "explanation": "He played at the Red Fort on the day India gained independence.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q21",
+      "text": "Which raga did Bismillah Khan play on 15 August 1947?",
+      "options": ["Raag Bhairavi", "Raag Kafi", "Raag Malhar", "Raag Yaman"],
+      "correctIndex": 1,
+      "explanation": "He poured his heart out into Raag Kafi from the Red Fort to an audience including Nehru.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q22",
+      "text": "Which film director was so impressed by Bismillah Khan that he named a film after the instrument?",
+      "options": ["Satyajit Ray", "Vijay Bhatt", "Raj Kapoor", "Gulzar"],
+      "correctIndex": 1,
+      "explanation": "Vijay Bhatt named his film 'Gunj Uthi Shehnai' after hearing Bismillah play at a festival.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q23",
+      "text": "Why did Bismillah Khan refuse to start a Shehnai school in the USA?",
+      "options": ["He didn't like Americans", "He couldn't leave Benaras and the Ganga", "He wanted more money", "He was too old"],
+      "correctIndex": 1,
+      "explanation": "His deep love for the holy city of Benaras and the river Ganga made him refuse to live abroad.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q24",
+      "text": "In 2001, Bismillah Khan was awarded India’s highest civilian award:",
+      "options": ["Padma Vibhushan", "Padma Bhushan", "Bharat Ratna", "Padma Shri"],
+      "correctIndex": 2,
+      "explanation": "Ustad Bismillah Khan was awarded the Bharat Ratna in 2001.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q25",
+      "text": "Evelyn Glennie says, 'If you work hard and know where you are going, you'll _______.'",
+      "options": ["Succeed", "Get there", "Win", "Be famous"],
+      "correctIndex": 1,
+      "explanation": "This is her mantra for success and perseverance.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e2_q26",
+      "text": "What does Evelyn feel when she plays the xylophone?",
+      "options": ["Sound through her hands", "Sound passing up the stick into her fingertips", "Vibrations in her ears", "Nothing"],
+      "correctIndex": 1,
+      "explanation": "She senses the sound passing up the sticks into her fingertips.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e2_q27",
+      "text": "Evelyn can speak flawlessly with which accent?",
+      "options": ["American", "Scottish", "French", "British"],
+      "correctIndex": 1,
+      "explanation": "She has a Scottish lilt because she could hear until the age of eleven.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e2_q28",
+      "text": "How many instruments can Evelyn play?",
+      "options": ["About ten", "Hundreds", "Thousands", "Two"],
+      "correctIndex": 2,
+      "explanation": "She has mastered some thousand instruments as a multi-percussionist.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e2_q29",
+      "text": "Bismillah Khan’s father was a shehnai player in whose court?",
+      "options": ["Mughal Emperor", "Maharaja of Dumraon", "King of Varanasi", "Nawab of Lucknow"],
+      "correctIndex": 1,
+      "explanation": "His father, Paigambar Bux, was a great shehnai player in the Dumraon court.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e2_q30",
+      "text": "The Shehnai was traditionally part of the 'naubat'. What is 'naubat'?",
+      "options": ["A wedding group", "Traditional ensemble of nine instruments", "Temple ritual", "A dance form"],
+      "correctIndex": 1,
+      "explanation": "Naubat is the traditional ensemble of nine instruments found at royal courts.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e2_q31",
+      "text": "Who brought the Shehnai onto the classical stage?",
+      "options": ["Ali Bux", "Bismillah Khan", "Faiyaz Khan", "Vijay Bhatt"],
+      "correctIndex": 1,
+      "explanation": "Bismillah Khan is credited with bringing the instrument from temples to the classical concert stage.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q32",
+      "text": "Bismillah Khan’s first trip abroad was to which country?",
+      "options": ["USA", "Afghanistan", "Canada", "Iran"],
+      "correctIndex": 1,
+      "explanation": "His first foreign trip was to Afghanistan, where King Zahir Shah gifted him precious carpets.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q33",
+      "text": "The Lincoln Center Hall, where Bismillah Khan performed, is in which country?",
+      "options": ["UK", "USA", "France", "Germany"],
+      "correctIndex": 1,
+      "explanation": "The Lincoln Center Hall is located in the United States of America.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e2_q34",
+      "text": "An auditorium in Tehran was named after Bismillah Khan. What was its name?",
+      "options": ["Ustad Bismillah Hall", "Tahar Mosiquee Ustad Bismillah Khan", "Khan Auditorium", "Sangeet Hall"],
+      "correctIndex": 1,
+      "explanation": "It was named 'Tahar Mosiquee Ustad Bismillah Khan' in his honor.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e2_q35",
+      "text": "Which of these awards did Bismillah Khan NOT receive?",
+      "options": ["Bharat Ratna", "Padma Vibhushan", "Oscar Award", "Sahitya Akademi Award"],
+      "correctIndex": 2,
+      "explanation": "He received all major Indian civilian awards but not an Oscar.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e2_q36",
+      "text": "What does Bismillah Khan say about Indian music?",
+      "options": ["It is too hard", "It is the world's richest heritage", "It needs more western influence", "It is dying"],
+      "correctIndex": 1,
+      "explanation": "He believed Indian music is the richest heritage and even westerners come to learn it.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q37",
+      "text": "What were the 'banks' Bismillah Khan loved to practice on?",
+      "options": ["Banks of the Ganga", "Banks of the Yamuna", "Banks of the Kaveri", "Banks of a pond"],
+      "correctIndex": 0,
+      "explanation": "The flowing waters of the Ganga inspired him to improvise and invent ragas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q38",
+      "text": "Evelyn Glennie’s story is a source of inspiration for:",
+      "options": ["Musicians only", "Handicapped people", "Scottish people", "Young children only"],
+      "correctIndex": 1,
+      "explanation": "She has given enormous pleasure to millions and is a beacon of hope for the disabled.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q39",
+      "text": "The word 'captivate' in the text means:",
+      "options": ["To imprison", "To fascinate", "To kill", "To release"],
+      "correctIndex": 1,
+      "explanation": "In context, Bismillah Khan's music captivated (fascinated) the King of Afghanistan.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e2_q40",
+      "text": "Part II of the chapter emphasizes that Bismillah Khan was a symbol of:",
+      "options": ["Indian Nationalism", "India's composite culture", "Religious divide", "Wealth"],
+      "correctIndex": 1,
+      "explanation": "He was a devout Muslim who played every morning at the Kashi Vishwanath temple, symbolizing India's composite culture.",
+      "frequencyRating": 5
+    }
+  ]
+}

@@ -110,7 +110,11 @@ if __name__ == "__main__":
     g9_structure = {
         "Mathematics": 15,
         "Science": 12,
-        "English": 11
+        "English": 11,
+        "History": 5,
+        "Geography": 6,
+        "Civics": 5,
+        "Economics": 4
     }
     audit_grade(9, g9_structure)
 
@@ -129,7 +133,7 @@ if __name__ == "__main__":
     # Grade 11 Configuration
     g11_structure = {
         "Mathematics": 14,
-        "Physics": 14,
+        "Physics": 15,
         "Chemistry": 9,
         "Biology": 19,
         "English": 8

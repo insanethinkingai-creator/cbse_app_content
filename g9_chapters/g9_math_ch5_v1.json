@@ -1,0 +1,330 @@
+{
+  "id": "g9_math_ch5",
+  "grade": "9",
+  "subject": "Mathematics",
+  "number": "5",
+  "title": "Introduction to Euclid's Geometry",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_m5_q1",
+      "text": "The word 'geometry' comes from the Greek words 'geo' and 'metrein', which mean:",
+      "options": ["Earth and Measure", "Sky and Measure", "Water and Measure", "Land and Build"],
+      "correctIndex": 0,
+      "explanation": "Geo means Earth and metrein means to measure.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q2",
+      "text": "According to Euclid, a point is that which has:",
+      "options": ["No part", "Small part", "One part", "Two parts"],
+      "correctIndex": 0,
+      "explanation": "Euclid defined a point as having no dimensions (no length, width, or height).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q3",
+      "text": "A line is ______ breadthless.",
+      "options": ["Width", "Height", "Length", "Thickness"],
+      "correctIndex": 2,
+      "explanation": "Euclid defined a line as 'breadthless length'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q4",
+      "text": "The ends of a line are:",
+      "options": ["Lines", "Points", "Planes", "Circles"],
+      "correctIndex": 1,
+      "explanation": "The boundaries or ends of a line segment are points.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q5",
+      "text": "A surface is that which has:",
+      "options": ["Length only", "Breadth only", "Length and breadth only", "Length, breadth and thickness"],
+      "correctIndex": 2,
+      "explanation": "A surface is 2-dimensional.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q6",
+      "text": "The edges of a surface are:",
+      "options": ["Points", "Lines", "Surfaces", "Angles"],
+      "correctIndex": 1,
+      "explanation": "The boundaries of a surface are lines.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q7",
+      "text": "Euclid divided his famous treatise 'The Elements' into how many chapters?",
+      "options": ["10", "12", "13", "15"],
+      "correctIndex": 2,
+      "explanation": "The Elements consists of 13 books.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q8",
+      "text": "Axioms are assumed:",
+      "options": ["Universal truths in all branches of math", "Definitions", "Theorems", "Universal truths specific to geometry"],
+      "correctIndex": 0,
+      "explanation": "Axioms apply to all mathematics, while postulates are specific to geometry.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q9",
+      "text": "Postulates are assumed:",
+      "options": ["Universal truths in all math", "Universal truths specific to geometry", "Theorems", "Definitions"],
+      "correctIndex": 1,
+      "explanation": "Postulates are the starting assumptions for geometric reasoning.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q10",
+      "text": "'Things which are equal to the same thing are equal to one another' is an:",
+      "options": ["Axiom", "Postulate", "Definition", "Proof"],
+      "correctIndex": 0,
+      "explanation": "This is Euclid's first axiom.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q11",
+      "text": "If equals are added to equals, the wholes are:",
+      "options": ["Unequal", "Equal", "Zero", "Doubled"],
+      "correctIndex": 1,
+      "explanation": "This is Euclid's second axiom.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q12",
+      "text": "The whole is ______ the part.",
+      "options": ["Less than", "Equal to", "Greater than", "Half of"],
+      "correctIndex": 2,
+      "explanation": "This is Euclid's fifth axiom.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q13",
+      "text": "A straight line may be drawn from any one point to ______.",
+      "options": ["The same point", "Any other point", "Infinite points", "No point"],
+      "correctIndex": 1,
+      "explanation": "Euclid's Postulate 1 states a line can be drawn between any two points.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q14",
+      "text": "A terminated line can be produced ______.",
+      "options": ["To a fixed distance", "Indefinitely", "Only in one direction", "Not at all"],
+      "correctIndex": 1,
+      "explanation": "Euclid's Postulate 2 allows a line segment to be extended forever.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q15",
+      "text": "A circle can be drawn with any ______ and any ______.",
+      "options": ["Point, line", "Center, radius", "Radius, angle", "Center, arc"],
+      "correctIndex": 1,
+      "explanation": "This is Euclid's Postulate 3.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q16",
+      "text": "All right angles are ______ to one another.",
+      "options": ["Unequal", "Equal", "Parallel", "Supplementary"],
+      "correctIndex": 1,
+      "explanation": "This is Euclid's Postulate 4.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q17",
+      "text": "Which postulate deals with parallel lines and the intersection of a transversal?",
+      "options": ["Postulate 2", "Postulate 3", "Postulate 4", "Postulate 5"],
+      "correctIndex": 3,
+      "explanation": "Postulate 5 is the famous parallel postulate.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q18",
+      "text": "A pyramid is a solid figure whose base is:",
+      "options": ["Only a triangle", "Only a square", "Any polygon", "Only a circle"],
+      "correctIndex": 2,
+      "explanation": "The base of a pyramid can be any polygon, and its side faces are triangles.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m5_q19",
+      "text": "Which of the following needs a proof?",
+      "options": ["Axiom", "Postulate", "Definition", "Theorem"],
+      "correctIndex": 3,
+      "explanation": "Theorems are statements proven using axioms, postulates, and logic.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q20",
+      "text": "Euclid belonged to which country?",
+      "options": ["India", "Egypt (Greece)", "China", "Rome"],
+      "correctIndex": 1,
+      "explanation": "Euclid was a Greek mathematician who lived in Alexandria, Egypt.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m5_q21",
+      "text": "Boundaries of solids are:",
+      "options": ["Surfaces", "Curves", "Lines", "Points"],
+      "correctIndex": 0,
+      "explanation": "When you go from 3D to 2D, you get surfaces.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m5_q22",
+      "text": "How many dimensions does a solid have?",
+      "options": ["1", "2", "3", "0"],
+      "correctIndex": 2,
+      "explanation": "Solids have length, breadth, and height.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q23",
+      "text": "How many dimensions does a point have?",
+      "options": ["0", "1", "2", "3"],
+      "correctIndex": 0,
+      "explanation": "A point has no dimensions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q24",
+      "text": "Playfair’s Axiom is an equivalent version of:",
+      "options": ["Postulate 1", "Postulate 3", "Postulate 5", "Axiom 1"],
+      "correctIndex": 2,
+      "explanation": "It states that for any line l and point P not on it, there's exactly one line through P parallel to l.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m5_q25",
+      "text": "Two distinct lines cannot have more than ______ point in common.",
+      "options": ["One", "Two", "Three", "Infinite"],
+      "correctIndex": 0,
+      "explanation": "If two lines intersect, they intersect at exactly one point.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q26",
+      "text": "Euclid’s second axiom (adding equals) is used to solve equations in:",
+      "options": ["Algebra", "Trigonometry", "Statistics", "Calculus"],
+      "correctIndex": 0,
+      "explanation": "We often add the same number to both sides of an algebraic equation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m5_q27",
+      "text": "Things which are double of the same things are ______ to one another.",
+      "options": ["Unequal", "Equal", "Half", "Triple"],
+      "correctIndex": 1,
+      "explanation": "This is Euclid's sixth axiom.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m5_q28",
+      "text": "Things which are halves of the same things are ______ to one another.",
+      "options": ["Unequal", "Equal", "Double", "None"],
+      "correctIndex": 1,
+      "explanation": "This is Euclid's seventh axiom.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m5_q29",
+      "text": "The number of dimensions in a line is:",
+      "options": ["0", "1", "2", "3"],
+      "correctIndex": 1,
+      "explanation": "A line has length only.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q30",
+      "text": "Thales is famous for which discovery?",
+      "options": ["A circle is bisected by its diameter", "Pythagoras theorem", "Calculus", "Prime numbers"],
+      "correctIndex": 0,
+      "explanation": "Thales was one of the earliest Greek mathematicians to give a formal proof.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m5_q31",
+      "text": "The side faces of a pyramid are always:",
+      "options": ["Squares", "Triangles", "Trapeziums", "Polygons"],
+      "correctIndex": 1,
+      "explanation": "Regardless of the base, the sides meeting at the apex are triangles.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m5_q32",
+      "text": "A point is a ______ dimension object.",
+      "options": ["Non-zero", "One", "Two", "Dimensionless"],
+      "correctIndex": 3,
+      "explanation": "Dimensionless means zero dimensions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q33",
+      "text": "Given two distinct points, there is a ______ line that passes through them.",
+      "options": ["Unique", "Infinite", "No", "Curved"],
+      "correctIndex": 0,
+      "explanation": "This is an axiom derived from Euclid's first postulate.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q34",
+      "text": "Geometry originated from the need to:",
+      "options": ["Study stars", "Measure land", "Build weapons", "Compute taxes"],
+      "correctIndex": 1,
+      "explanation": "Early geometry was used by Egyptians to re-calculate land boundaries after Nile floods.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m5_q35",
+      "text": "Things which coincide with one another are ______ to one another.",
+      "options": ["Unequal", "Equal", "Parallel", "Perpendicular"],
+      "correctIndex": 1,
+      "explanation": "This is Euclid's fourth axiom.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q36",
+      "text": "The first known proof was given by:",
+      "options": ["Pythagoras", "Euclid", "Thales", "Archimedes"],
+      "correctIndex": 2,
+      "explanation": "Thales is credited with the first mathematical proof.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m5_q37",
+      "text": "Which Greek mathematician was a pupil of Thales?",
+      "options": ["Euclid", "Pythagoras", "Plato", "Aristotle"],
+      "correctIndex": 1,
+      "explanation": "Pythagoras studied under Thales and developed many geometric theories.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m5_q38",
+      "text": "According to Euclid's Postulate 5, if the sum of interior angles is less than two right angles, the lines will eventually:",
+      "options": ["Remain parallel", "Meet", "Diverge", "Perpendicular"],
+      "correctIndex": 1,
+      "explanation": "They meet on the side where the sum is less than 180 degrees.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q39",
+      "text": "Euclid’s Postulate 5 is also known as:",
+      "options": ["The Triangle Postulate", "The Parallel Postulate", "The Circle Postulate", "The Line Postulate"],
+      "correctIndex": 1,
+      "explanation": "It determines the behavior of parallel lines.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m5_q40",
+      "text": "Euclid's axioms are used in:",
+      "options": ["Arithmetic", "Geometry", "Algebra", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Axioms are universal mathematical truths.",
+      "frequencyRating": 5
+    }
+  ]
+}

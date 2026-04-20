@@ -1,0 +1,330 @@
+{
+  "id": "g9_math_ch2",
+  "grade": "9",
+  "subject": "Mathematics",
+  "number": "2",
+  "title": "Polynomials",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_m2_q1",
+      "text": "Which of the following is a polynomial?",
+      "options": ["x² + 2/x", "√x + 3", "x² + √2x + 1", "x^(-2) + 1"],
+      "correctIndex": 2,
+      "explanation": "A polynomial must have non-negative integer exponents for all variables. √2 is a constant coefficient, which is allowed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m2_q2",
+      "text": "The degree of the polynomial 4x⁴ + 0x³ + 0x⁵ + 5x + 7 is:",
+      "options": ["4", "5", "3", "7"],
+      "correctIndex": 0,
+      "explanation": "The degree is the highest power of x with a non-zero coefficient. Here, 0x⁵ and 0x³ are zero, so the highest power is 4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m2_q3",
+      "text": "Degree of the zero polynomial is:",
+      "options": ["0", "1", "Any natural number", "Not defined"],
+      "correctIndex": 3,
+      "explanation": "The degree of a zero polynomial is not defined by convention.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m2_q4",
+      "text": "A polynomial of degree 3 is called a:",
+      "options": ["Linear polynomial", "Quadratic polynomial", "Cubic polynomial", "Biquadratic polynomial"],
+      "correctIndex": 2,
+      "explanation": "By definition, degree 1 is linear, 2 is quadratic, and 3 is cubic.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m2_q5",
+      "text": "The value of the polynomial 5x - 4x² + 3 when x = -1 is:",
+      "options": ["-6", "6", "2", "-2"],
+      "correctIndex": 0,
+      "explanation": "5(-1) - 4(-1)² + 3 = -5 - 4 + 3 = -6.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m2_q6",
+      "text": "The zero of the polynomial p(x) = 2x + 5 is:",
+      "options": ["2/5", "5/2", "0", "-5/2"],
+      "correctIndex": 3,
+      "explanation": "Set 2x + 5 = 0, then 2x = -5, so x = -5/2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m2_q7",
+      "text": "If x + 1 is a factor of x² - 3ax + 3a - 7, then the value of a is:",
+      "options": ["1", "-1", "0", "-2"],
+      "correctIndex": 0,
+      "explanation": "By Factor Theorem, p(-1) = 0. (-1)² - 3a(-1) + 3a - 7 = 0 => 1 + 3a + 3a - 7 = 0 => 6a = 6 => a = 1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m2_q8",
+      "text": "One of the factors of (25x² - 1) + (1 + 5x)² is:",
+      "options": ["5 + x", "5 - x", "5x - 1", "10x"],
+      "correctIndex": 3,
+      "explanation": "(5x-1)(5x+1) + (1+5x)(1+5x) = (5x+1)[5x-1 + 1+5x] = (5x+1)(10x).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m2_q9",
+      "text": "The coefficient of x² in (2 - 3x²)(x + 1) is:",
+      "options": ["-3", "2", "3", "0"],
+      "correctIndex": 0,
+      "explanation": "Expansion: 2x + 2 - 3x³ - 3x². The term with x² is -3x².",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m2_q10",
+      "text": "If x² + kx + 6 = (x + 2)(x + 3) for all x, then the value of k is:",
+      "options": ["1", "-1", "5", "3"],
+      "correctIndex": 2,
+      "explanation": "(x + 2)(x + 3) = x² + 5x + 6. Comparing coefficients, k = 5.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m2_q11",
+      "text": "The value of 249² - 248² is:",
+      "options": ["1", "497", "487", "597"],
+      "correctIndex": 1,
+      "explanation": "Using a² - b² = (a - b)(a + b) = (249 - 248)(249 + 248) = 1 * 497 = 497.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m2_q12",
+      "text": "The factorization of 4x² + 8x + 3 is:",
+      "options": ["(x+1)(x+3)", "(2x+1)(2x+3)", "(2x+2)(2x+5)", "(2x-1)(2x-3)"],
+      "correctIndex": 1,
+      "explanation": "4x² + 6x + 2x + 3 = 2x(2x + 3) + 1(2x + 3) = (2x + 1)(2x + 3).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m2_q13",
+      "text": "Which of the following is a trinomial of degree 2?",
+      "options": ["x + 1", "x² + 5x + 6", "x³ - 1", "x² + 1"],
+      "correctIndex": 1,
+      "explanation": "A trinomial has three terms. x² + 5x + 6 has three terms and the highest power is 2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m2_q14",
+      "text": "If x + y + z = 0, then x³ + y³ + z³ is equal to:",
+      "options": ["0", "xyz", "2xyz", "3xyz"],
+      "correctIndex": 3,
+      "explanation": "Using the identity x³+y³+z³-3xyz = (x+y+z)(x²+y²+z²-xy-yz-zx). If sum is 0, then x³+y³+z³ = 3xyz.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m2_q15",
+      "text": "The expanded form of (a + b + c)² is:",
+      "options": ["a²+b²+c²+ab+bc+ca", "a²+b²+c²+2ab+2bc+2ca", "a²+b²+c²-2ab-2bc-2ca", "a³+b³+c³"],
+      "correctIndex": 1,
+      "explanation": "This is a standard algebraic identity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m2_q16",
+      "text": "Find the remainder when x³ - ax² + 6x - a is divided by x - a:",
+      "options": ["a", "5a", "4a", "0"],
+      "correctIndex": 1,
+      "explanation": "Substitute x = a: a³ - a(a²) + 6a - a = a³ - a³ + 5a = 5a.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m2_q17",
+      "text": "A binomial of degree 20 can be written as:",
+      "options": ["x²⁰ + 1", "20x", "x²⁰ + x¹⁹ + x¹⁸", "x¹⁰ + x¹⁰"],
+      "correctIndex": 0,
+      "explanation": "A binomial has two terms. x²⁰ + 1 satisfies both degree and term count.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m2_q18",
+      "text": "The value of (x - a)³ + (x - b)³ + (x - c)³ - 3(x - a)(x - b)(x - c) if 3x = a + b + c is:",
+      "options": ["0", "1", "a+b+c", "3x"],
+      "correctIndex": 0,
+      "explanation": "Let A = x-a, B = x-b, C = x-c. A+B+C = 3x - (a+b+c). Since 3x = a+b+c, A+B+C = 0. Therefore, A³+B³+C³-3ABC = 0.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m2_q19",
+      "text": "Zeroes of the polynomial p(x) = x² - 2x are:",
+      "options": ["0, 2", "0, -2", "2, 2", "0, 0"],
+      "correctIndex": 0,
+      "explanation": "x(x - 2) = 0 gives x = 0 or x = 2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m2_q20",
+      "text": "The degree of a non-zero constant polynomial is:",
+      "options": ["0", "1", "Not defined", "Any real number"],
+      "correctIndex": 0,
+      "explanation": "For example, 5 can be written as 5x⁰, so the degree is 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m2_q21",
+      "text": "Factors of x² - x - 6 are:",
+      "options": ["(x-3)(x+2)", "(x+3)(x-2)", "(x-3)(x-2)", "(x+3)(x+2)"],
+      "correctIndex": 0,
+      "explanation": "Splitting the middle term: x² - 3x + 2x - 6 = x(x-3) + 2(x-3) = (x-3)(x+2).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m2_q22",
+      "text": "The value of 102³ is:",
+      "options": ["1061208", "1061204", "1071208", "1061108"],
+      "correctIndex": 0,
+      "explanation": "(100 + 2)³ = 100³ + 2³ + 3(100)(2)(100 + 2) = 1000000 + 8 + 61200 = 1061208.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m2_q23",
+      "text": "If p(x) = x + 3, then p(x) + p(-x) is equal to:",
+      "options": ["3", "2x", "0", "6"],
+      "correctIndex": 3,
+      "explanation": "(x + 3) + (-x + 3) = 6.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m2_q24",
+      "text": "The polynomial px² + qx + rx⁴ + 5 is of type:",
+      "options": ["Linear", "Quadratic", "Cubic", "Bi-quadratic"],
+      "correctIndex": 3,
+      "explanation": "The highest power is 4, so it is bi-quadratic.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m2_q25",
+      "text": "Factorization of x³ - 2x² - x + 2 is:",
+      "options": ["(x-1)(x+1)(x-2)", "(x+1)(x+1)(x-2)", "(x-1)(x-1)(x-2)", "None"],
+      "correctIndex": 0,
+      "explanation": "x²(x-2) - 1(x-2) = (x²-1)(x-2) = (x-1)(x+1)(x-2).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m2_q26",
+      "text": "Coefficient of x in the expansion of (x + 3)³ is:",
+      "options": ["1", "9", "18", "27"],
+      "correctIndex": 3,
+      "explanation": "x³ + 3(x)²(3) + 3(x)(3)² + 3³ = x³ + 9x² + 27x + 27. Coefficient of x is 27.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m2_q27",
+      "text": "If x/y + y/x = -1 (x, y != 0), then value of x³ - y³ is:",
+      "options": ["1", "-1", "0", "1/2"],
+      "correctIndex": 2,
+      "explanation": "x²/xy + y²/xy = -1 => x²+y² = -xy => x²+y²+xy = 0. x³-y³ = (x-y)(x²+xy+y²) = (x-y)(0) = 0.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m2_q28",
+      "text": "Which of the following is a zero of the polynomial x² - 5x + 6?",
+      "options": ["1", "2", "-2", "5"],
+      "correctIndex": 1,
+      "explanation": "Substituting 2: 2² - 5(2) + 6 = 4 - 10 + 6 = 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m2_q29",
+      "text": "The square root of x² + 4x + 4 is:",
+      "options": ["x + 2", "x - 2", "x + 4", "x² + 2"],
+      "correctIndex": 0,
+      "explanation": "x² + 4x + 4 = (x + 2)².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m2_q30",
+      "text": "If a + b + c = 9 and ab + bc + ca = 26, then a² + b² + c² is:",
+      "options": ["81", "29", "55", "71"],
+      "correctIndex": 1,
+      "explanation": "a²+b²+c² = (a+b+c)² - 2(ab+bc+ca) = 9² - 2(26) = 81 - 52 = 29.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m2_q31",
+      "text": "The degree of the polynomial p(x) = 3 is:",
+      "options": ["3", "1", "0", "Not defined"],
+      "correctIndex": 2,
+      "explanation": "A non-zero constant polynomial has degree 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m2_q32",
+      "text": "Is (x - 2) a factor of x³ - 8?",
+      "options": ["Yes", "No", "Only if x=0", "Cannot be determined"],
+      "correctIndex": 0,
+      "explanation": "Using x³ - a³ = (x-a)(x²+ax+a²). Here a=2, so (x-2) is a factor.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m2_q33",
+      "text": "The zeros of p(x) = (x-2)² - (x+2)² are:",
+      "options": ["0", "2", "4", "-2"],
+      "correctIndex": 0,
+      "explanation": "(x²-4x+4) - (x²+4x+4) = -8x. Setting -8x = 0 gives x = 0.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m2_q34",
+      "text": "Factor of x⁴ - y⁴ is:",
+      "options": ["x - y", "x + y", "x² + y²", "All of these"],
+      "correctIndex": 3,
+      "explanation": "x⁴ - y⁴ = (x²-y²)(x²+y²) = (x-y)(x+y)(x²+y²).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m2_q35",
+      "text": "If x + 2 is a factor of x³ + 3x² + 3x + k, then k is:",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 1,
+      "explanation": "(-2)³ + 3(-2)² + 3(-2) + k = 0 => -8 + 12 - 6 + k = 0 => -2 + k = 0 => k = 2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m2_q36",
+      "text": "Coefficient of x³ in 2x⁴ - 5x² + x is:",
+      "options": ["2", "-5", "1", "0"],
+      "correctIndex": 3,
+      "explanation": "There is no x³ term, so its coefficient is 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m2_q37",
+      "text": "Expansion of (x - 1/x)² is:",
+      "options": ["x² + 1/x² - 2", "x² - 1/x²", "x² + 1/x² + 2", "x² + 1/x²"],
+      "correctIndex": 0,
+      "explanation": "Using (a-b)² = a² + b² - 2ab.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m2_q38",
+      "text": "Find value of 99² using identity:",
+      "options": ["9801", "9901", "9811", "9701"],
+      "correctIndex": 0,
+      "explanation": "(100 - 1)² = 10000 + 1 - 200 = 9801.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m2_q39",
+      "text": "What is the remainder when x² + 1 is divided by x + 1?",
+      "options": ["0", "1", "2", "-1"],
+      "correctIndex": 2,
+      "explanation": "Substitute x = -1 into x² + 1: (-1)² + 1 = 1 + 1 = 2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m2_q40",
+      "text": "The polynomial 1 + 3x is a:",
+      "options": ["Linear polynomial", "Quadratic polynomial", "Cubic polynomial", "Constant polynomial"],
+      "correctIndex": 0,
+      "explanation": "The highest power of x is 1.",
+      "frequencyRating": 5
+    }
+  ]
+}

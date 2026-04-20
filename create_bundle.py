@@ -32,7 +32,7 @@ def validate_json(file_path, is_manifest=False):
                 raise ValueError(f"Schema Error: Manifest missing required key '{key}'")
     else:
         # Chapter File Schema Validation
-        required_chapter = ["id", "grade", "subject", "questions"]
+        required_chapter = ["id", "grade", "subject", "number", "title", "version", "questions"]
         for key in required_chapter:
             if key not in data:
                 raise ValueError(f"Schema Error in {file_path}: Missing key '{key}'")
@@ -84,6 +84,8 @@ def create_bundles():
 
     manifest["updatedAt"] = datetime.utcnow().isoformat() + "Z"
 
+    processed_grades = set()
+
     for subdir in subdirs:
         grade_prefix = subdir.split('_')[0] # extracts 'g7' or 'g10'
         bundle_id = f"{grade_prefix}_full_zip"
@@ -121,6 +123,10 @@ def create_bundles():
         manifest["bundles"][f"{bundle_id}_md5"] = zip_md5
         manifest["bundles"][f"{bundle_id}_filename"] = output_zip_name
         print(f"Generated {output_zip_name} (MD5: {zip_md5})")
+        processed_grades.add(grade_prefix)
+
+    # Sync enabledGrades and sort descending (g12 to g7)
+    manifest["enabledGrades"] = sorted(list(processed_grades), key=lambda x: int(x[1:]) if x[1:].isdigit() else 0, reverse=True)
 
     with open(manifest_path, 'w') as f:
         json.dump(manifest, f, indent=2)

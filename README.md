@@ -266,6 +266,30 @@ This script automatically packages all chapters into `g7_v1.zip`, calculates its
 | 10 | In the Kingdom of Fools | ✅ v1 |
 | 11 | The Happy Prince | ✅ v1 |
 
+### Social Science (40 Questions per Chapter)
+| Ch # | Chapter Title | Status |
+| :--- | :--- | :--- |
+| Hist 1 | The French Revolution | ✅ v1 |
+| Hist 2 | Socialism in Europe and the Russian Revolution | ✅ v1 |
+| Hist 3 | Nazism and the Rise of Hitler | ✅ v1 |
+| Hist 4 | Forest Society and Colonialism | ✅ v1 |
+| Hist 5 | Pastoralists in the Modern World | ✅ v1 |
+| Geo 1 | India – Size and Location | ✅ v1 |
+| Geo 2 | Physical Features of India | ✅ v1 |
+| Geo 3 | Drainage | ✅ v1 |
+| Geo 4 | Climate | ✅ v1 |
+| Geo 5 | Natural Vegetation and Wildlife | ✅ v1 |
+| Geo 6 | Population | ✅ v1 |
+| Civ 1 | What is Democracy? Why Democracy? | ✅ v1 |
+| Civ 2 | Constitutional Design | ✅ v1 |
+| Civ 3 | Electoral Politics | ✅ v1 |
+| Civ 4 | Working of Institutions | ✅ v1 |
+| Civ 5 | Democratic Rights | ✅ v1 |
+| Eco 1 | The Story of Village Palampur | ✅ v1 |
+| Eco 2 | People as Resource | ✅ v1 |
+| Eco 3 | Poverty as a Challenge | ✅ v1 |
+| Eco 4 | Food Security in India | ✅ v1 |
+
 ## Class 10 Syllabus Coverage (NCERT Rationalised)
 
 ### Mathematics (40 Questions per Chapter)

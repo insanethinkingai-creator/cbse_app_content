@@ -1,0 +1,330 @@
+{
+  "id": "g9_geo_ch02",
+  "grade": "9",
+  "subject": "Geography",
+  "number": "2",
+  "title": "Physical Features of India",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_g2_q1",
+      "text": "Which of the following is the oldest landmass of India?",
+      "options": ["The Himalayas", "The Northern Plains", "The Peninsular Plateau", "The Coastal Plains"],
+      "correctIndex": 2,
+      "explanation": "The Peninsular Plateau is one of the ancient landmasses on the earth's surface and was part of the Gondwana land.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g2_q2",
+      "text": "The northernmost range of the Himalayas is known as:",
+      "options": ["Himadri", "Himachal", "Shiwaliks", "Purvanchal"],
+      "correctIndex": 0,
+      "explanation": "The northernmost range is known as the Inner Himalayas or the Himadri. It is the most continuous range.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g2_q3",
+      "text": "What is the average height of the peaks in the Himadri range?",
+      "options": ["3,000 metres", "4,500 metres", "6,000 metres", "1,500 metres"],
+      "correctIndex": 2,
+      "explanation": "The Himadri contains all prominent Himalayan peaks with an average height of 6,000 metres.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g2_q4",
+      "text": "The range lying to the south of the Himadri is known as:",
+      "options": ["Shiwaliks", "Himachal", "Greater Himalayas", "Vindhyas"],
+      "correctIndex": 1,
+      "explanation": "The range lying to the south of the Himadri forms the most rugged mountain system and is known as Himachal or lesser Himalaya.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g2_q5",
+      "text": "Which of the following is the longest and the most important range of the Himachal?",
+      "options": ["Dhaula Dhar", "Mahabharat", "Pir Panjal", "Zanskar"],
+      "correctIndex": 2,
+      "explanation": "The Pir Panjal range forms the longest and the most important range in the Lesser Himalayas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g2_q6",
+      "text": "The outermost range of the Himalayas is called:",
+      "options": ["Himachal", "Himadri", "Shiwaliks", "Karakoram"],
+      "correctIndex": 2,
+      "explanation": "The outermost range of the Himalayas is called the Shiwaliks.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g2_q7",
+      "text": "Longitudinal valleys lying between lesser Himalaya and the Shiwaliks are known as:",
+      "options": ["Kangra Valley", "Duns", "Passes", "Basins"],
+      "correctIndex": 1,
+      "explanation": "Duns like Dehra Dun, Kotli Dun and Patli Dun are longitudinal valleys between Lesser Himalayas and Shiwaliks.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g2_q8",
+      "text": "The part of the Himalayas lying between Indus and Satluj is known as:",
+      "options": ["Kumaon Himalayas", "Nepal Himalayas", "Punjab Himalayas", "Assam Himalayas"],
+      "correctIndex": 2,
+      "explanation": "Traditionally, the part between Indus and Satluj is called Punjab Himalayas, but also locally known as Kashmir and Himachal Himalaya.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g2_q9",
+      "text": "The Himalayas lying between Satluj and Kali rivers is known as:",
+      "options": ["Punjab Himalayas", "Kumaon Himalayas", "Nepal Himalayas", "Assam Himalayas"],
+      "correctIndex": 1,
+      "explanation": "The part of the Himalayas lying between Satluj and Kali rivers is known as Kumaon Himalayas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g2_q10",
+      "text": "The Brahmaputra marks the ________ boundary of the Himalayas.",
+      "options": ["Westernmost", "Easternmost", "Northernmost", "Southernmost"],
+      "correctIndex": 1,
+      "explanation": "The Brahmaputra river marks the easternmost boundary of the Himalayas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g2_q11",
+      "text": "The Northern Plain is formed by the interplay of which three major river systems?",
+      "options": ["Indus, Ganga, Brahmaputra", "Indus, Yamuna, Narmada", "Ganga, Brahmaputra, Godavari", "Indus, Satluj, Mahanadi"],
+      "correctIndex": 0,
+      "explanation": "The plain is formed by the Indus, the Ganga and the Brahmaputra along with their tributaries.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g2_q12",
+      "text": "What type of soil is the Northern Plain made of?",
+      "options": ["Black soil", "Alluvial soil", "Red soil", "Laterite soil"],
+      "correctIndex": 1,
+      "explanation": "The Northern Plain is formed of alluvial soil deposited over millions of years.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g2_q13",
+      "text": "A narrow belt of about 8 to 16 km in width lying parallel to the slopes of the Shiwaliks where rivers deposit pebbles is:",
+      "options": ["Bhangar", "Khadar", "Bhabar", "Terai"],
+      "correctIndex": 2,
+      "explanation": "Bhabar is a narrow belt where rivers descending from mountains deposit pebbles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g2_q14",
+      "text": "The wet, swampy and marshy region south of the Bhabar belt is known as:",
+      "options": ["Bhangar", "Khadar", "Terai", "Doab"],
+      "correctIndex": 2,
+      "explanation": "South of Bhabar, the streams re-emerge and create a wet, swampy and marshy region known as Terai.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g2_q15",
+      "text": "The largest part of the northern plain is formed of older alluvium, known as:",
+      "options": ["Khadar", "Bhangar", "Bhabar", "Terai"],
+      "correctIndex": 1,
+      "explanation": "Bhangar is the older alluvium that lies above the floodplains of the rivers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g2_q16",
+      "text": "The newer, younger deposits of the flood plains are called:",
+      "options": ["Bhangar", "Khadar", "Terai", "Bhabar"],
+      "correctIndex": 1,
+      "explanation": "Khadar are the younger deposits, renewed almost every year and very fertile.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g2_q17",
+      "text": "The Peninsular plateau is a tableland composed of:",
+      "options": ["Sedimentary rocks", "Old crystalline, igneous and metamorphic rocks", "Sand and silt", "Glacial deposits"],
+      "correctIndex": 1,
+      "explanation": "The Peninsular plateau was formed due to the breaking and drifting of the Gondwana land.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g2_q18",
+      "text": "Which part of the plateau lies to the north of the Narmada river covering a major area of the Malwa plateau?",
+      "options": ["Deccan Plateau", "Central Highlands", "Chotanagpur Plateau", "Karbi Anglong"],
+      "correctIndex": 1,
+      "explanation": "The part of the Peninsular plateau lying to the north of the Narmada river is the Central Highlands.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g2_q19",
+      "text": "The eastward extensions of the Central Highlands are locally known as:",
+      "options": ["Bundelkhand and Baghelkhand", "Malwa and Deccan", "Garo and Khasi", "Western Ghats"],
+      "correctIndex": 0,
+      "explanation": "The Bundelkhand and Baghelkhand are the local names for the eastward extensions of the Central Highlands.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g2_q20",
+      "text": "Which plateau marks the further eastward extension, drained by the Damodar river?",
+      "options": ["Malwa Plateau", "Deccan Plateau", "Chotanagpur Plateau", "Shillong Plateau"],
+      "correctIndex": 2,
+      "explanation": "The Chotanagpur plateau marks the further eastward extension of the Central Highlands.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g2_q21",
+      "text": "The Deccan Plateau is a ________ landmass that lies to the south of the river Narmada.",
+      "options": ["Square", "Circular", "Triangular", "Rectangular"],
+      "correctIndex": 2,
+      "explanation": "The Deccan Plateau is a triangular landmass south of the Narmada.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g2_q22",
+      "text": "Which mountain range marks the northern base of the Deccan Plateau?",
+      "options": ["Vindhyas", "Satpura", "Aravallis", "Nilgiris"],
+      "correctIndex": 1,
+      "explanation": "The Satpura range flanks its broad base in the north.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g2_q23",
+      "text": "Western Ghats are ________ than the Eastern Ghats.",
+      "options": ["Lower", "Higher", "Equal in height", "Less continuous"],
+      "correctIndex": 1,
+      "explanation": "Western Ghats are higher (900-1600m) compared to Eastern Ghats (600m).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g2_q24",
+      "text": "What is the highest peak in the Western Ghats?",
+      "options": ["Mahendragiri", "Anai Mudi", "Doda Betta", "Kanchenjunga"],
+      "correctIndex": 1,
+      "explanation": "Anai Mudi (2,695 m) is the highest peak in the Western Ghats.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g2_q25",
+      "text": "Which of the following is the highest peak in the Eastern Ghats?",
+      "options": ["Anai Mudi", "Doda Betta", "Mahendragiri", "Ooty"],
+      "correctIndex": 2,
+      "explanation": "Mahendragiri (1,501 metres) is the highest peak in the Eastern Ghats.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g2_q26",
+      "text": "The black soil area of the Peninsular plateau is known as:",
+      "options": ["Central Highlands", "Deccan Trap", "Bhabar", "Khadar"],
+      "correctIndex": 1,
+      "explanation": "One of the distinct features of the Peninsular plateau is the black soil area known as Deccan Trap.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g2_q27",
+      "text": "The Indian Desert lies towards the western margins of which hills?",
+      "options": ["Vindhyas", "Aravalli Hills", "Nilgiri Hills", "Satpura Hills"],
+      "correctIndex": 1,
+      "explanation": "The Indian desert lies towards the western margins of the Aravalli Hills.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g2_q28",
+      "text": "Crescent-shaped dunes found in the Indian desert are called:",
+      "options": ["Barchans", "Lagoons", "Duns", "Kayals"],
+      "correctIndex": 0,
+      "explanation": "Barchans are crescent-shaped dunes that cover larger areas of the desert.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g2_q29",
+      "text": "Which is the only large river in the Indian Desert region?",
+      "options": ["Narmada", "Tapi", "Luni", "Mahanadi"],
+      "correctIndex": 2,
+      "explanation": "Luni is the only large river in this arid region.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g2_q30",
+      "text": "The western coastal strip, south of Goa, is referred to as:",
+      "options": ["Coromandel", "Konkan", "Kannad Plain", "Northern Circar"],
+      "correctIndex": 2,
+      "explanation": "The central stretch of the western coast is called the Kannad Plain.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g2_q31",
+      "text": "The northern part of the western coast is called:",
+      "options": ["Konkan", "Malabar", "Coromandel", "Kannad"],
+      "correctIndex": 0,
+      "explanation": "The northern part of the western coast is called Konkan (Mumbai – Goa).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g2_q32",
+      "text": "The southern part of the eastern coast is known as:",
+      "options": ["Northern Circar", "Coromandel Coast", "Malabar Coast", "Konkan"],
+      "correctIndex": 1,
+      "explanation": "The southern part of the eastern coast is referred to as the Coromandel Coast.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g2_q33",
+      "text": "Which is the largest salt water lake in India, located in Odisha?",
+      "options": ["Pulicat Lake", "Kolleru Lake", "Chilika Lake", "Sambhar Lake"],
+      "correctIndex": 2,
+      "explanation": "The Chilika Lake is the largest salt water lake in India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g2_q34",
+      "text": "Lakshadweep Islands are composed of small ________ islands.",
+      "options": ["Volcanic", "Coral", "Tectonic", "Sedimentary"],
+      "correctIndex": 1,
+      "explanation": "Lakshadweep islands are small coral islands.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g2_q35",
+      "text": "What was the earlier name of Lakshadweep?",
+      "options": ["Laccadive, Minicoy and Amindive", "Andaman and Nicobar", "Barren Island", "Pitti Island"],
+      "correctIndex": 0,
+      "explanation": "Earlier they were known as Laccadive, Minicoy and Amindive. In 1973, they were named Lakshadweep.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g2_q36",
+      "text": "Which island in the Lakshadweep group has a bird sanctuary and is uninhabited?",
+      "options": ["Kavaratti", "Minicoy", "Pitti Island", "Amindive"],
+      "correctIndex": 2,
+      "explanation": "The Pitti island, which is uninhabited, has a bird sanctuary.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g2_q37",
+      "text": "India’s only active volcano is found on which island?",
+      "options": ["Minicoy Island", "Barren Island", "Pitti Island", "Nicobar Island"],
+      "correctIndex": 1,
+      "explanation": "India’s only active volcano is found on Barren island in Andaman and Nicobar group of islands.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g2_q38",
+      "text": "Which feature of India provides a site for fishing and port activities?",
+      "options": ["The Himalayas", "The Coastal Plains", "The Northern Plains", "The Indian Desert"],
+      "correctIndex": 1,
+      "explanation": "The coastal plains provide sites for fishing and port activities.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g2_q39",
+      "text": "The Himalayas are also known as:",
+      "options": ["Ancient mountains", "Young fold mountains", "Block mountains", "Residual mountains"],
+      "correctIndex": 1,
+      "explanation": "The Himalayas represent youthful topography with high peaks and deep valleys, formed recently in geological history.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g2_q40",
+      "text": "According to the Theory of Plate Tectonics, the earth’s crust is formed of ________ major plates.",
+      "options": ["Five", "Seven", "Ten", "Twelve"],
+      "correctIndex": 1,
+      "explanation": "The earth’s crust has been formed out of seven major and some minor plates.",
+      "frequencyRating": 3
+    }
+  ]
+}

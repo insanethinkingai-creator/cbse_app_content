@@ -1,0 +1,330 @@
+{
+  "id": "g9_eng_ch10",
+  "grade": "9",
+  "subject": "English",
+  "number": "10",
+  "title": "In the Kingdom of Fools",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_e10_q1",
+      "text": "What was the strange rule in the Kingdom of Fools?",
+      "options": ["People had to walk on their hands", "They slept during the day and worked at night", "No one was allowed to speak", "Everyone had to wear masks"],
+      "correctIndex": 1,
+      "explanation": "The king and minister ordered that day be treated as night and night as day.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e10_q2",
+      "text": "What was the price of any item in the Kingdom of Fools?",
+      "options": ["100 rupees", "One duddu", "Five gold coins", "It was free"],
+      "correctIndex": 1,
+      "explanation": "Everything, whether a measure of rice or a bunch of bananas, cost a single duddu.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e10_q3",
+      "text": "Who arrived in the city one day?",
+      "options": ["A King and a Queen", "A Guru and his disciple", "A merchant", "A thief"],
+      "correctIndex": 1,
+      "explanation": "A wise Guru and his disciple arrived and were surprised by the city's rules.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e10_q4",
+      "text": "Why did the Guru decide to leave the city?",
+      "options": ["He didn't like the food", "He realized it was a kingdom of fools and dangerous", "He was bored", "The king ordered him to leave"],
+      "correctIndex": 1,
+      "explanation": "He knew that the behavior of fools is unpredictable and staying there was risky.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e10_q5",
+      "text": "Why did the disciple decide to stay?",
+      "options": ["He liked the king", "The food was very cheap", "He wanted to be the minister", "He had no money to travel"],
+      "correctIndex": 1,
+      "explanation": "The disciple was a gourmet and wanted to enjoy the cheap and plenty food.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e10_q6",
+      "text": "Whose house did the thief break into?",
+      "options": ["The King's", "A rich merchant's", "The Guru's", "The gold-smith's"],
+      "correctIndex": 1,
+      "explanation": "A thief broke into a rich merchant’s house by making a hole in the wall.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e10_q7",
+      "text": "How did the thief die?",
+      "options": ["Executed by the king", "The wall of the house collapsed on him", "Bitten by a snake", "Drowned in the river"],
+      "correctIndex": 1,
+      "explanation": "As he was carrying out his loot, the wall of the old house collapsed on his head.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e10_q8",
+      "text": "Whom did the King summon first for the thief's death?",
+      "options": ["The mason", "The merchant", "The bricklayer", "The dancing girl"],
+      "correctIndex": 1,
+      "explanation": "The merchant was summoned because it was his house and his 'weak' wall.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e10_q9",
+      "text": "The merchant blamed the ______ for the weak wall.",
+      "options": ["Thief", "Bricklayer/Mason", "Architect", "Wife"],
+      "correctIndex": 1,
+      "explanation": "He argued that he didn't build the wall; the man who built it was responsible.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e10_q10",
+      "text": "Why did the bricklayer say he couldn't build a good wall?",
+      "options": ["He was ill", "A dancing girl distracted him", "The bricks were bad", "It was raining"],
+      "correctIndex": 1,
+      "explanation": "He claimed a girl with jingling anklets kept going up and down the street, distracting him.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e10_q11",
+      "text": "The dancing girl blamed the ______ for her walking up and down.",
+      "options": ["Bricklayer", "Goldsmith", "Merchant", "King"],
+      "correctIndex": 1,
+      "explanation": "She said she had given some gold to a goldsmith to make jewellery and he delayed it.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e10_q12",
+      "text": "The goldsmith blamed the ______ for making him work late.",
+      "options": ["A rich merchant", "The king", "The dancing girl", "His father"],
+      "correctIndex": 0,
+      "explanation": "He said a rich merchant had a wedding and insisted on his orders being finished first.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e10_q13",
+      "text": "Who was the rich merchant who finally received the death sentence?",
+      "options": ["The goldsmith's father", "The owner of the house (same as the first merchant)", "The Guru", "The King"],
+      "correctIndex": 1,
+      "explanation": "The trail came back to the original merchant whose wall fell.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e10_q14",
+      "text": "Why could the merchant NOT be executed on the new stake?",
+      "options": ["He escaped", "He was too thin to fit the stake", "The stake broke", "The Guru saved him"],
+      "correctIndex": 1,
+      "explanation": "The merchant was too thin, and the stake was made for a fat man.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e10_q15",
+      "text": "Who was chosen for execution instead of the merchant?",
+      "options": ["The Guru", "The fat disciple", "The minister", "The bricklayer"],
+      "correctIndex": 1,
+      "explanation": "The king's men searched for a fat man and found the disciple, who had grown fat on cheap food.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e10_q16",
+      "text": "How did the disciple call his Guru?",
+      "options": ["By shouting", "In his heart/meditation", "By writing a letter", "By sending a messenger"],
+      "correctIndex": 1,
+      "explanation": "The Guru had magic powers and saw everything; he heard the disciple's prayer.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e10_q17",
+      "text": "What did the Guru whisper to the King?",
+      "options": ["That the merchant is innocent", "That whoever dies on the stake first will be the next King", "That the kingdom is cursed", "That he is a god"],
+      "correctIndex": 1,
+      "explanation": "The Guru used a clever trick, claiming the stake was the stake of the god of justice.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e10_q18",
+      "text": "Who died on the stake at the end?",
+      "options": ["The Guru and disciple", "The merchant and thief", "The King and the Minister", "No one"],
+      "correctIndex": 2,
+      "explanation": "Being fools, the King and Minister went to the prison at night and took the place of the Guru and disciple.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e10_q19",
+      "text": "What did the people do after the King's death?",
+      "options": ["They celebrated", "They made the Guru and disciple the new King and Minister", "They left the city", "They fought each other"],
+      "correctIndex": 1,
+      "explanation": "The people begged the Guru and disciple to rule them.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e10_q20",
+      "text": "What was the first thing the new rulers changed?",
+      "options": ["The taxes", "They made night as night and day as day again", "They built a new palace", "They changed the price of food"],
+      "correctIndex": 1,
+      "explanation": "They restored the natural cycle of time and changed the fixed pricing.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e10_q21",
+      "text": "In the Kingdom of Fools, even ______ were taught to sleep during the day.",
+      "options": ["Cats", "Cattle", "Birds", "Dogs"],
+      "correctIndex": 1,
+      "explanation": "Even the animals were trained to sleep during the day to avoid being caught.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e10_q22",
+      "text": "What happened if anyone disobeyed the 'day-night' rule?",
+      "options": ["They were fined", "They were banished", "They were punished with death", "Nothing"],
+      "correctIndex": 2,
+      "explanation": "The command was strict, and death was the penalty for disobedience.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e10_q23",
+      "text": "The Guru said 'Fools are ______.'",
+      "options": ["Smart", "Dangerous", "Kind", "Funny"],
+      "correctIndex": 1,
+      "explanation": "The Guru's wisdom was that one cannot predict what fools will do next.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e10_q24",
+      "text": "How did the disciple spend his time in the city?",
+      "options": ["Meditating", "Eating bananas, ghee, rice and wheat", "Working", "Teaching"],
+      "correctIndex": 1,
+      "explanation": "He enjoyed the cheap food and became 'fat like a street-side sacred bull'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e10_q25",
+      "text": "The merchant's father was the real ______ according to the King.",
+      "options": ["Hero", "Murderer", "King", "Fool"],
+      "correctIndex": 1,
+      "explanation": "The King argued that the merchant inherited his father's sins along with his riches.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e10_q26",
+      "text": "What is the moral of the story?",
+      "options": ["Fools are easy to please", "Stay away from fools and use wisdom to handle them", "Cheap food is good", "Kings are always right"],
+      "correctIndex": 1,
+      "explanation": "The story highlights that wisdom is required to survive in a world of irrational people.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e10_q27",
+      "text": "The story is a ______ folk tale.",
+      "options": ["Tamil", "Kannada", "Punjabi", "Bengali"],
+      "correctIndex": 1,
+      "explanation": "It is a Kannada folk tale from A.K. Ramanujan’s 'Folk Tales from India'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e10_q28",
+      "text": "Why did the King and Minister NOT want to lose their kingdom in the next life?",
+      "options": ["They loved the people", "They were greedy and foolishly believed the Guru", "They were afraid of heaven", "They wanted to be monks"],
+      "correctIndex": 1,
+      "explanation": "They fell for the Guru's trick and wanted to be reborn as King and Minister.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e10_q29",
+      "text": "How did the Guru and disciple escape execution?",
+      "options": ["They fought the guards", "The Guru used his wit to trick the King", "The people rescued them", "It rained heavily"],
+      "correctIndex": 1,
+      "explanation": "The Guru's 'sacrificial' trick led the King to execute himself.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e10_q30",
+      "text": "The word 'scoundrel' was used by the King for:",
+      "options": ["The Thief", "The Merchant", "The Guru", "The Bricklayer"],
+      "correctIndex": 1,
+      "explanation": "He called the merchant a scoundrel for the death of the thief.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g9_e10_q31",
+      "text": "Why did the Guru want to be executed first?",
+      "options": ["He was old", "As part of the plan to trick the King", "He was tired of life", "He was very brave"],
+      "correctIndex": 1,
+      "explanation": "He pretended to compete with the disciple to make the 'rebirth as king' claim believable.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e10_q32",
+      "text": "What was the 'duddu'?",
+      "options": ["A local fruit", "A unit of currency", "A type of animal", "A name for a fool"],
+      "correctIndex": 1,
+      "explanation": "Duddu is the currency used in the kingdom.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e10_q33",
+      "text": "The people were 'thrown into ______' when they saw the dead bodies of King and Minister.",
+      "options": ["Joy", "Panic", "Confusion", "Anger"],
+      "correctIndex": 1,
+      "explanation": "They were shocked to see their rulers dead instead of the strangers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e10_q34",
+      "text": "Did the Guru agree to be King immediately?",
+      "options": ["Yes", "No, he set conditions", "He refused forever", "He asked for time"],
+      "correctIndex": 1,
+      "explanation": "He agreed only on the condition that they could change all the old laws.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e10_q35",
+      "text": "What kind of king was the previous ruler?",
+      "options": ["Wise", "Idiotic", "Cruel but smart", "Brave"],
+      "correctIndex": 1,
+      "explanation": "The entire story revolves around his foolish and illogical decisions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e10_q36",
+      "text": "The merchant's house wall was described as:",
+      "options": ["Strong", "Old and weak", "Made of glass", "Very high"],
+      "correctIndex": 1,
+      "explanation": "The wall was old and collapsed easily under pressure.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e10_q37",
+      "text": "The dancing girl was now an '______ woman'.",
+      "options": ["Old", "Angry", "Rich", "Unknown"],
+      "correctIndex": 0,
+      "explanation": "Many years had passed since the wall was built, so she was now old.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g9_e10_q38",
+      "text": "How did the King feel about 'justice'?",
+      "options": ["He didn't care", "He wanted it done at any cost, even if illogical", "He was very fair", "He hated the rich"],
+      "correctIndex": 1,
+      "explanation": "His sense of justice was perverse and focused on finding someone to kill for the 'crime'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e10_q39",
+      "text": "What were the King and Minister worried about after hearing the Guru?",
+      "options": ["Being killed", "Losing their kingdom in the next life", "The Guru's magic", "Famine"],
+      "correctIndex": 1,
+      "explanation": "They didn't want to give their kingdom to anyone else in their next birth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e10_q40",
+      "text": "The stake was called the 'stake of the ______'.",
+      "options": ["King", "God of Justice", "Executioner", "Fools"],
+      "correctIndex": 1,
+      "explanation": "The Guru gave it this name to make it sound holy and desirable.",
+      "frequencyRating": 4
+    }
+  ]
+}

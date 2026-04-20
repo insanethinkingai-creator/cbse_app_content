@@ -1,0 +1,330 @@
+{
+  "id": "g9_eng_ch3",
+  "grade": "9",
+  "subject": "English",
+  "number": "3",
+  "title": "The Little Girl",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_e3_q1",
+      "text": "Who is the 'Little Girl' in the story?",
+      "options": ["Kezia", "Alice", "Margie", "Evelyn"],
+      "correctIndex": 0,
+      "explanation": "Kezia is the central character, referred to as the little girl who is afraid of her father.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q2",
+      "text": "How did Kezia feel about her father at the beginning of the story?",
+      "options": ["She loved him", "She was indifferent", "She was afraid of him and avoided him", "She was proud of him"],
+      "correctIndex": 2,
+      "explanation": "To the little girl, he was a figure to be feared and avoided.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q3",
+      "text": "What was Kezia's father's routine before going to his office?",
+      "options": ["He would play with her", "He would give her a casual kiss", "He would scold her", "He would have breakfast with her"],
+      "correctIndex": 1,
+      "explanation": "Every morning before going to work he came into her room and gave her a casual kiss.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q4",
+      "text": "What was the sound Kezia heard with a sense of relief?",
+      "options": ["The alarm clock", "The carriage going away", "Her father's voice", "The TV"],
+      "correctIndex": 1,
+      "explanation": "She felt relieved when the sound of the carriage grew fainter as her father left for work.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q5",
+      "text": "Kezia's father's hands and neck appeared ________ to her.",
+      "options": ["Small", "Giant-like", "Soft", "Dirty"],
+      "correctIndex": 1,
+      "explanation": "Thinking about him alone was like thinking about a giant because of his large size.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q6",
+      "text": "What would Kezia do when talking to her father?",
+      "options": ["Shout", "Stutter", "Whisper", "Sing"],
+      "correctIndex": 1,
+      "explanation": "She never stuttered with other people but only with her father because she was trying so hard to say words properly.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q7",
+      "text": "Who suggested Kezia make a gift for her father's birthday?",
+      "options": ["Her mother", "Her grandmother", "The cook", "Her friend"],
+      "correctIndex": 1,
+      "explanation": "Her grandmother suggested she make a pin-cushion for his birthday.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q8",
+      "text": "What did Kezia use to stuff the pin-cushion?",
+      "options": ["Cotton", "Old clothes", "Scraps of paper from her father's table", "Wool"],
+      "correctIndex": 2,
+      "explanation": "She found some fine paper on the bed-table, tore them into pieces, and stuffed her case.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q9",
+      "text": "What were the papers Kezia tore up?",
+      "options": ["A newspaper", "A storybook", "A great speech for the Port Authority", "Personal letters"],
+      "correctIndex": 2,
+      "explanation": "The papers were her father's important speech for the Port Authority.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q10",
+      "text": "How did the father punish Kezia for tearing the papers?",
+      "options": ["He locked her in a room", "He beat her with a ruler", "He stopped her pocket money", "He didn't talk to her"],
+      "correctIndex": 1,
+      "explanation": "He hit her pink little palms with a ruler to teach her not to touch what does not belong to her.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q11",
+      "text": "Who were the neighbors of Kezia's family?",
+      "options": ["The Smiths", "The Macdonalds", "The Johnsons", "The Williams"],
+      "correctIndex": 1,
+      "explanation": "The Macdonalds lived next door and had five children.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q12",
+      "text": "What did Kezia see the Macdonalds doing in their garden?",
+      "options": ["Working hard", "Fighting", "Playing 'tag'", "Sleeping"],
+      "correctIndex": 2,
+      "explanation": "She saw the father playing happily with his children, which made her think there were 'different sorts of fathers'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q13",
+      "text": "Why did Kezia have to sleep alone one night?",
+      "options": ["She was being punished", "Her mother and grandmother were at the hospital", "It was a dare", "She wanted to"],
+      "correctIndex": 1,
+      "explanation": "Her mother fell ill and her grandmother went with her to the hospital.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q14",
+      "text": "Who was Alice in the story?",
+      "options": ["Kezia's sister", "The cook", "A neighbor", "A teacher"],
+      "correctIndex": 1,
+      "explanation": "Alice was the cook who looked after Kezia during the day.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q15",
+      "text": "What was the nightmare Kezia often had?",
+      "options": ["Being lost in a forest", "A butcher with a knife and a rope", "Falling from a height", "Being chased by a dog"],
+      "correctIndex": 1,
+      "explanation": "She dreamt of a butcher with a knife and a rope, who came closer and closer with a dreadful smile.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q16",
+      "text": "When Kezia woke up screaming from her nightmare, who was standing by her bed?",
+      "options": ["Grandmother", "Alice", "Her father", "Her mother"],
+      "correctIndex": 2,
+      "explanation": "Her father was standing by her bed with a candle in his hand.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q17",
+      "text": "What did the father do when he found Kezia afraid after the nightmare?",
+      "options": ["He scolded her", "He ignored her", "He carried her to his big bedroom and tucked her in", "He called the grandmother"],
+      "correctIndex": 2,
+      "explanation": "He showed his caring side by taking her to his room and comforting her.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q18",
+      "text": "Kezia realized her father wasn't a giant but a man with a ________.",
+      "options": ["Big stomach", "Big heart", "Loud voice", "Hard hand"],
+      "correctIndex": 1,
+      "explanation": "She felt his heart beating and realized he had a big heart but was just too tired to be like Mr. Macdonald.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q19",
+      "text": "Why did Kezia's father not play like Mr. Macdonald?",
+      "options": ["He was lazy", "He was too tired after working all day", "He didn't like children", "He was sick"],
+      "correctIndex": 1,
+      "explanation": "He worked hard all day and was 'too tired to be a Mr. Macdonald'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q20",
+      "text": "What does the story 'The Little Girl' teach us?",
+      "options": ["Children should fear parents", "Parents always hide their love behind discipline", "Nightmares are real", "Neighbors are better"],
+      "correctIndex": 1,
+      "explanation": "The story shows the transformation of Kezia's understanding of her father's love and character.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q21",
+      "text": "On Sunday afternoons, where did Grandmother send Kezia?",
+      "options": ["To the garden", "To the drawing room to talk to parents", "To the kitchen", "To the park"],
+      "correctIndex": 1,
+      "explanation": "Grandmother wanted Kezia to have a 'nice talk' with her father and mother.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q22",
+      "text": "What was the father usually doing when Kezia went to the drawing room on Sundays?",
+      "options": ["Reading a book", "Sleeping on the sofa with a handkerchief on his face", "Talking to his wife", "Playing music"],
+      "correctIndex": 1,
+      "explanation": "He was usually stretched out on the sofa, snoring and sleeping soundly.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q23",
+      "text": "The father compared Kezia to which animal when she stared at him?",
+      "options": ["A cat", "A little brown owl", "A mouse", "A rabbit"],
+      "correctIndex": 1,
+      "explanation": "He would say, 'Don’t stare so, Kezia. You look like a little brown owl.'",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q24",
+      "text": "What color was the silk for the pin-cushion?",
+      "options": ["Pink", "Yellow", "Blue", "Green"],
+      "correctIndex": 1,
+      "explanation": "She labored to stitch three sides of the cushion with yellow silk.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e3_q25",
+      "text": "Who said, 'What’s that for?' when Kezia was seen near the table?",
+      "options": ["Grandmother", "Mother", "Father", "Alice"],
+      "correctIndex": 2,
+      "explanation": "The father asked this when he was searching for his missing papers.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e3_q26",
+      "text": "What is 'stuttering'?",
+      "options": ["Speaking very fast", "Speaking with difficulty/repeating sounds", "Shouting", "Whispering"],
+      "correctIndex": 1,
+      "explanation": "Kezia struggled to speak clearly in front of her father due to fear.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q27",
+      "text": "The name of the author of 'The Little Girl' is:",
+      "options": ["Isaac Asimov", "Robert Frost", "Katherine Mansfield", "Phoebe Cary"],
+      "correctIndex": 2,
+      "explanation": "Katherine Mansfield wrote this poignant story about family dynamics.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q28",
+      "text": "When the father was looking for his papers, the house was full of ________.",
+      "options": ["Joy", "Hue and cry", "Silence", "Music"],
+      "correctIndex": 1,
+      "explanation": "There was a lot of noise and searching (hue and cry) for the Port Authority speech.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e3_q29",
+      "text": "Kezia's grandmother was ________ towards her.",
+      "options": ["Cruel", "Indifferent", "Kind and supportive", "Strict"],
+      "correctIndex": 2,
+      "explanation": "She tried to bridge the gap between Kezia and her parents.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q30",
+      "text": "Where was the 'Little Girl' hiding when the father came with the ruler?",
+      "options": ["Under the bed", "Behind the curtains", "Under the bedclothes", "In the cupboard"],
+      "correctIndex": 2,
+      "explanation": "She hid under the bedsheets, but he pulled them aside.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q31",
+      "text": "What was the father carrying when he took Kezia to his room?",
+      "options": ["A stick", "A candle", "A book", "A glass of water"],
+      "correctIndex": 1,
+      "explanation": "He held a candle to see the way to the bedroom.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q32",
+      "text": "What did the father do to his newspaper before sleeping in the drawing room?",
+      "options": ["Folded it neatly", "Put it over his face", "Threw it away", "Gave it to Kezia"],
+      "correctIndex": 1,
+      "explanation": "It was part of his relaxation routine on Sunday afternoons.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e3_q33",
+      "text": "Kezia felt her father's 'hardness' was ________.",
+      "options": ["Evil", "Nice", "Scary", "Painful"],
+      "correctIndex": 1,
+      "explanation": "She realized it was a 'nice hardness', different from the soft grandmother.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q34",
+      "text": "How many children did the Macdonalds have?",
+      "options": ["Three", "Four", "Five", "Two"],
+      "correctIndex": 2,
+      "explanation": "The story mentions Mr. Macdonald playing with his five children.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q35",
+      "text": "What did Kezia's mother usually do on Sundays?",
+      "options": ["Cook", "Read", "Sleep", "Play with Kezia"],
+      "correctIndex": 1,
+      "explanation": "She was usually seen reading in the drawing room.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e3_q36",
+      "text": "What does 'wretched' mean in the sentence 'I’m so wretched'?",
+      "options": ["Happy", "Angry", "Very unhappy/miserable", "Tired"],
+      "correctIndex": 2,
+      "explanation": "Kezia felt miserable after being punished.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e3_q37",
+      "text": "Why did the grandmother wrap Kezia in a shawl?",
+      "options": ["Because she was cold", "To comfort her after the beating", "To take her outside", "To make her sleep"],
+      "correctIndex": 1,
+      "explanation": "She rocked her in the chair to soothe her crying.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q38",
+      "text": "The story takes place in which setting?",
+      "options": ["A school", "A household", "A farm", "A factory"],
+      "correctIndex": 1,
+      "explanation": "The narrative focus is entirely on the dynamics within Kezia's home.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q39",
+      "text": "What changed Kezia's perspective about her father?",
+      "options": ["He bought her a gift", "He played tag with her", "He comforted her during a nightmare", "He apologized"],
+      "correctIndex": 2,
+      "explanation": "His physical presence and protection during her fear revealed his true nature.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q40",
+      "text": "Kezia’s father was a ________ man.",
+      "options": ["Strict and hardworking", "Cruel and mean", "Lazy", "Talkative"],
+      "correctIndex": 0,
+      "explanation": "He was strict but his actions at the end show he was a responsible parent.",
+      "frequencyRating": 5
+    }
+  ]
+}

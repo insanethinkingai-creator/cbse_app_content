@@ -1,0 +1,330 @@
+{
+  "id": "g9_geo_ch01",
+  "grade": "9",
+  "subject": "Geography",
+  "number": "1",
+  "title": "India – Size and Location",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_g1_q1",
+      "text": "What is the total area of India's landmass?",
+      "options": ["2.4 million sq km", "3.28 million sq km", "5.1 million sq km", "3.82 million sq km"],
+      "correctIndex": 1,
+      "explanation": "India's total area is approximately 3.28 million square kilometers, which is about 2.4% of the world's total geographical area.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g1_q2",
+      "text": "Which of the following latitudes passes through the center of India?",
+      "options": ["Equator", "Tropic of Capricorn", "Tropic of Cancer", "Arctic Circle"],
+      "correctIndex": 2,
+      "explanation": "The Tropic of Cancer (23°30' N) passes almost halfway through the country.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g1_q3",
+      "text": "What is the latitudinal extent of the mainland of India?",
+      "options": ["8°4'N to 37°6'N", "6°4'N to 37°6'N", "8°4'S to 37°6'S", "68°7'E to 97°25'E"],
+      "correctIndex": 0,
+      "explanation": "The mainland of India extends between latitudes 8°4'N and 37°6'N.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g1_q4",
+      "text": "The Standard Meridian of India passes through which of these cities?",
+      "options": ["Ahmedabad", "Mirzapur", "Patna", "Bhopal"],
+      "correctIndex": 1,
+      "explanation": "The Standard Meridian of India (82°30'E) passing through Mirzapur in Uttar Pradesh is taken as the standard time for the whole country.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g1_q5",
+      "text": "What is India's rank in the world in terms of total area?",
+      "options": ["5th", "6th", "7th", "8th"],
+      "correctIndex": 2,
+      "explanation": "India is the seventh-largest country in the world by area.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g1_q6",
+      "text": "Which island group of India lies to its southeast in the Bay of Bengal?",
+      "options": ["Lakshadweep", "Andaman and Nicobar Islands", "Maldives", "Sri Lanka"],
+      "correctIndex": 1,
+      "explanation": "The Andaman and Nicobar islands lie in the Bay of Bengal to the southeast of the Indian mainland.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g1_q7",
+      "text": "The longitudinal extent of India is:",
+      "options": ["8°4'N to 37°6'N", "68°7'E to 97°25'E", "68°7'W to 97°25'W", "23°30'N to 82°30'E"],
+      "correctIndex": 1,
+      "explanation": "India's longitudinal extent is from 68°7'E to 97°25'E.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g1_q8",
+      "text": "What is the time lag between Gujarat and Arunachal Pradesh?",
+      "options": ["1 hour", "2 hours", "30 minutes", "3 hours"],
+      "correctIndex": 1,
+      "explanation": "Due to the longitudinal extent of nearly 30 degrees, there is a time lag of two hours between the westernmost and easternmost points.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g1_q9",
+      "text": "The southernmost point of the Indian Union, Indira Point, got submerged under water in:",
+      "options": ["1999", "2001", "2004", "2010"],
+      "correctIndex": 2,
+      "explanation": "Indira Point was submerged in the sea water in 2004 during the Tsunami.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g1_q10",
+      "text": "India's land boundary is approximately:",
+      "options": ["7,516 km", "15,200 km", "6,100 km", "2,933 km"],
+      "correctIndex": 1,
+      "explanation": "India has a land boundary of about 15,200 km.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g1_q11",
+      "text": "Which of the following separates Sri Lanka from India?",
+      "options": ["Palk Strait and Gulf of Mannar", "Suez Canal", "Panama Canal", "Ten Degree Channel"],
+      "correctIndex": 0,
+      "explanation": "Sri Lanka is separated from India by a narrow channel of sea formed by the Palk Strait and the Gulf of Mannar.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g1_q12",
+      "text": "Before 1947, there were two types of states in India: provinces and ________.",
+      "options": ["Union Territories", "Princely States", "Districts", "Colonies"],
+      "correctIndex": 1,
+      "explanation": "Provinces were ruled directly by British officials, and Princely states were ruled by local, hereditary rulers.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_g1_q13",
+      "text": "India's contact with the world through land routes is ________ than her maritime contacts.",
+      "options": ["Much older", "Much newer", "Equal in age", "Less important"],
+      "correctIndex": 0,
+      "explanation": "The various passes across the mountains in the north provided passages to ancient travellers long before ocean routes were known.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g1_q14",
+      "text": "In which year did the Suez Canal open, reducing India's distance from Europe by 7,000 km?",
+      "options": ["1850", "1869", "1901", "1947"],
+      "correctIndex": 1,
+      "explanation": "The opening of the Suez Canal in 1869 reduced the travel distance between India and Europe.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g1_q15",
+      "text": "Which neighbor of India is an island country located to the south of Lakshadweep?",
+      "options": ["Sri Lanka", "Maldives", "Mauritius", "Seychelles"],
+      "correctIndex": 1,
+      "explanation": "The Maldives Islands are situated to the south of the Lakshadweep Islands.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g1_q16",
+      "text": "Which of the following states does NOT share a boundary with Pakistan?",
+      "options": ["Gujarat", "Rajasthan", "Punjab", "Haryana"],
+      "correctIndex": 3,
+      "explanation": "Gujarat, Rajasthan, and Punjab share borders with Pakistan, but Haryana is an inland state.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g1_q17",
+      "text": "What is the total length of India's coastline, including the island groups?",
+      "options": ["6,100.6 km", "15,200 km", "7,516.6 km", "3,214 km"],
+      "correctIndex": 2,
+      "explanation": "The total length of the coastline of the mainland, including Andaman and Nicobar and Lakshadweep, is 7,516.6 km.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g1_q18",
+      "text": "Which of these countries shares the longest land boundary with India?",
+      "options": ["China", "Pakistan", "Bangladesh", "Nepal"],
+      "correctIndex": 2,
+      "explanation": "Although all four are neighbors, Bangladesh shares the longest land border with India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g1_q19",
+      "text": "India is located in which hemisphere?",
+      "options": ["Southern and Eastern", "Northern and Eastern", "Northern and Western", "Southern and Western"],
+      "correctIndex": 1,
+      "explanation": "India lies entirely in the Northern hemisphere, and longitudinally it is in the Eastern hemisphere.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g1_q20",
+      "text": "The North-South distance of India is approximately:",
+      "options": ["2,933 km", "3,214 km", "1,200 km", "7,516 km"],
+      "correctIndex": 1,
+      "explanation": "The actual distance from the north (Laddakh) to the south (Kanyakumari) is 3,214 km.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g1_q21",
+      "text": "Which state of India shares a border with China, Nepal, and Bhutan?",
+      "options": ["Arunachal Pradesh", "Sikkim", "West Bengal", "Uttarakhand"],
+      "correctIndex": 1,
+      "explanation": "Sikkim is bordered by Nepal to the west, Bhutan to the east, and China to the north.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g1_q22",
+      "text": "The East-West distance of India is approximately:",
+      "options": ["3,214 km", "2,933 km", "15,200 km", "6,100 km"],
+      "correctIndex": 1,
+      "explanation": "The distance from Gujarat in the west to Arunachal Pradesh in the east is 2,933 km.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g1_q23",
+      "text": "Which of the following is the smallest state in India by area?",
+      "options": ["Sikkim", "Goa", "Tripura", "Mizoram"],
+      "correctIndex": 1,
+      "explanation": "Goa is the smallest state in India.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_g1_q24",
+      "text": "India’s neighbors in the north-west are:",
+      "options": ["Pakistan and Afghanistan", "China and Nepal", "Myanmar and Bangladesh", "Sri Lanka and Maldives"],
+      "correctIndex": 0,
+      "explanation": "India shares its land boundaries with Pakistan and Afghanistan in the north-west.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g1_q25",
+      "text": "Kanyakumari is situated on the ________ coast.",
+      "options": ["Western", "Eastern", "Southernmost tip", "Northern"],
+      "correctIndex": 2,
+      "explanation": "Kanyakumari is the southernmost tip of the Indian mainland.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g1_q26",
+      "text": "The sun rises two hours earlier in Arunachal Pradesh as compared to Gujarat. What is used to keep the time uniform?",
+      "options": ["Local Sun Time", "Indian Standard Time (IST)", "Greenwich Mean Time (GMT)", "Daylight Savings"],
+      "correctIndex": 1,
+      "explanation": "IST, based on the 82°30'E meridian, is used to avoid confusion caused by different local times across longitudes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g1_q27",
+      "text": "Which of the following describes India's position in Asia?",
+      "options": ["East Asian country", "West Asian country", "Southward extension of the Asian continent", "Northernmost part of Asia"],
+      "correctIndex": 2,
+      "explanation": "The Indian landmass has a central location between the East and the West Asia. India is a southward extension of the Asian continent.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g1_q28",
+      "text": "Which water body lies to the west of the Indian peninsula?",
+      "options": ["Bay of Bengal", "Arabian Sea", "Indian Ocean", "Pacific Ocean"],
+      "correctIndex": 1,
+      "explanation": "The Arabian Sea lies to the west of India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g1_q29",
+      "text": "My friend hails from a country which does not share a land boundary with India. Identify the country.",
+      "options": ["Bhutan", "Tajikistan", "Bangladesh", "Nepal"],
+      "correctIndex": 1,
+      "explanation": "Tajikistan does not share a land boundary with India, whereas Bhutan, Bangladesh, and Nepal do.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g1_q30",
+      "text": "The Tropic of Cancer does not pass through:",
+      "options": ["Rajasthan", "Odisha", "Chhattisgarh", "Tripura"],
+      "correctIndex": 1,
+      "explanation": "The Tropic of Cancer passes through 8 states: Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram. It does not pass through Odisha.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g1_q31",
+      "text": "The easternmost longitude of India is:",
+      "options": ["97°25'E", "68°7'E", "77°6'E", "82°32'E"],
+      "correctIndex": 0,
+      "explanation": "The easternmost longitude of India is 97°25'E in Arunachal Pradesh.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g1_q32",
+      "text": "Uttarakhand, Uttar Pradesh, Bihar, West Bengal and Sikkim have common frontiers with:",
+      "options": ["China", "Bhutan", "Nepal", "Myanmar"],
+      "correctIndex": 2,
+      "explanation": "All these five states share a border with Nepal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g1_q33",
+      "text": "Which state of India is surrounded by Bangladesh on three sides?",
+      "options": ["Mizoram", "Meghalaya", "Tripura", "West Bengal"],
+      "correctIndex": 2,
+      "explanation": "Tripura is surrounded by Bangladesh on its north, south, and west.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g1_q34",
+      "text": "The ocean which is named after a country is the:",
+      "options": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Arctic Ocean"],
+      "correctIndex": 2,
+      "explanation": "The Indian Ocean is named after India because of India's long coastline and strategic position in the ocean.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g1_q35",
+      "text": "Which of the following is the largest state of India in terms of area?",
+      "options": ["Uttar Pradesh", "Maharashtra", "Rajasthan", "Madhya Pradesh"],
+      "correctIndex": 2,
+      "explanation": "Rajasthan is the largest state in India by geographical area.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_g1_q36",
+      "text": "What is the degree of the Standard Meridian of India?",
+      "options": ["82°30'E", "82°30'W", "23°30'N", "0°"],
+      "correctIndex": 0,
+      "explanation": "82°30'E is the longitude chosen as the Standard Meridian.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g1_q37",
+      "text": "How many states and Union Territories does India have currently?",
+      "options": ["29 States and 7 UTs", "28 States and 8 UTs", "27 States and 9 UTs", "28 States and 7 UTs"],
+      "correctIndex": 1,
+      "explanation": "As per the current political map (post-2020), India has 28 states and 8 Union Territories.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g1_q38",
+      "text": "Which neighbor of India is located to the East?",
+      "options": ["Nepal", "Pakistan", "Bangladesh", "Afghanistan"],
+      "correctIndex": 2,
+      "explanation": "Bangladesh and Myanmar are India's neighbors to the East.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g1_q39",
+      "text": "The latitudinal extent of India influences:",
+      "options": ["The duration of day and night", "The time zone", "The distance from the sea", "The longitudinal extent"],
+      "correctIndex": 0,
+      "explanation": "The latitudinal extent influences the duration of day and night, as one moves from south to north.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_g1_q40",
+      "text": "Which geographical feature bounds India in the north-west, north and north-east?",
+      "options": ["Young fold mountains (Himalayas)", "Desert", "Plateaus", "Seas"],
+      "correctIndex": 0,
+      "explanation": "India is bounded by the young fold mountains in the north-west, north, and north-east.",
+      "frequencyRating": 5
+    }
+  ]
+}

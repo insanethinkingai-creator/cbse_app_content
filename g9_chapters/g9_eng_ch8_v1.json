@@ -1,0 +1,330 @@
+{
+  "id": "g9_eng_ch8",
+  "grade": "9",
+  "subject": "English",
+  "number": "8",
+  "title": "Kathmandu",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_e8_q1",
+      "text": "Who is the author of the chapter 'Kathmandu'?",
+      "options": ["Vikram Seth", "Ruskin Bond", "Anita Desai", "R.K. Narayan"],
+      "correctIndex": 0,
+      "explanation": "The chapter is an excerpt from Vikram Seth's travelogue 'Heaven Lake'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e8_q2",
+      "text": "Which two temples in Kathmandu does the author visit?",
+      "options": ["Pashupatinath and Baudhnath", "Kedarnath and Badrinath", "Golden Temple and Lotus Temple", "Jagannath and Somnath"],
+      "correctIndex": 0,
+      "explanation": "The author visits the famous Hindu temple Pashupatinath and the Buddhist stupa Baudhnath.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e8_q3",
+      "text": "A sign at Pashupatinath announces 'Entrance for ______ only'.",
+      "options": ["Tourists", "Hindus", "Nepalese", "Monks"],
+      "correctIndex": 1,
+      "explanation": "The temple allows entrance only to followers of the Hindu religion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e8_q4",
+      "text": "The atmosphere at Pashupatinath can be described as:",
+      "options": ["Silent and peaceful", "Febrile confusion", "Desolate", "Boring"],
+      "correctIndex": 1,
+      "explanation": "The author notes the chaotic and busy atmosphere with priests, hawkers, devotees, and animals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e8_q5",
+      "text": "Which river flows near the Pashupatinath temple?",
+      "options": ["Ganga", "Yamuna", "Bagmati", "Kosi"],
+      "correctIndex": 2,
+      "explanation": "The Bagmati River flows alongside the temple.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e8_q6",
+      "text": "What do people do at the banks of the Bagmati river?",
+      "options": ["Wash clothes", "Cremate bodies", "Bathe", "All of these"],
+      "correctIndex": 3,
+      "explanation": "The author observes various activities including washing, bathing, and cremation on the riverbanks.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e8_q7",
+      "text": "What belief is associated with the small shrine on the river bank?",
+      "options": ["It will sink", "When it emerges fully, the Kaliyug will end", "It will turn into gold", "It grants wishes"],
+      "correctIndex": 1,
+      "explanation": "Legend says that when the shrine emerges fully, the goddess inside will escape and the evil period of Kaliyug will end.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e8_q8",
+      "text": "In contrast to Pashupatinath, the Baudhnath stupa has a sense of:",
+      "options": ["Noise", "Stillness", "Conflict", "Fear"],
+      "correctIndex": 1,
+      "explanation": "The author describes the Buddhist stupa as having a sense of stillness and quietude.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e8_q9",
+      "text": "What is unique about the shops around Baudhnath?",
+      "options": ["They are owned by Tibetans", "They sell only food", "They are illegal", "They are empty"],
+      "correctIndex": 0,
+      "explanation": "Many shops are owned by Tibetan immigrants selling felt bags, jewellery, etc.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e8_q10",
+      "text": "How does the author describe the streets of Kathmandu?",
+      "options": ["Narrow and busy", "Wide and empty", "Modern and clean", "Linear"],
+      "correctIndex": 0,
+      "explanation": "The streets are described as narrow and full of life, commerce, and religion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e8_q11",
+      "text": "Which instrument's sound attracts the author's attention?",
+      "options": ["Guitar", "Sitar", "Flute", "Violin"],
+      "correctIndex": 2,
+      "explanation": "The author is drawn to the music of a flute seller near his hotel.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e8_q12",
+      "text": "The flute seller’s wares are compared to the quills of a:",
+      "options": ["Hedgehog", "Porcupine", "Bird", "Cactus"],
+      "correctIndex": 1,
+      "explanation": "He carries a pole with flutes sticking out in all directions like porcupine quills.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e8_q13",
+      "text": "How many types of flutes are mentioned by the author?",
+      "options": ["One", "Two", "Many (reed, recorder, etc.)", "None"],
+      "correctIndex": 2,
+      "explanation": "The author mentions various flutes like the bansuri, the deep bansuri, the recorder, etc.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e8_q14",
+      "text": "What does the author say about the music of the flute?",
+      "options": ["It is too loud", "It is the most universal and particular of sounds", "It is annoying", "It is better than a guitar"],
+      "correctIndex": 1,
+      "explanation": "The author notes that every culture has its own flute, making it universal yet distinct.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e8_q15",
+      "text": "The author finds it difficult to 'tear himself away' from:",
+      "options": ["The temple", "The market", "The flute music", "His sleep"],
+      "correctIndex": 2,
+      "explanation": "The enchanting music of the flute makes it hard for him to leave the square.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e8_q16",
+      "text": "What snack does the author eat in the market?",
+      "options": ["Pizza", "Corn-on-the-cob", "Ice cream", "Momos"],
+      "correctIndex": 1,
+      "explanation": "He buys a bar of marzipan and a corn-on-the-cob roasted in charcoal.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e8_q17",
+      "text": "What beverages does the author drink in Kathmandu?",
+      "options": ["Tea", "Coffee and Coca-Cola", "Juice", "Milk"],
+      "correctIndex": 1,
+      "explanation": "He mentions drinking a couple of Cokes and nauseating orange drink.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e8_q18",
+      "text": "What is the author's initial plan to return home?",
+      "options": ["By bus", "By plane", "By hitchhiking across land", "By train"],
+      "correctIndex": 2,
+      "explanation": "Initially, he considers a long journey by bus and train to India, then by boat and up the Ganga.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e8_q19",
+      "text": "Why does the author decide to fly back home directly?",
+      "options": ["He is rich", "He is homesick and exhausted", "His visa expired", "There were no buses"],
+      "correctIndex": 1,
+      "explanation": "Exhaustion and homesickness make him decide to take the quickest route home.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e8_q20",
+      "text": "The author describes Kathmandu as 'vivid, mercenary, ______'.",
+      "options": ["Religious", "Scientific", "Modern", "Political"],
+      "correctIndex": 0,
+      "explanation": "He uses the adjective 'religious' to describe the city alongside its vividness and commercial nature.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e8_q21",
+      "text": "What do the saffron-clad Westerners try to do at Pashupatinath?",
+      "options": ["Pray", "Enter the temple", "Take photos", "Sell things"],
+      "correctIndex": 1,
+      "explanation": "They struggle to enter the temple because only Hindus are allowed.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e8_q22",
+      "text": "Who is fighting on the balcony of Pashupatinath?",
+      "options": ["Two priests", "Two monkeys", "Two tourists", "Two dogs"],
+      "correctIndex": 1,
+      "explanation": "Two monkeys are seen chasing each other and jumping onto the shrine.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e8_q23",
+      "text": "The Baudhnath stupa is topped by a:",
+      "options": ["Golden spire", "White dome", "Cross", "Flag"],
+      "correctIndex": 1,
+      "explanation": "The stupa is an immense white dome.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e8_q24",
+      "text": "Which of these is NOT heard in the streets of Kathmandu?",
+      "options": ["Car horns", "Bicycle bells", "Silence", "Film songs"],
+      "correctIndex": 2,
+      "explanation": "The streets are very noisy with traffic and music; silence is only at the Stupa.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e8_q25",
+      "text": "What is the significance of the Bagmati river?",
+      "options": ["It is a trade route", "It is considered sacred", "It is the source of power", "It is very deep"],
+      "correctIndex": 1,
+      "explanation": "In Nepal, like the Ganga in India, the Bagmati is a sacred river.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e8_q26",
+      "text": "The author sees a 'corpse being ______' on the river bank.",
+      "options": ["Washed", "Cremated", "Buried", "Carried"],
+      "correctIndex": 1,
+      "explanation": "He observes a cremation taking place on the banks of the Bagmati.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e8_q27",
+      "text": "What falls into the river from the balcony?",
+      "options": ["Money", "Flowers and leaves (wilted)", "A monkey", "A book"],
+      "correctIndex": 1,
+      "explanation": "Wilted flowers and leaves are dropped into the river as offerings.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e8_q28",
+      "text": "The Baudhnath Stupa is a haven of ______.",
+      "options": ["Chaos", "Quietness", "Commerce", "Crowds"],
+      "correctIndex": 1,
+      "explanation": "It stands in contrast to the busy market and Pashupatinath temple.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e8_q29",
+      "text": "Vikram Seth feels that flute music is common to ______.",
+      "options": ["Asia only", "India only", "All mankind", "Tribal people"],
+      "correctIndex": 2,
+      "explanation": "Every culture has some form of the flute, making it a universal instrument.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e8_q30",
+      "text": "The flute seller plays his instrument ______.",
+      "options": ["Loudly", "Slowly and meditatively", "Aggressively", "Only for money"],
+      "correctIndex": 1,
+      "explanation": "He plays with focus and without shouting out to sell his wares.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e8_q31",
+      "text": "Kathmandu's markets sell ______ antiques.",
+      "options": ["Modern", "Tibetan", "Indian", "European"],
+      "correctIndex": 1,
+      "explanation": "The shops around Baudhnath sell Tibetan prints and jewellery.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e8_q32",
+      "text": "How does the author pass the time in the market?",
+      "options": ["Buying clothes", "Eating and reading comics", "Sleeping", "Arguing"],
+      "correctIndex": 1,
+      "explanation": "He buys a comic book and a Digest to read while eating.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e8_q33",
+      "text": "The author's tone in 'Kathmandu' is:",
+      "options": ["Critical", "Descriptive and observant", "Angry", "Scientific"],
+      "correctIndex": 1,
+      "explanation": "He captures the sights, sounds, and smells of the city with detail.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e8_q34",
+      "text": "What does the author compare the flute's breath to?",
+      "options": ["Wind", "Human life/breath", "Smoke", "Water"],
+      "correctIndex": 1,
+      "explanation": "He notes that playing the flute requires a breath that must be paused to live.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e8_q35",
+      "text": "What kind of orange drink does he find in Kathmandu?",
+      "options": ["Fresh", "Nauseating", "Cold", "Hot"],
+      "correctIndex": 1,
+      "explanation": "He describes the orange drink as nauseating.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g9_e8_q36",
+      "text": "Kathmandu is the capital of:",
+      "options": ["Bhutan", "Tibet", "Nepal", "Sikkim"],
+      "correctIndex": 2,
+      "explanation": "Kathmandu is the capital city of Nepal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e8_q37",
+      "text": "The flute seller sells flutes made of:",
+      "options": ["Plastic", "Bamboo", "Steel", "Glass"],
+      "correctIndex": 1,
+      "explanation": "They are traditional bamboo flutes (bansuris).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e8_q38",
+      "text": "What kind of 'noise' is NOT mentioned in the markets?",
+      "options": ["Car horns", "Vendors", "Radio music", "Church bells"],
+      "correctIndex": 3,
+      "explanation": "The author mentioned traffic and radio music, but not church bells.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e8_q39",
+      "text": "The Bagmati river flows ______ Pashupatinath.",
+      "options": ["Above", "Below", "Inside", "Away from"],
+      "correctIndex": 1,
+      "explanation": "The temple is located on the banks of the river.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e8_q40",
+      "text": "Vikram Seth's journey described in the book 'Heaven Lake' is from:",
+      "options": ["India to Nepal", "Nepal to China", "China to India", "USA to Russia"],
+      "correctIndex": 2,
+      "explanation": "Heaven Lake describes his journey from China to India via Tibet and Nepal.",
+      "frequencyRating": 4
+    }
+  ]
+}

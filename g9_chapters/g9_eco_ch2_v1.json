@@ -1,0 +1,330 @@
+{
+  "id": "g9_eco_ch2",
+  "grade": "9",
+  "subject": "Economics",
+  "number": "2",
+  "title": "People as Resource",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_e2_q1",
+      "text": "'People as Resource' is a way of referring to a country’s working people in terms of their existing:",
+      "options": ["Wealth", "Productive skills and abilities", "Population size", "Caste and religion"],
+      "correctIndex": 1,
+      "explanation": "It emphasizes the human factor as an asset that contributes to the Gross National Product.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q2",
+      "text": "When existing 'human resource' is further developed by becoming more educated and healthy, it is called:",
+      "options": ["Human growth", "Human development", "Human capital formation", "Population explosion"],
+      "correctIndex": 2,
+      "explanation": "Investments in education and health turn people into human capital, adding to the country's productive power.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q3",
+      "text": "Which of the following is an investment in human capital?",
+      "options": ["Education", "Training", "Medical care", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Just like physical capital, education and health yield a return in the form of higher income and productivity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q4",
+      "text": "Human capital is superior to other resources like land and physical capital because:",
+      "options": ["It can use land and capital", "It is cheaper", "It is infinite", "It doesn't require maintenance"],
+      "correctIndex": 0,
+      "explanation": "Land and capital cannot become useful on their own; they require human intervention.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q5",
+      "text": "The quality of population depends upon:",
+      "options": ["Literacy rate", "Health of a person", "Skill formation", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "A healthy, educated, and skilled population is an asset to the economy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q6",
+      "text": "Activities like agriculture, forestry, and fishing fall under which sector?",
+      "options": ["Primary sector", "Secondary sector", "Tertiary sector", "Public sector"],
+      "correctIndex": 0,
+      "explanation": "Primary sector involves extraction and production of natural resources.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q7",
+      "text": "Manufacturing and construction belong to the:",
+      "options": ["Primary sector", "Secondary sector", "Tertiary sector", "Private sector"],
+      "correctIndex": 1,
+      "explanation": "Secondary sector converts raw materials into finished goods.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q8",
+      "text": "Trade, transport, communication, and banking are examples of:",
+      "options": ["Primary sector", "Secondary sector", "Tertiary sector", "Informal sector"],
+      "correctIndex": 2,
+      "explanation": "The tertiary sector provides services rather than producing tangible goods.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q9",
+      "text": "Economic activities are also called:",
+      "options": ["Social activities", "Market and non-market activities", "Household chores", "Voluntary work"],
+      "correctIndex": 1,
+      "explanation": "Economic activities include market activities (for pay) and non-market activities (for self-consumption).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e2_q10",
+      "text": "The literacy rate in India was highest in which state (as per 2011 census)?",
+      "options": ["Bihar", "Kerala", "Gujarat", "Delhi"],
+      "correctIndex": 1,
+      "explanation": "Kerala consistently has the highest literacy rates in India due to high social investment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q11",
+      "text": "Which scheme was launched to provide elementary education to all children in the age group of 6-14 years?",
+      "options": ["Mid-day Meal", "Sarva Shiksha Abhiyan", "Navodaya Vidyalaya", "Right to Information"],
+      "correctIndex": 1,
+      "explanation": "Sarva Shiksha Abhiyan is a significant step towards the goal of universal elementary education.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q12",
+      "text": "The Mid-day Meal scheme was introduced to:",
+      "options": ["Provide jobs to cooks", "Increase enrollment and nutritional status of children", "Reduce school fees", "Distribute free books"],
+      "correctIndex": 1,
+      "explanation": "The scheme encourages children to attend school and provides essential nutrition.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e2_q13",
+      "text": "Infant Mortality Rate (IMR) refers to the death of a child below the age of:",
+      "options": ["1 year", "2 years", "5 years", "1 month"],
+      "correctIndex": 0,
+      "explanation": "IMR measures the number of deaths of infants under one year of age per 1,000 live births.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e2_q14",
+      "text": "Unemployment is said to exist when people who are willing to work at the prevailing wages:",
+      "options": ["Want higher pay", "Cannot find jobs", "Do not want to work", "Are overqualified"],
+      "correctIndex": 1,
+      "explanation": "Unemployment describes the situation of people who are part of the workforce but cannot find employment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q15",
+      "text": "The 'workforce population' in India includes people from:",
+      "options": ["0 to 60 years", "15 to 59 years", "18 to 65 years", "21 to 60 years"],
+      "correctIndex": 1,
+      "explanation": "Economically, the productive age group is considered to be 15 to 59 years.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q16",
+      "text": "Which type of unemployment is common in urban areas?",
+      "options": ["Seasonal unemployment", "Disguised unemployment", "Educated unemployment", "None of the above"],
+      "correctIndex": 2,
+      "explanation": "Many youth with degrees are unable to find suitable jobs in cities.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q17",
+      "text": "When people are not able to find jobs during some months of the year, it is called:",
+      "options": ["Seasonal unemployment", "Disguised unemployment", "Urban unemployment", "Frictional unemployment"],
+      "correctIndex": 0,
+      "explanation": "Seasonal unemployment is primarily found in the agricultural sector where work depends on crop cycles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q18",
+      "text": "In the case of disguised unemployment:",
+      "options": ["People look unemployed but are actually working", "People appear to be employed but their contribution is zero", "People work part-time", "Work is available but people are lazy"],
+      "correctIndex": 1,
+      "explanation": "Disguised unemployment occurs when more people are engaged in an activity than are actually required.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q19",
+      "text": "What is the consequence of unemployment?",
+      "options": ["Wastage of manpower resource", "Economic overload", "Increase in social unrest", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Unemployment has a detrimental impact on the overall growth of an economy.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e2_q20",
+      "text": "Which sector is the most labour-absorbing sector of the Indian economy?",
+      "options": ["Manufacturing", "Services", "Agriculture", "Mining"],
+      "correctIndex": 2,
+      "explanation": "Agriculture continues to employ more than half of India's population.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q21",
+      "text": "The story of Sakal shows that education leads to:",
+      "options": ["Better health only", "Higher productivity and income", "Migration to cities", "None of the above"],
+      "correctIndex": 1,
+      "explanation": "Sakal's education helped him get a job and contribute to the growth of society.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e2_q22",
+      "text": "Why is the mortality rate declining in India?",
+      "options": ["Better food quality", "Improved healthcare and medical facilities", "Increase in income", "Less pollution"],
+      "correctIndex": 1,
+      "explanation": "Widespread health infrastructure has led to increased life expectancy and lower death rates.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e2_q23",
+      "text": "Human capital formation adds to the ______ of the country.",
+      "options": ["Wealth", "Gross National Product", "Foreign reserves", "Debt"],
+      "correctIndex": 1,
+      "explanation": "Human capital contributes directly to the national income and productivity.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e2_q24",
+      "text": "Which country invested heavily in human resources despite lacking natural resources?",
+      "options": ["USA", "India", "Japan", "Brazil"],
+      "correctIndex": 2,
+      "explanation": "Japan became a developed country by investing in the education and health of its people.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q25",
+      "text": "An educated parent is likely to invest more in their child's education because:",
+      "options": ["They are forced by law", "They realize the importance of education for growth", "They have more money", "Schools are free"],
+      "correctIndex": 1,
+      "explanation": "They create a 'virtuous cycle' of investment in human capital.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e2_q26",
+      "text": "Birth rate is the number of babies born for every ________ people during a particular period.",
+      "options": ["100", "500", "1000", "10000"],
+      "correctIndex": 2,
+      "explanation": "It is measured per 1000 individuals in the population.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e2_q27",
+      "text": "Disguised unemployment is mostly found in:",
+      "options": ["Large factories", "IT sector", "Agricultural sector", "Schools"],
+      "correctIndex": 2,
+      "explanation": "It is common in family-owned farms where all family members work, even if not needed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q28",
+      "text": "Increase in life expectancy is an indicator of:",
+      "options": ["High population", "Good quality of life and health", "Old age problems", "Less work"],
+      "correctIndex": 1,
+      "explanation": "Living longer generally reflects better health and nutrition.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e2_q29",
+      "text": "Which sector has seen the maximum growth in employment in recent years in India?",
+      "options": ["Primary", "Secondary", "Tertiary (Service)", "All are same"],
+      "correctIndex": 2,
+      "explanation": "The service sector, including IT and biotechnology, is expanding rapidly.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e2_q30",
+      "text": "Vocational education is introduced to:",
+      "options": ["Keep students busy", "Provide skills for specific jobs", "Increase the number of students", "None of these"],
+      "correctIndex": 1,
+      "explanation": "It aims to make education more practical and job-oriented.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e2_q31",
+      "text": "GDP stands for:",
+      "options": ["Gross Domestic Product", "Great Development Plan", "General Domestic Price", "Gross Daily Profit"],
+      "correctIndex": 0,
+      "explanation": "GDP is the total value of all goods and services produced within a country's borders.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q32",
+      "text": "Literacy rate among males is ________ than among females in India.",
+      "options": ["Higher", "Lower", "Equal", "Much lower"],
+      "correctIndex": 0,
+      "explanation": "Due to historical and social factors, there remains a gender gap in literacy rates.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e2_q33",
+      "text": "Death rate is the number of people per 1000 who die during a:",
+      "options": ["Month", "Year", "Decade", "Day"],
+      "correctIndex": 1,
+      "explanation": "Standard demographic rates are usually calculated on an annual basis.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e2_q34",
+      "text": "Establishment of Navodaya Vidyalaya is for:",
+      "options": ["Slum children", "Talented children in rural areas", "Handicapped children", "Rich children"],
+      "correctIndex": 1,
+      "explanation": "These are residential schools aimed at providing high-quality education to rural talent.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e2_q35",
+      "text": "Investment in human capital is similar to investment in:",
+      "options": ["Land", "Physical capital (machines)", "Gold", "Stock market"],
+      "correctIndex": 1,
+      "explanation": "Both require an initial cost to gain long-term productive benefits.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q36",
+      "text": "What does GNP stand for?",
+      "options": ["General National Product", "Gross National Product", "Gross Nature Progress", "Great National Project"],
+      "correctIndex": 1,
+      "explanation": "GNP is the total value of goods and services produced by the residents of a country.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e2_q37",
+      "text": "Economic activities that involve remuneration (pay) to anyone who performs it are:",
+      "options": ["Non-market activities", "Market activities", "Social services", "Hobbies"],
+      "correctIndex": 1,
+      "explanation": "Market activities are done for profit or salary.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e2_q38",
+      "text": "Health is not only absence of disease but also:",
+      "options": ["Wealth", "Ability to realize one's potential", "Being tall", "Having many friends"],
+      "correctIndex": 1,
+      "explanation": "The efficiency of a person depends on their overall physical and mental well-being.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e2_q39",
+      "text": "Which of the following is a tertiary sector activity?",
+      "options": ["Mining", "Cattle rearing", "Banking", "Construction"],
+      "correctIndex": 2,
+      "explanation": "Banking provides a service to both producers and consumers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e2_q40",
+      "text": "Seasonal unemployment is primarily a problem of:",
+      "options": ["Industrial workers", "Rural agricultural areas", "Doctors in cities", "Bankers"],
+      "correctIndex": 1,
+      "explanation": "In agriculture, workers are often busy only during sowing and harvesting.",
+      "frequencyRating": 5
+    }
+  ]
+}

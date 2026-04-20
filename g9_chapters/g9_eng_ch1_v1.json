@@ -1,0 +1,330 @@
+{
+  "id": "g9_eng_ch1",
+  "grade": "9",
+  "subject": "English",
+  "number": "1",
+  "title": "The Fun They Had",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_e1_q1",
+      "text": "Who is the author of the story 'The Fun They Had'?",
+      "options": ["Robert Frost", "Isaac Asimov", "Katherine Mansfield", "Coates Kinney"],
+      "correctIndex": 1,
+      "explanation": "Isaac Asimov is the famous science fiction writer who wrote this story about the future of education.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q2",
+      "text": "In which year is the story set?",
+      "options": ["2017", "2157", "2057", "2199"],
+      "correctIndex": 1,
+      "explanation": "The story takes place on May 17, 2157, as recorded in Margie's diary.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q3",
+      "text": "What did Tommy find in the attic of his house?",
+      "options": ["A telebook", "A mechanical teacher", "A real book", "A diary"],
+      "correctIndex": 2,
+      "explanation": "Tommy found a 'real' book made of paper, which was a novelty in their era of digital books.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q4",
+      "text": "How old is Margie?",
+      "options": ["10 years", "11 years", "12 years", "13 years"],
+      "correctIndex": 1,
+      "explanation": "Margie is eleven years old, while Tommy is thirteen.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q5",
+      "text": "What was strange about the book for Margie and Tommy?",
+      "options": ["It was very big", "The words stood still instead of moving", "It was written in a secret code", "It was colorful"],
+      "correctIndex": 1,
+      "explanation": "Unlike the moving text on their television screens, the printed words on the paper book remained static.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q6",
+      "text": "Who told Margie about the time when all stories were printed on paper?",
+      "options": ["Her father", "Her mother", "Her grandfather", "Her grandfather's grandfather"],
+      "correctIndex": 2,
+      "explanation": "Margie's grandfather once told her that when he was a little boy, his grandfather told him about paper books.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q7",
+      "text": "What did Tommy call the paper book?",
+      "options": ["A treasure", "Waste", "A miracle", "Boring"],
+      "correctIndex": 1,
+      "explanation": "Tommy thought paper books were a waste because you throw them away once you are done reading them.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q8",
+      "text": "What was the subject Margie was failing in?",
+      "options": ["Mathematics", "History", "Geography", "Science"],
+      "correctIndex": 2,
+      "explanation": "The mechanical teacher had been giving her test after test in geography, and she had been doing worse and worse.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q9",
+      "text": "Who came to fix Margie's mechanical teacher?",
+      "options": ["The Principal", "The County Inspector", "Tommy's father", "A robot mechanic"],
+      "correctIndex": 1,
+      "explanation": "The County Inspector was a round little man with a red face who was sent to repair the mechanical teacher.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s1_q10",
+      "text": "What was wrong with the mechanical teacher?",
+      "options": ["It had no power", "The screen was broken", "The geography sector was geared a little too quick", "The audio was not working"],
+      "correctIndex": 2,
+      "explanation": "The geography sector was adjusted to a level higher than Margie's age group, making the tests too difficult.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q11",
+      "text": "What did Margie have to use to write her homework and tests?",
+      "options": ["A pen", "A punch code", "A keyboard", "A stylus"],
+      "correctIndex": 1,
+      "explanation": "She had to write them out in a punch code she was taught when she was six years old.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q12",
+      "text": "Where was Margie's schoolroom located?",
+      "options": ["In a separate building", "Next to her bedroom", "In the attic", "In the city center"],
+      "correctIndex": 1,
+      "explanation": "In 2157, schools are located within the students' homes, specifically right next to their bedrooms.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q13",
+      "text": "According to the book, who was the teacher in the old schools?",
+      "options": ["A robot", "A man", "A computer", "A video"],
+      "correctIndex": 1,
+      "explanation": "Margie was surprised to learn that teachers in the past were human beings, not machines.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q14",
+      "text": "Why did Margie think the old kind of school was fun?",
+      "options": ["Because they had no homework", "Because kids from the whole neighborhood came together", "Because they played video games", "Because there were no teachers"],
+      "correctIndex": 1,
+      "explanation": "She imagined all the kids laughing and shouting in the schoolyard, sitting together in the schoolroom.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q15",
+      "text": "Which part of the mechanical teacher did Margie hate the most?",
+      "options": ["The big screen", "The slot for homework and test papers", "The geography sector", "The voice"],
+      "correctIndex": 1,
+      "explanation": "The slot where she had to put homework and test papers was the most disliked part.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q16",
+      "text": "How many telebooks did Tommy's television screen have?",
+      "options": ["A thousand", "A million", "A hundred", "Ten thousand"],
+      "correctIndex": 1,
+      "explanation": "Tommy remarked that their screen had a million books on it and was good for plenty more.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e1_q17",
+      "text": "Why did Margie's mother send for the County Inspector?",
+      "options": ["To buy a new teacher", "Because Margie was not studying", "Because the mechanical teacher was malfunctioning", "To invite him for dinner"],
+      "correctIndex": 2,
+      "explanation": "She sent for him because Margie's performance in Geography was declining due to a fault in the machine.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q18",
+      "text": "What did the County Inspector give Margie?",
+      "options": ["A book", "An apple", "A punch code book", "A toy"],
+      "correctIndex": 1,
+      "explanation": "He smiled at Margie and gave her an apple before starting work on the teacher.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e1_q19",
+      "text": "To what level did the County Inspector reset the geography sector?",
+      "options": ["5-year level", "10-year level", "15-year level", "Adult level"],
+      "correctIndex": 1,
+      "explanation": "He slowed it down to an average ten-year level to match Margie's mental age.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q20",
+      "text": "What did Tommy say about the human teachers of the past?",
+      "options": ["They were smarter than machines", "They didn't live in the house", "They were very cruel", "They knew nothing"],
+      "correctIndex": 1,
+      "explanation": "Tommy explained that they didn't live in the house; they had a special building where all kids went.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q21",
+      "text": "What did Tommy find 'crinkly' about the old book?",
+      "options": ["The cover", "The pages", "The words", "The smell"],
+      "correctIndex": 1,
+      "explanation": "The pages were yellow and crinkly because the book was very old.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q22",
+      "text": "What was the 'regular' teacher for Margie?",
+      "options": ["A human teacher", "The County Inspector", "A mechanical/robotic teacher", "Her mother"],
+      "correctIndex": 2,
+      "explanation": "In her time, a mechanical teacher was the normal or 'regular' way of being taught.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q23",
+      "text": "Why was Margie disappointed when the County Inspector fixed the teacher?",
+      "options": ["She wanted a new one", "She hoped he would take it away for a while", "She hated the Inspector", "She wanted to play"],
+      "correctIndex": 1,
+      "explanation": "She hoped they would take the teacher away altogether, as they had done with Tommy's for nearly a month.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q24",
+      "text": "What had happened to Tommy's teacher once?",
+      "options": ["The screen broke", "The history sector had blanked out completely", "It was stolen", "It ran out of battery"],
+      "correctIndex": 1,
+      "explanation": "The history sector had blanked out, so the teacher was taken away for a month to be repaired.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q25",
+      "text": "What kind of school did the book describe?",
+      "options": ["Electronic school", "Old kind of school from centuries ago", "Space school", "Home school"],
+      "correctIndex": 1,
+      "explanation": "The book described the schools from 'centuries ago' where children went to a common building.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q26",
+      "text": "What was the reaction of Tommy when Margie asked if a man could be a teacher?",
+      "options": ["He cried", "He laughed", "He screamed with laughter", "He got angry"],
+      "correctIndex": 2,
+      "explanation": "Tommy screamed with laughter because Margie thought a man wasn't smart enough to be a teacher.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e1_q27",
+      "text": "How did Margie and Tommy learn their lessons?",
+      "options": ["From books", "From the TV screen/Mechanical teacher", "From their parents", "From the County Inspector"],
+      "correctIndex": 1,
+      "explanation": "They studied individually at home using a computerized teacher on a screen.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q28",
+      "text": "The mechanical teacher was on at the same time every day except:",
+      "options": ["Monday and Tuesday", "Friday and Saturday", "Saturday and Sunday", "Sunday and Monday"],
+      "correctIndex": 2,
+      "explanation": "Margie's mother believed children learned better at regular hours, so she had school five days a week.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q29",
+      "text": "What arithmetic lesson was Margie's teacher teaching when she was thinking about the old schools?",
+      "options": ["Multiplication", "Addition of proper fractions", "Subtration", "Division"],
+      "correctIndex": 1,
+      "explanation": "The screen showed: 'Today’s arithmetic lesson is on the addition of proper fractions...'",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q30",
+      "text": "Margie's school was just next to her:",
+      "options": ["Kitchen", "Bedroom", "Drawing room", "Garden"],
+      "correctIndex": 1,
+      "explanation": "The story specifies the schoolroom was right next to her bedroom.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q31",
+      "text": "What does 'loftily' mean in the context of Tommy's speech?",
+      "options": ["Sadly", "In a superior way", "Quietly", "Angrily"],
+      "correctIndex": 1,
+      "explanation": "Tommy speaks loftily to show he knows more about the past than Margie.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e1_q32",
+      "text": "Who said, 'I wouldn't throw it away'?",
+      "options": ["Margie", "Tommy", "County Inspector", "Margie's Mother"],
+      "correctIndex": 1,
+      "explanation": "Tommy said he wouldn't throw his television screen away because it has so many books.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e1_q33",
+      "text": "What was the color of the County Inspector's face?",
+      "options": ["Blue", "Red", "Pale", "Green"],
+      "correctIndex": 1,
+      "explanation": "He is described as a 'round little man with a red face'.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e1_q34",
+      "text": "Margie's grandfather's grandfather was a:",
+      "options": ["Teacher", "Little boy", "County Inspector", "Writer"],
+      "correctIndex": 1,
+      "explanation": "The book belonged to the time when his grandfather's grandfather was a little boy.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q35",
+      "text": "The theme of the story is:",
+      "options": ["Environmental pollution", "The future of education/Technology in schools", "Historical wars", "Family relationships"],
+      "correctIndex": 1,
+      "explanation": "The story contrasts traditional human-centric schooling with futuristic automated home-based schooling.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q36",
+      "text": "What did Margie write in her diary?",
+      "options": ["I hate school", "Today Tommy found a real book!", "The teacher is broken", "I want to play"],
+      "correctIndex": 1,
+      "explanation": "She recorded the discovery of the paper book as a significant event.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q37",
+      "text": "Why did Margie find the old teacher 'strange'?",
+      "options": ["It was a man", "It was a woman", "It was a ghost", "It was a giant"],
+      "correctIndex": 0,
+      "explanation": "To Margie, the idea of a human being (a man) acting as a teacher was bizarre.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q38",
+      "text": "What did children do at the end of the day in old schools?",
+      "options": ["Stayed back to clean", "Went home together", "Slept in the building", "Updated their software"],
+      "correctIndex": 1,
+      "explanation": "They all went home together at the end of the day, having learned the same things.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q39",
+      "text": "What was the benefit of kids learning the same things in the past?",
+      "options": ["It was easier for teachers", "They could help one another with the homework", "It was cheaper", "It was faster"],
+      "correctIndex": 1,
+      "explanation": "Because they learned the same things, they could discuss and help each other.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q40",
+      "text": "What was Margie doing at the end of the story?",
+      "options": ["Reading Tommy's book", "Thinking about the fun they had", "Fighting with Tommy", "Sleeping"],
+      "correctIndex": 1,
+      "explanation": "Margie was sighing and thinking about the old schools and the fun those kids had.",
+      "frequencyRating": 5
+    }
+  ]
+}

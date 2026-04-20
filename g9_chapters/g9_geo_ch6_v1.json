@@ -1,0 +1,330 @@
+{
+  "id": "g9_geo_ch6",
+  "grade": "9",
+  "subject": "Geography",
+  "number": "6",
+  "title": "Population",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_g6_q1",
+      "text": "The people are the ________ of a country.",
+      "options": ["Problem", "Resource", "Target", "Obstacle"],
+      "correctIndex": 1,
+      "explanation": "People are the ultimate resource. Healthy, educated, and motivated people develop resources according to their requirements.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g6_q2",
+      "text": "A ________ is an official enumeration of population done periodically.",
+      "options": ["Survey", "Census", "Election", "Tally"],
+      "correctIndex": 1,
+      "explanation": "In India, the first census was held in 1872, and the first complete census was taken in 1881.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g6_q3",
+      "text": "In India, a census is held every ________ years.",
+      "options": ["5", "10", "15", "20"],
+      "correctIndex": 1,
+      "explanation": "Censuses are conducted every ten years.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g6_q4",
+      "text": "According to the 2011 Census, India's population was ________.",
+      "options": ["1.02 billion", "1.21 billion", "1.35 billion", "1.50 billion"],
+      "correctIndex": 1,
+      "explanation": "India's population was 1,210.6 million (or 1.21 billion).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g6_q5",
+      "text": "Which state is the most populous state of India?",
+      "options": ["Maharashtra", "Bihar", "West Bengal", "Uttar Pradesh"],
+      "correctIndex": 3,
+      "explanation": "Uttar Pradesh accounts for about 16% of the country's population.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g6_q6",
+      "text": "Which state has the lowest population in India?",
+      "options": ["Goa", "Sikkim", "Mizoram", "Arunachal Pradesh"],
+      "correctIndex": 1,
+      "explanation": "Sikkim has a population of just about 0.6 million (6 lakhs).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g6_q7",
+      "text": "Almost half of India’s population lives in just five states: UP, Maharashtra, Bihar, West Bengal and ________.",
+      "options": ["Rajasthan", "Andhra Pradesh", "Tamil Nadu", "Madhya Pradesh"],
+      "correctIndex": 1,
+      "explanation": "These five states together house nearly half of the total population.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g6_q8",
+      "text": "Population density is calculated as the number of persons per ________.",
+      "options": ["City", "Village", "Unit area (sq km)", "State"],
+      "correctIndex": 2,
+      "explanation": "It provides a better measure of the distribution of people relative to land area.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g6_q9",
+      "text": "Which state has the highest population density in India as per 2011 census?",
+      "options": ["West Bengal", "Bihar", "Kerala", "Uttar Pradesh"],
+      "correctIndex": 1,
+      "explanation": "Bihar has 1,102 persons per sq km.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g6_q10",
+      "text": "Which state has the lowest population density in India?",
+      "options": ["Sikkim", "Arunachal Pradesh", "Rajasthan", "Mizoram"],
+      "correctIndex": 1,
+      "explanation": "Arunachal Pradesh has only 17 persons per sq km.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g6_q11",
+      "text": "The three main processes of change of population are birth rates, death rates and ________.",
+      "options": ["Migration", "Education", "Marriage", "Health"],
+      "correctIndex": 0,
+      "explanation": "The change in population is the result of births, deaths and migration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g6_q12",
+      "text": "Birth rate is the number of live births per ________ persons in a year.",
+      "options": ["100", "1,000", "10,000", "100,000"],
+      "correctIndex": 1,
+      "explanation": "It is a major component of population growth because in India, birth rates have always been higher than death rates.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g6_q13",
+      "text": "Death rate is the number of deaths per ________ persons in a year.",
+      "options": ["100", "1,000", "5,000", "10,000"],
+      "correctIndex": 1,
+      "explanation": "The decline in death rates is the main cause of the rate of growth of the Indian population.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g6_q14",
+      "text": "Internal migration does not change the ________ of the population, but only the distribution.",
+      "options": ["Composition", "Size", "Density", "Quality"],
+      "correctIndex": 1,
+      "explanation": "Internal migration happens within the country and doesn't affect the national total.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g6_q15",
+      "text": "In India, most migrations have been from ________ to ________ areas.",
+      "options": ["Urban to Rural", "Rural to Urban", "State to State", "City to City"],
+      "correctIndex": 1,
+      "explanation": "This is due to the 'push' factor in rural areas (poverty) and 'pull' factor of cities (employment).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g6_q16",
+      "text": "The age composition of a population is divided into three groups: Children, Working Age, and ________.",
+      "options": ["Infants", "Aged", "Students", "Disabled"],
+      "correctIndex": 1,
+      "explanation": "Children (below 15), Working Age (15-59), and Aged (above 59).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g6_q17",
+      "text": "Which age group is considered economically productive and biologically reproductive?",
+      "options": ["Children (below 15)", "Working Age (15-59)", "Aged (above 59)", "Infants"],
+      "correctIndex": 1,
+      "explanation": "This group comprises the working population.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g6_q18",
+      "text": "Sex ratio is defined as the number of females per ________ males.",
+      "options": ["100", "500", "1,000", "10,000"],
+      "correctIndex": 2,
+      "explanation": "It is an important social indicator to measure the extent of equality between males and females.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g6_q19",
+      "text": "Which state in India has a sex ratio in favor of females (more than 1,000)?",
+      "options": ["Haryana", "Punjab", "Kerala", "Bihar"],
+      "correctIndex": 2,
+      "explanation": "Kerala has a sex ratio of 1084 females per 1000 males (2011 census).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g6_q20",
+      "text": "A person aged 7 years and above, who can read and write with understanding in any language, is treated as:",
+      "options": ["Educated", "Literate", "Graduate", "Genius"],
+      "correctIndex": 1,
+      "explanation": "Literacy is a very important quality of a population.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g6_q21",
+      "text": "The distribution of the population according to different types of occupations is called:",
+      "options": ["Employment structure", "Occupational structure", "Workforce", "Salary scale"],
+      "correctIndex": 1,
+      "explanation": "Occupations are classified as Primary, Secondary, and Tertiary.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g6_q22",
+      "text": "Primary activities include ________.",
+      "options": ["Manufacturing", "Transport", "Agriculture, fishing and mining", "Banking"],
+      "correctIndex": 2,
+      "explanation": "Primary activities use natural resources directly.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g6_q23",
+      "text": "Tertiary activities include ________.",
+      "options": ["Agriculture", "Building", "Transport, communication, banking", "Industry"],
+      "correctIndex": 2,
+      "explanation": "Tertiary sector provides services.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g6_q24",
+      "text": "What is the most significant feature of the Indian population?",
+      "options": ["Aging population", "Size of its adolescent population", "High literacy", "Low birth rate"],
+      "correctIndex": 1,
+      "explanation": "India has a very large adolescent population (aged 10-19), which constitutes one-fifth of the total population.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g6_q25",
+      "text": "The National Population Policy (NPP) 2000 aims to provide free and compulsory school education up to age ________.",
+      "options": ["10", "12", "14", "18"],
+      "correctIndex": 2,
+      "explanation": "Providing free and compulsory school education up to 14 years of age is a key objective of NPP 2000.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g6_q26",
+      "text": "Adolescents are generally grouped in the age group of ________ years.",
+      "options": ["5 to 10", "10 to 19", "15 to 25", "20 to 30"],
+      "correctIndex": 1,
+      "explanation": "Adolescents are the future resource of the country.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g6_q27",
+      "text": "The difference between birth rate and death rate is called:",
+      "options": ["Population growth", "Natural increase of population", "Density", "Migration"],
+      "correctIndex": 1,
+      "explanation": "Natural increase is the surplus of births over deaths.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g6_q28",
+      "text": "Large-scale migration from rural areas to cities has resulted in:",
+      "options": ["Growth of rural population", "Increase in the size of population in cities", "Decline in literacy", "None"],
+      "correctIndex": 1,
+      "explanation": "Urbanization is a result of rural-to-urban migration.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g6_q29",
+      "text": "The dependency ratio includes ________ and ________ age groups.",
+      "options": ["Children, Aged", "Working age, Aged", "Children, Working age", "None"],
+      "correctIndex": 0,
+      "explanation": "Children and the aged are considered dependents as they are not typically in the workforce.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g6_q30",
+      "text": "Population becomes 'human capital' when there is investment made in:",
+      "options": ["Education", "Training", "Medical care", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Investment in human beings turns them into a productive asset.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g6_q31",
+      "text": "What does a high sex ratio in a state indicate?",
+      "options": ["Gender bias", "Status of women is better", "Poverty", "High birth rate"],
+      "correctIndex": 1,
+      "explanation": "A higher number of females indicates better survival and social status of women.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g6_q32",
+      "text": "In developed countries, more people are engaged in ________ and ________ activities.",
+      "options": ["Primary, Secondary", "Secondary, Tertiary", "Primary, Tertiary", "None"],
+      "correctIndex": 1,
+      "explanation": "Developed nations have higher workforce participation in industries and services.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g6_q33",
+      "text": "NPP 2000 also focused on ________.",
+      "options": ["Promoting delayed marriage for girls", "Reducing infant mortality", "Achieving universal immunisation", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "NPP 2000 is a comprehensive policy for population stabilization and welfare.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g6_q34",
+      "text": "What percentage of India's population is engaged in agriculture according to general estimates?",
+      "options": ["20%", "40%", "64%", "90%"],
+      "correctIndex": 2,
+      "explanation": "About 64% of the population is engaged only in agriculture.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g6_q35",
+      "text": "Death rates have declined in India primarily due to:",
+      "options": ["Increase in birth rate", "Improvement in health and medical facilities", "Climate change", "Migration"],
+      "correctIndex": 1,
+      "explanation": "Better healthcare and control of epidemics have reduced the death rate significantly.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g6_q36",
+      "text": "Literacy rates among males are ________ than among females in India.",
+      "options": ["Lower", "Higher", "Equal", "None"],
+      "correctIndex": 1,
+      "explanation": "Historically, males have higher literacy rates due to social and economic factors.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g6_q37",
+      "text": "Which Union Territory has the lowest sex ratio as per 2011 Census?",
+      "options": ["Chandigarh", "Daman and Diu", "Delhi", "Puducherry"],
+      "correctIndex": 1,
+      "explanation": "Daman and Diu had a sex ratio of 618.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_g6_q38",
+      "text": "Which factor is responsible for the sparse population in the mountainous regions?",
+      "options": ["Rugged terrain and unfavorable climate", "High literacy", "Fertile soil", "Many industries"],
+      "correctIndex": 0,
+      "explanation": "Extreme terrain makes living conditions difficult, leading to lower density.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g6_q39",
+      "text": "Which plateau region in India is moderately populated?",
+      "options": ["Himalayas", "Peninsular Plateau", "Northern Plains", "Coastal Plains"],
+      "correctIndex": 1,
+      "explanation": "Hilly, dissected and rocky nature of the terrain, and moderate to low rainfall influence population density here.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g6_q40",
+      "text": "The magnitude of population growth refers to:",
+      "options": ["The total population of an area", "The number of persons added each year", "The rate at which population increases", "The density of population"],
+      "correctIndex": 1,
+      "explanation": "It is the absolute increase in numbers.",
+      "frequencyRating": 4
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "id": "g9_hist_ch1",
+  "grade": "9",
+  "subject": "History",
+  "number": "1",
+  "title": "The French Revolution",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_h1_q1",
+      "text": "On which date did the storming of the Bastille occur?",
+      "options": ["14 July 1789", "4 July 1776", "20 June 1789", "21 September 1792"],
+      "correctIndex": 0,
+      "explanation": "On the morning of 14 July 1789, the city of Paris was in a state of alarm, and the people stormed the fortress-prison, the Bastille.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h1_q2",
+      "text": "Who was the King of France during the outbreak of the Revolution?",
+      "options": ["Louis XIV", "Louis XV", "Louis XVI", "Napoleon Bonaparte"],
+      "correctIndex": 2,
+      "explanation": "In 1774, Louis XVI of the Bourbon family ascended the throne of France.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h1_q3",
+      "text": "The French society was divided into how many estates?",
+      "options": ["Two", "Three", "Four", "Five"],
+      "correctIndex": 1,
+      "explanation": "French society in the eighteenth century was divided into three estates: the Clergy, the Nobility, and the Third Estate.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h1_q4",
+      "text": "Which estate paid all the taxes in pre-revolutionary France?",
+      "options": ["First Estate", "Second Estate", "Third Estate", "Clergy and Nobility"],
+      "correctIndex": 2,
+      "explanation": "Only members of the third estate paid taxes; the first two estates enjoyed privileges by birth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h1_q5",
+      "text": "What was the 'Tithe'?",
+      "options": ["A tax levied by the Church", "A tax paid directly to the state", "A military rank", "A type of bread"],
+      "correctIndex": 0,
+      "explanation": "Tithe was a tax levied by the church, comprising one-tenth of the agricultural produce.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h1_q6",
+      "text": "The direct tax paid to the state was called:",
+      "options": ["Tithe", "Taille", "Livres", "Manor"],
+      "correctIndex": 1,
+      "explanation": "Taille was a direct tax to be paid to the state by members of the Third Estate.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h1_q7",
+      "text": "Who wrote the book 'The Two Treatises of Government'?",
+      "options": ["Jean Jacques Rousseau", "John Locke", "Montesquieu", "Voltaire"],
+      "correctIndex": 1,
+      "explanation": "In his 'Two Treatises of Government', John Locke sought to refute the doctrine of the divine and absolute right of the monarch.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h1_q8",
+      "text": "Who proposed a division of power within the government in 'The Spirit of the Laws'?",
+      "options": ["Rousseau", "Montesquieu", "Locke", "Robespierre"],
+      "correctIndex": 1,
+      "explanation": "Montesquieu proposed a division of power between the legislative, the executive, and the judiciary.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h1_q9",
+      "text": "When did the Estates-General meeting begin at Versailles?",
+      "options": ["5 May 1789", "20 June 1789", "14 July 1789", "4 August 1789"],
+      "correctIndex": 0,
+      "explanation": "On 5 May 1789, Louis XVI called together an assembly of the Estates-General to pass proposals for new taxes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h1_q10",
+      "text": "Where did the representatives of the Third Estate assemble on 20 June 1789?",
+      "options": ["Palace of Versailles", "Bastille", "Indoor Tennis Court", "Notre Dame"],
+      "correctIndex": 2,
+      "explanation": "On 20 June, they assembled in the hall of an indoor tennis court in the grounds of Versailles and declared themselves a National Assembly.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h1_q11",
+      "text": "What was the main objective of the National Assembly's draft constitution of 1791?",
+      "options": ["To increase the King's power", "To limit the powers of the monarch", "To abolish the Third Estate", "To start a war with Austria"],
+      "correctIndex": 1,
+      "explanation": "Its main object was to limit the powers of the monarch by assigning them to different institutions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h1_q12",
+      "text": "Who were 'Active Citizens' in the 1791 Constitution?",
+      "options": ["All men and women", "Only men above 25 who paid taxes", "Only the Nobility", "Only the Clergy"],
+      "correctIndex": 1,
+      "explanation": "Only men above 25 years of age who paid taxes equal to at least 3 days of a labourer's wage were given the right to vote.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h1_q13",
+      "text": "What does the 'Red Phrygian Cap' symbolize?",
+      "options": ["Royalty", "Liberty", "Knowledge", "Strength"],
+      "correctIndex": 1,
+      "explanation": "The red cap was worn by slaves upon becoming free, symbolizing liberty.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_h1_q14",
+      "text": "The patriotic song 'Marseillaise' was composed by:",
+      "options": ["Roget de L'Isle", "Maximilien Robespierre", "Napoleon", "Mirabeau"],
+      "correctIndex": 0,
+      "explanation": "It was composed by the poet Roget de L'Isle and is now the national anthem of France.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h1_q15",
+      "text": "The members of the Jacobin club were known as:",
+      "options": ["Conservatives", "Sans-culottes", "Clergy", "Aristocrats"],
+      "correctIndex": 1,
+      "explanation": "They were known as sans-culottes, meaning 'those without knee breeches'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h1_q16",
+      "text": "When was France declared a Republic?",
+      "options": ["14 July 1789", "21 September 1792", "21 January 1793", "18 June 1815"],
+      "correctIndex": 1,
+      "explanation": "On 21 September 1792, the newly elected assembly, the Convention, abolished the monarchy and declared France a republic.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h1_q17",
+      "text": "On what charge was Louis XVI executed?",
+      "options": ["Theft", "Treason", "Murder", "Corruption"],
+      "correctIndex": 1,
+      "explanation": "Louis XVI was sentenced to death by a court on the charge of treason.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h1_q18",
+      "text": "The period from 1793 to 1794 is referred to as the:",
+      "options": ["Golden Age", "Reign of Terror", "Directory Rule", "Napoleonic Era"],
+      "correctIndex": 1,
+      "explanation": "This period is called the Reign of Terror due to Robespierre’s policy of severe control and punishment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h1_q19",
+      "text": "Which device was used for execution during the Reign of Terror?",
+      "options": ["Hanging", "Guillotine", "Electric chair", "Firing squad"],
+      "correctIndex": 1,
+      "explanation": "The guillotine is a device consisting of two poles and a blade with which a person is beheaded.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h1_q20",
+      "text": "Which of these laws was NOT introduced by Robespierre's government?",
+      "options": ["Meat and bread were rationed", "Use of expensive white flour was forbidden", "Slavery was permanently abolished", "Churches were shut down"],
+      "correctIndex": 2,
+      "explanation": "While the Convention abolished slavery in 1794, Robespierre's focus was on social equality; Napoleon reintroduced it later.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_h1_q21",
+      "text": "After the fall of the Jacobin government, power was seized by:",
+      "options": ["The Clergy", "The wealthier middle classes", "The King", "The peasants"],
+      "correctIndex": 1,
+      "explanation": "The fall of Robespierre allowed the wealthier middle classes to seize power and introduce a new constitution.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h1_q22",
+      "text": "The Directory was an executive made up of how many members?",
+      "options": ["Three", "Five", "Ten", "Twelve"],
+      "correctIndex": 1,
+      "explanation": "The Directory was an executive made up of five members, intended as a safeguard against one-man rule.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h1_q23",
+      "text": "In which year did women in France finally win the right to vote?",
+      "options": ["1791", "1848", "1914", "1946"],
+      "correctIndex": 3,
+      "explanation": "It was finally in 1946 that women in France won the right to vote after a long struggle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h1_q24",
+      "text": "The most important of the women's political clubs was the:",
+      "options": ["Jacobin Women", "Society of Revolutionary and Republican Women", "Daughters of Liberty", "Women's Suffrage League"],
+      "correctIndex": 1,
+      "explanation": "This was the most famous of about sixty women's political clubs that came up in French cities.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h1_q25",
+      "text": "The triangular slave trade was between Europe, Africa and:",
+      "options": ["Asia", "The Americas", "Australia", "India"],
+      "correctIndex": 1,
+      "explanation": "The slave trade involved a triangular route between Europe, Africa, and the Americas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h1_q26",
+      "text": "Slavery was finally abolished in French colonies in:",
+      "options": ["1794", "1804", "1848", "1888"],
+      "correctIndex": 2,
+      "explanation": "Slavery was finally abolished in French colonies in 1848.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h1_q27",
+      "text": "Who crowned himself Emperor of France in 1804?",
+      "options": ["Louis XVI", "Maximilien Robespierre", "Napoleon Bonaparte", "Duke of Wellington"],
+      "correctIndex": 2,
+      "explanation": "In 1804, Napoleon Bonaparte crowned himself Emperor of France and set out to conquer Europe.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h1_q28",
+      "text": "Napoleon was finally defeated at the Battle of ______ in 1815.",
+      "options": ["Leipzig", "Waterloo", "Trafalgar", "Bastille"],
+      "correctIndex": 1,
+      "explanation": "Napoleon’s career ended with his final defeat at Waterloo in 1815.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h1_q29",
+      "text": "Which of these was a legacy of the French Revolution?",
+      "options": ["Liberty", "Equality", "Fraternity", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "The ideas of liberty and democratic rights were the most important legacy of the French Revolution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h1_q30",
+      "text": "Who among the following Indian individuals responded to the ideas coming from revolutionary France?",
+      "options": ["Mahatma Gandhi", "Tipu Sultan", "Subhash Chandra Bose", "Sardar Patel"],
+      "correctIndex": 1,
+      "explanation": "Tipu Sultan and Rammohan Roy are two examples of individuals who responded to the ideas of the French Revolution.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h1_q31",
+      "text": "What was the unit of currency in France until 1794?",
+      "options": ["Euro", "Livre", "Dollar", "Franc"],
+      "correctIndex": 1,
+      "explanation": "Livre was the currency of France, discontinued in 1794.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_h1_q32",
+      "text": "The term 'Old Regime' is used to describe the society and institutions of France before:",
+      "options": ["1789", "1804", "1815", "1848"],
+      "correctIndex": 0,
+      "explanation": "The term Old Regime is usually used to describe the French society and institutions before the 1789 revolution.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h1_q33",
+      "text": "The population of France rose from 23 million in 1715 to ______ in 1789.",
+      "options": ["25 million", "28 million", "30 million", "35 million"],
+      "correctIndex": 1,
+      "explanation": "This rapid increase in population led to a rapid increase in the demand for foodgrains.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_h1_q34",
+      "text": "A 'subsistence crisis' occurs when:",
+      "options": ["Wages increase", "The basic means of livelihood are endangered", "The king dies", "Taxes are abolished"],
+      "correctIndex": 1,
+      "explanation": "It is an extreme situation where the basic means of livelihood are endangered, often due to bad harvest.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h1_q35",
+      "text": "Who proposed the model of a social contract between people and their representatives?",
+      "options": ["Rousseau", "Montesquieu", "Louis XVI", "Mirabeau"],
+      "correctIndex": 0,
+      "explanation": "Rousseau carried the idea forward, proposing a form of government based on a social contract.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h1_q36",
+      "text": "Which estate representatives declared themselves as the 'National Assembly'?",
+      "options": ["Clergy", "Nobility", "Third Estate", "All three together"],
+      "correctIndex": 2,
+      "explanation": "The Third Estate, representing the majority, declared themselves the National Assembly of France.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h1_q37",
+      "text": "The National Assembly completed the draft of the constitution in:",
+      "options": ["1789", "1791", "1792", "1793"],
+      "correctIndex": 1,
+      "explanation": "The National Assembly completed the draft of the constitution in 1791.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h1_q38",
+      "text": "Who was the leader of the Jacobin club?",
+      "options": ["Napoleon", "Louis XVI", "Maximilien Robespierre", "Montesquieu"],
+      "correctIndex": 2,
+      "explanation": "Maximilien Robespierre was the prominent leader of the Jacobins.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h1_q39",
+      "text": "What happened to the bastille prisoners?",
+      "options": ["All were killed", "They were released (there were only 7)", "They joined the army", "They were sent to Russia"],
+      "correctIndex": 1,
+      "explanation": "In the storming of Bastille, the commander was killed and the 7 prisoners were released.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_h1_q40",
+      "text": "The word 'Livres' stands for:",
+      "options": ["Tax", "Currency", "Building", "A group of people"],
+      "correctIndex": 1,
+      "explanation": "Livre was the unit of currency in France.",
+      "frequencyRating": 5
+    }
+  ]
+}

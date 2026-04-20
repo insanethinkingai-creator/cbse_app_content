@@ -1,0 +1,330 @@
+{
+  "id": "g9_eng_ch4",
+  "grade": "9",
+  "subject": "English",
+  "number": "4",
+  "title": "A Truly Beautiful Mind",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_e4_q1",
+      "text": "Who is the 'Truly Beautiful Mind' referring to in this chapter?",
+      "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Nikola Tesla"],
+      "correctIndex": 1,
+      "explanation": "The chapter is a short biography of Albert Einstein, highlighting his scientific genius and humanistic outlook.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q2",
+      "text": "When was Albert Einstein born?",
+      "options": ["14 March 1879", "15 August 1947", "14 March 1889", "1 January 1900"],
+      "correctIndex": 0,
+      "explanation": "Albert Einstein was born on March 14, 1879, in the German city of Ulm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q3",
+      "text": "What did Einstein's mother think of him when he was a child?",
+      "options": ["A genius", "A freak", "A normal boy", "A scientist"],
+      "correctIndex": 1,
+      "explanation": "To his mother, Albert was a freak because his head seemed much too large.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q4",
+      "text": "At what age did Einstein finally start speaking?",
+      "options": ["One", "Two and a half", "Four", "Five"],
+      "correctIndex": 1,
+      "explanation": "Einstein was a late talker and didn't start speaking until he was two and a half years old.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q5",
+      "text": "What was Einstein's playmates' nickname for him?",
+      "options": ["Brother Boring", "Little Genius", "Silent Al", "Smarty"],
+      "correctIndex": 0,
+      "explanation": "He didn't know what to do with other children, so they called him 'Brother Boring'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q6",
+      "text": "What kind of toys did Einstein especially love as a child?",
+      "options": ["Soft toys", "Mechanical toys", "Musical instruments", "Building blocks"],
+      "correctIndex": 1,
+      "explanation": "He showed an early interest in the mechanics of things, looking even at his newborn sister as a mechanical toy.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e4_q7",
+      "text": "What did Einstein's headmaster once tell his father?",
+      "options": ["He is a genius", "He will never make a success at anything", "He should study art", "He is very talkative"],
+      "correctIndex": 1,
+      "explanation": "The headmaster had a very low opinion of Albert's future prospects.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q8",
+      "text": "At his mother's insistence, Einstein learned to play which instrument?",
+      "options": ["Piano", "Flute", "Violin", "Guitar"],
+      "correctIndex": 2,
+      "explanation": "He became a gifted amateur violinist, maintaining this skill throughout his life.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q9",
+      "text": "Why did Einstein leave the school in Munich for good?",
+      "options": ["He finished his studies", "He hated the strict regimentation", "He failed his exams", "His family moved away"],
+      "correctIndex": 1,
+      "explanation": "He felt stifled by the strict discipline and often clashed with teachers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q10",
+      "text": "In which country did Einstein wish to continue his education because it was more liberal?",
+      "options": ["Germany", "Switzerland", "Italy", "USA"],
+      "correctIndex": 1,
+      "explanation": "He moved to German-speaking Switzerland, which was more open-minded than Munich.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q11",
+      "text": "Who was the fellow student Einstein fell in love with at the university in Zurich?",
+      "options": ["Elsa", "Mileva Maric", "Marie Curie", "Ann"],
+      "correctIndex": 1,
+      "explanation": "Mileva was a Serbian student whom Einstein found to be a 'clever creature'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q12",
+      "text": "Einstein called his desk drawer at the patent office the '_________'.",
+      "options": ["Bureau of Science", "Bureau of Theoretical Physics", "Drawer of Dreams", "Archive of Invention"],
+      "correctIndex": 1,
+      "explanation": "He was secretly developing his own ideas while supposedly auditing others' inventions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q13",
+      "text": "Einstein's Special Theory of Relativity (1905) gave the famous formula:",
+      "options": ["F = ma", "E = mc²", "a² + b² = c²", "V = IR"],
+      "correctIndex": 1,
+      "explanation": "This formula describes the relationship between mass and energy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q14",
+      "text": "Einstein's General Theory of Relativity (1915) provided a new interpretation of:",
+      "options": ["Electricity", "Gravity", "Light", "Sound"],
+      "correctIndex": 1,
+      "explanation": "It was proved correct by an eclipse of the sun in 1919.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q15",
+      "text": "In which year did Einstein receive the Nobel Prize for Physics?",
+      "options": ["1905", "1915", "1921", "1933"],
+      "correctIndex": 2,
+      "explanation": "He was awarded the Nobel Prize in 1921 for his services to Theoretical Physics.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q16",
+      "text": "Why did Einstein emigrate to the United States in 1933?",
+      "options": ["For a better job", "Because the Nazis came to power in Germany", "To study further", "To win awards"],
+      "correctIndex": 1,
+      "explanation": "As a Jew, he fled the rise of the Nazi regime.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q17",
+      "text": "Einstein wrote a letter to the American President warning about the atomic bomb. Who was the President?",
+      "options": ["Harry Truman", "Franklin D. Roosevelt", "John F. Kennedy", "Woodrow Wilson"],
+      "correctIndex": 1,
+      "explanation": "The letter was dated August 2, 1939.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q18",
+      "text": "How did Einstein react to the atomic bombing of Hiroshima and Nagasaki?",
+      "options": ["He was happy", "He was deeply shaken", "He ignored it", "He took credit"],
+      "correctIndex": 1,
+      "explanation": "The destruction disturbed him so much that he proposed the formation of a world government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q19",
+      "text": "In his later years, Einstein used his popularity to campaign for:",
+      "options": ["More science funding", "Peace and democracy", "Space travel", "His own fame"],
+      "correctIndex": 1,
+      "explanation": "He spent his later years advocating for the end of the arms build-up.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q20",
+      "text": "When Einstein died in 1955, he was celebrated as a:",
+      "options": ["Great mathematician", "Visionary and world citizen", "German hero", "Rich man"],
+      "correctIndex": 1,
+      "explanation": "He was recognized as much for his humanity as for his scientific genius.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q21",
+      "text": "Where was the 'German city' Einstein was born in?",
+      "options": ["Berlin", "Munich", "Ulm", "Hamburg"],
+      "correctIndex": 2,
+      "explanation": "He was born in Ulm, though the family soon moved to Munich.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e4_q22",
+      "text": "What was the name of Einstein's sister?",
+      "options": ["Mileva", "Maja", "Elsa", "Anna"],
+      "correctIndex": 1,
+      "explanation": "The story mentions his sister Maja when he was looking for wheels on her.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e4_q23",
+      "text": "At what age did the family move to Munich?",
+      "options": ["15 months", "5 years", "10 years", "2 years"],
+      "correctIndex": 0,
+      "explanation": "They moved when he was 15 months old.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e4_q24",
+      "text": "Einstein was good at which subject in school?",
+      "options": ["History", "Languages", "Mathematics and Physics", "Art"],
+      "correctIndex": 2,
+      "explanation": "He was highly gifted in mathematics and interested in physics.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q25",
+      "text": "Why did Einstein's mother oppose his marriage to Mileva at first?",
+      "options": ["Mileva was too poor", "Mileva was three years older than Albert", "Mileva was not a scientist", "Mileva was not German"],
+      "correctIndex": 1,
+      "explanation": "She also thought Mileva was 'a book' like Albert, meaning too intellectual.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e4_q26",
+      "text": "In which year did Einstein finally marry Mileva?",
+      "options": ["1900", "1903", "1905", "1919"],
+      "correctIndex": 1,
+      "explanation": "They married in 1903 and had two sons.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e4_q27",
+      "text": "Einstein divorced Mileva in 1919 and married his cousin:",
+      "options": ["Maja", "Elsa", "Anna", "Maria"],
+      "correctIndex": 1,
+      "explanation": "He married Elsa the same year he divorced Mileva.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e4_q28",
+      "text": "What was Einstein's job in 1902?",
+      "options": ["Professor", "Technical expert in a patent office", "Violinist", "Writer"],
+      "correctIndex": 1,
+      "explanation": "He worked at the patent office in Bern.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q29",
+      "text": "Newspapers proclaimed Einstein's work as a '_________'.",
+      "options": ["Scientific Revolution", "Mathematical Miracle", "Great Discovery", "Big Bang"],
+      "correctIndex": 0,
+      "explanation": "His 1919 success with the eclipse led to this headline.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q30",
+      "text": "Einstein wrote a public missive to the _________.",
+      "options": ["US President", "United Nations", "German People", "NASA"],
+      "correctIndex": 1,
+      "explanation": "He proposed a world government in this missive to the UN.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e4_q31",
+      "text": "What does the word 'philistines' mean in the text?",
+      "options": ["Friends", "People who do not like art, music or literature", "Scientists", "Politicians"],
+      "correctIndex": 1,
+      "explanation": "Einstein was at odds with the 'philistines' in his family and at university.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e4_q32",
+      "text": "Einstein was a 'humanist'. This means he believed in:",
+      "options": ["Human welfare and dignity", "Strict laws", "Only science", "Money"],
+      "correctIndex": 0,
+      "explanation": "His focus on peace and world government showed his humanistic side.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q33",
+      "text": "Where did Einstein go to university?",
+      "options": ["Munich", "Berlin", "Zurich", "London"],
+      "correctIndex": 2,
+      "explanation": "He studied at the University of Zurich after leaving school.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e4_q34",
+      "text": "The solar eclipse that proved Einstein's theory happened in:",
+      "options": ["1905", "1915", "1919", "1921"],
+      "correctIndex": 2,
+      "explanation": "The 1919 eclipse confirmed his General Theory of Relativity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q35",
+      "text": "In 'E = mc²', 'c' stands for:",
+      "options": ["Constant", "Speed of light in a vacuum", "Current", "Carbon"],
+      "correctIndex": 1,
+      "explanation": "It is a fundamental constant in physics (~300,000 km/s).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e4_q36",
+      "text": "How old was Einstein when he died?",
+      "options": ["70", "76", "80", "65"],
+      "correctIndex": 1,
+      "explanation": "He was born in 1879 and died in 1955 (1955-1879=76).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e4_q37",
+      "text": "What does 'unraveling' mean in the context of Einstein's marriage?",
+      "options": ["Starting", "Failing", "Succeeding", "Ending"],
+      "correctIndex": 1,
+      "explanation": "His private life (marriage) was unraveling (failing) as he became famous.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e4_q38",
+      "text": "What was the discovery in Berlin that made American physicists upset?",
+      "options": ["Relativity", "Nuclear Fission", "The atom", "Gravity"],
+      "correctIndex": 1,
+      "explanation": "German scientists discovered nuclear fission, leading to fears of a Nazi atomic bomb.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q39",
+      "text": "Einstein is known as a 'citizen of the _______'.",
+      "options": ["Germany", "World", "Science", "America"],
+      "correctIndex": 1,
+      "explanation": "He was recognized as a 'world citizen' due to his global outlook and work for peace.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q40",
+      "text": "The title 'A Truly Beautiful Mind' refers to:",
+      "options": ["His intelligence only", "The combination of his genius and his humanity", "His physical appearance", "His memory"],
+      "correctIndex": 1,
+      "explanation": "It celebrates his intellectual beauty as well as his beautiful heart for humanity.",
+      "frequencyRating": 5
+    }
+  ]
+}

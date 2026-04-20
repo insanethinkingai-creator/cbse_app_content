@@ -1,0 +1,330 @@
+{
+  "id": "g9_eco_ch1",
+  "grade": "9",
+  "subject": "Economics",
+  "number": "1",
+  "title": "The Story of Village Palampur",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_e1_q1",
+      "text": "What is the main production activity in village Palampur?",
+      "options": ["Manufacturing", "Farming", "Dairy", "Transport"],
+      "correctIndex": 1,
+      "explanation": "Farming is the main production activity in Palampur, with 75% of the population dependent on it.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q2",
+      "text": "Which of the following is the first requirement for production?",
+      "options": ["Labour", "Land", "Physical Capital", "Human Capital"],
+      "correctIndex": 1,
+      "explanation": "Land and other natural resources like water and minerals are the basic first requirements for any production.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q3",
+      "text": "Tools, machines, and buildings are examples of:",
+      "options": ["Working capital", "Fixed capital", "Human capital", "Natural capital"],
+      "correctIndex": 1,
+      "explanation": "Fixed capital includes assets that can be used in production over many years.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q4",
+      "text": "Raw materials and money in hand are called:",
+      "options": ["Fixed capital", "Physical capital", "Working capital", "Human capital"],
+      "correctIndex": 2,
+      "explanation": "Working capital consists of items used up in production or required for day-to-day operations.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q5",
+      "text": "The knowledge and enterprise needed to put together land, labour, and physical capital is:",
+      "options": ["Secondary capital", "Human capital", "Industrial capital", "Financial capital"],
+      "correctIndex": 1,
+      "explanation": "Human capital is the fourth requirement for production, involving the human effort and expertise to manage other resources.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q6",
+      "text": "What is the standard unit of measuring land?",
+      "options": ["Bigha", "Guintha", "Hectare", "Acre"],
+      "correctIndex": 2,
+      "explanation": "Hectare is the standard international unit, though local units like Bigha are also used in villages.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q7",
+      "text": "Growing more than one crop on a piece of land during the year is known as:",
+      "options": ["Unicrop farming", "Mixed farming", "Multiple cropping", "Modern farming"],
+      "correctIndex": 2,
+      "explanation": "Multiple cropping is the most common way of increasing production from a fixed amount of land.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q8",
+      "text": "The Green Revolution in the late 1960s introduced the Indian farmer to cultivation of:",
+      "options": ["Sugarcane and Cotton", "Wheat and Rice", "Pulses and Oilseeds", "Jowar and Bajra"],
+      "correctIndex": 1,
+      "explanation": "The Green Revolution focused on increasing the yield of wheat and rice using HYV seeds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q9",
+      "text": "HYV stands for:",
+      "options": ["High Yielding Variety", "High Yearly Value", "Heavy Yielding Volume", "Half Yearly Variety"],
+      "correctIndex": 0,
+      "explanation": "HYV seeds are High Yielding Variety seeds that produce much greater amounts of grain on a single plant.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q10",
+      "text": "Which states were the first to try out modern farming methods in India?",
+      "options": ["Tamil Nadu and Kerala", "Punjab, Haryana and Western UP", "Gujarat and Rajasthan", "Bihar and West Bengal"],
+      "correctIndex": 1,
+      "explanation": "Farmers in Punjab, Haryana, and Western Uttar Pradesh were the pioneers in using modern farming techniques.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q11",
+      "text": "A negative impact of the Green Revolution is:",
+      "options": ["Increase in soil fertility", "Loss of soil fertility due to increased chemical use", "Reduction in water usage", "Increase in forest cover"],
+      "correctIndex": 1,
+      "explanation": "The overuse of chemical fertilizers has led to the loss of soil fertility in many areas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q12",
+      "text": "The continuous use of groundwater for tubewell irrigation has led to:",
+      "options": ["Rising water table", "Depletion of the water table", "Cleaner water", "More rainfall"],
+      "correctIndex": 1,
+      "explanation": "Excessive use of tubewells for irrigation has caused the water table below the ground to reduce significantly.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q13",
+      "text": "How many families live in village Palampur?",
+      "options": ["150", "450", "250", "1000"],
+      "correctIndex": 1,
+      "explanation": "Palampur is a fairly large village with about 450 families belonging to several different castes.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e1_q14",
+      "text": "Most of the land in Palampur is owned by:",
+      "options": ["Landless labourers", "Small farmers", "80 upper caste families", "Dalits"],
+      "correctIndex": 2,
+      "explanation": "The 80 upper caste families own the majority of the land in the village.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q15",
+      "text": "Small farmers borrow money for agriculture from:",
+      "options": ["Banks", "Village moneylenders and large farmers", "Government", "Cooperatives"],
+      "correctIndex": 1,
+      "explanation": "Due to lack of savings, small farmers rely on moneylenders or large farmers for capital at high interest rates.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q16",
+      "text": "The surplus farm products are sold by large farmers in the market at:",
+      "options": ["Palampur", "Raiganj", "Shahpur", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "Large farmers sell their surplus in nearby towns like Raiganj and Shahpur.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e1_q17",
+      "text": "Consumption of chemical fertilizers is highest in which state of India?",
+      "options": ["Punjab", "Haryana", "Rajasthan", "Himachal Pradesh"],
+      "correctIndex": 0,
+      "explanation": "Punjab has the highest consumption of chemical fertilizers in India due to intensive farming.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q18",
+      "text": "Which of the following is a non-farm activity in Palampur?",
+      "options": ["Dairy farming", "Small scale manufacturing", "Shopkeeping", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "About 25% of the people in Palampur are engaged in activities other than agriculture.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q19",
+      "text": "Who provides the labour for medium and large farmers?",
+      "options": ["They work themselves", "Migrant workers from cities", "Small farmers and landless labourers", "Their own children"],
+      "correctIndex": 2,
+      "explanation": "Landless families and farmers cultivating small plots provide the labour required by larger farms.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q20",
+      "text": "Mishrilal's activity of sugar-cane crushing is an example of:",
+      "options": ["Farming", "Small-scale manufacturing", "Trading", "Transport"],
+      "correctIndex": 1,
+      "explanation": "Setting up a mechanical sugarcane crushing machine is a small-scale manufacturing activity.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e1_q21",
+      "text": "Kishora's activity involving a buffalo and a wooden cart is categorized as:",
+      "options": ["Manufacturing", "Transport", "Farming", "Dairy"],
+      "correctIndex": 1,
+      "explanation": "Kishora uses his buffalo to transport goods to Shahpur, earning extra income.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e1_q22",
+      "text": "What is the main reason why farmers are able to grow three different crops in a year in Palampur?",
+      "options": ["Good rainfall", "Well-developed system of irrigation", "Fertile soil", "Availability of cheap labour"],
+      "correctIndex": 1,
+      "explanation": "Electric-run tubewells revolutionized irrigation, allowing year-round cultivation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q23",
+      "text": "Modern farming methods require more:",
+      "options": ["Manual labour", "Natural seeds", "Cash and capital", "Bullocks"],
+      "correctIndex": 2,
+      "explanation": "HYV seeds, fertilizers, and machinery require a higher initial investment of money.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q24",
+      "text": "Capital is a __________ factor of production.",
+      "options": ["Natural", "Man-made", "Biological", "Fixed and never changing"],
+      "correctIndex": 1,
+      "explanation": "Physical capital like tools and money are man-made requirements for production.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q25",
+      "text": "One hectare equals the area of a square with one side measuring:",
+      "options": ["10 metres", "100 metres", "50 metres", "1000 metres"],
+      "correctIndex": 1,
+      "explanation": "1 Hectare = 10,000 square metres (100m x 100m).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q26",
+      "text": "Wages for farm labourers in Palampur are often ________ than the minimum wages set by the government.",
+      "options": ["Higher", "Lower", "Equal", "Twice"],
+      "correctIndex": 1,
+      "explanation": "Heavy competition for work among farm labourers drives down the wages.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q27",
+      "text": "Large and medium farmers obtain capital for farming from:",
+      "options": ["Moneylenders", "Their own savings", "Banks only", "Government grants"],
+      "correctIndex": 1,
+      "explanation": "Surplus production allows large farmers to save money for the next season's capital.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q28",
+      "text": "Kharif crops are grown during which season?",
+      "options": ["Winter", "Rainy", "Summer", "Spring"],
+      "correctIndex": 1,
+      "explanation": "Kharif crops like Jowar and Bajra are grown during the rainy season (July-October).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q29",
+      "text": "Rabi crops like wheat are sown in:",
+      "options": ["June", "October/November", "March", "August"],
+      "correctIndex": 1,
+      "explanation": "Rabi crops are winter crops, sown as the monsoon retreats.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q30",
+      "text": "The use of chemical fertilizers can kill:",
+      "options": ["Only weeds", "Bacteria and other microorganisms in the soil", "The crops", "The farmers"],
+      "correctIndex": 1,
+      "explanation": "Chemicals can harm the natural ecosystem of the soil, making it less fertile over time.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q31",
+      "text": "Dairy is a common activity in many families of Palampur. The milk is sold in:",
+      "options": ["Shahpur", "Raiganj", "Delhi", "Lucknow"],
+      "correctIndex": 1,
+      "explanation": "Raiganj, a big village 3km away, serves as a primary market for milk.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e1_q32",
+      "text": "What is the working capital for a potter?",
+      "options": ["The wheel", "Clay and money", "The kiln", "His hands"],
+      "correctIndex": 1,
+      "explanation": "Raw materials (clay) and money are used up in the production process.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q33",
+      "text": "Why do many landless labourers migrate from villages?",
+      "options": ["For better education", "In search of work in cities", "To buy more land", "For tourism"],
+      "correctIndex": 1,
+      "explanation": "Lack of opportunities and low wages in villages force migration to urban areas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q34",
+      "text": "Multiple cropping is possible because of:",
+      "options": ["Lack of rain", "Expansion of irrigation", "Traditional seeds", "Decrease in population"],
+      "correctIndex": 1,
+      "explanation": "Modern irrigation allows farmers to grow crops even when there is no rain.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q35",
+      "text": "Money in hand for a farmer is used to buy:",
+      "options": ["Tractors", "Seeds and fertilizers", "Land", "Buildings"],
+      "correctIndex": 1,
+      "explanation": "Working capital (cash) is needed for immediate inputs like seeds.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q36",
+      "text": "In Palampur, who owned the majority of the land?",
+      "options": ["The Dalits", "The SCs", "The 80 upper caste families", "The small farmers"],
+      "correctIndex": 2,
+      "explanation": "Land distribution is unequal, with the upper castes owning most of the productive land.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e1_q37",
+      "text": "Farm labourers are people who work on the land of:",
+      "options": ["Their own", "Other farmers", "Government", "Forests"],
+      "correctIndex": 1,
+      "explanation": "They are either landless or have very small plots and work for wages.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q38",
+      "text": "The shopkeepers in Palampur buy goods from ________ and sell them in the village.",
+      "options": ["Farmers", "Wholesale markets in cities", "Other villages", "Directly from factories"],
+      "correctIndex": 1,
+      "explanation": "Traders buy variety of goods from city wholesalers to sell to villagers.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e1_q39",
+      "text": "Every production is organized by combining land, labour, physical capital and human capital, which are known as:",
+      "options": ["Results of production", "Factors of production", "Stages of production", "Incomes of production"],
+      "correctIndex": 1,
+      "explanation": "These four elements are the essential pillars required to produce goods or services.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e1_q40",
+      "text": "The aim of production is to produce:",
+      "options": ["Profit", "Goods and services that we want", "Employment", "Money"],
+      "correctIndex": 1,
+      "explanation": "The primary objective of any production activity is to satisfy human wants through goods and services.",
+      "frequencyRating": 5
+    }
+  ]
+}

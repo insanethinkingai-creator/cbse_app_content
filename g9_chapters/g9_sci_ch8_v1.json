@@ -1,0 +1,330 @@
+{
+  "id": "g9_sci_ch8",
+  "grade": "9",
+  "subject": "Science",
+  "number": "8",
+  "title": "Force and Laws of Motion",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_s8_q1",
+      "text": "The tendency of undisturbed objects to stay at rest or keep moving with the same velocity is called:",
+      "options": ["Momentum", "Inertia", "Force", "Friction"],
+      "correctIndex": 1,
+      "explanation": "Inertia is the natural resistance of an object to any change in its state of motion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q2",
+      "text": "Newton's second law of motion gives us a measure of:",
+      "options": ["Inertia", "Force", "Acceleration", "Velocity"],
+      "correctIndex": 1,
+      "explanation": "F = ma. The second law quantifies force as the product of mass and acceleration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q3",
+      "text": "The momentum of an object of mass 'm' moving with a velocity 'v' is:",
+      "options": ["mv²", "1/2 mv²", "mv", "m/v"],
+      "correctIndex": 2,
+      "explanation": "Momentum is the product of mass and velocity (p = mv).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q4",
+      "text": "When a passenger in a moving bus leans forward when the bus brakes suddenly, it is due to:",
+      "options": ["Inertia of rest", "Inertia of motion", "Momentum", "Newton's Third Law"],
+      "correctIndex": 1,
+      "explanation": "The upper body continues to move forward due to inertia while the bus stops.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q5",
+      "text": "A fielder pulls his hands backwards while catching a cricket ball to:",
+      "options": ["Increase the force", "Reduce the force", "Increase the momentum", "Reduce the time of impact"],
+      "correctIndex": 1,
+      "explanation": "By increasing the time of catch, the rate of change of momentum (force) is reduced.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q6",
+      "text": "For every action, there is an equal and opposite reaction. This is Newton's:",
+      "options": ["First Law", "Second Law", "Third Law", "Law of Gravitation"],
+      "correctIndex": 2,
+      "explanation": "The third law describes how forces always exist in action-reaction pairs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q7",
+      "text": "If the mass of an object is doubled while the force remains constant, the acceleration will be:",
+      "options": ["Doubled", "Halved", "Quadrupled", "Zero"],
+      "correctIndex": 1,
+      "explanation": "Since a = F/m, doubling mass results in half the acceleration.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s8_q8",
+      "text": "The SI unit of force is:",
+      "options": ["kg m/s", "Newton (N)", "Watt", "Pascal"],
+      "correctIndex": 1,
+      "explanation": "One Newton is defined as 1 kg·m/s².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q9",
+      "text": "In a collision between a small car and a heavy truck, which experiences a greater force?",
+      "options": ["Car", "Truck", "Both experience equal force", "Depends on speed"],
+      "correctIndex": 2,
+      "explanation": "According to Newton's Third Law, the action and reaction forces are equal and opposite.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s8_q10",
+      "text": "The total momentum of an isolated system remains constant. This is known as:",
+      "options": ["Law of Inertia", "Law of Conservation of Momentum", "Newton's Second Law", "Law of Friction"],
+      "correctIndex": 1,
+      "explanation": "In the absence of external force, total momentum before and after impact is the same.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q11",
+      "text": "The measure of inertia of an object is its:",
+      "options": ["Force", "Mass", "Velocity", "Volume"],
+      "correctIndex": 1,
+      "explanation": "Mass is a quantitative measure of inertia; heavier objects are harder to move or stop.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q12",
+      "text": "Newton's First Law is also known as the:",
+      "options": ["Law of Momentum", "Law of Inertia", "Law of Force", "Law of Action-Reaction"],
+      "correctIndex": 1,
+      "explanation": "It states that an object resists changes to its state of motion (inertia).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q13",
+      "text": "When we shake the branch of a tree, some leaves get detached due to:",
+      "options": ["Inertia of rest", "Inertia of motion", "Gravity", "Friction"],
+      "correctIndex": 0,
+      "explanation": "The branch moves while the leaves tend to stay at rest due to inertia.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q14",
+      "text": "Force is required to change the ________ of an object.",
+      "options": ["Speed only", "Direction only", "State of rest or motion", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Force is the external agency that changes velocity (speed or direction) or state of rest.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q15",
+      "text": "A bullet of mass 10g is fired from a gun of mass 2kg with velocity 100 m/s. The recoil velocity of the gun is:",
+      "options": ["0.5 m/s", "5 m/s", "0.25 m/s", "2 m/s"],
+      "correctIndex": 0,
+      "explanation": "mv = MV. (0.01kg * 100m/s) = 2kg * V. V = 1/2 = 0.5 m/s.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s8_q16",
+      "text": "The product of force and time for which it acts is called:",
+      "options": ["Momentum", "Impulse", "Power", "Work"],
+      "correctIndex": 1,
+      "explanation": "Impulse (F * t) is equal to the change in momentum of the object.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s8_q17",
+      "text": "Balanced forces acting on a body ________.",
+      "options": ["Cannot change its speed", "Can change its shape", "Cannot change its state of rest", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Balanced forces have zero net force, so they don't change motion but can deform objects.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s8_q18",
+      "text": "Why do athletes jump on a sand bed or cushion?",
+      "options": ["To increase inertia", "To reduce force by increasing time", "To increase momentum", "To jump higher"],
+      "correctIndex": 1,
+      "explanation": "Sand bed increases the time taken to stop, reducing the impact force (Rate of momentum change).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q19",
+      "text": "Rocket propulsion is based on the principle of ________.",
+      "options": ["Conservation of mass", "Conservation of momentum", "Conservation of energy", "Newton's First Law"],
+      "correctIndex": 1,
+      "explanation": "Backward momentum of gases equals forward momentum of the rocket.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q20",
+      "text": "The SI unit of momentum is:",
+      "options": ["kg m/s", "kg m/s²", "Newton", "Joule"],
+      "correctIndex": 0,
+      "explanation": "Momentum = mass (kg) * velocity (m/s).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q21",
+      "text": "When a carpet is beaten with a stick, dust comes out due to:",
+      "options": ["Inertia of rest", "Inertia of motion", "Impulse", "Newton's Third Law"],
+      "correctIndex": 0,
+      "explanation": "Carpet moves suddenly while dust particles tend to stay at rest.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q22",
+      "text": "Action and reaction forces ________.",
+      "options": ["Act on the same body", "Act on different bodies", "Are in the same direction", "Cancel each other out"],
+      "correctIndex": 1,
+      "explanation": "Action and reaction always act on two different interacting objects.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q23",
+      "text": "If no external force acts on a system of bodies, their total momentum ________.",
+      "options": ["Becomes zero", "Increases", "Remains constant", "Decreases"],
+      "correctIndex": 2,
+      "explanation": "This is the statement of the Law of Conservation of Momentum.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q24",
+      "text": "A force of 5N gives a mass m1 an acceleration of 10 m/s². The mass m1 is:",
+      "options": ["0.5 kg", "2 kg", "50 kg", "5 kg"],
+      "correctIndex": 0,
+      "explanation": "m = F/a = 5/10 = 0.5 kg.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q25",
+      "text": "Friction is a ________ force.",
+      "options": ["Contact", "Non-contact", "Magnetic", "Gravitational"],
+      "correctIndex": 0,
+      "explanation": "Friction arises due to the contact between two surfaces.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q26",
+      "text": "Why is it difficult to walk on a oily or slippery floor?",
+      "options": ["Friction is very high", "Friction is very low", "Inertia is high", "Floor is hard"],
+      "correctIndex": 1,
+      "explanation": "Reduced friction makes it hard to get the necessary reaction force to push forward.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s8_q27",
+      "text": "The rate of change of momentum is directly proportional to ________.",
+      "options": ["Mass", "Velocity", "Applied Force", "Time"],
+      "correctIndex": 2,
+      "explanation": "This is the mathematical statement of Newton's Second Law.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q28",
+      "text": "A passenger in a moving train tosses a coin. The coin falls behind him. The train is moving with:",
+      "options": ["Acceleration", "Retardation", "Uniform velocity", "Circular motion"],
+      "correctIndex": 0,
+      "explanation": "The train speeds up while the coin maintains the previous horizontal speed.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s8_q29",
+      "text": "Swimming is possible due to Newton's ________.",
+      "options": ["First Law", "Second Law", "Third Law", "Gravitation Law"],
+      "correctIndex": 2,
+      "explanation": "Swimmer pushes water back (action) and water pushes swimmer forward (reaction).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q30",
+      "text": "The inertia of a body depends on its ________.",
+      "options": ["Shape", "Size", "Mass", "Speed"],
+      "correctIndex": 2,
+      "explanation": "Mass is the fundamental property that determines inertia.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q31",
+      "text": "Which law of motion is used to define the unit of force?",
+      "options": ["First Law", "Second Law", "Third Law", "None"],
+      "correctIndex": 1,
+      "explanation": "Second Law (F=ma) is used to define 1 Newton (1 kg m/s²).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q32",
+      "text": "A body of mass 2kg is moving with velocity 5 m/s. Its momentum is:",
+      "options": ["2.5 kg m/s", "10 kg m/s", "7 kg m/s", "0.4 kg m/s"],
+      "correctIndex": 1,
+      "explanation": "p = m * v = 2 * 5 = 10 kg m/s.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q33",
+      "text": "If a net force acts on an object, the object will ________.",
+      "options": ["Stay at rest", "Accelerate", "Move with uniform speed", "Stop immediately"],
+      "correctIndex": 1,
+      "explanation": "An unbalanced force causes a change in velocity (acceleration).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q34",
+      "text": "Internal forces in a system ________ change the total momentum.",
+      "options": ["Can", "Cannot", "Always", "Partially"],
+      "correctIndex": 1,
+      "explanation": "Only external forces can change the total momentum of a system.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s8_q35",
+      "text": "Force is a ________ quantity.",
+      "options": ["Scalar", "Vector", "Dimensionless", "Fixed"],
+      "correctIndex": 1,
+      "explanation": "Force has both magnitude and direction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q36",
+      "text": "Why does a passenger lean outwards when a bus takes a sharp turn?",
+      "options": ["Inertia of rest", "Inertia of motion", "Inertia of direction", "Gravity"],
+      "correctIndex": 2,
+      "explanation": "The body tends to maintain its original direction of motion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q37",
+      "text": "If you push a wall with 10N force, the wall pushes you with:",
+      "options": ["0N", "5N", "10N", "20N"],
+      "correctIndex": 2,
+      "explanation": "Action and reaction are always equal in magnitude.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q38",
+      "text": "Which has more inertia: a bicycle or a train?",
+      "options": ["Bicycle", "Train", "Both equal", "Depends on speed"],
+      "correctIndex": 1,
+      "explanation": "A train has much more mass, therefore much more inertia.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q39",
+      "text": "Newton's Second Law relates force, mass, and ________.",
+      "options": ["Velocity", "Acceleration", "Time", "Displacement"],
+      "correctIndex": 1,
+      "explanation": "The formula F = ma connects these three quantities.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s8_q40",
+      "text": "Momentum of a body at rest is:",
+      "options": ["Maximum", "Infinite", "Zero", "1"],
+      "correctIndex": 2,
+      "explanation": "Since v = 0, p = m * 0 = 0.",
+      "frequencyRating": 5
+    }
+  ]
+}

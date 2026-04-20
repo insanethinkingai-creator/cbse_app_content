@@ -1,0 +1,330 @@
+{
+  "id": "g9_math_ch14",
+  "grade": "9",
+  "subject": "Mathematics",
+  "number": "14",
+  "title": "Statistics",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_m14_q1",
+      "text": "The information collected in the form of numerical figures is called:",
+      "options": ["Variable", "Data", "Frequency", "Graph"],
+      "correctIndex": 1,
+      "explanation": "Data is the raw information gathered for statistical purposes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m14_q2",
+      "text": "Data collected by the investigator himself for a specific purpose is called:",
+      "options": ["Primary data", "Secondary data", "Grouped data", "Raw data"],
+      "correctIndex": 0,
+      "explanation": "Primary data is first-hand information collected by the researcher.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m14_q3",
+      "text": "Data obtained from a source which already had the information is called:",
+      "options": ["Primary data", "Secondary data", "Discrete data", "None"],
+      "correctIndex": 1,
+      "explanation": "Secondary data is gathered from existing records like newspapers or websites.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m14_q4",
+      "text": "The number of times a particular observation occurs is called its:",
+      "options": ["Range", "Frequency", "Class mark", "Tally"],
+      "correctIndex": 1,
+      "explanation": "Frequency represents the repetition count of an observation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m14_q5",
+      "text": "The difference between the maximum and minimum values of the data is called:",
+      "options": ["Class size", "Class mark", "Range", "Frequency"],
+      "correctIndex": 2,
+      "explanation": "Range = Maximum value - Minimum value.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m14_q6",
+      "text": "In a grouped frequency distribution, 10-20, 20-30, etc., the value '20' is included in:",
+      "options": ["10-20", "20-30", "Both", "None"],
+      "correctIndex": 1,
+      "explanation": "In continuous intervals, the lower limit is included and the upper limit is excluded.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m14_q7",
+      "text": "The class mark of the class interval 130-150 is:",
+      "options": ["130", "140", "150", "20"],
+      "correctIndex": 1,
+      "explanation": "Class mark = (Upper Limit + Lower Limit) / 2 = (130+150)/2 = 140.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m14_q8",
+      "text": "The width of the class interval 10.5-15.5 is:",
+      "options": ["10.5", "15.5", "5", "26"],
+      "correctIndex": 2,
+      "explanation": "Class width = Upper Limit - Lower Limit = 15.5 - 10.5 = 5.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m14_q9",
+      "text": "Which graph consists of rectangles with no gaps between them?",
+      "options": ["Bar graph", "Histogram", "Pie chart", "Pictograph"],
+      "correctIndex": 1,
+      "explanation": "Histograms represent continuous data, so rectangles are adjacent.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m14_q10",
+      "text": "A zig-zag line (kink) is used on an axis of a histogram when:",
+      "options": ["Data is large", "The scale doesn't start from zero", "Frequency is zero", "None"],
+      "correctIndex": 1,
+      "explanation": "A kink indicates a break in the scale to show values far from the origin.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m14_q11",
+      "text": "In a histogram, the area of the rectangles is proportional to:",
+      "options": ["Class mark", "Frequency", "Range", "Class size"],
+      "correctIndex": 1,
+      "explanation": "If class widths are equal, the height (and area) is proportional to frequency.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m14_q12",
+      "text": "To construct a frequency polygon, we plot points using:",
+      "options": ["Lower limits", "Upper limits", "Class marks", "Tally marks"],
+      "correctIndex": 2,
+      "explanation": "Frequency polygons are drawn by joining the midpoints (class marks) of the tops of histogram bars.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m14_q13",
+      "text": "Which measure is NOT a graphical representation of data in Grade 9 syllabus?",
+      "options": ["Bar graph", "Histogram", "Frequency polygon", "Mean"],
+      "correctIndex": 3,
+      "explanation": "Mean is an algebraic measure of central tendency, not a graph.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m14_q14",
+      "text": "Tally marks are used to find:",
+      "options": ["Range", "Class mark", "Frequency", "Upper limit"],
+      "correctIndex": 2,
+      "explanation": "Tally marks help in counting occurrences to determine frequency.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m14_q15",
+      "text": "Range of the data 25, 18, 20, 22, 16, 6, 17, 15, 12, 30, 32, 10, 19, 8, 11, 20 is:",
+      "options": ["10", "15", "26", "32"],
+      "correctIndex": 2,
+      "explanation": "Max = 32, Min = 6. Range = 32 - 6 = 26.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m14_q16",
+      "text": "The class mark of a class is 10 and its width is 6. The upper limit of the class is:",
+      "options": ["7", "10", "13", "16"],
+      "correctIndex": 2,
+      "explanation": "Lower limit = 10 - 6/2 = 7. Upper limit = 10 + 6/2 = 13.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m14_q17",
+      "text": "In a frequency distribution, the mid-value of a class is 10 and the width of each class is 6. The lower limit is:",
+      "options": ["7", "8", "12", "13"],
+      "correctIndex": 0,
+      "explanation": "Lower limit = Midpoint - (Width/2) = 10 - 3 = 7.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m14_q18",
+      "text": "Frequency polygons can be drawn without a histogram by using:",
+      "options": ["Class marks", "Tally marks", "Pictographs", "None"],
+      "correctIndex": 0,
+      "explanation": "You can directly plot class marks against frequencies and join them.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m14_q19",
+      "text": "Which graph is most suitable for showing categorical data like 'Favorite Subject' of students?",
+      "options": ["Histogram", "Bar graph", "Frequency polygon", "Line graph"],
+      "correctIndex": 1,
+      "explanation": "Bar graphs are best for non-continuous, categorical variables.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m14_q20",
+      "text": "In a histogram, the width of rectangles represents:",
+      "options": ["Frequency", "Class size", "Cumulative frequency", "Range"],
+      "correctIndex": 1,
+      "explanation": "The horizontal width of each bar corresponds to the class interval size.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m14_q21",
+      "text": "The sum of the frequencies of all classes is equal to:",
+      "options": ["Range", "Total number of observations", "Class mark", "Mean"],
+      "correctIndex": 1,
+      "explanation": "Total frequency (Σf) is the total count of the sample.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m14_q22",
+      "text": "To make class intervals 1-10, 11-20 continuous, we subtract ________ from lower limits and add to upper limits.",
+      "options": ["1", "0.5", "0.1", "5"],
+      "correctIndex": 1,
+      "explanation": "The gap is 1, so we use half of the gap (0.5) as the adjustment factor.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m14_q23",
+      "text": "In a frequency polygon, the points are joined by:",
+      "options": ["Curves", "Straight line segments", "Dotted lines", "None"],
+      "correctIndex": 1,
+      "explanation": "It is a closed plane figure formed by joining line segments.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m14_q24",
+      "text": "To close a frequency polygon at both ends, we assume the frequency of the preceding and succeeding classes to be:",
+      "options": ["1", "Max frequency", "0", "Average frequency"],
+      "correctIndex": 2,
+      "explanation": "The polygon is extended to the x-axis where frequency is zero.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m14_q25",
+      "text": "If the class intervals have varying widths, the heights of the rectangles in a histogram are adjusted as:",
+      "options": ["Frequency / Class Width", "Frequency * Class Width", "Class Width / Frequency", "No change"],
+      "correctIndex": 0,
+      "explanation": "Adjusted frequency = (Frequency / Width) * Minimum Width.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g9_m14_q26",
+      "text": "Which of the following is a primary source of data?",
+      "options": ["School register", "Direct interview", "Census report", "Newspaper"],
+      "correctIndex": 1,
+      "explanation": "An interview is a direct method of data collection by the investigator.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m14_q27",
+      "text": "A grouped frequency distribution has classes 0-9, 10-19, 20-29. The class 10-19 is called:",
+      "options": ["Inclusive class", "Exclusive class", "Continuous class", "None"],
+      "correctIndex": 0,
+      "explanation": "Inclusive classes include both limits within the group.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m14_q28",
+      "text": "The class mark of 90-120 is:",
+      "options": ["90", "105", "115", "120"],
+      "correctIndex": 1,
+      "explanation": "(90+120)/2 = 210/2 = 105.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m14_q29",
+      "text": "If the range of data is 28 and the number of classes is 7, then the class size is:",
+      "options": ["4", "7", "21", "35"],
+      "correctIndex": 0,
+      "explanation": "Class size = Range / Number of classes = 28 / 7 = 4.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m14_q30",
+      "text": "Which data collection method is least reliable if not done carefully?",
+      "options": ["Experimentation", "Mailed questionnaire", "Observation", "Personal interview"],
+      "correctIndex": 1,
+      "explanation": "Mailed questionnaires have a low response rate and risk of misinterpretation.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g9_m14_q31",
+      "text": "What is the frequency of '7' in data: 7, 8, 9, 7, 10, 7, 11, 7, 7?",
+      "options": ["3", "4", "5", "1"],
+      "correctIndex": 2,
+      "explanation": "'7' appears five times.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m14_q32",
+      "text": "In a bar graph, the ________ of bars remains same.",
+      "options": ["Height", "Width", "Frequency", "Area"],
+      "correctIndex": 1,
+      "explanation": "Bars have uniform width, while height represents frequency.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m14_q33",
+      "text": "The difference between upper and lower limit is also known as:",
+      "options": ["Class mark", "Class size", "Midpoint", "Mean"],
+      "correctIndex": 1,
+      "explanation": "This is also called class width or interval length.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m14_q34",
+      "text": "Histogram is a representation of ________ variable.",
+      "options": ["Discrete", "Qualitative", "Continuous", "Categorical"],
+      "correctIndex": 2,
+      "explanation": "Histograms are used for data involving continuous intervals.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m14_q35",
+      "text": "Frequency polygon is used to compare ________ sets of data.",
+      "options": ["Only one", "Two or more", "Zero", "None"],
+      "correctIndex": 1,
+      "explanation": "Overlaying two polygons on the same axes allows for easy comparison.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m14_q36",
+      "text": "The tally mark for frequency 6 is:",
+      "options": ["||||||", "卌 |", "卌 ||", "V |"],
+      "correctIndex": 1,
+      "explanation": "A bundle of 5 plus one extra stroke.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m14_q37",
+      "text": "If n=100 and the class size is 10, the range could be:",
+      "options": ["10", "100", "50", "90"],
+      "correctIndex": 3,
+      "explanation": "Range ≈ Number of classes * Size. This varies but 90 is a logical fit for many classes.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g9_m14_q38",
+      "text": "Statistical study involves:",
+      "options": ["Collection of data", "Organisation of data", "Analysis and Interpretation", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Statistics is the science of handling data from start to finish.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m14_q39",
+      "text": "A pictograph uses ________ to represent data.",
+      "options": ["Bars", "Points", "Pictures/Symbols", "Circles"],
+      "correctIndex": 2,
+      "explanation": "Pictographs use symbols to show quantities visually.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m14_q40",
+      "text": "In a histogram, the frequency is plotted on:",
+      "options": ["X-axis", "Y-axis", "Both", "None"],
+      "correctIndex": 1,
+      "explanation": "X-axis usually represents class intervals, Y-axis represents frequency.",
+      "frequencyRating": 5
+    }
+  ]
+}

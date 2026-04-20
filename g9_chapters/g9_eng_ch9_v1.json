@@ -1,0 +1,330 @@
+{
+  "id": "g9_eng_ch9",
+  "grade": "9",
+  "subject": "English",
+  "number": "9",
+  "title": "If I Were You",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_e9_q1",
+      "text": "Who is the protagonist of the play 'If I Were You'?",
+      "options": ["Gerrard", "The Intruder", "Douglas James", "The Sergeant"],
+      "correctIndex": 0,
+      "explanation": "Gerrard is the main character who lives in a lonely cottage.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e9_q2",
+      "text": "What is Gerrard's full name?",
+      "options": ["Arthur Gerrard", "Vincent Charles Gerrard", "Douglas Gerrard", "James Gerrard"],
+      "correctIndex": 1,
+      "explanation": "His full name is Vincent Charles Gerrard.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e9_q3",
+      "text": "Where does Gerrard live?",
+      "options": ["In a city flat", "In a small cottage in Essex", "In a hotel", "In a village farm"],
+      "correctIndex": 1,
+      "explanation": "Gerrard lives in a small cottage in the wilds of Essex.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e9_q4",
+      "text": "What is Gerrard's profession?",
+      "options": ["Lawyer", "Teacher", "Playwright", "Detective"],
+      "correctIndex": 2,
+      "explanation": "Gerrard is associated with the theatre and writes plays.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e9_q5",
+      "text": "Who enters Gerrard's cottage with a revolver?",
+      "options": ["A policeman", "An Intruder", "His friend", "A delivery man"],
+      "correctIndex": 1,
+      "explanation": "An Intruder, who looks similar to Gerrard, enters his house illegally.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e9_q6",
+      "text": "Why does the Intruder want to kill Gerrard?",
+      "options": ["For money", "To take his identity", "Because of an old grudge", "He is a serial killer"],
+      "correctIndex": 1,
+      "explanation": "The Intruder plans to kill Gerrard and live under his name to escape the police.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e9_q7",
+      "text": "What crime has the Intruder committed?",
+      "options": ["Theft", "He killed a policeman", "Bank robbery", "Kidnapping"],
+      "correctIndex": 1,
+      "explanation": "The Intruder is a criminal who is being chased for killing a cop.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e9_q8",
+      "text": "How does Gerrard react to the Intruder's presence?",
+      "options": ["He panics", "He remains calm and conversational", "He faints", "He attacks him immediately"],
+      "correctIndex": 1,
+      "explanation": "Gerrard keeps his cool and uses his wit to handle the situation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e9_q9",
+      "text": "Gerrard calls himself a 'mystery man' because:",
+      "options": ["He is a spy", "He often disappears and doesn't see many people", "He is a magician", "He has no name"],
+      "correctIndex": 1,
+      "explanation": "His lifestyle of staying alone and infrequent social visits makes him appear mysterious.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e9_q10",
+      "text": "What lie does Gerrard tell the Intruder to save himself?",
+      "options": ["He is a billionaire", "He is also a criminal on the run", "The police are outside", "He is a sick man"],
+      "correctIndex": 1,
+      "explanation": "Gerrard convinces the Intruder that he himself is a murderer and expects the police any minute.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e9_q11",
+      "text": "Gerrard shows the Intruder a ______ as proof of his 'criminal' life.",
+      "options": ["Gun", "Bag with a disguise (false moustache, etc.)", "Stolen jewels", "Newspaper cutting"],
+      "correctIndex": 1,
+      "explanation": "He shows his theatre props and costumes to convince the Intruder he is hiding his identity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e9_q12",
+      "text": "Where does Gerrard trap the Intruder?",
+      "options": ["In the bathroom", "In the cellar", "In a cupboard", "Under the bed"],
+      "correctIndex": 2,
+      "explanation": "Gerrard tricks the Intruder into stepping into a cupboard and locks him in.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e9_q13",
+      "text": "What does Gerrard do after locking the Intruder in the cupboard?",
+      "options": ["He runs away", "He calls the police/Sergeant", "He kills him", "He continues packing"],
+      "correctIndex": 1,
+      "explanation": "He picks up the phone to call the police to take the criminal away.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e9_q14",
+      "text": "The Intruder is described as being 'not very ______'.",
+      "options": ["Tall", "Intelligent", "Scary", "Fast"],
+      "correctIndex": 1,
+      "explanation": "Gerrard insults the Intruder's lack of imagination and wit during their conversation.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e9_q15",
+      "text": "What kind of car does Gerrard own?",
+      "options": ["A sports car", "He doesn't have one", "A bus", "A bicycle"],
+      "correctIndex": 0,
+      "explanation": "The play mentions Gerrard's car, which the Intruder intended to use.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g9_e9_q16",
+      "text": "Gerrard says, 'At last a sympathetic ______!'",
+      "options": ["Friend", "Listener", "Audience", "Intruder"],
+      "correctIndex": 2,
+      "explanation": "He uses theatrical language to mock the situation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e9_q17",
+      "text": "The Intruder's specialty in crime was:",
+      "options": ["Jewel robbery", "Murder", "Forgery", "Smuggling"],
+      "correctIndex": 0,
+      "explanation": "He mentions that his specialty was jewel robbery.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e9_q18",
+      "text": "Gerrard tells the Intruder that his ______ was a disaster.",
+      "options": ["Play", "Life", "Previous escape", "Friendship"],
+      "correctIndex": 2,
+      "explanation": "He invents a story about one of his men being caught with incriminating evidence.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e9_q19",
+      "text": "Why was the Intruder 'unlucky' in his previous job?",
+      "options": ["He lost his gun", "He met a cop", "He didn't find gold", "His car broke down"],
+      "correctIndex": 1,
+      "explanation": "He says he was unlucky because in Aylesbury he shot a cop.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e9_q20",
+      "text": "What is the theme of the play?",
+      "options": ["Violence wins", "Wit and presence of mind can overcome danger", "Crime pays", "Trust everyone"],
+      "correctIndex": 1,
+      "explanation": "The play shows how Gerrard saves his life using his intelligence and cool head.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e9_q21",
+      "text": "The word 'nonchalant' used by the Intruder means:",
+      "options": ["Angry", "Calm and relaxed", "Scared", "Excited"],
+      "correctIndex": 1,
+      "explanation": "The Intruder asks Gerrard to be 'nonchalant' or casual.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e9_q22",
+      "text": "Gerrard is a ______ for the local garage.",
+      "options": ["Mechanic", "Customer", "Owner", "Mystery"],
+      "correctIndex": 3,
+      "explanation": "Gerrard's habits of calling for things but not appearing in person are mentioned.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g9_e9_q23",
+      "text": "The play ends with Gerrard finding a ______ for his next play.",
+      "options": ["Hero", "New plot", "Gun", "Friend"],
+      "correctIndex": 1,
+      "explanation": "He says the incident will make a good plot for his next play.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e9_q24",
+      "text": "What was Gerrard doing when the Intruder entered?",
+      "options": ["Eating dinner", "Sleeping", "Packing a travelling bag", "Reading"],
+      "correctIndex": 2,
+      "explanation": "Gerrard was busy packing as he had to leave for a rehearsal.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e9_q25",
+      "text": "The Intruder's appearance is similar to Gerrard's. This is called a:",
+      "options": ["Coincidence", "Look-alike", "Doppelganger", "Identical twin"],
+      "correctIndex": 1,
+      "explanation": "The Intruder is of similar build and wears clothes like Gerrard's to facilitate the identity theft.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e9_q26",
+      "text": "Gerrard uses the phrase 'patter of a ______'.",
+      "options": ["Dramatist", "Criminal", "Clown", "Child"],
+      "correctIndex": 0,
+      "explanation": "He refers to his own way of talking as that of a person involved in drama.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e9_q27",
+      "text": "Who does Gerrard say is posted on the main road to warn him?",
+      "options": ["The police", "A 'lucky' friend", "His brother", "A stranger"],
+      "correctIndex": 1,
+      "explanation": "He tells the Intruder he has a man on the lookout to warn him if the police arrive.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e9_q28",
+      "text": "The cupboard door, which the Intruder thought was an exit, was actually a ______.",
+      "options": ["Trap", "Window", "Wardrobe", "Crate"],
+      "correctIndex": 2,
+      "explanation": "Gerrard convinces the Intruder it is the exit to the garage, but it's just a cupboard.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e9_q29",
+      "text": "Gerrard's 'Mystery' is finally explained to the Intruder as:",
+      "options": ["He is a spy", "He is a murderer himself", "He is a ghost", "He is a king"],
+      "correctIndex": 1,
+      "explanation": "This is the 'mystery' Gerrard fabricates to trick the Intruder.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e9_q30",
+      "text": "The author of this play is:",
+      "options": ["Douglas James", "Anton Chekhov", "Oscar Wilde", "William Shakespeare"],
+      "correctIndex": 0,
+      "explanation": "The play 'If I Were You' is written by Douglas James.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e9_q31",
+      "text": "How does Gerrard disarm the Intruder?",
+      "options": ["He shoots him", "He knocks the revolver away when the Intruder leans in", "He uses a knife", "He calls for help"],
+      "correctIndex": 1,
+      "explanation": "When the Intruder leans in to look into the 'exit', Gerrard pushes him and knocks the gun away.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e9_q32",
+      "text": "What does Gerrard want the Sergeant to bring?",
+      "options": ["A doctor", "The Intruder", "A pair of handcuffs", "His car"],
+      "correctIndex": 2,
+      "explanation": "In his final line, he asks the Sergeant to bring the 'bracelets' (handcuffs).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e9_q33",
+      "text": "The Intruder thought that as Gerrard, he could 'go ______'.",
+      "options": ["To London", "Places and do nothing", "To jail", "To a party"],
+      "correctIndex": 1,
+      "explanation": "He thought he could live a retired life without fear of being caught.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e9_q34",
+      "text": "Gerrard's cottage is located in a ______ place.",
+      "options": ["Crowded", "Lonely", "Noisy", "Coastal"],
+      "correctIndex": 1,
+      "explanation": "The cottage's isolation is why the Intruder chose it.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e9_q35",
+      "text": "Gerrard says, 'You are not ______ enough to be a criminal.'",
+      "options": ["Fast", "Strong", "Smart", "Funny"],
+      "correctIndex": 2,
+      "explanation": "Gerrard continually mocks the Intruder's intellect.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e9_q36",
+      "text": "The Intruder tells Gerrard to 'stop ______'.",
+      "options": ["Talking", "Packing", "Being smart", "Smiling"],
+      "correctIndex": 2,
+      "explanation": "The Intruder is frustrated by Gerrard's witty and calm remarks.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e9_q37",
+      "text": "What is the tone of the play?",
+      "options": ["Melancholic", "Humorous and Tense", "Tragic", "Educational"],
+      "correctIndex": 1,
+      "explanation": "The play is a thriller but filled with Gerrard's witty and dry humor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e9_q38",
+      "text": "Gerrard's 'props' (theatrical items) include:",
+      "options": ["Food", "False moustaches", "Books", "Gardening tools"],
+      "correctIndex": 1,
+      "explanation": "He shows these as part of his fake disguise kit.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e9_q39",
+      "text": "How many characters appear on stage in the play?",
+      "options": ["One", "Two", "Three", "Four"],
+      "correctIndex": 1,
+      "explanation": "Only Gerrard and the Intruder appear on stage.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e9_q40",
+      "text": "Does Gerrard actually have a criminal record?",
+      "options": ["Yes", "No", "It is left ambiguous", "He is a retired spy"],
+      "correctIndex": 1,
+      "explanation": "No, he is an innocent playwright; the criminal story was a lie to trick the Intruder.",
+      "frequencyRating": 5
+    }
+  ]
+}

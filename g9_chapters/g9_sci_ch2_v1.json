@@ -1,0 +1,330 @@
+{
+  "id": "g9_sci_ch2",
+  "grade": "9",
+  "subject": "Science",
+  "number": "2",
+  "title": "Is Matter Around Us Pure",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_s2_q1",
+      "text": "A pure substance consists of:",
+      "options": ["One type of particles", "Two types of particles", "Many types of particles", "Mixture of elements"],
+      "correctIndex": 0,
+      "explanation": "Pure substances (elements or compounds) are made of only one kind of atoms or molecules.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s2_q2",
+      "text": "Which of the following is a homogeneous mixture?",
+      "options": ["Soil", "Salt solution", "Iron filings and sulfur", "Oil and water"],
+      "correctIndex": 1,
+      "explanation": "Homogeneous mixtures have a uniform composition throughout.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s2_q3",
+      "text": "A mixture of two or more metals, or a metal and a non-metal is called:",
+      "options": ["Solution", "Compound", "Alloy", "Colloid"],
+      "correctIndex": 2,
+      "explanation": "Alloys like brass or steel are solid solutions of metals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s2_q4",
+      "text": "The component of the solution that is dissolved in the solvent is called:",
+      "options": ["Solute", "Solvent", "Suspension", "Solution"],
+      "correctIndex": 0,
+      "explanation": "Solute is the substance present in smaller quantity in a solution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s2_q5",
+      "text": "Which of the following is an example of a gas in gas solution?",
+      "options": ["Soda water", "Air", "Alloy", "Iodine in alcohol"],
+      "correctIndex": 1,
+      "explanation": "Air is a homogeneous mixture of various gases like Nitrogen and Oxygen.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s2_q6",
+      "text": "Tincture of iodine is a solution of:",
+      "options": ["Iodine in water", "Iodine in alcohol", "Iodine in oil", "Iodine in ether"],
+      "correctIndex": 1,
+      "explanation": "Tincture of iodine uses iodine as solute and alcohol as solvent.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s2_q7",
+      "text": "The particle size in a true solution is less than:",
+      "options": ["1 nm", "10 nm", "100 nm", "1000 nm"],
+      "correctIndex": 0,
+      "explanation": "True solution particles are extremely small (< 10⁻⁹ m) and cannot be seen by naked eye.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s2_q8",
+      "text": "Which of the following shows the Tyndall effect?",
+      "options": ["Salt solution", "Sugar solution", "Milk", "Copper sulfate solution"],
+      "correctIndex": 2,
+      "explanation": "Tyndall effect (scattering of light) is shown by colloids like milk or fog.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s2_q9",
+      "text": "A suspension is a ________ mixture.",
+      "options": ["Homogeneous", "Heterogeneous", "Pure", "Stable"],
+      "correctIndex": 1,
+      "explanation": "Suspensions have visible particles that settle down when left undisturbed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s2_q10",
+      "text": "In a colloidal solution, the substance distributed as particles is called:",
+      "options": ["Dispersion medium", "Dispersed phase", "Solute", "Solvent"],
+      "correctIndex": 1,
+      "explanation": "Colloids consist of a dispersed phase (particles) and a dispersion medium.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s2_q11",
+      "text": "Fog and clouds are examples of:",
+      "options": ["Sol", "Aerosol", "Emulsion", "Gel"],
+      "correctIndex": 1,
+      "explanation": "Aerosols are colloids where liquid or solid is dispersed in gas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s2_q12",
+      "text": "The process used to separate cream from milk is:",
+      "options": ["Filtration", "Distillation", "Centrifugation", "Evaporation"],
+      "correctIndex": 2,
+      "explanation": "Centrifugation forces denser particles to the bottom and lighter particles to the top.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s2_q13",
+      "text": "Two miscible liquids with a boiling point difference of more than 25 K are separated by:",
+      "options": ["Fractional distillation", "Simple distillation", "Separating funnel", "Chromatography"],
+      "correctIndex": 1,
+      "explanation": "Simple distillation works when the boiling point gap is sufficiently large.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s2_q14",
+      "text": "To separate components of air, we use:",
+      "options": ["Evaporation", "Fractional distillation", "Centrifugation", "Filtration"],
+      "correctIndex": 1,
+      "explanation": "Air is liquefied and then different gases are separated at different temperatures via fractional distillation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s2_q15",
+      "text": "Crystallisation is better than evaporation because:",
+      "options": ["It is faster", "Solids don't decompose on heating", "It uses less water", "None"],
+      "correctIndex": 1,
+      "explanation": "In evaporation, some solids may char or decompose. Crystallisation yields purer solids.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s2_q16",
+      "text": "Which of the following is a physical change?",
+      "options": ["Rusting of iron", "Burning of paper", "Melting of butter", "Ripening of fruit"],
+      "correctIndex": 2,
+      "explanation": "Melting is a change of state; no new substance is formed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s2_q17",
+      "text": "Who was the first scientist to use the term 'element'?",
+      "options": ["Antoine Lavoisier", "Robert Boyle", "John Dalton", "Newton"],
+      "correctIndex": 1,
+      "explanation": "Robert Boyle used the term in 1661.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_s2_q18",
+      "text": "A substance that cannot be broken down into simpler substances by chemical reactions is:",
+      "options": ["Compound", "Mixture", "Element", "Solution"],
+      "correctIndex": 2,
+      "explanation": "Elements are the basic form of matter that cannot be further simplified.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s2_q19",
+      "text": "Which of the following is a liquid metal at room temperature?",
+      "options": ["Gallium", "Mercury", "Bromine", "Cesium"],
+      "correctIndex": 1,
+      "explanation": "Mercury is the only metal that is liquid at room temperature.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s2_q20",
+      "text": "Which of the following is a liquid non-metal at room temperature?",
+      "options": ["Iodine", "Carbon", "Bromine", "Phosphorus"],
+      "correctIndex": 2,
+      "explanation": "Bromine is a non-metal that exists as a liquid at room temperature.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s2_q21",
+      "text": "Elements having properties intermediate between metals and non-metals are:",
+      "options": ["Noble gases", "Metalloids", "Transition metals", "Alkali metals"],
+      "correctIndex": 1,
+      "explanation": "Examples include Boron, Silicon, and Germanium.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s2_q22",
+      "text": "A compound differs from a mixture in that:",
+      "options": ["It is not pure", "Components are in any ratio", "Components lose their identity", "It can be separated physically"],
+      "correctIndex": 2,
+      "explanation": "In a compound, elements combine chemically in a fixed ratio and lose their original properties.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s2_q23",
+      "text": "Shaving cream is a:",
+      "options": ["Sol", "Gel", "Foam", "Emulsion"],
+      "correctIndex": 2,
+      "explanation": "Foam is a colloid where gas is dispersed in liquid.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_s2_q24",
+      "text": "Brass contains ________ percent of Zinc.",
+      "options": ["30%", "50%", "10%", "70%"],
+      "correctIndex": 0,
+      "explanation": "Brass is an alloy of 70% Copper and 30% Zinc.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_s2_q25",
+      "text": "A solution that has dissolved as much solute as it is capable of dissolving at a given temperature is:",
+      "options": ["Unsaturated", "Saturated", "Super-saturated", "Dilute"],
+      "correctIndex": 1,
+      "explanation": "A saturated solution contains the maximum amount of solute at that temperature.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s2_q26",
+      "text": "The technique used to separate pigments from natural colors is:",
+      "options": ["Distillation", "Crystallisation", "Chromatography", "Filtration"],
+      "correctIndex": 2,
+      "explanation": "Chromatography separates components based on their solubility in a moving solvent.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s2_q27",
+      "text": "Camphor is separated from salt by:",
+      "options": ["Distillation", "Sublimation", "Evaporation", "Chromatography"],
+      "correctIndex": 1,
+      "explanation": "Camphor sublimes, leaving the salt behind.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s2_q28",
+      "text": "When a beam of light passes through a colloidal solution, it:",
+      "options": ["Is absorbed", "Is scattered", "Passes straight", "Is reflected back"],
+      "correctIndex": 1,
+      "explanation": "Colloidal particles are large enough to scatter light (Tyndall effect).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s2_q29",
+      "text": "Butter is an example of ________ dispersed in ________.",
+      "options": ["Liquid, Solid", "Solid, Liquid", "Gas, Liquid", "Liquid, Liquid"],
+      "correctIndex": 0,
+      "explanation": "Butter is a gel (Liquid in Solid).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_s2_q30",
+      "text": "Milk of magnesia is a:",
+      "options": ["Colloid", "Solution", "Suspension", "Alloy"],
+      "correctIndex": 2,
+      "explanation": "It is a suspension of magnesium hydroxide in water.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_s2_q31",
+      "text": "Solubility of a solute usually ________ with an increase in temperature.",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correctIndex": 0,
+      "explanation": "Most solids dissolve better in hot solvents than cold ones.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s2_q32",
+      "text": "Concentration of a solution is defined as amount of solute per ________ of solution.",
+      "options": ["Mass", "Volume", "Both", "None"],
+      "correctIndex": 2,
+      "explanation": "It can be mass/mass%, mass/volume%, etc.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s2_q33",
+      "text": "Which of the following is a metalloid?",
+      "options": ["Copper", "Silicon", "Sulfur", "Iron"],
+      "correctIndex": 1,
+      "explanation": "Silicon has properties of both metals and non-metals.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s2_q34",
+      "text": "The property of metals by which they can be drawn into wires is:",
+      "options": ["Malleability", "Ductility", "Sonority", "Lustre"],
+      "correctIndex": 1,
+      "explanation": "Ductility allows metals to be pulled into thin wires.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s2_q35",
+      "text": "Properties of a compound are ________ the properties of its constituent elements.",
+      "options": ["Same as", "Entirely different from", "Average of", "None"],
+      "correctIndex": 1,
+      "explanation": "For example, water (liquid, non-combustible) is made from H2 (explosive gas) and O2 (combustion supporter).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s2_q36",
+      "text": "To separate a mixture of oil and water, we use:",
+      "options": ["Filter paper", "Separating funnel", "Distillation", "Centrifuge"],
+      "correctIndex": 1,
+      "explanation": "Separating funnel is used for immiscible liquids based on density difference.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s2_q37",
+      "text": "Which of the following is NOT a colloidal solution?",
+      "options": ["Milk", "Ink", "Starch solution", "Glucose solution"],
+      "correctIndex": 3,
+      "explanation": "Glucose solution is a true solution.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s2_q38",
+      "text": "The major component of air is:",
+      "options": ["Oxygen", "Nitrogen", "Argon", "CO2"],
+      "correctIndex": 1,
+      "explanation": "Nitrogen makes up approximately 78% of air.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s2_q39",
+      "text": "Cooking of food is a ________ change.",
+      "options": ["Physical", "Chemical", "Both", "Reversible"],
+      "correctIndex": 1,
+      "explanation": "Chemical bonds are broken/formed, and new substances are produced.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s2_q40",
+      "text": "Blood and sea water are examples of:",
+      "options": ["Pure substances", "Mixtures", "Elements", "Compounds"],
+      "correctIndex": 1,
+      "explanation": "Both contain many different components and vary in composition.",
+      "frequencyRating": 4
+    }
+  ]
+}

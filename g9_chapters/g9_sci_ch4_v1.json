@@ -1,0 +1,330 @@
+{
+  "id": "g9_sci_ch4",
+  "grade": "9",
+  "subject": "Science",
+  "number": "4",
+  "title": "Structure of the Atom",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_s4_q1",
+      "text": "Who discovered the electron?",
+      "options": ["J.J. Thomson", "E. Rutherford", "James Chadwick", "E. Goldstein"],
+      "correctIndex": 0,
+      "explanation": "Thomson proposed the model after his experiments with cathode ray tubes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q2",
+      "text": "Who discovered the proton (canal rays)?",
+      "options": ["J.J. Thomson", "E. Goldstein", "James Chadwick", "John Dalton"],
+      "correctIndex": 1,
+      "explanation": "Goldstein observed positively charged radiation in gas discharges.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q3",
+      "text": "Neutrons were discovered by ________ in 1932.",
+      "options": ["James Chadwick", "Niels Bohr", "E. Rutherford", "Dalton"],
+      "correctIndex": 0,
+      "explanation": "Chadwick found an uncharged particle with mass equal to a proton.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q4",
+      "text": "The 'Plum Pudding' model was proposed by:",
+      "options": ["Dalton", "Thomson", "Rutherford", "Bohr"],
+      "correctIndex": 1,
+      "explanation": "Thomson compared an atom to a Christmas pudding or watermelon.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q5",
+      "text": "Which experiment led to the discovery of the nucleus?",
+      "options": ["Cathode ray", "Oil drop", "Gold foil alpha-scattering", "Canal ray"],
+      "correctIndex": 2,
+      "explanation": "Rutherford observed that some alpha particles bounced back, indicating a dense center.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q6",
+      "text": "The mass of an electron is approximately ________ times the mass of a proton.",
+      "options": ["1/100", "1/2000", "Equal", "2000"],
+      "correctIndex": 1,
+      "explanation": "Electrons have negligible mass (approx 1/1840th of a proton).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s4_q7",
+      "text": "Rutherford's alpha-scattering experiment used which metal foil?",
+      "options": ["Silver", "Gold", "Aluminium", "Copper"],
+      "correctIndex": 1,
+      "explanation": "Gold was used because it is highly malleable and could be made into a very thin layer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q8",
+      "text": "The orbits in which electrons revolve around the nucleus are called:",
+      "options": ["Stations", "Channels", "Energy levels or shells", "Tunnels"],
+      "correctIndex": 2,
+      "explanation": "Proposed by Bohr, these discrete orbits are named K, L, M, N...",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q9",
+      "text": "The maximum number of electrons that can be accommodated in the K shell is:",
+      "options": ["2", "8", "18", "32"],
+      "correctIndex": 0,
+      "explanation": "Formula is 2n². For K (n=1), 2(1)² = 2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q10",
+      "text": "The maximum number of electrons in the M shell (n=3) is:",
+      "options": ["8", "18", "32", "2"],
+      "correctIndex": 1,
+      "explanation": "2(3)² = 2 * 9 = 18.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q11",
+      "text": "The electrons present in the outermost shell are called:",
+      "options": ["Inner electrons", "Core electrons", "Valence electrons", "Outer electrons"],
+      "correctIndex": 2,
+      "explanation": "Valence electrons determine the chemical properties and valency of an atom.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q12",
+      "text": "Atoms of elements with a completely filled outermost shell are:",
+      "options": ["Highly reactive", "Chemically inactive", "Metals", "Isotopes"],
+      "correctIndex": 1,
+      "explanation": "These are noble gases like Helium, Neon, and Argon.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q13",
+      "text": "The atomic number of an element is equal to:",
+      "options": ["Number of protons", "Number of neutrons", "Number of electrons in a cation", "Sum of protons and neutrons"],
+      "correctIndex": 0,
+      "explanation": "Atomic number (Z) is defined by the number of protons in the nucleus.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q14",
+      "text": "Mass number is the sum of:",
+      "options": ["Protons and Electrons", "Protons and Neutrons", "Electrons and Neutrons", "Only Protons"],
+      "correctIndex": 1,
+      "explanation": "Mass number (A) represents the 'nucleons' in the atom.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q15",
+      "text": "Atoms of the same element with same atomic number but different mass numbers are:",
+      "options": ["Isobars", "Isotopes", "Isotones", "Isomers"],
+      "correctIndex": 1,
+      "explanation": "Examples include Protium, Deuterium, and Tritium (Hydrogen isotopes).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q16",
+      "text": "Atoms of different elements with different atomic numbers but same mass number are:",
+      "options": ["Isotopes", "Isobars", "Isoelectrics", "Isomers"],
+      "correctIndex": 1,
+      "explanation": "Example: Calcium (Z=20) and Argon (Z=18) both having mass number 40.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q17",
+      "text": "The isotope of which element is used in the treatment of cancer?",
+      "options": ["Iodine", "Cobalt", "Uranium", "Carbon"],
+      "correctIndex": 1,
+      "explanation": "Isotope of Cobalt is used for radiotherapy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q18",
+      "text": "Which isotope is used as fuel in nuclear reactors?",
+      "options": ["Carbon-14", "Iodine-131", "Uranium-235", "Cobalt-60"],
+      "correctIndex": 2,
+      "explanation": "Uranium isotopes are radioactive and produce energy during fission.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q19",
+      "text": "Valency of Magnesium (Mg, Z=12) is:",
+      "options": ["1", "2", "3", "0"],
+      "correctIndex": 1,
+      "explanation": "Configuration: 2, 8, 2. It loses 2 electrons to achieve octet.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s4_q20",
+      "text": "Valency of Chlorine (Cl, Z=17) is:",
+      "options": ["7", "1", "8", "0"],
+      "correctIndex": 1,
+      "explanation": "Configuration: 2, 8, 7. It gains 1 electron to achieve octet.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q21",
+      "text": "The three isotopes of Hydrogen are:",
+      "options": ["Protium, Helium, Lithium", "Protium, Deuterium, Tritium", "H1, H2, H3", "Alpha, Beta, Gamma"],
+      "correctIndex": 1,
+      "explanation": "They have 0, 1, and 2 neutrons respectively.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s4_q22",
+      "text": "Who proposed that electrons revolve in discrete orbits without radiating energy?",
+      "options": ["Rutherford", "Thomson", "Niels Bohr", "Dalton"],
+      "correctIndex": 2,
+      "explanation": "Bohr's model corrected Rutherford's model's instability flaw.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q23",
+      "text": "In the notation X-A/Z, 'A' stands for:",
+      "options": ["Atomic number", "Mass number", "Atomic mass", "Valency"],
+      "correctIndex": 1,
+      "explanation": "Mass number is written as a superscript.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s4_q24",
+      "text": "If an atom has 3 protons and 4 neutrons, its mass number is:",
+      "options": ["3", "4", "7", "1"],
+      "correctIndex": 2,
+      "explanation": "Mass number = P + N = 3 + 4 = 7.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q25",
+      "text": "The element with atomic number 6 is:",
+      "options": ["Nitrogen", "Oxygen", "Carbon", "Boron"],
+      "correctIndex": 2,
+      "explanation": "Carbon has 6 protons.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q26",
+      "text": "An atom with 8 electrons, 8 protons, and 8 neutrons is an atom of:",
+      "options": ["Carbon", "Nitrogen", "Oxygen", "Fluorine"],
+      "correctIndex": 2,
+      "explanation": "Atomic number 8 corresponds to Oxygen.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q27",
+      "text": "The fractional atomic mass of Chlorine (35.5 u) is due to:",
+      "options": ["Errors", "Isotopes", "Isobars", "Valency"],
+      "correctIndex": 1,
+      "explanation": "It's the average mass of isotopes Cl-35 (75%) and Cl-37 (25%).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q28",
+      "text": "The number of neutrons in Deuterium is:",
+      "options": ["0", "1", "2", "3"],
+      "correctIndex": 1,
+      "explanation": "Deuterium (H-2) has 1 proton and 1 neutron.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s4_q29",
+      "text": "Valency of Helium (He, Z=2) is:",
+      "options": ["2", "1", "0", "4"],
+      "correctIndex": 2,
+      "explanation": "Helium has a duplet configuration which is stable; it doesn't need to react.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s4_q30",
+      "text": "Number of valence electrons in Lithium (Li, Z=3) is:",
+      "options": ["1", "2", "3", "0"],
+      "correctIndex": 0,
+      "explanation": "Configuration: 2, 1. The outer shell has 1 electron.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s4_q31",
+      "text": "The shell closest to the nucleus is:",
+      "options": ["K", "L", "M", "N"],
+      "correctIndex": 0,
+      "explanation": "K is n=1, L is n=2...",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q32",
+      "text": "Anion is formed by:",
+      "options": ["Loss of electrons", "Gain of electrons", "Loss of protons", "Gain of neutrons"],
+      "correctIndex": 1,
+      "explanation": "Gaining negative electrons results in a negative net charge.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q33",
+      "text": "Cation is formed by:",
+      "options": ["Loss of electrons", "Gain of electrons", "Loss of neutrons", "Gain of protons"],
+      "correctIndex": 0,
+      "explanation": "Losing negative electrons results in a positive net charge.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q34",
+      "text": "Which isotope is used in the treatment of goitre?",
+      "options": ["Carbon-12", "Iodine-131", "Uranium-235", "Cobalt-60"],
+      "correctIndex": 1,
+      "explanation": "Iodine isotopes are used for thyroid-related treatments.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q35",
+      "text": "The octet rule was fulfilled by atoms by:",
+      "options": ["Losing electrons", "Gaining electrons", "Sharing electrons", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Atoms react in these ways to achieve a stable configuration of 8 valence electrons.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s4_q36",
+      "text": "Which of the following has electronic configuration 2, 8, 1?",
+      "options": ["Sodium", "Magnesium", "Potassium", "Aluminium"],
+      "correctIndex": 0,
+      "explanation": "Sodium (Na) has atomic number 11.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q37",
+      "text": "The distribution of electrons in different shells is given by:",
+      "options": ["Rutherford", "Thomson", "Bohr and Bury", "Dalton"],
+      "correctIndex": 2,
+      "explanation": "Bohr and Bury provided the rules for filling shells.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_s4_q38",
+      "text": "Configuration of Argon (Z=18) is:",
+      "options": ["2, 8, 8", "2, 8, 6", "2, 10, 6", "2, 8, 10"],
+      "correctIndex": 0,
+      "explanation": "18 = 2 (K) + 8 (L) + 8 (M).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s4_q39",
+      "text": "Mass of an atom is concentrated in its:",
+      "options": ["Electrons", "Shells", "Nucleus", "Valence shell"],
+      "correctIndex": 2,
+      "explanation": "Protons and neutrons (which carry almost all mass) are in the nucleus.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s4_q40",
+      "text": "Charge on a neutron is:",
+      "options": ["Positive", "Negative", "Neutral (zero)", "Variable"],
+      "correctIndex": 2,
+      "explanation": "Neutrons are electrically neutral.",
+      "frequencyRating": 5
+    }
+  ]
+}

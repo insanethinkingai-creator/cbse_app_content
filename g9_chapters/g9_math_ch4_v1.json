@@ -1,0 +1,330 @@
+{
+  "id": "g9_math_ch4",
+  "grade": "9",
+  "subject": "Mathematics",
+  "number": "4",
+  "title": "Linear Equations in Two Variables",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_m4_q1",
+      "text": "The general form of a linear equation in two variables is:",
+      "options": ["ax + b = 0", "ax² + bx + c = 0", "ax + by + c = 0", "ax + by = 0"],
+      "correctIndex": 2,
+      "explanation": "Where a, b, and c are real numbers, and a and b are not both zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m4_q2",
+      "text": "A linear equation in two variables has:",
+      "options": ["Unique solution", "Two solutions", "Infinitely many solutions", "No solution"],
+      "correctIndex": 2,
+      "explanation": "For every value of x, there is a corresponding value of y that satisfies the equation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m4_q3",
+      "text": "The graph of a linear equation in two variables is a:",
+      "options": ["Circle", "Parabola", "Straight line", "Point"],
+      "correctIndex": 2,
+      "explanation": "All solutions of the equation ax + by + c = 0 lie on a single straight line.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m4_q4",
+      "text": "The equation x = 7, in two variables, can be written as:",
+      "options": ["1.x + 1.y = 7", "1.x + 0.y = 7", "0.x + 1.y = 7", "0.x + 0.y = 7"],
+      "correctIndex": 1,
+      "explanation": "We can represent a single-variable equation by giving the other variable a zero coefficient.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m4_q5",
+      "text": "Any point on the line y = x is of the form:",
+      "options": ["(a, 0)", "(0, a)", "(a, a)", "(a, -a)"],
+      "correctIndex": 2,
+      "explanation": "Since y = x, the x-coordinate and y-coordinate must be identical.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m4_q6",
+      "text": "The graph of y = 6 is a line:",
+      "options": ["Parallel to x-axis at distance 6", "Parallel to y-axis at distance 6", "Making an intercept 6 on both axes", "Passing through origin"],
+      "correctIndex": 0,
+      "explanation": "Equations of the form y = k are horizontal lines parallel to the x-axis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m4_q7",
+      "text": "The graph of x = 3 is a line:",
+      "options": ["Parallel to x-axis", "Parallel to y-axis", "Passing through origin", "None"],
+      "correctIndex": 1,
+      "explanation": "Equations of the form x = k are vertical lines parallel to the y-axis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m4_q8",
+      "text": "If (2, 0) is a solution of the linear equation 2x + 3y = k, then value of k is:",
+      "options": ["4", "6", "5", "2"],
+      "correctIndex": 0,
+      "explanation": "Substitute x=2, y=0: 2(2) + 3(0) = 4 + 0 = 4.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m4_q9",
+      "text": "The graph of the linear equation 2x + 3y = 6 cuts the y-axis at the point:",
+      "options": ["(2, 0)", "(0, 3)", "(3, 0)", "(0, 2)"],
+      "correctIndex": 3,
+      "explanation": "At y-axis, x = 0. 2(0) + 3y = 6 => 3y = 6 => y = 2. So, (0, 2).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m4_q10",
+      "text": "The graph of the linear equation 2x + 3y = 6 cuts the x-axis at the point:",
+      "options": ["(2, 0)", "(0, 3)", "(3, 0)", "(0, 2)"],
+      "correctIndex": 2,
+      "explanation": "At x-axis, y = 0. 2x + 3(0) = 6 => 2x = 6 => x = 3. So, (3, 0).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m4_q11",
+      "text": "The equation of x-axis is:",
+      "options": ["x = 0", "y = 0", "x = y", "x + y = 0"],
+      "correctIndex": 1,
+      "explanation": "Every point on the x-axis has a y-coordinate of zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m4_q12",
+      "text": "The equation of y-axis is:",
+      "options": ["x = 0", "y = 0", "x = y", "x + y = 0"],
+      "correctIndex": 0,
+      "explanation": "Every point on the y-axis has an x-coordinate of zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m4_q13",
+      "text": "Which of the following is a solution of the equation x - 2y = 4?",
+      "options": ["(0, 2)", "(2, 0)", "(4, 0)", "(1, 1)"],
+      "correctIndex": 2,
+      "explanation": "Substituting (4, 0): 4 - 2(0) = 4 - 0 = 4.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m4_q14",
+      "text": "The value of k if x = 1, y = 1 is a solution of 9kx + 12ky = 63 is:",
+      "options": ["3", "2", "7", "1"],
+      "correctIndex": 0,
+      "explanation": "9k(1) + 12k(1) = 63 => 21k = 63 => k = 3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m4_q15",
+      "text": "The graph of the line x - y = 0 passes through:",
+      "options": ["Origin", "(1, 0)", "(0, 1)", "(-1, 0)"],
+      "correctIndex": 0,
+      "explanation": "If x=0, then 0-y=0 so y=0. (0,0) is a solution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m4_q16",
+      "text": "Express y in terms of x for 2x - 3y = 12:",
+      "options": ["y = (2x - 12) / 3", "y = (12 - 2x) / 3", "y = 2x - 12", "y = 3x - 12"],
+      "correctIndex": 0,
+      "explanation": "2x - 12 = 3y => y = (2x - 12) / 3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m4_q17",
+      "text": "A linear equation in two variables can have at most how many points where it intersects the x-axis?",
+      "options": ["0", "1", "2", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "A straight line (not parallel to x-axis) intersects it exactly once.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m4_q18",
+      "text": "Linear equation 2x + 3y = 9.35bar can be written in ax+by+c=0 form as:",
+      "options": ["2x+3y+9.35=0", "2x+3y-9.35=0", "2x-3y-9.35=0", "3x+2y-9.35=0"],
+      "correctIndex": 1,
+      "explanation": "Move the constant to the left side.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m4_q19",
+      "text": "In equation 2x + 3y = 12, if x = 3, what is y?",
+      "options": ["1", "2", "3", "0"],
+      "correctIndex": 1,
+      "explanation": "2(3) + 3y = 12 => 6 + 3y = 12 => 3y = 6 => y = 2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m4_q20",
+      "text": "The cost of a notebook is twice the cost of a pen. Write a linear equation to represent this.",
+      "options": ["x = 2y", "y = 2x", "x + y = 2", "x - y = 2"],
+      "correctIndex": 0,
+      "explanation": "Let x be cost of notebook, y be cost of pen. Then x = 2y.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m4_q21",
+      "text": "If x = 2 and y = 1 is a solution of 3x + 4y = k, then k is:",
+      "options": ["10", "11", "9", "8"],
+      "correctIndex": 0,
+      "explanation": "3(2) + 4(1) = 6 + 4 = 10.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m4_q22",
+      "text": "Which of the following is not a linear equation in two variables?",
+      "options": ["3x + 2y = 5", "x² + y = 3", "x - y = 0", "x = y + 2"],
+      "correctIndex": 1,
+      "explanation": "In a linear equation, the power of each variable must be exactly 1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m4_q23",
+      "text": "The graph of the equation x + y = 4 intersects the y-axis at:",
+      "options": ["(4, 0)", "(0, 4)", "(1, 3)", "(2, 2)"],
+      "correctIndex": 1,
+      "explanation": "At y-axis, x=0, so 0+y=4 => y=4.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m4_q24",
+      "text": "How many linear equations in x and y can be satisfied by x = 1 and y = 2?",
+      "options": ["Only one", "Two", "Infinitely many", "None"],
+      "correctIndex": 2,
+      "explanation": "Infinite lines can pass through a single point (1, 2).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m4_q25",
+      "text": "If point (3, 4) lies on 3y = ax + 7, then value of a is:",
+      "options": ["5/3", "3/5", "1", "2"],
+      "correctIndex": 0,
+      "explanation": "3(4) = a(3) + 7 => 12 = 3a + 7 => 3a = 5 => a = 5/3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m4_q26",
+      "text": "Equation of a line parallel to y-axis and passing through (-3, -2) is:",
+      "options": ["y = -2", "x = -3", "x = -2", "y = -3"],
+      "correctIndex": 1,
+      "explanation": "Parallel to y-axis means vertical line x = constant. It passes through x = -3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m4_q27",
+      "text": "Equation of a line parallel to x-axis and passing through (1, 5) is:",
+      "options": ["y = 5", "x = 1", "x = 5", "y = 1"],
+      "correctIndex": 0,
+      "explanation": "Parallel to x-axis means horizontal line y = constant. It passes through y = 5.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m4_q28",
+      "text": "The point of the form (a, -a) always lies on the line:",
+      "options": ["x = a", "y = -a", "y = x", "x + y = 0"],
+      "correctIndex": 3,
+      "explanation": "Since x=a and y=-a, then x+y = a + (-a) = 0.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m4_q29",
+      "text": "x = 5, y = 2 is a solution of the equation:",
+      "options": ["x + 2y = 7", "5x + 2y = 7", "x + y = 7", "5x + y = 7"],
+      "correctIndex": 2,
+      "explanation": "5 + 2 = 7.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m4_q30",
+      "text": "Every solution of the linear equation is a ______ on its graph.",
+      "options": ["Point", "Line", "Square", "Circle"],
+      "correctIndex": 0,
+      "explanation": "The set of all solution points forms the line graph.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m4_q31",
+      "text": "Is x + y = 0 a linear equation in two variables?",
+      "options": ["Yes", "No", "Only if x=0", "Only if y=0"],
+      "correctIndex": 0,
+      "explanation": "It fits the ax + by + c = 0 form where a=1, b=1, c=0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m4_q32",
+      "text": "Which quadrant does not contain any solution of x + y = 10 (x,y > 0)?",
+      "options": ["I", "II", "III", "IV"],
+      "correctIndex": 2,
+      "explanation": "If both x and y are positive, the solutions are in Quadrant I. There are no solutions where both are negative.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m4_q33",
+      "text": "If x = y, then the graph makes an angle of ______ with the x-axis.",
+      "options": ["0°", "45°", "90°", "60°"],
+      "correctIndex": 1,
+      "explanation": "The line bisects the angle between the axes.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m4_q34",
+      "text": "The graph of x = a is a line parallel to:",
+      "options": ["x-axis", "y-axis", "Origin", "Line y=x"],
+      "correctIndex": 1,
+      "explanation": "x = constant is a vertical line.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m4_q35",
+      "text": "The graph of y = b is a line parallel to:",
+      "options": ["x-axis", "y-axis", "Origin", "Line y=x"],
+      "correctIndex": 0,
+      "explanation": "y = constant is a horizontal line.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m4_q36",
+      "text": "Solution of 2x + 1 = x - 3 is:",
+      "options": ["-4", "4", "2", "-2"],
+      "correctIndex": 0,
+      "explanation": "2x - x = -3 - 1 => x = -4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m4_q37",
+      "text": "A linear equation in two variables is satisfied by ______ points.",
+      "options": ["One", "Two", "Infinite", "Three"],
+      "correctIndex": 2,
+      "explanation": "There are infinite points on any straight line.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m4_q38",
+      "text": "If we multiply or divide both sides of a linear equation by a non-zero number, then the solution:",
+      "options": ["Changes", "Remains same", "Becomes zero", "None"],
+      "correctIndex": 1,
+      "explanation": "Basic property of equality in equations.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m4_q39",
+      "text": "Positive solutions of ax + by + c = 0 always lie in the:",
+      "options": ["I quadrant", "II quadrant", "III quadrant", "IV quadrant"],
+      "correctIndex": 0,
+      "explanation": "Positive solutions imply both x and y are positive.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m4_q40",
+      "text": "Can a linear equation in two variables represent a vertical line?",
+      "options": ["Yes, if b=0", "Yes, if a=0", "No", "Only if c=0"],
+      "correctIndex": 0,
+      "explanation": "If b=0, we get ax + c = 0, which is x = -c/a (a vertical line).",
+      "frequencyRating": 3
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "id": "g9_civ_ch04",
+  "grade": "9",
+  "subject": "Civics",
+  "number": "4",
+  "title": "Working of Institutions",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_c4_q1",
+      "text": "Who is the highest formal authority in India?",
+      "options": ["The Prime Minister", "The President", "The Chief Justice", "The Speaker"],
+      "correctIndex": 1,
+      "explanation": "The President is the head of the state and the highest formal authority.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q2",
+      "text": "Who actually exercises all governmental powers in India?",
+      "options": ["The President", "The Prime Minister", "The Chief Election Commissioner", "The Governor"],
+      "correctIndex": 1,
+      "explanation": "The Prime Minister is the head of the government and exercises real power.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q3",
+      "text": "The Parliament of India consists of the President and which two houses?",
+      "options": ["Vidhan Sabha and Vidhan Parishad", "Lok Sabha and Rajya Sabha", "Assembly and Council", "Senate and House of Representatives"],
+      "correctIndex": 1,
+      "explanation": "The Lok Sabha (House of the People) and Rajya Sabha (Council of States) are the two houses.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q4",
+      "text": "What was the 'Mandal Commission' primarily concerned with?",
+      "options": ["Electoral reforms", "Reservation for Socially and Educationally Backward Classes (SEBC)", "Border disputes", "Space exploration"],
+      "correctIndex": 1,
+      "explanation": "The commission recommended 27% reservation for SEBC in government jobs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q5",
+      "text": "Which institution has the power to settle disputes between the government and citizens?",
+      "options": ["The Parliament", "The Cabinet", "The Supreme Court", "The Election Commission"],
+      "correctIndex": 2,
+      "explanation": "The judiciary, especially the Supreme Court, acts as an arbiter in disputes involving the government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q6",
+      "text": "Who appoints the Prime Minister of India?",
+      "options": ["The people directly", "The President", "The Chief Justice", "The outgoing Prime Minister"],
+      "correctIndex": 1,
+      "explanation": "The President appoints the leader of the majority party or coalition in the Lok Sabha as PM.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q7",
+      "text": "The council of ministers is headed by:",
+      "options": ["The President", "The Vice President", "The Prime Minister", "The Speaker"],
+      "correctIndex": 2,
+      "explanation": "The Prime Minister leads the Cabinet and other ministers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q8",
+      "text": "What is the maximum strength of the Lok Sabha?",
+      "options": ["250", "545", "552", "500"],
+      "correctIndex": 2,
+      "explanation": "The maximum strength is 552, though currently elections are held for 543 seats.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c4_q9",
+      "text": "Rajya Sabha is also known as the ________.",
+      "options": ["Lower House", "Upper House", "Permanent House", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "Rajya Sabha is the Upper House and is never fully dissolved, making it permanent.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q10",
+      "text": "Who presides over the Lok Sabha?",
+      "options": ["The Prime Minister", "The President", "The Speaker", "The Vice President"],
+      "correctIndex": 2,
+      "explanation": "The Speaker is elected by the members of the Lok Sabha to conduct its proceedings.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q11",
+      "text": "Who is the ex-officio Chairman of the Rajya Sabha?",
+      "options": ["The President", "The Vice President", "The Chief Justice", "The senior-most MP"],
+      "correctIndex": 1,
+      "explanation": "The Vice President of India always holds the position of Chairperson of Rajya Sabha.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q12",
+      "text": "In a dispute over an ordinary law, which house usually prevails because of its larger number?",
+      "options": ["Rajya Sabha", "Lok Sabha", "Cabinet", "State Assembly"],
+      "correctIndex": 1,
+      "explanation": "In a joint session, the Lok Sabha's view is likely to prevail due to its higher membership.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q13",
+      "text": "Which house has more power in money matters?",
+      "options": ["Rajya Sabha", "Lok Sabha", "Both have equal power", "Supreme Court"],
+      "correctIndex": 1,
+      "explanation": "The Lok Sabha passes the budget and Rajya Sabha can only delay it by 14 days.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q14",
+      "text": "The 'Political Executive' refers to:",
+      "options": ["Civil servants", "Elected representatives like Ministers", "Police officers", "Judges"],
+      "correctIndex": 1,
+      "explanation": "They are elected by the people for a specific period and take big policy decisions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q15",
+      "text": "The 'Permanent Executive' consists of:",
+      "options": ["Ministers", "MPs", "Civil servants/Bureaucrats", "MLAs"],
+      "correctIndex": 2,
+      "explanation": "Civil servants stay in office even when the ruling party changes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q16",
+      "text": "Why is the Minister more powerful than the civil servant in a democracy?",
+      "options": ["Minister is more educated", "Minister is elected and represents the will of the people", "Minister is paid more", "Civil servants are lazy"],
+      "correctIndex": 1,
+      "explanation": "The Minister is accountable to the people, and in a democracy, the will of the people is supreme.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q17",
+      "text": "The inner circle of the Council of Ministers, comprising about 20 top-level ministers, is called:",
+      "options": ["Cabinet", "Parliament", "Secretariat", "Committee"],
+      "correctIndex": 0,
+      "explanation": "The Cabinet takes most of the major decisions in the name of the Council of Ministers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q18",
+      "text": "If a government loses the 'No-Confidence Motion' in the Lok Sabha:",
+      "options": ["The PM must resign", "All ministers must resign", "New elections might be held", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Loss of confidence means the government has lost the support of the majority in the house.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q19",
+      "text": "Who is the Supreme Commander of the defense forces of India?",
+      "options": ["The Defense Minister", "The Prime Minister", "The President", "The Chief of Army Staff"],
+      "correctIndex": 2,
+      "explanation": "This is a key constitutional role of the President.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q20",
+      "text": "The President of India is elected ________.",
+      "options": ["Directly by the people", "By an electoral college consisting of MPs and MLAs", "By the Prime Minister", "By the Supreme Court"],
+      "correctIndex": 1,
+      "explanation": "The President is indirectly elected by the representatives of the people.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q21",
+      "text": "Which of these is NOT a power of the President?",
+      "options": ["Appointing the PM", "Appointing the CJI", "Declaring war", "Dismissing the PM who has majority support"],
+      "correctIndex": 3,
+      "explanation": "The President must appoint the leader with majority support and cannot dismiss them at will.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c4_q22",
+      "text": "A bill becomes an act only after ________ signs it.",
+      "options": ["The Prime Minister", "The Speaker", "The President", "The Chief Justice"],
+      "correctIndex": 2,
+      "explanation": "The President's assent is the final step in the law-making process.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q23",
+      "text": "'Judicial Review' means the power of the courts to:",
+      "options": ["Review movies", "Check the constitutional validity of laws and executive actions", "Write new laws", "Appoint ministers"],
+      "correctIndex": 1,
+      "explanation": "Courts can declare a law invalid if it goes against the Constitution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q24",
+      "text": "The 'Integrated Judiciary' in India means:",
+      "options": ["Each state has its own independent law", "Decisions of higher courts are binding on lower courts", "Courts are under the Prime Minister", "There are no courts"],
+      "correctIndex": 1,
+      "explanation": "India has a unified structure with the Supreme Court at the top.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c4_q25",
+      "text": "Once a judge of the Supreme Court is appointed, it is ________ to remove them.",
+      "options": ["Very easy", "Extremely difficult", "Not possible", "Automatic"],
+      "correctIndex": 1,
+      "explanation": "A judge can only be removed through a difficult impeachment process by two-thirds majority in both houses.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q26",
+      "text": "PIL stands for:",
+      "options": ["Public Interest Law", "Private Internal Litigation", "Public Interest Litigation", "Police Investigation List"],
+      "correctIndex": 2,
+      "explanation": "PIL allows any citizen to approach the court for a matter of public interest.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q27",
+      "text": "Who among the following was the PM when the Mandal Commission report was implemented?",
+      "options": ["Indira Gandhi", "Morarji Desai", "V.P. Singh", "Rajiv Gandhi"],
+      "correctIndex": 2,
+      "explanation": "V.P. Singh's government took the decision to implement the report in 1990.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c4_q28",
+      "text": "An 'Office Memorandum' is:",
+      "options": ["A letter written by a clerk", "A formal communication from the government about a decision", "A personal diary", "An email"],
+      "correctIndex": 1,
+      "explanation": "It is a document used to issue orders in the name of the government.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c4_q29",
+      "text": "The Prime Minister’s power has increased so much that modern democracies are sometimes called ________ form of government.",
+      "options": ["Presidential", "Parliamentary", "Prime Ministerial", "Direct"],
+      "correctIndex": 2,
+      "explanation": "The term highlights the central and dominant role of the PM in the cabinet.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_c4_q30",
+      "text": "The Cabinet as a team must ________ all decisions taken by it.",
+      "options": ["Criticize", "Defend and take responsibility for", "Ignore", "Delay"],
+      "correctIndex": 1,
+      "explanation": "This is known as collective responsibility.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c4_q31",
+      "text": "Which institution makes the laws for the whole country?",
+      "options": ["The President", "The Cabinet", "The Parliament", "The Supreme Court"],
+      "correctIndex": 2,
+      "explanation": "Legislating is the primary function of the Parliament.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q32",
+      "text": "How many members are nominated to the Rajya Sabha by the President?",
+      "options": ["2", "12", "20", "50"],
+      "correctIndex": 1,
+      "explanation": "These are people who have excelled in fields like literature, science, art, and social service.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q33",
+      "text": "Who is the head of the state in India?",
+      "options": ["Prime Minister", "President", "Chief Justice", "Speaker"],
+      "correctIndex": 1,
+      "explanation": "The President is the first citizen and represents the nation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q34",
+      "text": "A 'Coalition Government' is formed by:",
+      "options": ["One single party with huge majority", "Two or more political parties joining together", "The Military", "The Judiciary"],
+      "correctIndex": 1,
+      "explanation": "Coalitions happen when no single party gets a majority in the house.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q35",
+      "text": "The power of the PM in a coalition is ________ compared to a single-party government.",
+      "options": ["More", "Less", "Equal", "Absolute"],
+      "correctIndex": 1,
+      "explanation": "The PM has to accommodate the views and demands of coalition partners.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c4_q36",
+      "text": "Which of these institutions is responsible for implementing the laws?",
+      "options": ["Legislature", "Executive", "Judiciary", "Media"],
+      "correctIndex": 1,
+      "explanation": "The executive (ministers and civil servants) executes or implements decisions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q37",
+      "text": "The term of Lok Sabha is ________ years.",
+      "options": ["4", "5", "6", "Unlimited"],
+      "correctIndex": 1,
+      "explanation": "General elections are held every five years unless the house is dissolved earlier.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q38",
+      "text": "The term of a Rajya Sabha member is ________ years.",
+      "options": ["4", "5", "6", "Life"],
+      "correctIndex": 2,
+      "explanation": "Members of Rajya Sabha are elected for six years, and one-third of members retire every two years.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q39",
+      "text": "What does 'Independence of Judiciary' mean?",
+      "options": ["Judges take high salaries", "Judiciary is not under the control of legislature or executive", "Judges can do anything", "There are no laws for judges"],
+      "correctIndex": 1,
+      "explanation": "This allows judges to deliver justice without fear or favor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c4_q40",
+      "text": "The Supreme Court of India consists of the ________ and other judges.",
+      "options": ["President", "Prime Minister", "Chief Justice of India (CJI)", "Attorney General"],
+      "correctIndex": 2,
+      "explanation": "The CJI is the head of the Indian judiciary.",
+      "frequencyRating": 5
+    }
+  ]
+}

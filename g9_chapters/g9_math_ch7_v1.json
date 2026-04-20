@@ -1,0 +1,330 @@
+{
+  "id": "g9_math_ch7",
+  "grade": "9",
+  "subject": "Mathematics",
+  "number": "7",
+  "title": "Triangles",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_m7_q1",
+      "text": "If two triangles are congruent, then their corresponding parts are:",
+      "options": ["Equal", "Unequal", "Parallel", "Similar but not equal"],
+      "correctIndex": 0,
+      "explanation": "This is known as CPCT (Corresponding Parts of Congruent Triangles).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m7_q2",
+      "text": "Which of the following is NOT a criterion for congruence of triangles?",
+      "options": ["SAS", "ASA", "SSA", "SSS"],
+      "correctIndex": 2,
+      "explanation": "SSA (Side-Side-Angle) is not a valid congruence rule as it doesn't guarantee uniqueness.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m7_q3",
+      "text": "In an isosceles triangle, the angles opposite to equal sides are:",
+      "options": ["Unequal", "Equal", "Complementary", "Right angles"],
+      "correctIndex": 1,
+      "explanation": "This is a fundamental property of isosceles triangles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m7_q4",
+      "text": "Each angle of an equilateral triangle is:",
+      "options": ["30°", "45°", "60°", "90°"],
+      "correctIndex": 2,
+      "explanation": "In an equilateral triangle, all three angles are equal: 180/3 = 60°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m7_q5",
+      "text": "The sum of any two sides of a triangle is ______ the third side.",
+      "options": ["Less than", "Equal to", "Greater than", "Half of"],
+      "correctIndex": 2,
+      "explanation": "This is known as the Triangle Inequality Theorem.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m7_q6",
+      "text": "In a right angled triangle, the longest side is:",
+      "options": ["Base", "Perpendicular", "Hypotenuse", "None"],
+      "correctIndex": 2,
+      "explanation": "The hypotenuse is opposite the largest angle (90°) and is the longest side.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m7_q7",
+      "text": "If ∆ABC ≅ ∆PQR, then side AB is equal to:",
+      "options": ["PQ", "QR", "PR", "None"],
+      "correctIndex": 0,
+      "explanation": "Corresponding sides match based on the order of vertices in the congruence statement.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m7_q8",
+      "text": "In triangle ABC, if AB = AC, then angle B is equal to:",
+      "options": ["Angle A", "Angle C", "90°", "60°"],
+      "correctIndex": 1,
+      "explanation": "Angles opposite to equal sides are equal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m7_q9",
+      "text": "The symbol used for congruence is:",
+      "options": ["=", "≅", "≈", "||"],
+      "correctIndex": 1,
+      "explanation": "The symbol ≅ represents 'is congruent to'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m7_q10",
+      "text": "If two sides and the included angle of one triangle are equal to two sides and the included angle of another, they are congruent by:",
+      "options": ["SSS", "SAS", "ASA", "RHS"],
+      "correctIndex": 1,
+      "explanation": "SAS stands for Side-Angle-Side.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m7_q11",
+      "text": "In a triangle, the side opposite to the largest angle is the:",
+      "options": ["Smallest", "Median", "Longest", "Altitude"],
+      "correctIndex": 2,
+      "explanation": "In any triangle, the order of side lengths follows the order of angle measures.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m7_q12",
+      "text": "ASA congruence rule stands for:",
+      "options": ["Angle-Side-Angle", "Angle-Side-Altitude", "Area-Side-Angle", "None"],
+      "correctIndex": 0,
+      "explanation": "It requires two angles and the included side.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m7_q13",
+      "text": "In two right triangles, if the hypotenuse and one side are equal, they are congruent by:",
+      "options": ["SAS", "SSS", "ASA", "RHS"],
+      "correctIndex": 3,
+      "explanation": "RHS stands for Right angle-Hypotenuse-Side.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m7_q14",
+      "text": "If three sides of one triangle are equal to three sides of another triangle, they are congruent by:",
+      "options": ["SAS", "SSS", "ASA", "RHS"],
+      "correctIndex": 1,
+      "explanation": "SSS stands for Side-Side-Side.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m7_q15",
+      "text": "In ∆ABC, if AB = AC and ∠A = 100°, then ∠B is:",
+      "options": ["40°", "80°", "100°", "50°"],
+      "correctIndex": 0,
+      "explanation": "180 - 100 = 80. Since B=C, B = 80/2 = 40°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m7_q16",
+      "text": "A triangle in which all sides are unequal is called:",
+      "options": ["Isosceles", "Equilateral", "Scalene", "Right-angled"],
+      "correctIndex": 2,
+      "explanation": "Scalene triangles have no equal sides.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m7_q17",
+      "text": "Can a triangle have sides 2 cm, 3 cm, and 5 cm?",
+      "options": ["Yes", "No", "Only if it is right-angled", "Only if it is isosceles"],
+      "correctIndex": 1,
+      "explanation": "Sum of two sides (2+3=5) must be strictly greater than the third (5). Here it is equal.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m7_q18",
+      "text": "In ∆ABC and ∆PQR, AB=PQ, BC=QR and ∠B=∠Q. The triangles are congruent by:",
+      "options": ["SSS", "SAS", "ASA", "RHS"],
+      "correctIndex": 1,
+      "explanation": "The equal angle is included between the two equal sides.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m7_q19",
+      "text": "In a right triangle, if the other two angles are equal, the triangle is:",
+      "options": ["Equilateral", "Isosceles right triangle", "Scalene", "Acute"],
+      "correctIndex": 1,
+      "explanation": "The angles would be 90, 45, 45. Two equal angles mean two equal sides.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m7_q20",
+      "text": "The bisector of the vertical angle of an isosceles triangle ______ the base.",
+      "options": ["Is parallel to", "Bisects", "Is shorter than", "Does not touch"],
+      "correctIndex": 1,
+      "explanation": "In an isosceles triangle, the angle bisector of the vertex angle also bisects the base perpendicularly.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m7_q21",
+      "text": "The difference between any two sides of a triangle is ______ the third side.",
+      "options": ["Greater than", "Less than", "Equal to", "Double"],
+      "correctIndex": 1,
+      "explanation": "Property of triangle inequality.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m7_q22",
+      "text": "In ∆PQR, if ∠R > ∠Q, then:",
+      "options": ["QR > PR", "PQ > PR", "PQ < PR", "QR < PR"],
+      "correctIndex": 1,
+      "explanation": "The side opposite the larger angle (PQ) is longer than the side opposite the smaller angle (PR).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m7_q23",
+      "text": "Two figures are congruent if they have the same:",
+      "options": ["Shape", "Size", "Both shape and size", "Area only"],
+      "correctIndex": 2,
+      "explanation": "Congruence implies identical geometry in every aspect.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m7_q24",
+      "text": "If two angles and any side of one triangle are equal to two angles and the corresponding side of another triangle, they are congruent by:",
+      "options": ["ASA", "AAS", "SAS", "SSS"],
+      "correctIndex": 1,
+      "explanation": "AAS (Angle-Angle-Side) is a variation of ASA.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m7_q25",
+      "text": "Which side of a right triangle is the longest?",
+      "options": ["Side opposite to 30°", "Side opposite to 60°", "Side opposite to 90°", "None"],
+      "correctIndex": 2,
+      "explanation": "The hypotenuse, opposite the right angle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m7_q26",
+      "text": "A point equidistant from two given points lies on the:",
+      "options": ["Angle bisector", "Perpendicular bisector", "Median", "Altitude"],
+      "correctIndex": 1,
+      "explanation": "The perpendicular bisector of a segment is the locus of all points equidistant from the endpoints.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m7_q27",
+      "text": "The medians of an equilateral triangle are:",
+      "options": ["Unequal", "Equal", "Parallel", "Perpendicular to each other"],
+      "correctIndex": 1,
+      "explanation": "By symmetry, all three medians are identical in length in an equilateral triangle.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m7_q28",
+      "text": "In ∆ABC, if ∠A=40° and ∠B=60°, which is the longest side?",
+      "options": ["AB", "BC", "AC", "None"],
+      "correctIndex": 0,
+      "explanation": "∠C = 180 - (40+60) = 80°. Side opposite ∠C (which is AB) is the longest.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m7_q29",
+      "text": "Congruent triangles have ______ areas.",
+      "options": ["Equal", "Unequal", "Double", "Half"],
+      "correctIndex": 0,
+      "explanation": "Identity implies equal area.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m7_q30",
+      "text": "Can a triangle have two right angles?",
+      "options": ["Yes", "No", "Only if it is very large", "Only if it is very small"],
+      "correctIndex": 1,
+      "explanation": "Two right angles would sum to 180°, leaving 0° for the third angle, which is impossible.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m7_q31",
+      "text": "The perimeter of a triangle is the ______ of its sides.",
+      "options": ["Product", "Difference", "Sum", "Average"],
+      "correctIndex": 2,
+      "explanation": "Definition of perimeter.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m7_q32",
+      "text": "If ABC is an isosceles triangle with AB=AC, and AD is a median, then AD is:",
+      "options": ["Parallel to BC", "Perpendicular to BC", "Equal to AB", "Equal to BC"],
+      "correctIndex": 1,
+      "explanation": "Median to the base of an isosceles triangle is also an altitude.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m7_q33",
+      "text": "Internal bisectors of angles of a triangle meet at:",
+      "options": ["Centroid", "Incenter", "Orthocenter", "Circumcenter"],
+      "correctIndex": 1,
+      "explanation": "Standard definition in geometry.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m7_q34",
+      "text": "Altitudes of a triangle meet at:",
+      "options": ["Centroid", "Incenter", "Orthocenter", "Circumcenter"],
+      "correctIndex": 2,
+      "explanation": "Standard definition in geometry.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m7_q35",
+      "text": "Medians of a triangle meet at:",
+      "options": ["Centroid", "Incenter", "Orthocenter", "Circumcenter"],
+      "correctIndex": 0,
+      "explanation": "Standard definition in geometry.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m7_q36",
+      "text": "The centroid divides each median in the ratio:",
+      "options": ["1:1", "2:1", "3:1", "1:2"],
+      "correctIndex": 1,
+      "explanation": "The centroid is 2/3 of the way from the vertex to the midpoint of the opposite side.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m7_q37",
+      "text": "If ∆ABC ≅ ∆FED under the correspondence ABC ↔ FED, write the parts of ∆ABC that correspond to DE:",
+      "options": ["AB", "BC", "AC", "None"],
+      "correctIndex": 1,
+      "explanation": "BC corresponds to ED (or DE) based on vertex positions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m7_q38",
+      "text": "Two circles are congruent if they have the same:",
+      "options": ["Center", "Radius", "Area", "Chord"],
+      "correctIndex": 1,
+      "explanation": "Radii determine the size of a circle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m7_q39",
+      "text": "In ∆ABC, if AB=AC and ∠B=50°, then ∠A is:",
+      "options": ["50°", "80°", "100°", "40°"],
+      "correctIndex": 1,
+      "explanation": "∠C = ∠B = 50. ∠A = 180 - (50+50) = 80°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m7_q40",
+      "text": "Angles of an equilateral triangle are ______ to each other.",
+      "options": ["Equal", "Unequal", "Supplementary", "None"],
+      "correctIndex": 0,
+      "explanation": "All are 60 degrees.",
+      "frequencyRating": 5
+    }
+  ]
+}

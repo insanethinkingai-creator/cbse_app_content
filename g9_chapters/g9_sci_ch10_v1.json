@@ -1,0 +1,330 @@
+{
+  "id": "g9_sci_ch10",
+  "grade": "9",
+  "subject": "Science",
+  "number": "10",
+  "title": "Work and Energy",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_s10_q1",
+      "text": "Work is said to be done when:",
+      "options": ["A force acts on an object", "An object is at rest", "A force causes displacement", "Energy is constant"],
+      "correctIndex": 2,
+      "explanation": "Scientific work requires both a force and a displacement in the direction of the force.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q2",
+      "text": "The SI unit of work and energy is:",
+      "options": ["Watt", "Newton", "Joule", "Pascal"],
+      "correctIndex": 2,
+      "explanation": "1 Joule is the work done by a force of 1N to displace an object by 1m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q3",
+      "text": "The energy possessed by an object due to its motion is:",
+      "options": ["Potential Energy", "Kinetic Energy", "Chemical Energy", "Thermal Energy"],
+      "correctIndex": 1,
+      "explanation": "Kinetic Energy = 1/2 mv².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q4",
+      "text": "The potential energy of an object of mass 'm' at height 'h' is:",
+      "options": ["mgh", "1/2 mgh", "mv²", "mg/h"],
+      "correctIndex": 0,
+      "explanation": "Gravitational potential energy depends on mass, gravity, and vertical height.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q5",
+      "text": "Energy can neither be created nor destroyed; it only changes form. This is the:",
+      "options": ["Law of Inertia", "Law of Conservation of Energy", "Newton's Second Law", "Law of Work"],
+      "correctIndex": 1,
+      "explanation": "Total energy in an isolated system remains constant.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q6",
+      "text": "The rate of doing work is called:",
+      "options": ["Energy", "Power", "Momentum", "Velocity"],
+      "correctIndex": 1,
+      "explanation": "Power = Work / Time. SI unit is the Watt (W).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q7",
+      "text": "One kilowatt-hour (kWh) is equal to:",
+      "options": ["3.6 x 10⁶ J", "1000 J", "3600 J", "1 J"],
+      "correctIndex": 0,
+      "explanation": "1 kWh = 1000W * 3600s = 3,600,000 Joules.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q8",
+      "text": "A coolie carries a heavy load on his head and walks on a horizontal platform. The work done by gravity is:",
+      "options": ["Positive", "Negative", "Zero", "Infinite"],
+      "correctIndex": 2,
+      "explanation": "Work is zero because the force of gravity and displacement are perpendicular (90 degrees).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s10_q9",
+      "text": "If velocity of an object is doubled, its kinetic energy becomes:",
+      "options": ["Double", "Half", "Four times", "Eight times"],
+      "correctIndex": 2,
+      "explanation": "KE ∝ v². Doubling velocity makes KE 2² = 4 times.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q10",
+      "text": "Commercial unit of energy is:",
+      "options": ["Joule", "Watt", "kWh", "Horsepower"],
+      "correctIndex": 2,
+      "explanation": "Electrical energy consumption is measured in kilowatt-hours (units).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q11",
+      "text": "Work done is zero when the angle between force and displacement is:",
+      "options": ["0°", "45°", "90°", "180°"],
+      "correctIndex": 2,
+      "explanation": "W = Fs cosθ. Since cos 90° = 0, no work is done when force is perpendicular to motion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q12",
+      "text": "If a force of 10N displaces a body by 2m in its direction, the work done is:",
+      "options": ["5J", "12J", "20J", "2J"],
+      "correctIndex": 2,
+      "explanation": "W = F * s = 10 * 2 = 20 Joules.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q13",
+      "text": "Which of the following is NOT a form of potential energy?",
+      "options": ["Stretched rubber band", "Water in a dam", "Compressed spring", "A running athlete"],
+      "correctIndex": 3,
+      "explanation": "A running athlete possesses kinetic energy due to motion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s10_q14",
+      "text": "Mechanical energy is the sum of:",
+      "options": ["KE and PE", "Heat and KE", "Light and PE", "Electrical and Sound"],
+      "correctIndex": 0,
+      "explanation": "Mechanical Energy = Kinetic Energy + Potential Energy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q15",
+      "text": "When an object falls from a height, its potential energy ________.",
+      "options": ["Increases", "Decreases", "Stays same", "Becomes zero immediately"],
+      "correctIndex": 1,
+      "explanation": "As height decreases, mgh decreases, and this energy is converted into kinetic energy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q16",
+      "text": "One Watt is equal to:",
+      "options": ["1 J/s", "1 J s", "1 N m", "1 kg m/s"],
+      "correctIndex": 0,
+      "explanation": "Power is the rate of work; 1 Watt = 1 Joule per second.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q17",
+      "text": "If the mass of a moving object is doubled, its kinetic energy:",
+      "options": ["Is halved", "Doubles", "Stays same", "Quadruples"],
+      "correctIndex": 1,
+      "explanation": "KE = ½ mv². KE is directly proportional to mass.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s10_q18",
+      "text": "An electric bulb of 60W is used for 6 hours daily. Energy consumed in one day is:",
+      "options": ["0.36 units", "3.6 units", "360 units", "10 units"],
+      "correctIndex": 0,
+      "explanation": "Energy = Power * Time = 0.06 kW * 6 h = 0.36 kWh (units).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q19",
+      "text": "Work done is negative when:",
+      "options": ["Force is in direction of motion", "Force is opposite to motion", "Force is perpendicular", "No force is applied"],
+      "correctIndex": 1,
+      "explanation": "Angle is 180°, cos 180° = -1. Example: Work done by friction.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s10_q20",
+      "text": "The energy stored in a dry cell is ________ energy.",
+      "options": ["Electrical", "Potential", "Chemical", "Kinetic"],
+      "correctIndex": 2,
+      "explanation": "Cells store energy in the form of chemical bonds.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s10_q21",
+      "text": "A girl of mass 40kg climbs a height of 5m in 10s. Her power is (g=10):",
+      "options": ["200W", "2000W", "400W", "20W"],
+      "correctIndex": 0,
+      "explanation": "Power = Work/Time = mgh/t = (40*10*5)/10 = 200W.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q22",
+      "text": "Energy is a ________ quantity.",
+      "options": ["Vector", "Scalar", "Dimensionless", "Null"],
+      "correctIndex": 1,
+      "explanation": "Energy only has magnitude and no specific direction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q23",
+      "text": "The capacity to do work is called:",
+      "options": ["Force", "Power", "Energy", "Momentum"],
+      "correctIndex": 2,
+      "explanation": "An object possessing energy can exert force on another to perform work.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q24",
+      "text": "Work done by a centripetal force is always ________.",
+      "options": ["Positive", "Negative", "Zero", "Variable"],
+      "correctIndex": 2,
+      "explanation": "The force (towards center) is always perpendicular to motion (along tangent).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_s10_q25",
+      "text": "An object is thrown upwards. At the maximum height, it has:",
+      "options": ["Max KE, Min PE", "Min KE, Max PE", "Zero total energy", "Both equal"],
+      "correctIndex": 1,
+      "explanation": "Velocity is zero (min KE) and height is maximum (max PE).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q26",
+      "text": "If work is done at a faster rate, ________ is higher.",
+      "options": ["Energy", "Force", "Power", "Speed"],
+      "correctIndex": 2,
+      "explanation": "Power is defined as the rate of doing work.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q27",
+      "text": "1 Joule is equivalent to:",
+      "options": ["1 N m", "1 N/m", "1 kg m/s", "1 W/s"],
+      "correctIndex": 0,
+      "explanation": "Work = Force (N) * Displacement (m).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q28",
+      "text": "In a thermal power plant, heat energy is converted to:",
+      "options": ["Chemical energy", "Light energy", "Electrical energy", "Sound energy"],
+      "correctIndex": 2,
+      "explanation": "Steam turns turbines which generate electricity.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s10_q29",
+      "text": "When a stretched bow releases an arrow, PE converts to:",
+      "options": ["Heat energy", "Sound energy", "Kinetic energy", "Chemical energy"],
+      "correctIndex": 2,
+      "explanation": "The elastic potential energy of the bow moves the arrow.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s10_q30",
+      "text": "The energy of a body due to its position or configuration is ________.",
+      "options": ["Kinetic Energy", "Potential Energy", "Heat Energy", "Solar Energy"],
+      "correctIndex": 1,
+      "explanation": "This includes gravitational PE (position) and elastic PE (configuration).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q31",
+      "text": "Can an object have energy without momentum?",
+      "options": ["Yes", "No", "Only in space", "Only at rest"],
+      "correctIndex": 0,
+      "explanation": "An object at rest has Potential Energy but zero momentum (v=0).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_s10_q32",
+      "text": "Can an object have momentum without energy?",
+      "options": ["Yes", "No", "Depends on mass", "Only if accelerating"],
+      "correctIndex": 1,
+      "explanation": "If it has momentum, it must have velocity, and thus Kinetic Energy.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_s10_q33",
+      "text": "A solar cell converts ________ energy into electrical energy.",
+      "options": ["Heat", "Light", "Chemical", "Nuclear"],
+      "correctIndex": 1,
+      "explanation": "Photovoltaic cells directly convert sunlight to electricity.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s10_q34",
+      "text": "Total energy of a freely falling body remains ________.",
+      "options": ["Zero", "Maximum", "Constant", "Minimum"],
+      "correctIndex": 2,
+      "explanation": "According to the Law of Conservation of Energy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q35",
+      "text": "If we lift a book from the floor, work done by us is ________.",
+      "options": ["Positive", "Negative", "Zero", "Infinite"],
+      "correctIndex": 0,
+      "explanation": "Force applied and displacement are both upwards.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q36",
+      "text": "In the previous question, work done by gravity is ________.",
+      "options": ["Positive", "Negative", "Zero", "Constant"],
+      "correctIndex": 1,
+      "explanation": "Gravity acts downwards while the book moves upwards.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q37",
+      "text": "Which unit is used for household electricity bills?",
+      "options": ["Watt", "Joule", "Kilowatt-hour", "Ampere"],
+      "correctIndex": 2,
+      "explanation": "1 Unit = 1 kWh.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q38",
+      "text": "A body at rest can have ________.",
+      "options": ["Speed", "Velocity", "Energy", "Momentum"],
+      "correctIndex": 2,
+      "explanation": "It can have potential energy due to its position.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q39",
+      "text": "Kinetic energy of a body is ________ to the square of its speed.",
+      "options": ["Inversely proportional", "Directly proportional", "Equal", "Unrelated"],
+      "correctIndex": 1,
+      "explanation": "KE = ½ mv².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s10_q40",
+      "text": "Power is a ________ quantity.",
+      "options": ["Scalar", "Vector", "Both", "None"],
+      "correctIndex": 0,
+      "explanation": "Power is the ratio of two scalars (Work/Time).",
+      "frequencyRating": 5
+    }
+  ]
+}
