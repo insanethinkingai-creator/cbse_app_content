@@ -41,8 +41,8 @@ def validate_json(file_path, is_manifest=False):
         grade = str(data.get("grade"))
         expected_count = 40
         actual_count = len(data.get("questions", []))
-        if actual_count != expected_count:
-            raise ValueError(f"Data Error in {file_path}: Expected {expected_count} questions for Grade {grade}, but found {actual_count}")
+        if actual_count < expected_count:
+            raise ValueError(f"Data Error in {file_path}: Expected at least {expected_count} questions for Grade {grade}, but found only {actual_count}")
 
         for i, q in enumerate(data.get("questions", [])):
             q_id = q.get("id", f"index_{i}")

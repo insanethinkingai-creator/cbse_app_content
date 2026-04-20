@@ -1,0 +1,330 @@
+{
+  "id": "g7_eng_ch7",
+  "grade": "7",
+  "subject": "English",
+  "number": "7",
+  "title": "The Invention of Vita-Wonk",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g7_e7_q1",
+      "text": "Who is the inventor in the story?",
+      "options": ["Charlie", "Mr. Willy Wonka", "Oompa-Loompa", "Mr. Bucket"],
+      "correctIndex": 1,
+      "explanation": "Mr. Willy Wonka is the eccentric inventor of amazing things like Wonka-Vite and Vita-Wonk.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e7_q2",
+      "text": "What did Wonka-Vite do to people?",
+      "options": ["Made them older", "Made them younger", "Made them invisible", "Made them giant"],
+      "correctIndex": 1,
+      "explanation": "Wonka-Vite was an invention designed to make people young, but it was too strong.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e7_q3",
+      "text": "What happened to the person who took too much Wonka-Vite?",
+      "options": ["They turned into a baby", "Their age became minus 87", "They turned into a tree", "They flew away"],
+      "correctIndex": 1,
+      "explanation": "The invention was so powerful that one person's age dropped below zero, meaning they 'disappeared' and had to wait 87 years to be born.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e7_q4",
+      "text": "What was the purpose of the new invention, 'Vita-Wonk'?",
+      "options": ["To make people fly", "To make people older", "To make chocolate taste better", "To turn people into animals"],
+      "correctIndex": 1,
+      "explanation": "To reverse the effects of Wonka-Vite, Mr. Wonka needed a recipe to make people 'grow old' again.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e7_q5",
+      "text": "Mr. Wonka traveled across the world in his:",
+      "options": ["Time machine", "Great Glass Elevator", "Magic Carpet", "Hot Air Balloon"],
+      "correctIndex": 1,
+      "explanation": "He used the Great Glass Elevator to visit various parts of the world to collect ingredients.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e7_q6",
+      "text": "Which tree is mentioned as living the longest?",
+      "options": ["Oak", "Bristlecone Pine", "Cedar", "Douglas Fir"],
+      "correctIndex": 1,
+      "explanation": "Mr. Wonka identifies the Bristlecone Pine, which lives for over 4,000 years, as the oldest living thing.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e7_q7",
+      "text": "Where can the Bristlecone Pine tree be found today?",
+      "options": ["Mount Everest", "Wheeler Peak in Nevada, USA", "The Amazon Rainforest", "The Sahara Desert"],
+      "correctIndex": 1,
+      "explanation": "Mr. Wonka tells Charlie that these ancient trees grow on the slopes of Wheeler Peak.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e7_q8",
+      "text": "Which of these was NOT an ingredient collected by Mr. Wonka?",
+      "options": ["A pint of sap from a 4,000-year-old pine", "The tail of a 51-year-old horse", "A cup of fresh milk from a cow", "The whiskers of a 36-year-old cat"],
+      "correctIndex": 2,
+      "explanation": "Mr. Wonka only collected parts of ancient or long-lived creatures; fresh milk was not one of them.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e7_q9",
+      "text": "What was the name of the cat mentioned in the ingredients?",
+      "options": ["Crumpets", "Fluffy", "Tom", "Felix"],
+      "correctIndex": 0,
+      "explanation": "The ingredient was 'the whiskers of a 36-year-old cat called Crumpets'.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e7_q10",
+      "text": "What did Mr. Wonka collect from the Russian Farmer, Petrova?",
+      "options": ["A toenail clipping", "A lock of hair", "An old shoe", "A wooden spoon"],
+      "correctIndex": 0,
+      "explanation": "He collected an egg-cupful of sugar from the toenail clippings of an 168-year-old Russian farmer.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e7_q11",
+      "text": "How many drops of the final oily black liquid did the volunteer swallow?",
+      "options": ["Two", "Four", "Ten", "One hundred"],
+      "correctIndex": 1,
+      "explanation": "The brave Oompa-Loompa swallowed four drops of the finished product.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e7_q12",
+      "text": "Who was the brave volunteer for the test?",
+      "options": ["Charlie", "A 20-year-old Oompa-Loompa", "An old man", "A giant tortoise"],
+      "correctIndex": 1,
+      "explanation": "A young, twenty-year-old Oompa-Loompa volunteered to test the new invention.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e7_q13",
+      "text": "What happened to the volunteer immediately after swallowing the liquid?",
+      "options": ["He grew wings", "He began wrinkling and shrivelling up", "He turned into a baby", "He became invisible"],
+      "correctIndex": 1,
+      "explanation": "The Vita-Wonk worked instantly, making the young man look very old.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e7_q14",
+      "text": "At what age did the volunteer end up after taking Vita-Wonk?",
+      "options": ["50", "75", "100", "4,000"],
+      "correctIndex": 1,
+      "explanation": "The text states that he suddenly became an old fellow of seventy-five.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e7_q15",
+      "text": "The author of 'Charlie and the Chocolate Factory', from which this is adapted, is:",
+      "options": ["J.K. Rowling", "Roald Dahl", "Ruskin Bond", "Enid Blyton"],
+      "correctIndex": 1,
+      "explanation": "Roald Dahl is the famous author who created Willy Wonka.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e7_q16",
+      "text": "What was the color of the liquid created by Mr. Wonka?",
+      "options": ["Bright Red", "Blue", "Black", "Golden"],
+      "correctIndex": 2,
+      "explanation": "The final mixture was an 'oily black liquid'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e7_q17",
+      "text": "Mr. Wonka said he had to 'mix and boil and bubbled and mixed' the ingredients in his:",
+      "options": ["Kitchen", "Inventing Room", "Garden", "Laboratory"],
+      "correctIndex": 1,
+      "explanation": "All his great inventions take place in the Inventing Room.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e7_q18",
+      "text": "What was special about the Knuckle-bones collected in Tibet?",
+      "options": ["They belonged to a 97-year-old Grimalkin", "They were made of gold", "They were from a giant", "They belonged to a 700-year-old Cattaloo"],
+      "correctIndex": 1,
+      "explanation": "Mr. Wonka mentions collecting knuckle-bones from a 700-year-old Cattaloo living in Tibet.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_e7_q19",
+      "text": "The story uses many funny, made-up names for animals. Which of these is one?",
+      "options": ["Whangdoodle", "Elephant", "Tiger", "Sparrow"],
+      "correctIndex": 0,
+      "explanation": "Whangdoodles, Hornswogglers, and Snozzwangers are classic Roald Dahl creations.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e7_q20",
+      "text": "Charlie's role in this excerpt is to:",
+      "options": ["Help mix the ingredients", "Listen to Mr. Wonka and ask questions", "Find the Oompa-Loompa", "Drive the elevator"],
+      "correctIndex": 1,
+      "explanation": "Charlie acts as the audience, listening to Mr. Wonka's fantastic descriptions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e7_q21",
+      "text": "What did Mr. Wonka do when he 'struck upon' the idea of Vita-Wonk?",
+      "options": ["He cried", "He jumped for joy", "He went to sleep", "He ate chocolate"],
+      "correctIndex": 1,
+      "explanation": "He was so excited by the new idea that he literally jumped for joy.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e7_q22",
+      "text": "What does 'Vita' in Vita-Wonk likely refer to?",
+      "options": ["Victory", "Life/Vitality", "Vitamin", "Vinegar"],
+      "correctIndex": 1,
+      "explanation": "In Latin, 'Vita' means life, often used in things relating to health or age.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e7_q23",
+      "text": "Why was the Oompa-Loompa's hair falling out after taking the drops?",
+      "options": ["He was sick", "He was aging rapidly", "He was scared", "The room was hot"],
+      "correctIndex": 1,
+      "explanation": "Rapid aging involves losing hair and teeth, which happened instantly to the volunteer.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e7_q24",
+      "text": "Mr. Wonka says he went 'all over the world'. This shows he is:",
+      "options": ["Lazy", "Very determined and hardworking", "Lost", "Bored"],
+      "correctIndex": 1,
+      "explanation": "He was willing to travel anywhere to find the exact ancient ingredients he needed.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e7_q25",
+      "text": "How did Charlie react to the list of items Mr. Wonka collected?",
+      "options": ["He didn't believe him", "He was amazed", "He thought they were gross", "He wanted to eat them"],
+      "correctIndex": 1,
+      "explanation": "Charlie is consistently wide-eyed and amazed by Mr. Wonka's stories.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e7_q26",
+      "text": "Which of these is a 'living thing' Mr. Wonka searched for?",
+      "options": ["A rock", "A flea", "The moon", "A cloud"],
+      "correctIndex": 1,
+      "explanation": "He mentioned collecting things like the stinger of a venomous Squerkle (an insect).",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_e7_q27",
+      "text": "What is the tone of the story?",
+      "options": ["Sad and serious", "Humorous and imaginative", "Boring", "Scary"],
+      "correctIndex": 1,
+      "explanation": "The story uses exaggerated lists and funny names to create a whimsical atmosphere.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e7_q28",
+      "text": "What was the age of the tortoise mentioned?",
+      "options": ["100", "200", "500", "1,000"],
+      "correctIndex": 1,
+      "explanation": "He collected an egg from a 200-year-old giant tortoise from the Tonga Islands.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e7_q29",
+      "text": "What is 'Wonka-Vite' compared to?",
+      "options": ["A poison", "A vitamin", "Medicine", "Candy"],
+      "correctIndex": 2,
+      "explanation": "It's treated as a powerful medicine that changes biological age.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e7_q30",
+      "text": "In the end, Mr. Wonka was ________ with his invention.",
+      "options": ["Disappointed", "Successful", "Angry", "Confused"],
+      "correctIndex": 1,
+      "explanation": "He proudly announced to Charlie that 'Vita-Wonk was invented!'",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e7_q31",
+      "text": "Which part of the world did Mr. Wonka NOT mention visiting?",
+      "options": ["Nevada, USA", "Tibet", "Tonga Islands", "Antarctica"],
+      "correctIndex": 3,
+      "explanation": "The text mentions the others, but not Antarctica.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g7_e7_q32",
+      "text": "What is an 'Oompa-Loompa'?",
+      "options": ["A giant", "A small person who works for Mr. Wonka", "A robot", "A type of chocolate"],
+      "correctIndex": 1,
+      "explanation": "They are the small, loyal workers in Willy Wonka's factory.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e7_q33",
+      "text": "What does 'shrivelled up' mean?",
+      "options": ["Grew taller", "Became wrinkled and smaller", "Exploded", "Turned blue"],
+      "correctIndex": 1,
+      "explanation": "It describes the process of aging or drying out.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e7_q34",
+      "text": "The story suggests that scientific invention requires:",
+      "options": ["Only luck", "Careful tracking of results and bold experimentation", "A lot of money", "Many workers"],
+      "correctIndex": 1,
+      "explanation": "Mr. Wonka's tracking of ingredients and the use of a volunteer shows a (whimsical) scientific process.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e7_q35",
+      "text": "What did Mr. Wonka use to measure the 'drops' of liquid?",
+      "options": ["A bucket", "A tiny dropper", "A spoon", "His hands"],
+      "correctIndex": 1,
+      "explanation": "He measured out exactly four drops.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e7_q36",
+      "text": "How old was the Bristlecone Pine again?",
+      "options": ["100 years", "4,000 years", "10,000 years", "50 years"],
+      "correctIndex": 1,
+      "explanation": "It is stated clearly as being over 4,000 years old.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e7_q37",
+      "text": "What happened to the teeth of the Oompa-Loompa?",
+      "options": ["They turned into gold", "They started falling out", "They grew longer", "They became very sharp"],
+      "correctIndex": 1,
+      "explanation": "Losing teeth is a sign of extreme old age in the story's transformation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e7_q38",
+      "text": "Who did Mr. Wonka want to make older?",
+      "options": ["Charlie", "People who had become 'minus'", "Himself", "The Oompa-Loompas"],
+      "correctIndex": 1,
+      "explanation": "He needed to bring back those who had disappeared due to Wonka-Vite.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e7_q39",
+      "text": "The 'Inventing Room' was full of:",
+      "options": ["Candy", "Smoke and machines", "Books", "Toys"],
+      "correctIndex": 1,
+      "explanation": "It was a place of frantic activity, boiling liquids, and machines.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e7_q40",
+      "text": "What is the moral or theme of this story?",
+      "options": ["Don't eat too much chocolate", "Be careful with what you wish for/invent", "Nature is dangerous", "Travel is good"],
+      "correctIndex": 1,
+      "explanation": "The unintended consequences of Wonka-Vite show that interventions in nature can have messy results.",
+      "frequencyRating": 5
+    }
+  ]
+}

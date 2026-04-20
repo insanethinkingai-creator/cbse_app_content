@@ -8,524 +8,322 @@
   "questions": [
     {
       "id": "g8_m8_q1",
-      "text": "Expression with variables:",
-      "options": [
-        "2x + 3y",
-        "5",
-        "x+y+z=10",
-        "Constant"
-      ],
-      "correctIndex": 0,
-      "explanation": "Polynomial.",
+      "text": "Which of the following is a monomial?",
+      "options": ["x + y", "2x", "x^2 + 2x + 1", "3x - 5"],
+      "correctIndex": 1,
+      "explanation": "A monomial is an expression with only one term.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m8_q2",
-      "text": "Monomial has:",
-      "options": [
-        "One term",
-        "Two",
-        "Three",
-        "Variables"
-      ],
-      "correctIndex": 0,
-      "explanation": "Like term.",
+      "text": "What is the coefficient of x in the expression 5 - 3x?",
+      "options": ["3", "-3", "5", "x"],
+      "correctIndex": 1,
+      "explanation": "The term is -3x, so the numerical coefficient is -3.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m8_q3",
-      "text": "Binomial:",
-      "options": [
-        "2 terms",
-        "1",
-        "3",
-        "0"
-      ],
-      "correctIndex": 0,
-      "explanation": "ax + b.",
+      "text": "Identify the like terms in: 7x, 14y, -13x, 5xy.",
+      "options": ["7x, 14y", "7x, -13x", "14y, 5xy", "All are like terms"],
+      "correctIndex": 1,
+      "explanation": "Like terms have the same algebraic factors (here, 'x').",
       "frequencyRating": 5
     },
     {
       "id": "g8_m8_q4",
-      "text": "Like terms:",
-      "options": [
-        "Same variables powers",
-        "Different",
-        "Constants",
-        "Numbers"
-      ],
+      "text": "Add: 7x + 5y and 3x - 2y.",
+      "options": ["10x + 3y", "4x + 3y", "10x - 7y", "10xy"],
       "correctIndex": 0,
-      "explanation": "Combine.",
+      "explanation": "(7x + 3x) + (5y - 2y) = 10x + 3y.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m8_q5",
-      "text": "Factors of term 6xy:",
-      "options": [
-        "6,x,y",
-        "6y",
-        "x",
-        "All"
-      ],
+      "text": "Subtract 4a - 7ab + 3b + 12 from 12a - 9ab + 5b - 3.",
+      "options": ["8a - 2ab + 2b - 15", "8a + 2ab + 2b - 15", "8a - 16ab + 8b + 9", "16a - 2ab + 8b - 15"],
       "correctIndex": 0,
-      "explanation": "6·x·y.",
-      "frequencyRating": 5
+      "explanation": "(12a-4a) + (-9ab+7ab) + (5b-3b) + (-3-12) = 8a - 2ab + 2b - 15.",
+      "frequencyRating": 4
     },
     {
       "id": "g8_m8_q6",
-      "text": "Multiplicative identity:",
-      "options": [
-        "1",
-        "0",
-        "-1",
-        "x"
-      ],
-      "correctIndex": 0,
-      "explanation": "Any *1 =any.",
+      "text": "Product of 4x and 7y is:",
+      "options": ["11xy", "28x", "28y", "28xy"],
+      "correctIndex": 3,
+      "explanation": "4 * 7 * x * y = 28xy.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m8_q7",
-      "text": "(a+b)^2 = ?",
-      "options": [
-        "a² +2ab + b²",
-        "a² + b²",
-        "a² - b²",
-        "No"
-      ],
+      "text": "Multiply (x - 4) and (2x + 3).",
+      "options": ["2x^2 - 5x - 12", "2x^2 + 5x - 12", "2x^2 - 11x - 12", "2x^2 + 11x + 12"],
       "correctIndex": 0,
-      "explanation": "Identity.",
+      "explanation": "x(2x+3) - 4(2x+3) = 2x^2 + 3x - 8x - 12 = 2x^2 - 5x - 12.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m8_q8",
-      "text": "(a-b)^2 = ?",
-      "options": [
-        "a² -2ab + b²",
-        "a² + b²",
-        "a² +2ab + b²",
-        "a² - b²"
-      ],
-      "correctIndex": 0,
-      "explanation": "Identity.",
+      "text": "The value of (a + b)^2 is:",
+      "options": ["a^2 + b^2", "a^2 - 2ab + b^2", "a^2 + 2ab + b^2", "2a + 2b"],
+      "correctIndex": 2,
+      "explanation": "This is a standard algebraic identity.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m8_q9",
-      "text": "a² - b² =",
-      "options": [
-        "(a+b)(a-b)",
-        "(a+b)^2",
-        "(a-b)^2",
-        "No"
-      ],
-      "correctIndex": 0,
-      "explanation": "Difference squares.",
+      "text": "The value of (a - b)^2 is:",
+      "options": ["a^2 - b^2", "a^2 - 2ab + b^2", "a^2 + 2ab + b^2", "a^2 + b^2 - ab"],
+      "correctIndex": 1,
+      "explanation": "This is a standard algebraic identity.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m8_q10",
-      "text": "Simplify 3x² +5x -2x²:",
-      "options": [
-        "x² +5x",
-        "8x²",
-        "5x",
-        "x²"
-      ],
-      "correctIndex": 0,
-      "explanation": "Like terms.",
+      "text": "The value of (a + b)(a - b) is:",
+      "options": ["a^2 + b^2", "a^2 - b^2", "(a-b)^2", "2a - 2b"],
+      "correctIndex": 1,
+      "explanation": "This is a standard algebraic identity.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m8_q11",
-      "text": "Coefficient of x in 4x:",
-      "options": [
-        "4",
-        "x",
-        "1",
-        "0"
-      ],
-      "correctIndex": 0,
-      "explanation": "Numerical.",
+      "text": "Find the product: (x + 3)(x + 3).",
+      "options": ["x^2 + 9", "x^2 + 6x + 9", "x^2 - 6x + 9", "2x + 6"],
+      "correctIndex": 1,
+      "explanation": "Use (a+b)^2 = a^2 + 2ab + b^2.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m8_q12",
-      "text": "(x+3)(x+4) =",
-      "options": [
-        "x² +7x +12",
-        "x² +x +12",
-        "x² +12",
-        "2x +12"
-      ],
-      "correctIndex": 0,
-      "explanation": "FOIL.",
+      "text": "Find the product: (2y + 5)(2y - 5).",
+      "options": ["4y^2 + 25", "4y^2 - 25", "4y^2 - 20y + 25", "2y^2 - 5"],
+      "correctIndex": 1,
+      "explanation": "Use (a+b)(a-b) = a^2 - b^2.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m8_q13",
-      "text": "Identity (a+b+c)^2 = ?",
-      "options": [
-        "a²+b²+c² +2ab+2bc+2ca",
-        "a³+b³+c³",
-        "a²+b²+c²",
-        "No"
-      ],
+      "text": "Evaluate 103^2 using identities.",
+      "options": ["10609", "10009", "10906", "10606"],
       "correctIndex": 0,
-      "explanation": "Square.",
+      "explanation": "(100 + 3)^2 = 10000 + 2*100*3 + 9 = 10609.",
       "frequencyRating": 4
     },
     {
       "id": "g8_m8_q14",
-      "text": "Degree of polynomial:",
-      "options": [
-        "Highest power",
-        "Terms",
-        "Constants",
-        "No"
-      ],
+      "text": "Evaluate 98^2 using identities.",
+      "options": ["9604", "9406", "9804", "10004"],
       "correctIndex": 0,
-      "explanation": "Leading.",
+      "explanation": "(100 - 2)^2 = 10000 - 400 + 4 = 9604.",
       "frequencyRating": 4
     },
     {
       "id": "g8_m8_q15",
-      "text": "3(2x + y - z) =",
-      "options": [
-        "6x +3y -3z",
-        "5x + y",
-        "6x",
-        "No"
-      ],
-      "correctIndex": 0,
-      "explanation": "Distributive.",
-      "frequencyRating": 5
+      "text": "Identify the terms in the expression: x^2y^2 - 5.",
+      "options": ["x, y, 5", "x^2y^2, -5", "x^2, y^2, 5", "x^2y^2, 5"],
+      "correctIndex": 1,
+      "explanation": "Terms are separated by plus or minus signs.",
+      "frequencyRating": 3
     },
     {
       "id": "g8_m8_q16",
-      "text": "Standard form x² + x + 1:",
-      "options": [
-        "Descending powers",
-        "Ascending",
-        "Random",
-        "No"
-      ],
-      "correctIndex": 0,
-      "explanation": "Yes.",
-      "frequencyRating": 4
+      "text": "A binomial is an expression containing ________ terms.",
+      "options": ["1", "2", "3", "Many"],
+      "correctIndex": 1,
+      "explanation": "Prefix 'bi' means two.",
+      "frequencyRating": 5
     },
     {
       "id": "g8_m8_q17",
-      "text": "Addition (x+2) + (3x-1) =",
-      "options": [
-        "4x +1",
-        "2x +1",
-        "4x",
-        "x +1"
-      ],
+      "text": "Simplify: a(a + b) - b(a - b).",
+      "options": ["a^2 + b^2", "a^2 - b^2", "a^2 + 2ab + b^2", "a^2 - 2ab"],
       "correctIndex": 0,
-      "explanation": "Like.",
-      "frequencyRating": 5
+      "explanation": "a^2 + ab - ab + b^2 = a^2 + b^2.",
+      "frequencyRating": 4
     },
     {
       "id": "g8_m8_q18",
-      "text": "(2x+3)^2 =",
-      "options": [
-        "4x² +12x +9",
-        "4x² +9",
-        "2x² +3",
-        "No"
-      ],
+      "text": "Find the product: (x + 3)(x + 7).",
+      "options": ["x^2 + 10x + 21", "x^2 + 21", "x^2 + 4x + 21", "x^2 + 10x + 10"],
       "correctIndex": 0,
-      "explanation": "Identity.",
-      "frequencyRating": 5
+      "explanation": "Use identity (x+a)(x+b) = x^2 + (a+b)x + ab.",
+      "frequencyRating": 4
     },
     {
       "id": "g8_m8_q19",
-      "text": "Binomial product (x+5)(x-5):",
-      "options": [
-        "x² -25",
-        "x² +25",
-        "2x",
-        "10x"
-      ],
-      "correctIndex": 0,
-      "explanation": "Difference.",
-      "frequencyRating": 5
+      "text": "Degree of a constant term is:",
+      "options": ["1", "0", "Undefined", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "A constant can be written as c * x^0.",
+      "frequencyRating": 2
     },
     {
       "id": "g8_m8_q20",
-      "text": "Monomials factors common:",
-      "options": [
-        "Common monomial",
-        "No",
-        "All",
-        "Constants"
-      ],
+      "text": "Find the value of 51^2 - 49^2.",
+      "options": ["200", "100", "400", "20"],
       "correctIndex": 0,
-      "explanation": "Factorise.",
+      "explanation": "(51+49)(51-49) = 100 * 2 = 200.",
       "frequencyRating": 4
     },
     {
       "id": "g8_m8_q21",
-      "text": "Degree 3x²y:",
-      "options": [
-        "3",
-        "2",
-        "1",
-        "5"
-      ],
+      "text": "Multiply: -4p and (q + r).",
+      "options": ["-4pq - 4pr", "4pq + 4pr", "-4pqr", "-4p + q + r"],
       "correctIndex": 0,
-      "explanation": "2+1=3.",
+      "explanation": "Distributive law: -4p*q + (-4p)*r.",
       "frequencyRating": 4
     },
     {
       "id": "g8_m8_q22",
-      "text": "Zero coefficient term 0:",
-      "options": [
-        "Omitted",
-        "Included",
-        "No",
-        "Constant"
-      ],
-      "correctIndex": 0,
-      "explanation": "Not written.",
-      "frequencyRating": 4
+      "text": "Area of a rectangle with length 2x and breadth 3y is:",
+      "options": ["5xy", "6xy", "2x + 3y", "6x^2y^2"],
+      "correctIndex": 1,
+      "explanation": "Area = length * breadth = 2x * 3y = 6xy.",
+      "frequencyRating": 5
     },
     {
       "id": "g8_m8_q23",
-      "text": "Multiply (3x)(4x):",
-      "options": [
-        "12x²",
-        "7x",
-        "12x",
-        "x"
-      ],
-      "correctIndex": 0,
-      "explanation": "Coefficients variables.",
-      "frequencyRating": 5
+      "text": "Simplify: (a + b)(2a - 3b + c) - (2a - 3b)c.",
+      "options": ["2a^2 - ab - 3b^2 + bc", "2a^2 - ab - 3b^2 + ac", "2a^2 + ab - 3b^2", "None"],
+      "correctIndex": 1,
+      "explanation": "Expanding gives 2a^2 - 3ab + ac + 2ab - 3b^2 + bc - 2ac + 3bc. Simplified: 2a^2 - ab - 3b^2 + ac.",
+      "frequencyRating": 2
     },
     {
       "id": "g8_m8_q24",
-      "text": "Identity verify (99)^2 = (100-1)^2 =10000 -200 +1=9801.",
-      "options": [
-        "Yes",
-        "No",
-        "Square",
-        "Cube"
-      ],
+      "text": "Evaluate 1.1^2 using identities.",
+      "options": ["1.21", "1.11", "2.1", "1.2"],
       "correctIndex": 0,
-      "explanation": "Use identity.",
-      "frequencyRating": 5
+      "explanation": "(1 + 0.1)^2 = 1 + 0.2 + 0.01 = 1.21.",
+      "frequencyRating": 3
     },
     {
       "id": "g8_m8_q25",
-      "text": "(x+2y)^2 =",
-      "options": [
-        "x² +4xy +4y²",
-        "x² +2xy +y²",
-        "x² +4y²",
-        "No"
-      ],
-      "correctIndex": 0,
-      "explanation": "Identity.",
+      "text": "Identity (x + a)(x + b) = ________.",
+      "options": ["x^2 + ab", "x^2 + (a+b)x + ab", "x^2 + ax + b", "x^2 + (a-b)x - ab"],
+      "correctIndex": 1,
+      "explanation": "Standard identity for binomial product with common term.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m8_q26",
-      "text": "Simplify 5p³q² +2p³q² =",
-      "options": [
-        "7p³q²",
-        "10p⁵",
-        "7pq",
-        "No"
-      ],
-      "correctIndex": 0,
-      "explanation": "Like.",
-      "frequencyRating": 5
+      "text": "Expression xy + yz + zx is a:",
+      "options": ["Monomial", "Binomial", "Trinomial", "Polynomial"],
+      "correctIndex": 2,
+      "explanation": "It has three terms.",
+      "frequencyRating": 4
     },
     {
       "id": "g8_m8_q27",
-      "text": "(a-b-c)^2 =",
-      "options": [
-        "a² + b² + c² -2ab +2ac -2bc",
-        "a²+b²+c²-2ab-2bc-2ca",
-        "No",
-        "a² - b² - c²"
-      ],
-      "correctIndex": 1,
-      "explanation": "All -2.",
+      "text": "Numerical coefficient of -y is:",
+      "options": ["y", "1", "-1", "0"],
+      "correctIndex": 2,
+      "explanation": "-y is -1 * y.",
       "frequencyRating": 4
     },
     {
       "id": "g8_m8_q28",
-      "text": "Common factor 2x(3x +4) -2x( x +5 ) =",
-      "options": [
-        "2x (3x +4 -x -5) =2x(2x -1)",
-        "6x² -2x²",
-        "No",
-        "5x"
-      ],
-      "correctIndex": 0,
-      "explanation": "2x common.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g8_m8_q29",
-      "text": "Polynomial terms 4:",
-      "options": [
-        "Quartic",
-        "Cubic",
-        "Quadratic",
-        "Linear"
-      ],
-      "correctIndex": 0,
-      "explanation": "Degree 4.",
+      "text": "Like terms have same ________ factors.",
+      "options": ["Numerical", "Algebraic", "Constant", "None"],
+      "correctIndex": 1,
+      "explanation": "Algebraic factors are the variables part.",
       "frequencyRating": 4
     },
     {
+      "id": "g8_m8_q29",
+      "text": "Result of 5x * 0 is:",
+      "options": ["5x", "5", "0", "x"],
+      "correctIndex": 2,
+      "explanation": "Any expression multiplied by zero is zero.",
+      "frequencyRating": 3
+    },
+    {
       "id": "g8_m8_q30",
-      "text": "Use identity (102)^2 = (100+2)^2 =10000 +400 +4 =10404.",
-      "options": [
-        "Yes",
-        "No",
-        "Cube",
-        "Linear"
-      ],
-      "correctIndex": 0,
-      "explanation": "Easy calc.",
-      "frequencyRating": 5
+      "text": "Evaluate 10.5 * 9.5 using (a+b)(a-b).",
+      "options": ["100", "99.75", "99.25", "101.25"],
+      "correctIndex": 1,
+      "explanation": "(10 + 0.5)(10 - 0.5) = 100 - 0.25 = 99.75.",
+      "frequencyRating": 3
     },
     {
       "id": "g8_m8_q31",
-      "text": "Binomial expansion (x+y)(x-y):",
-      "options": [
-        "x² -y²",
-        "x² +y²",
-        "2xy",
-        "No"
-      ],
-      "correctIndex": 0,
-      "explanation": "Difference.",
-      "frequencyRating": 5
+      "text": "Add: ab - bc, bc - ca, ca - ab.",
+      "options": ["abc", "ab+bc+ca", "0", "a+b+c"],
+      "correctIndex": 2,
+      "explanation": "All terms cancel out.",
+      "frequencyRating": 4
     },
     {
       "id": "g8_m8_q32",
-      "text": "Add (2a +3b) + (a - b) =",
-      "options": [
-        "3a +2b",
-        "3a +4b",
-        "a +2b",
-        "No"
-      ],
-      "correctIndex": 0,
-      "explanation": "3a +2b.",
-      "frequencyRating": 5
+      "text": "Volume of cuboid with length 2ax, breadth 3by and height 5cz is:",
+      "options": ["10abcxyz", "30abcxyz", "15abcxyz", "30axbycz"],
+      "correctIndex": 1,
+      "explanation": "2ax * 3by * 5cz = 30abcxyz.",
+      "frequencyRating": 4
     },
     {
       "id": "g8_m8_q33",
-      "text": "Degree x⁴ + x³ + x:",
-      "options": [
-        "4",
-        "3",
-        "1",
-        "0"
-      ],
-      "correctIndex": 0,
-      "explanation": "Highest.",
-      "frequencyRating": 5
+      "text": "The coefficient of x^2 in 2x^2y is:",
+      "options": ["2", "y", "2y", "x^2"],
+      "correctIndex": 2,
+      "explanation": "Everything except x^2 is the coefficient if not specified as 'numerical'.",
+      "frequencyRating": 2
     },
     {
       "id": "g8_m8_q34",
-      "text": "Factors 12x²y:",
-      "options": [
-        "12,x,x,y",
-        "12y",
-        "x",
-        "No"
-      ],
-      "correctIndex": 0,
-      "explanation": "Prime.",
+      "text": "Subtract x^2 - y^2 from y^2 - x^2.",
+      "options": ["0", "2y^2 - 2x^2", "2x^2 - 2y^2", "x^2 + y^2"],
+      "correctIndex": 1,
+      "explanation": "(y^2 - x^2) - (x^2 - y^2) = y^2 - x^2 - x^2 + y^2 = 2y^2 - 2x^2.",
       "frequencyRating": 4
     },
     {
       "id": "g8_m8_q35",
-      "text": "(3x -2)^2 =",
-      "options": [
-        "9x² -12x +4",
-        "9x² +4",
-        "6x -2",
-        "No"
-      ],
+      "text": "Standard identity for (x+a)(x+b) is used to calculate:",
+      "options": ["103 * 104", "103^2", "103 * 97", "None"],
       "correctIndex": 0,
-      "explanation": "Identity.",
-      "frequencyRating": 5
+      "explanation": "(100 + 3)(100 + 4).",
+      "frequencyRating": 4
     },
     {
       "id": "g8_m8_q36",
-      "text": "Common factor x(y + z) + 2(y + z):",
-      "options": [
-        "(x +2)(y + z)",
-        "x +2y +2z",
-        "No",
-        "y + z"
-      ],
-      "correctIndex": 0,
-      "explanation": "Binomial common.",
+      "text": "Expression 4p^2q - 4pq^2 is a:",
+      "options": ["Monomial", "Binomial", "Trinomial", "Constant"],
+      "correctIndex": 1,
+      "explanation": "Contains two terms.",
       "frequencyRating": 5
     },
     {
       "id": "g8_m8_q37",
-      "text": "(x +9)(x +11) using identity? (10 + (x-1)) approx but direct:",
-      "options": [
-        "x² +20x +99",
-        "x² +10x +9",
-        "No",
-        "x² +99"
-      ],
-      "correctIndex": 0,
-      "explanation": "FOIL x² +20x +99.",
+      "text": "Simplify (x + y)^2 - (x - y)^2.",
+      "options": ["2x^2 + 2y^2", "4xy", "0", "2xy"],
+      "correctIndex": 1,
+      "explanation": "(x^2+2xy+y^2) - (x^2-2xy+y^2) = 4xy.",
       "frequencyRating": 4
     },
     {
       "id": "g8_m8_q38",
-      "text": "Trinomial:",
-      "options": [
-        "3 terms",
-        "2",
-        "1",
-        "4"
-      ],
+      "text": "Evaluate 153^2 - 147^2.",
+      "options": ["1800", "3000", "1500", "600"],
       "correctIndex": 0,
-      "explanation": "ax² +bx +c.",
-      "frequencyRating": 4
+      "explanation": "(153+147)(153-147) = 300 * 6 = 1800.",
+      "frequencyRating": 3
     },
     {
       "id": "g8_m8_q39",
-      "text": "Identity useful for:",
-      "options": [
-        "Large numbers",
-        "Small",
-        "No",
-        "Always"
-      ],
-      "correctIndex": 0,
-      "explanation": "Like 98²=(100-2)^2.",
-      "frequencyRating": 5
+      "text": "The coefficient of x^0 in 5x + 7 is:",
+      "options": ["5", "7", "x", "0"],
+      "correctIndex": 1,
+      "explanation": "7 is 7 * x^0.",
+      "frequencyRating": 2
     },
     {
       "id": "g8_m8_q40",
-      "text": "Simplify 7mn² +4m n² - mn²:",
-      "options": [
-        "10mn²",
-        "10m n³",
-        "6mn²",
-        "No"
-      ],
+      "text": "An identity is true for ________ values of the variables.",
+      "options": ["No", "Some", "All", "Only positive"],
       "correctIndex": 2,
-      "explanation": "7+4-1=10? 7+4=11 -1=10 mn².",
-      "correctIndex": 0,
-      "explanation": "10mn².",
+      "explanation": "Definition of an algebraic identity.",
       "frequencyRating": 5
     }
   ]

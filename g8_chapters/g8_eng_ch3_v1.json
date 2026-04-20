@@ -1,1 +1,330 @@
-{"id":"g8_eng_ch3","grade":"8","subject":"English","number":"3","title":"Glimpses of the Past","version":"v1","questions":[{"id":"g8_e3_q1","text":"Story grandmother grandmother:","options":["Yes grandmother story","Grandfather","No","Future"],"correctIndex":0,"explanation":"Three tales.","frequencyRating":5},{"id":"g8_e3_q2","text":"Grandmother young:","options":["Yes wrestler","Weak","No","Old"],"correctIndex":0,"explanation":"Pehelwan.","frequencyRating":5},{"id":"g8_e3_q3","text":"Wrestler guru:","options":["Yes wrestled tiger","No","Weak","Dead"],"correctIndex":0,"explanation":"Raibhya.","frequencyRating":5},{"id":"g8_e3_q4","text":"Tiger man:","options":["Yes cursed leopard","Tiger","No","Man"],"correctIndex":0,"explanation":"Regret.","frequencyRating":5},{"id":"g8_e3_q5","text":"Servant leopard:","options":["Yes lured goat","Fight","No","Run"],"correctIndex":0,"explanation":"Akbar.","frequencyRating":5},{"id":"g8_e3_q6","text":"Akbar leopard:","options":["Yes arrow goat","Sword","No","Club"],"correctIndex":0,"explanation":"Wounded.","frequencyRating":5},{"id":"g8_e3_q7","text":"Leopard man:","options":["Yes","Animal","No","Dead"],"correctIndex":0,"explanation":"Curse.","frequencyRating":5},{"id":"g8_e3_q8","text":"Second tale:","options":["Yes girl robbers","Grandmother","No","Tiger"],"correctIndex":0,"explanation":"Forest.","frequencyRating":5},{"id":"g8_e3_q9","text":"Girl robbers:","options":["Yes clever","Stupid","No","Fear"],"correctIndex":0,"explanation":"Outwit.","frequencyRating":5},{"id":"g8_e3_q10","text":"Robbers sleep:","options":["Yes girl thorn","Fight","No","Wake"],"correctIndex":0,"explanation":"Khukri.","frequencyRating":5},{"id":"g8_e3_q11","text":"Third tale:","options":["Yes hack driver","Grandmother","No","Girl"],"correctIndex":0,"explanation":"Lawyer.","frequencyRating":5},{"id":"g8_e3_q12","text":"Lawyer Bill:","options":["Yes forgot case","Win","No","Judge"],"correctIndex":0,"explanation":"Hack driver.","frequencyRating":5},{"id":"g8_e3_q13","text":"Hack driver Oliver:","options":["Yes Bill","Real lawyer","No","Fake"],"correctIndex":0,"explanation":"Country.","frequencyRating":5},{"id":"g8_e3_q14","text":"New Mulberry:","options":["Yes hack","Court","No","House"],"correctIndex":0,"explanation":"Garage.","frequencyRating":5},{"id":"g8_e3_q15","text":"Grandmother moral:","options":["Yes careful wish","Fight","No","Strength"],"correctIndex":0,"explanation":"Strength mind.","frequencyRating":5},{"id":"g8_e3_q16","text":"Raibhya disciple:","options":["Yes wrestler","Guru","No","Tiger"],"correctIndex":0,"explanation":"Killer.","frequencyRating":5},{"id":"g8_e3_q17","text":"Tiger curse:","options":["Yes leopard","Man","No","Dead"],"correctIndex":0,"explanation":"Girl.","frequencyRating":5},{"id":"g8_e3_q18","text":"Goat bait:","options":["Yes lured","Fight","No","Arrow"],"correctIndex":0,"explanation":"Servant.","frequencyRating":5},{"id":"g8_e3_q19","text":"Girl forest:","options":["Yes robbers","Village","No","Home"],"correctIndex":0,"explanation":"Sleep.","frequencyRating":5},{"id":"g8_e3_q20","text":"Girl thorn:","options":["Yes khukri","Sword","No","Knife"],"correctIndex":0,"explanation":"Robbers.","frequencyRating":5},{"id":"g8_e3_q21","text":"Lawyer case:","options":["Yes Lutkins","Win","No","Lose"],"correctIndex":0,"explanation":"Hack.","frequencyRating":5},{"id":"g8_e3_q22","text":"Lutkins garage:","options":["Yes New Mulberry","Court","No","Home"],"correctIndex":0,"explanation":"Bill.","frequencyRating":5},{"id":"g8_e3_q23","text":"Grandmother wrestler:","options":["Yes pehelwan","Weak","No","Old"],"correctIndex":0,"explanation":"Young.","frequencyRating":5},{"id":"g8_e3_q24","text":"Guru tiger:","options":["Yes Raibhya","Disciple","No","Girl"],"correctIndex":0,"explanation":"Wrestle.","frequencyRating":5},{"id":"g8_e3_q25","text":"Servant role:","options":["Yes goat","Akbar","No","Leopard"],"correctIndex":0,"explanation":"Bait.","frequencyRating":5},{"id":"g8_e3_q26","text":"Robbers girl:","options":["Yes outwitted","Caught","No","Fight"],"correctIndex":0,"explanation":"Clever.","frequencyRating":5},{"id":"g8_e3_q27","text":"Hack driver fooled:","options":["Yes lawyer","Real","No","Court"],"correctIndex":0,"explanation":"Lutkins.","frequencyRating":5},{"id":"g8_e3_q28","text":"Grandmother tales:","options":["Yes three morals","One","No","No moral"],"correctIndex":0,"explanation":"Past.","frequencyRating":5},{"id":"g8_e3_q29","text":"Wrestler strength:","options":["Yes mind not body","Body","No","Guru"],"correctIndex":0,"explanation":"Tiger.","frequencyRating":5},{"id":"g8_e3_q30","text":"Leopard girl:","options":["Yes lifted curse","Killed","No","Fight"],"correctIndex":0,"explanation":"Servant.","frequencyRating":5},{"id":"g8_e3_q31","text":"Girl reward:","options":["Yes village hero","Robbers gold","No","Punish"],"correctIndex":0,"explanation":"Courage.","frequencyRating":5},{"id":"g8_e3_q32","text":"Lawyer lesson:","options":["Yes not judge book","Win case","No","Court"],"correctIndex":0,"explanation":"Hack.","frequencyRating":5},{"id":"g8_e3_q33","text":"Grandmother storyteller:","options":["Yes engaging","Boring","No","Long"],"correctIndex":0,"explanation":"Glimpses.","frequencyRating":5},{"id":"g8_e3_q34","text":"Glimpses theme:","options":["Yes past values","Future","No","Present"],"correctIndex":0,"explanation":"Morals.","frequencyRating":5},{"id":"g8_e3_q35","text":"Raibhya tiger:","options":["Yes wrestle disciple","Girl","No","Akbar"],"correctIndex":0,"explanation":"Strength.","frequencyRating":5},{"id":"g8_e3_q36","text":"Akbar arrow:","options":["Yes wounded leopard","Killed","No","Miss"],"correctIndex":0,"explanation":"Goat.","frequencyRating":5},{"id":"g8_e3_q37","text":"Girl robbers:","options":["Yes thorn sleep","Wake","No","Run"],"correctIndex":0,"explanation":"Khukri.","frequencyRating":5},{"id":"g8_e3_q38","text":"Hack driver Lutkins:","options":["Yes played","Real lawyer","No","Judge"],"correctIndex":0,"explanation":"Garage.","frequencyRating":5},{"id":"g8_e3_q39","text":"Tales message:","options":["Yes courage intelligence humanity","Fight","No","Strength"],"correctIndex":0,"explanation":"Grandmother.","frequencyRating":5},{"id":"g8_e3_q40","text":"Past glimpses:","options":["Yes lessons today","Forget","No","Repeat"],"correctIndex":0,"explanation":"Values.","frequencyRating":5}]}
+{
+  "id": "g8_eng_ch3",
+  "grade": "8",
+  "subject": "English",
+  "number": "3",
+  "title": "Glimpses of the Past",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_e3_q1",
+      "text": "In the beginning of the chapter, a singer is seen singing which famous song?",
+      "options": ["Vande Mataram", "Jana Gana Mana", "Ae mere watan ke logon", "Sare Jahan Se Achha"],
+      "correctIndex": 2,
+      "explanation": "Lata Mangeshkar is depicted singing this song in memory of the martyrs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e3_q2",
+      "text": "What was the main reason the British East India Company could extend its power in India during the 18th century?",
+      "options": ["They had superior weapons", "Indian princes were short-sighted and fought each other", "Indians invited them to rule", "Both A and B"],
+      "correctIndex": 3,
+      "explanation": "Internal rivalry among princes and better British arms allowed the company to take control.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e3_q3",
+      "text": "Who was the far-sighted ruler of Mysore who fought the British until he died fighting?",
+      "options": ["Haidar Ali", "Tipu Sultan", "Siraj-ud-daulah", "Mir Jafar"],
+      "correctIndex": 1,
+      "explanation": "Tipu Sultan is remembered as a brave king who resisted British expansion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e3_q4",
+      "text": "How did many Indians initially react to British conquest according to the 'Glimpses'?",
+      "options": ["They all hated it", "Some thanked the British for bringing peace and ending raids", "They immediately revolted", "They didn't care"],
+      "correctIndex": 1,
+      "explanation": "Some believed the British brought stability and ended the era of 'thugs'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e3_q5",
+      "text": "Which social evils were preached by religious leaders during the British era?",
+      "options": ["Untouchability", "Child marriage", "Against crossing the seas", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Religious figures often promoted regressive practices during this time.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e3_q6",
+      "text": "Who was Raja Ram Mohan Roy?",
+      "options": ["A British officer", "A learned man from Bengal and a social reformer", "A king of Mysore", "A religious leader who supported Sati"],
+      "correctIndex": 1,
+      "explanation": "He was a pioneer of social reform who understood the importance of modern knowledge.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e3_q7",
+      "text": "What did Raja Ram Mohan Roy tell his wife, Uma, to explain the unity of religions?",
+      "options": ["Cows are of different colors, but the color of their milk is the same", "All religions are false", "We should follow only one god", "Kings are more important than priests"],
+      "correctIndex": 0,
+      "explanation": "He used the analogy to show that while teachers have different opinions, the essence of every religion is the same.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e3_q8",
+      "text": "Why did Raja Ram Mohan Roy go to England?",
+      "options": ["To study medicine", "To see what made the British powerful and remind them of their duty to subjects", "To join the British army", "To live there forever"],
+      "correctIndex": 1,
+      "explanation": "He wanted to understand British power and represent Indian interests.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e3_q9",
+      "text": "What was the 'Regulation III' passed by the British in 1818?",
+      "options": ["A tax law", "An education law", "An Indian could be jailed without trial in court", "A law banning Sati"],
+      "correctIndex": 2,
+      "explanation": "This was a tool of oppression used to suppress Indian voices without legal process.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e3_q10",
+      "text": "What did the British do to Indian industries?",
+      "options": ["They helped them grow", "They imposed heavy taxes on Indian goods to favor British imports", "They bought all Indian factories", "They ignored them"],
+      "correctIndex": 1,
+      "explanation": "British policies led to the ruin of traditional Indian handicrafts and industries.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e3_q11",
+      "text": "In 1835, what did Lord Macaulay suggest for Indian education?",
+      "options": ["Sanskrit and Persian", "Teaching through the English medium", "No education for Indians", "Religious education"],
+      "correctIndex": 1,
+      "explanation": "He wanted to produce a class of clerks to help the British administration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e3_q12",
+      "text": "What was the unintended effect of English education on Indians?",
+      "options": ["They became more loyal", "It produced a new generation of intellectuals who wanted to change society", "They forgot their languages", "None"],
+      "correctIndex": 1,
+      "explanation": "Educated Indians began to discuss reforms and national unity.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e3_q13",
+      "text": "By 1856, the British had conquered ________ of India.",
+      "options": ["Half", "The whole", "Only Bengal", "None"],
+      "correctIndex": 1,
+      "explanation": "The map in the chapter shows British territory covering almost all of India by 1856.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e3_q14",
+      "text": "Who were the 'Santhals'?",
+      "options": ["British soldiers", "Kings", "A tribal group who revolted after losing their lands in Bengal", "Merchants"],
+      "correctIndex": 2,
+      "explanation": "They rose in rebellion in 1855 and killed Europeans and their servants.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e3_q15",
+      "text": "Who was Mangal Pandey?",
+      "options": ["A poet", "A sepoy who attacked the adjutant of his regiment in Barrackpore", "A king", "A British officer"],
+      "correctIndex": 1,
+      "explanation": "He is one of the most famous early heroes of the 1857 revolt.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e3_q16",
+      "text": "What rumor spread among the sepoys about the new cartridges?",
+      "options": ["They were poisoned", "They were greased with the fat of cows and pigs", "They were made of gold", "They were too heavy"],
+      "correctIndex": 1,
+      "explanation": "This hurt the religious sentiments of both Hindu and Muslim soldiers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e3_q17",
+      "text": "How did the message of revolt spread among the villagers?",
+      "options": ["Through newspapers", "Through Chapatis", "Through internet", "Through radio"],
+      "correctIndex": 1,
+      "explanation": "Chapatis were passed from village to village to signal readiness for the emperor's support.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e3_q18",
+      "text": "What was used to spread the message among Indian soldiers (sepoys)?",
+      "options": ["Chapatis", "Lotus flowers", "Money", "Swords"],
+      "correctIndex": 1,
+      "explanation": "Lotus flowers were circulated among the Indian soldiers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e3_q19",
+      "text": "Who was the last Mughal Emperor who led the revolt in Delhi?",
+      "options": ["Akbar", "Aurangzeb", "Bahadur Shah Zafar", "Shah Jahan"],
+      "correctIndex": 2,
+      "explanation": "The rebels proclaimed him as their leader in Delhi.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e3_q20",
+      "text": "Who was the 'Begum of Lucknow' who joined the revolt because her kingdom was taken?",
+      "options": ["Begum Hazrat Mahal", "Begum Mumtaz", "Razia Sultan", "Noor Jahan"],
+      "correctIndex": 0,
+      "explanation": "She was one of the prominent women leaders of the 1857 uprising.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e3_q21",
+      "text": "Which Maulvi from Faizabad told people to 'Rise, brothers, rise'?",
+      "options": ["Maulvi Liaqat Ali", "Maulvi Ahmedullah", "Maulvi Barkat", "None"],
+      "correctIndex": 1,
+      "explanation": "He prophesied that the 'Angrez' (British) rule would soon end.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e3_q22",
+      "text": "Who was the leader in Kanpur during the revolt?",
+      "options": ["Nana Sahib", "Mangal Pandey", "Tipu Sultan", "Rani Lakshmi Bai"],
+      "correctIndex": 0,
+      "explanation": "Nana Sahib led the rebel forces in Kanpur.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e3_q23",
+      "text": "Who was Azimullah Khan?",
+      "options": ["A British spy", "An advisor to Nana Sahib", "A king", "A farmer"],
+      "correctIndex": 1,
+      "explanation": "He played a key role in the planning of the uprising.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e3_q24",
+      "text": "Who was the 80-year-old leader from Bihar who received a bullet in his wrist?",
+      "options": ["Nana Sahib", "Kunwar Singh", "Tantia Tope", "Mangal Pandey"],
+      "correctIndex": 1,
+      "explanation": "Kunwar Singh famously cut off his own hand and offered it to the River Ganga.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e3_q25",
+      "text": "What happened to Mangal Pandey for his revolt?",
+      "options": ["He was promoted", "He was exiled", "He was executed", "He was forgiven"],
+      "correctIndex": 2,
+      "explanation": "He was hanged for his defiance, which sparked further revolt.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e3_q26",
+      "text": "The British treated Indians as 'unworthy of trust' and 'incapable of honesty'. This was stated by:",
+      "options": ["Indians themselves", "British officers in their records", "Raja Ram Mohan Roy", "Macaulay"],
+      "correctIndex": 1,
+      "explanation": "This reflected the racist attitude of the colonial rulers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e3_q27",
+      "text": "What was the main outcome of the ruin of Indian artisans?",
+      "options": ["They became rich", "Famines followed, and millions died of starvation", "They moved to England", "They joined the army"],
+      "correctIndex": 1,
+      "explanation": "Economic exploitation led to devastating famines in India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e3_q28",
+      "text": "Which year is associated with the peak of the First War of Independence in this chapter?",
+      "options": ["1757", "1818", "1835", "1857"],
+      "correctIndex": 3,
+      "explanation": "1857 marked the start of the massive nationwide revolt.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e3_q29",
+      "text": "The British company's loot led to the end of ________.",
+      "options": ["Prosperity", "Indian industries", "Princes' power", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Colonial greed affected every section of Indian society.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e3_q30",
+      "text": "What does 'Glimpses of the Past' use to tell the story?",
+      "options": ["Only text", "Poems", "Pictorial strips with speech bubbles", "A long novel format"],
+      "correctIndex": 2,
+      "explanation": "The chapter is presented in a comic-strip style to make history engaging.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e3_q31",
+      "text": "Who said 'All misery in the world is due to women'?",
+      "options": ["A British officer", "A religious leader of that time", "Raja Ram Mohan Roy", "Tipu Sultan"],
+      "correctIndex": 1,
+      "explanation": "Some religious leaders used such claims to justify the oppression of women.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e3_q32",
+      "text": "The British wanted to create 'Indians in blood and color, but ________ in taste, in opinions, in morals and in intellect.'",
+      "options": ["French", "English", "German", "American"],
+      "correctIndex": 1,
+      "explanation": "This was the goal of Macaulay's education system.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e3_q33",
+      "text": "What was the destination of the sepoys after they revolted in Meerut?",
+      "options": ["Lucknow", "Delhi", "Calcutta", "Madras"],
+      "correctIndex": 1,
+      "explanation": "They marched to Delhi to meet Bahadur Shah Zafar.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e3_q34",
+      "text": "Tantia Tope was a famous leader associated with:",
+      "options": ["Mysore", "The revolt of 1857", "Social reform", "The British army"],
+      "correctIndex": 1,
+      "explanation": "He was a brilliant general who fought alongside Nana Sahib.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e3_q35",
+      "text": "Raja Ram Mohan Roy started a newspaper which the British ________.",
+      "options": ["Funded", "Ignored", "Stopped in 1823", "Translated to English"],
+      "correctIndex": 2,
+      "explanation": "The British were suspicious of his influence and stopped his publications.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e3_q36",
+      "text": "What happened to the Indian princes who supported the British?",
+      "options": ["They ruled forever", "They became 'puppets' in the hands of the British", "They were sent to England", "They were killed immediately"],
+      "correctIndex": 1,
+      "explanation": "The British used them to control the population and then gradually took over their lands.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e3_q37",
+      "text": "Why did the white soldiers get much more pay and servants than the Indian sepoys?",
+      "options": ["They were better fighters", "Racial discrimination by the British administration", "They worked longer hours", "Indians didn't want pay"],
+      "correctIndex": 1,
+      "explanation": "Unequal treatment was a major grievance for the Indian soldiers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e3_q38",
+      "text": "Which city is mentioned as the 'City of the Emperor' in the context of the revolt?",
+      "options": ["Agra", "Delhi", "Lucknow", "Bareilly"],
+      "correctIndex": 1,
+      "explanation": "Delhi, being the Mughal capital, was the symbolic center.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e3_q39",
+      "text": "Who is the author/compiler of this pictorial history?",
+      "options": ["S.D. Sawant", "Michael Morpurgo", "Leo Tolstoy", "Ruskin Bond"],
+      "correctIndex": 0,
+      "explanation": "The chapter is based on the work of S.D. Sawant.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e3_q40",
+      "text": "The main message of 'Glimpses of the Past' is:",
+      "options": ["The British were good", "Indians were weak", "The seeds of the 1857 revolt were sown by years of British oppression", "History is boring"],
+      "correctIndex": 2,
+      "explanation": "It shows how different events led up to the massive explosion of 1857.",
+      "frequencyRating": 5
+    }
+  ]
+}

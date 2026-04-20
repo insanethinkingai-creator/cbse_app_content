@@ -1,1 +1,330 @@
-{"id":"g8_civ_ch1","grade":"8","subject":"Civics","number":"1","title":"The Indian Constitution","version":"v1","questions":[{"id":"g8_c1_q1","text":"Constitution longest written:","options":["Yes 4th Feb 1950","No","Oral","Short"],"correctIndex":0,"explanation":"Preamble.","frequencyRating":5},{"id":"g8_c1_q2","text":"Preamble sovereign socialist:","options":["Yes secular democratic republic","No","Monarchy","No"],"correctIndex":0,"explanation":"Justice liberty equality.","frequencyRating":5},{"id":"g8_c1_q3","text":"Secular all religions:","options":["Yes equal respect","No","State religion","No"],"correctIndex":0,"explanation":"No favour.","frequencyRating":5},{"id":"g8_c1_q4","text":"Federal union:","options":["Yes","Unitary","No","Confederation"],"correctIndex":0,"explanation":"Division powers.","frequencyRating":5},{"id":"g8_c1_q5","text":"Parliamentary executive:","options":["Yes president PM","Direct","No","Presidential"],"correctIndex":0,"explanation":"Responsible.","frequencyRating":5},{"id":"g8_c1_q6","text":"Fundamental rights:","options":["Yes 6 equality","No","Directive","No"],"correctIndex":0,"explanation":"44th amendment.","frequencyRating":5},{"id":"g8_c1_q7","text":"Equality Article 14:","options":["Yes law","Privilege","No","Discriminate"],"correctIndex":0,"explanation":"Equal protection.","frequencyRating":5},{"id":"g8_c1_q8","text":"Untouchability Article 17:","options":["Yes abolished","No","Allowed","State"],"correctIndex":0,"explanation":"Offence.","frequencyRating":5},{"id":"g8_c1_q9","text":"Directive principles:","options":["Yes state policy","Rights","No","Emergency"],"correctIndex":0,"explanation":"Gandhi Nehru.","frequencyRating":5},{"id":"g8_c1_q10","text":"Federalism levels government:","options":["Yes union state local","One","No","Two"],"correctIndex":0,"explanation":"3 tier.","frequencyRating":5},{"id":"g8_c1_q11","text":"Separation powers:","options":["Yes legislature executive judiciary","No mix","One","No"],"correctIndex":0,"explanation":"Checks.","frequencyRating":5},{"id":"g8_c1_q12","text":"Amendment Article 368:","options":["Yes 2/3 majority","No","Emergency","No"],"correctIndex":0,"explanation":"Basic structure.","frequencyRating":5},{"id":"g8_c1_q13","text":"Panchayat Article 40:","options":["Yes village","No","Union","State"],"correctIndex":0,"explanation":"73rd 1992.","frequencyRating":5},{"id":"g8_c1_q14","text":"Secularism:","options":["Yes no religion","State religion","No","Church"],"correctIndex":0,"explanation":"Article 25-28.","frequencyRating":5},{"id":"g8_c1_q15","text":"Sovereign internal external:","options":["Yes","No colony","Part","No"],"correctIndex":0,"explanation":"People.","frequencyRating":5},{"id":"g8_c1_q16","text":"Republic head elected:","options":["Yes president","Hereditary","No","King"],"correctIndex":0,"explanation":"5 years.","frequencyRating":5},{"id":"g8_c1_q17","text":"Justice social economic political:","options":["Yes preamble","No","Criminal","No"],"correctIndex":0,"explanation":"Fraternity.","frequencyRating":5},{"id":"g8_c1_q18","text":"Fundamental duties Article 51A:","options":["Yes 42nd 1976","No","Rights","No"],"correctIndex":0,"explanation":"11 duties.","frequencyRating":5},{"id":"g8_c1_q19","text":"Emergency Article 352:","options":["Yes national war","Normal","No","Local"],"correctIndex":0,"explanation":"Centre rule.","frequencyRating":5},{"id":"g8_c1_q20","text":"Judicial review:","options":["Yes Kesavananda basic structure","No","Legislature","No"],"correctIndex":0,"explanation":"1973.","frequencyRating":5},{"id":"g8_c1_q21","text":"Right equality:","options":["Yes 14 15 16 17 18","No","Directive","No"],"correctIndex":0,"explanation":"Discrimination.","frequencyRating":5},{"id":"g8_c1_q22","text":"Right freedom 19:","options":["Yes speech assembly","Absolute","No","Emergency suspend"],"correctIndex":0,"explanation":"Reasonable restrictions.","frequencyRating":5},{"id":"g8_c1_q23","text":"Right against exploitation 23 24:","options":["Yes trafficking child labour","No","Free","No"],"correctIndex":0,"explanation":"Begar.","frequencyRating":5},{"id":"g8_c1_q24","text":"Cultural education rights:","options":["Yes minority schools","No","All same","No"],"correctIndex":0,"explanation":"Article 29 30.","frequencyRating":5},{"id":"g8_c1_q25","text":"Right constitutional remedies:","options":["Yes Article 32","No","Directive","Emergency"],"correctIndex":0,"explanation":"Heart.","frequencyRating":5},{"id":"g8_c1_q26","text":"Directive Gandhian:","options":["Cottage village","Yes","No","Capitalist"],"correctIndex":0,"explanation":"Panchayat.","frequencyRating":5},{"id":"g8_c1_q27","text":"Directive social welfare:","options":["Uniform civil code","Yes","No","Private"],"correctIndex":0,"explanation":"Article 44.","frequencyRating":5},{"id":"g8_c1_q28","text":"Local self 73 74:","options":["Yes","No","Union","State"],"correctIndex":0,"explanation":"1992.","frequencyRating":5},{"id":"g8_c1_q29","text":"Basic structure:","options":["Yes judiciary","Amend no","No","Legislature"],"correctIndex":0,"explanation":"Kesavananda.","frequencyRating":5},{"id":"g8_c1_q30","text":"Preamble amend:","options":["No Berubari","Yes","No","Delete"],"correctIndex":0,"explanation":"1960.","frequencyRating":5},{"id":"g8_c1_q31","text":"Socialist 42nd 1976:","options":["Yes","No","Original","Delete"],"correctIndex":0,"explanation":"Amendment.","frequencyRating":5},{"id":"g8_c1_q32","text":"Secular 42nd:","options":["Yes","Original","No","Monotheism"],"correctIndex":0,"explanation":"1976.","frequencyRating":5},{"id":"g8_c1_q33","text":"Republic day:","options":["26 Jan","Yes","15 Aug","2 Oct"],"correctIndex":0,"explanation":"Purna swaraj.","frequencyRating":5},{"id":"g8_c1_q34","text":"Constituent assembly:","options":["299 members","Yes","One party","No"],"correctIndex":0,"explanation":"1946.","frequencyRating":5},{"id":"g8_c1_q35","text":"Drafting committee:","options":["Ambedkar chairman","Yes","Nehru","Gandhi"],"correctIndex":0,"explanation":"7 members.","frequencyRating":5},{"id":"g8_c1_q36","text":"Borrowed parliamentary:","options":["Yes Britain","US","Ireland","Canada"],"correctIndex":0,"explanation":"Cabinet.","frequencyRating":5},{"id":"g8_c1_q37","text":"Fundamental rights US:","options":["Yes","Directive","No","Preamble"],"correctIndex":0,"explanation":"Bill rights.","frequencyRating":5},{"id":"g8_c1_q38","text":"Directive Irish:","options":["Yes","US","Britain","No"],"correctIndex":0,"explanation":"Principles.","frequencyRating":5},{"id":"g8_c1_q39","text":"Emergency India:","options":["Yes 3 types","No","US","No"],"correctIndex":0,"explanation":"National financial state.","frequencyRating":5},{"id":"g8_c1_q40","text":"Constitution living document:","options":["Yes amend","Static","No","Delete"],"correctIndex":0,"explanation":"Evolve.","frequencyRating":5}]}
+{
+  "id": "g8_civ_ch1",
+  "grade": "8",
+  "subject": "Civics",
+  "number": "1",
+  "title": "The Indian Constitution",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_c1_q1",
+      "text": "A written document in which we find the rules by which a society is governed is called a:",
+      "options": ["Preamble", "Constitution", "Manifesto", "Bill"],
+      "correctIndex": 1,
+      "explanation": "Most modern countries have a written document that defines the rules and principles of their governance, known as a Constitution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c1_q2",
+      "text": "In which year did the Indian National Congress make the demand for a Constituent Assembly?",
+      "options": ["1934", "1946", "1947", "1950"],
+      "correctIndex": 0,
+      "explanation": "The demand for a Constituent Assembly was first made by the INC in 1934.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c1_q3",
+      "text": "The Constituent Assembly met for the first time in:",
+      "options": ["December 1946", "August 1947", "January 1950", "December 1934"],
+      "correctIndex": 0,
+      "explanation": "Between December 1946 and November 1949, the Constituent Assembly drafted a constitution for independent India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c1_q4",
+      "text": "Who is known as the 'Father of the Indian Constitution'?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Dr. B.R. Ambedkar", "Sardar Patel"],
+      "correctIndex": 2,
+      "explanation": "Dr. Ambedkar was the Chairman of the Drafting Committee and played a key role in framing the constitution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c1_q5",
+      "text": "Nepal adopted an interim Constitution in 2007 because:",
+      "options": ["It was colonized", "It moved from a Monarchy to a Democracy", "It joined India", "It went to war"],
+      "correctIndex": 1,
+      "explanation": "Nepal's previous constitution reflected the power of the King; a new one was needed to reflect democratic ideals after the people's movement.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c1_q6",
+      "text": "The 'tyranny of the majority' refers to:",
+      "options": ["A small group making decisions for all", "The majority group excluding or dominating the minority", "The government helping everyone", "Elections"],
+      "correctIndex": 1,
+      "explanation": "The Constitution ensures that the majority does not use its power to violate the rights of minority groups.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c1_q7",
+      "text": "Which of the following is a key feature of the Indian Constitution?",
+      "options": ["Federalism", "Separation of Powers", "Fundamental Rights", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "The Constitution includes several pillars like Federalism, Parliamentary form, Separation of Powers, Fundamental Rights, and Secularism.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c1_q8",
+      "text": "Federalism refers to:",
+      "options": ["One central government for the whole country", "Existence of more than one level of government", "Rule by a King", "Only state governments"],
+      "correctIndex": 1,
+      "explanation": "In India, we have governments at the Center, the States, and the Panchayati Raj level.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c1_q9",
+      "text": "In a Parliamentary form of government, who has the right to vote?",
+      "options": ["Only educated people", "Only rich people", "All adult citizens (Universal Adult Suffrage)", "Only men"],
+      "correctIndex": 2,
+      "explanation": "The Constitution guarantees universal adult suffrage for all citizens.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c1_q10",
+      "text": "The three organs of the State as per the Constitution are:",
+      "options": ["Police, Army, Navy", "Legislature, Executive, Judiciary", "President, PM, Governor", "Center, State, Local"],
+      "correctIndex": 1,
+      "explanation": "Legislature makes laws, Executive implements them, and Judiciary interprets them.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c1_q11",
+      "text": "The 'Executive' is a group of people who are responsible for:",
+      "options": ["Making laws", "Implementing laws and running the government", "Punishing criminals", "Voting"],
+      "correctIndex": 1,
+      "explanation": "The Executive is the branch of government that carries out the laws.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c1_q12",
+      "text": "Fundamental Rights are often referred to as the ________ of the Indian Constitution.",
+      "options": ["Heart", "Conscience", "Foundation", "Brain"],
+      "correctIndex": 1,
+      "explanation": "Fundamental rights protect citizens against the arbitrary exercise of power by the State.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c1_q13",
+      "text": "Which Fundamental Right allows citizens to move the court if they believe their rights have been violated?",
+      "options": ["Right to Equality", "Right to Freedom", "Right to Constitutional Remedies", "Right against Exploitation"],
+      "correctIndex": 2,
+      "explanation": "This right allows citizens to approach the Supreme Court or High Courts to protect their other fundamental rights.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c1_q14",
+      "text": "Secularism means that the State:",
+      "options": ["Promotes one religion", "Does not officially promote any one religion", "Is against all religions", "Only allows private worship"],
+      "correctIndex": 1,
+      "explanation": "A secular state maintains a principled distance from all religions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c1_q15",
+      "text": "Right against Exploitation prohibits:",
+      "options": ["Child labour", "Human trafficking", "Forced labour (begar)", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Articles 23 and 24 protect individuals from trafficking, forced labour, and employment of children under 14.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c1_q16",
+      "text": "The Right to Freedom of Religion includes the right to:",
+      "options": ["Practice any religion", "Convert people by force", "Insult other religions", "Ban religious schools"],
+      "correctIndex": 0,
+      "explanation": "Every person has the right to profess, practice and propagate the religion of their choice.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c1_q17",
+      "text": "What is the role of the 'Judiciary'?",
+      "options": ["To win elections", "To settle disputes and uphold the law", "To collect taxes", "To build schools"],
+      "correctIndex": 1,
+      "explanation": "The Judiciary system (courts) ensures that the laws of the land are followed.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c1_q18",
+      "text": "The Constitution of India was adopted on ________ and came into effect on ________.",
+      "options": ["Aug 15 1947, Jan 26 1950", "Nov 26 1949, Jan 26 1950", "Jan 26 1950, Aug 15 1947", "Nov 26 1949, Aug 15 1947"],
+      "correctIndex": 1,
+      "explanation": "It was completed in Nov 1949 but officially implemented on Jan 26, 1950, to celebrate Republic Day.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c1_q19",
+      "text": "Why do we need a Constitution?",
+      "options": ["To define the nature of our political system", "To provide safeguards against powerful leaders", "To protect the rights of minorities", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "A constitution serves many purposes, including setting ideals and protecting citizens.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c1_q20",
+      "text": "Untouchability is abolished under which Fundamental Right?",
+      "options": ["Right to Freedom", "Right to Equality", "Cultural Rights", "Right against Exploitation"],
+      "correctIndex": 1,
+      "explanation": "Right to Equality includes the abolition of untouchability and discrimination based on caste.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c1_q21",
+      "text": "Which organ of the state consists of our elected representatives?",
+      "options": ["Executive", "Judiciary", "Legislature", "Media"],
+      "correctIndex": 2,
+      "explanation": "The legislature (Parliament/State Assemblies) is where laws are made by representatives.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c1_q22",
+      "text": "A 'Polity' refers to a society that has a ________.",
+      "options": ["Large population", "Organised political structure", "King", "Single religion"],
+      "correctIndex": 1,
+      "explanation": "A polity is a politically organized body or system.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_c1_q23",
+      "text": "Which fundamental right ensures that all persons are equal before the law?",
+      "options": ["Right to Liberty", "Right to Equality", "Right to Justice", "Right to Education"],
+      "correctIndex": 1,
+      "explanation": "Equality before the law means everyone is subject to the same laws regardless of status.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c1_q24",
+      "text": "The Directive Principles of State Policy were included to:",
+      "options": ["Ensure more social and economic reforms", "Give more power to the police", "Divide the country", "Stop the elections"],
+      "correctIndex": 0,
+      "explanation": "They serve as a guide to the independent Indian State to institute laws that reduce poverty and improve society.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c1_q25",
+      "text": "Under the Right to Freedom, citizens have the right to:",
+      "options": ["Speech and Expression", "Form associations", "Move freely throughout the country", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "The Right to Freedom includes several liberties vital for a democracy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c1_q26",
+      "text": "Human trafficking means:",
+      "options": ["Travel across borders", "Illegal trade of human beings", "Helping people in need", "Road traffic"],
+      "correctIndex": 1,
+      "explanation": "Human trafficking is the practice of buying and selling humans for exploitation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c1_q27",
+      "text": "The Constitution protects us from ________.",
+      "options": ["Ourselves (making wrong decisions that hurt principles)", "The weather", "Other countries", "History"],
+      "correctIndex": 0,
+      "explanation": "A constitution helps protect us from making decisions that might go against our larger interests or values.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_c1_q28",
+      "text": "What is the age for Universal Adult Suffrage in India?",
+      "options": ["16", "18", "21", "25"],
+      "correctIndex": 1,
+      "explanation": "Every citizen aged 18 or above has the right to vote.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c1_q29",
+      "text": "Which right ensures that minorities can preserve their language and culture?",
+      "options": ["Right to Equality", "Right to Freedom", "Cultural and Educational Rights", "Right to Remedy"],
+      "correctIndex": 2,
+      "explanation": "These rights allow religious and linguistic minorities to set up their own educational institutions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c1_q30",
+      "text": "The 'Drafting Committee' of the Constitution was headed by:",
+      "options": ["Dr. Rajendra Prasad", "Dr. B.R. Ambedkar", "Sardar Patel", "Mahatma Gandhi"],
+      "correctIndex": 1,
+      "explanation": "Dr. Ambedkar was the chief architect and chairman of this critical committee.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c1_q31",
+      "text": "Constituent Assembly members were ________.",
+      "options": ["Elected by people", "Appointed by the King", "Members of the drafting body", "Foreigners"],
+      "correctIndex": 2,
+      "explanation": "They were a group of around 300 people who spent 3 years writing the document.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c1_q32",
+      "text": "Fundamental Rights are ________ in nature.",
+      "options": ["Justiciable (enforceable by courts)", "Non-justiciable", "Optional", "Temporary"],
+      "correctIndex": 0,
+      "explanation": "If these rights are violated, a person can go to court.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c1_q33",
+      "text": "India is a ________ country.",
+      "options": ["Monarchic", "Democratic", "Dictatorial", "Communist"],
+      "correctIndex": 1,
+      "explanation": "India has a system of government by the whole population through elected representatives.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c1_q34",
+      "text": "Freedom from forced labour is under which right?",
+      "options": ["Equality", "Freedom", "Right against Exploitation", "Religion"],
+      "correctIndex": 2,
+      "explanation": "The Constitution prohibits 'begar' or forced labour.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c1_q35",
+      "text": "The 'Separation of Powers' prevents:",
+      "options": ["The misuse of power by any one branch of government", "States from having power", "People from voting", "Courts from working"],
+      "correctIndex": 0,
+      "explanation": "It creates a system of checks and balances between the Legislature, Executive, and Judiciary.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c1_q36",
+      "text": "Which right was described by Dr. Ambedkar as the 'Soul of the Constitution'?",
+      "options": ["Right to Equality", "Right to Constitutional Remedies", "Right to Freedom", "Right against Exploitation"],
+      "correctIndex": 1,
+      "explanation": "He considered it the most important because it makes all other rights effective.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c1_q37",
+      "text": "In a democracy, we choose our leaders so that:",
+      "options": ["They can do whatever they want", "They can exercise power responsibly on our behalf", "They can become rich", "They can stay in power forever"],
+      "correctIndex": 1,
+      "explanation": "Leaders are representatives of the people and are accountable to the constitution.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c1_q38",
+      "text": "The first President of Independent India was:",
+      "options": ["Jawaharlal Nehru", "Dr. Rajendra Prasad", "Dr. S. Radhakrishnan", "C. Rajagopalachari"],
+      "correctIndex": 1,
+      "explanation": "Dr. Rajendra Prasad served as the first President and was also the President of the Constituent Assembly.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c1_q39",
+      "text": "Sovereignty means:",
+      "options": ["Being under foreign rule", "Independent people having supreme power", "Rule by the elite", "A country with no laws"],
+      "correctIndex": 1,
+      "explanation": "India is a sovereign nation, meaning it is independent and has its own supreme authority.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_c1_q40",
+      "text": "The Preamble is the ________ to the Constitution.",
+      "options": ["End", "Introduction", "Summary", "Table of contents"],
+      "correctIndex": 1,
+      "explanation": "The Preamble outlines the main objectives and philosophy of the Constitution.",
+      "frequencyRating": 5
+    }
+  ]
+}

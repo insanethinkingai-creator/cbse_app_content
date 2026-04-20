@@ -7,84 +7,324 @@
   "version": "v1",
   "questions": [
     {
-      "id": "g7_eng_ch4_q1",
-      "text": "How did the kind old couple treat their dog, Muko?",
-      "options": ["With cruelty", "As if it were their own child", "They ignored it", "As a working farm animal"],
+      "id": "g7_e4_q1",
+      "text": "The story 'The Ashes That Made Trees Bloom' is a Japanese folk tale about:",
+      "options": ["A clever cat", "A kind old couple and their pet dog", "A warrior", "A magic bird"],
       "correctIndex": 1,
-      "explanation": "The childless couple loved Muko dearly and fed him tidbits from their own chopsticks.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g7_eng_ch4_q2",
-      "text": "How did Muko help the old man find the gold?",
-      "options": ["He barked at a thief", "He dug at a spot under a pine tree", "He brought a bag of coins", "He led him to a cave"],
-      "correctIndex": 1,
-      "explanation": "Muko scratched the ground under a pine tree, leading the old man to discover a pile of gold.",
+      "explanation": "It centers on a selfless couple and their loyal dog, Muko.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_eng_ch4_q3",
-      "text": "What did the greedy neighbors find when they forced the dog to dig?",
-      "options": ["More gold", "A dead kitten", "Silver coins", "Diamonds"],
-      "correctIndex": 1,
-      "explanation": "Instead of gold, the greedy couple found a foul-smelling dead kitten, which made them kill the dog in anger.",
+      "id": "g7_e4_q2",
+      "text": "What was the name of the couple's dog?",
+      "options": ["Muko", "Kiko", "Sato", "Taro"],
+      "correctIndex": 0,
+      "explanation": "Muko was treated like their own child by the childless couple.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_eng_ch4_q4",
-      "text": "The spirit of the dog appeared to the old man in a dream and told him to:",
-      "options": ["Kill the neighbors", "Cut down the pine tree and make a mortar", "Leave the village", "Search for a new dog"],
+      "id": "g7_e4_q3",
+      "text": "How did the kind old couple treat Muko?",
+      "options": ["They were mean to it", "They fed it fish and treated it with love", "They used it for heavy work", "They ignored it"],
       "correctIndex": 1,
-      "explanation": "The dog's spirit guided the man to create a mortar and mill from the pine tree over his grave.",
-      "frequencyRating": 4
+      "explanation": "They were extremely kind and provided the best food for the dog.",
+      "frequencyRating": 5
     },
     {
-      "id": "g7_eng_ch4_q5",
+      "id": "g7_e4_q4",
+      "text": "Muko led the old man to a place where he found:",
+      "options": ["A buried bone", "A pile of gold coins", "A dead animal", "A magic stone"],
+      "correctIndex": 1,
+      "explanation": "The dog scratched the ground, and when the man dug, he found a glinting pile of gold.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e4_q5",
+      "text": "What did the kind couple do with the gold they found?",
+      "options": ["They kept it all for themselves", "They bought a piece of land, gave a feast, and helped the poor", "They moved to the city", "They buried it again"],
+      "correctIndex": 1,
+      "explanation": "Their generosity grew along with their wealth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e4_q6",
+      "text": "In the same village, there lived a ________ couple.",
+      "options": ["Young", "Wicked and greedy", "Funny", "Famous"],
+      "correctIndex": 1,
+      "explanation": "They were the opposite of the kind couple and were jealous of their luck.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e4_q7",
+      "text": "What did the greedy neighbors do to Muko?",
+      "options": ["They fed him well", "They dragged him to their garden to find gold", "They adopted him", "They ignored him"],
+      "correctIndex": 1,
+      "explanation": "They tried to force the dog to find treasure for them too.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e4_q8",
+      "text": "When Muko scratched the ground for the greedy couple, what did they find?",
+      "options": ["Gold", "Silver", "A dead kitten", "Nothing"],
+      "correctIndex": 2,
+      "explanation": "Instead of treasure, they found a foul-smelling dead animal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e4_q9",
+      "text": "How did the greedy couple react to finding the dead animal?",
+      "options": ["They laughed", "They killed the dog in anger", "They washed the dog", "They asked for forgiveness"],
+      "correctIndex": 1,
+      "explanation": "In a fit of rage, the old man kicked and beat the dog to death.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e4_q10",
+      "text": "Where did the kind old man bury Muko?",
+      "options": ["In the river", "Under a pine tree", "In the neighbors' garden", "In his own house"],
+      "correctIndex": 1,
+      "explanation": "He built a small monument and placed flowers for his beloved pet.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e4_q11",
+      "text": "The spirit of the dog appeared in the old man's ________.",
+      "options": ["Garden", "Dream", "Window", "Mirror"],
+      "correctIndex": 1,
+      "explanation": "The dog told the man to cut down the pine tree over his grave.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e4_q12",
+      "text": "What did the dog's spirit ask the man to make from the pine tree?",
+      "options": ["A boat", "A mortar for rice pastry and a mill for bean sauce", "A new house", "A statue"],
+      "correctIndex": 1,
+      "explanation": "These items were meant to provide more blessings to the couple.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e4_q13",
       "text": "What happened when the kind couple used the mortar and mill?",
-      "options": ["They broke", "Rice turned into gold and sauce into coins", "They produced ash", "Nothing happened"],
+      "options": ["They broke", "The rice turned into gold and the beans into gold coins", "Nothing happened", "They turned into wood"],
       "correctIndex": 1,
-      "explanation": "The magic tools turned their food into treasure, rewarding their kindness.",
+      "explanation": "The magic of the dog continued to help the kind couple.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_eng_ch4_q6",
-      "text": "What happened when the greedy neighbors borrowed the mortar and mill?",
-      "options": ["They got gold", "The food turned into a mass of worms", "The tools disappeared", "They were rewarded by the King"],
+      "id": "g7_e4_q14",
+      "text": "What did the greedy neighbors do after seeing the gold from the mill?",
+      "options": ["They stole the gold", "They borrowed the mortar and mill", "They burned the kind couple's house", "They apologized"],
       "correctIndex": 1,
-      "explanation": "Because of their wicked intentions, the tools produced only worms, leading them to chop the tools into firewood.",
+      "explanation": "They hoped to get the same gold by using the same tools.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e4_q15",
+      "text": "When the greedy couple used the borrowed mortar and mill, the food turned into:",
+      "options": ["Gold", "A mass of worms", "Water", "Fruit"],
+      "correctIndex": 1,
+      "explanation": "Again, their greed resulted in something foul and useless.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e4_q16",
+      "text": "In anger, the greedy couple ________ the mortar and mill.",
+      "options": ["Returned", "Broke and burned as firewood", "Painted", "Sold"],
+      "correctIndex": 1,
+      "explanation": "They destroyed the magical objects in their frustration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e4_q17",
+      "text": "The dog's spirit appeared again and told the man to use the ________ to make withered trees bloom.",
+      "options": ["Water", "Ashes of the mill", "Leaves", "Gold"],
+      "correctIndex": 1,
+      "explanation": "This is the core miracle described in the title of the story.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e4_q18",
+      "text": "A 'Daimyo' in Japanese history refers to a:",
+      "options": ["Peasant", "Great lord", "Merchant", "Priest"],
+      "correctIndex": 1,
+      "explanation": "Daimyos were powerful landholding lords in medieval Japan.",
       "frequencyRating": 4
     },
     {
-      "id": "g7_eng_ch4_q7",
-      "text": "What was the power of the ashes of the burnt mill?",
-      "options": ["They could make people rich", "They could make withered trees bloom", "They could heal wounds", "They could find hidden gold"],
-      "correctIndex": 1,
-      "explanation": "The dog's spirit told the man that the ashes could bring life back to dead trees.",
+      "id": "g7_e4_q19",
+      "text": "What kind of tree did the old man make bloom with the ashes?",
+      "options": ["Apple", "Pine", "Withered cherry tree", "Oak"],
+      "correctIndex": 2,
+      "explanation": "A sprinkle of ash turned the bare branches into a mass of pink flowers.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_eng_ch4_q8",
-      "text": "The old man made a withered ________ tree bloom in front of the Daimyo.",
-      "options": ["Apple", "Mango", "Cherry", "Pine"],
+      "id": "g7_e4_q20",
+      "text": "The Daimyo was so pleased with the old man that he:",
+      "options": ["Gave him a reward and silk robes", "Made him a general", "Arrested him", "Gave him a new dog"],
+      "correctIndex": 0,
+      "explanation": "He invited the 'Old Man who Made Trees Bloom' to his castle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e4_q21",
+      "text": "When the greedy neighbor tried to make trees bloom for the Daimyo, what happened?",
+      "options": ["The tree bloomed", "Nothing happened", "The ash blew into the Daimyo's eyes and nose", "He found gold"],
       "correctIndex": 2,
-      "explanation": "The old man sprinkled ashes on a dead cherry tree, making it blossom instantly.",
+      "explanation": "The ash did not work for him and only caused discomfort to the lord.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e4_q22",
+      "text": "What was the final fate of the greedy old man?",
+      "options": ["He became rich", "He was punished/beaten to death by the Daimyo's men", "He apologized", "He moved away"],
+      "correctIndex": 1,
+      "explanation": "His greed and attempts to trick the lord led to his downfall.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e4_q23",
+      "text": "The kind couple lived to a ________ old age.",
+      "options": ["Poor", "Green and prosperous", "Sad", "Short"],
+      "correctIndex": 1,
+      "explanation": "Their virtue was rewarded with a happy and long life.",
       "frequencyRating": 4
     },
     {
-      "id": "g7_eng_ch4_q9",
-      "text": "What happened to the greedy neighbor when he tried to imitate the kind old man?",
-      "options": ["He was rewarded", "He was punished and later died", "The tree bloomed for him too", "He became rich"],
+      "id": "g7_e4_q24",
+      "text": "What does the word 'withered' mean?",
+      "options": ["Green and healthy", "Dry and shrivelled", "Big", "Strong"],
       "correctIndex": 1,
-      "explanation": "The ashes only caused the Daimyo to sneeze, leading his guards to beat the greedy neighbor.",
+      "explanation": "It refers to trees that appear dead or have lost their vitality.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e4_q25",
+      "text": "The story emphasizes that:",
+      "options": ["Greed is good", "Kindness is rewarded and greed is punished", "Dogs are useless", "Daimyos are mean"],
+      "correctIndex": 1,
+      "explanation": "It is a moral tale highlighting the consequences of one's actions.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_eng_ch4_q10",
-      "text": "This story is a famous folk tale from:",
-      "options": ["India", "China", "Japan", "Korea"],
-      "correctIndex": 2,
-      "explanation": "'The Ashes That Made Trees Bloom' is a traditional Japanese tale emphasizing that kindness is rewarded.",
+      "id": "g7_e4_q26",
+      "text": "Why did the kind couple call the dog 'Muko'?",
+      "options": ["It means gold", "It means little son", "It means warrior", "It was a random name"],
+      "correctIndex": 1,
+      "explanation": "They loved him as if he were their own child.",
       "frequencyRating": 3
+    },
+    {
+      "id": "g7_e4_q27",
+      "text": "The old man was a ________ by profession.",
+      "options": ["Rice farmer", "Fisherman", "Carpenter", "Blacksmith"],
+      "correctIndex": 0,
+      "explanation": "He worked hard in his fields from morning until sunset.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e4_q28",
+      "text": "The word 'gleamed' in the story means:",
+      "options": ["Smelled bad", "Shone brightly", "Was heavy", "Was hidden"],
+      "correctIndex": 1,
+      "explanation": "It describes the appearance of the gold under the dog's paws.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e4_q29",
+      "text": "The greedy old couple were 'stingy'. Stingy means:",
+      "options": ["Generous", "Unwilling to spend or give", "Very tall", "Happy"],
+      "correctIndex": 1,
+      "explanation": "They were mean-spirited and did not like helping others.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e4_q30",
+      "text": "Muko's spirit helped the kind man ________ times after the dog's death.",
+      "options": ["One", "Two", "Three", "Five"],
+      "correctIndex": 2,
+      "explanation": "First through the mill/mortar, then through the ashes, and appearing in dreams.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e4_q31",
+      "text": "The Daimyo was traveling in a ________.",
+      "options": ["Car", "Palanquin/Train of state", "Boat", "Balloon"],
+      "correctIndex": 1,
+      "explanation": "In old Japan, lords were carried in grand palanquins.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e4_q32",
+      "text": "It was a custom that when a Daimyo passed by, people should:",
+      "options": ["Shout loudly", "Kneel down and remain prostrate", "Dance", "Throw flowers"],
+      "correctIndex": 1,
+      "explanation": "It was a sign of respect and submission to the great lord.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e4_q33",
+      "text": "Did the kind old man kneel down for the Daimyo?",
+      "options": ["Yes", "No, he climbed a tree", "He ran away", "He stayed in his house"],
+      "correctIndex": 1,
+      "explanation": "He was already in the cherry tree waiting to perform the miracle.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e4_q34",
+      "text": "How did the Daimyo feel about the blooming tree?",
+      "options": ["He was terrified", "He thought it was a wonder", "He was angry", "He didn't notice"],
+      "correctIndex": 1,
+      "explanation": "He stopped his procession to witness the beautiful sight.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e4_q35",
+      "text": "The greedy neighbor thought the ash would work for him because:",
+      "options": ["He was a better man", "He believed the ash itself was magic, regardless of the person", "The dog told him so", "He stole it"],
+      "correctIndex": 1,
+      "explanation": "He didn't understand that the miracle came from the goodness of the heart.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e4_q36",
+      "text": "What happened to the Daimyo's procession when the greedy man threw the ash?",
+      "options": ["It became colorful", "The dust choked the Daimyo and his wife", "Everyone started to dance", "It rained gold"],
+      "correctIndex": 1,
+      "explanation": "Instead of blooming, the ash just created a mess and ruined the dignity of the parade.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e4_q37",
+      "text": "The word 'covetous' is used to describe the neighbors. It means:",
+      "options": ["Very poor", "Having a strong desire for someone else's possessions", "Very old", "Kind"],
+      "correctIndex": 1,
+      "explanation": "They were jealous and wanted what the kind couple had.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e4_q38",
+      "text": "Muko showed his love for the old man by:",
+      "options": ["Barking all night", "Putting his paws against his legs and motioning with his head", "Running away", "Biting the neighbor"],
+      "correctIndex": 1,
+      "explanation": "The dog was trying to tell the man about the hidden treasure.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e4_q39",
+      "text": "The 'mortar' was made of ________ wood.",
+      "options": ["Oak", "Pine", "Bamboo", "Cedar"],
+      "correctIndex": 1,
+      "explanation": "The spirit of the dog specified the use of the pine tree wood.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e4_q40",
+      "text": "This story is a classic example of a ________.",
+      "options": ["Science fiction", "Fable/Moral tale", "Biography", "Newspaper report"],
+      "correctIndex": 1,
+      "explanation": "It uses magical elements to convey a moral lesson.",
+      "frequencyRating": 5
     }
   ]
 }

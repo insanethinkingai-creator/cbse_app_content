@@ -1,1 +1,330 @@
-{"id":"g8_eng_ch5","grade":"8","subject":"English","number":"5","title":"The Summit Within","version":"v1","questions":[{"id":"g8_e5_q1","text":"Author HPS:","options":["Yes mountaineer","Writer","No","Doctor"],"correctIndex":0,"explanation":"Everest.","frequencyRating":5},{"id":"g8_e5_q2","text":"Everest 1938:","options":["Yes","1960","1953","No"],"correctIndex":0,"explanation":"Himalayan.","frequencyRating":5},{"id":"g8_e5_q3","text":"Physical endeavour:","options":["Yes perseverance","Easy","No","Luck"],"correctIndex":0,"explanation":"Summit.","frequencyRating":5},{"id":"g8_e5_q4","text":"Spiritual:","options":["Yes summit within","Body","No","External"],"correctIndex":0,"explanation":"Mind.","frequencyRating":5},{"id":"g8_e5_q5","text":"Kanchenjunga goal:","options":["Yes 1959","Everest","No","Annapurna"],"correctIndex":0,"explanation":"Team.","frequencyRating":5},{"id":"g8_e5_q6","text":"High camp:","options":["Yes 8 members oxygen","No","Low","Base"],"correctIndex":0,"explanation":"Storm.","frequencyRating":5},{"id":"g8_e5_q7","text":"Nanda Devi east:","options":["Yes 1968 summit","No","Base","Train"],"correctIndex":0,"explanation":"Descending.","frequencyRating":5},{"id":"g8_e5_q8","text":"Mortality risk:","options":["Yes 1/4","Low","No","Zero"],"correctIndex":0,"explanation":"Altitude.","frequencyRating":5},{"id":"g8_e5_q9","text":"George Mallory:","options":["Yes Everest because there","No","Train","Easy"],"correctIndex":0,"explanation":"1924.","frequencyRating":5},{"id":"g8_e5_q10","text":"Summit within:","options":["Yes spiritual quest","Physical","No","Fame"],"correctIndex":0,"explanation":"Real.","frequencyRating":5},{"id":"g8_e5_q11","text":"Guru Chewang:","options":["Yes Ladakhi climber","Foreigner","No","Sherpa"],"correctIndex":0,"explanation":"Secret.","frequencyRating":5},{"id":"g8_e5_q12","text":"Secret ascent:","options":["Yes undetected","Known","No","Failed"],"correctIndex":0,"explanation":"Yangtse.","frequencyRating":5},{"id":"g8_e5_q13","text":"Train body mind:","options":["Yes perseverance","Luck","No","Money"],"correctIndex":0,"explanation":"Mental.","frequencyRating":5},{"id":"g8_e5_q14","text":"Everest 1965:","options":["Yes Indian flag","Nepal","No","China"],"correctIndex":0,"explanation":"Nawang.","frequencyRating":5},{"id":"g8_e5_q15","text":"Appetite climb:","options":["Yes grows","Less","No","Same"],"correctIndex":0,"explanation":"Summit.","frequencyRating":5},{"id":"g8_e5_q16","text":"Physical mental:","options":["Yes equal","Body only","No","Mind only"],"correctIndex":0,"explanation":"Summit within.","frequencyRating":5},{"id":"g8_e5_q17","text":"Kanchenjunga 1959:","options":["Yes 4 summit","All","No","Base"],"correctIndex":0,"explanation":"Storm 2 dead.","frequencyRating":5},{"id":"g8_e5_q18","text":"Nanda Devi 1968:","options":["Yes 4 summit 1 fell","All","No","Storm"],"correctIndex":0,"explanation":"Ice axe.","frequencyRating":5},{"id":"g8_e5_q19","text":"Risk high altitude:","options":["Yes frostbite HAPE","Low","No","Safe"],"correctIndex":0,"explanation":"1/4.","frequencyRating":5},{"id":"g8_e5_q20","text":"Mallory 1924:","options":["Yes body 1999","Found","No","Lost"],"correctIndex":0,"explanation":"Everest.","frequencyRating":5},{"id":"g8_e5_q21","text":"Chewang Yangtse:","options":["Yes secret summit","Known","No","Failed"],"correctIndex":0,"explanation":"Ladakh.","frequencyRating":5},{"id":"g8_e5_q22","text":"Train 10 years:","options":["Yes","No","Few months","No"],"correctIndex":0,"explanation":"Mind body.","frequencyRating":5},{"id":"g8_e5_q23","text":"Everest flag:","options":["Yes","China","No","Nepal"],"correctIndex":0,"explanation":"1965.","frequencyRating":5},{"id":"g8_e5_q24","text":"Real summit:","options":["Yes within","Mountain","No","Fame"],"correctIndex":0,"explanation":"Spiritual.","frequencyRating":5},{"id":"g8_e5_q25","text":"Endurance:","options":["Yes most demanding","Easy","No","Strength"],"correctIndex":0,"explanation":"Mental.","frequencyRating":5},{"id":"g8_e5_q26","text":"Storm Kanchenjunga:","options":["Yes 2 dead","No","Clear","Base"],"correctIndex":0,"explanation":"1959.","frequencyRating":5},{"id":"g8_e5_q27","text":"Nanda Devi tragedy:","options":["Yes climber fell","Safe","No","Storm"],"correctIndex":0,"explanation":"1968.","frequencyRating":5},{"id":"g8_e5_q28","text":"High altitude disease:","options":["Yes HAPE HACE","No","Low","No"],"correctIndex":0,"explanation":"O2 low.","frequencyRating":5},{"id":"g8_e5_q29","text":"Mallory quote:","options":["Yes Everest there","Easy","No","Impossible"],"correctIndex":0,"explanation":"1923.","frequencyRating":5},{"id":"g8_e5_q30","text":"Chewang unique:","options":["Yes Ladakhi secret","Sherpa","No","Foreigner"],"correctIndex":0,"explanation":"Yangtse.","frequencyRating":5},{"id":"g8_e5_q31","text":"Training spiritual:","options":["Yes","Physical only","No","Team"],"correctIndex":0,"explanation":"Quest.","frequencyRating":5},{"id":"g8_e5_q32","text":"Indian Everest:","options":["Yes 1965","British","No","Nepal"],"correctIndex":0,"explanation":"Flag.","frequencyRating":5},{"id":"g8_e5_q33","text":"Appetite danger:","options":["Yes grows","Less","No","Stop"],"correctIndex":0,"explanation":"Summit.","frequencyRating":5},{"id":"g8_e5_q34","text":"Summit conquest:","options":["Yes man mountain","Nature","No","Fame"],"correctIndex":0,"explanation":"Spiritual.","frequencyRating":5},{"id":"g8_e5_q35","text":"Kanchenjunga summiters:","options":["4","Yes","All 8","No"],"correctIndex":0,"explanation":"1959.","frequencyRating":5},{"id":"g8_e5_q36","text":"Nanda Devi summiters:","options":["4","Yes","1","No"],"correctIndex":0,"explanation":"1968.","frequencyRating":5},{"id":"g8_e5_q37","text":"Risk statistics:","options":["1/4","Yes","1/10","Safe"],"correctIndex":0,"explanation":"Above 8000m.","frequencyRating":5},{"id":"g8_e5_q38","text":"Mallory body:","options":["Yes 1999 Everest","Lost","No","Found 1924"],"correctIndex":0,"explanation":"Expedition.","frequencyRating":5},{"id":"g8_e5_q39","text":"Chewang region:","options":["Ladakh","Yes","Kashmir","Himachal"],"correctIndex":0,"explanation":"Secret.","frequencyRating":5},{"id":"g8_e5_q40","text":"Theme summit:","options":["Physical spiritual","Physical only","No","External"],"correctIndex":0,"explanation":"Within.","frequencyRating":5}]}
+{
+  "id": "g8_eng_ch5",
+  "grade": "8",
+  "subject": "English",
+  "number": "5",
+  "title": "The Summit Within",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_e5_q1",
+      "text": "Who is the author of 'The Summit Within'?",
+      "options": ["Major H.P.S. Ahluwalia", "Michael Morpurgo", "Tenzing Norgay", "Satyajit Ray"],
+      "correctIndex": 0,
+      "explanation": "Major Ahluwalia was a member of the first successful Indian expedition to Mount Everest in 1965.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e5_q2",
+      "text": "What was the author's dominant feeling as he stood on the summit of Everest?",
+      "options": ["Pride", "Exhaustion", "Humility and a sense of smallness", "Anger"],
+      "correctIndex": 2,
+      "explanation": "Looking at the vast panorama, he felt humble and slightly sad that the climb was over.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e5_q3",
+      "text": "According to the author, why is climbing a mountain more than just a physical feat?",
+      "options": ["It is a spiritual and emotional experience", "It is for getting famous", "It is for exercise", "It is to find gold"],
+      "correctIndex": 0,
+      "explanation": "He believes the conquest of the summit is also a conquest of the self.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e5_q4",
+      "text": "What does the 'summit within' refer to in the chapter?",
+      "options": ["A smaller mountain nearby", "The summit of the mind", "The center of the Earth", "The base camp"],
+      "correctIndex": 1,
+      "explanation": "It refers to one's own internal struggles, fears, and personal growth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e5_q5",
+      "text": "Why did the author choose to climb Everest?",
+      "options": ["Because it was near his home", "Because it is the highest, mightiest and has defied many efforts", "Because his friends told him to", "To win a bet"],
+      "correctIndex": 1,
+      "explanation": "He found Everest's challenge irresistible and full of obstacles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e5_q6",
+      "text": "What qualities are required to climb a mountain, according to Ahluwalia?",
+      "options": ["Wealth and luck", "Endurance, persistence and willpower", "Speed and agility", "Silence and magic"],
+      "correctIndex": 1,
+      "explanation": "The demonstration of these physical and mental qualities is exhilarating.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e5_q7",
+      "text": "What do climbers do when they share the same rope?",
+      "options": ["They fight", "One climber cuts the steps while the other belays (holds firm)", "They sleep", "They race each other"],
+      "correctIndex": 1,
+      "explanation": "Climbing is a communal effort where team members support each other's physical progress.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e5_q8",
+      "text": "What 'relic' of his faith did Major Ahluwalia leave on Everest?",
+      "options": ["A picture of Guru Nanak", "A picture of Goddess Durga", "A cross", "A statue of Buddha"],
+      "correctIndex": 0,
+      "explanation": "He left a picture of Guru Nanak as a mark of reverence.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e5_q9",
+      "text": "What did Rawat (the author's companion) leave on the summit?",
+      "options": ["A picture of Guru Nanak", "A picture of Goddess Durga", "A copy of the Gita", "A flower"],
+      "correctIndex": 1,
+      "explanation": "He left a picture of the Goddess Durga.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e5_q10",
+      "text": "What did Phu Dorji leave on Everest?",
+      "options": ["A flag", "A relic of the Buddha", "Food", "A mirror"],
+      "correctIndex": 1,
+      "explanation": "He left a relic of the Buddha.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e5_q11",
+      "text": "What did Edmund Hillary bury under a cairn at the summit?",
+      "options": ["A cross", "A map", "A knife", "A coin"],
+      "correctIndex": 0,
+      "explanation": "Hillary had left a cross on the mountain during his historic 1953 climb.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e5_q12",
+      "text": "A 'cairn' is:",
+      "options": ["A type of bird", "A heap of rocks and stones", "A deep cave", "A mountaineering tool"],
+      "correctIndex": 1,
+      "explanation": "Climbers use cairns to mark locations or bury items.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e5_q13",
+      "text": "The experience of having climbed to the summit changes you ________.",
+      "options": ["Temporarily", "Completely", "Physically only", "Not at all"],
+      "correctIndex": 1,
+      "explanation": "The author claims the experience provides a life-long change to the person's soul.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e5_q14",
+      "text": "Which summit is more difficult to climb than Everest, according to the author?",
+      "options": ["K2", "The internal summit of the mind", "Kangchenjunga", "The Alps"],
+      "correctIndex": 1,
+      "explanation": "He believes self-conquest is the most daunting and rewarding task.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e5_q15",
+      "text": "What was the feeling of 'sadness' at the summit?",
+      "options": ["Because he lost his bag", "Because there was no more higher to climb", "Because he was lonely", "Because it was cold"],
+      "correctIndex": 1,
+      "explanation": "He felt a tinge of regret because the 'ultimate' goal had been reached and all roads would now lead down.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e5_q16",
+      "text": "The author says that a man who has been to the mountain top is:",
+      "options": ["Never the same again", "Always angry", "Very rich", "A teacher"],
+      "correctIndex": 0,
+      "explanation": "The transformation is permanent and profound.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e5_q17",
+      "text": "Climbing is a communal act because it requires:",
+      "options": ["Talking a lot", "Cooperation and shared effort between partners", "Money from the government", "Many cameras"],
+      "correctIndex": 1,
+      "explanation": "Famous climbers have left records of help given by others; no one climbs alone.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e5_q18",
+      "text": "What does 'panorama' mean?",
+      "options": ["A narrow view", "A wide, unbroken view of a whole region", "A deep valley", "A camera lens"],
+      "correctIndex": 1,
+      "explanation": "The author viewed the vast scenery of the Himalayas from the top.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e5_q19",
+      "text": "Ahluwalia's story is an account of his expedition in:",
+      "options": ["1953", "1965", "1980", "2000"],
+      "correctIndex": 1,
+      "explanation": "The 1965 Indian expedition was a landmark in Indian mountaineering.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e5_q20",
+      "text": "What does the author gain from his internal summit?",
+      "options": ["A degree", "Fuller knowledge of himself", "More money", "Better health"],
+      "correctIndex": 1,
+      "explanation": "Climbing the 'internal mountain' helps one face life's ordeals with more strength.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e5_q21",
+      "text": "The climb to the summit of the mind is ________ to the climb to the Everest summit.",
+      "options": ["Opposite", "No comparison", "Similar and equally necessary", "Much easier"],
+      "correctIndex": 2,
+      "explanation": "The author draws a parallel between physical and spiritual achievements.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e5_q22",
+      "text": "Mountains are nature at its ________.",
+      "options": ["Worst", "Best", "Smallest", "Ugliest"],
+      "correctIndex": 1,
+      "explanation": "He sees mountains as a supreme means of communion with God.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e5_q23",
+      "text": "Why do people risk their lives to climb mountains, according to the author?",
+      "options": ["Because they are foolish", "Because it is part of human nature to overcome obstacles", "To find treasure", "To escape their families"],
+      "correctIndex": 1,
+      "explanation": "Man takes delight in overcoming obstacles that are difficult.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e5_q24",
+      "text": "When the author reached the summit, he felt he was ________.",
+      "options": ["A god", "A giant", "Small and insignificant", "The owner of the world"],
+      "correctIndex": 2,
+      "explanation": "The scale of the mountain reminded him of his own physical limitations.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e5_q25",
+      "text": "The 'ordeals' of life mentioned in the end of the chapter mean:",
+      "options": ["Parties", "Gifts", "Difficult experiences", "Games"],
+      "correctIndex": 2,
+      "explanation": "His experience as an 'Everester' helped him face life's hardships resolutely.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e5_q26",
+      "text": "What is the physical act of climbing a mountain like?",
+      "options": ["A walk in the park", "A struggle with ice and rock", "Floating", "Swimming"],
+      "correctIndex": 1,
+      "explanation": "The text describes the grim struggle and the physical effort involved in every step.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e5_q27",
+      "text": "How many successful Indian expeditions to Everest occurred before 1965?",
+      "options": ["None", "One", "Two", "Many"],
+      "correctIndex": 0,
+      "explanation": "The 1965 expedition was the first successful one for India.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e5_q28",
+      "text": "The summit of Everest is a place of ________ according to the symbols left there.",
+      "options": ["War", "Reverence and respect", "Pollution", "Silence only"],
+      "correctIndex": 1,
+      "explanation": "All items left behind were symbols of devotion and not of conquest.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e5_q29",
+      "text": "Ahluwalia mentions that 'even when the mountain is not Everest', every climb is ________.",
+      "options": ["Useless", "Worthwhile and transformative", "Dangerous", "Boring"],
+      "correctIndex": 1,
+      "explanation": "He values the act of climbing itself as a teacher.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e5_q30",
+      "text": "Which mountain range is Everest part of?",
+      "options": ["Alps", "Himalayas", "Andes", "Rockies"],
+      "correctIndex": 1,
+      "explanation": "Everest is the highest peak in the Himalayan range.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e5_q31",
+      "text": "What does 'belay' mean in mountaineering?",
+      "options": ["To run", "To fix a rope to a person or rock to prevent a fall", "To sing", "To cook"],
+      "correctIndex": 1,
+      "explanation": "It is a vital safety technique mentioned in the text.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e5_q32",
+      "text": "The term 'panoramic' refers to the view from:",
+      "options": ["The base camp", "The summit", "A window", "A map"],
+      "correctIndex": 1,
+      "explanation": "The wide view of the surrounding peaks from the top of Everest.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e5_q33",
+      "text": "The author felt that the spiritual effect of the climb was more ________ than the physical one.",
+      "options": ["Brief", "Painful", "Deep and lasting", "None"],
+      "correctIndex": 2,
+      "explanation": "The memory of the summit remains vivid in his mind forever.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e5_q34",
+      "text": "Major Ahluwalia's tone in the chapter is:",
+      "options": ["Arrogant", "Reflective and philosophical", "Scientific", "Humorous"],
+      "correctIndex": 1,
+      "explanation": "He spends more time discussing the inner feelings than the technical aspects of the climb.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e5_q35",
+      "text": "What does he say about the obstacles on a mountain?",
+      "options": ["They are to be ignored", "They help you enjoy the climb more", "They are a supreme challenge to one's physical powers", "They don't exist"],
+      "correctIndex": 2,
+      "explanation": "Overcoming obstacles provides a sense of victory.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e5_q36",
+      "text": "Which word best describes the 'summit within'?",
+      "options": ["Everest", "Self-knowledge", "Physical strength", "Famous"],
+      "correctIndex": 1,
+      "explanation": "It is the understanding of one's own character and spirit.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_e5_q37",
+      "text": "The author concludes that 'Everester' is someone who has ________.",
+      "options": ["Lots of money", "A specific medal", "An enriched soul and changed perspective", "A broken leg"],
+      "correctIndex": 2,
+      "explanation": "The label implies a person who has seen the world from the highest perspective.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_e5_q38",
+      "text": "What did the author say about the other peaks visible from Everest?",
+      "options": ["They were bigger", "They looked like a jewelled necklace around the neck of the summit", "They were ugly", "He couldn't see them"],
+      "correctIndex": 1,
+      "explanation": "He describes the beauty of the surrounding peaks as a royal decoration.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e5_q39",
+      "text": "The physical act of climbing to the summit of a mountain on this earth is a ________ act.",
+      "options": ["Lesser", "Spiritual", "Visible", "Useless"],
+      "correctIndex": 2,
+      "explanation": "The text contrasts the physical, visible act with the internal, spiritual one.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_e5_q40",
+      "text": "What is the most important lesson the author wants readers to learn?",
+      "options": ["Buy better gear", "Don't climb alone", "Conquer the internal summit to face life's challenges", "Mountains are dangerous"],
+      "correctIndex": 2,
+      "explanation": "The central theme is that internal growth is as important as external achievement.",
+      "frequencyRating": 5
+    }
+  ]
+}

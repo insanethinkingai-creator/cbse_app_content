@@ -1,1 +1,330 @@
-{"id":"g8_sci_ch13","grade":"8","subject":"Science","number":"13","title":"Light","version":"v1","questions":[{"id":"g8_s13_q1","text":"Light straight line:","options":["Yes rectilinear","Curve","No","Diffraction"],"correctIndex":0,"explanation":"Shadow.","frequencyRating":5},{"id":"g8_s13_q2","text":"Regular reflection plane mirror:","options":["Yes sharp image","Diffuse","No","One ray"],"correctIndex":0,"explanation":"Smooth.","frequencyRating":5},{"id":"g8_s13_q3","text":"Diffuse rough surface:","options":["Yes scattered","Sharp","No","Plane"],"correctIndex":0,"explanation":"Many images no.","frequencyRating":5},{"id":"g8_s13_q4","text":"Mirror multiple images:","options":["Yes angle small more","90 2","60 5","Yes"],"correctIndex":3,"explanation":"360/n -1.","frequencyRating":5},{"id":"g8_s13_q5","text":"Lateral inversion left right:","options":["Yes mirror","No","Up down","No"],"correctIndex":0,"explanation":"Virtual erect.","frequencyRating":5},{"id":"g8_s13_q6","text":"Image plane mirror:","options":["Virtual erect same distance","Real inverted","No image","Magnified"],"correctIndex":0,"explanation":"Behind.","frequencyRating":5},{"id":"g8_s13_q7","text":"Periscope:","options":["2 mirrors 45","Yes","1 mirror","No"],"correctIndex":0,"explanation":"Tank.","frequencyRating":5},{"id":"g8_s13_q8","text":"Kaleidoscope:","options":["3 mirrors triangle","Yes beads","2","No"],"correctIndex":0,"explanation":"Symmetric.","frequencyRating":5},{"id":"g8_s13_q9","text":"Sunlight white prism 7 colours:","options":["VIBGYOR","Yes","White","No"],"correctIndex":0,"explanation":"Dispersion.","frequencyRating":5},{"id":"g8_s13_q10","text":"Rainbow natural:","options":["Yes dispersion refraction reflection","Water drops","No","Mirror"],"correctIndex":0,"explanation":"Red top violet bottom.","frequencyRating":5},{"id":"g8_s13_q11","text":"Primary rainbow:","options":["Red outer","Violet outer","No","Secondary"],"correctIndex":0,"explanation":"Angle 42.","frequencyRating":5},{"id":"g8_s13_q12","text":"Secondary rainbow:","options":["Violet outer dim","Red outer","No","Primary"],"correctIndex":0,"explanation":"50 angle inverted.","frequencyRating":5},{"id":"g8_s13_q13","text":"Laws reflection:","options":["Incident reflected angle equal normal i=r","Yes smooth","No","Diffuse"],"correctIndex":0,"explanation":"Plane.","frequencyRating":5},{"id":"g8_s13_q14","text":"Image distance object:","options":["Same mirror","Yes","Half","Double"],"correctIndex":0,"explanation":"Plane.","frequencyRating":5},{"id":"g8_s13_q15","text":"Two plane mirrors 90:","options":["3 images","2","4","1"],"correctIndex":0,"explanation":"360/90=4 -1=3.","frequencyRating":5},{"id":"g8_s13_q16","text":"Two mirrors 60:","options":["5 images","6-1=5","Yes","90 3"],"correctIndex":0,"explanation":"Formula.","frequencyRating":5},{"id":"g8_s13_q17","text":"Mirror writing:","options":["Lateral inverted read mirror","Yes ambulance","No","Normal"],"correctIndex":0,"explanation":"Driver.","frequencyRating":5},{"id":"g8_s13_q18","text":"Periscope trench war:","options":["Yes","No","Kaleido","No"],"correctIndex":0,"explanation":"Parallel.","frequencyRating":5},{"id":"g8_s13_q19","text":"Kaleido toy:","options":["Yes rotate patterns","Fixed","No","Mirror one"],"correctIndex":0,"explanation":"Glass.","frequencyRating":5},{"id":"g8_s13_q20","text":"Prism dispersion:","options":["Speed different colours","Yes violet slowest","No","Same"],"correctIndex":0,"explanation":"Deviation.","frequencyRating":5},{"id":"g8_s13_q21","text":"Newton disc rotate white:","options":["Yes persistence vision","No","Colours","Dark"],"correctIndex":0,"explanation":"Mix.","frequencyRating":5},{"id":"g8_s13_q22","text":"Primary colours:","options":["Red green blue","Yes","White","No"],"correctIndex":0,"explanation":"Mix.","frequencyRating":5},{"id":"g8_s13_q23","text":"Danger signal red:","options":["Least scattered","Yes violet most","Blue less","Green"],"correctIndex":0,"explanation":"Wavelength.","frequencyRating":5},{"id":"g8_s13_q24","text":"Atmospheric refraction:","options":["Apparent star position","Yes twinkling","No","Lens"],"correctIndex":0,"explanation":"Density.","frequencyRating":5},{"id":"g8_s13_q25","text":"Mirage hot road water:","options":["Yes total reflection","No","Real","Puddle"],"correctIndex":0,"explanation":"Refr index.","frequencyRating":5},{"id":"g8_s13_q26","text":"Sundog rainbow:","options":["Yes refraction ice","No","Lightning","No"],"correctIndex":0,"explanation":"Sun.","frequencyRating":4},{"id":"g8_s13_q27","text":"Image virtual cannot:","options":["Screen","Real can","Yes cannot","No"],"correctIndex":0,"explanation":"Plane.","frequencyRating":5},{"id":"g8_s13_q28","text":"Incident ray normal 90:","options":["Reflected same","No bend","No reflection","Absorb"],"correctIndex":2,"explanation":"Grazing.","frequencyRating":5},{"id":"g8_s13_q29","text":"Two mirrors parallel infinite:","options":["Yes","No finite","360","No"],"correctIndex":0,"explanation":"Theory.","frequencyRating":4},{"id":"g8_s13_q30","text":"Rainbow observer back rain front sun:","options":["Yes 40 angle","No","Side","No"],"correctIndex":0,"explanation":"Drops.","frequencyRating":5},{"id":"g8_s13_q31","text":"Prism violet deviates:","options":["Most","Least red","No","Same"],"correctIndex":0,"explanation":"Speed min.","frequencyRating":5},{"id":"g8_s13_q32","text":"White recombine prism lenses:","options":["Yes","No","Split only","No"],"correctIndex":0,"explanation":"Newton.","frequencyRating":5},{"id":"g8_s13_q33","text":"Safety mirror convex shop:","options":["Wide field","Yes","Plane","No"],"correctIndex":0,"explanation":"View.","frequencyRating":5},{"id":"g8_s13_q34","text":"Pinhole camera:","options":["Real inverted image","Yes","Virtual","No"],"correctIndex":0,"explanation":"Small hole.","frequencyRating":5},{"id":"g8_s13_q35","text":"Shadow umbra penumbra:","options":["Yes total partial","No","One","No"],"correctIndex":0,"explanation":"Extended source.","frequencyRating":5},{"id":"g8_s13_q36","text":"Lunar eclipse penumbra:","options":["Yes","Total","No","Solar"],"correctIndex":0,"explanation":"Earth shadow.","frequencyRating":5},{"id":"g8_s13_q37","text":"Tyndall effect:","options":["Dust smoke","Yes","Clear","No"],"correctIndex":0,"explanation":"Colloidal.","frequencyRating":4},{"id":"g8_s13_q38","text":"Danger red scatters:","options":["Least","Yes long lambda","Most blue","No"],"correctIndex":0,"explanation":"Visibility.","frequencyRating":5},{"id":"g8_s13_q39","text":"Mirage inferior superior:","options":["Yes","Real water","Puddle","No"],"correctIndex":0,"explanation":"Hot air.","frequencyRating":5},{"id":"g8_s13_q40","text":"Light reflection refraction dispersion:","options":["Yes all","No","One","No"],"correctIndex":0,"explanation":"Nature.","frequencyRating":5}]}
+{
+  "id": "g8_sci_ch13",
+  "grade": "8",
+  "subject": "Science",
+  "number": "13",
+  "title": "Light",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_s13_q1",
+      "text": "What makes things visible to us?",
+      "options": ["Eyes only", "Light only", "Reflection of light from objects into our eyes", "The color of objects"],
+      "correctIndex": 2,
+      "explanation": "We can see objects only when light from them enters our eyes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s13_q2",
+      "text": "The bouncing back of light when it strikes a shining surface is called:",
+      "options": ["Refraction", "Reflection", "Dispersion", "Absorption"],
+      "correctIndex": 1,
+      "explanation": "Reflection is the change in direction of light upon striking a surface.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s13_q3",
+      "text": "According to the Law of Reflection, the angle of incidence is ________ the angle of reflection.",
+      "options": ["Greater than", "Less than", "Always equal to", "Double of"],
+      "correctIndex": 2,
+      "explanation": "The first law of reflection states that ∠i = ∠r.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s13_q4",
+      "text": "The incident ray, the reflected ray, and the normal at the point of incidence lie in:",
+      "options": ["Different planes", "The same plane", "Parallel planes", "Vertical planes only"],
+      "correctIndex": 1,
+      "explanation": "This is the second law of reflection.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s13_q5",
+      "text": "In a plane mirror, the left side of the object appears to be the right side of the image. This is called:",
+      "options": ["Lateral inversion", "Vertical inversion", "Refraction", "Magnification"],
+      "correctIndex": 0,
+      "explanation": "Lateral inversion is the side-to-side reversal in a plane mirror.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s13_q6",
+      "text": "The reflection from a smooth surface like a mirror is called:",
+      "options": ["Diffused reflection", "Irregular reflection", "Regular reflection", "Multiple reflection"],
+      "correctIndex": 2,
+      "explanation": "Regular reflection occurs when parallel rays strike a smooth surface and remain parallel.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s13_q7",
+      "text": "The reflection from a rough or uneven surface is called:",
+      "options": ["Regular reflection", "Diffused reflection", "Mirror reflection", "Specular reflection"],
+      "correctIndex": 1,
+      "explanation": "Diffused reflection occurs when rays are reflected in different directions from a rough surface.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s13_q8",
+      "text": "Objects which shine in the light of other objects are called:",
+      "options": ["Luminous objects", "Illuminated objects", "Opaque objects", "Transparent objects"],
+      "correctIndex": 1,
+      "explanation": "Non-luminous objects seen due to light from others are illuminated objects.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s13_q9",
+      "text": "How many images are formed by two parallel plane mirrors facing each other?",
+      "options": ["Two", "Four", "Eight", "Infinite"],
+      "correctIndex": 3,
+      "explanation": "Parallel mirrors produce an infinite number of images.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s13_q10",
+      "text": "Which device works on the principle of multiple reflections and creates beautiful patterns?",
+      "options": ["Periscope", "Microscope", "Kaleidoscope", "Telescope"],
+      "correctIndex": 2,
+      "explanation": "A kaleidoscope uses multiple mirrors to create symmetrical patterns.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s13_q11",
+      "text": "Which device is used in submarines to see objects on the surface of water?",
+      "options": ["Kaleidoscope", "Periscope", "Stethoscope", "Telescope"],
+      "correctIndex": 1,
+      "explanation": "A periscope allows the user to see things otherwise out of the line of sight.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s13_q12",
+      "text": "Sunlight, also called white light, consists of ________ colors.",
+      "options": ["One", "Three", "Five", "Seven"],
+      "correctIndex": 3,
+      "explanation": "White light is a mixture of seven colors (VIBGYOR).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s13_q13",
+      "text": "The splitting of white light into its constituent colors is called:",
+      "options": ["Reflection", "Refraction", "Dispersion", "Absorption"],
+      "correctIndex": 2,
+      "explanation": "Dispersion is the phenomenon that causes a rainbow.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s13_q14",
+      "text": "Which part of the eye gives it its distinctive color?",
+      "options": ["Cornea", "Iris", "Pupil", "Retina"],
+      "correctIndex": 1,
+      "explanation": "The iris is the colored part of the eye that controls the pupil.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s13_q15",
+      "text": "The small opening in the iris that allows light to enter the eye is called:",
+      "options": ["Retina", "Lens", "Pupil", "Cornea"],
+      "correctIndex": 2,
+      "explanation": "The pupil size changes to regulate the amount of light entering.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s13_q16",
+      "text": "On which part of the eye is the image formed?",
+      "options": ["Lens", "Iris", "Retina", "Optic nerve"],
+      "correctIndex": 2,
+      "explanation": "The retina acts as a screen where light sensitive cells are located.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s13_q17",
+      "text": "The nerve cells that are sensitive to bright light and color are:",
+      "options": ["Rods", "Cones", "Optic nerves", "Ciliary muscles"],
+      "correctIndex": 1,
+      "explanation": "Cones detect color and work best in bright light.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s13_q18",
+      "text": "The nerve cells that are sensitive to dim light are:",
+      "options": ["Cones", "Rods", "Iris", "Lens"],
+      "correctIndex": 1,
+      "explanation": "Rods are sensitive to low intensity light.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s13_q19",
+      "text": "The point in the eye where no vision is possible because of no sensory cells is called:",
+      "options": ["Yellow spot", "Blind spot", "Black spot", "Focus"],
+      "correctIndex": 1,
+      "explanation": "The blind spot is the junction of the optic nerve and the retina.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s13_q20",
+      "text": "Persistence of vision for the human eye is about ________ of a second.",
+      "options": ["1/2", "1/10", "1/16", "1/50"],
+      "correctIndex": 2,
+      "explanation": "The image stays on the retina for about 1/16th of a second.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s13_q21",
+      "text": "A person with ________ can see near objects clearly but not distant ones.",
+      "options": ["Cataract", "Hypermetropia", "Myopia", "Night blindness"],
+      "correctIndex": 2,
+      "explanation": "Myopia is also known as short-sightedness.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s13_q22",
+      "text": "Cloudiness of the eye lens that occurs usually in old age is called:",
+      "options": ["Myopia", "Cataract", "Astigmatism", "Glaucoma"],
+      "correctIndex": 1,
+      "explanation": "Cataract makes vision opaque and can be corrected by surgery.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s13_q23",
+      "text": "Which vitamin deficiency leads to night blindness?",
+      "options": ["Vitamin C", "Vitamin D", "Vitamin A", "Vitamin B"],
+      "correctIndex": 2,
+      "explanation": "Vitamin A is essential for healthy eyesight.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s13_q24",
+      "text": "The most popular resource for visually challenged persons to read is:",
+      "options": ["Morse code", "Braille system", "Binary code", "Sign language"],
+      "correctIndex": 1,
+      "explanation": "The Braille system uses raised dots for reading by touch.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s13_q25",
+      "text": "Louis Braille developed the Braille system in:",
+      "options": ["1821", "1921", "1721", "1850"],
+      "correctIndex": 0,
+      "explanation": "He was himself a visually challenged person.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s13_q26",
+      "text": "The distance between the object and the mirror is ________ the distance between the mirror and the image.",
+      "options": ["Equal to", "Greater than", "Less than", "Half of"],
+      "correctIndex": 0,
+      "explanation": "In a plane mirror, the image is as far behind as the object is in front.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s13_q27",
+      "text": "Eyes of which animal can see behind them even when looking forward?",
+      "options": ["Owl", "Crab", "Butterfly", "Eagle"],
+      "correctIndex": 1,
+      "explanation": "Crabs have eyes on stalks that provide a wide range of vision.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s13_q28",
+      "text": "An owl can see very well in the night but not during the day because:",
+      "options": ["It has more cones", "It has more rods than cones", "It has no pupil", "It has a large retina"],
+      "correctIndex": 1,
+      "explanation": "Large number of rods help in seeing in faint light.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s13_q29",
+      "text": "When the angle between two mirrors is 90 degrees, how many images are formed?",
+      "options": ["2", "3", "4", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "Formula: (360/angle) - 1 => (360/90) - 1 = 3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s13_q30",
+      "text": "A ray of light falling on a mirror is called:",
+      "options": ["Reflected ray", "Normal", "Incident ray", "Emergent ray"],
+      "correctIndex": 2,
+      "explanation": "The ray that hits the surface is the incident ray.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s13_q31",
+      "text": "The normal is a line at ________ degrees to the reflecting surface.",
+      "options": ["0", "45", "90", "180"],
+      "correctIndex": 2,
+      "explanation": "Normal is always perpendicular to the surface at the point of incidence.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s13_q32",
+      "text": "What type of image is formed by a plane mirror?",
+      "options": ["Real and inverted", "Virtual and erect", "Real and erect", "Virtual and inverted"],
+      "correctIndex": 1,
+      "explanation": "Virtual images cannot be caught on a screen.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s13_q33",
+      "text": "Braille system has ________ dot patterns.",
+      "options": ["26", "50", "63", "100"],
+      "correctIndex": 2,
+      "explanation": "There are 63 dot patterns or characters in Braille.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s13_q34",
+      "text": "The change in the size of the ________ regulates the light entering the eye.",
+      "options": ["Iris", "Pupil", "Lens", "Retina"],
+      "correctIndex": 1,
+      "explanation": "The iris contracts or expands to change pupil size.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s13_q35",
+      "text": "We see a rainbow because of:",
+      "options": ["Reflection", "Refraction", "Dispersion", "Pollution"],
+      "correctIndex": 2,
+      "explanation": "Raindrops act like prisms dispersing sunlight.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s13_q36",
+      "text": "Regular reflection is responsible for:",
+      "options": ["Formation of images in a mirror", "Visibility of a wall", "A rainbow", "Color of an apple"],
+      "correctIndex": 0,
+      "explanation": "Only smooth surfaces that produce regular reflection form clear images.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s13_q37",
+      "text": "The visually challenged can use ________ to help them orient with their surroundings.",
+      "options": ["Optical aids", "Non-optical aids", "Lenses", "Mirrors"],
+      "correctIndex": 1,
+      "explanation": "Non-optical aids include auditory (sound) and tactual (touch) aids.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s13_q38",
+      "text": "If you stand 1 meter away from a mirror, how far is your image from you?",
+      "options": ["1 m", "2 m", "0.5 m", "Mirror distance"],
+      "correctIndex": 1,
+      "explanation": "1m (you to mirror) + 1m (mirror to image) = 2m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s13_q39",
+      "text": "Our eyes should be washed with ________ water for good health.",
+      "options": ["Hot", "Very cold", "Clean and normal", "Salt"],
+      "correctIndex": 2,
+      "explanation": "Maintaining hygiene is key to preventing eye infections.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s13_q40",
+      "text": "To read comfortably, the normal distance for the eye is about ________ cm.",
+      "options": ["10", "25", "50", "100"],
+      "correctIndex": 1,
+      "explanation": "25 cm is the least distance of distinct vision for a normal human eye.",
+      "frequencyRating": 5
+    }
+  ]
+}

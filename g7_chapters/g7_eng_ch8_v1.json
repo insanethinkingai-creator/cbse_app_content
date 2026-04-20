@@ -7,83 +7,323 @@
   "version": "v1",
   "questions": [
     {
-      "id": "g7_eng_ch8_q1",
-      "text": "In the chapter, who is Ananda writing a letter to?",
-      "options": ["Her teacher", "Her friend Soumya", "Her parents", "The Prime Minister"],
+      "id": "g7_e8_q1",
+      "text": "Where is the National War Memorial located?",
+      "options": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
       "correctIndex": 1,
-      "explanation": "Ananda writes a letter to Soumya after her school visit to the National War Memorial.",
-      "frequencyRating": 4
+      "explanation": "The National War Memorial was inaugurated in New Delhi near India Gate.",
+      "frequencyRating": 5
     },
     {
-      "id": "g7_eng_ch8_q2",
-      "text": "Where is the National War Memorial (NWM) located?",
-      "options": ["Mumbai", "Kolkata", "New Delhi", "Chennai"],
+      "id": "g7_e8_q2",
+      "text": "What is the main format used in this chapter to tell the story?",
+      "options": ["A diary entry", "A letter exchange between friends", "A news report", "A poem"],
+      "correctIndex": 1,
+      "explanation": "The chapter consists of letters written between two friends, Soumya and Ananda.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e8_q3",
+      "text": "Who wrote the first letter in the chapter?",
+      "options": ["Ananda", "Soumya", "A soldier", "The Prime Minister"],
+      "correctIndex": 1,
+      "explanation": "Soumya writes to Ananda after visiting the National War Memorial.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e8_q4",
+      "text": "What is the name of the 'eternal flame' at the National War Memorial?",
+      "options": ["Shakti Jyoti", "Amar Jawan Jyoti", "Vijay Jyoti", "Veer Jyoti"],
+      "correctIndex": 1,
+      "explanation": "The Amar Jawan Jyoti (Flame of the Immortal Soldier) represents the eternal spirit of the soldiers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e8_q5",
+      "text": "Which of these is the highest gallantry award in India during wartime?",
+      "options": ["Ashoka Chakra", "Param Vir Chakra", "Vir Chakra", "Maha Vir Chakra"],
+      "correctIndex": 1,
+      "explanation": "The Param Vir Chakra is the highest military decoration for wartime bravery.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e8_q6",
+      "text": "Which gallantry award is given for bravery during peacetime?",
+      "options": ["Param Vir Chakra", "Ashoka Chakra", "Sena Medal", "Kirti Chakra"],
+      "correctIndex": 1,
+      "explanation": "The Ashoka Chakra is India's highest peacetime military decoration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e8_q7",
+      "text": "The National War Memorial consists of four concentric circles. What are they called?",
+      "options": ["Stars", "Chakras", "Rings", "Walls"],
+      "correctIndex": 1,
+      "explanation": "They are known as Amar Chakra, Veerta Chakra, Tyag Chakra, and Rakshak Chakra.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e8_q8",
+      "text": "Which chakra signifies the 'Circle of Sacrifice'?",
+      "options": ["Amar Chakra", "Veerta Chakra", "Tyag Chakra", "Rakshak Chakra"],
       "correctIndex": 2,
-      "explanation": "The NWM is situated near India Gate in New Delhi.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g7_eng_ch8_q3",
-      "text": "What does the 'Amar Jawan Jyoti' represent?",
-      "options": ["A victory celebration", "The eternal spirit of the fallen soldiers", "A historical monument", "A religious lamp"],
-      "correctIndex": 1,
-      "explanation": "It symbolizes the immortality of the soldiers who laid down their lives for the nation.",
-      "frequencyRating": 5
-    },
-    {
-      "id": "g7_eng_ch8_q4",
-      "text": "Which of the following is NOT one of the concentric circles at the War Memorial?",
-      "options": ["Amar Chakra", "Veerta Chakra", "Shakti Chakra", "Rakshak Chakra"],
-      "correctIndex": 2,
-      "explanation": "The four circles are Amar (Immortality), Veerta (Bravery), Tyag (Sacrifice), and Rakshak (Protection).",
+      "explanation": "Tyag Chakra represents the sacrifice of soldiers, with their names inscribed on granite tablets.",
       "frequencyRating": 4
     },
     {
-      "id": "g7_eng_ch8_q5",
-      "text": "What is inscribed on the granite tablets in the Tyag Chakra?",
-      "options": ["Names of the battles", "Names of the fallen soldiers", "The Constitution of India", "Poems about peace"],
+      "id": "g7_e8_q9",
+      "text": "What is inscribed on the tablets in the Tyag Chakra?",
+      "options": ["Poems", "Names of fallen soldiers", "Historical dates", "Rules of the memorial"],
       "correctIndex": 1,
-      "explanation": "It contains the names of soldiers who were martyred in post-independence wars.",
+      "explanation": "Each granite brick in the Tyag Chakra bears the name of a soldier who died for the nation.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_eng_ch8_q6",
-      "text": "Major Somnath Sharma was the first recipient of which gallantry award?",
-      "options": ["Vir Chakra", "Param Vir Chakra", "Maha Vir Chakra", "Ashoka Chakra"],
+      "id": "g7_e8_q10",
+      "text": "Who was Major Somnath Sharma?",
+      "options": ["A poet", "The first recipient of the Param Vir Chakra", "A pilot", "A navy officer"],
       "correctIndex": 1,
-      "explanation": "He was awarded the PVC posthumously for his bravery in the 1947-48 war.",
+      "explanation": "Major Somnath Sharma was posthumously awarded India's first Param Vir Chakra.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_eng_ch8_q7",
-      "text": "The letter mentioned in the lesson written by a soldier was from:",
-      "options": ["Capt. Vikram Batra", "Major Padmapani Acharya", "Lt. Manoj Kumar Pandey", "Major Shaitan Singh"],
+      "id": "g7_e8_q11",
+      "text": "Why did Soumya feel 'inspired' after visiting the memorial?",
+      "options": ["She liked the architecture", "She learned about the selfless bravery of soldiers", "She met a soldier", "She won a prize"],
       "correctIndex": 1,
-      "explanation": "The lesson includes a moving letter from Major Padmapani Acharya to his father during the Kargil War.",
+      "explanation": "Learning about the stories of courage made her feel proud and motivated to serve her country.",
       "frequencyRating": 4
     },
     {
-      "id": "g7_eng_ch8_q8",
-      "text": "How did Ananda feel after visiting the War Memorial?",
-      "options": ["Bored", "Humble and patriotic", "Tired", "Indifferent"],
+      "id": "g7_e8_q12",
+      "text": "The 'Amar Chakra' represents:",
+      "options": ["The Circle of Bravery", "The Circle of Immortality", "The Circle of Protection", "The Circle of Sacrifice"],
       "correctIndex": 1,
-      "explanation": "The visit deeply moved her and made her realize the sacrifices made for our freedom.",
+      "explanation": "Amar means immortal; this circle contains the eternal flame.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e8_q13",
+      "text": "What was the occupation of Ananda's aunt mentioned in the letter?",
+      "options": ["Teacher", "Officer in the Indian Army", "Doctor", "Artist"],
+      "correctIndex": 1,
+      "explanation": "Ananda mentions her aunt who serves in the military and provides more information.",
       "frequencyRating": 3
     },
     {
-      "id": "g7_eng_ch8_q9",
-      "text": "Which gallantry award is given for bravery during peace-time?",
-      "options": ["Param Vir Chakra", "Vir Chakra", "Ashoka Chakra", "Kirti Chakra"],
-      "correctIndex": 2,
-      "explanation": "Ashoka Chakra is the highest peace-time gallantry award.",
+      "id": "g7_e8_q14",
+      "text": "Which chakra depicts the bronze murals of different battles?",
+      "options": ["Amar Chakra", "Veerta Chakra", "Tyag Chakra", "Rakshak Chakra"],
+      "correctIndex": 1,
+      "explanation": "Veerta Chakra (Circle of Bravery) showcases major battles through murals.",
       "frequencyRating": 4
     },
     {
-      "id": "g7_eng_ch8_q10",
-      "text": "The theme of the chapter is to instill a sense of:",
-      "options": ["Fear", "Adventure", "Gratitude and respect for the armed forces", "Political history"],
+      "id": "g7_e8_q15",
+      "text": "What does the 'Rakshak Chakra' represent?",
+      "options": ["Sacrifice", "Protection", "Bravery", "Peace"],
+      "correctIndex": 1,
+      "explanation": "The outermost circle, Rakshak (Protector), symbolizes the protection of the nation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e8_q16",
+      "text": "How many Param Vir Chakra recipients are honored at the memorial with bronze busts?",
+      "options": ["10", "15", "21", "50"],
       "correctIndex": 2,
-      "explanation": "It aims to help students appreciate the service and sacrifice of Indian soldiers.",
+      "explanation": "The Param Yoddha Sthal has bronze busts of all 21 Param Vir Chakra recipients.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e8_q17",
+      "text": "What was Captain Vikram Batra's famous saying mentioned in the context of bravery?",
+      "options": ["Jai Hind", "Ye Dil Maange More!", "Satyameva Jayate", "Bharat Mata ki Jai"],
+      "correctIndex": 1,
+      "explanation": "Captain Batra used this phrase during the Kargil War to signal success.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e8_q18",
+      "text": "The letters in the chapter highlight the values of:",
+      "options": ["Greed and fame", "Patriotism and gratitude", "Anger and war", "Fashion and style"],
+      "correctIndex": 1,
+      "explanation": "The entire chapter is a tribute (homage) to the spirit of the armed forces.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e8_q19",
+      "text": "Which day is celebrated as 'National Army Day' in India?",
+      "options": ["January 15", "January 26", "August 15", "December 4"],
+      "correctIndex": 0,
+      "explanation": "January 15 is observed as Army Day annually.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e8_q20",
+      "text": "The term 'Posthumous' often used with these awards means:",
+      "options": ["Given during retirement", "Given after a person's death", "Given only to pilots", "Given by the President"],
+      "correctIndex": 1,
+      "explanation": "Many gallantry awards are given to soldiers who lost their lives in action.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e8_q21",
+      "text": "What was Soumya's reaction to reading the names on the wall?",
+      "options": ["She was bored", "She felt a deep sense of respect and sadness", "She didn't read them", "She was confused"],
+      "correctIndex": 1,
+      "explanation": "Seeing the thousands of names makes the human cost of freedom real for her.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e8_q22",
+      "text": "The National War Memorial is built in an area known as:",
+      "options": ["Central Vista", "Lutyens Delhi", "Princess Park", "Connaught Place"],
+      "correctIndex": 0,
+      "explanation": "It is located in the Central Vista area of New Delhi.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e8_q23",
+      "text": "Which force is NOT part of the Indian Armed Forces?",
+      "options": ["Army", "Navy", "Air Force", "Police Force"],
+      "correctIndex": 3,
+      "explanation": "The Armed Forces specifically refer to the Army, Navy, and Air Force.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e8_q24",
+      "text": "What is the Obelisk in the center of the memorial?",
+      "options": ["A statue of a king", "A tall stone pillar with the eternal flame", "A flag pole", "A water fountain"],
+      "correctIndex": 1,
+      "explanation": "The central obelisk is a 15-meter tall stone pillar representing the immortal soldier.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e8_q25",
+      "text": "Ananda's letter shows that she is ________ about her friend's visit.",
+      "options": ["Jealous", "Appreciative and curious", "Angry", "Uninterested"],
+      "correctIndex": 1,
+      "explanation": "Ananda thanks Soumya for sharing the experience and asks more questions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e8_q26",
+      "text": "The design of the memorial is based on a ________.",
+      "options": ["Square", "Circle", "Triangle", "Pentagon"],
+      "correctIndex": 1,
+      "explanation": "It uses the concept of 'Chakras' or concentric circles.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e8_q27",
+      "text": "Which of these is a peacetime gallantry award?",
+      "options": ["Shaurya Chakra", "Vir Chakra", "Maha Vir Chakra", "None"],
+      "correctIndex": 0,
+      "explanation": "The Ashoka Chakra, Kirti Chakra, and Shaurya Chakra are peacetime awards.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e8_q28",
+      "text": "Who is the Supreme Commander of the Indian Armed Forces?",
+      "options": ["Prime Minister", "Defense Minister", "President of India", "Chief of Army Staff"],
+      "correctIndex": 2,
+      "explanation": "The President of India holds this constitutional position.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e8_q29",
+      "text": "The memorial serves as a place for:",
+      "options": ["Picnics", "Solemn remembrance and education", "Buying toys", "Sports events"],
+      "correctIndex": 1,
+      "explanation": "It is a sacred space to honor those who died for the country.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e8_q30",
+      "text": "Soumya mentions 'India Gate'. Who built India Gate?",
+      "options": ["The Mughals", "The British", "Independent India", "The French"],
+      "correctIndex": 1,
+      "explanation": "India Gate was built by the British to honor soldiers of World War I.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e8_q31",
+      "text": "How many soldiers' names are approximately inscribed at the memorial?",
+      "options": ["Over 25,000", "1,000", "5,000", "10,000"],
+      "correctIndex": 0,
+      "explanation": "More than 25,000 names of martyrs since independence are inscribed there.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e8_q32",
+      "text": "The National War Memorial was dedicated to the nation in:",
+      "options": ["1947", "2019", "2000", "2024"],
+      "correctIndex": 1,
+      "explanation": "It was inaugurated in February 2019.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e8_q33",
+      "text": "What was the name of Ananda's school friend who moved away?",
+      "options": ["Soumya", "Kaveri", "Ankita", "Maya"],
+      "correctIndex": 0,
+      "explanation": "Soumya is the friend who moved and is writing the letter.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e8_q34",
+      "text": "The murals in Veerta Chakra are made of:",
+      "options": ["Plastic", "Bronze", "Wood", "Glass"],
+      "correctIndex": 1,
+      "explanation": "Bronze is used for its durability and artistic quality in memorials.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e8_q35",
+      "text": "What feeling does the Amar Jawan Jyoti evoke?",
+      "options": ["Happiness", "Reverence and gratitude", "Boredom", "Fear"],
+      "correctIndex": 1,
+      "explanation": "The flame symbolizes the undying spirit of the soldier.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e8_q36",
+      "text": "Why is the memorial important for children?",
+      "options": ["To get a holiday", "To learn about history and citizenship", "To play games", "To meet friends"],
+      "correctIndex": 1,
+      "explanation": "It teaches children about the values that protect the nation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e8_q37",
+      "text": "Which chakra is at the very center?",
+      "options": ["Amar Chakra", "Rakshak Chakra", "Tyag Chakra", "Veerta Chakra"],
+      "correctIndex": 0,
+      "explanation": "The Amar Chakra is the innermost circle.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e8_q38",
+      "text": "Ananda says 'Freedom is not free'. This means:",
+      "options": ["You have to pay money for it", "Soldiers pay for it with their lives and service", "It is expensive to live", "Nobody is free"],
+      "correctIndex": 1,
+      "explanation": "This profound statement acknowledges the sacrifice required to maintain a free country.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e8_q39",
+      "text": "In a letter, where do you usually write the date?",
+      "options": ["At the bottom", "Top right or left corner", "In the middle", "Inside the signature"],
+      "correctIndex": 1,
+      "explanation": "Standard letter writing format puts the date at the top.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e8_q40",
+      "text": "What was the purpose of the letters between Soumya and Ananda?",
+      "options": ["To finish homework", "To share a meaningful experience and learn together", "To complain about teachers", "To talk about movies"],
+      "correctIndex": 1,
+      "explanation": "The exchange of letters allows them to reflect on patriotism and share knowledge.",
       "frequencyRating": 5
     }
   ]

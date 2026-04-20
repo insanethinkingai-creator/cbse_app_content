@@ -1,1 +1,330 @@
-{"id":"g8_sci_ch3","grade":"8","subject":"Science","number":"3","title":"Coal and Petroleum","version":"v1","questions":[{"id":"g8_s3_q1","text":"Non-renewable natural resources:","options":["Fossil fuels","Solar","Wind","Biomass"],"correctIndex":0,"explanation":"Limited millions years.","frequencyRating":5},{"id":"g8_s3_q2","text":"Coal formation:","options":["Millions years dead plants","Quick","Animals","No"],"correctIndex":0,"explanation":"Peat lignite bituminous anthracite.","frequencyRating":5},{"id":"g8_s3_q3","text":"PCO CNG cleaner:","options":["Less pollution","More","Same","No"],"correctIndex":0,"explanation":"Yes.","frequencyRating":5},{"id":"g8_s3_q4","text":"Petroleum:","options":["Mineral oil","Coal liquid","Natural gas","No"],"correctIndex":0,"explanation":"Fossil.","frequencyRating":5},{"id":"g8_s3_q5","text":"Natural gas main:","options":["Methane","Ethane","Propane","Butane"],"correctIndex":0,"explanation":"CH4.","frequencyRating":5},{"id":"g8_s3_q6","text":"Refining petroleum fractional distillation.","options":["Yes","No","Burn","Mine"],"correctIndex":0,"explanation":"Boiling points.","frequencyRating":5},{"id":"g8_s3_q7","text":"LPG:","options":["Liquefied petroleum gas","Coal gas","Water gas","Producer"],"correctIndex":0,"explanation":"Butane propane.","frequencyRating":5},{"id":"g8_s3_q8","text":"Coal tar uses:","options":["Dyes drugs explosives","Fuel","Gas","No"],"correctIndex":0,"explanation":"Chemicals.","frequencyRating":5},{"id":"g8_s3_q9","text":"Coke:","options":["Nearly pure carbon","Tar","Gas","No"],"correctIndex":0,"explanation":"Fuel reducing agent.","frequencyRating":5},{"id":"g8_s3_q10","text":"Fossil fuels limited:","options":["Conserve","Unlimited","No problem","Grow"],"correctIndex":0,"explanation":"Yes.","frequencyRating":5},{"id":"g8_s3_q11","text":"Petroleum refining tower:","options":["Tall fractions","Short","No","Mine"],"correctIndex":0,"explanation":"Heavy low heavy high.","frequencyRating":5},{"id":"g8_s3_q12","text":"Kerosene:","options":["Jet fuel","Diesel","Petrol","LPG"],"correctIndex":0,"explanation":"Aircraft.","frequencyRating":4},{"id":"g8_s3_q13","text":"Bitumen road tar:","options":["Yes","Fuel","Gas","No"],"correctIndex":0,"explanation":"Asphalt.","frequencyRating":5},{"id":"g8_s3_q14","text":"Coal gas fuel gas:","options":["Yes","No","Liquid","Solid"],"correctIndex":0,"explanation":"Burning.","frequencyRating":4},{"id":"g8_s3_q15","text":"PCO petrol coke oil:","options":["Processed","Yes","No","Raw"],"correctIndex":1,"explanation":"Clean.","frequencyRating":4},{"id":"g8_s3_q16","text":"Exhaustible resources:","options":["Coal petroleum","Solar wind","Both renewable","No"],"correctIndex":0,"explanation":"Fossil.","frequencyRating":5},{"id":"g8_s3_q17","text":"Inexhaustible:","options":["Sun wind","Coal","Petrol","No"],"correctIndex":0,"explanation":"Renewable.","frequencyRating":5},{"id":"g8_s3_q18","text":"Destructive distillation coal:","options":["Coke tar gas","Fuel","No","Liquid"],"correctIndex":0,"explanation":"Heat absence air.","frequencyRating":5},{"id":"g8_s3_q19","text":"Petrol engine fuel:","options":["Petrol","Diesel","Kerosene","LPG"],"correctIndex":0,"explanation":"Spark.","frequencyRating":5},{"id":"g8_s3_q20","text":"Diesel heavy vehicles:","options":["Yes","Cars","Planes","Cooking"],"correctIndex":0,"explanation":"Compression.","frequencyRating":5},{"id":"g8_s3_q21","text":"Fractionating column heavy bottom light top.","options":["Yes","No","Same","No"],"correctIndex":0,"explanation":"Boiling.","frequencyRating":5},{"id":"g8_s3_q22","text":"Conserve fossil:","options":["Yes alternate","Burn all","No problem","Grow"],"correctIndex":0,"explanation":"Limited.","frequencyRating":5},{"id":"g8_s3_q23","text":"CNG vehicle fuel:","options":["Yes Delhi","No","Petrol","Diesel"],"correctIndex":0,"explanation":"Clean.","frequencyRating":5},{"id":"g8_s3_q24","text":"Coal soft power:","options":["Lignite","Anthrax","Bituminous","Peat"],"correctIndex":0,"explanation":"Types.","frequencyRating":4},{"id":"g8_s3_q25","text":"Petroleum products many:","options":["Yes petrol diesel kerosene","No","Gas only","No"],"correctIndex":0,"explanation":"Versatile.","frequencyRating":5},{"id":"g8_s3_q26","text":"Natural gas PNG CNG:","options":["Yes","No","Liquid","Coal"],"correctIndex":0,"explanation":"Domestic vehicle.","frequencyRating":5},{"id":"g8_s3_q27","text":"PCO technology:","options":["Clean coal petrol","Yes","No","Gas"],"correctIndex":0,"explanation":"Pollution.","frequencyRating":4},{"id":"g8_s3_q28","text":"Tar naphthalene balls:","options":["Yes","No","Fuel","Gas"],"correctIndex":0,"explanation":"Moth.","frequencyRating":4},{"id":"g8_s3_q29","text":"Coke steel making:","options":["Reducing agent","Fuel","Gas","No"],"correctIndex":0,"explanation":"Carbon.","frequencyRating":5},{"id":"g8_s3_q30","text":"Fossil fuels carbon hydrogen oxygen.","options":["Yes","No","Only carbon","No"],"correctIndex":0,"explanation":"Hydrocarbons.","frequencyRating":5},{"id":"g8_s3_q31","text":"Formation swamp plants buried heat pressure.","options":["Yes","Quick","Animals","No"],"correctIndex":0,"explanation":"Carbonisation.","frequencyRating":5},{"id":"g8_s3_q32","text":"Petrol engine cars bikes:","options":["Yes","Trucks","Yes","Planes"],"correctIndex":0,"explanation":"Spark ignition.","frequencyRating":5},{"id":"g8_s3_q33","text":"Kerosene stoves lamps:","options":["Yes","Cars","Trucks","Cooking"],"correctIndex":0,"explanation":"Burn clean.","frequencyRating":5},{"id":"g8_s3_q34","text":"Bitumen roads:","options":["Yes surfacing","Fuel","Gas","No"],"correctIndex":0,"explanation":"Black sticky.","frequencyRating":5},{"id":"g8_s3_q35","text":"Conserve use public transport.","options":["Yes","No","Car","No"],"correctIndex":0,"explanation":"Less fuel.","frequencyRating":5},{"id":"g8_s3_q36","text":"Solar inexhaustible:","options":["Yes","No","Fossil","No"],"correctIndex":0,"explanation":"Renewable.","frequencyRating":5},{"id":"g8_s3_q37","text":"Wind energy:","options":["Inexhaustible","Fossil","Coal","Petrol"],"correctIndex":0,"explanation":"Yes.","frequencyRating":5},{"id":"g8_s3_q38","text":"Petroleum black viscous:","options":["Crude oil","Yes","Refined","Gas"],"correctIndex":0,"explanation":"Raw.","frequencyRating":5},{"id":"g8_s3_q39","text":"Coal gas H2 CO CH4:","options":["Yes fuel","No","Liquid","Solid"],"correctIndex":0,"explanation":"Burning.","frequencyRating":4},{"id":"g8_s3_q40","text":"Future energy alternate:","options":["Solar wind hydro bio","Fossil only","No","Coal"],"correctIndex":0,"explanation":"Sustainable.","frequencyRating":5}]}
+{
+  "id": "g8_sci_ch3",
+  "grade": "8",
+  "subject": "Science",
+  "number": "3",
+  "title": "Coal and Petroleum",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_s3_q1",
+      "text": "Resources which are present in unlimited quantity in nature and are not likely to be exhausted by human activities are:",
+      "options": ["Exhaustible natural resources", "Inexhaustible natural resources", "Man-made resources", "Non-renewable resources"],
+      "correctIndex": 1,
+      "explanation": "Examples include sunlight and air.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s3_q2",
+      "text": "Which of the following is an exhaustible natural resource?",
+      "options": ["Air", "Sunlight", "Forests", "Water"],
+      "correctIndex": 2,
+      "explanation": "Forests, minerals, coal, petroleum, etc., are limited and can be finished by human use.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s3_q3",
+      "text": "Fossil fuels are formed from:",
+      "options": ["Dead remains of living organisms", "Volcanic eruptions", "Chemicals in the lab", "Rocks"],
+      "correctIndex": 0,
+      "explanation": "Coal, petroleum and natural gas are formed from the remains of plants and animals buried millions of years ago.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s3_q4",
+      "text": "The slow process of conversion of dead vegetation into coal is called:",
+      "options": ["Distillation", "Carbonisation", "Refining", "Vaporisation"],
+      "correctIndex": 1,
+      "explanation": "Under high pressure and high temperature, dead plants slowly got converted to coal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s3_q5",
+      "text": "Which of these is a tough, porous and black substance that is almost a pure form of carbon?",
+      "options": ["Coal tar", "Coke", "Coal gas", "Bitumen"],
+      "correctIndex": 1,
+      "explanation": "Coke is used in the manufacture of steel and extraction of many metals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s3_q6",
+      "text": "Coal tar is a mixture of about ________ substances.",
+      "options": ["10", "50", "100", "200"],
+      "correctIndex": 3,
+      "explanation": "Coal tar is a thick black liquid with an unpleasant smell used in various industries.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s3_q7",
+      "text": "Naphthalene balls, used to repel moths and other insects, are obtained from:",
+      "options": ["Coke", "Coal tar", "Petroleum", "Paraffin wax"],
+      "correctIndex": 1,
+      "explanation": "Coal tar is a source for naphthalene.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s3_q8",
+      "text": "Which petroleum product is used for surfacing of roads these days in place of coal tar?",
+      "options": ["Coke", "Bitumen", "Paraffin wax", "Lubricating oil"],
+      "correctIndex": 1,
+      "explanation": "Bitumen is preferred for road surfacing in modern construction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s3_q9",
+      "text": "Coal gas was used for street lighting for the first time in ________ in 1810.",
+      "options": ["New York", "London", "Paris", "Delhi"],
+      "correctIndex": 1,
+      "explanation": "London was the first to use coal gas for street lights.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s3_q10",
+      "text": "Petroleum was formed from organisms living in the:",
+      "options": ["Forests", "Sea", "Deserts", "Mountains"],
+      "correctIndex": 1,
+      "explanation": "Dead sea organisms settled at the bottom and were covered by layers of sand and clay.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s3_q11",
+      "text": "The process of separating the various constituents/fractions of petroleum is known as:",
+      "options": ["Carbonisation", "Refining", "Distillation", "Extraction"],
+      "correctIndex": 1,
+      "explanation": "Refining is carried out in a petroleum refinery.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s3_q12",
+      "text": "Which constituent of petroleum is used as a fuel for heavy motor vehicles and electric generators?",
+      "options": ["Petrol", "Kerosene", "Diesel", "Lubricating oil"],
+      "correctIndex": 2,
+      "explanation": "Diesel is the primary fuel for heavy-duty engines.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s3_q13",
+      "text": "Which fraction of petroleum is used for making ointments and candles?",
+      "options": ["Bitumen", "Paraffin wax", "Lubricating oil", "Diesel"],
+      "correctIndex": 1,
+      "explanation": "Paraffin wax is a common byproduct used in cosmetics and candles.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s3_q14",
+      "text": "CNG stands for:",
+      "options": ["Clean Natural Gas", "Compressed Natural Gas", "Carbonic Natural Gas", "Combined Natural Gas"],
+      "correctIndex": 1,
+      "explanation": "CNG is used for power generation and as a cleaner fuel for vehicles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s3_q15",
+      "text": "Petroleum is also known as 'Black Gold' because of its:",
+      "options": ["Color", "High commercial value", "Scarcity", "Weight"],
+      "correctIndex": 1,
+      "explanation": "The many useful substances obtained from petroleum make it very valuable.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s3_q16",
+      "text": "Natural gas is stored under high pressure as ________.",
+      "options": ["LPG", "CNG", "PNG", "Water"],
+      "correctIndex": 1,
+      "explanation": "CNG is the compressed form of natural gas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s3_q17",
+      "text": "Which gas is released when coal is burnt in air?",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "correctIndex": 1,
+      "explanation": "Coal contains mainly carbon; burning it produces CO2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s3_q18",
+      "text": "PCRA stands for:",
+      "options": ["Petroleum Conservation Research Association", "Public Coal Resource Agency", "Petrol Control and Regulation Authority", "None"],
+      "correctIndex": 0,
+      "explanation": "PCRA advises people on how to save petrol/diesel while driving.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s3_q19",
+      "text": "Where was the world's first oil well drilled?",
+      "options": ["Assam, India", "Pennsylvania, USA", "Saudi Arabia", "Kuwait"],
+      "correctIndex": 1,
+      "explanation": "The first oil well was drilled in Pennsylvania in 1859.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s3_q20",
+      "text": "In India, oil is found in:",
+      "options": ["Assam and Gujarat", "Mumbai High", "River basins of Godavari and Krishna", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "India has several major oil-producing regions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s3_q21",
+      "text": "Which of these is not a fossil fuel?",
+      "options": ["Coal", "Petroleum", "Wood", "Natural gas"],
+      "correctIndex": 2,
+      "explanation": "Wood is a renewable biomass fuel, not a fossil fuel formed over millions of years.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s3_q22",
+      "text": "LPG stands for:",
+      "options": ["Liquid Petrol Gas", "Liquefied Petroleum Gas", "Light Petroleum Gas", "Long Petroleum Gas"],
+      "correctIndex": 1,
+      "explanation": "LPG is used as fuel for home and industry.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s3_q23",
+      "text": "Over-exploitation of fossil fuels leads to:",
+      "options": ["Energy crisis", "Global warming", "Air pollution", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Burning fossil fuels releases pollutants and CO2, while reserves are limited.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s3_q24",
+      "text": "Which of the following is used for dry cleaning of clothes?",
+      "options": ["Diesel", "Petrol", "Kerosene", "Paraffin wax"],
+      "correctIndex": 1,
+      "explanation": "Petrol is used as a solvent for dry cleaning.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s3_q25",
+      "text": "Which gas is used in the manufacture of fertilizers (urea)?",
+      "options": ["Oxygen", "Hydrogen from natural gas", "Coal gas", "Coke"],
+      "correctIndex": 1,
+      "explanation": "Hydrogen obtained from natural gas is used in fertilizer production.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s3_q26",
+      "text": "Fossil fuels cannot be prepared in the laboratory because:",
+      "options": ["They are too expensive", "Conditions like high pressure/temp cannot be created", "The process takes millions of years", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "The formation is a geological process requiring specific conditions and vast amounts of time.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s3_q27",
+      "text": "The main constituent of coal is:",
+      "options": ["Hydrogen", "Oxygen", "Carbon", "Sulphur"],
+      "correctIndex": 2,
+      "explanation": "Coal is primarily made of carbon.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s3_q28",
+      "text": "Which of these was used as the first fuel for lamps?",
+      "options": ["Coal gas", "Electricity", "Kerosene", "CNG"],
+      "correctIndex": 0,
+      "explanation": "Historically, coal gas was used for lighting before electricity.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s3_q29",
+      "text": "What is the primary use of Kerosene?",
+      "options": ["Fuel for stoves/lamps", "Fuel for jet aircraft", "Both A and B", "Neither A nor B"],
+      "correctIndex": 2,
+      "explanation": "Kerosene is a versatile fuel used for heating, lighting, and specialized engines.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s3_q30",
+      "text": "The layer of petroleum and gas is ________ the layer of water in the earth.",
+      "options": ["Below", "Above", "Mixed with", "Between"],
+      "correctIndex": 1,
+      "explanation": "Oil and gas are lighter than water and do not mix with it, so they float above.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s3_q31",
+      "text": "Which of the following is a byproduct of coal used to make dyes and explosives?",
+      "options": ["Coke", "Coal tar", "Coal gas", "Natural gas"],
+      "correctIndex": 1,
+      "explanation": "Coal tar is used as a starting material for synthetic dyes, drugs, and explosives.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s3_q32",
+      "text": "Coal was formed under which conditions?",
+      "options": ["High pressure and high temperature", "Low pressure and high temperature", "High pressure and low temperature", "No pressure"],
+      "correctIndex": 0,
+      "explanation": "Intense heat and pressure from overlapping soil layers converted dead plants into coal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s3_q33",
+      "text": "How long does it take for dead organisms to turn into fossil fuels?",
+      "options": ["Hundreds of years", "Thousands of years", "Millions of years", "Few days"],
+      "correctIndex": 2,
+      "explanation": "It is a very slow geological process.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s3_q34",
+      "text": "Petrochemicals are used in the manufacture of:",
+      "options": ["Detergents", "Polyester and Nylon", "Polythene", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Many synthetic materials are derived from petroleum and natural gas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s3_q35",
+      "text": "Which of the following causes the least air pollution?",
+      "options": ["Coal", "Diesel", "CNG", "Petrol"],
+      "correctIndex": 2,
+      "explanation": "CNG is a cleaner fuel compared to liquid or solid fossil fuels.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s3_q36",
+      "text": "In India, natural gas has been found in:",
+      "options": ["Tripura and Rajasthan", "Maharashtra", "Krishna Godavari delta", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "India has natural gas reserves across several states and river deltas.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s3_q37",
+      "text": "To save fuel while driving, PCRA suggests keeping tire pressure ________.",
+      "options": ["High", "Low", "Correct", "Varying"],
+      "correctIndex": 2,
+      "explanation": "Correct tire pressure reduces friction and improves fuel efficiency.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s3_q38",
+      "text": "Fossil fuels are ________ resources.",
+      "options": ["Renewable", "Non-renewable", "Unlimited", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "Once consumed, they cannot be replenished in a human timescale.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s3_q39",
+      "text": "Which product is used as a fuel in smelting of iron?",
+      "options": ["Coal tar", "Coke", "Bitumen", "Paraffin wax"],
+      "correctIndex": 1,
+      "explanation": "Coke is used as a reducing agent and fuel in blast furnaces.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s3_q40",
+      "text": "The dark, oily liquid with an unpleasant odour is:",
+      "options": ["Water", "Petroleum", "Milk", "Honey"],
+      "correctIndex": 1,
+      "explanation": "This describes crude oil or petroleum as it is extracted.",
+      "frequencyRating": 5
+    }
+  ]
+}

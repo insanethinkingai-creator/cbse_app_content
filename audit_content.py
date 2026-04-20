@@ -27,16 +27,17 @@ def audit_grade(grade_num, expected_structure):
     actual_files = os.listdir(chapters_dir)
     print(f"\n--- Grade {grade_num} Content Audit ---")
     
-    total_missing = 0
+    total_missing_files = 0
     total_incomplete = 0
-    total_found = 0
+    total_complete_chapters = 0
     
     expected_q_count = 40
 
     for subject, count in expected_structure.items():
         prefix = subject_map.get(subject, subject.lower()[:3])
         found_in_subject = 0
-        missing_indices = []
+        missing_files = []
+        incomplete_chapters = []
 
         for i in range(1, count + 1):
             # Look for versioned filename pattern: gX_{prefix}_ch{i}_v1.json
@@ -49,27 +50,37 @@ def audit_grade(grade_num, expected_structure):
                     with open(file_path, 'r', encoding='utf-8') as f:
                         data = json.load(f)
                     current_q_count = len(data.get("questions", []))
+                    
+                    if current_q_count < expected_q_count:
+                        incomplete_chapters.append(f"Ch{i} ({current_q_count}/{expected_q_count}Q)")
+                        total_incomplete += 1
+                    else:
+                        total_complete_chapters += 1
                 except json.JSONDecodeError as e:
                     print(f"  ❌ ERROR: Malformed JSON in {expected_name}: {e}")
                     total_incomplete += 1
                     continue
-                    
-                if current_q_count < expected_q_count:
-                    missing_indices.append(f"Ch{i} ({current_q_count}/{expected_q_count}Q)")
-                    total_incomplete += 1
-                else:
-                    total_found += 1
             else:
-                missing_indices.append(str(i))
-                total_missing += 1
+                missing_files.append(str(i))
+                total_missing_files += 1
         
-        status = "✅ COMPLETE" if not missing_indices else f"❌ MISSING CH: {', '.join(missing_indices)}"
+        if not missing_files and not incomplete_chapters:
+            status = "✅ COMPLETE"
+        elif missing_files:
+            status = f"❌ MISSING FILES: {', '.join(missing_files)}"
+            if incomplete_chapters:
+                status += f" | ⚠️ INCOMPLETE: {', '.join(incomplete_chapters)}"
+        else:
+            status = f"⚠️ INCOMPLETE: {', '.join(incomplete_chapters)}"
+        
         print(f"{subject:12} : {found_in_subject}/{count} files found. {status}")
 
     print("-" * 30)
-    print(f"Total Complete: {total_found}")
-    print(f"Total Incomplete: {total_incomplete}")
-    print(f"Total Missing : {total_missing}")
+    print(f"Total Complete Chapters: {total_complete_chapters}")
+    print(f"Total Incomplete (<40Q): {total_incomplete}")
+    print(f"Total Missing Files: {total_missing_files}")
+    total_chapters_checked = total_complete_chapters + total_incomplete + total_missing_files
+    print(f"Total Chapters Checked: {total_chapters_checked}")
     print(f"Total Expected: {sum(expected_structure.values())}")
 
 if __name__ == "__main__":

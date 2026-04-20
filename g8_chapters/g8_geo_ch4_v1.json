@@ -1,1 +1,330 @@
-{"id":"g8_geo_ch4","grade":"8","subject":"Geography","number":"4","title":"Agriculture","version":"v1","questions":[{"id":"g8_g4_q1","text":"Agriculture primary:","options":["Yes 55 workforce","No","Industry","Service"],"correctIndex":0,"explanation":"India.","frequencyRating":5},{"id":"g8_g4_q2","text":"Farming systems:","options":["Subsistence commercial","Yes","One","No"],"correctIndex":0,"explanation":"Nomadic.","frequencyRating":5},{"id":"g8_g4_q3","text":"Primitive shifting:","options":["Slash burn","Yes Amazon Africa","Terrace","No"],"correctIndex":0,"explanation":"Poor fertility.","frequencyRating":5},{"id":"g8_g4_q4","text":"Mixed Amazon:","options":["Food fibre","Yes livestock","No","Dairy"],"correctIndex":0,"explanation":"Slash.","frequencyRating":5},{"id":"g8_g4_q5","text":"Terrace hills:","options":["Yes Nepal Bhutan","Rice","No","Flat"],"correctIndex":0,"explanation":"Step.","frequencyRating":5},{"id":"g8_g4_q6","text":"Intensive subsistence rice China:","options":["Yes wet paddy","Dry","No","Corn"],"correctIndex":0,"explanation":"Labour.","frequencyRating":5},{"id":"g8_g4_q7","text":"Plantation rubber tea:","options":["Yes estates","Subsistence","No","Shifting"],"correctIndex":0,"explanation":"Tea coffee.","frequencyRating":5},{"id":"g8_g4_q8","text":"Commercial grain USA Ukraine:","options":["Yes mechanised","Subsistence","No","Rice"],"correctIndex":0,"explanation":"Wheat maize.","frequencyRating":5},{"id":"g8_g4_q9","text":"Dairy New Zealand:","options":["Yes","Grain","No","Rubber"],"correctIndex":0,"explanation":"Pastoral.","frequencyRating":5},{"id":"g8_g4_q10","text":"Major crops:","options":["Cereal fibre","Yes food cash","No","One"],"correctIndex":0,"explanation":"Rice wheat.","frequencyRating":5},{"id":"g8_g4_q11","text":"Millets coarse jowar bajra:","options":["Dry low rain","Yes","Rice","Wheat"],"correctIndex":0,"explanation":"Poor.","frequencyRating":5},{"id":"g8_g4_q12","text":"Pulses protein:","options":["Tur gram urad moong","Yes","No","Rice"],"correctIndex":0,"explanation":"India largest.","frequencyRating":5},{"id":"g8_g4_q13","text":"Oil seeds groundnut:","options":["Yes","Pulses","No","Cereal"],"correctIndex":0,"explanation":"Rabi.","frequencyRating":5},{"id":"g8_g4_q14","text":"Fibre cotton jute:","options":["Yes","Food","Oil","Pulse"],"correctIndex":0,"explanation":"Textile.","frequencyRating":5},{"id":"g8_g4_q15","text":"Beverage tea coffee:","options":["Assam hills","Yes","Cotton","No"],"correctIndex":0,"explanation":"Labour.","frequencyRating":5},{"id":"g8_g4_q16","text":"Fruit apple orange:","options":["Himachal","Yes","Plains","No"],"correctIndex":0,"explanation":"Temperate.","frequencyRating":5},{"id":"g8_g4_q17","text":"Technology hybrid seed:","options":["Yes yield","No","Primitive","No"],"correctIndex":0,"explanation":"Green revolution.","frequencyRating":5},{"id":"g8_g4_q18","text":"Irrigation dry:","options":["Canal tube","Yes","Rain","No"],"correctIndex":0,"explanation":"Punjab.","frequencyRating":5},{"id":"g8_g4_q19","text":"Subsistence India:","options":["Yes small holdings","Commercial","No","Plantation"],"correctIndex":0,"explanation":"2 hectare.","frequencyRating":5},{"id":"g8_g4_q20","text":"Commercial grain:","options":["Prairies steppes","Yes","Rice","No"],"correctIndex":0,"explanation":"Wheat.","frequencyRating":5},{"id":"g8_g4_q21","text":"Shifting Jhum:","options":["N E India","Yes","Terrace","No"],"correctIndex":0,"explanation":"Burn.","frequencyRatin":5},{"id":"g8_g4_q22","text":"Wet paddy:","options":["Asia","Yes","Dry","No"],"correctIndex":0,"explanation":"Double crop.","frequencyRating":5},{"id":"g8_g4_q23","text":"Tea labour:","options":["Women pluck","Yes","Machine","No"],"correctIndex":0,"explanation":"Assam.","frequencyRating":5},{"id":"g8_g4_q24","text":"Wheat prairies:","options":["Yes combine","Labour","No","Bullock"],"correctIndex":0,"explanation":"Mechanised.","frequencyRating":5},{"id":"g8_g4_q25","text":"Dairying Denmark:","options":["Coop","Yes","Grain","No"],"correctIndex":0,"explanation":"Export.","frequencyRating":5},{"id":"g8_g4_q26","text":"Rice China Japan:","options":["Terrace paddy","Yes","Dry","No"],"correctIndex":0,"explanation":"Labour intensive.","frequencyRating":5},{"id":"g8_g4_q27","text":"Millets poor:","options":["Yes rainfed","Irrigated","No","Rice"],"correctIndex":0,"explanation":"Ragi.","frequencyRating":5},{"id":"g8_g4_q28","text":"Pulses soil bacteria:","options":["Yes nitrogen","No","Oil","No"],"correctIndex":0,"explanation":"Rhizobium.","frequencyRating":5},{"id":"g8_g4_q29","text":"Cotton black soil:","options":["Yes Deccan","Alluvial","No","Hill"],"correctIndex":0,"explanation":"90 lakh km.","frequencyRating":5},{"id":"g8_g4_q30","text":"Jute alluvial delta:","options":["Yes W Bengal","Cotton","No","Dry"],"correctIndex":0,"explanation":"Golden fibre.","frequencyRating":5},{"id":"g8_g4_q31","text":"Sugarcane tropical:","options":["Yes","Temperate","No","Dry"],"correctIndex":0,"explanation":"Maharashtra.","frequencyRating":5},{"id":"g8_g4_q32","text":"Coffee hills:","options":["Yes Karnataka Kerala","Plains","No","Tea"],"correctIndex":0,"explanation":"Arabica.","frequencyRating":5},{"id":"g8_g4_q33","text":"Rubber Kanyakumari:","options":["Yes monsoon","No","Hill only","No"],"correctIndex":0,"explanation":"Estate.","frequencyRating":5},{"id":"g8_g4_q34","text":"Apple Jammu:","options":["Yes","Tropical","No","Banana"],"correctIndex":0,"explanation":"Kashmir.","frequencyRating":5},{"id":"g8_g4_q35","text":"Revolution wheat:","options":["Yes Punjab HYV","Rice","No","Oil"],"correctIndex":0,"explanation":"1960s.","frequencyRating":5},{"id":"g8_g4_q36","text":"Coop marketing:","options":["Yes fruits milk","No","Private","Govt"],"correctIndex":0,"explanation":"Amul.","frequencyRating":5},{"id":"g8_g4_q37","text":"Kisan credit card:","options":["Yes 1998","No cash","Loan","No"],"correctIndex":0,"explanation":"Bank.","frequencyRating":5},{"id":"g8_g4_q38","text":"Personal subsidy:","options":["Electricity diesel","Yes","No","Tax"],"correctIndex":0,"explanation":"Burden.","frequencyRating":5},{"id":"g8_g4_q39","text":"Subsistence features:","options":["Small plot family","Yes","Large machine","No"],"correctIndex":0,"explanation":"India.","frequencyRating":5},{"id":"g8_g4_q40","text":"Future organic:","options":["Yes","Chemical","No","Hybrid"],"correctIndex":0,"explanation":"Sustainable.","frequencyRating":5}]}
+{
+  "id": "g8_geo_ch4",
+  "grade": "8",
+  "subject": "Geography",
+  "number": "4",
+  "title": "Agriculture",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_g4_q1",
+      "text": "Agriculture is which type of economic activity?",
+      "options": ["Primary", "Secondary", "Tertiary", "Quaternary"],
+      "correctIndex": 0,
+      "explanation": "Primary activities include all those connected with extraction and production of natural resources. Agriculture, fishing and gathering are good examples.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g4_q2",
+      "text": "The word 'Agriculture' is derived from Latin words 'ager' or 'agri' meaning ______ and 'cultura' meaning ______.",
+      "options": ["Water, growth", "Soil, cultivation", "Plant, care", "Field, harvesting"],
+      "correctIndex": 1,
+      "explanation": "Agriculture comes from the Latin 'ager' (soil) and 'cultura' (cultivation).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g4_q3",
+      "text": "What percentage of the world's population is engaged in agricultural activity?",
+      "options": ["25%", "50%", "75%", "90%"],
+      "correctIndex": 1,
+      "explanation": "Fifty per cent of persons in the world are engaged in agricultural activity.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g4_q4",
+      "text": "The science of commercial rearing of silk worms is known as:",
+      "options": ["Agriculture", "Pisciculture", "Viticulture", "Sericulture"],
+      "correctIndex": 3,
+      "explanation": "Sericulture is the commercial rearing of silk worms, which may supplement the income of the farmer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g4_q5",
+      "text": "Viticulture refers to the cultivation of:",
+      "options": ["Fish", "Flowers", "Grapes", "Vegetables"],
+      "correctIndex": 2,
+      "explanation": "Viticulture is specifically the cultivation of grapes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g4_q6",
+      "text": "Breeding of fish in specially constructed tanks and ponds is called:",
+      "options": ["Horticulture", "Pisciculture", "Sericulture", "Viticulture"],
+      "correctIndex": 1,
+      "explanation": "Pisciculture is the breeding of fish in controlled environments like tanks or ponds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g4_q7",
+      "text": "Growing vegetables, flowers, and fruits for commercial use is called:",
+      "options": ["Agriculture", "Sericulture", "Horticulture", "Viticulture"],
+      "correctIndex": 2,
+      "explanation": "Horticulture involves the commercial production of fruits, vegetables, and flowers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g4_q8",
+      "text": "Shifting cultivation is also known as ________ in North-East India.",
+      "options": ["Milpa", "Roca", "Ladang", "Jhumming"],
+      "correctIndex": 3,
+      "explanation": "Shifting cultivation is known as Jhumming in North-East India, Milpa in Mexico, Roca in Brazil, and Ladang in Malaysia.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g4_q9",
+      "text": "In which type of farming are animals reared and crops grown on the same land?",
+      "options": ["Subsistence farming", "Mixed farming", "Plantations", "Nomadic herding"],
+      "correctIndex": 1,
+      "explanation": "In mixed farming, the land is used for growing food and fodder crops and rearing livestock.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g4_q10",
+      "text": "Which of the following is a 'Plantation' crop?",
+      "options": ["Wheat", "Rice", "Tea", "Bajra"],
+      "correctIndex": 2,
+      "explanation": "Plantations are a type of commercial farming where single crops of tea, coffee, sugarcane, cashew, rubber, banana or cotton are grown.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g4_q11",
+      "text": "Rice requires ______ temperature, ______ humidity and ______ rainfall.",
+      "options": ["Low, Low, Low", "High, High, High", "High, Low, High", "Moderate, Moderate, Moderate"],
+      "correctIndex": 1,
+      "explanation": "Rice is a tropical crop that needs high temperature, high humidity, and high rainfall to grow properly.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g4_q12",
+      "text": "Which soil is best suited for the growth of Wheat?",
+      "options": ["Alluvial soil", "Black soil", "Loamy soil", "Sandy soil"],
+      "correctIndex": 2,
+      "explanation": "Wheat thrives best in well-drained loamy soil.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g4_q13",
+      "text": "Which crop is also known as 'Coarse Grains'?",
+      "options": ["Wheat", "Rice", "Millets", "Maize"],
+      "correctIndex": 2,
+      "explanation": "Millets are known as coarse grains and can be grown on less fertile and sandy soils.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g4_q14",
+      "text": "Maize is also known as:",
+      "options": ["Golden fiber", "Corn", "Black gold", "White gold"],
+      "correctIndex": 1,
+      "explanation": "Maize is commonly known as corn in many parts of the world.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g4_q15",
+      "text": "Cotton requires ______ frost-free days and bright sunshine for its growth.",
+      "options": ["50", "100", "210", "365"],
+      "correctIndex": 2,
+      "explanation": "Cotton requires high temperature, light rainfall, 210 frost-free days and bright sunshine for its growth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g4_q16",
+      "text": "Which crop is known as the 'Golden Fibre'?",
+      "options": ["Cotton", "Silk", "Jute", "Wool"],
+      "correctIndex": 2,
+      "explanation": "Jute is called the 'Golden Fibre' because of its color and value.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g4_q17",
+      "text": "Who is the leading producer of Coffee in the world?",
+      "options": ["India", "Brazil", "Columbia", "Ethiopia"],
+      "correctIndex": 1,
+      "explanation": "Brazil is the world's leading producer of coffee.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g4_q18",
+      "text": "Tea is a ______ crop grown on plantations.",
+      "options": ["Fiber", "Beverage", "Cereal", "Oilseed"],
+      "correctIndex": 1,
+      "explanation": "Tea is a beverage crop grown on large plantations, requiring cool climate and well-distributed high rainfall.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g4_q19",
+      "text": "Agricultural development refers to efforts made to increase farm production in order to meet the growing demand of increasing ________.",
+      "options": ["Animals", "Population", "Factories", "Land"],
+      "correctIndex": 1,
+      "explanation": "The ultimate aim of agricultural development is to increase food security for the growing population.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g4_q20",
+      "text": "A farm in the USA is typically ________ than a farm in India.",
+      "options": ["Smaller", "Much larger", "Same size", "Less productive"],
+      "correctIndex": 1,
+      "explanation": "A typical farm size in the USA is about 250 hectares, compared to a small Indian farm of about 1.5 hectares.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g4_q21",
+      "text": "The input of a farm system includes:",
+      "options": ["Seeds", "Fertilisers", "Machinery", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Seeds, fertilisers, machinery and labour are important inputs of the agricultural system.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g4_q22",
+      "text": "Which of these is a human input in agriculture?",
+      "options": ["Rainfall", "Temperature", "Storage", "Sunshine"],
+      "correctIndex": 2,
+      "explanation": "Storage, labour, machinery and chemicals are human inputs; rainfall and sunshine are physical inputs.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_g4_q23",
+      "text": "Nomadic herding is practiced in the semi-arid and arid regions of:",
+      "options": ["Sahara", "Central Asia", "Parts of Rajasthan", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Nomadic herding is common in Sahara, Central Asia and parts of India like Rajasthan and Jammu & Kashmir.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g4_q24",
+      "text": "Commercial grain farming is mostly practiced in the sparsely populated grasslands of:",
+      "options": ["North America", "Europe", "Asia", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Temperate grasslands of North America, Europe and Asia are major areas for commercial grain farming.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g4_q25",
+      "text": "Slash and burn agriculture is another name for:",
+      "options": ["Mixed farming", "Plantations", "Shifting cultivation", "Intensive subsistence"],
+      "correctIndex": 2,
+      "explanation": "In shifting cultivation, a plot of land is cleared by felling trees and burning them, hence 'slash and burn'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g4_q26",
+      "text": "In India, which crop is grown as a plantation crop in Assam?",
+      "options": ["Rubber", "Tea", "Coffee", "Cotton"],
+      "correctIndex": 1,
+      "explanation": "Tea in Assam and North Bengal is a major plantation crop.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g4_q27",
+      "text": "Major millets grown in India are:",
+      "options": ["Jowar", "Bajra", "Ragi", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Jowar, bajra and ragi are the primary millets produced in India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g4_q28",
+      "text": "Which country is the leading producer of Jute?",
+      "options": ["USA", "India and Bangladesh", "Brazil", "China"],
+      "correctIndex": 1,
+      "explanation": "India and Bangladesh are the world's leading producers of Jute.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g4_q29",
+      "text": "High yielding variety (HYV) seeds are a part of:",
+      "options": ["Traditional farming", "Shifting cultivation", "Modern agricultural development", "Nomadic herding"],
+      "correctIndex": 2,
+      "explanation": "HYV seeds, fertilisers and machinery are used to increase yield in modern agricultural development.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g4_q30",
+      "text": "Organic farming uses ________ instead of chemicals.",
+      "options": ["Pesticides", "Synthetic fertilisers", "Organic manure and natural pesticides", "Growth hormones"],
+      "correctIndex": 2,
+      "explanation": "In organic farming, organic manure and natural pesticides are used instead of chemicals; no genetic modification is done.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g4_q31",
+      "text": "Which of the following is a tertiary activity?",
+      "options": ["Banking", "Agriculture", "Manufacturing", "Weaving"],
+      "correctIndex": 0,
+      "explanation": "Tertiary activities provide support to primary and secondary sectors through services like transport, trade, and banking.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g4_q32",
+      "text": "Commercial farming includes:",
+      "options": ["Commercial grain farming", "Mixed farming", "Plantation agriculture", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "All these types use crops and animals for sale in the market using large capital.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g4_q33",
+      "text": "Which region is known for 'Milpa' cultivation?",
+      "options": ["Brazil", "Mexico", "Malaysia", "India"],
+      "correctIndex": 1,
+      "explanation": "Milpa is the name for shifting cultivation in Mexico.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_g4_q34",
+      "text": "The thick wool of which animals is common in nomadic herding in Tibet?",
+      "options": ["Cows", "Yak and Sheep", "Horses", "Camels"],
+      "correctIndex": 1,
+      "explanation": "Yak and Sheep are common in Tibet and high altitude regions for wool and milk.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_g4_q35",
+      "text": "Which fiber is also known as 'Synthetic fiber' (though not agricultural)?",
+      "options": ["Cotton", "Jute", "Nylon", "Silk"],
+      "correctIndex": 2,
+      "explanation": "Nylon is synthetic; cotton, jute and silk are natural fibers.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g8_g4_q36",
+      "text": "China is the leading producer of ______ in the world.",
+      "options": ["Rice", "Coffee", "Rubber", "Jute"],
+      "correctIndex": 0,
+      "explanation": "China leads in rice production, followed by India, Japan, Sri Lanka and Egypt.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g4_q37",
+      "text": "Wheat is harvested in ______ in India.",
+      "options": ["Winter", "Summer", "Monsoon", "Autumn"],
+      "correctIndex": 1,
+      "explanation": "Wheat is grown in winter but harvested in summer (Rabi crop).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g4_q38",
+      "text": "Maize requires ______ temperature and ______ sunshine.",
+      "options": ["Moderate, lots of", "Very low, no", "High, no", "Freezing, lots of"],
+      "correctIndex": 0,
+      "explanation": "Maize needs moderate temperature, rainfall and lots of sunshine.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g4_q39",
+      "text": "Which country uses heavy machinery and planes for agricultural work like pesticides?",
+      "options": ["India", "Bangladesh", "USA", "Kenya"],
+      "correctIndex": 2,
+      "explanation": "Large-scale commercial farming in the USA utilizes airplanes for sowing and spraying.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g4_q40",
+      "text": "The main objective of 'Food Security' is:",
+      "options": ["Storing food for long", "Making food available to all people at all times", "Exporting food to earn money", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Food security exists when all people, at all times, have physical and economic access to sufficient, safe and nutritious food.",
+      "frequencyRating": 5
+    }
+  ]
+}

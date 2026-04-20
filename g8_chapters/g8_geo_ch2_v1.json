@@ -1,1 +1,330 @@
-{"id":"g8_geo_ch2","grade":"8","subject":"Geography","number":"2","title":"Land, Soil, Water, Natural Vegetation and Wildlife Resources","version":"v1","questions":[{"id":"g8_g2_q1","text":"Land resource:","options":["Limited total 29% land surface","Yes","Infinite","Ocean"],"correctIndex":0,"explanation":"Human.","frequencyRating":5},{"id":"g8_g2_q2","text":"Land use:","options":["Agriculture settlements mining","Yes","Ocean","No"],"correctIndex":0,"explanation":"Pattern.","frequencyRating":5},{"id":"g8_g2_q3","text":"Land degraded:","options":["Mining deforestation","Yes","Conserve","No"],"correctIndex":0,"explanation":"Human.","frequencyRating":5},{"id":"g8_g2_q4","text":"Soil erosion:","options":["Top layer loss","Yes","Deep","No"],"correctIndex":0,"explanation":"Gully sheet.","frequencyRating":5},{"id":"g8_g2_q5","text":"Soil conservation:","options":["Contour shelter strip","Yes","No","Erode"],"correctIndex":0,"explanation":"Ploughing.","frequencyRating":5},{"id":"g8_g2_q6","text":"Soil profile:","options":["Horizon bedrock","Yes topsoil subsoil","No","One layer"],"correctIndex":0,"explanation":"A B C O.","frequencyRating":5},{"id":"g8_g2_q7","text":"Soil factors:","options":["Relief parent rock climate vegetation time","Yes","One","No"],"correctIndex":0,"explanation":"Soil formation.","frequencyRating":5},{"id":"g8_g2_q8","text":"Alluvial:","options":["Indus Ganga fertile","Yes khadar bangar","No","Arid"],"correctIndex":0,"explanation":"Khadar new.","frequencyRating":5},{"id":"g8_g2_q9","text":"Black regur:","options":["Lava Deccan cotton","Yes self plough","No","Mountain"],"correctIndex":0,"explanation":"Cracks.","frequencyRating":5},{"id":"g8_g2_q10","text":"Red yellow iron:","options":["Yes eastern highlands","Laterite","No","Desert"],"correctIndex":0,"explanation":"Oxides.","frequencyRating":5},{"id":"g8_g2_q11","text":"Laterite leaching:","options":["Yes hills heavy rain","Humus iron","No","Fertile"],"correctIndex":0,"explanation":"Tea.","frequencyRating":5},{"id":"g8_g2_q12","text":"Arid desert:","options":["Yes Rajasthan low rain","Sandy","No","Forest"],"correctIndex":0,"explanation":"Gram.","frequencyRating":5},{"id":"g8_g2_q13","text":"Forest mountain:","options":["Yes podzols poor","Humus","No","Crop"],"correctIndex":0,"explanation":"Acidic.","frequencyRating":5},{"id":"g8_g2_q14","text":"Water scarcity:","options":["Uneven distribution","Yes","Plenty","Ocean"],"correctIndex":0,"explanation":"India.","frequencyRating":5},{"id":"g8_g2_q15","text":"Multi purpose projects:","options":["Dams irrigation power","Yes","No","Flood"],"correctIndex":0,"explanation":"Bhakra.","frequencyRating":5},{"id":"g8_g2_q16","text":"Rainwater harvesting:","options":["Yes traditional","Tankas Rajasthan","No","Waste"],"correctIndex":0,"explanation":"Ground recharge.","frequencyRating":5},{"id":"g8_g2_q17","text":"Bamboo drip Meghalaya:","options":["Yes 20-30 drops/min","No","Flood","No"],"correctIndex":0,"explanation":"Bamboo.","frequencyRating":5},{"id":"g8_g2_q18","text":"Vegetation types:","options":["Yes climate soil","Natural","No","One"],"correctIndex":0,"explanation":"Flora.","frequencyRating":5},{"id":"g8_g2_q19","text":"Fauna:","options":["Wild animals","Yes","Plants","No"],"correctIndex":0,"explanation":"Species.","frequencyRating":5},{"id":"g8_g2_q20","text":"Protected areas:","options":["Sanctuary national park biosphere","Yes","No","Farm"],"correctIndex":0,"explanation":"Wildlife.","frequencyRating":5},{"id":"g8_g2_q21","text":"Endemic:","options":["Restricted region","Yes","Global","No"],"correctIndex":0,"explanation":"Kangaroo.","frequencyRating":5},{"id":"g8_g2_q22","text":"Extinct:","options":["No individuals","Yes dodo","Survive","No"],"correctIndex":0,"explanation":"Species.","frequencyRating":5},{"id":"g8_g2_q23","text":"Vulnerable:","options":["High risk","Yes","Safe","No"],"correctIndex":0,"explanation":"Tiger.","frequencyRating":5},{"id":"g8_g2_q24","text":"Land capability:","options":["Use slope soil climate","Yes","Infinite","No"],"correctIndex":0,"explanation":"Limited.","frequencyRating":5},{"id":"g8_g2_q25","text":"Plateau soil:","options":["Black cotton","Yes","Alluvial","Desert"],"correctIndex":0,"explanation":"Deccan.","frequencyRating":5},{"id":"g8_g2_q26","text":"Delta soil:","options":["Alluvial rich","Yes","Red","No"],"correctIndex":0,"explanation":"Rice.","frequencyRating":5},{"id":"g8_g2_q27","text":"Water pollution:","options":["Sewage industrial","Yes","Clean","No"],"correctIndex":0,"explanation":"Eutrophication.","frequencyRating":5},{"id":"g8_g2_q28","text":"Dams displace:","options":["Yes tribal","No","Power","Irrigate"],"correctIndex":0,"explanation":"Sardar Sarovar.","frequencyRating":5},{"id":"g8_g2_q29","text":"Bamboo drip 100 drip:","options":["Yes minute","No","Hour","No"],"correctIndex":0,"explanation":"Meghalaya.","frequencyRating":5},{"id":"g8_g2_q30","text":"Ganga plains arid:","options":["No","Yes","Fertile","No"],"correctIndex":2,"explanation":"Alluvial.","frequencyRating":5},{"id":"g8_g2_q31","text":"Tropical evergreen:","options":["Western Ghats N E","Yes rainfall high","Deciduous","No"],"correctIndex":0,"explanation":"Rosewood.","frequencyRating":5},{"id":"g8_g2_q32","text":"Deciduous monsoon:","options":["Yes MP UP","Teak sal","No","Evergreen"],"correctIndex":0,"explanation":"Shed.","frequencyRating":5},{"id":"g8_g2_q33","text":"Thorn desert:","options":["Yes Rajasthan","Acacia","No","Wet"],"correctIndex":0,"explanation":"Cactus.","frequencyRating":5},{"id":"g8_g2_q34","text":"Mangrove:","options":["Yes delta saline","Sundari","No","Hill"],"correctIndex":0,"explanation":"Rhizophora.","frequencyRating":5},{"id":"g8_g2_q35","text":"Project tiger 1973:","options":["Yes 27 reserves","Now 50","No","Lion"],"correctIndex":0,"explanation":"Population.","frequencyRating":5},{"id":"g8_g2_q36","text":"Hotspot Western Ghats:","options":["Yes endemic","Himalaya","No","Desert"],"correctIndex":0,"explanation":"Biodiversity.","frequencyRating":5},{"id":"g8_g2_q37","text":"Over irrigation:","options":["Waterlogging salinity","Yes","Good","No"],"correctIndex":0,"explanation":"Punjab Haryana.","frequencyRating":5},{"id":"g8_g2_q38","text":"Soil as resource:","options":["Loose earth supports","Yes","Rock","No"],"correctIndex":0,"explanation":"Living.","frequencyRating":5},{"id":"g8_g2_q39","text":"Land use change:","options":["Urbanisation agriculture","Yes","No","Ocean"],"correctIndex":0,"explanation":"1960-61.","frequencyRating":5},{"id":"g8_g2_q40","text":"Conserve water vegetation wildlife:","options":["Yes protected","No waste","Private","No"],"correctIndex":0,"explanation":"Future.","frequencyRating":5}]}
+{
+  "id": "g8_geo_ch2",
+  "grade": "8",
+  "subject": "Geography",
+  "number": "2",
+  "title": "Land, Soil, Water, Natural Vegetation and Wildlife Resources",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_g2_q1",
+      "text": "What percentage of the Earth's surface is covered by land?",
+      "options": ["70%", "30%", "50%", "90%"],
+      "correctIndex": 1,
+      "explanation": "Land covers only about 30% of the Earth's surface and not all of it is habitable.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g2_q2",
+      "text": "The uneven distribution of population in different parts of the world is mainly due to varied characteristics of ________.",
+      "options": ["Language", "Land and climate", "Government", "Religion"],
+      "correctIndex": 1,
+      "explanation": "Rugged topography and extreme climates are sparsely populated compared to plains.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g2_q3",
+      "text": "Land used for common purposes like collection of fodder, fruits, or medicinal herbs is called:",
+      "options": ["Private land", "Community land", "Government land", "Forest land"],
+      "correctIndex": 1,
+      "explanation": "Community lands are also called common property resources.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g2_q4",
+      "text": "The thin layer of grainy substance covering the surface of the earth is called:",
+      "options": ["Soil", "Sand", "Silt", "Rock"],
+      "correctIndex": 0,
+      "explanation": "Soil is closely linked to the land and formed by weathered rocks.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g2_q5",
+      "text": "What determines the fertility of soil?",
+      "options": ["Type of rock", "Amount of organic matter and minerals", "Color of soil", "Climate"],
+      "correctIndex": 1,
+      "explanation": "The right mix of minerals and organic matter (humus) makes the soil fertile.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g2_q6",
+      "text": "The process of breaking up and decay of exposed rocks is called:",
+      "options": ["Weathering", "Erosion", "Sedimentation", "Landslide"],
+      "correctIndex": 0,
+      "explanation": "Weathering occurs due to temperature changes, frost action, plants, and animals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g2_q7",
+      "text": "Which of the following is NOT a factor of soil formation?",
+      "options": ["Parent rock", "Time", "Soil texture", "Climate"],
+      "correctIndex": 2,
+      "explanation": "Texture is a characteristic of soil, not a factor in its formation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g2_q8",
+      "text": "How many years does it take to make just one centimeter of soil?",
+      "options": ["10 years", "50 years", "Hundreds of years", "1000 years"],
+      "correctIndex": 2,
+      "explanation": "Soil formation is a very slow process.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g2_q9",
+      "text": "Which method of soil conservation involves building barriers of stones, grass or soil along contours?",
+      "options": ["Mulching", "Contour barriers", "Rock dam", "Intercropping"],
+      "correctIndex": 1,
+      "explanation": "Contour barriers help prevent water from washing away the soil.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g2_q10",
+      "text": "What is the method of soil conservation in which bare ground between plants is covered with a layer of organic matter like straw?",
+      "options": ["Shelter belts", "Mulching", "Terrace farming", "Contour ploughing"],
+      "correctIndex": 1,
+      "explanation": "Mulching helps retain soil moisture.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g2_q11",
+      "text": "Which method of soil conservation is most effective in coastal and dry regions?",
+      "options": ["Rock dam", "Shelter belts", "Mulching", "Terrace farming"],
+      "correctIndex": 1,
+      "explanation": "Rows of trees are planted to check the wind movement to protect soil cover.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g2_q12",
+      "text": "About ________ of the Earth's surface is covered with water.",
+      "options": ["One-fourth", "One-half", "Three-fourths", "All of it"],
+      "correctIndex": 2,
+      "explanation": "Earth is often called the 'Water Planet' because of its vast oceans.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g2_q13",
+      "text": "Fresh water accounts for only about ________ of the total water on Earth.",
+      "options": ["2.7%", "10%", "50%", "70%"],
+      "correctIndex": 0,
+      "explanation": "Most of the water on Earth is saline (salty).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g2_q14",
+      "text": "The process by which water continually changes its form and circulates between oceans, atmosphere and land is:",
+      "options": ["Water cycle", "Tide", "Ocean current", "Precipitation"],
+      "correctIndex": 0,
+      "explanation": "Water is neither added nor subtracted from Earth; it just changes form.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g2_q15",
+      "text": "Which of the following is a major cause of water pollution?",
+      "options": ["Forestry", "Discharge of untreated sewage", "Drip irrigation", "Rainwater harvesting"],
+      "correctIndex": 1,
+      "explanation": "Industrial effluents and sewage contaminate water bodies with nitrates and pesticides.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g2_q16",
+      "text": "The narrow zone of contact between the lithosphere, hydrosphere and atmosphere is called:",
+      "options": ["Ecosystem", "Biosphere", "Environment", "Stratosphere"],
+      "correctIndex": 1,
+      "explanation": "Life exists only in the biosphere.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g2_q17",
+      "text": "In the biosphere, living beings are inter-related and interdependent on each other for survival. This life-supporting system is called:",
+      "options": ["Biosphere", "Ecosystem", "Atmosphere", "Lithosphere"],
+      "correctIndex": 1,
+      "explanation": "The ecosystem is the functional unit where living things interact.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g2_q18",
+      "text": "Vultures in the Indian subcontinent were dying of kidney failure due to a drug called ________ used to treat livestock.",
+      "options": ["Penicillin", "Diclofenac", "Paracetamol", "Insulin"],
+      "correctIndex": 1,
+      "explanation": "This drug is a painkiller that was found to be toxic to vultures when they scavenged carcasses.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g2_q19",
+      "text": "The growth of vegetation depends primarily on ________.",
+      "options": ["Oxygen and Nitrogen", "Temperature and moisture", "Soil color", "Altitude"],
+      "correctIndex": 1,
+      "explanation": "Vegetation types like forests and grasslands are determined by climatic conditions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g2_q20",
+      "text": "Short stunted trees and grasses grow in the regions of ________.",
+      "options": ["Heavy rainfall", "Moderate rainfall", "Low rainfall", "Polar regions"],
+      "correctIndex": 1,
+      "explanation": "Moderate rainfall leads to the formation of grasslands.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g2_q21",
+      "text": "Thorny shrubs and scrubs grow in ________ regions.",
+      "options": ["Humid", "Dry", "High altitude", "Equatorial"],
+      "correctIndex": 1,
+      "explanation": "Plants in dry areas have deep roots and waxy leaves to reduce transpiration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g2_q22",
+      "text": "Forests in which trees shed their leaves in a particular season are called:",
+      "options": ["Evergreen forests", "Deciduous forests", "Coniferous forests", "Tundra"],
+      "correctIndex": 1,
+      "explanation": "This is done to conserve moisture.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g2_q23",
+      "text": "Which international convention lists species of animals and birds in which trade is prohibited?",
+      "options": ["CITES", "UNESCO", "WHO", "UNICEF"],
+      "correctIndex": 0,
+      "explanation": "CITES stands for Convention on International Trade in Endangered Species of Wild Fauna and Flora.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g2_q24",
+      "text": "What is the primary factor responsible for landslides in hilly areas?",
+      "options": ["Heavy rain/Earthquakes", "Wind", "Pollution", "Cloud cover"],
+      "correctIndex": 0,
+      "explanation": "Landslides are mass movements of rock or debris down a slope triggered by seismic or weather events.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g2_q25",
+      "text": "Land reclamation, regulated use of chemical pesticides and fertilizers are methods of ________.",
+      "options": ["Industrialization", "Land conservation", "Urbanization", "Deforestation"],
+      "correctIndex": 1,
+      "explanation": "These steps prevent land degradation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g2_q26",
+      "text": "Humus is found in which layer of the soil?",
+      "options": ["Parent rock", "Sub soil", "Top soil", "Weathered rock"],
+      "correctIndex": 2,
+      "explanation": "Top soil contains organic matter (humus) and fine particles.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g2_q27",
+      "text": "The availability of water per person is declining because of ________.",
+      "options": ["Increasing population", "Growing demand for food", "Urbanization", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Water scarcity is driven by high demand and pollution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g2_q28",
+      "text": "Rainwater harvesting is a method to:",
+      "options": ["Stop rain", "Conserve water", "Clean the air", "Improve traffic"],
+      "correctIndex": 1,
+      "explanation": "It involves collecting and storing rainwater for future use.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g2_q29",
+      "text": "In the ________ system, water is saved by allowing it to reach the roots of plants drop by drop.",
+      "options": ["Canal", "Sprinkler", "Drip", "Borewell"],
+      "correctIndex": 2,
+      "explanation": "Drip irrigation is highly efficient in dry regions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g2_q30",
+      "text": "Mosses and lichens are part of ________ vegetation.",
+      "options": ["Desert", "Tropical", "Tundra", "Grassland"],
+      "correctIndex": 2,
+      "explanation": "Tundra vegetation is found in cold, polar climates.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g2_q31",
+      "text": "What is the full form of CITES?",
+      "options": ["Convention on International Trade in Endangered Species", "Council for International Timber and Environmental Safety", "Center for Indian Textile and Ethnic Styles", "Committee for Internal Trade of Electronic Systems"],
+      "correctIndex": 0,
+      "explanation": "It is an agreement between governments to ensure trade doesn't threaten survival of wild species.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g2_q32",
+      "text": "Which of these is NOT a natural way of water conservation?",
+      "options": ["Afforestation", "Constructing dams", "Water harvesting", "Desalination"],
+      "correctIndex": 3,
+      "explanation": "Desalination is an expensive industrial process to remove salt from seawater.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_g2_q33",
+      "text": "Parent rock determines the ________ of the soil.",
+      "options": ["Color and texture", "Rate of weathering", "Humus content", "Soil thickness"],
+      "correctIndex": 0,
+      "explanation": "The original rock decides the mineral composition and appearance of the soil.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g2_q34",
+      "text": "Which factor determines the thickness of soil profile?",
+      "options": ["Climate", "Time", "Flora/Fauna", "Relief"],
+      "correctIndex": 1,
+      "explanation": "Soil takes hundreds of years to form; thus time determines its depth.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g2_q35",
+      "text": "Land used for growing crops is called ________ land.",
+      "options": ["Fallow", "Arable", "Barren", "Pasture"],
+      "correctIndex": 1,
+      "explanation": "Arable land is suitable for cultivation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g2_q36",
+      "text": "Soil erosion is caused by ________.",
+      "options": ["Deforestation", "Overgrazing", "Rain wash", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Both human and natural factors lead to soil degradation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g2_q37",
+      "text": "Oceans are the major source of ________ in the atmosphere through the water cycle.",
+      "options": ["Oxygen", "Moisture", "Carbon Dioxide", "Salt"],
+      "correctIndex": 1,
+      "explanation": "Evaporation from oceans provides water vapor for clouds.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_g2_q38",
+      "text": "The 'Shelter Belts' method of soil conservation is most common in ________.",
+      "options": ["Mountainous areas", "River valleys", "Coastal and dry regions", "Plains"],
+      "correctIndex": 2,
+      "explanation": "Trees are used as windbreaks to prevent wind erosion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g2_q39",
+      "text": "Which layer of the Earth provides minerals for soil formation?",
+      "options": ["Atmosphere", "Hydrosphere", "Lithosphere", "Core"],
+      "correctIndex": 2,
+      "explanation": "The lithosphere is the rocky crust of the earth.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_g2_q40",
+      "text": "Water is a ________ resource.",
+      "options": ["Non-renewable", "Renewable", "Localized", "Human-made"],
+      "correctIndex": 1,
+      "explanation": "Water circulates through the water cycle making it renewable, though fresh water is limited.",
+      "frequencyRating": 5
+    }
+  ]
+}

@@ -1,1 +1,330 @@
-{"id":"g8_math_ch12","grade":"8","subject":"Mathematics","number":"12","title":"Factorisation","version":"v1","questions":[{"id":"g8_m12_q1","text":"Prime factorisation unique:","options":["Fundamental theorem arithmetic","Yes","No","Only primes"],"correctIndex":0,"explanation":"Unique primes.","frequencyRating":5},{"id":"g8_m12_q2","text":"Factor 12:","options":["2*2*3","2*6","3*4","All equivalent"],"correctIndex":3,"explanation":"Yes.","frequencyRating":5},{"id":"g8_m12_q3","text":"HCF 12 18:","options":["6","3","9","2"],"correctIndex":0,"explanation":"Common min power.","frequencyRating":5},{"id":"g8_m12_q4","text":"LCM 12 18:","options":["36","6","9","18"],"correctIndex":0,"explanation":"Max powers.","frequencyRating":5},{"id":"g8_m12_q5","text":"HCF LCM = product:","options":["a*b","Yes","No","HCF"],"correctIndex":1,"explanation":"Yes.","frequencyRating":5},{"id":"g8_m12_q6","text":"Factor x² -4:","options":["(x+2)(x-2)","x-2","x+2","No"],"correctIndex":0,"explanation":"Difference squares.","frequencyRating":5},{"id":"g8_m12_q7","text":"x² +5x +6:","options":["(x+2)(x+3)","(x+1)(x+6)","(x+5)(x+1)","No"],"correctIndex":0,"explanation":"Factors.","frequencyRating":5},{"id":"g8_m12_q8","text":"Common 2x(3x+1) +3(3x+1):","options":["(2x+3)(3x+1)","6x² +5x","No","x"],"correctIndex":0,"explanation":"Common binomial.","frequencyRating":5},{"id":"g8_m12_q9","text":"Grouping x³ + x² + x +1 = x²(x+1) +1(x+1):","options":["(x²+1)(x+1)","x³ +1","No","x(x²+1)"],"correctIndex":0,"explanation":"Yes.","frequencyRating":5},{"id":"g8_m12_q10","text":"Identity x² - y² =","options":["(x+y)(x-y)","Yes","No","Square"],"correctIndex":0,"explanation":"Yes.","frequencyRating":5},{"id":"g8_m12_q11","text":"Algebraic identity verify 5² -3² =25-9=16 (5-3)(5+3)=2*8=16.","options":["Yes","No","Cube","No"],"correctIndex":0,"explanation":"Yes.","frequencyRating":5},{"id":"g8_m12_q12","text":"HCF 24 36:","options":["12","6","18","24"],"correctIndex":1,"explanation":"6.","frequencyRating":5},{"id":"g8_m12_q13","text":"LCM 24 36:","options":["72","12","6","144"],"correctIndex":0,"explanation":"72.","frequencyRating":5},{"id":"g8_m12_q14","text":"Factor x² +7x +12:","options":["(x+3)(x+4)","(x+2)(x+6)","(x+1)(x+12)","No"],"correctIndex":0,"explanation":"15=3+4.","frequencyRating":5},{"id":"g8_m12_q15","text":"Common factor x(y-2) -3(y-2):","options":["(x-3)(y-2)","xy -2x -3y +6","No","y-2"],"correctIndex":0,"explanation":"Yes.","frequencyRating":5},{"id":"g8_m12_q16","text":"Grouping 2x² +2x +3x +3 =2x(x+1) +3(x+1):","options":["(2x+3)(x+1)","2x² +3x","No","x+1"],"correctIndex":0,"explanation":"Yes.","frequencyRating":5},{"id":"g8_m12_q17","text":"x² -9 =","options":["(x-3)(x+3)","x-9","No","Square"],"correctIndex":0,"explanation":"Yes.","frequencyRating":5},{"id":"g8_m12_q18","text":"25y² -16:","options":["(5y-4)(5y+4)","25y² +16","No","Difference cubes"],"correctIndex":0,"explanation":"Yes.","frequencyRating":5},{"id":"g8_m12_q19","text":"Verify 102²=(100+2)²=10000+400+4=10404.","options":["Identity","Yes","No","Cube"],"correctIndex":1,"explanation":"Square identity.","frequencyRating":5},{"id":"g8_m12_q20","text":"HCF 45 60:","options":["15","5","9","30"],"correctIndex":0,"explanation":"15.","frequencyRating":5},{"id":"g8_m12_q21","text":"LCM 45 60:","options":["180","15","300","90"],"correctIndex":0,"explanation":"180.","frequencyRating":5},{"id":"g8_m12_q22","text":"x² - x -12:","options":["(x-4)(x+3)","(x-3)(x+4)","(x-6)(x+2)","No"],"correctIndex":1,"explanation":"-12 1=-3*4.","frequencyRating":5},{"id":"g8_m12_q23","text":"3x² +12x =","options":["3x(x+4)","3x² +12","No","x(3x+12)"],"correctIndex":0,"explanation":"Common.","frequencyRating":5},{"id":"g8_m12_q24","text":"4y² - 8y +4 =","options":["4(y-1)^2","4y² -4","No","2(y-1)^2"],"correctIndex":0,"explanation":"Perfect square.","frequencyRating":5},{"id":"g8_m12_q25","text":"HCF using Euclid 867 255:","options":["51","3","17","9"],"correctIndex":0,"explanation":"51.","frequencyRating":5},{"id":"g8_m12_q26","text":"LCM HCF relation:","options":["Product","Sum","Difference","Ratio"],"correctIndex":0,"explanation":"a b = HCF LCM.","frequencyRating":5},{"id":"g8_m12_q27","text":"Factorisation help division LCM HCF.","options":["Yes","No","No","Always"],"correctIndex":0,"explanation":"Yes.","frequencyRating":4},{"id":"g8_m12_q28","text":"x² +6x +8:","options":["(x+4)(x+2)","(x+1)(x+8)","(x+3)(x+3)","No"],"correctIndex":0,"explanation":"Yes.","frequencyRating":5},{"id":"g8_m12_q29","text":"Common  x² + x y + x + y = x(x+y) +1(x+y):","options":["(x+1)(x+y)","x² +y","No","x+y"],"correctIndex":0,"explanation":"Yes.","frequencyRating":5},{"id":"g8_m12_q30","text":"2x² -8 =","options":["2(x² -4)=2(x-2)(x+2)","2x -8","No","x-4"],"correctIndex":0,"explanation":"Yes.","frequencyRating":5},{"id":"g8_m12_q31","text":"Identity (x+y+z)^2 = x²+y²+z² +2xy +2yz +2zx.","options":["Yes","No","Cube","Linear"],"correctIndex":0,"explanation":"Used.","frequencyRating":4},{"id":"g8_m12_q32","text":"HCF 135 225:","options":["45","15","9","225"],"correctIndex":0,"explanation":"45.","frequencyRating":5},{"id":"g8_m12_q33","text":"LCM 135 225:","options":["675","45","25","135"],"correctIndex":0,"explanation":"675.","frequencyRating":5},{"id":"g8_m12_q34","text":"y² - 16y +64 =","options":["(y-8)^2","y-16","No","Square difference"],"correctIndex":0,"explanation":"Perfect.","frequencyRating":5},{"id":"g8_m12_q35","text":"Grouping  x y + x + y +1 = x(y+1) +1(y+1):","options":["(x+1)(y+1)","xy +1","No","x+y+1"],"correctIndex":0,"explanation":"Yes.","frequencyRating":5},{"id":"g8_m12_q36","text":"Euclid HCF divide larger smaller remainder.","options":["Yes algorithm","No","Prime","No"],"correctIndex":0,"explanation":"Repeated.","frequencyRating":5},{"id":"g8_m12_q37","text":"Verify 99²=(100-1)^2=10000 -200 +1=9801.","options":["Yes","No","Cube","Linear"],"correctIndex":0,"explanation":"Identity.","frequencyRating":5},{"id":"g8_m12_q38","text":"x² + 8x +16 =","options":["(x+4)^2","x+8","No","Difference"],"correctIndex":0,"explanation":"Perfect square.","frequencyRating":5},{"id":"g8_m12_q39","text":"HCF 96 404:","options":["4","8","12","2"],"correctIndex":0,"explanation":"4.","frequencyRating":4},{"id":"g8_m12_q40","text":"LCM 96 404:","options":["9696","4","484","96"],"correctIndex":0,"explanation":"9696.","frequencyRating":4}]}
+{
+  "id": "g8_math_ch12",
+  "grade": "8",
+  "subject": "Mathematics",
+  "number": "12",
+  "title": "Factorisation",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_m12_q1",
+      "text": "Factorisation is the process of writing an expression as a ________ of its factors.",
+      "options": ["Sum", "Difference", "Product", "Quotient"],
+      "correctIndex": 2,
+      "explanation": "Factorisation means decomposing an expression into a product of smaller expressions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m12_q2",
+      "text": "What are the irreducible factors of 5xy?",
+      "options": ["5, x, y", "5x, y", "5, xy", "1, 5xy"],
+      "correctIndex": 0,
+      "explanation": "5, x, and y cannot be factored further.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m12_q3",
+      "text": "What is the common factor of 12x and 36?",
+      "options": ["x", "3", "6", "12"],
+      "correctIndex": 3,
+      "explanation": "12 is the highest common factor of 12 and 36.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m12_q4",
+      "text": "Factorise: 7x - 42",
+      "options": ["7(x - 6)", "x(7 - 6)", "7(x + 6)", "42(x - 7)"],
+      "correctIndex": 0,
+      "explanation": "7 is common: 7(x) - 7(6) = 7(x - 6).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m12_q5",
+      "text": "The common factor of 2y and 22xy is:",
+      "options": ["2", "y", "2y", "22"],
+      "correctIndex": 2,
+      "explanation": "2y is present in both 2y and 22xy (2y * 11x).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m12_q6",
+      "text": "Factorise: x² + xy + 8x + 8y",
+      "options": ["(x + y)(x + 8)", "(x - y)(x + 8)", "(x + y)(x - 8)", "(x + 8)(y + 8)"],
+      "correctIndex": 0,
+      "explanation": "Regrouping: x(x + y) + 8(x + y) = (x + y)(x + 8).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m12_q7",
+      "text": "Using the identity a² - b² = (a + b)(a - b), factorise x² - 9.",
+      "options": ["(x + 3)(x + 3)", "(x - 3)(x - 3)", "(x + 3)(x - 3)", "(x + 9)(x - 1)"],
+      "correctIndex": 2,
+      "explanation": "x² - 3² = (x + 3)(x - 3).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m12_q8",
+      "text": "Factorise: 49p² - 36",
+      "options": ["(7p - 6)(7p - 6)", "(7p + 6)(7p + 6)", "(7p + 6)(7p - 6)", "(49p + 6)(p - 6)"],
+      "correctIndex": 2,
+      "explanation": "(7p)² - 6² = (7p + 6)(7p - 6).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m12_q9",
+      "text": "Factorise using (a+b)²: x² + 10x + 25",
+      "options": ["(x + 5)²", "(x - 5)²", "(x + 10)²", "(x + 25)²"],
+      "correctIndex": 0,
+      "explanation": "x² + 2(x)(5) + 5² = (x + 5)².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m12_q10",
+      "text": "Factorise: x² - 14x + 49",
+      "options": ["(x + 7)²", "(x - 7)²", "(x - 14)²", "(x + 49)²"],
+      "correctIndex": 1,
+      "explanation": "x² - 2(x)(7) + 7² = (x - 7)².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m12_q11",
+      "text": "Find the common factor of 14pq and 28p²q².",
+      "options": ["14p", "14q", "14pq", "28pq"],
+      "correctIndex": 2,
+      "explanation": "14pq is the highest factor that divides both terms.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m12_q12",
+      "text": "Factorise: a² + 8a + 16",
+      "options": ["(a + 4)(a + 4)", "(a - 4)(a - 4)", "(a + 8)(a + 2)", "(a + 16)(a + 1)"],
+      "correctIndex": 0,
+      "explanation": "a² + 2(4)a + 4² = (a + 4)².",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m12_q13",
+      "text": "Divide: 28x⁴ ÷ 56x",
+      "options": ["x³/2", "2x³", "x²/2", "x⁴/2"],
+      "correctIndex": 0,
+      "explanation": "(28/56) * (x⁴/x) = (1/2) * x³ = x³/2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m12_q14",
+      "text": "Factorise: m² - 256",
+      "options": ["(m - 16)(m + 16)", "(m - 14)(m + 14)", "(m - 16)(m - 16)", "(m + 256)(m - 1)"],
+      "correctIndex": 0,
+      "explanation": "m² - 16² = (m - 16)(m + 16).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m12_q15",
+      "text": "The factorisation of x² - 4x - 12 is:",
+      "options": ["(x - 6)(x + 2)", "(x + 6)(x - 2)", "(x - 4)(x + 3)", "(x - 12)(x + 1)"],
+      "correctIndex": 0,
+      "explanation": "Splitting middle term: x² - 6x + 2x - 12 = x(x - 6) + 2(x - 6) = (x - 6)(x + 2).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m12_q16",
+      "text": "Which of these is the correct identity?",
+      "options": ["(a-b)² = a² + b²", "(a+b)(a-b) = a² - b²", "(a+b)² = a² + b²", "x² - y² = (x-y)²"],
+      "correctIndex": 1,
+      "explanation": "The difference of squares identity is (a+b)(a-b) = a² - b².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m12_q17",
+      "text": "Factorise: 10ab + 15bc",
+      "options": ["5b(2a + 3c)", "5(2ab + 3bc)", "b(10a + 15c)", "5ab(2 + 3c)"],
+      "correctIndex": 0,
+      "explanation": "Common factor 5b: 5b(2a) + 5b(3c) = 5b(2a + 3c).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m12_q18",
+      "text": "What is the result of (x² - 1) / (x - 1)?",
+      "options": ["x", "x + 1", "x - 1", "1"],
+      "correctIndex": 1,
+      "explanation": "(x+1)(x-1) / (x-1) = x + 1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m12_q19",
+      "text": "Factorise: p² + 6p + 8",
+      "options": ["(p + 2)(p + 4)", "(p + 1)(p + 8)", "(p + 3)(p + 3)", "(p - 2)(p - 4)"],
+      "correctIndex": 0,
+      "explanation": "p² + 4p + 2p + 8 = p(p+4) + 2(p+4) = (p+2)(p+4).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m12_q20",
+      "text": "Find common factors of 2x, 3x², 4",
+      "options": ["x", "2", "1", "4"],
+      "correctIndex": 2,
+      "explanation": "There is no common numerical factor other than 1 and no common literal factor.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m12_q21",
+      "text": "Factorise: ax² + by² + bx² + ay²",
+      "options": ["(a + b)(x² + y²)", "(a - b)(x² + y²)", "(a + b)(x² - y²)", "(x + y)(a² + b²)"],
+      "correctIndex": 0,
+      "explanation": "x²(a + b) + y²(a + b) = (a + b)(x² + y²).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m12_q22",
+      "text": "Factorise: 15pq + 15 + 9q + 25p",
+      "options": ["(3q + 5)(5p + 3)", "(3q + 5)(5p - 3)", "(5p + 3)(3q - 5)", "(15p + 9)(q + 1)"],
+      "correctIndex": 0,
+      "explanation": "Rearranging: 15pq + 9q + 25p + 15 = 3q(5p + 3) + 5(5p + 3) = (3q + 5)(5p + 3).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m12_q23",
+      "text": "Factorise: z - 7 + 7xy - xyz",
+      "options": ["(z - 7)(1 - xy)", "(z + 7)(1 + xy)", "(7 - z)(xy - 1)", "(1 - xy)(7 - z)"],
+      "correctIndex": 0,
+      "explanation": "1(z - 7) - xy(z - 7) = (z - 7)(1 - xy).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m12_q24",
+      "text": "Divide: 5z² - 80 by 5(z + 4)",
+      "options": ["z - 4", "z + 4", "5(z - 4)", "z - 16"],
+      "correctIndex": 0,
+      "explanation": "5(z² - 16) / 5(z + 4) = (z-4)(z+4) / (z+4) = z - 4.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m12_q25",
+      "text": "Factorise: q² - 10q + 21",
+      "options": ["(q - 7)(q - 3)", "(q + 7)(q + 3)", "(q - 7)(q + 3)", "(q - 10)(q + 2)"],
+      "correctIndex": 0,
+      "explanation": "q² - 7q - 3q + 21 = q(q-7) - 3(q-7) = (q-7)(q-3).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m12_q26",
+      "text": "What is the common factor of 10x², 15x³ and 20x⁴?",
+      "options": ["5", "x²", "5x²", "10x²"],
+      "correctIndex": 2,
+      "explanation": "HCF of 10, 15, 20 is 5; HCF of x², x³, x⁴ is x².",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m12_q27",
+      "text": "Factorise: 25 - 4x²",
+      "options": ["(5 - 2x)(5 + 2x)", "(5 - 2x)²", "(5 + 2x)²", "(25 - 2x)(1 + 2x)"],
+      "correctIndex": 0,
+      "explanation": "5² - (2x)² = (5 - 2x)(5 + 2x).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m12_q28",
+      "text": "The numerical coefficient of the term -7xy is:",
+      "options": ["7", "-7", "x", "y"],
+      "correctIndex": 1,
+      "explanation": "The number part is -7.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m12_q29",
+      "text": "Factorise: x² + 5x + 6",
+      "options": ["(x + 2)(x + 3)", "(x + 1)(x + 6)", "(x + 5)(x + 1)", "(x - 2)(x - 3)"],
+      "correctIndex": 0,
+      "explanation": "x² + 3x + 2x + 6 = (x + 3)(x + 2).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m12_q30",
+      "text": "Identify the error: 4(x - 5) = 4x - 5",
+      "options": ["Correct as is", "Should be 4x - 20", "Should be 4x + 20", "Should be x - 20"],
+      "correctIndex": 1,
+      "explanation": "Distributive law: 4 must be multiplied by both terms.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m12_q31",
+      "text": "Factorise: x² + 12x + 36",
+      "options": ["(x + 6)²", "(x - 6)²", "(x + 12)²", "(x + 36)²"],
+      "correctIndex": 0,
+      "explanation": "x² + 2(x)(6) + 6² = (x + 6)².",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m12_q32",
+      "text": "Divide: (5x² - 25x) / 5x",
+      "options": ["x - 5", "x + 5", "5x - 5", "x² - 5"],
+      "correctIndex": 0,
+      "explanation": "5x(x - 5) / 5x = x - 5.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m12_q33",
+      "text": "What is the common factor of 6abc, 24ab² and 12a²b?",
+      "options": ["6", "ab", "6ab", "12ab"],
+      "correctIndex": 2,
+      "explanation": "6 divides 6, 24, 12; ab is common to all terms.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m12_q34",
+      "text": "Factorise: 16x² - 81y²",
+      "options": ["(4x - 9y)(4x + 9y)", "(4x - 9y)²", "(4x + 9y)²", "(16x - 81y)(1)"],
+      "correctIndex": 0,
+      "explanation": "(4x)² - (9y)² = (4x - 9y)(4x + 9y).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m12_q35",
+      "text": "Factorise: x² + 14x + 48",
+      "options": ["(x + 6)(x + 8)", "(x + 12)(x + 4)", "(x + 16)(x + 3)", "(x + 24)(x + 2)"],
+      "correctIndex": 0,
+      "explanation": "6 + 8 = 14; 6 * 8 = 48.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m12_q36",
+      "text": "Common factor of p³q⁴ and p⁴q³ is:",
+      "options": ["p³q³", "p⁴q⁴", "pq", "p³q⁴"],
+      "correctIndex": 0,
+      "explanation": "Take the lower power of common variables.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m12_q37",
+      "text": "Factorise: 1 - 16x²",
+      "options": ["(1 - 4x)(1 + 4x)", "(1 - 4x)²", "(1 + 4x)²", "(1 - 8x)(1 + 8x)"],
+      "correctIndex": 0,
+      "explanation": "1² - (4x)² = (1-4x)(1+4x).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m12_q38",
+      "text": "Divide: 10(x + 5)(x + 2) / 2(x + 5)",
+      "options": ["5(x + 2)", "5(x + 5)", "2(x + 2)", "x + 2"],
+      "correctIndex": 0,
+      "explanation": "(10/2) * (x+2) = 5(x+2).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m12_q39",
+      "text": "Factorise: x² - 2x + 1",
+      "options": ["(x - 1)²", "(x + 1)²", "(x - 1)(x + 1)", "(x - 2)²"],
+      "correctIndex": 0,
+      "explanation": "x² - 2(x)(1) + 1² = (x - 1)².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m12_q40",
+      "text": "Is x² + 4 factorable into real linear factors?",
+      "options": ["No", "Yes, (x+2)(x+2)", "Yes, (x-2)(x+2)", "Yes, (x-2)(x-2)"],
+      "correctIndex": 0,
+      "explanation": "The sum of squares a²+b² cannot be factored into real linear factors.",
+      "frequencyRating": 2
+    }
+  ]
+}

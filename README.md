@@ -142,7 +142,7 @@ This script automatically packages all chapters into `g7_v1.zip`, calculates its
 
 ## Class 8 Syllabus Coverage (NCERT Rationalised)
 
-### Mathematics (10 Questions per Chapter)
+### Mathematics (40 Questions per Chapter)
 | Ch # | Chapter Title | Status |
 | :--- | :--- | :--- |
 | 1 | Rational Numbers | ✅ v1 |
@@ -159,7 +159,7 @@ This script automatically packages all chapters into `g7_v1.zip`, calculates its
 | 12 | Factorisation | ✅ v1 |
 | 13 | Introduction to Graphs | ✅ v1 |
 
-### Science (10 Questions per Chapter)
+### Science (40 Questions per Chapter)
 | Ch # | Chapter Title | Status |
 | :--- | :--- | :--- |
 | 1 | Crop Production and Management | ✅ v1 |
@@ -176,7 +176,7 @@ This script automatically packages all chapters into `g7_v1.zip`, calculates its
 | 12 | Some Natural Phenomena | ✅ v1 |
 | 13 | Light | ✅ v1 |
 
-### Social Science (10 Questions per Chapter)
+### Social Science (40 Questions per Chapter)
 | Ch # | Chapter Title | Status |
 | :--- | :--- | :--- |
 | Hist 1 | How, When and Where | ✅ v1 |
@@ -202,7 +202,7 @@ This script automatically packages all chapters into `g7_v1.zip`, calculates its
 | Civ 7 | Public Facilities | ✅ v1 |
 | Civ 8 | Law and Social Justice | ✅ v1 |
 
-### English (10 Questions per Chapter)
+### English (40 Questions per Chapter)
 | Ch # | Chapter Title | Status |
 | :--- | :--- | :--- |
 | 1 | The Best Christmas Present in the World | ✅ v1 |

@@ -1,1 +1,330 @@
-{"id":"g8_sci_ch4","grade":"8","subject":"Science","number":"4","title":"Combustion and Flame","version":"v1","questions":[{"id":"g8_s4_q1","text":"Rapid reaction heat light:","options":["Combustion","Respiration","Photosynthesis","No"],"correctIndex":0,"explanation":"Burning.","frequencyRating":5},{"id":"g8_s4_q2","text":"Fuel combustion needs:","options":["Oxygen","Water","Air","No"],"correctIndex":0,"explanation":"Supports.","frequencyRating":5},{"id":"g8_s4_q3","text":"Complete combustion clean:","options":["CO2 water","CO smoke","Ash","No"],"correctIndex":0,"explanation":"Sufficient oxygen.","frequencyRating":5},{"id":"g8_s4_q4","text":"Incomplete yellow sooty:","options":["Yes","No","Blue","Green"],"correctIndex":0,"explanation":"Carbon monoxide smoke.","frequencyRating":5},{"id":"g8_s4_q5","text":"Ignition temp minimum start:","options":["Yes","No","High","No"],"correctIndex":0,"explanation":"Kerosene low.","frequencyRating":5},{"id":"g8_s4_q6","text":"Wood ignition high:","options":["Yes","Low","Same","No"],"correctIndex":0,"explanation":"Charcoal.","frequencyRating":5},{"id":"g8_s4_q7","text":"Flame zones:","options":["3","2","1","4"],"correctIndex":0,"explanation":"Outer hottest.","frequencyRating":5},{"id":"g8_s4_q8","text":"Candle flame yellow:","options":["Incomplete","Complete","No flame","Blue"],"correctIndex":0,"explanation":"Carbon.","frequencyRating":5},{"id":"g8_s4_q9","text":"Structure flame:","options":["Innermost unburnt","Dark","Blue","No"],"correctIndex":0,"explanation":"Yellow middle.","frequencyRating":5},{"id":"g8_s4_q10","text":"Fuels characteristics:","options":["Easy ignite burn steady cheap clean safe","All high","No","One"],"correctIndex":0,"explanation":"Good fuel.","frequencyRating":5},{"id":"g8_s4_q11","text":"Calorific value energy:","options":["Higher better","Lower","No","Same"],"correctIndex":0,"explanation":"Hydrogen high.","frequencyRating":5},{"id":"g8_s4_q12","text":"CNG cleaner LPG:","options":["Yes","No","Same","Coal"],"correctIndex":0,"explanation":"Burn complete.","frequencyRating":5},{"id":"g8_s4_q13","text":"Fire extinguisher types:","options":["Water soda acid foam powder","One","No","Burn"],"correctIndex":0,"explanation":"Class fires.","frequencyRating":5},{"id":"g8_s4_q14","text":"Water electrical fire:","options":["No","Yes","Both","No"],"correctIndex":0,"explanation":"Danger.","frequencyRating":5},{"id":"g8_s4_q15","text":"Soda acid CO2:","options":["Yes oil electrical","No","Water","No"],"correctIndex":0,"explanation":"No conduction.","frequencyRating":5},{"id":"g8_s4_q16","text":"Foam oil fire:","options":["Yes","No","Electrical","Paper"],"correctIndex":0,"explanation":"Blanket.","frequencyRating":4},{"id":"g8_s4_q17","text":"Powder all types:","options":["Yes","No","Only oil","No"],"correctIndex":0,"explanation":"Multi.","frequencyRating":4},{"id":"g8_s4_q18","text":"Global warming CO2:","options":["Greenhouse","No","Ozone","No"],"correctIndex":0,"explanation":"Excess.","frequencyRating":5},{"id":"g8_s4_q19","text":"Oxides sulphur nitrogen acid rain:","options":["Yes","No","CO2","No"],"correctIndex":0,"explanation":"Pollution.","frequencyRating":5},{"id":"g8_s4_q20","text":"Self combustion high temp hay:","options":["Yes","No","Oil","No"],"correctIndex":0,"explanation":"Slow oxidation.","frequencyRating":4},{"id":"g8_s4_q21","text":"Burning magnesium white dazzling:","options":["Yes","Yellow","Blue","Green"],"correctIndex":0,"explanation":"Ash.","frequencyRating":4},{"id":"g8_s4_q22","text":"Flame colour complete blue:","options":["Yes","Yellow","No","Red"],"correctIndex":0,"explanation":"Yes.","frequencyRating":5},{"id":"g8_s4_q23","text":"Lowest ignition:","options":["Kerosene","Coal","Wood","No"],"correctIndex":0,"explanation":"Liquid.","frequencyRating":5},{"id":"g8_s4_q24","text":"Highest ignition:","options":["Coal","Kerosene","CNG","LPG"],"correctIndex":0,"explanation":"Solid.","frequencyRating":5},{"id":"g8_s4_q25","text":"Burn candle parts wax vapour:","options":["Yes","Solid","No","Gas"],"correctIndex":0,"explanation":"Vapour burns.","frequencyRating":5},{"id":"g8_s4_q26","text":"Zone yellow luminous:","options":["Most sooty hottest","No","Coldest","Blue"],"correctIndex":0,"explanation":"Carbon.","frequencyRating":5},{"id":"g8_s4_q27","text":"Non luminous outer:","options":["Hottest complete","Yellow","Dark","Middle"],"correctIndex":0,"explanation":"Blue.","frequencyRating":5},{"id":"g8_s4_q28","text":"Calorific hydrogen highest:","options":["Yes","Carbon","No","Coal"],"correctIndex":0,"explanation":"1500000 J/kg.","frequencyRating":5},{"id":"g8_s4_q29","text":"Fire classes A B C D K:","options":["Yes","No","One","No"],"correctIndex":0,"explanation":"Different extinguishers.","frequencyRating":5},{"id":"g8_s4_q30","text":"Water cools:","options":["Yes solids","Liquids","Electrical","Oil"],"correctIndex":0,"explanation":"Paper wood.","frequencyRating":5},{"id":"g8_s4_q31","text":"Soda acid CO2 blanket:","options":["Yes oil","No","Water","No"],"correctIndex":0,"explanation":"Electrical safe.","frequencyRating":5},{"id":"g8_s4_q32","text":"Foam oil grease:","options":["Yes blanket oxygen","No","Electrical","Paper"],"correctIndex":0,"explanation":"Yes.","frequencyRating":5},{"id":"g8_s4_q33","text":"Powder smothers:","options":["All fires","No","Water","No"],"correctIndex":0,"explanation":"Multi purpose.","frequencyRating":4},{"id":"g8_s4_q34","text":"CO poisonous:","options":["Yes","No","Oxygen","No"],"correctIndex":0,"explanation":"Incomplete.","frequencyRating":5},{"id":"g8_s4_q35","text":"Acid rain SO2 NO2:","options":["Yes","No","CO2","O2"],"correctIndex":0,"explanation":"Rain water acid.","frequencyRating":5},{"id":"g8_s4_q36","text":"Conserve fuel:","options":["Yes efficient stoves","No","Burn","No"],"correctIndex":0,"explanation":"Less consumption.","frequencyRating":5},{"id":"g8_s4_q37","text":"CNG buses Delhi:","options":["Yes","No","Petrol","Diesel"],"correctIndex":0,"explanation":"Clean.","frequencyRating":5},{"id":"g8_s4_q38","text":"Flame lab burner:","options":["Yes adjustable","No","Candle","No"],"correctIndex":0,"explanation":"Blue.","frequencyRating":5},{"id":"g8_s4_q39","text":"Ignition temp match low:","options":["Yes","High","No","Same"],"correctIndex":0,"explanation":"Strikes.","frequencyRating":4},{"id":"g8_s4_q40","text":"Fire prevention extinguish early:","options":["Yes","No","Wait","No"],"correctIndex":0,"explanation":"Safety.","frequencyRating":5}]}
+{
+  "id": "g8_sci_ch4",
+  "grade": "8",
+  "subject": "Science",
+  "number": "4",
+  "title": "Combustion and Flame",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_s4_q1",
+      "text": "A chemical process in which a substance reacts with oxygen to give off heat is called:",
+      "options": ["Rusting", "Combustion", "Digestion", "Decomposition"],
+      "correctIndex": 1,
+      "explanation": "Combustion is the scientific name for burning.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s4_q2",
+      "text": "The substances which give off heat and light during combustion are called:",
+      "options": ["Non-combustible", "Combustible/Fuels", "Gases", "Flame"],
+      "correctIndex": 1,
+      "explanation": "Fuels can be solid, liquid, or gas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s4_q3",
+      "text": "Which of the following is essential for combustion?",
+      "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Helium"],
+      "correctIndex": 1,
+      "explanation": "Oxygen (air) is a supporter of combustion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s4_q4",
+      "text": "The lowest temperature at which a substance catches fire is called its:",
+      "options": ["Boiling point", "Melting point", "Ignition temperature", "Critical temperature"],
+      "correctIndex": 2,
+      "explanation": "A substance cannot catch fire as long as its temperature is lower than its ignition temperature.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s4_q5",
+      "text": "Which of these is a non-combustible substance?",
+      "options": ["Wood", "Paper", "Iron nail", "Straw"],
+      "correctIndex": 2,
+      "explanation": "Iron does not burn in air under normal conditions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s4_q6",
+      "text": "Substances which have very low ignition temperature and can easily catch fire with a flame are called:",
+      "options": ["Combustible", "Inflammable", "Non-combustible", "Explosive"],
+      "correctIndex": 1,
+      "explanation": "Examples include petrol, alcohol, and LPG.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s4_q7",
+      "text": "A fire caused by oil or petrol should be extinguished using:",
+      "options": ["Water", "Carbon dioxide", "Oxygen", "Nitrogen"],
+      "correctIndex": 1,
+      "explanation": "Water is heavier than oil and will sink, allowing oil to continue burning on top.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s4_q8",
+      "text": "The most common fire extinguisher for electrical equipment is:",
+      "options": ["Water", "Sand", "Carbon dioxide (CO2)", "Foam"],
+      "correctIndex": 2,
+      "explanation": "CO2 does not conduct electricity and doesn't damage sensitive equipment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s4_q9",
+      "text": "The type of combustion in which a substance bursts into flames without any apparent cause is:",
+      "options": ["Rapid combustion", "Spontaneous combustion", "Explosion", "Slow combustion"],
+      "correctIndex": 1,
+      "explanation": "Forest fires or coal dust fires are examples of spontaneous combustion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s4_q10",
+      "text": "The combustion of crackers is an example of:",
+      "options": ["Rapid combustion", "Spontaneous combustion", "Explosion", "Rusting"],
+      "correctIndex": 2,
+      "explanation": "Explosion involves sudden reaction with heat, light, and sound.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s4_q11",
+      "text": "Which zone of a candle flame is the hottest?",
+      "options": ["Innermost zone (black)", "Middle zone (yellow)", "Outer zone (blue)", "None of these"],
+      "correctIndex": 2,
+      "explanation": "The outer zone undergoes complete combustion and is the hottest part.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s4_q12",
+      "text": "The luminous part of the candle flame is the:",
+      "options": ["Outer zone", "Middle zone", "Innermost zone", "Non-luminous zone"],
+      "correctIndex": 1,
+      "explanation": "The middle zone produces light due to incomplete combustion of carbon particles.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s4_q13",
+      "text": "Goldsmiths use which part of the flame for melting gold and silver?",
+      "options": ["Innermost zone", "Middle zone", "Outermost zone", "Wait until it's out"],
+      "correctIndex": 2,
+      "explanation": "They blow the outermost zone because it provides the highest temperature.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s4_q14",
+      "text": "The amount of heat energy produced on complete combustion of 1 kg of a fuel is called its:",
+      "options": ["Efficiency", "Ignition temperature", "Calorific value", "Heat capacity"],
+      "correctIndex": 2,
+      "explanation": "Calorific value is expressed in kilojoule per kg (kJ/kg).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s4_q15",
+      "text": "Which of the following has the highest calorific value?",
+      "options": ["Wood", "Coal", "LPG", "Hydrogen"],
+      "correctIndex": 3,
+      "explanation": "Hydrogen has a calorific value of 1,50,000 kJ/kg.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s4_q16",
+      "text": "Incomplete combustion of fuels produces a very poisonous gas called:",
+      "options": ["Carbon dioxide", "Carbon monoxide", "Nitrogen dioxide", "Sulphur dioxide"],
+      "correctIndex": 1,
+      "explanation": "Carbon monoxide (CO) can be fatal if inhaled in a closed room.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s4_q17",
+      "text": "Increased concentration of carbon dioxide in the air is believed to cause:",
+      "options": ["Acid rain", "Global warming", "Respiratory diseases", "Soil erosion"],
+      "correctIndex": 1,
+      "explanation": "CO2 is a greenhouse gas that traps heat in the atmosphere.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s4_q18",
+      "text": "Oxides of sulphur and nitrogen dissolve in rain water to form:",
+      "options": ["Saline water", "Acid rain", "Heavy water", "Distilled water"],
+      "correctIndex": 1,
+      "explanation": "Acid rain is harmful to crops, buildings, and soil.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s4_q19",
+      "text": "An ideal fuel should have ________ ignition temperature.",
+      "options": ["Very high", "Very low", "Moderate", "Zero"],
+      "correctIndex": 2,
+      "explanation": "It should be above room temperature but easy to reach for usage.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s4_q20",
+      "text": "The 'black' innermost zone of a candle flame is due to:",
+      "options": ["Complete combustion", "Unburnt carbon vapours", "Presence of CO2", "High temperature"],
+      "correctIndex": 1,
+      "explanation": "This zone is cool and contains vapours of the wax that haven't burnt yet.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s4_q21",
+      "text": "Fire is produced by a combination of:",
+      "options": ["Fuel and Air", "Fuel and Heat", "Air and Heat", "Fuel, Air and Heat"],
+      "correctIndex": 3,
+      "explanation": "Removing any of these three requirements will extinguish the fire.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s4_q22",
+      "text": "Which of these is used to extinguish fires involving electrical wiring?",
+      "options": ["Water", "Dry powder extinguisher", "Sand", "Oxygen tank"],
+      "correctIndex": 1,
+      "explanation": "Dry powder and CO2 are non-conductors.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s4_q23",
+      "text": "The head of a safety match contains:",
+      "options": ["Antimony trisulphide", "Potassium chlorate", "Red phosphorus", "Both A and B"],
+      "correctIndex": 3,
+      "explanation": "The rubbing surface contains red phosphorus, which converts to white and ignites the head.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s4_q24",
+      "text": "When a person's clothes catch fire, the person is covered with a blanket to:",
+      "options": ["Keep him warm", "Cut off air supply", "Increase the fire", "Hide the fire"],
+      "correctIndex": 1,
+      "explanation": "Smothering the fire with a blanket prevents oxygen from reaching the combustible material.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s4_q25",
+      "text": "Burning of wood and coal causes ________ of air.",
+      "options": ["Purification", "Pollution", "Moisture", "Saturation"],
+      "correctIndex": 1,
+      "explanation": "They release unburnt carbon particles and gases like CO and CO2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s4_q26",
+      "text": "Which of the following fuels has the lowest calorific value?",
+      "options": ["Cow dung cake", "Wood", "Coal", "Petrol"],
+      "correctIndex": 0,
+      "explanation": "Cow dung cake has a calorific value of 6000-8000 kJ/kg.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s4_q27",
+      "text": "Combustion is a ________ reaction.",
+      "options": ["Physical", "Endothermic", "Exothermic", "Reversible"],
+      "correctIndex": 2,
+      "explanation": "It is a chemical reaction that releases energy in the form of heat.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s4_q28",
+      "text": "Sun produces heat and light by:",
+      "options": ["Combustion", "Nuclear reactions", "Friction", "Electrical energy"],
+      "correctIndex": 1,
+      "explanation": "Heat and light in the sun are produced by nuclear fusion, not chemical combustion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s4_q29",
+      "text": "If 4.5 kg of a fuel is completely burnt and produces 1,80,000 kJ of heat, what is its calorific value?",
+      "options": ["40,000 kJ/kg", "45,000 kJ/kg", "1,80,000 kJ/kg", "90,000 kJ/kg"],
+      "correctIndex": 0,
+      "explanation": "1,80,000 / 4.5 = 40,000 kJ/kg.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s4_q30",
+      "text": "The middle zone of a candle flame is ________ in color.",
+      "options": ["Blue", "Yellow", "Black", "Colorless"],
+      "correctIndex": 1,
+      "explanation": "The yellow color comes from the glow of unburnt carbon particles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s4_q31",
+      "text": "LPG is stored in cylinders in ________ state.",
+      "options": ["Gaseous", "Liquid", "Solid", "Plasma"],
+      "correctIndex": 1,
+      "explanation": "It is liquefied under pressure for storage.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s4_q32",
+      "text": "In a fire triangle, what happens if heat is removed?",
+      "options": ["Fire increases", "Fire stops", "Fire changes color", "Nothing"],
+      "correctIndex": 1,
+      "explanation": "Removing heat lowers the temperature below the ignition point, stopping the fire.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s4_q33",
+      "text": "Which of these is not a fossil fuel used for combustion?",
+      "options": ["Coal", "Natural Gas", "Biogas", "Petroleum"],
+      "correctIndex": 2,
+      "explanation": "Biogas is a renewable fuel obtained from waste, not a fossil fuel.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s4_q34",
+      "text": "Rusting of iron is a form of:",
+      "options": ["Rapid combustion", "Slow combustion", "Spontaneous combustion", "Explosion"],
+      "correctIndex": 1,
+      "explanation": "It is a very slow chemical reaction with oxygen that releases heat at an imperceptible rate.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s4_q35",
+      "text": "A good fuel is one which is:",
+      "options": ["Cheap and readily available", "Easy to transport", "Has high calorific value", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "These are all characteristics of an ideal fuel.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s4_q36",
+      "text": "Matchstick starts burning only when rubbed on the side of the box due to:",
+      "options": ["Friction", "Heat produced by friction", "Chemicals mixing", "Both A and B"],
+      "correctIndex": 3,
+      "explanation": "Friction produces the initial heat required to reach the ignition temperature.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s4_q37",
+      "text": "Forest fires are often caused by:",
+      "options": ["Heat of the sun", "Lightning strikes", "Carelessness of humans", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Multiple factors can trigger forest fires, especially in dry seasons.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_s4_q38",
+      "text": "The partial combustion in the middle zone produces ________.",
+      "options": ["CO2", "Carbon particles and CO", "Water only", "None"],
+      "correctIndex": 1,
+      "explanation": "Incomplete combustion leaves unburnt carbon particles.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_s4_q39",
+      "text": "Global warming affects:",
+      "options": ["Melting of glaciers", "Sea level", "Weather patterns", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Rising average temperatures have global environmental consequences.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_s4_q40",
+      "text": "Water cannot be used to put out a fire in:",
+      "options": ["Wood", "Paper", "Electrical wires", "Cloth"],
+      "correctIndex": 2,
+      "explanation": "Water is a conductor of electricity and can cause electric shocks to the extinguisher.",
+      "frequencyRating": 5
+    }
+  ]
+}

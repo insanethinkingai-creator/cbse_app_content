@@ -8,83 +8,323 @@
   "questions": [
     {
       "id": "g7_e2_q1",
-      "text": "What was the name of the secret kitten found by Ravi and Meena?",
-      "options": ["Mahendran", "Kitty", "Sheru", "Mridu"],
-      "correctIndex": 0,
-      "explanation": "Ravi named the kitten Mahendra-varma Pallava Poonai (Mahendran for short).",
-      "frequencyRating": 3
+      "text": "Who is the main character who visits her aunt's house in the story?",
+      "options": ["Lalli", "Mridu", "Meena", "Ravi"],
+      "correctIndex": 1,
+      "explanation": "Mridu is a young girl living with her grandmother Tapi and grandfather Thatha in Chennai.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_e2_q2",
-      "text": "How did Ravi get milk for the kitten?",
-      "options": ["From the market", "By tricking Paati", "He stole it from the neighbor", "The kitten drank water instead"],
+      "text": "What did Ravi show Mridu in the backyard?",
+      "options": ["A new toy", "A hidden kitten", "A treasure chest", "A music book"],
       "correctIndex": 1,
-      "explanation": "Ravi told Paati he was hungry and drank most of the milk to prove it, saving some for the cat.",
-      "frequencyRating": 4
+      "explanation": "Ravi and Meena found a kitten outside the gate that morning and kept it hidden in the backyard.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_e2_q3",
-      "text": "Lalli was learning to play which musical instrument?",
-      "options": ["Sitar", "Guitar", "Violin", "Flute"],
-      "correctIndex": 2,
-      "explanation": "Lalli was taking lessons from a music master to play the violin.",
+      "text": "What was the name Ravi gave to the kitten?",
+      "options": ["Tiger", "Mahendran", "Kitty", "Simba"],
+      "correctIndex": 1,
+      "explanation": "The full name Ravi gave was Mahendravarma Pallava Poonai (M.P. Poonai for short).",
       "frequencyRating": 5
     },
     {
       "id": "g7_e2_q4",
-      "text": "Who was sitting on the doorstep when the children looked out?",
-      "options": ["A beggar", "The music master", "Rukku Mani", "Tapi"],
-      "correctIndex": 0,
-      "explanation": "A beggar had been coming to the house for a week and was resting under the neem tree.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g7_e2_q5",
-      "text": "Why did the children want to give the beggar a pair of chappals?",
-      "options": ["His chappals were stolen", "His feet were blistered from the hot road", "They didn't like his old ones", "It was a gift for his birthday"],
+      "text": "Ravi claimed that the kitten was a descendant of the:",
+      "options": ["Royal Bengal Tiger", "Rishi-Cat of the Mahabalipuram Pallavas", "Egyptian Sphinx", "Persian Longhair"],
       "correctIndex": 1,
-      "explanation": "The summer heat had made the road very hot, and the beggar had no footwear, causing blisters.",
+      "explanation": "Ravi used his imagination to create a royal and ancient lineage for the simple kitten.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_e2_q6",
-      "text": "Whose chappals did the children finally give to the beggar?",
-      "options": ["Ravi's", "The music master's", "Gopu Mama's", "Paati's"],
+      "id": "g7_e2_q5",
+      "text": "Why did Ravi have to drink most of the milk he brought for the kitten?",
+      "options": ["He was hungry", "To prove to Paati that he wasn't feeding anything else", "The kitten didn't like milk", "It was a game"],
       "correctIndex": 1,
-      "explanation": "The children found a pair of old-looking, sturdy chappals in the verandah which belonged to the music master.",
+      "explanation": "Paati saw him with the tumbler, so he had to pretend it was for himself to keep the kitten a secret.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e2_q6",
+      "text": "What was the strange 'kreeching' sound Mridu heard?",
+      "options": ["A bird", "A car braking", "Lalli learning the violin", "The kitten crying"],
+      "correctIndex": 2,
+      "explanation": "Lalli was taking music lessons from a master and was struggling to play properly.",
       "frequencyRating": 5
     },
     {
       "id": "g7_e2_q7",
-      "text": "What did the music master call the children after his chappals went missing?",
-      "options": ["Naughty monkeys", "Little angels", "Smart kids", "Brave souls"],
-      "correctIndex": 0,
-      "explanation": "He was very angry and compared them to 'monkeys', specifically Hanuman's incarnations.",
-      "frequencyRating": 3
+      "text": "How did the music master look?",
+      "options": ["Young and handsome", "Bony figure with a bald head and a fringe of oiled black hair", "Tall and muscular", "He was wearing a mask"],
+      "correctIndex": 1,
+      "explanation": "The story provides a detailed and somewhat humorous description of the master's physical appearance.",
+      "frequencyRating": 4
     },
     {
       "id": "g7_e2_q8",
-      "text": "To compensate the music master, Rukku Mani gave him:",
-      "options": ["Money", "New shoes from the shop", "Gopu Mama's new chappals", "A new violin"],
-      "correctIndex": 2,
-      "explanation": "She gave him Gopu Mama's brand new chappals that he hardly ever wore.",
+      "text": "The music master's notes seemed to float up and settle into the visible tracks of the:",
+      "options": ["Road", "Melody", "Train", "Violin"],
+      "correctIndex": 1,
+      "explanation": "The master's playing was perfect, unlike Lalli's 'derailing' attempts.",
       "frequencyRating": 4
     },
     {
       "id": "g7_e2_q9",
-      "text": "Rukku Mani laughed at the end because:",
-      "options": ["She found the old chappals", "She imagined Gopu Mama's reaction when he returned", "The beggar was funny", "The kitten did something silly"],
+      "text": "Who was the 'venerable' guest who visited the garden every day for a week?",
+      "options": ["The music master", "The beggar", "Thatha", "A neighbor"],
       "correctIndex": 1,
-      "explanation": "She wondered what she would tell Gopu Mama when he asked for his chappals after coming home.",
-      "frequencyRating": 3
+      "explanation": "A beggar had been coming to the house regularly, but Rukku Manni wanted him to find another house.",
+      "frequencyRating": 5
     },
     {
       "id": "g7_e2_q10",
-      "text": "The theme of the story 'A Gift of Chappals' is:",
-      "options": ["Music is life", "Kindness and generosity of children", "Cats are great pets", "Ancient history"],
+      "text": "The beggar showed his feet to the children. What did they see?",
+      "options": ["Clean skin", "Pink peeling blisters on the soles of his bare feet", "Shoes", "Mud"],
       "correctIndex": 1,
-      "explanation": "The story highlights the innocent and empathetic nature of children who try to help a beggar.",
+      "explanation": "The hot tar road had burnt his bare feet, causing painful blisters.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e2_q11",
+      "text": "Why did the children decide to give the beggar a gift?",
+      "options": ["It was his birthday", "Out of pity for his blistered feet", "He asked for it", "Rukku Manni told them to"],
+      "correctIndex": 1,
+      "explanation": "They felt he needed chappals to walk on the burning hot road.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e2_q12",
+      "text": "Whose chappals did the children finally give to the beggar?",
+      "options": ["Ravi's", "The music master's", "Rukku Manni's", "Thatha's"],
+      "correctIndex": 1,
+      "explanation": "The children found a pair of old-looking, dusty chappals in the veranda and gave them away.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e2_q13",
+      "text": "What was the music master's reaction when he couldn't find his chappals?",
+      "options": ["He didn't care", "He was upset and called them brand new", "He laughed", "He gave Lalli new ones"],
+      "correctIndex": 1,
+      "explanation": "He claimed they were expensive and new, although the children saw them as old and grey.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e2_q14",
+      "text": "Who did Rukku Manni suspect had taken the chappals initially?",
+      "options": ["The beggar", "The children", "Lalli", "The servants"],
+      "correctIndex": 1,
+      "explanation": "She saw the children's guilty faces and realized they were involved.",
       "frequencyRating": 4
+    },
+    {
+      "id": "g7_e2_q15",
+      "text": "To solve the problem, Rukku Manni gave the music master ________ chappals.",
+      "options": ["Thatha's", "Gopu Mama's hardly worn", "Ravi's", "Her own"],
+      "correctIndex": 1,
+      "explanation": "She gave him Gopu Mama's relatively new chappals as a replacement.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e2_q16",
+      "text": "How did the music master feel about the replacement chappals?",
+      "options": ["He hated them", "He was very happy but tried to hide it", "He refused them", "He gave them to Lalli"],
+      "correctIndex": 1,
+      "explanation": "His eyes lit up because they were better than his old ones, but he pretended they were just 'alright'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e2_q17",
+      "text": "Rukku Manni laughed at the end because she wondered what ________ would say when he came home.",
+      "options": ["Thatha", "Gopu Mama", "The music master", "The beggar"],
+      "correctIndex": 1,
+      "explanation": "Gopu Mama was in the habit of taking off his shoes and putting on chappals immediately after coming home.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e2_q18",
+      "text": "The theme of the story 'A Gift of Chappals' is:",
+      "options": ["Children's greed", "Innocent generosity and the contrast between adult and child perspectives", "Music education", "Animal rights"],
+      "correctIndex": 1,
+      "explanation": "It highlights how children act on pure compassion, sometimes confusing adults.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e2_q19",
+      "text": "The word 'scrawny' used for Lalli's neck means:",
+      "options": ["Strong", "Thin and bony", "Fat", "Long"],
+      "correctIndex": 1,
+      "explanation": "It is used to describe her lean physical appearance while playing the violin.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e2_q20",
+      "text": "Which city is the story set in?",
+      "options": ["Delhi", "Madras (Chennai)", "Mumbai", "Kolkata"],
+      "correctIndex": 1,
+      "explanation": "Mridu lives with her grandparents in Madras.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e2_q21",
+      "text": "Ravi compared the music master's violin playing to a ________ going smoothly on tracks.",
+      "options": ["Car", "Train", "Bicycle", "Boat"],
+      "correctIndex": 1,
+      "explanation": "He contrasted the master's smooth melody with Lalli's erratic playing.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e2_q22",
+      "text": "Where was the kitten keeping itself hidden?",
+      "options": ["Under a bed", "In a torn football lined with sacking", "In a tree", "In the kitchen"],
+      "correctIndex": 1,
+      "explanation": "They found a clever hiding spot in the backyard inside an old football.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e2_q23",
+      "text": "What was the music master wearing on his finger?",
+      "options": ["A silver ring", "A diamond ring", "A gold ring", "Nothing"],
+      "correctIndex": 2,
+      "explanation": "A gold ring glinted on his hand as his fingers moved up and down the violin.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e2_q24",
+      "text": "The beggar had been leaning against a ________ tree in the garden.",
+      "options": ["Mango", "Neem", "Peepal", "Banyan"],
+      "correctIndex": 1,
+      "explanation": "He made himself at home under the neem tree before being asked to leave.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e2_q25",
+      "text": "What did the beggar do after receiving the music master's chappals?",
+      "options": ["He threw them away", "He pushed his feet into them and vanished quickly", "He tried to sell them", "He gave them back"],
+      "correctIndex": 1,
+      "explanation": "He left hurriedly before anyone could change their mind or realize whose they were.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e2_q26",
+      "text": "Who is the author of 'A Gift of Chappals'?",
+      "options": ["Ruskin Bond", "Vasantha Surya", "R.K. Narayan", "Anita Desai"],
+      "correctIndex": 1,
+      "explanation": "Vasantha Surya is the writer of this story, originally from 'Mridu in Madras'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e2_q27",
+      "text": "Rukku Manni's initial reaction to the children giving away the chappals was:",
+      "options": ["Happiness", "Anger and shock", "Indifference", "Laughter"],
+      "correctIndex": 1,
+      "explanation": "She was cross because they gave away someone else's property without asking.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e2_q28",
+      "text": "Ravi defended his action by comparing himself to ________ who gave his own skin.",
+      "options": ["Arjuna", "Karna", "Bheema", "Krishna"],
+      "correctIndex": 1,
+      "explanation": "Ravi cited the legend of Karna's generosity to justify giving away the chappals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e2_q29",
+      "text": "The music master's chappals were described by him as ________.",
+      "options": ["Old and dirty", "Brand new and costly", "Small", "Borrowed"],
+      "correctIndex": 1,
+      "explanation": "He wanted to emphasize the loss to get a good replacement or compensation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e2_q30",
+      "text": "Which of these words describes Lalli's violin playing?",
+      "options": ["Harmonious", "Derailing", "Professional", "Quiet"],
+      "correctIndex": 1,
+      "explanation": "The story uses the word 'derailing' to show how badly she was playing.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e2_q31",
+      "text": "Ravi complained that it is hard to be ________ to animals because elders always scream.",
+      "options": ["Cruel", "Kind", "Indifferent", "Loud"],
+      "correctIndex": 1,
+      "explanation": "He felt a conflict between what elders teach (be kind) and how they act (don't bring animals inside).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e2_q32",
+      "text": "Mridu's grandmother's name is:",
+      "options": ["Tapi", "Paati", "Both A and B", "Neither A nor B"],
+      "correctIndex": 2,
+      "explanation": "Tapi is the name, and Paati is the Tamil word for grandmother.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e2_q33",
+      "text": "The music master had a 'bone-deep' look, meaning he was very ________.",
+      "options": ["Tall", "Thin", "Strong", "Old"],
+      "correctIndex": 1,
+      "explanation": "It emphasizes his lanky and skinny physical frame.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e2_q34",
+      "text": "The children's 'gift' to the beggar caused a ________ in the household.",
+      "options": ["Celebration", "Commotion/problem", "Silence", "Feast"],
+      "correctIndex": 1,
+      "explanation": "It led to a search for the missing chappals and tension with the music master.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e2_q35",
+      "text": "What does the word 'venerable' mean?",
+      "options": ["Worthy of great respect", "Dishonest", "Young", "Noisy"],
+      "correctIndex": 0,
+      "explanation": "It is often used for something old and respected (used ironically for the beggar's 'tenure' at the house).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e2_q36",
+      "text": "The Pallava emblem Ravi mentioned was a ________.",
+      "options": ["Tiger", "Lion", "Elephant", "Eagle"],
+      "correctIndex": 1,
+      "explanation": "Ravi linked the kitten's appearance to the lion emblem of the ancient Pallava kings.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e2_q37",
+      "text": "Why did the music master say 'My chappals were brand new'?",
+      "options": ["They were made of gold", "To increase their value in the eyes of others", "He was telling the truth", "He wanted to show off"],
+      "correctIndex": 1,
+      "explanation": "He was being dishonest to make his loss seem much greater than it was.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e2_q38",
+      "text": "Gopu Mama usually ________ as soon as he comes home.",
+      "options": ["Goes to sleep", "Throws off his shoes and socks", "Plays the violin", "Eats"],
+      "correctIndex": 1,
+      "explanation": "This habit made Rukku Manni realize he would immediately miss his chappals.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e2_q39",
+      "text": "The beggar blessed the children for their:",
+      "options": ["Money", "Chappals", "Food", "Song"],
+      "correctIndex": 1,
+      "explanation": "The chappals were the most valuable thing they could have given him in that heat.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e2_q40",
+      "text": "At the end, Rukku Manni felt that Gopu Mama would be ________ with her decision.",
+      "options": ["Happy", "Upset/Angry", "Grateful", "Ignorant"],
+      "correctIndex": 1,
+      "explanation": "She knew she would have to face his reaction for giving his chappals to the music master.",
+      "frequencyRating": 5
     }
   ]
 }

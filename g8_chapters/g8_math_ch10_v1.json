@@ -1,1 +1,330 @@
-{"id":"g8_math_ch10","grade":"8","subject":"Mathematics","number":"10","title":"Exponents and Powers","version":"v1","questions":[{"id":"g8_m10_q1","text":"a^m * a^n =","options":["a^(m+n)","a^(m-n)","a^0","a^(mn)"],"correctIndex":0,"explanation":"Law 1.","frequencyRating":5},{"id":"g8_m10_q2","text":"a^m / a^n =","options":["a^(m-n)","a^(m+n)","a^0","1"],"correctIndex":0,"explanation":"Law 2.","frequencyRating":5},{"id":"g8_m10_q3","text":"(a^m)^n =","options":["a^(mn)","a^(m+n)","a^m","n^m"],"correctIndex":0,"explanation":"Law 3.","frequencyRating":5},{"id":"g8_m10_q4","text":"a^0 =","options":["1","0","a","Undefined"],"correctIndex":0,"explanation":"Any non zero^0=1.","frequencyRating":5},{"id":"g8_m10_q5","text":"1/n =","options":["n^(-1)","1^n","n^1","0"],"correctIndex":0,"explanation":"Negative.","frequencyRating":5},{"id":"g8_m10_q6","text":"2^3 *2^2 =","options":["2^5=32","2^1","8","4"],"correctIndex":0,"explanation":"32.","frequencyRating":5},{"id":"g8_m10_q7","text":"(3^2)^3 =","options":["3^6=729","9^3","27","3^5"],"correctIndex":0,"explanation":"729.","frequencyRating":5},{"id":"g8_m10_q8","text":"10^0 =","options":["1","10","0","100"],"correctIndex":0,"explanation":"1.","frequencyRating":5},{"id":"g8_m10_q9","text":"5^(-2) =","options":["1/25","25","1/5","5"],"correctIndex":0,"explanation":"1/25.","frequencyRating":5},{"id":"g8_m10_q10","text":"Scientific notation 2300 =","options":["2.3*10^3","23*10^2","2.3*10^2","23*10"],"correctIndex":0,"explanation":"Between 1-10 *10^k.","frequencyRating":5},{"id":"g8_m10_q11","text":"0.0078 =","options":["7.8*10^(-3)","78*10^(-4)","0.78*10^(-2)","7.8*10^(-2)"],"correctIndex":0,"explanation":"7.8*10^-3.","frequencyRating":5},{"id":"g8_m10_q12","text":"Very large numbers:","options":["Scientific notation useful","Write full","No","Decimal"],"correctIndex":0,"explanation":"Astronomy.","frequencyRating":4},{"id":"g8_m10_q13","text":"a^1 =","options":["a","1","0","a^0"],"correctIndex":0,"explanation":"Law.","frequencyRating":5},{"id":"g8_m10_q14","text":"(2/3)^2 =","options":["4/9","9/4","2/9","No"],"correctIndex":0,"explanation":"4/9.","frequencyRating":5},{"id":"g8_m10_q15","text":"Negative exponent a^-m =","options":["1/a^m","a^m","0","Negative"],"correctIndex":0,"explanation":"Law.","frequencyRating":5},{"id":"g8_m10_q16","text":"Laws for decimal to scientific:","options":["Move decimal","Yes","No","Always"],"correctIndex":0,"explanation":"Powers 10.","frequencyRating":5},{"id":"g8_m10_q17","text":"6700 =","options":["6.7*10^3","67*10^2","6.7*10^2","670*10"],"correctIndex":0,"explanation":"6.7*10^3.","frequencyRating":5},{"id":"g8_m10_q18","text":"0.00036 =","options":["3.6*10^(-4)","36*10^(-5)","3.6*10^-3","No"],"correctIndex":0,"explanation":"3.6*10^-4.","frequencyRating":5},{"id":"g8_m10_q19","text":"(10^4)*(10^3) =","options":["10^7","10","10000","1000"],"correctIndex":0,"explanation":"10^7.","frequencyRating":5},{"id":"g8_m10_q20","text":"Law numbers (a^m)(b^m) =","options":["(ab)^m","ab^m","a^m b","No"],"correctIndex":0,"explanation":"Yes.","frequencyRating":5},{"id":"g8_m10_q21","text":"a^m / b^m =","options":["(a/b)^m","a^m b^m","No","1"],"correctIndex":0,"explanation":"Yes.","frequencyRating":5},{"id":"g8_m10_q22","text":"(a/b)^m =","options":["a^m / b^m","b^m / a^m","No","a b"],"correctIndex":0,"explanation":"Yes.","frequencyRating":5},{"id":"g8_m10_q23","text":"Scientific 5.6*10^4 =","options":["56000","5600","56","560"],"correctIndex":0,"explanation":"56000.","frequencyRating":5},{"id":"g8_m10_q24","text":"Laws for roots a^(1/2) square root.","options":["Negative exponent fractional","Yes","No","Integer only"],"correctIndex":0,"explanation":"Advanced.","frequencyRating":4},{"id":"g8_m10_q25","text":"2^10 =","options":["1024","1000","2048","512"],"correctIndex":0,"explanation":"1024.","frequencyRating":4},{"id":"g8_m10_q26","text":"10^(-3) =","options":["0.001","0.01","0.1","1"],"correctIndex":0,"explanation":"0.001.","frequencyRating":5},{"id":"g8_m10_q27","text":"Large 5.02*10^12 atoms:","options":["Scientific","Full number","No","Decimal"],"correctIndex":0,"explanation":"Useful.","frequencyRating":5},{"id":"g8_m10_q28","text":"a^3 * a^(-1) =","options":["a^2","a","1","a^4"],"correctIndex":0,"explanation":"3-1=2.","frequencyRating":5},{"id":"g8_m10_q29","text":"(4^2)^3 =","options":["4^6","16^3","4096","64"],"correctIndex":0,"explanation":"4^6.","frequencyRating":5},{"id":"g8_m10_q30","text":"Scientific 0.0000789 =","options":["7.89*10^-5","78.9*10^-6","7.89*10^ -4","No"],"correctIndex":0,"explanation":"7.89*10^-5.","frequencyRating":5},{"id":"g8_m10_q31","text":"Exponent law numbers (2*3)^2 =","options":["36","6^2=36","12","4*9"],"correctIndex":1,"explanation":"Same.","frequencyRating":5},{"id":"g8_m10_q32","text":"1^any =","options":["1","0","Any","No"],"correctIndex":0,"explanation":"Yes.","frequencyRating":5},{"id":"g8_m10_q33","text":"Fraction 1/8 =","options":["8^-1","2^-3","Both","No"],"correctIndex":2,"explanation":"Yes.","frequencyRating":4},{"id":"g8_m10_q34","text":"Very small bacteria 2*10^-6 m:","options":["Scientific","Full","No","Large"],"correctIndex":0,"explanation":"Microns.","frequencyRating":5},{"id":"g8_m10_q35","text":"3^4 =81, 3^(-4) =","options":["1/81","81","1/3","3"],"correctIndex":0,"explanation":"1/81.","frequencyRating":5},{"id":"g8_m10_q36","text":"Law (a/b)^(-n) =","options":["(b/a)^n","a^n / b^n","(b/a)^(-n)","No"],"correctIndex":0,"explanation":"Yes.","frequencyRating":4},{"id":"g8_m10_q37","text":"Scientific 1230000 =","options":["1.23*10^6","12.3*10^5","1.23*10^5","123*10^4"],"correctIndex":0,"explanation":"1.23*10^6.","frequencyRating":5},{"id":"g8_m10_q38","text":"Distance stars light years 4*10^12 km:","options":["Scientific","Yes","Full number","No"],"correctIndex":0,"explanation":"Large.","frequencyRating":5},{"id":"g8_m10_q39","text":"a^ m + n ≠","options":["a^m * a^n","Sum","No","Product"],"correctIndex":1,"explanation":"No sum law.","frequencyRating":5},{"id":"g8_m10_q40","text":"2^-3 =","options":["1/8","8","1/2","2"],"correctIndex":0,"explanation":"1/8.","frequencyRating":5}]}
+{
+  "id": "g8_math_ch10",
+  "grade": "8",
+  "subject": "Mathematics",
+  "number": "10",
+  "title": "Exponents and Powers",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_m10_q1",
+      "text": "The value of 2^-3 is:",
+      "options": ["-8", "1/8", "8", "-1/8"],
+      "correctIndex": 1,
+      "explanation": "a^-n = 1/a^n. So, 2^-3 = 1/2^3 = 1/8.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m10_q2",
+      "text": "What is the value of (-3)^-4?",
+      "options": ["-81", "1/81", "81", "-1/81"],
+      "correctIndex": 1,
+      "explanation": "1 / (-3)^4 = 1/81.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m10_q3",
+      "text": "Simplify: 3^2 * 3^5.",
+      "options": ["3^10", "3^7", "9^7", "3^3"],
+      "correctIndex": 1,
+      "explanation": "a^m * a^n = a^(m+n). 3^(2+5) = 3^7.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m10_q4",
+      "text": "Simplify: 5^8 / 5^3.",
+      "options": ["5^11", "5^5", "5^24", "1^5"],
+      "correctIndex": 1,
+      "explanation": "a^m / a^n = a^(m-n). 5^(8-3) = 5^5.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m10_q5",
+      "text": "The value of (2^3)^2 is:",
+      "options": ["2^5", "2^6", "2^9", "2^1"],
+      "correctIndex": 1,
+      "explanation": "(a^m)^n = a^(mn). 2^(3*2) = 2^6.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m10_q6",
+      "text": "The value of a^0 is always ________ (where a ≠ 0).",
+      "options": ["0", "a", "1", "-1"],
+      "correctIndex": 2,
+      "explanation": "Any non-zero base raised to the power of zero is 1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m10_q7",
+      "text": "Simplify: (2/3)^-2.",
+      "options": ["4/9", "9/4", "-4/9", "-9/4"],
+      "correctIndex": 1,
+      "explanation": "(a/b)^-n = (b/a)^n. (3/2)^2 = 9/4.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m10_q8",
+      "text": "What is the standard form of 0.000007?",
+      "options": ["7 * 10^-6", "7 * 10^6", "0.7 * 10^-5", "7 * 10^-7"],
+      "correctIndex": 0,
+      "explanation": "Move decimal 6 places to the right.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m10_q9",
+      "text": "What is the standard form of 12340000?",
+      "options": ["1.234 * 10^7", "1.234 * 10^4", "12.34 * 10^6", "1.234 * 10^-7"],
+      "correctIndex": 0,
+      "explanation": "Move decimal 7 places to the left.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m10_q10",
+      "text": "The multiplicative inverse of 10^-10 is:",
+      "options": ["10^10", "1/10^10", "-10^10", "10"],
+      "correctIndex": 0,
+      "explanation": "10^-10 * 10^10 = 10^0 = 1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m10_q11",
+      "text": "Value of (1/2)^-5 is:",
+      "options": ["32", "1/32", "-32", "-1/32"],
+      "correctIndex": 0,
+      "explanation": "2^5 = 32.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m10_q12",
+      "text": "Simplify: (-4)^5 * (-4)^-10.",
+      "options": ["(-4)^15", "(-4)^-5", "4^5", "1/(-4)^-5"],
+      "correctIndex": 1,
+      "explanation": "(-4)^(5-10) = (-4)^-5.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m10_q13",
+      "text": "Which is greater: 2^3 or 3^2?",
+      "options": ["2^3", "3^2", "Both are equal", "Cannot compare"],
+      "correctIndex": 1,
+      "explanation": "2^3 = 8, 3^2 = 9. So 9 > 8.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m10_q14",
+      "text": "Simplify: (3^-7 / 3^-10) * 3^-5.",
+      "options": ["3^2", "3^-2", "3^8", "3^-8"],
+      "correctIndex": 1,
+      "explanation": "3^(-7 - (-10)) * 3^-5 = 3^3 * 3^-5 = 3^(3-5) = 3^-2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m10_q15",
+      "text": "Value of (5^-1 * 2^-1) * 6^-1 is:",
+      "options": ["1/30", "1/60", "60", "30"],
+      "correctIndex": 1,
+      "explanation": "(1/5 * 1/2) * 1/6 = 1/10 * 1/6 = 1/60.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m10_q16",
+      "text": "Find the value of m for which 5^m / 5^-3 = 5^5.",
+      "options": ["2", "8", "-2", "1"],
+      "correctIndex": 0,
+      "explanation": "m - (-3) = 5 => m + 3 = 5 => m = 2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m10_q17",
+      "text": "Express 4^-3 as a power with base 2.",
+      "options": ["2^-6", "2^-3", "2^-9", "2^6"],
+      "correctIndex": 0,
+      "explanation": "(2^2)^-3 = 2^-6.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m10_q18",
+      "text": "Value of (3^0 + 4^-1) * 2^2 is:",
+      "options": ["5", "2", "4", "1"],
+      "correctIndex": 0,
+      "explanation": "(1 + 1/4) * 4 = (5/4) * 4 = 5.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m10_q19",
+      "text": "Simplify: (8^-1 * 5^3) / 2^-4.",
+      "options": ["250", "125", "500", "1000"],
+      "correctIndex": 0,
+      "explanation": "(1/8 * 125) / (1/16) = (125/8) * 16 = 125 * 2 = 250.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m10_q20",
+      "text": "Write 3.61492 * 10^6 in usual form.",
+      "options": ["3614920", "36149.2", "361492", "0.00000361492"],
+      "correctIndex": 0,
+      "explanation": "Move decimal 6 places to the right.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m10_q21",
+      "text": "The value of (1/3^-2 - 1/2^-3) / 1/4^-2 is:",
+      "options": ["1/16", "1", "16", "0"],
+      "correctIndex": 0,
+      "explanation": "(3^2 - 2^3) / 4^2 = (9 - 8) / 16 = 1/16.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g8_m10_q22",
+      "text": "What is the standard form of 0.0000000000085?",
+      "options": ["8.5 * 10^-12", "85 * 10^-13", "8.5 * 10^-11", "0.85 * 10^-11"],
+      "correctIndex": 0,
+      "explanation": "Move decimal 12 places to the right.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m10_q23",
+      "text": "Calculate: (2^0 + 3^0 + 4^0)^0.",
+      "options": ["1", "3", "0", "12"],
+      "correctIndex": 0,
+      "explanation": "(1 + 1 + 1)^0 = 3^0 = 1.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m10_q24",
+      "text": "If (2/5)^m * (2/5)^3 = (2/5)^2, then m is:",
+      "options": ["1", "-1", "5", "-5"],
+      "correctIndex": 1,
+      "explanation": "m + 3 = 2 => m = -1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m10_q25",
+      "text": "Law (ab)^n = ________.",
+      "options": ["a^n * b^n", "a^n + b^n", "a * b^n", "n * ab"],
+      "correctIndex": 0,
+      "explanation": "Power of a product rule.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m10_q26",
+      "text": "Write 0.000035 in standard form.",
+      "options": ["3.5 * 10^-5", "3.5 * 10^-4", "35 * 10^-6", "0.35 * 10^-4"],
+      "correctIndex": 0,
+      "explanation": "Move decimal 5 places to the right.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m10_q27",
+      "text": "Usual form of 3 * 10^-5 is:",
+      "options": ["0.00003", "0.0003", "0.000003", "300000"],
+      "correctIndex": 0,
+      "explanation": "Move decimal 5 places to the left.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m10_q28",
+      "text": "Simplify: [(1/3)^-1 - (1/4)^-1]^-1.",
+      "options": ["-1", "1", "7", "1/7"],
+      "correctIndex": 0,
+      "explanation": "(3 - 4)^-1 = (-1)^-1 = -1.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m10_q29",
+      "text": "The reciprocal of (2/3)^4 is:",
+      "options": ["(3/2)^4", "(2/3)^-4", "Both A and B", "None"],
+      "correctIndex": 2,
+      "explanation": "Reciprocal is 1 / (2/3)^4 = (3/2)^4. Also (2/3)^-4 is the same.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m10_q30",
+      "text": "Size of a plant cell is 0.00001275 m. Express in standard form.",
+      "options": ["1.275 * 10^-5 m", "12.75 * 10^-6 m", "1.275 * 10^5 m", "0.1275 * 10^-4 m"],
+      "correctIndex": 0,
+      "explanation": "Move decimal 5 places to the right.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m10_q31",
+      "text": "Calculate: (1/3)^-2 + (1/2)^-2 + (1/4)^-2.",
+      "options": ["29", "9", "4", "16"],
+      "correctIndex": 0,
+      "explanation": "3^2 + 2^2 + 4^2 = 9 + 4 + 16 = 29.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m10_q32",
+      "text": "Simplify: 25 * t^-4 / (5^-3 * 10 * t^-8).",
+      "options": ["625t^4 / 2", "5^5t^4 / 2", "Both A and B", "125t^4"],
+      "correctIndex": 2,
+      "explanation": "(5^2 * 5^3 * t^8) / (10 * t^4) = (5^5 * t^4) / 10 = (3125 * t^4) / 10 = 312.5t^4 = 625t^4 / 2.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g8_m10_q33",
+      "text": "1 micron is equal to:",
+      "options": ["1/1000000 m", "10^-6 m", "Both A and B", "10^-5 m"],
+      "correctIndex": 2,
+      "explanation": "Scientific unit of length.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m10_q34",
+      "text": "Value of x if 2^x = 1/32.",
+      "options": ["5", "-5", "4", "-4"],
+      "correctIndex": 1,
+      "explanation": "2^x = 1/2^5 = 2^-5.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m10_q35",
+      "text": "Simplify: (5/8)^-7 * (8/5)^-4.",
+      "options": ["(5/8)^3", "(8/5)^3", "1", "512/125"],
+      "correctIndex": 1,
+      "explanation": "(8/5)^7 * (8/5)^-4 = (8/5)^(7-4) = (8/5)^3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m10_q36",
+      "text": "Mass of Earth is 5.97 * 10^24 kg. Mass of Moon is 7.35 * 10^22 kg. Total mass is approx:",
+      "options": ["6.04 * 10^24 kg", "1.33 * 10^23 kg", "6.7 * 10^24 kg", "5.97 * 10^22 kg"],
+      "correctIndex": 0,
+      "explanation": "597 * 10^22 + 7.35 * 10^22 = 604.35 * 10^22 = 6.0435 * 10^24.",
+      "frequencyRating": 1
+    },
+    {
+      "id": "g8_m10_q37",
+      "text": "Express 16^-2 as a power with base 2.",
+      "options": ["2^-8", "2^-4", "2^-16", "2^8"],
+      "correctIndex": 0,
+      "explanation": "(2^4)^-2 = 2^-8.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m10_q38",
+      "text": "The exponential form of 1/125 is:",
+      "options": ["5^3", "5^-3", "3^5", "3^-5"],
+      "correctIndex": 1,
+      "explanation": "125 = 5 * 5 * 5. So 1/125 = 5^-3.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m10_q39",
+      "text": "Simplify: (x^a / x^b)^(a+b) * (x^b / x^c)^(b+c) * (x^c / x^a)^(c+a).",
+      "options": ["x", "1", "0", "abc"],
+      "correctIndex": 1,
+      "explanation": "x^(a^2-b^2) * x^(b^2-c^2) * x^(c^2-a^2) = x^0 = 1.",
+      "frequencyRating": 1
+    },
+    {
+      "id": "g8_m10_q40",
+      "text": "Which law allows us to say (a/b)^n = a^n / b^n?",
+      "options": ["Power of a quotient", "Power of a product", "Negative exponent", "Zero exponent"],
+      "correctIndex": 0,
+      "explanation": "Distributing power over division.",
+      "frequencyRating": 4
+    }
+  ]
+}

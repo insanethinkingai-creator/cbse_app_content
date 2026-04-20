@@ -7,84 +7,324 @@
   "version": "v1",
   "questions": [
     {
-      "id": "g7_eng_ch5_q1",
-      "text": "What was Mr. Gessler's profession?",
-      "options": ["Watchmaker", "Shoemaker", "Tailor", "Carpenter"],
+      "id": "g7_e5_q1",
+      "text": "Who is the protagonist and skilled bootmaker in the story 'Quality'?",
+      "options": ["Mr. Gessler", "The Narrator", "A big firm owner", "An English nobleman"],
+      "correctIndex": 0,
+      "explanation": "Mr. Gessler was a German bootmaker living in London, known for his excellent craftsmanship.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e5_q2",
+      "text": "What was the distinguishing feature of the Gessler Brothers' shop?",
+      "options": ["It had bright neon lights", "It was very quiet and had no sign except their name", "It was in a crowded mall", "It sold readymade clothes"],
       "correctIndex": 1,
-      "explanation": "Mr. Gessler was a skilled bootmaker who lived with his elder brother in London.",
+      "explanation": "The shop had a quiet, respectful atmosphere, unlike modern commercial stores.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_eng_ch5_q2",
-      "text": "What was the specialty of the boots made by the Gessler brothers?",
-      "options": ["They were cheap", "They were made very quickly", "They fitted perfectly and lasted very long", "They were very colorful"],
-      "correctIndex": 2,
-      "explanation": "Their boots were made only on order and represented the highest quality of craftsmanship.",
+      "id": "g7_e5_q3",
+      "text": "According to Mr. Gessler, making boots was a/an:",
+      "options": ["Job", "Art", "Burden", "Business"],
+      "correctIndex": 1,
+      "explanation": "He viewed his work with great pride and artistic dedication.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_eng_ch5_q3",
-      "text": "Mr. Gessler considered bootmaking to be:",
-      "options": ["A burden", "Just a way to earn money", "An Art", "A simple job"],
-      "correctIndex": 2,
-      "explanation": "To him, making a boot was as much an art as any other creative profession.",
+      "id": "g7_e5_q4",
+      "text": "The boots made by Gessler were known for their:",
+      "options": ["Cheap price", "Durability and perfect fit", "Bright colors", "Short life"],
+      "correctIndex": 1,
+      "explanation": "They lasted a very long time and were made from the best leather.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e5_q5",
+      "text": "Why did the narrator not visit Gessler's shop very often?",
+      "options": ["He didn't like the boots", "The boots lasted too long", "It was too expensive", "The shop was closed"],
+      "correctIndex": 1,
+      "explanation": "The quality was so good that the boots simply did not wear out quickly.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e5_q6",
+      "text": "What did Mr. Gessler say about 'Big Firms'?",
+      "options": ["They make the best boots", "They have no self-respect and use advertisement instead of work", "They are his friends", "They help small shops"],
+      "correctIndex": 1,
+      "explanation": "He was bitter about how big companies took away work through marketing rather than quality.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e5_q7",
+      "text": "Mr. Gessler had a strong ________ accent.",
+      "options": ["French", "German", "Italian", "Spanish"],
+      "correctIndex": 1,
+      "explanation": "His speech reflected his origins, such as saying 'Id is an ard' instead of 'It is an art'.",
       "frequencyRating": 4
     },
     {
-      "id": "g7_eng_ch5_q4",
-      "text": "Why did the Gessler brothers lose their business over time?",
-      "options": ["They forgot how to make boots", "They were lazy", "Competition from big firms with large advertising budgets", "They moved to another country"],
-      "correctIndex": 2,
-      "explanation": "The big firms got business by advertisement, not by work, which hurt individual craftsmen like Gessler.",
+      "id": "g7_e5_q8",
+      "text": "What happened to the elder Gessler brother?",
+      "options": ["He retired", "He died", "He moved back to Germany", "He opened a new shop"],
+      "correctIndex": 1,
+      "explanation": "The loss of his brother deeply affected the younger Mr. Gessler.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_eng_ch5_q5",
-      "text": "What happened to the elder Mr. Gessler?",
-      "options": ["He became rich", "He died of shock after losing a part of the shop", "He retired", "He opened a new shop"],
+      "id": "g7_e5_q9",
+      "text": "How did the younger Mr. Gessler die eventually?",
+      "options": ["In an accident", "Old age", "Slow starvation", "A fever"],
+      "correctIndex": 2,
+      "explanation": "He spent all his money on rent and leather, neglecting his own food to keep the shop going.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e5_q10",
+      "text": "The narrator felt ________ when he heard about Mr. Gessler's death.",
+      "options": ["Happy", "Deeply sorry and respectful", "Indifferent", "Angry"],
       "correctIndex": 1,
-      "explanation": "The loss of half their shop to a bigger firm led to his decline and eventual death.",
+      "explanation": "He admired Gessler's commitment to quality despite the hardships.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e5_q11",
+      "text": "When the narrator once mentioned a pair of boots creaked, what was Gessler's reaction?",
+      "options": ["He got angry", "He was shocked and offered to fix or refund them", "He ignored it", "He laughed"],
+      "correctIndex": 1,
+      "explanation": "He took his reputation seriously and couldn't believe his boots could be faulty.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e5_q12",
+      "text": "The story 'Quality' is written by:",
+      "options": ["John Galsworthy", "Charles Dickens", "Oscar Wilde", "Mark Twain"],
+      "correctIndex": 0,
+      "explanation": "John Galsworthy is a famous English novelist and playwright.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e5_q13",
+      "text": "Mr. Gessler's shop was in a fashionable part of ________.",
+      "options": ["Berlin", "London (West End)", "Paris", "New York"],
+      "correctIndex": 1,
+      "explanation": "He lived and worked in the heart of London.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e5_q14",
+      "text": "Gessler used only ________ leather to make his boots.",
+      "options": ["Cheap", "Artificial", "Best/Fine", "Old"],
+      "correctIndex": 2,
+      "explanation": "Quality was his priority, so he never compromised on materials.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e5_q15",
+      "text": "The new owner of the shop told the narrator that Gessler was a:",
+      "options": ["Failure", "Character who made the best boots in London", "Lazy man", "Thief"],
+      "correctIndex": 1,
+      "explanation": "Even the competition acknowledged that Gessler was an unmatched craftsman.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e5_q16",
+      "text": "What was the main reason for Gessler's business failure?",
+      "options": ["Bad quality", "High prices", "He couldn't compete with advertising and speed of big firms", "He hated customers"],
+      "correctIndex": 2,
+      "explanation": "His slow, artisanal method couldn't survive in a fast-paced commercial world.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e5_q17",
+      "text": "The boots made by Gessler 'seemed to have the ________ of boots' in them.",
+      "options": ["Smell", "Soul", "Color", "Weight"],
+      "correctIndex": 1,
+      "explanation": "The narrator felt the boots were more than just footwear; they were a work of art.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e5_q18",
+      "text": "Mr. Gessler would often look at the leather with ________ eyes.",
+      "options": ["Tired", "Loving/Appreciative", "Angry", "Bored"],
+      "correctIndex": 1,
+      "explanation": "He truly appreciated the beauty and quality of the raw materials he used.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e5_q19",
+      "text": "The narrator ordered many pairs of boots because:",
+      "options": ["He was rich", "He wanted to help the struggling Mr. Gessler", "He lost his old ones", "He was going on a trip"],
+      "correctIndex": 1,
+      "explanation": "He felt pity for the old man's declining condition and wanted to support him.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e5_q20",
+      "text": "What does the title 'Quality' signify in the story?",
+      "options": ["The expensive price of boots", "The high standards of Gessler's work", "The quantity of boots produced", "The brand name"],
+      "correctIndex": 1,
+      "explanation": "It refers to the uncompromising excellence and integrity of the craftsman.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e5_q21",
+      "text": "When the narrator entered the shop, he felt like he was entering a ________.",
+      "options": ["Market", "Church/Temple", "Factory", "Hospital"],
+      "correctIndex": 1,
+      "explanation": "The quiet and solemn atmosphere gave the shop a sacred feeling.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e5_q22",
+      "text": "Mr. Gessler's hands were always ________ when he was working.",
+      "options": ["Clean", "Stained with leather and dye", "Wearing gloves", "Shaking"],
+      "correctIndex": 1,
+      "explanation": "His physical state showed the marks of his hard work.",
       "frequencyRating": 3
     },
     {
-      "id": "g7_eng_ch5_q6",
-      "text": "Mr. Gessler's speech had an accent from which country?",
-      "options": ["France", "Germany", "Italy", "Spain"],
+      "id": "g7_e5_q23",
+      "text": "The elder brother was often ________ with the younger one.",
+      "options": ["Angry", "Mistaken", "Fighting", "Competitive"],
       "correctIndex": 1,
-      "explanation": "His speech had the 'flavour of German-English' as seen in his pronunciation of 'Id is an Ardt'.",
+      "explanation": "The two brothers were very similar in appearance and voice.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e5_q24",
+      "text": "How many shops did the Gessler brothers have originally?",
+      "options": ["One", "Two (made into one)", "Three", "Ten"],
+      "correctIndex": 1,
+      "explanation": "The shop consisted of two small shops combined.",
       "frequencyRating": 4
     },
     {
-      "id": "g7_eng_ch5_q7",
-      "text": "The narrator felt ________ when he had to tell Mr. Gessler that a pair of boots creaked.",
-      "options": ["Happy", "Indifferent", "Terrible/Awkward", "Angry"],
-      "correctIndex": 2,
-      "explanation": "He felt guilty because he knew how much effort and soul Gessler put into every pair.",
-      "frequencyRating": 4
-    },
-    {
-      "id": "g7_eng_ch5_q8",
-      "text": "How did the younger Mr. Gessler die?",
-      "options": ["In an accident", "Old age", "Slow starvation", "A fever"],
-      "correctIndex": 2,
-      "explanation": "He put all his money into rent and leather, often skipping meals to finish his orders.",
+      "id": "g7_e5_q25",
+      "text": "The 'big firms' had no ________ according to Gessler.",
+      "options": ["Money", "Self-respect", "Workers", "Leather"],
+      "correctIndex": 1,
+      "explanation": "He believed they cared only about profit and not about the craft.",
       "frequencyRating": 5
     },
     {
-      "id": "g7_eng_ch5_q9",
-      "text": "Who took over the shop after Mr. Gessler passed away?",
-      "options": ["A relative", "A large firm", "An English young man", "The narrator"],
-      "correctIndex": 2,
-      "explanation": "When the narrator visited the shop for the last time, a new man told him that Gessler was gone.",
+      "id": "g7_e5_q26",
+      "text": "The narrator felt 'heavy-hearted' when he saw Gessler after a long time because:",
+      "options": ["Gessler was rude", "Gessler looked very old and worn out", "The boots were bad", "He had no money"],
+      "correctIndex": 1,
+      "explanation": "Gessler's aging and poverty were visible and saddening.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e5_q27",
+      "text": "Gessler would not let anyone ________ his boots.",
+      "options": ["Buy", "Touch", "Repair", "See"],
+      "correctIndex": 1,
+      "explanation": "He was very protective of his work and its quality.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e5_q28",
+      "text": "What was the final fate of the shop?",
+      "options": ["It became a big firm", "It was taken over by an Englishman", "It was burned down", "It was closed by the government"],
+      "correctIndex": 1,
+      "explanation": "After Gessler's death, another person took over the premises.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e5_q29",
+      "text": "The narrator says Gessler made boots 'by ________'.",
+      "options": ["Machine", "Hand", "Magic", "Chance"],
+      "correctIndex": 1,
+      "explanation": "Hand-made boots were the hallmark of his quality.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e5_q30",
+      "text": "Which of these words describes Gessler's life?",
+      "options": ["Luxurious", "Hard and sacrificial", "Easy", "Exciting"],
+      "correctIndex": 1,
+      "explanation": "He sacrificed his health and comfort for his art.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e5_q31",
+      "text": "Gessler's boots 'never failed to fit'. Fit here means:",
+      "options": ["Look good", "Be the right size/shape for the foot", "Be cheap", "Be loud"],
+      "correctIndex": 1,
+      "explanation": "The comfort and precision of his work were perfect.",
       "frequencyRating": 4
     },
     {
-      "id": "g7_eng_ch5_q10",
-      "text": "The title 'Quality' refers to:",
-      "options": ["The quantity of boots made", "The high price of boots", "The craftsmanship and character of Mr. Gessler", "The size of the shop"],
+      "id": "g7_e5_q32",
+      "text": "The younger brother always called his work a '________'.",
+      "options": ["Burden", "Business", "Ard (Art)", "Dream"],
       "correctIndex": 2,
-      "explanation": "The story highlights the loss of individual artistry and quality in the face of mass production.",
+      "explanation": "His German accent made 'Art' sound like 'Ard'.",
       "frequencyRating": 4
+    },
+    {
+      "id": "g7_e5_q33",
+      "text": "What was the narrator's attitude towards the big firms' boots?",
+      "options": ["He loved them", "He bought them in an emergency but didn't like the quality", "He never bought them", "He thought they were better"],
+      "correctIndex": 1,
+      "explanation": "He once entered Gessler's shop wearing big-firm boots, which prompted Gessler's bitter remarks.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e5_q34",
+      "text": "The Gessler brothers were ________ immigrants.",
+      "options": ["French", "German", "Spanish", "Russian"],
+      "correctIndex": 1,
+      "explanation": "They brought their German precision and skills to London.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g7_e5_q35",
+      "text": "How did Gessler feel about the leather he used?",
+      "options": ["It was just a material", "He had a 'divine' respect for it", "He thought it was too expensive", "He hated it"],
+      "correctIndex": 1,
+      "explanation": "He viewed the materials with a reverence that only an artist has.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g7_e5_q36",
+      "text": "The boots produced by Gessler had 'something of himself' in them. This means:",
+      "options": ["They were magical", "They showed his hard work and character", "They had his hair in them", "They were signed"],
+      "correctIndex": 1,
+      "explanation": "His dedication was reflected in the final product.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e5_q37",
+      "text": "Was Gessler a successful businessman in terms of profit?",
+      "options": ["Yes, very", "No, he died in poverty", "He was average", "He was a millionaire"],
+      "correctIndex": 1,
+      "explanation": "He was a great artist but a poor businessman in the modern sense.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e5_q38",
+      "text": "The story emphasizes the ________ of the craftsman in the industrial age.",
+      "options": ["Victory", "Struggle and disappearance", "Wealth", "Happiness"],
+      "correctIndex": 1,
+      "explanation": "It laments how traditional skills are being lost to mass production.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e5_q39",
+      "text": "Mr. Gessler spent his last days ________.",
+      "options": ["Traveling", "Working until the very end", "With his family", "In a hospital"],
+      "correctIndex": 1,
+      "explanation": "He never gave up on his work, even when he had nothing to eat.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g7_e5_q40",
+      "text": "The narrator's final tribute to Gessler was: 'He made ________ boots.'",
+      "options": ["Cheap", "Many", "Good", "Bad"],
+      "correctIndex": 2,
+      "explanation": "Simple but powerful, it summarized his life's work.",
+      "frequencyRating": 5
     }
   ]
 }

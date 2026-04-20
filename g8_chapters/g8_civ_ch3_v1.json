@@ -1,1 +1,330 @@
-{"id":"g8_civ_ch3","grade":"8","subject":"Civics","number":"3","title":"Parliament and the Making of Laws","version":"v1","questions":[{"id":"g8_c3_q1","text":"Parliament house people:","options":["Yes Lok Sabha Rajya Sabha","President","No","State"],"correctIndex":0,"explanation":"Central legislature.","frequencyRating":5},{"id":"g8_c3_q2","text":"Lok Sabha directly elected:","options":["Yes 543","Indirect","No","Appointed"],"correctIndex":0,"explanation":"5 years.","frequencyRating":5},{"id":"g8_c3_q3","text":"Rajya Sabha permanent:","options":["Yes 245 233 elected","Dissolve","No","5 years"],"correctIndex":0,"explanation":"1/3 retire.","frequencyRating":5},{"id":"g8_c3_q4","text":"President summons:","options":["Yes session prorogue","PM","No","Speaker"],"correctIndex":0,"explanation":"6 months.","frequencyRating":5},{"id":"g8_c3_q5","text":"Quorum minimum:","options":["1/10","Yes","All","Half"],"correctIndex":0,"explanation":"Present.","frequencyRating":5},{"id":"g8_c3_q6","text":"Zero hour:","options":["Questions noon","Yes","Agenda","No"],"correctIndex":0,"explanation":"Urgent matters.","frequencyRating":5},{"id":"g8_c3_q7","text":"Question hour:","options":["Yes first hour","Zero","No","End"],"correctIndex":0,"explanation":"Starred unstarred.","frequencyRating":5},{"id":"g8_c3_q8","text":"Adjournment motion:","options":["Yes discuss matter urgency","No confidence","Budget","No"],"correctIndex":0,"explanation":"Matter life.","frequencyRating":5},{"id":"g8_c3_q9","text":"Bill ordinary:","options":["Yes money other","Constitution","No","Finance"],"correctIndex":0,"explanation":"House.","frequencyRating":5},{"id":"g8_c3_q10","text":"Money bill Lok Sabha:","options":["Yes Rajya recommend","No originate","President assent","No"],"correctIndex":0,"explanation":"Article 110.","frequencyRating":5},{"id":"g8_c3_q11","text":"President assent or:","options":["Yes veto pocket return","No assent","Reject","No"],"correctIndex":0,"explanation":"14 days.","frequencyRating":5},{"id":"g8_c3_q12","text":"MP role:","options":["Yes law make oversee executive","Judge","No","PM"],"correctIndex":0,"explanation":"Debate.","frequencyRating":5},{"id":"g8_c3_q13","text":"Speaker Lok Sabha:","options":["Yes election members","Vice president","President","No"],"correctIndex":0,"explanation":"Chairman.","frequencyRating":5},{"id":"g8_c3_q14","text":"Deputy speaker:","options":["Yes members elect","PM appoint","No","President"],"correctIndex":0,"explanation":"Presides absence.","frequencyRating":5},{"id":"g8_c3_q15","text":"Rajya Sabha VP chairman:","options":["Yes","No","Lok Sabha speaker","No"],"correctIndex":0,"explanation":"Article 64.","frequencyRating":5},{"id":"g8_c3_q16","text":"Deputy chairman:","options":["Yes VP nominate","Elect","No","PM"],"correctIndex":0,"explanation":"Rajya.","frequencyRating":5},{"id":"g8_c3_q17","text":"Session budget:","options":["Yes 3 budget","2 monsoon","No","Annual"],"correctIndex":0,"explanation":"Vote.","frequencyRating":5},{"id":"g8_c3_q18","text":"Ordinance president:","options":["Yes emergency 6 weeks","No bill","Permanent","No"],"correctIndex":0,"explanation":"Article 123.","frequencyRating":5},{"id":"g8_c3_q19","text":"No confidence Lok Sabha:","options":["Yes government fall","Rajya","President","No"],"correctIndex":0,"explanation":"14 days.","frequencyRating":5},{"id":"g8_c3_q20","text":"Rajya special powers:","options":["Yes state creation","No all","Money","No"],"correctIndex":0,"explanation":"Article 249.","frequencyRating":5},{"id":"g8_c3_q21","text":"MP qualification:","options":["Yes 25 Lok 30 Rajya","No","Minister","No"],"correctIndex":0,"explanation":"Citizen.","frequencyRating":5},{"id":"g8_c3_q22","text":"Anti defection 52nd:","options":["Yes 1985","No","Free vote","No"],"correctIndex":0,"explanation":"10th schedule.","frequencyRating":5},{"id":"g8_c3_q23","text":"Committee finance:","options":["Yes expenditure","Public accounts","No","Estimate"],"correctIndex":0,"explanation":"22 members.","frequencyRating":5},{"id":"g8_c3_q24","text":"Public accounts:","options":["Yes CAG reports","Finance","No","Ministerial"],"correctIndex":0,"explanation":"Irregularities.","frequencyRating":5},{"id":"g8_c3_q25","text":"Estimate committee:","options":["Yes demand grant","Public","No","Finance"],"correctIndex":0,"explanation":"30 members.","frequencyRating":5},{"id":"g8_c3_q26","text":"Joint committee:","options":["Yes bills 30 members","Select","No","Standing"],"correctIndex":0,"explanation":"Both houses.","frequencyRating":5},{"id":"g8_c3_q27","text":"Standing committees:","options":["Yes subject 20-25","Ad hoc","No","Minister"],"correctIndex":0,"explanation":"Specialised.","frequencyRating":5},{"id":"g8_c3_q28","text":"PRS legislative research:","options":["Yes","Govt","No","NGO"],"correctIndex":0,"explanation":"Track.","frequencyRating":5},{"id":"g8_c3_q29","text":"Law making stages:","options":["First second third assent","Yes","One","No"],"correctIndex":0,"explanation":"Reading.","frequencyRating":5},{"id":"g8_c3_q30","text":"Ordinary bill:","options":["Either house","Yes","Money Lok","No"],"correctIndex":0,"explanation":"President.","frequencyRating":5},{"id":"g8_c3_q31","text":"Finance bill:","options":["Lok Sabha money","Yes","Rajya block","No"],"correctIndex":0,"explanation":"Article 117.","frequencyRating":5},{"id":"g8_c3_q32","text":"Constitution bill:","options":["Yes special majority","Ordinary","No","President veto"],"correctIndex":0,"explanation":"Article 368.","frequencyRating":5},{"id":"g8_c3_q33","text":"Session 6 months:","options":["Yes president call","PM","No","Automatic"],"correctIndex":0,"explanation":"Dissolve.","frequencyRating":5},{"id":"g8_c3_q34","text":"Lame duck:","options":["Yes defeated govt","No","New","President"],"correctIndex":0,"explanation":"Outgoing.","frequencyRating":5},{"id":"g8_c3_q35","text":"Shadow cabinet:","options":["Yes opposition","Govt","No","President"],"correctIndex":0,"explanation":"Criticise.","frequencyRating":5},{"id":"g8_c3_q36","text":"Private member bill:","options":["Yes non minister","Govt","No","President"],"correctIndex":0,"explanation":"Friday.","frequencyRating":5},{"id":"g8_c3_q37","text":"Guillotine:","options":["Yes vote all clauses","No discussion","Extend","No"],"correctIndex":0,"explanation":"End time.","frequencyRating":5},{"id":"g8_c3_q38","text":"Closure:","options":["Yes no discussion vote","No confidence","No","Extend"],"correctIndex":0,"explanation":"Speaker.","frequencyRating":5},{"id":"g8_c3_q39","text":"Privilege motion:","options":["Yes breach privilege","No confidence","Budget","No"],"correctIndex":0,"explanation":"Contempt.","frequencyRating":5},{"id":"g8_c3_q40","text":"Parliament sovereign:","options":["Yes subject constitution","No absolute","King","No"],"correctIndex":0,"explanation":"Rule law.","frequencyRating":5}]}
+{
+  "id": "g8_civ_ch3",
+  "grade": "8",
+  "subject": "Civics",
+  "number": "3",
+  "title": "Parliament and the Making of Laws",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_c3_q1",
+      "text": "Why should people decide in a democracy?",
+      "options": ["Because they are always right", "Because a democracy is built on the participation and consent of the people", "Because they pay taxes", "Because the King says so"],
+      "correctIndex": 1,
+      "explanation": "In a democracy, the people are the ultimate source of power and their 'consent' is vital.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q2",
+      "text": "What was the main experience of Indians under British rule that shaped their desire for democracy?",
+      "options": ["Living in fear and not being able to criticize government decisions", "Free travel", "Learning English", "Good trade"],
+      "correctIndex": 0,
+      "explanation": "The colonial experience made Indians value the freedom to participate in decision-making.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q3",
+      "text": "The individual or citizen is the most important person in which form of government?",
+      "options": ["Monarchy", "Democracy", "Dictatorship", "Military rule"],
+      "correctIndex": 1,
+      "explanation": "In principle, the government as well as other public institutions need to have the trust of the citizens.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q4",
+      "text": "How do people give 'consent' to the government?",
+      "options": ["By paying fines", "Through elections", "By writing letters", "By staying at home"],
+      "correctIndex": 1,
+      "explanation": "People elect their representatives to the Parliament, and one group from these representatives forms the government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q5",
+      "text": "What is the 'Sansad' in India?",
+      "options": ["Supreme Court", "Parliament", "Cabinet", "State Assembly"],
+      "correctIndex": 1,
+      "explanation": "The Parliament of India (Sansad) is the supreme law-making institution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q6",
+      "text": "The Parliament of India consists of:",
+      "options": ["Lok Sabha and Rajya Sabha", "President, Rajya Sabha and Lok Sabha", "PM and Cabinet", "Governor and MLAs"],
+      "correctIndex": 1,
+      "explanation": "The Parliament includes the President and the two houses.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q7",
+      "text": "Which house is also known as the 'Council of States'?",
+      "options": ["Lok Sabha", "Rajya Sabha", "Vidhan Sabha", "Panchayat"],
+      "correctIndex": 1,
+      "explanation": "Rajya Sabha represents the states of India in the Parliament.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q8",
+      "text": "Which house is also known as the 'House of the People'?",
+      "options": ["Rajya Sabha", "Lok Sabha", "Vidhan Parishad", "Supreme Court"],
+      "correctIndex": 1,
+      "explanation": "Lok Sabha is directly elected by the people of India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q9",
+      "text": "What is the maximum number of members in the Rajya Sabha?",
+      "options": ["245", "543", "250", "300"],
+      "correctIndex": 2,
+      "explanation": "The maximum strength is 250, with 245 current members (including 12 nominated by the President).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q10",
+      "text": "How many members are directly elected to the Lok Sabha?",
+      "options": ["245", "543", "550", "2"],
+      "correctIndex": 1,
+      "explanation": "The country is divided into 543 constituencies for Lok Sabha elections.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q11",
+      "text": "Who is the 'Executive' head that the Lok Sabha selects?",
+      "options": ["President", "Prime Minister", "Chief Justice", "Speaker"],
+      "correctIndex": 1,
+      "explanation": "The PM is the leader of the majority party in the Lok Sabha and heads the executive.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q12",
+      "text": "A political party needs at least how many seats to have a majority in the Lok Sabha?",
+      "options": ["100", "272", "543", "245"],
+      "correctIndex": 1,
+      "explanation": "Half of 543 is 271.5, so at least 272 members are needed for a majority.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q13",
+      "text": "What is a 'Coalition Government'?",
+      "options": ["Government by one strong party", "Government formed by several parties joining together", "Rule by the Army", "Government in the states"],
+      "correctIndex": 1,
+      "explanation": "When no single party gets a majority, different parties join to form a coalition.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q14",
+      "text": "Who chairs the Rajya Sabha?",
+      "options": ["The President", "The Prime Minister", "The Vice-President of India", "The Speaker"],
+      "correctIndex": 2,
+      "explanation": "The Vice-President is the ex-officio Chairman of the Rajya Sabha.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q15",
+      "text": "What is the 'Question Hour' in Parliament?",
+      "options": ["Time to have lunch", "Time to ask questions to ministers about government functioning", "Time to vote", "Time for the President's speech"],
+      "correctIndex": 1,
+      "explanation": "The Question Hour is a mechanism through which MPs can elicit information and hold the government accountable.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q16",
+      "text": "MPs who are not part of the ruling party or coalition form the ________.",
+      "options": ["Cabinet", "Opposition", "Judiciary", "Secretariat"],
+      "correctIndex": 1,
+      "explanation": "The opposition parties play a crucial role by highlighting drawbacks in government policies.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q17",
+      "text": "How do laws get passed in Parliament?",
+      "options": ["The PM just signs them", "They are introduced as bills and debated/voted on in both houses", "The Supreme Court writes them", "Only the President decides"],
+      "correctIndex": 1,
+      "explanation": "Parliament is the law-making body of the nation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q18",
+      "text": "Who are the people in the Parliament today?",
+      "options": ["Only from big cities", "Only from the elite", "From diverse backgrounds, including rural and marginalized groups", "Only lawyers"],
+      "correctIndex": 2,
+      "explanation": "Parliament has seen increasing participation from rural areas, Dalits, and Backward Castes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c3_q19",
+      "text": "Why are some seats 'reserved' in Parliament for SC and ST candidates?",
+      "options": ["To give them a chance to participate in decision-making", "To make the Parliament look full", "Because they are special", "None of these"],
+      "correctIndex": 0,
+      "explanation": "Reservation ensures that communities that have been historically marginalized are represented.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q20",
+      "text": "What is the demand regarding women's representation in Parliament?",
+      "options": ["Banning women", "Reservation of seats for women", "Only women should vote", "None"],
+      "correctIndex": 1,
+      "explanation": "There is a long-standing debate to reserve 33% of seats for women to improve their low representation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q21",
+      "text": "Elections to the Lok Sabha are held every ________ years.",
+      "options": ["2", "5", "6", "10"],
+      "correctIndex": 1,
+      "explanation": "Both Lok Sabha and State Assemblies have a normal term of 5 years.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q22",
+      "text": "Constituency refers to:",
+      "options": ["A group of ministers", "A specific area from which voters elect one representative", "The building of Parliament", "A law book"],
+      "correctIndex": 1,
+      "explanation": "For elections, the country/state is divided into many small areas called constituencies.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q23",
+      "text": "The members of the Rajya Sabha are elected by:",
+      "options": ["Direct vote of the people", "The President", "Elected members of the State Legislative Assemblies", "The PM"],
+      "correctIndex": 2,
+      "explanation": "Rajya Sabha election is an indirect election by MLAs.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c3_q24",
+      "text": "Can the Rajya Sabha initiate legislation?",
+      "options": ["Yes, but it must be passed by both houses", "No, only Lok Sabha can", "Only for money matters", "Only if the President allows"],
+      "correctIndex": 0,
+      "explanation": "A bill must pass through both houses to become law.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c3_q25",
+      "text": "The 'approval' of the people in a democracy is expressed through ________.",
+      "options": ["Newspapers", "Elections", "Police", "Taxes"],
+      "correctIndex": 1,
+      "explanation": "Elections are the primary way citizens control and guide the government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q26",
+      "text": "Who is the leader of the ruling party in the Lok Sabha?",
+      "options": ["The Speaker", "The President", "The Prime Minister", "The Opposition Leader"],
+      "correctIndex": 2,
+      "explanation": "The Prime Minister selects ministers from the party to work with him/her to implement decisions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q27",
+      "text": "What is the term of a member of the Rajya Sabha?",
+      "options": ["5 years", "6 years", "2 years", "Permanent"],
+      "correctIndex": 1,
+      "explanation": "Rajya Sabha is a permanent house, but individual members have a term of 6 years (1/3rd retire every 2 years).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q28",
+      "text": "The main function of the 'Opposition' is to:",
+      "options": ["Stop the government from working", "Point out flaws in government policies", "Support every bill", "Stay silent"],
+      "correctIndex": 1,
+      "explanation": "A healthy opposition is essential for a functioning democracy to check the power of the ruling party.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q29",
+      "text": "How many members are nominated to the Rajya Sabha by the President?",
+      "options": ["2", "12", "20", "0"],
+      "correctIndex": 1,
+      "explanation": "12 members are nominated for their contributions to art, literature, science, or social service.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q30",
+      "text": "EVMS (Electronic Voting Machines) were used throughout the country for the first time in which general elections?",
+      "options": ["1952", "1999", "2004", "2014"],
+      "correctIndex": 2,
+      "explanation": "The 2004 general elections were the first to use EVMs nationwide, saving about 1,50,000 trees.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c3_q31",
+      "text": "The Parliament is the expression of the ________ that people of India have in principles of democracy.",
+      "options": ["Doubt", "Faith", "Fear", "Anger"],
+      "correctIndex": 1,
+      "explanation": "It symbolizes the people's participation in decision-making.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_c3_q32",
+      "text": "Which of these is NOT a function of the Parliament?",
+      "options": ["To select the national government", "To control and inform the government", "To write the Constitution for the first time", "Law-making"],
+      "correctIndex": 2,
+      "explanation": "The original Constitution was written by the Constituent Assembly; the current Parliament can only amend it.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c3_q33",
+      "text": "Each constituency elects ________ person to the Parliament.",
+      "options": ["One", "Two", "Many", "Ten"],
+      "correctIndex": 0,
+      "explanation": "Each constituency is represented by a single MP.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c3_q34",
+      "text": "Once elected, these candidates become ________.",
+      "options": ["MLAs", "MPs", "Judges", "Collectors"],
+      "correctIndex": 1,
+      "explanation": "MPs (Members of Parliament) together make up the Sansad.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q35",
+      "text": "The Rajya Sabha functions primarily as the ________.",
+      "options": ["Voice of the PM", "Representative of the States of India", "Court of law", "Direct voice of the people"],
+      "correctIndex": 1,
+      "explanation": "Its role is to protect the interests and perspectives of the state governments in the center.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q36",
+      "text": "Can a bill become a law if the Rajya Sabha rejects it?",
+      "options": ["Yes, always", "No, it requires consent of both houses (with some exceptions like Money Bills)", "Only if the President says so", "Yes, if the PM is strong"],
+      "correctIndex": 1,
+      "explanation": "Most bills require both houses to agree. Disagreements may lead to a joint session.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q37",
+      "text": "The Parliament 'controls' the government by:",
+      "options": ["Asking questions and debating budgets", "Closing down the PM's office", "Arresting ministers", "None of these"],
+      "correctIndex": 0,
+      "explanation": "By asking questions, MPs alert the government to its shortcomings and the opinion of the public.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q38",
+      "text": "In the 2019 Lok Sabha elections, which party won with a clear majority?",
+      "options": ["INC", "BJP", "CPI", "BSP"],
+      "correctIndex": 1,
+      "explanation": "The Bharatiya Janata Party (BJP) won 303 seats, more than the required 272.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c3_q39",
+      "text": "Which of these is a major challenge for the Indian Parliament today?",
+      "options": ["Low representation of women", "Too many laws", "No building", "No voting"],
+      "correctIndex": 0,
+      "explanation": "Women represent only a small percentage (around 14%) of the Parliament, which is considered inadequate.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c3_q40",
+      "text": "The most important role of the Speaker of the Lok Sabha is to:",
+      "options": ["Lead the ruling party", "Preside over the house and maintain order", "Arrest the opposition", "Sign all bills first"],
+      "correctIndex": 1,
+      "explanation": "The Speaker ensures the house functions smoothly and according to the rules.",
+      "frequencyRating": 5
+    }
+  ]
+}

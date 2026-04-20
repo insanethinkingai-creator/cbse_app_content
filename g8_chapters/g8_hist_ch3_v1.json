@@ -1,1 +1,330 @@
-{"id":"g8_hist_ch3","grade":"8","subject":"History","number":"3","title":"Ruling the Countryside","version":"v1","questions":[{"id":"g8_h3_q1","text":"Permanent Settlement 1793:","options":["Cornwallis zamindars","Yes Bengal Bihar","No","Ryotwari"],"correctIndex":0,"explanation":"Fixed revenue.","frequencyRating":5},{"id":"g8_h3_q2","text":"Zamindars revenue 10/11:","options":["Yes","No","Half","Rent"],"correctIndex":0,"explanation":"Auction default.","frequencyRating":5},{"id":"g8_h3_q3","text":"Mahalwari settlement:","options":["Villages collective","Yes UP Punjab","Ryot","No"],"correctIndex":0,"explanation":"Holt Mackenzie.","frequencyRating":5},{"id":"g8_h3_q4","text":"Ryotwari:","options":["Individual peasants","Yes Madras Bombay","Zamindari","No"],"correctIndex":0,"explanation":"Thomas Munro.","frequencyRating":5},{"id":"g8_h3_q5","text":"Bengal revenue demand high:","options":["Yes 1790s arrears","No","Low","Stable"],"correctIndex":0,"explanation":"Zamindars distress.","frequencyRating":5},{"id":"g8_h3_q6","text":"Fifth collectors reports:","options":["Peasant misery","Yes","Prosperity","No"],"correctIndex":0,"explanation":"Condition.","frequencyRating":5},{"id":"g8_h3_q7","text":"Bahadur Shah II painter:","options":["No Mughal emperor","Art","No","Poet"],"correctIndex":0,"explanation":"Hobby.","frequencyRating":4},{"id":"g8_h3_q8","text":"Blue rock pigeons:","options":["Yes markets","No","Wild","No"],"correctIndex":0,"explanation":"Trade.","frequencyRating":4},{"id":"g8_h3_q9","text":"Manchester cotton:","options":["India supplied raw","Yes","No","Silk"],"correctIndex":0,"explanation":"Export.","frequencyRating":5},{"id":"g8_h3_q10","text":"Deccan ryots indigo forced:","options":["Yes Europeans","No","Willing","Cash"],"correctIndex":0,"explanation":"Resistance.","frequencyRating":5},{"id":"g8_h3_q11","text":"Nijer karjal:","options":["Plough own field","Yes Bengal","No","Zamindari"],"correctIndex":0,"explanation":"Slogan.","frequencyRating":4},{"id":"g8_h3_q12","text":"Ryots loans bondage:","options":["Yes mirasidars","High interest","No","Free"],"correctIndex":0,"explanation":"Dadabhai.","frequencyRating":5},{"id":"g8_h3_q13","text":"Opium trade:","options":["Bengal China","Yes","No","Silk"],"correctIndex":0,"explanation":"Calcutta.","frequencyRating":5},{"id":"g8_h3_q14","text":"Artificial indigo:","options":["Germany cheap","Yes 1890s","No","Natural"],"correctIndex":0,"explanation":"Decline.","frequencyRating":5},{"id":"g8_h3_q15","text":"Mahal headmen lambardars:","options":["Yes village","No","Zamindar","Ryot"],"correctIndex":0,"explanation":"Collect.","frequencyRating":5},{"id":"g8_h3_q16","text":"Ryotwari peasants rights:","options":["No sold land","Yes debt","Secure","No"],"correctIndex":0,"explanation":"Survey Munro.","frequencyRating":5},{"id":"g8_h3_q17","text":"Peasants conditions:","options":["Worsened","Yes","Better","No"],"correctIndex":0,"explanation":"Revenue high.","frequencyRating":5},{"id":"g8_h3_q18","text":"Census 1881 data:","options":["Caste occupation","Yes","No","Maps"],"correctIndex":0,"explanation":"Survey.","frequencyRating":4},{"id":"g8_h3_q19","text":"Fifth peasant:","options":["Decline prosperity","No","Rise","Stable"],"correctIndex":0,"explanation":"Report.","frequencyRating":4},{"id":"g8_h3_q20","text":"Permanent fix revenue:","options":["Yes never rise","Zamindars happy","No","Change"],"correctIndex":0,"explanation":"Land value.","frequencyRating":5},{"id":"g8_h3_q21","text":"Zamindars powerful:","options":["Yes became","No poor","Ryots","No"],"correctIndex":0,"explanation":"Rent.","frequencyRating":5},{"id":"g8_h3_q22","text":"Peasants plight:","options":["High rent moneylenders","Yes","Low","Free"],"correctIndex":0,"explanation":"Debt.","frequencyRating":5},{"id":"g8_h3_q23","text":"Indigo plantations:","options":["Bengal Bihar forced","Yes","Willing","Cash"],"correctIndex":0,"explanation":"Strike 1859.","frequencyRating":5},{"id":"g8_h3_q24","text":"Opium monopoly:","options":["Yes peasants grow","Process export","No","Silk"],"correctIndex":0,"explanation":"China.","frequencyRating":5},{"id":"g8_h3_q25","text":"Artificial dyes cheap:","options":["Yes indigo decline","Germany","No","Natural"],"correctIndex":0,"explanation":"1897.","frequencyRating":5},{"id":"g8_h3_q26","text":"Ryotwari Munro:","options":["Peasants direct","Yes","Zamindari better","No"],"correctIndex":0,"explanation":"Madras.","frequencyRating":5},{"id":"g8_h3_q27","text":"Mahalwari collective:","options":["Village revenue","Yes","Individual","No"],"correctIndex":0,"explanation":"North west.","frequencyRating":5},{"id":"g8_h3_q28","text":"Fifth collectors 1839:","options":["Conditions ryots","Yes","Prosper","No"],"correctIndex":0,"explanation":"Decline.","frequencyRating":5},{"id":"g8_h3_q29","text":"Bengal soil exhausted:","options":["Yes","Fertile","No","Crop rotation"],"correctIndex":0,"explanation":"Rice indigo.","frequencyRating":5},{"id":"g8_h3_q30","text":"Mirasidars Deccan:","options":["Landlord moneylender","Yes high interest","Low","No"],"correctIndex":0,"explanation":"Bondage.","frequencyRating":5},{"id":"g8_h3_q31","text":"Nijer slogan:","options":["Cultivate own field","Yes","No","Company"],"correctIndex":0,"explanation":"Indigo.","frequencyRating":4},{"id":"g8_h3_q32","text":"Government wages dispute:","options":["No solution","Yes commissioners","Strike","No"],"correctIndex":0,"explanation":"1859.","frequencyRating":4},{"id":"g8_h3_q33","text":"Permanent Settlement problem:","options":["Zamindars auction","Yes ryots rack rent","No","Low"],"correctIndex":0,"explanation":"Distress.","frequencyRating":5},{"id":"g8_h3_q34","text":"Ryotwari peasants:","options":["Sold land debt","Yes","Rich","No"],"correctIndex":0,"explanation":"High revenue.","frequencyRating":5},{"id":"g8_h3_q35","text":"Opium chests silver:","options":["Yes balance trade","China","No","Tea"],"correctIndex":0,"explanation":"Calcutta factory.","frequencyRating":5},{"id":"g8_h3_q36","text":"Indigo nil 1860:","options":["Yes ban commission","No","Continue","Natural"],"correctIndex":0,"explanation":"Mahish Bathan.","frequencyRating":5},{"id":"g8_h3_q37","text":"Deccan riots 1875:","options":["Moneylenders","Yes Sahukars","Zamindars","No"],"correctIndex":0,"explanation":"Debt.","frequencyRating":5},{"id":"g8_h3_q38","text":"Company ijaradars:","options":["Auction revenue","Yes","Permanent","No"],"correctIndex":0,"explanation":"Short term.","frequencyRating":5},{"id":"g8_h3_q39","text":"Peasants cultivate:","options":["Cash crops forced","Yes","Subsistence only","No"],"correctIndex":0,"explanation":"Company demand.","frequencyRating":5},{"id":"g8_h3_q40","text":"Settlement systems:","options":["Revenue land peasant","Yes problem","No change","Success"],"correctIndex":0,"explanation":"Agrarian.","frequencyRating":5}]}
+{
+  "id": "g8_hist_ch3",
+  "grade": "8",
+  "subject": "History",
+  "number": "3",
+  "title": "Ruling the Countryside",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_h3_q1",
+      "text": "When did the Mughal emperor appoint the East India Company as the Diwan of Bengal?",
+      "options": ["1757", "1764", "1765", "1793"],
+      "correctIndex": 2,
+      "explanation": "The Diwani was granted on 12 August 1765, making the Company the chief financial administrator of the territory.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h3_q2",
+      "text": "As Diwan, what was the primary concern of the Company?",
+      "options": ["Improving education", "Organizing revenue resources to yield enough to meet expenses", "Spreading Christianity", "Building hospitals"],
+      "correctIndex": 1,
+      "explanation": "The Company wanted a large revenue income but was unwilling to set up a regular system of assessment and collection.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h3_q3",
+      "text": "Why did the economy of Bengal face a deep crisis after the Company became Diwan?",
+      "options": ["Low production and high revenue demands", "Foreign invasion", "Peasants left to work in factories", "A ban on trade"],
+      "correctIndex": 0,
+      "explanation": "Artisans were deserting villages because they were being forced to sell their goods at low prices.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h3_q4",
+      "text": "Who introduced the 'Permanent Settlement' in 1793?",
+      "options": ["Thomas Munro", "Charles Cornwallis", "Warren Hastings", "Holt Mackenzie"],
+      "correctIndex": 1,
+      "explanation": "Lord Cornwallis was the Governor-General of India at the time.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h3_q5",
+      "text": "Under the Permanent Settlement, who were recognized as Zamindars?",
+      "options": ["Peasants", "British officers", "Rajas and Taluqdars", "Foreign merchants"],
+      "correctIndex": 2,
+      "explanation": "They were asked to collect rent from the peasants and pay revenue to the Company.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h3_q6",
+      "text": "What was the main feature of the Permanent Settlement?",
+      "options": ["Revenue was increased every year", "The amount to be paid was fixed permanently", "Zamindars were removed", "Revenue was based on soil quality"],
+      "correctIndex": 1,
+      "explanation": "The fixed revenue was intended to encourage Zamindars to invest in improving the land.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h3_q7",
+      "text": "What happened if a Zamindar failed to pay the fixed revenue?",
+      "options": ["They were forgiven", "They lost their zamindari", "They were given more land", "They became British officers"],
+      "correctIndex": 1,
+      "explanation": "Numerous zamindaris were sold off at auctions organized by the Company.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h3_q8",
+      "text": "In the early 19th century, Holt Mackenzie devised a new system called:",
+      "options": ["Permanent Settlement", "Mahalwari System", "Ryotwari System", "Nij system"],
+      "correctIndex": 1,
+      "explanation": "This system was introduced in the North Western Provinces of the Bengal Presidency.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h3_q9",
+      "text": "In the Mahalwari system, what does 'Mahal' refer to?",
+      "options": ["A palace", "A village or a group of villages", "A large farm", "A tax collector's office"],
+      "correctIndex": 1,
+      "explanation": "The revenue was to be collected from the village collectively.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h3_q10",
+      "text": "Who was responsible for paying the revenue in the Mahalwari system?",
+      "options": ["The individual peasant", "The village headman", "The British Governor", "The Zamindar"],
+      "correctIndex": 1,
+      "explanation": "The charge of collecting revenue and paying it to the Company was given to the village headman.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h3_q11",
+      "text": "The 'Munro System' was another name for:",
+      "options": ["Permanent Settlement", "Mahalwari", "Ryotwari", "Indigo system"],
+      "correctIndex": 2,
+      "explanation": "It was developed by Thomas Munro and gradually extended all over South India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h3_q12",
+      "text": "In the Ryotwari system, the revenue was settled directly with the:",
+      "options": ["Village headman", "Ryots (cultivators)", "Zamindars", "Local kings"],
+      "correctIndex": 1,
+      "explanation": "The British argued that in the south there were no traditional zamindars.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h3_q13",
+      "text": "Why were the new revenue systems problematic for the peasants?",
+      "options": ["Revenue demands were too high", "The British forced them to move to cities", "Peasants wanted to pay more", "There was no land left"],
+      "correctIndex": 0,
+      "explanation": "The high revenue driven by a desire to increase income led to peasants fleeing the countryside.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h3_q14",
+      "text": "Why was there a high demand for Indian Indigo in Europe during the 18th century?",
+      "options": ["It was a food item", "It produced a rich blue color preferred by cloth manufacturers", "It was used as medicine", "It was cheaper than wood"],
+      "correctIndex": 1,
+      "explanation": "Woad, the European alternative, produced a pale and dull blue.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h3_q15",
+      "text": "Indigo can be grown only in ________ regions.",
+      "options": ["Temperate", "Tropical", "Polar", "Desert"],
+      "correctIndex": 1,
+      "explanation": "India's climate was perfect for large-scale indigo cultivation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h3_q16",
+      "text": "The two main systems of indigo cultivation in India were:",
+      "options": ["Permanent and Temporary", "Nij and Ryoti", "Zamindari and Mahalwari", "Village and City"],
+      "correctIndex": 1,
+      "explanation": "In Nij, the planter produced indigo on land he directly controlled.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h3_q17",
+      "text": "In the 'Ryoti' system of indigo cultivation, planters forced the ryots to:",
+      "options": ["Work in factories", "Sign a contract (satta) to grow indigo on at least 25% of their land", "Give up their land", "Move to England"],
+      "correctIndex": 1,
+      "explanation": "The system trapped peasants in a cycle of debt.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h3_q18",
+      "text": "What was the main environmental problem with indigo cultivation?",
+      "options": ["It needed no water", "It had deep roots and exhausted the soil fertility rapidly", "It attracted pests", "It smelled bad"],
+      "correctIndex": 1,
+      "explanation": "After an indigo harvest, the land could not be used for sowing rice.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h3_q19",
+      "text": "When did the 'Blue Rebellion' break out in Bengal?",
+      "options": ["1857", "1859", "1917", "1793"],
+      "correctIndex": 1,
+      "explanation": "Thousands of ryots in Bengal refused to grow indigo and attacked factories.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h3_q20",
+      "text": "Who were the 'Gomasthas'?",
+      "options": ["British soldiers", "Agents of indigo planters who collected rent", "Indigo farmers", "Village headmen"],
+      "correctIndex": 1,
+      "explanation": "They were often beaten by villagers during the rebellion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h3_q21",
+      "text": "The Indigo Commission (1860) held the ________ guilty for the plight of ryots.",
+      "options": ["Peasants", "Indigo Planters", "Village Headmen", "Mughal Emperor"],
+      "correctIndex": 1,
+      "explanation": "It declared that indigo cultivation was not profitable for ryots.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h3_q22",
+      "text": "After the indigo production collapsed in Bengal, the planters shifted their operation to:",
+      "options": ["Assam", "Bihar", "Punjab", "Madras"],
+      "correctIndex": 1,
+      "explanation": "The discovery of synthetic dyes later affected this new production area too.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h3_q23",
+      "text": "Mahatma Gandhi’s visit to ________ in 1917 marked the beginning of the movement against indigo planters.",
+      "options": ["Ahmedabad", "Champaran", "Kheda", "Dandi"],
+      "correctIndex": 1,
+      "explanation": "He was persuaded by a peasant from Bihar to see the plight of the indigo cultivators there.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h3_q24",
+      "text": "A 'Bigha' is a unit of:",
+      "options": ["Currency", "Measurement of land", "Weight", "Time"],
+      "correctIndex": 1,
+      "explanation": "The size of this unit varied in different parts of India.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_h3_q25",
+      "text": "Who was the Indigo planter who helped the British during the 1857 revolt?",
+      "options": ["They generally didn't help", "The British worried that the indigo rebellion would merge with the 1857 revolt", "Lord Cornwallis", "Mahatma Gandhi"],
+      "correctIndex": 1,
+      "explanation": "The memory of 1857 made the British government very nervous about any rural uprising.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h3_q26",
+      "text": "Which color is produced from the woad plant?",
+      "options": ["Bright Blue", "Dull Blue", "Red", "Yellow"],
+      "correctIndex": 1,
+      "explanation": "Woad was the plant used in Europe before the widespread use of Indian Indigo.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_h3_q27",
+      "text": "Colonialism forced Indian farmers to grow 'crops for Europe' like jute, tea, and:",
+      "options": ["Rice", "Opium and Indigo", "Wheat", "Maize"],
+      "correctIndex": 1,
+      "explanation": "The British used various methods to expand the cultivation of crops they needed.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h3_q28",
+      "text": "The Permanent Settlement created a class of ________ loyal to the British.",
+      "options": ["Peasants", "Zamindars", "Soldiers", "Traders"],
+      "correctIndex": 1,
+      "explanation": "The British hoped that fixing revenue would create stable allies.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h3_q29",
+      "text": "Who were 'Lathiyals'?",
+      "options": ["Poets", "Strongmen with clubs maintained by planters", "Peasant leaders", "Priests"],
+      "correctIndex": 1,
+      "explanation": "They were used by planters to intimidate ryots who refused to grow indigo.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h3_q30",
+      "text": "The British system in South India (Ryotwari) was different because:",
+      "options": ["There were no powerful Zamindars", "Peasants were richer", "It was a desert", "It was done for free"],
+      "correctIndex": 0,
+      "explanation": "Read and Munro felt they had to deal directly with the cultivators.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h3_q31",
+      "text": "The word 'Vat' in the context of Indigo refers to:",
+      "options": ["A tax", "A fermenting or storage vessel", "A type of soil", "A government law"],
+      "correctIndex": 1,
+      "explanation": "In indigo production, the plant went through different vats for soaking and beating.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_h3_q32",
+      "text": "Slave Revolt in St Domingue (Caribbean) in 1791 affected the supply of:",
+      "options": ["Cotton", "Sugar and Indigo", "Tea", "Spice"],
+      "correctIndex": 1,
+      "explanation": "The collapse of production in French colonies led to the search for other sources like India.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_h3_q33",
+      "text": "What was the 'Satta'?",
+      "options": ["A weapon", "A contract or agreement", "A village meeting", "A religious ceremony"],
+      "correctIndex": 1,
+      "explanation": "Planters pressured village headmen to sign 'Sattas' on behalf of ryots.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h3_q34",
+      "text": "Why did the 'Blue Rebellion' receive support from some local Zamindars?",
+      "options": ["They were unhappy with the increasing power of planters", "They loved the peasants", "The British asked them to", "They wanted to grow rice"],
+      "correctIndex": 0,
+      "explanation": "Many zamindars resented being forced by planters to give them land on long leases.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h3_q35",
+      "text": "The Lieutenant Governor toured the indigo districts in the winter of 1859, which was seen by ryots as:",
+      "options": ["A threat", "A sign of sympathy for their plight", "A waste of time", "A celebration"],
+      "correctIndex": 1,
+      "explanation": "Ryots interpreted the tour as a sign that the government supported them against the planters.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_h3_q36",
+      "text": "Ashley Eden was:",
+      "options": ["An indigo planter", "A magistrate who issued a notice in favor of ryots", "The Mughal emperor", "A rebel leader"],
+      "correctIndex": 1,
+      "explanation": "He issued a notice saying that ryots would not be compelled to accept indigo contracts.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_h3_q37",
+      "text": "What was the result of the high revenue demand in the Munro system?",
+      "options": ["Peasants became rich", "Peasants fled the countryside and villages became deserted", "Agriculture flourished", "Towns were abandoned"],
+      "correctIndex": 1,
+      "explanation": "The 'optimistic' British officials' hope that peasants would become 'rich enterprising farmers' failed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h3_q38",
+      "text": "Under the Permanent Settlement, the revenue was not increased even if:",
+      "options": ["Production increased", "Prices fell", "There was a war", "The Zamindar died"],
+      "correctIndex": 0,
+      "explanation": "This meant the state did not benefit from the increased production in later years.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h3_q39",
+      "text": "Which system required the periodic revision of revenue?",
+      "options": ["Permanent Settlement", "Mahalwari", "Both", "None"],
+      "correctIndex": 1,
+      "explanation": "Unlike the Permanent Settlement, Mahalwari revenue was not fixed forever.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h3_q40",
+      "text": "The main problem for the British in the Nij system was:",
+      "options": ["Lack of laborers", "Difficulty in expanding the area under cultivation", "Both A and B", "High taxes on the planters"],
+      "correctIndex": 2,
+      "explanation": "Planters found it hard to get enough land and labor for large plantations.",
+      "frequencyRating": 4
+    }
+  ]
+}

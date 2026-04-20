@@ -1,1 +1,330 @@
-{"id":"g8_civ_ch8","grade":"8","subject":"Civics","number":"8","title":"Law and Social Justice","version":"v1","questions":[{"id":"g8_c8_q1","text":"Bhopal gas 1984:","options":["Yes UCIL 5000 dead","Chernobyl","No","Bhopal"],"correctIndex":0,"explanation":"Methyl isocyanate.","frequencyRating":5},{"id":"g8_c8_q2","text":"Union Carbide Anderson:","options":["Yes jailed","Extradited","No","Fined"],"correctIndex":0,"explanation":"$470mn.","frequencyRating":5},{"id":"g8_c8_q3","text":"Law social justice:","options":["Yes protect workers consumers","No market","Rich","No"],"correctIndex":0,"explanation":"Regulate.","frequencyRating":5},{"id":"g8_c8_q4","text":"Market profit:","options":["Yes exploit cheap","Fair","No","Free"],"correctIndex":0,"explanation":"Labour environment.","frequencyRating":5},{"id":"g8_c8_q5","text":"Bhopal lessons:","options":["Yes govt regulate MNC","No private","Market","No"],"correctIndex":0,"explanation":"Environment.","frequencyRating":5},{"id":"g8_c8_q6","text":"Workers factories:","options":["Yes 8 hr min wage","No long","Slave","No"],"correctIndex":0,"explanation":"Factories Act.","frequencyRating":5},{"id":"g8_c8_q7","text":"Consumer rights:","options":["Yes safe goods information","No","Market","Producer"],"correctIndex":0,"explanation":"COPRA 1986.","frequencyRating":5},{"id":"g8_c8_q8","text":"Environment Act 1986:","options":["Yes","No","Labour","Consumer"],"correctIndex":0,"explanation":"Bhopal.","frequencyRating":5},{"id":"g8_c8_q9","text":"Water pollution 1974:","options":["Yes","Air","No","Land"],"correctIndex":0,"explanation":"Control.","frequencyRating":5},{"id":"g8_c8_q10","text":"Labour low:","options":["Yes unorganised","Union","No","High"],"correctIndex":0,"explanation":"Contract.","frequencyRating":5},{"id":"g8_c8_q11","text":"Consumer court:","options":["Yes district state national","Criminal","No","High"],"correctIndex":0,"explanation":"Appeal.","frequencyRating":5},{"id":"g8_c8_q12","text":"COPRA district forum:","options":["Yes disputes Rs 20 lakh","State","No","National"],"correctIndex":0,"explanation":"1 cr.","frequencyRating":5},{"id":"g8_c8_q13","text":"National consumer:","options":["Disputes 1 cr","Yes","District","No"],"correctIndex":0,"explanation":"Supreme.","frequencyRating":5},{"id":"g8_c8_q14","text":"Consumer redressal:","options":["Yes fast cheap no lawyer","Long expensive","No","Court"],"correctIndex":0,"explanation":"3 months.","frequencyRating":5},{"id":"g8_c8_q15","text":"Adulteration:","options":["Yes FSSAI","No","Safe","No"],"correctIndex":0,"explanation":"Food.","frequencyRating":5},{"id":"g8_c8_q16","text":"MNC Bhopal:","options":["Yes UCIL Dow","No responsible","Govt","No"],"correctIndex":0,"explanation":"Parent.","frequencyRating":5},{"id":"g8_c8_q17","text":"Gas leak cause:","options":["Water tank","Yes","Valve","No"],"correctIndex":0,"explanation":"MIC.","frequencyRating":5},{"id":"g8_c8_q18","text":"Compensation Bhopal:","options":["Yes $470 mn","No","Free","Prison"],"correctIndex":0,"explanation":"1990s.","frequencyRating":5},{"id":"g8_c8_q19","text":"Worker safety:","options":["Yes law minimum","No exploit","Union","No"],"correctIndex":0,"explanation":"Act.","frequencyRating":5},{"id":"g8_c8_q20","text":"Environment clearance:","options":["Yes EIA","No","Private","No"],"correctIndex":0,"explanation":"MoEF.","frequencyRating":5},{"id":"g8_c8_q21","text":"Right known:","options":["Yes consumer","No","Producer","Worker"],"correctIndex":0,"explanation":"Ingredients.","frequencyRating":5},{"id":"g8_c8_q22","text":"Right choose:","options":["Yes competition","Monopoly","No","Govt"],"correctIndex":0,"explanation":"Quality.","frequencyRating":5},{"id":"g8_c8_q23","text":"Right heard:","options":["Yes complain","No silent","Producer","No"],"correctIndex":0,"explanation":"Consumer forum.","frequencyRating":5},{"id":"g8_c8_q24","text":"Right redressal:","options":["Yes compensation","No","Free","No"],"correctIndex":0,"explanation":"Replacement.","frequencyRating":5},{"id":"g8_c8_q25","text":"Right education:","options":["Yes aware","No","School","No"],"correctIndex":0,"explanation":"Jago.","frequencyRating":5},{"id":"g8_c8_q26","text":"COPRA 1986:","options":["Yes 3 tier","No","One","No"],"correctIndex":0,"explanation":"Act.","frequencyRating":5},{"id":"g8_c8_q27","text":"District forum:","options":["Rs 20 lakh","Yes","1 cr","Supreme"],"correctIndex":0,"explanation":"Appeal state.","frequencyRating":5},{"id":"g8_c8_q28","text":"State commission:","options":["20 lakh 1 cr","Yes","District","No"],"correctIndex":0,"explanation":"Appeal national.","frequencyRating":5},{"id":"g8_c8_q29","text":"National commission:","options":["1 cr above","Yes","State","No"],"correctIndex":0,"explanation":"Appeal SC.","frequencyRating":5},{"id":"g8_c8_q30","text":"Consumer organisations:","options":["Yes VOCAG","Govt","No","MNC"],"correctIndex":0,"explanation":"Test.","frequencyRating":5},{"id":"g8_c8_q31","text":"AGMARK:","options":["Yes agriculture","ISI","Hallmark","No"],"correctIndex":0,"explanation":"Quality.","frequencyRating":5},{"id":"g8_c8_q32","text":"ISI mark:","options":["Industrial","Yes","Food","No"],"correctIndex":0,"explanation":"Bureau.","frequencyRating":5},{"id":"g8_c8_q33","text":"Hallmark gold:","options":["Yes BIS","No","ISI","AGMARK"],"correctIndex":0,"explanation":"Purity.","frequencyRating":5},{"id":"g8_c8_q34","text":"Labour contract:","options":["Yes low no safety","Permanent","No","Union"],"correctIndex":0,"explanation":"Cheap.","frequencyRating":5},{"id":"g8_c8_q35","text":"MNC responsibility:","options":["Yes parent company","Subsidiary only","No","Govt"],"correctIndex":0,"explanation":"Bhopal.","frequencyRating":5},{"id":"g8_c8_q36","text":"Govt role:","options":["Yes enact enforce","Private","No","Market"],"correctIndex":0,"explanation":"Labour law.","frequencyRating":5},{"id":"g8_c8_q37","text":"8 hr day Factories Act:","options":["1881","Yes 1948","1947","No"],"correctIndex":0,"explanation":"Labour.","frequencyRating":5},{"id":"g8_c8_q38","text":"Minimum wages:","options":["Yes state govt","No market","Union","No"],"correctIndex":0,"explanation":"1948.","frequencyRating":5},{"id":"g8_c8_q39","text":"Consumer movement:","options":["Yes organised groups","No","Govt","Producer"],"correctIndex":0,"explanation":"Awareness.","frequencyRating":5},{"id":"g8_c8_q40","text":"Law alone no:","options":["Yes struggle implement","Pass sufficient","No","Private"],"correctIndex":0,"explanation":"Monitor.","frequencyRating":5}]}
+{
+  "id": "g8_civ_ch8",
+  "grade": "8",
+  "subject": "Civics",
+  "number": "8",
+  "title": "Law and Social Justice",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_c8_q1",
+      "text": "The main purpose of laws like the 'Minimum Wages Act' is to protect:",
+      "options": ["The employers", "The workers from being underpaid", "The government", "The machine manufacturers"],
+      "correctIndex": 1,
+      "explanation": "Minimum wage laws ensure that workers are not exploited by powerful employers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q2",
+      "text": "Who is responsible for making sure that laws are followed and enforced?",
+      "options": ["The workers", "The Government", "The customers", "Foreign investors"],
+      "correctIndex": 1,
+      "explanation": "Enforcement is critical; without it, laws exist only on paper.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q3",
+      "text": "A 'Minimum Wage' is a wage that:",
+      "options": ["Can be anything the employer wants", "Cannot be below a certain amount specified by the law", "Is the highest possible salary", "Is paid only in cash"],
+      "correctIndex": 1,
+      "explanation": "It is a legal floor for wages to ensure basic survival for workers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q4",
+      "text": "In which city did the world's worst industrial tragedy occur in 1984?",
+      "options": ["Mumbai", "Bhopal", "Chennai", "Kolkata"],
+      "correctIndex": 1,
+      "explanation": "The Bhopal Gas Tragedy occurred at the Union Carbide pesticide plant.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q5",
+      "text": "Which poisonous gas leaked from the Union Carbide plant in Bhopal?",
+      "options": ["Oxygen", "Carbon Dioxide", "Methyl Isocyanate (MIC)", "Nitrogen"],
+      "correctIndex": 2,
+      "explanation": "MIC is an extremely toxic gas that killed thousands within hours.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q6",
+      "text": "Why did Union Carbide set up its plant in India instead of the USA?",
+      "options": ["India had better technology", "Cheaper labor and lower safety standards", "India had more trees", "The USA banned pesticides"],
+      "correctIndex": 1,
+      "explanation": "Multi-national companies often seek lower costs and lax regulations in developing countries.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q7",
+      "text": "The Bhopal tragedy was not an 'accident' because ________.",
+      "options": ["Safety procedures were deliberately ignored to save costs", "The gas was meant to leak", "People wanted it", "None of these"],
+      "correctIndex": 0,
+      "explanation": "The company had cut down on safety equipment and personnel to increase profit.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q8",
+      "text": "What is the role of the government as a 'Law Enforcer' in safety matters?",
+      "options": ["To help companies hide their mistakes", "To inspect plants and ensure safety laws are followed", "To collect bribes", "To ignore safety reports"],
+      "correctIndex": 1,
+      "explanation": "The government failed in Bhopal by allowing the plant to operate in a crowded area with poor safety.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q9",
+      "text": "Right to Life (Article 21) includes the right to a ________ environment.",
+      "options": ["Noisy", "Healthy and Pollution-free", "Expensive", "Industrial"],
+      "correctIndex": 1,
+      "explanation": "Courts have expanded the meaning of Right to Life to include environmental protection.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q10",
+      "text": "What is the problem with 'Cheap Labor'?",
+      "options": ["It makes things expensive", "It often involves exploitation and poor working conditions", "It creates more jobs for everyone", "None of these"],
+      "correctIndex": 1,
+      "explanation": "When wages are very low, workers often can't afford a decent life and safety is neglected.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q11",
+      "text": "The government has passed laws to prohibit the employment of children under ________ years of age.",
+      "options": ["10", "14", "18", "21"],
+      "correctIndex": 1,
+      "explanation": "Article 24 of the Constitution prohibits child labor in hazardous industries.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q12",
+      "text": "Environment was previously treated as a ________ resource that anyone could pollute.",
+      "options": ["Private", "Free", "Expensive", "Legal"],
+      "correctIndex": 1,
+      "explanation": "Until recently, there were few laws to hold industries accountable for polluting air and water.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c8_q13",
+      "text": "Who should be held responsible for the environmental damage caused by a factory?",
+      "options": ["The workers", "The local residents", "The polluter (The factory owner/company)", "The trees"],
+      "correctIndex": 2,
+      "explanation": "The 'Polluter Pays Principle' states that the party responsible for pollution should bear the costs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q14",
+      "text": "Which court case established that the 'Right to Life' includes the right to enjoyment of pollution-free water and air?",
+      "options": ["Olga Tellis vs BMC", "Subhash Kumar vs State of Bihar", "Kesavananda Bharati", "None of these"],
+      "correctIndex": 1,
+      "explanation": "The Supreme Court gave this landmark judgment in 1991.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c8_q15",
+      "text": "What is the goal of 'Social Justice' in the market?",
+      "options": ["To make the rich richer", "To ensure fair transactions and protect the vulnerable from exploitation", "To ban all businesses", "To stop taxes"],
+      "correctIndex": 1,
+      "explanation": "Laws act as a check on the market to ensure producers, consumers, and workers are treated fairly.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q16",
+      "text": "CNG (Compressed Natural Gas) was introduced in Delhi transport to ________.",
+      "options": ["Save money", "Reduce air pollution", "Increase speed", "Help the drivers"],
+      "correctIndex": 1,
+      "explanation": "The Supreme Court ordered all public transport in Delhi to switch to CNG to clean the air.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q17",
+      "text": "Many industries shift to ________ because of loose environmental and safety laws.",
+      "options": ["Developing countries", "Developed countries", "The moon", "The ocean"],
+      "correctIndex": 0,
+      "explanation": "This is often called 'dumping' of hazardous industries in poor nations.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q18",
+      "text": "Workers often don't complain about poor conditions because ________.",
+      "options": ["They like them", "They are afraid of losing their jobs", "They get extra pay", "They don't understand the law"],
+      "correctIndex": 1,
+      "explanation": "In a country with high unemployment, workers have weak bargaining power.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q19",
+      "text": "What is the 'Polluter Pays' principle?",
+      "options": ["Polluters get paid by the government", "Polluters must pay for the damage they cause to the environment", "People must pay polluters to stop", "None of these"],
+      "correctIndex": 1,
+      "explanation": "It aims to make industries internalise the cost of environmental protection.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q20",
+      "text": "Consumer protection laws ensure that ________.",
+      "options": ["Producers can sell anything", "Consumers get quality goods and are not cheated", "Prices are always low", "Everything is free"],
+      "correctIndex": 1,
+      "explanation": "Laws ensure that products (like medicines or food) are safe and meet standards.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q21",
+      "text": "Investment in safety measures is often seen as a ________ by companies.",
+      "options": ["Profit", "Cost to be reduced", "Requirement", "None of these"],
+      "correctIndex": 1,
+      "explanation": "To maximize profit, companies often cut corners on safety equipment.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c8_q22",
+      "text": "The Bhopal gas victims are still fighting for ________.",
+      "options": ["Clean drinking water", "Proper healthcare and compensation", "Removal of toxic waste", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Decades later, the site remains contaminated and many victims have not received full justice.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q23",
+      "text": "Why do safety laws need to be updated regularly?",
+      "options": ["To make them more complicated", "To address new technologies and risks", "Because the old ones are lost", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Laws must keep pace with industrial and scientific developments.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c8_q24",
+      "text": "A 'Vested Interest' means:",
+      "options": ["Wearing a vest", "A personal stake in something, especially one with financial gain", "Interest on a bank loan", "A group of people"],
+      "correctIndex": 1,
+      "explanation": "Companies have a vested interest in keeping costs low, even if it compromises safety.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_c8_q25",
+      "text": "Which of the following is a way for the government to protect the environment?",
+      "options": ["Setting emission standards for vehicles", "Banning hazardous pesticides", "Ordering factories to move away from residential areas", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "The state uses its regulatory power to manage environmental health.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q26",
+      "text": "Does the law allow the employment of children in 'Dhabas' or as domestic help?",
+      "options": ["Yes", "No, it is banned under Child Labour laws", "Only if they are paid well", "Only in the evening"],
+      "correctIndex": 1,
+      "explanation": "The Child Labour (Prohibition and Regulation) Act has been expanded to cover almost all forms of work for children.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q27",
+      "text": "What is the meaning of 'Exploitation'?",
+      "options": ["Paying someone fairly", "Taking unfair advantage of someone for one's own benefit", "Giving a job", "Helping others"],
+      "correctIndex": 1,
+      "explanation": "Exploitation happens when workers have no choice but to work in dangerous or underpaid conditions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q28",
+      "text": "Law and Social Justice means that the law should be used to ________.",
+      "options": ["Help the powerful", "Protect the weak and ensure fairness for all", "Control the poor", "Increase taxes"],
+      "correctIndex": 1,
+      "explanation": "The ultimate aim of law in a democracy is to achieve a just society.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q29",
+      "text": "The Supreme Court in India has increasingly focused on ________ since the 1990s.",
+      "options": ["Trade with USA", "Environmental issues", "Building roads", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Environmental litigation has grown, often through PILs.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c8_q30",
+      "text": "When a factory pollutes a river, who is affected?",
+      "options": ["Only the fish", "The people who depend on the river for drinking and farming", "Only the factory", "Nobody"],
+      "correctIndex": 1,
+      "explanation": "Pollution is a negative externality that affects the whole community.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q31",
+      "text": "Is the government responsible if safety laws are not enforced?",
+      "options": ["No, it's the company's fault only", "Yes, it is the government's duty to monitor and enforce laws", "Only if there is a protest", "None of these"],
+      "correctIndex": 1,
+      "explanation": "The government acts as a regulator and is accountable for failures in enforcement.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q32",
+      "text": "Which fundamental right prohibits 'begar' (forced labor)?",
+      "options": ["Right to Equality", "Right against Exploitation", "Right to Freedom", "Right to Education"],
+      "correctIndex": 1,
+      "explanation": "Article 23 protects people from human trafficking and forced labor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q33",
+      "text": "Hazardous industries should ideally be located:",
+      "options": ["In the middle of cities", "Far away from residential areas", "Near schools", "On the beach"],
+      "correctIndex": 1,
+      "explanation": "This reduces the risk to human life in case of an accident.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c8_q34",
+      "text": "The word 'Liability' means:",
+      "options": ["Legal responsibility for something", "A type of machine", "A profit", "None of these"],
+      "correctIndex": 0,
+      "explanation": "Union Carbide had a legal liability to compensate the victims of the gas leak.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q35",
+      "text": "What is the problem with shifting polluting factories to rural areas?",
+      "options": ["It makes the city clean but pollutes the rural environment", "It is too expensive", "It creates too many jobs", "None of these"],
+      "correctIndex": 0,
+      "explanation": "It simply moves the problem rather than solving it.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c8_q36",
+      "text": "Public awareness about ________ has increased since the Bhopal tragedy.",
+      "options": ["New movies", "Industrial safety and environmental rights", "Cricket", "Space"],
+      "correctIndex": 1,
+      "explanation": "The tragedy changed the way people and courts view corporate responsibility.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q37",
+      "text": "Minimum wages are reviewed and revised ________.",
+      "options": ["Never", "Every year or periodically by the government", "Only when the workers go on strike", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Revisions are necessary to account for inflation and cost of living.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c8_q38",
+      "text": "A 'Producer' in the market is one who ________.",
+      "options": ["Buys goods", "Manufactures or grows goods", "Watches movies", "Sells everything for free"],
+      "correctIndex": 1,
+      "explanation": "Producers include farmers, factory owners, etc.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c8_q39",
+      "text": "The government can also protect people by ________ prices of essential goods like kerosene.",
+      "options": ["Increasing", "Fixing/Regulating", "Banning", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Price controls ensure basic items are affordable for the poor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c8_q40",
+      "text": "Sustainable Development means development that meets the needs of the present without ________.",
+      "options": ["Any money", "Compromising the ability of future generations to meet their own needs", "Using any machines", "Working at all"],
+      "correctIndex": 1,
+      "explanation": "It balances economic growth with environmental protection.",
+      "frequencyRating": 5
+    }
+  ]
+}
