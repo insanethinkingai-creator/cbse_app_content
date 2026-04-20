@@ -1,0 +1,330 @@
+{
+  "id": "g8_civ_ch5",
+  "grade": "8",
+  "subject": "Civics",
+  "number": "5",
+  "title": "Understanding Marginalisation",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_c5_q1",
+      "text": "To be 'marginalised' means to be:",
+      "options": ["At the center of power", "Forced to occupy the sides or fringes", "Very wealthy", "Highly educated"],
+      "correctIndex": 1,
+      "explanation": "Marginalisation is a social process of being confined to a lower social standing or being excluded.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c5_q2",
+      "text": "The term 'Adivasi' literally means:",
+      "options": ["Forest dwellers", "Original inhabitants", "Slum dwellers", "Nomads"],
+      "correctIndex": 1,
+      "explanation": "Adivasis are communities who lived, and often continue to live, in close association with forests.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c5_q3",
+      "text": "What percentage of India's population is Adivasi?",
+      "options": ["5%", "8%", "15%", "25%"],
+      "correctIndex": 1,
+      "explanation": "Around 8 per cent of India’s population is Adivasi.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c5_q4",
+      "text": "Which state has a high concentration of Adivasis and mining activities?",
+      "options": ["Punjab", "Jharkhand", "Kerala", "Uttar Pradesh"],
+      "correctIndex": 1,
+      "explanation": "Jharkhand, Chhattisgarh, and Odisha are major tribal areas with rich mineral deposits.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c5_q5",
+      "text": "Adivasi societies are often very different because they have very little ________.",
+      "options": ["Money", "Language", "Hierarchy (caste or king-based)", "Culture"],
+      "correctIndex": 2,
+      "explanation": "Adivasi societies are more egalitarian compared to caste-based or monarchical societies.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c5_q6",
+      "text": "Adivasis practice their own religions which often involve the worship of:",
+      "options": ["Ancestors", "Village spirits", "Nature spirits", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Their religions are distinct from Hinduism, Islam, or Christianity, focusing on the local environment and ancestors.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c5_q7",
+      "text": "Stereotyping Adivasis often portrays them as:",
+      "options": ["Exotic, primitive and backward", "Highly technological", "Business experts", "Urban residents"],
+      "correctIndex": 0,
+      "explanation": "Stereotypes usually show them in colorful costumes, dancing, which leads to the belief that they are 'backward'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c5_q8",
+      "text": "What is the primary reason for Adivasis losing their lands?",
+      "options": ["Selling them for profit", "Migration to cities", "Mining and industrial projects", "Voluntary donation"],
+      "correctIndex": 2,
+      "explanation": "Forest lands have been cleared for timber and to get land for agriculture and industry.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c5_q9",
+      "text": "In the 19th century, many Adivasis migrated to tea plantations in:",
+      "options": ["Gujarat", "Assam", "Tamil Nadu", "Rajasthan"],
+      "correctIndex": 1,
+      "explanation": "Adivasis from Jharkhand and Odisha migrated to Assam tea plantations in search of work.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c5_q10",
+      "text": "Loss of land and access to forests means Adivasis lose their main source of ________.",
+      "options": ["Food and livelihood", "Entertainment", "Politics", "Pollution"],
+      "correctIndex": 0,
+      "explanation": "Displacement leads to poverty and malnutrition as they lose their traditional way of living.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c5_q11",
+      "text": "Which religious group is considered a minority in India and faces marginalisation?",
+      "options": ["Hindus", "Muslims", "Both", "None"],
+      "correctIndex": 1,
+      "explanation": "Muslims are a religious minority in India and, in some contexts, face social and economic marginalisation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c5_q12",
+      "text": "According to the 2011 Census, Muslims constitute about ________ per cent of India's population.",
+      "options": ["10.2%", "14.2%", "20.5%", "5.1%"],
+      "correctIndex": 1,
+      "explanation": "Muslims make up 14.2% of India's population.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c5_q13",
+      "text": "The Sachar Committee was set up in 2005 to study the status of which community?",
+      "options": ["Adivasis", "Sikhs", "Muslims", "Dalits"],
+      "correctIndex": 2,
+      "explanation": "The committee examined the social, economic, and educational status of the Muslim community in India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c5_q14",
+      "text": "What did the Sachar Committee find regarding the status of Muslims?",
+      "options": ["They are the richest community", "Their status is comparable to SCs and STs", "They have 100% literacy", "They occupy most government jobs"],
+      "correctIndex": 1,
+      "explanation": "The committee concluded that on many indicators, the Muslim community was behind others.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c5_q15",
+      "text": "Ghettoisation refers to:",
+      "options": ["Beautifying a city", "The process where a community lives together in one area due to social or economic pressure", "Building large factories", "Spreading awareness"],
+      "correctIndex": 1,
+      "explanation": "Fear and discrimination often lead to members of a community concentrating in specific neighborhoods.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c5_q16",
+      "text": "Which of these is a reason for marginalisation?",
+      "options": ["Different language", "Different customs", "Poverty", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Marginalisation results from a combination of economic, social, and cultural factors.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c5_q17",
+      "text": "Adivasis are often forced to move to cities where they work as:",
+      "options": ["Company managers", "Domestic workers or construction laborers", "Government officers", "Scientists"],
+      "correctIndex": 1,
+      "explanation": "Lacking education and resources, they often end up in low-paid unorganised sector jobs.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c5_q18",
+      "text": "The word 'Dalit' means:",
+      "options": ["Powerful", "Broken", "Upper", "Pure"],
+      "correctIndex": 1,
+      "explanation": "It is a term used by people from 'lower castes' to describe themselves, highlighting their historical oppression.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c5_q19",
+      "text": "Niyamgiri is a sacred hill for Adivasis in which state?",
+      "options": ["Odisha", "Jharkhand", "Bihar", "Assam"],
+      "correctIndex": 0,
+      "explanation": "The Dongria Kondh community lives in the Niyamgiri hills of Odisha.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c5_q20",
+      "text": "What does 'Mainstream' mean in a social context?",
+      "options": ["The middle of a river", "People or practices that are considered normal or dominant by most of society", "A type of education", "Small groups"],
+      "correctIndex": 1,
+      "explanation": "Mainstream views often exclude the needs and cultures of marginalised groups.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c5_q21",
+      "text": "Which community is most commonly stereotyped through their traditional clothing like the burqa or fez?",
+      "options": ["Adivasis", "Sikhs", "Muslims", "Parsis"],
+      "correctIndex": 2,
+      "explanation": "Visible markers of religious identity often lead to stereotyping and discrimination against Muslims.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c5_q22",
+      "text": "In forest areas, who often took away Adivasi lands using force?",
+      "options": ["Traders and moneylenders", "Government", "Industrialists", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Various powerful groups exploited the vulnerability of Adivasis to seize their resources.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c5_q23",
+      "text": "The Indian Constitution provides safeguards to ________ and ________ minorities.",
+      "options": ["Religious, Linguistic", "Rich, Poor", "Urban, Rural", "Men, Women"],
+      "correctIndex": 0,
+      "explanation": "Safeguards are needed to protect minorities from the domination of the majority.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c5_q24",
+      "text": "Why do we need safeguards for minorities?",
+      "options": ["To protect them against discrimination", "To ensure equality and justice", "To protect their unique culture", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Democracy requires that everyone has a fair chance, regardless of their population size.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c5_q25",
+      "text": "Hierarchy means:",
+      "options": ["A graded system where people are ranked above or below others", "A system of equality", "A forest area", "A type of religion"],
+      "correctIndex": 0,
+      "explanation": "The caste system is a classic example of a social hierarchy.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c5_q26",
+      "text": "The literacy rate among Muslims is ________ compared to the national average.",
+      "options": ["Higher", "Lower", "The same", "100%"],
+      "correctIndex": 1,
+      "explanation": "The Sachar Committee found that education levels were significantly lower in the Muslim community.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c5_q27",
+      "text": "Stereotyping leads to people not being treated as ________.",
+      "options": ["Enemies", "Equal human beings", "Different", "Poor"],
+      "correctIndex": 1,
+      "explanation": "Prejudice prevents us from seeing the individual and leads to unfair treatment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c5_q28",
+      "text": "How many tribal groups are estimated to be in India?",
+      "options": ["Over 500", "Exactly 100", "Only 10", "Over 2000"],
+      "correctIndex": 0,
+      "explanation": "There are over 500 different Adivasi groups in India.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_c5_q29",
+      "text": "Adivasis are often blamed for their own lack of advancement because of the belief that they are:",
+      "options": ["Too rich", "Resistant to new ideas", "Involved in politics", "None of these"],
+      "correctIndex": 1,
+      "explanation": "This is a common misconception that ignores the systematic loss of their land and rights.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c5_q30",
+      "text": "Marginalisation is often linked to experiencing ________.",
+      "options": ["Power and Wealth", "Disadvantage and Powerlessness", "Happiness", "Celebrity status"],
+      "correctIndex": 1,
+      "explanation": "It results in people having little access to resources or decision-making power.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c5_q31",
+      "text": "Santhali is a language spoken by Adivasis and has a large body of publications. In which state is it common?",
+      "options": ["Kerala", "Jharkhand", "Punjab", "Tamil Nadu"],
+      "correctIndex": 1,
+      "explanation": "Santhals are a major tribal group in Jharkhand and West Bengal.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_c5_q32",
+      "text": "Muslims are often viewed with suspicion because of their 'otherness'. This leads to ________.",
+      "options": ["Cooperation", "Hatred and Violence", "Friendship", "Economic growth"],
+      "correctIndex": 1,
+      "explanation": "Prejudice can manifest as social exclusion and, in extreme cases, communal violence.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c5_q33",
+      "text": "The Narmada Bachao Andolan was a movement against:",
+      "options": ["Forest fires", "Building of large dams that displace Adivasis", "Hunting", "School fees"],
+      "correctIndex": 1,
+      "explanation": "Dams like the Sardar Sarovar have displaced thousands of tribal families.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c5_q34",
+      "text": "Which of these groups can experience marginalisation?",
+      "options": ["Women", "Religious minorities", "Tribal communities", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Marginalisation is not limited to one group; any minority can be pushed to the fringes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c5_q35",
+      "text": "What is the result of the displacement of Adivasis from forests?",
+      "options": ["They become richer", "Loss of culture and traditions", "They get better jobs in cities", "None of these"],
+      "correctIndex": 1,
+      "explanation": "The bond between their culture and the forest is broken when they are forced out.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c5_q36",
+      "text": "An example of a linguistic minority could be:",
+      "options": ["Punjabi speakers in Karnataka", "Hindi speakers in Delhi", "English speakers in USA", "None"],
+      "correctIndex": 0,
+      "explanation": "Minority status is often relative to the dominant group in a specific region.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_c5_q37",
+      "text": "Are Adivasis a single homogeneous group?",
+      "options": ["Yes", "No, they are very diverse with hundreds of groups", "Only in Odisha", "Yes, they all speak the same language"],
+      "correctIndex": 1,
+      "explanation": "There is immense diversity in Adivasi culture, language, and geography.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c5_q38",
+      "text": "Can marginalisation be cured?",
+      "options": ["No", "Yes, through struggle, resistance and government action", "Only by giving everyone money", "Only by leaving the country"],
+      "correctIndex": 1,
+      "explanation": "History shows that marginalised groups can change their status through organized movements and legal protections.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c5_q39",
+      "text": "Jagannath cult of Odisha is an example of:",
+      "options": ["Adivasi influence on mainstream religion", "Mainstream religion destroying Adivasi culture", "A foreign religion", "A type of forest"],
+      "correctIndex": 0,
+      "explanation": "The local tribal deity was incorporated into the mainstream Jagannath tradition over centuries.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_c5_q40",
+      "text": "A 'Moneylender' in the context of Adivasis often acted as a:",
+      "options": ["Helper", "Source of debt and land loss", "Teacher", "Political leader"],
+      "correctIndex": 1,
+      "explanation": "Moneylenders charged high interest, leading Adivasis into a debt trap and eventual loss of land.",
+      "frequencyRating": 5
+    }
+  ]
+}

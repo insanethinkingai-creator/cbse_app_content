@@ -1,0 +1,330 @@
+{
+  "id": "g8_geo_ch3",
+  "grade": "8",
+  "subject": "Geography",
+  "number": "3",
+  "title": "Mineral and Power Resources",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_g3_q1",
+      "text": "A naturally occurring substance that has a definite chemical composition is a ________.",
+      "options": ["Rock", "Ore", "Mineral", "Stone"],
+      "correctIndex": 2,
+      "explanation": "Minerals are distributed unevenly and formed in different types of geological environments.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q2",
+      "text": "Minerals that contain metals in raw form are called:",
+      "options": ["Non-metallic minerals", "Metallic minerals", "Ferrous minerals", "Alloys"],
+      "correctIndex": 1,
+      "explanation": "Iron ore, bauxite, and manganese are examples of metallic minerals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q3",
+      "text": "Metallic minerals that contain iron are called ________ minerals.",
+      "options": ["Non-ferrous", "Ferrous", "Inert", "Organic"],
+      "correctIndex": 1,
+      "explanation": "Ferrous comes from the Latin word for iron.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q4",
+      "text": "Which of the following is a non-metallic mineral?",
+      "options": ["Gold", "Iron ore", "Limestone", "Copper"],
+      "correctIndex": 2,
+      "explanation": "Limestone, mica, and gypsum do not contain metals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q5",
+      "text": "The process of taking out minerals from rocks buried under the earth's surface is called:",
+      "options": ["Quarrying", "Drilling", "Mining", "Farming"],
+      "correctIndex": 2,
+      "explanation": "Mining can be open-cast or shaft mining.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q6",
+      "text": "Minerals that lie at shallow depths and are taken out by removing the surface layer are known as ________ mining.",
+      "options": ["Open-cast", "Shaft", "Deep", "Drilling"],
+      "correctIndex": 0,
+      "explanation": "Open-cast mining is used for minerals near the surface.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q7",
+      "text": "Deep bores made to reach mineral deposits at great depths are called:",
+      "options": ["Wells", "Shafts", "Tunnels", "Ditches"],
+      "correctIndex": 1,
+      "explanation": "Shaft mining is used for minerals found at great depths.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q8",
+      "text": "The process of boring deep wells to take out petroleum and natural gas is called:",
+      "options": ["Mining", "Quarrying", "Drilling", "Pumping"],
+      "correctIndex": 2,
+      "explanation": "Drilling is common for liquid or gaseous resources found far below ground.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q9",
+      "text": "Minerals that lie near the surface and are simply dug out are called:",
+      "options": ["Mining", "Quarrying", "Drilling", "Open-cast"],
+      "correctIndex": 1,
+      "explanation": "Quarrying is used for building materials like stone or sand.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g3_q10",
+      "text": "Which continent is the leading producer of iron ore in the world?",
+      "options": ["Asia", "Europe", "Africa", "Australia"],
+      "correctIndex": 1,
+      "explanation": "Europe has vast deposits of iron ore in Russia, Ukraine, and Sweden.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q11",
+      "text": "Asia produces more than half of the world's ________.",
+      "options": ["Gold", "Silver", "Tin", "Copper"],
+      "correctIndex": 2,
+      "explanation": "China, Malaysia, and Indonesia are among the world's leading tin producers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q12",
+      "text": "Which country in South America is the leading producer of copper?",
+      "options": ["Brazil", "Chile", "Argentina", "Peru"],
+      "correctIndex": 1,
+      "explanation": "Chile and Peru are leading copper producers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q13",
+      "text": "A rare diamond which is found in nature is ________ in color.",
+      "options": ["White", "Yellow", "Green", "Blue"],
+      "correctIndex": 2,
+      "explanation": "Green diamonds are the rarest.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g3_q14",
+      "text": "Power resources are broadly categorized as ________.",
+      "options": ["Hard and Soft", "Conventional and Non-conventional", "Metallic and Non-metallic", "Natural and Human"],
+      "correctIndex": 1,
+      "explanation": "Conventional resources have been in use for a long time, while non-conventional are newer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q15",
+      "text": "Which of the following is a conventional source of energy?",
+      "options": ["Solar energy", "Wind energy", "Firewood", "Tidal energy"],
+      "correctIndex": 2,
+      "explanation": "Firewood and fossil fuels are the two main conventional energy sources.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q16",
+      "text": "Coal is also known as ________.",
+      "options": ["Black Gold", "Buried Sunshine", "White Coal", "Liquid Gold"],
+      "correctIndex": 1,
+      "explanation": "Coal was formed millions of years ago from giant ferns and swamps buried under Earth layers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q17",
+      "text": "Petroleum and its derivatives are called ________ because they are very valuable.",
+      "options": ["Buried Sunshine", "Black Gold", "White Coal", "Liquid Gold"],
+      "correctIndex": 1,
+      "explanation": "Petroleum is used in a vast range of products.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q18",
+      "text": "Which gas is found with petroleum deposits and is released when crude oil is brought to the surface?",
+      "options": ["Biogas", "Oxygen", "Natural gas", "Hydrogen"],
+      "correctIndex": 2,
+      "explanation": "Natural gas is used as domestic and industrial fuel.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q19",
+      "text": "The electricity generated from water is called ________.",
+      "options": ["Solar power", "Hydroelectricity", "Nuclear power", "Thermal power"],
+      "correctIndex": 1,
+      "explanation": "Falling water turns turbines to produce electricity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q20",
+      "text": "Which of these is a non-conventional source of energy?",
+      "options": ["Coal", "Petroleum", "Solar energy", "Natural gas"],
+      "correctIndex": 2,
+      "explanation": "Non-conventional sources are renewable and generally eco-friendly.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q21",
+      "text": "Energy obtained from the nucleus of atoms of naturally occurring radioactive elements like Uranium and Thorium is:",
+      "options": ["Solar energy", "Geothermal energy", "Nuclear power", "Biogas"],
+      "correctIndex": 2,
+      "explanation": "Nuclear reactors use nuclear fission to produce power.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q22",
+      "text": "Heat energy obtained from the interior of the earth is called ________ energy.",
+      "options": ["Solar", "Tidal", "Geothermal", "Nuclear"],
+      "correctIndex": 2,
+      "explanation": "Temperature rises as we go deeper into the earth, providing heat.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q23",
+      "text": "Energy generated from tides is called ________ energy.",
+      "options": ["Tidal", "Wave", "Ocean", "Hydro"],
+      "correctIndex": 0,
+      "explanation": "Dams are built at narrow openings of the sea to harness tidal energy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q24",
+      "text": "Organic waste like dead plant and animal material transformed by bacteria into gaseous fuel is called ________.",
+      "options": ["Natural gas", "Biogas", "Petroleum", "LPG"],
+      "correctIndex": 1,
+      "explanation": "Biogas is an excellent fuel for cooking and lighting.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q25",
+      "text": "The Kolar gold mines are located in ________.",
+      "options": ["Tamil Nadu", "Karnataka", "Kerala", "Andhra Pradesh"],
+      "correctIndex": 1,
+      "explanation": "The Kolar mines in Karnataka are among the deepest in the world.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q26",
+      "text": "Which of these is used in the electrical and electronic industries because of its insulating properties?",
+      "options": ["Copper", "Mica", "Bauxite", "Iron"],
+      "correctIndex": 1,
+      "explanation": "Mica can withstand high voltage and has low power loss factor.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g3_q27",
+      "text": "Bauxite is the ore from which ________ is obtained.",
+      "options": ["Iron", "Aluminum", "Copper", "Manganese"],
+      "correctIndex": 1,
+      "explanation": "Aluminum is used in aircraft and automobiles due to its light weight.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q28",
+      "text": "Where is the largest solar plant of India located?",
+      "options": ["Madhavpur", "Rewa", "Kamuthi", "Bhuj"],
+      "correctIndex": 2,
+      "explanation": "The Kamuthi solar power project is in Tamil Nadu.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_g3_q29",
+      "text": "Manikaran in Himachal Pradesh is famous for which type of energy?",
+      "options": ["Solar", "Wind", "Geothermal", "Tidal"],
+      "correctIndex": 2,
+      "explanation": "Manikaran is known for its hot springs which provide geothermal energy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q30",
+      "text": "Kalpakkam in Tamil Nadu is famous for ________ power.",
+      "options": ["Hydro", "Thermal", "Nuclear", "Wind"],
+      "correctIndex": 2,
+      "explanation": "It is home to the Madras Atomic Power Station.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q31",
+      "text": "Which country has the world's largest geothermal power plants?",
+      "options": ["India", "USA", "Iceland", "New Zealand"],
+      "correctIndex": 1,
+      "explanation": "USA has the highest capacity, followed by New Zealand and Iceland.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g3_q32",
+      "text": "The first country in the world to develop hydroelectricity was ________.",
+      "options": ["USA", "Norway", "Brazil", "India"],
+      "correctIndex": 1,
+      "explanation": "Norway was the pioneer in hydroelectric power.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g3_q33",
+      "text": "Minerals are ________ resources.",
+      "options": ["Renewable", "Non-renewable", "Ubiquitous", "Human-made"],
+      "correctIndex": 1,
+      "explanation": "Minerals take thousands of years to form and are exhausted by human use.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q34",
+      "text": "Recycling of metals is a way to ________ minerals.",
+      "options": ["Waste", "Conserve", "Export", "Create"],
+      "correctIndex": 1,
+      "explanation": "Using scrap metal reduces the need for mining new ores.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g3_q35",
+      "text": "Which of these is a ferrous mineral?",
+      "options": ["Gold", "Silver", "Manganese", "Copper"],
+      "correctIndex": 2,
+      "explanation": "Manganese is used in the manufacture of steel.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g3_q36",
+      "text": "Most minerals are found in which type of rocks?",
+      "options": ["Sedimentary", "Igneous and Metamorphic", "Sandstone", "Limestone"],
+      "correctIndex": 1,
+      "explanation": "Metallic minerals like iron and copper are usually found in igneous and metamorphic rock formations.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g3_q37",
+      "text": "The Gulf of Kachchh in India is a good site for ________ energy.",
+      "options": ["Solar", "Tidal", "Wind", "Nuclear"],
+      "correctIndex": 1,
+      "explanation": "The large tidal range makes it suitable for tidal power.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g3_q38",
+      "text": "Which of these is a leading producer of natural gas in the world?",
+      "options": ["Russia", "India", "China", "Australia"],
+      "correctIndex": 0,
+      "explanation": "Russia and Norway have huge natural gas reserves.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g3_q39",
+      "text": "Petroleum is found between the layers of ________.",
+      "options": ["Rocks", "Clouds", "Ice", "Ocean water"],
+      "correctIndex": 0,
+      "explanation": "It is trapped between layers of sedimentary rocks.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g3_q40",
+      "text": "CNG stands for ________.",
+      "options": ["Common Natural Gas", "Compressed Natural Gas", "Complex Nitrogen Gas", "Combined Natural Gas"],
+      "correctIndex": 1,
+      "explanation": "CNG is a cleaner alternative to petrol and diesel.",
+      "frequencyRating": 5
+    }
+  ]
+}

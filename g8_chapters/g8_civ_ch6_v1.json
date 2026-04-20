@@ -1,0 +1,330 @@
+{
+  "id": "g8_civ_ch6",
+  "grade": "8",
+  "subject": "Civics",
+  "number": "6",
+  "title": "Confronting Marginalisation",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_c6_q1",
+      "text": "The Constitution of India provides ways to ________ marginalisation.",
+      "options": ["Promote", "Ignore", "Confront and challenge", "Support"],
+      "correctIndex": 2,
+      "explanation": "Marginalised groups use the Constitution to demand equal treatment and justice.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c6_q2",
+      "text": "Which Article of the Constitution states that 'Untouchability' has been abolished?",
+      "options": ["Article 15", "Article 17", "Article 21", "Article 32"],
+      "correctIndex": 1,
+      "explanation": "Article 17 explicitly bans the practice of untouchability in any form.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c6_q3",
+      "text": "Article 15 of the Constitution ensures that:",
+      "options": ["Everyone can have a gun", "No citizen shall be discriminated against on grounds of religion, race, caste, sex, or place of birth", "Only rich people can vote", "Everyone must speak Hindi"],
+      "correctIndex": 1,
+      "explanation": "Article 15 is a key weapon for Dalits to demand equal access to public places.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c6_q4",
+      "text": "Marginalised communities use ________ to insist that the government enforce laws.",
+      "options": ["Fundamental Rights", "Money", "Violence", "Foreign help"],
+      "correctIndex": 0,
+      "explanation": "They draw on Fundamental Rights to show that they are equal citizens of the country.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c6_q5",
+      "text": "The 'Reservation' policy is an example of:",
+      "options": ["A law to punish people", "A specific policy for social justice", "A way to win elections", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Reservations in education and government jobs aim to provide opportunities to groups historically denied them.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c6_q6",
+      "text": "Which groups are typically covered under the reservation policy?",
+      "options": ["Scheduled Castes (SC) and Scheduled Tribes (ST)", "Other Backward Classes (OBC)", "Both A and B", "Only the very rich"],
+      "correctIndex": 2,
+      "explanation": "SCs, STs, and OBCs are provided reservations based on their historical disadvantage.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c6_q7",
+      "text": "Why do governments use 'Cut-off' marks in entrance exams for reserved categories?",
+      "options": ["To make it harder for them", "To ensure that qualified candidates from these groups get a chance", "To stop them from studying", "Because they don't have enough seats"],
+      "correctIndex": 1,
+      "explanation": "Cut-off marks are a standard used to select candidates within the reserved quota.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c6_q8",
+      "text": "The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act was passed in ________.",
+      "options": ["1950", "1975", "1989", "2005"],
+      "correctIndex": 2,
+      "explanation": "The 1989 Act was a response to demands by Dalits and others for protection against ill-treatment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c6_q9",
+      "text": "The 1989 Act distinguishes between which types of crimes?",
+      "options": ["Modes of humiliation", "Actions that dispossess them of property", "Physical violence", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "The Act identifies specific humiliating and violent acts committed against SCs and STs and lists punishments.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c6_q10",
+      "text": "Kabir was a 15th-century poet who challenged:",
+      "options": ["The British", "The caste system and religious rituals", "Modern technology", "Scientific ideas"],
+      "correctIndex": 1,
+      "explanation": "Kabir's poetry focused on the equality of all human beings regardless of birth.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c6_q11",
+      "text": "Manual scavenging refers to the practice of ________.",
+      "options": ["Collecting garbage", "Removing human and animal excreta using brooms and tin plates", "Farming", "Mining"],
+      "correctIndex": 1,
+      "explanation": "It is an inhuman practice traditionally forced upon specific Dalit sub-castes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c1_q12",
+      "text": "The 'Employment of Manual Scavengers and Construction of Dry Latrines (Prohibition) Act' was passed in ________.",
+      "options": ["1993", "2000", "2010", "1950"],
+      "correctIndex": 0,
+      "explanation": "This law was enacted to ban the practice of manual scavenging.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c6_q13",
+      "text": "The Safai Karamchari Andolan filed a PIL in 2003 because ________.",
+      "options": ["They wanted more pay", "Manual scavenging was still being practiced despite the ban", "They wanted new uniforms", "The schools were closed"],
+      "correctIndex": 1,
+      "explanation": "The PIL sought the enforcement of the 1993 Act and the rehabilitation of manual scavengers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c6_q14",
+      "text": "Adivasi activists like C.K. Janu have argued that the 1989 Act can be used to ________.",
+      "options": ["Punish people who take away Adivasi lands", "Build more dams", "Invite foreign companies", "Stop forest growth"],
+      "correctIndex": 0,
+      "explanation": "The Act protects STs from being dispossessed of their traditional land.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c6_q15",
+      "text": "The 'Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006' was passed to:",
+      "options": ["Evict people from forests", "Recognize the rights of forest dwellers over forest land and resources", "Ban hunting", "Sell forest land"],
+      "correctIndex": 1,
+      "explanation": "This Act aims to undo historical injustice by recognizing traditional rights of Adivasis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c6_q16",
+      "text": "Ostracise means to:",
+      "options": ["Socially boycott a person or group", "Give a medal", "Help someone", "Join a party"],
+      "correctIndex": 0,
+      "explanation": "It is a form of social punishment used by dominant groups to exclude others.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c6_q17",
+      "text": "The term 'Atheist' refers to a person who:",
+      "options": ["Prays every day", "Does not believe in the existence of God", "Believes in many gods", "Is a priest"],
+      "correctIndex": 1,
+      "explanation": "Kabir's followers often questioned the existence of an institutional God in favor of human values.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_c6_q18",
+      "text": "The Rathnam case (from the textbook) is an example of:",
+      "options": ["A Dalit using the 1989 Act to fight ritual humiliation", "A land dispute", "An election victory", "A school project"],
+      "correctIndex": 0,
+      "explanation": "Rathnam refused to perform a degrading ritual and used the law when his village retaliated.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c6_q19",
+      "text": "What happened to Rathnam's family after he refused to perform the ritual?",
+      "options": ["They were rewarded", "They were ostracised and their hut was burnt", "They moved to USA", "Nothing"],
+      "correctIndex": 1,
+      "explanation": "This illustrates the social pressure and violence faced by those who challenge the caste order.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c6_q20",
+      "text": "Dalit means 'broken', while Adivasi means ________.",
+      "options": ["Rich", "Original inhabitant", "Forest killer", "Modern"],
+      "correctIndex": 1,
+      "explanation": "The names chosen by the communities often reflect their identity and history.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c6_q21",
+      "text": "Article 17 ensures that no one can prevent Dalits from:",
+      "options": ["Educating themselves", "Entering temples", "Using public facilities", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "It makes the denial of access to public places a punishable crime.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c6_q22",
+      "text": "Is the government required to provide hostels for SC and ST students?",
+      "options": ["No", "Yes, as part of implementing social justice policies", "Only in big cities", "Only for boys"],
+      "correctIndex": 1,
+      "explanation": "Providing infrastructure like hostels is a way the state supports marginalized groups.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c6_q23",
+      "text": "The 1989 Act was framed because Dalits and Adivasis faced ________ during the 1970s and 80s.",
+      "options": ["Increased violence and assertion for rights", "Better treatment", "Loss of interest in politics", "None of these"],
+      "correctIndex": 0,
+      "explanation": "Groups became more assertive about their rights, leading to a backlash from dominant castes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c6_q24",
+      "text": "To 'Dispossess' someone means to:",
+      "options": ["Give them a gift", "Take away their property or land", "Invite them to dinner", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Adivasis have been systematically dispossessed of their forest lands.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c6_q25",
+      "text": "Can non-tribal people buy tribal land in areas covered by the 1989 Act?",
+      "options": ["Yes, easily", "No, tribal land cannot be sold to non-tribal people as per the law", "Only if the Governor agrees", "Only for business"],
+      "correctIndex": 1,
+      "explanation": "The law prevents the transfer of tribal land to maintain their community integrity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c6_q26",
+      "text": "Manual scavenging was banned because it violates the ________ of the workers.",
+      "options": ["Wealth", "Dignity and Fundamental Rights", "Education", "Time"],
+      "correctIndex": 1,
+      "explanation": "Being forced to handle human waste is a gross violation of human dignity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c6_q27",
+      "text": "The term 'Policy' refers to:",
+      "options": ["A stated course of action by the government", "A type of insurance", "A law made by police", "A secret plan"],
+      "correctIndex": 0,
+      "explanation": "Policies like reservation are systematic actions taken to achieve social goals.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c6_q28",
+      "text": "Does the Constitution mention the word 'Reservation' explicitly?",
+      "options": ["No, it uses terms like 'special provisions'", "Yes, in every page", "No, it's a secret law", "None of these"],
+      "correctIndex": 0,
+      "explanation": "The Constitution empowers the state to make 'special provisions' for disadvantaged groups.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_c6_q29",
+      "text": "Activists use the 1989 Act to ensure that those who dispossess Adivasis are ________.",
+      "options": ["Rewarded", "Punished", "Ignored", "Given more land"],
+      "correctIndex": 1,
+      "explanation": "The Act acts as a deterrent against land grabbing.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c6_q30",
+      "text": "A 'Dignified' life means one with ________.",
+      "options": ["Lots of money", "Self-respect and freedom from humiliation", "A big car", "A government job"],
+      "correctIndex": 1,
+      "explanation": "Dignity is a core promise of the Indian Constitution to all its citizens.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c6_q31",
+      "text": "The 2006 Forest Rights Act allows Adivasis to ________.",
+      "options": ["Cut down all trees", "Live in forests and use minor forest produce", "Sell the forest to companies", "Build luxury hotels"],
+      "correctIndex": 1,
+      "explanation": "It balances conservation with the traditional rights of the people.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c6_q32",
+      "text": "Can a person be sent to jail for practicing untouchability?",
+      "options": ["No", "Yes, it is a punishable crime", "Only if they are rich", "Only in villages"],
+      "correctIndex": 1,
+      "explanation": "Abolition of untouchability means its practice is illegal and carries penalties.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c6_q33",
+      "text": "Which religious figure is known for poems that describe God as 'the one who is found in the work of the hands'?",
+      "options": ["Kabir", "Meera", "Tulsidas", "None of these"],
+      "correctIndex": 0,
+      "explanation": "Kabir emphasized the spirituality of everyday labor and equality.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_c6_q34",
+      "text": "Social justice aims to:",
+      "options": ["Benefit only the majority", "Create a society where everyone is treated fairly regardless of their background", "Make everyone equal in wealth", "Stop all laws"],
+      "correctIndex": 1,
+      "explanation": "It focuses on the distribution of opportunities and rights in an equitable way.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c6_q35",
+      "text": "The 1989 Act was a result of a ________.",
+      "options": ["Request by the British", "Powerful movement by Dalits and Adivasis", "Decision by the Supreme Court only", "Military order"],
+      "correctIndex": 1,
+      "explanation": "Demands for stronger laws arose because existing laws were not effective enough against atrocities.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c6_q36",
+      "text": "Does Article 15 apply only to Dalit communities?",
+      "options": ["Yes", "No, it protects all citizens from discrimination", "Only to religious minorities", "Only to women"],
+      "correctIndex": 1,
+      "explanation": "It is a universal right for all Indian citizens.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c6_q37",
+      "text": "The word 'Scavenger' historically referred to:",
+      "options": ["Hunters", "Cleaners of waste", "Warriors", "Farmers"],
+      "correctIndex": 1,
+      "explanation": "It is now used mainly in the context of sanitation work.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c6_q38",
+      "text": "Which branch of government is responsible for making laws like the 1989 Act?",
+      "options": ["Legislature (Parliament)", "Executive", "Judiciary", "The Army"],
+      "correctIndex": 0,
+      "explanation": "Parliament debates and passes laws to protect citizens.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c6_q39",
+      "text": "Resistance to marginalisation can be through:",
+      "options": ["Legal battles", "Social movements", "Education and awareness", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Communities use various strategies to fight for their place in society.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c6_q40",
+      "text": "The Constitution is a 'living document' because:",
+      "options": ["It can talk", "It can be adapted and used to fight new forms of injustice", "It never changes", "It is made of paper"],
+      "correctIndex": 1,
+      "explanation": "Its principles continue to guide society as it evolves and faces new challenges.",
+      "frequencyRating": 4
+    }
+  ]
+}

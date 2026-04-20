@@ -1,0 +1,330 @@
+{
+  "id": "g8_civ_ch7",
+  "grade": "8",
+  "subject": "Civics",
+  "number": "7",
+  "title": "Public Facilities",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_c7_q1",
+      "text": "Which of the following is a 'Public Facility'?",
+      "options": ["Water and Electricity", "Public Transport", "Schools and Healthcare", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Public facilities are essential services provided to a large number of people simultaneously.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c7_q2",
+      "text": "What is the most important characteristic of a public facility?",
+      "options": ["It is very expensive", "Once it is provided, its benefits can be shared by many people", "It is only for the rich", "It is provided by private companies only"],
+      "correctIndex": 1,
+      "explanation": "Sharing benefits is the core idea (e.g., a school benefits many children in the locality).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c7_q3",
+      "text": "The 'Right to Water' is a part of the Fundamental Right to ________.",
+      "options": ["Equality", "Life (Article 21)", "Freedom", "Religion"],
+      "correctIndex": 1,
+      "explanation": "Courts have recognized that access to safe drinking water is essential for life.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c7_q4",
+      "text": "Whose primary responsibility is it to provide public facilities?",
+      "options": ["Private companies", "The Government", "Non-governmental organisations", "Foreign countries"],
+      "correctIndex": 1,
+      "explanation": "Since most public facilities don't make profit, the government must ensure they are available to all.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c7_q5",
+      "text": "Why are private companies often uninterested in providing public facilities?",
+      "options": ["They don't know how", "There is no profit to be made in many of them (like street lighting)", "They are banned from doing so", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Private companies operate mainly for profit, whereas public facilities focus on welfare.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c7_q6",
+      "text": "Where does the government get the money to provide public facilities?",
+      "options": ["By printing it", "From taxes collected from people", "By borrowing from other countries", "By selling trees"],
+      "correctIndex": 1,
+      "explanation": "Taxes on income, goods, and services fund the government's budget for public services.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c7_q7",
+      "text": "The situation in Chennai (as described in the book) shows that water is ________.",
+      "options": ["Available equally to all", "Abundant", "Not available equally; the poor suffer the most", "Free of cost"],
+      "correctIndex": 2,
+      "explanation": "Rich areas get regular supply, while poor colonies and slums face severe shortages.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c7_q8",
+      "text": "What is 'Sanitation'?",
+      "options": ["Building houses", "Provisions for safe disposal of human urine and faeces", "Planting trees", "Cleaning roads"],
+      "correctIndex": 1,
+      "explanation": "Sanitation is vital to prevent water-borne diseases like cholera and jaundice.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c7_q9",
+      "text": "According to the UN, the 'Right to Water' means:",
+      "options": ["Water should be free for everyone", "Everyone has a right to sufficient, safe, and affordable water", "People can use as much water as they want", "Water should be sold in bottles"],
+      "correctIndex": 1,
+      "explanation": "The right includes quality, quantity, and accessibility.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c7_q10",
+      "text": "Which city in the world has achieved a zero-infant mortality rate through excellent public water systems?",
+      "options": ["New York", "Porto Alegre (Brazil)", "London", "Tokyo"],
+      "correctIndex": 1,
+      "explanation": "The municipal water department in Porto Alegre is a model of efficient public service.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c7_q11",
+      "text": "A 'Budget' is an account of:",
+      "options": ["Last year's expenses", "The government's planned expenses and income for the coming year", "The money in the PM's office", "History of taxes"],
+      "correctIndex": 1,
+      "explanation": "The budget presented in Parliament details how the government plans to spend tax money.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c7_q12",
+      "text": "Shortage of public water often leads to the growth of ________.",
+      "options": ["Forests", "Private water tankers and bottled water business", "Government offices", "Dams"],
+      "correctIndex": 1,
+      "explanation": "When the government fails, private companies step in and charge high prices.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c7_q13",
+      "text": "Sulabh International is an NGO working primarily in the field of ________.",
+      "options": ["Education", "Sanitation (building toilets)", "Banking", "Space research"],
+      "correctIndex": 1,
+      "explanation": "Sulabh has built thousands of public toilets to improve sanitation for the poor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c7_q14",
+      "text": "The supply of water per person in a city should ideally be ________ liters per day (Indian standard).",
+      "options": ["20", "50", "135", "500"],
+      "correctIndex": 2,
+      "explanation": "The standard set by the Urban Water Supply and Sanitation Committees is 135 liters per day.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_c7_q15",
+      "text": "What happens when public facilities are handed over to private companies?",
+      "options": ["Prices often rise, making them unaffordable for the poor", "They become free", "The quality always becomes perfect", "None of these"],
+      "correctIndex": 0,
+      "explanation": "Private companies focus on profit, which can lead to high costs for essential services.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c7_q16",
+      "text": "In Bolivia, the protest against the privatisation of ________ led to a 'Water War'.",
+      "options": ["Electricity", "Roads", "Water", "Schools"],
+      "correctIndex": 2,
+      "explanation": "Massive protests forced the government to take back control from the private company.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c7_q17",
+      "text": "Safe drinking water can prevent ________.",
+      "options": ["Earthquakes", "Water-borne diseases", "Cold and Cough", "Traffic jams"],
+      "correctIndex": 1,
+      "explanation": "Diseases like diarrhoea and dysentery are mainly caused by contaminated water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c7_q18",
+      "text": "Slum areas in cities often have ________ access to public facilities.",
+      "options": ["The best", "Very poor or no", "Better than rich areas", "Free"],
+      "correctIndex": 1,
+      "explanation": "Slums are frequently neglected in the planning and provision of urban infrastructure.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c7_q19",
+      "text": "Which fundamental right is violated if a city provides water only to its rich residents?",
+      "options": ["Right to Religion", "Right to Equality", "Right to Property", "None"],
+      "correctIndex": 1,
+      "explanation": "Discrimination in access to essential services violates the principle of equality.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c7_q20",
+      "text": "The 'Universal Access' to water means:",
+      "options": ["Only people with cars get water", "Every person has enough water for their needs at an affordable price", "Water is sent to other planets", "Everyone must buy bottled water"],
+      "correctIndex": 1,
+      "explanation": "Universal access implies no discrimination based on income or location.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c7_q21",
+      "text": "Who is responsible for street lights and garbage collection in a city?",
+      "options": ["The local Municipal Corporation", "The Police", "The Army", "Individual house owners"],
+      "correctIndex": 0,
+      "explanation": "Local urban bodies handle basic civic amenities.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c7_q22",
+      "text": "A 'Toll' is a fee collected for using which public facility?",
+      "options": ["Schools", "Hospitals", "Highways and Bridges", "Parks"],
+      "correctIndex": 2,
+      "explanation": "Tolls help recover the cost of construction and maintenance of roads.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c7_q23",
+      "text": "What is the result of using contaminated water?",
+      "options": ["Better health", "Higher infant mortality", "Stronger bones", "Faster growth"],
+      "correctIndex": 1,
+      "explanation": "Infants are most vulnerable to water-borne infections.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c7_q24",
+      "text": "The government's main source of revenue is ________.",
+      "options": ["Lottery", "Taxes", "Donations", "Mining"],
+      "correctIndex": 1,
+      "explanation": "Taxes like GST and Income Tax provide the bulk of the funds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c7_q25",
+      "text": "Which of these is NOT a public facility?",
+      "options": ["Railways", "Private Tuition Centers", "Post Offices", "Government Hospitals"],
+      "correctIndex": 1,
+      "explanation": "Private tuition centers are private commercial ventures, not public facilities.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c7_q26",
+      "text": "A 'Subsidised' price means:",
+      "options": ["A price higher than cost", "A price lower than the actual cost, with the government paying the difference", "A very high price", "Free of cost"],
+      "correctIndex": 1,
+      "explanation": "Subsidies make essential goods affordable for everyone.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c7_q27",
+      "text": "What is the problem with relying on private water tankers?",
+      "options": ["They are too cheap", "They are not regulated and can be very expensive", "They only work at night", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Private tankers often exploit shortages to make high profits.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c7_q28",
+      "text": "Why do some people say 'Water is a social good, not a commodity'?",
+      "options": ["Because it's blue", "Because it's a basic need for survival and should not be sold for profit", "Because we swim in it", "None of these"],
+      "correctIndex": 1,
+      "explanation": "This view opposes the privatisation of water resources.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c7_q29",
+      "text": "Public Transport includes ________.",
+      "options": ["Buses and Trains", "Private cars", "Bicycles", "Walking"],
+      "correctIndex": 0,
+      "explanation": "Mass transit systems are essential public facilities in cities.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c7_q30",
+      "text": "Infant Mortality Rate refers to the number of children that die before the age of ________.",
+      "options": ["1 year", "5 years", "10 years", "18 years"],
+      "correctIndex": 0,
+      "explanation": "It is a key indicator of the health and sanitation status of a society.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c7_q31",
+      "text": "In India, the percentage of households with access to safe drinking water is ________ (historically).",
+      "options": ["100%", "Around 68%", "Exactly 50%", "10%"],
+      "correctIndex": 1,
+      "explanation": "Large sections of the population still lack piped water supply.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_c7_q32",
+      "text": "The Constitution of India recognizes the 'Right to Education' for all children between the ages of ________.",
+      "options": ["3 to 6", "6 to 14", "14 to 18", "0 to 18"],
+      "correctIndex": 1,
+      "explanation": "The Right to Education (RTE) Act makes it a fundamental right.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c7_q33",
+      "text": "What happens in a 'Water War'?",
+      "options": ["Soldiers fight with water", "Violent protests against high water prices or privatisation", "Water evaporates", "None of these"],
+      "correctIndex": 1,
+      "explanation": "The term was popularized by the protests in Bolivia.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_c7_q34",
+      "text": "Pollution-free air is also considered a part of the ________.",
+      "options": ["Right to Property", "Right to Life", "Right to Religion", "None"],
+      "correctIndex": 1,
+      "explanation": "Clean environment is essential for a healthy life.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c7_q35",
+      "text": "Municipal water supply is often ________ in summer months.",
+      "options": ["Increased", "Rationed or cut", "Made free", "Stopped forever"],
+      "correctIndex": 1,
+      "explanation": "Scarcity leads to reduced supply hours and frequency.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c7_q36",
+      "text": "Private schools and hospitals are usually located in ________ areas.",
+      "options": ["Rural", "Rich urban", "Remote forest", "Slum"],
+      "correctIndex": 1,
+      "explanation": "They follow the market demand where people can pay higher fees.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c7_q37",
+      "text": "Who pays for the street lights that we use every night?",
+      "options": ["The shopkeepers", "The government using tax money", "The battery companies", "The neighbors"],
+      "correctIndex": 1,
+      "explanation": "It is a classic public facility funded by the state.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c7_q38",
+      "text": "The most effective way to provide water to all is through ________.",
+      "options": ["Bottle supply", "Municipal piped system", "Private wells", "Cloud seeding"],
+      "correctIndex": 1,
+      "explanation": "Piped systems are the most efficient for mass distribution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_c7_q39",
+      "text": "A 'Common' resource is one that:",
+      "options": ["Is owned by one person", "Is available for use by all members of a community", "Is very rare", "Is illegal"],
+      "correctIndex": 1,
+      "explanation": "Public parks and village wells are common resources.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_c7_q40",
+      "text": "Inland waterways and railways are examples of ________.",
+      "options": ["Private facilities", "Public facilities for transport", "Secret projects", "Military zones"],
+      "correctIndex": 1,
+      "explanation": "They are shared transportation infrastructures provided for the public.",
+      "frequencyRating": 4
+    }
+  ]
+}

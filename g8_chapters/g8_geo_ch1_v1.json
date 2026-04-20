@@ -1,0 +1,330 @@
+{
+  "id": "g8_geo_ch1",
+  "grade": "8",
+  "subject": "Geography",
+  "number": "1",
+  "title": "Resources",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_g1_q1",
+      "text": "Anything that can be used to satisfy a need is a ________.",
+      "options": ["Object", "Resource", "Product", "Material"],
+      "correctIndex": 1,
+      "explanation": "Utility or usability is what makes an object or substance a resource.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g1_q2",
+      "text": "What makes an object a resource?",
+      "options": ["Quantity", "Utility", "Price", "Location"],
+      "correctIndex": 1,
+      "explanation": "A resource is defined by its ability to satisfy human needs (Utility).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g1_q3",
+      "text": "Resources that are drawn from nature and used without much modification are called:",
+      "options": ["Human-made resources", "Natural resources", "Human resources", "Biotic resources"],
+      "correctIndex": 1,
+      "explanation": "Air, water, soil, and minerals are natural resources.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g1_q4",
+      "text": "Resources which have a limited stock are called:",
+      "options": ["Renewable resources", "Non-renewable resources", "Abiotic resources", "Potential resources"],
+      "correctIndex": 1,
+      "explanation": "Coal, petroleum, and natural gas take thousands of years to renew and thus are non-renewable.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g1_q5",
+      "text": "Resources that are found everywhere like the air we breathe are called:",
+      "options": ["Localized resources", "Ubiquitous resources", "Biotic resources", "Abiotic resources"],
+      "correctIndex": 1,
+      "explanation": "Ubiquitous means found everywhere.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g1_q6",
+      "text": "Resources which are found only in certain places are called:",
+      "options": ["Ubiquitous resources", "Localized resources", "Actual resources", "Human resources"],
+      "correctIndex": 1,
+      "explanation": "Iron ore or copper are examples of localized resources.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g1_q7",
+      "text": "Using resources carefully and giving them time to get renewed is called:",
+      "options": ["Resource conservation", "Sustainable development", "Resource depletion", "Human development"],
+      "correctIndex": 0,
+      "explanation": "Conservation ensures resources don't run out.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g1_q8",
+      "text": "Balancing the need to use resources and also conserve them for the future is called:",
+      "options": ["Sustainable development", "Resource conservation", "Economic development", "Social development"],
+      "correctIndex": 0,
+      "explanation": "Sustainable development ensures progress without compromising the needs of future generations.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g1_q9",
+      "text": "Which of these is a human-made resource?",
+      "options": ["Tropical forests", "Medicines to treat cancer", "Spring water", "Iron ore"],
+      "correctIndex": 1,
+      "explanation": "Buildings, bridges, roads, and medicines are created by humans using natural substances.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g1_q10",
+      "text": "People are a ________ resource.",
+      "options": ["Natural", "Human", "Ubiquitous", "Abiotic"],
+      "correctIndex": 1,
+      "explanation": "Human skills, knowledge, and technology make people themselves a resource.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g1_q11",
+      "text": "Improving the quality of people's skills so that they are able to create more resources is known as:",
+      "options": ["Resource conservation", "Human Resource Development", "Sustainable development", "Human Made Development"],
+      "correctIndex": 1,
+      "explanation": "Education and health help in making people a valuable resource.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g1_q12",
+      "text": "Which of the following is NOT a principle of sustainable development?",
+      "options": ["Respect and care for all forms of life", "Minimize the depletion of natural resources", "Maximize the use of non-renewable resources", "Change personal attitude and practices toward the environment"],
+      "correctIndex": 2,
+      "explanation": "Sustainable development aims to reduce, not maximize, the depletion of resources.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g1_q13",
+      "text": "Abiotic resources are derived from ________.",
+      "options": ["Living things", "Non-living things", "Plants only", "Animals only"],
+      "correctIndex": 1,
+      "explanation": "Rocks, minerals, and soils are abiotic resources.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g1_q14",
+      "text": "Biotic resources are derived from ________.",
+      "options": ["Non-living things", "Living things", "Rocks", "Metals"],
+      "correctIndex": 1,
+      "explanation": "Plants and animals are biotic resources.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g1_q15",
+      "text": "The exclusive right over any idea or invention is called:",
+      "options": ["Copyright", "Trademark", "Patent", "Utility"],
+      "correctIndex": 2,
+      "explanation": "A patent protects an invention legally.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g1_q16",
+      "text": "Time and ________ are two important factors that can change substances into resources.",
+      "options": ["Money", "Technology", "Distance", "Climate"],
+      "correctIndex": 1,
+      "explanation": "Needs of people lead to the discovery of resources using technology over time.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g1_q17",
+      "text": "High speed winds were a potential resource 200 years ago, but today they are a/an ________ resource.",
+      "options": ["Abiotic", "Actual", "Localized", "Non-renewable"],
+      "correctIndex": 1,
+      "explanation": "Actual resources are those whose quantity is known and which are being used currently.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g1_q18",
+      "text": "The quantity of potential resources is ________.",
+      "options": ["Known", "Not known", "Zero", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "Potential resources are those whose entire quantity may not be known and are not being used at present.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g1_q19",
+      "text": "The dark soils of the Deccan plateau in Maharashtra are ________ resources.",
+      "options": ["Potential", "Actual", "Ubiquitous", "Human-made"],
+      "correctIndex": 1,
+      "explanation": "They are being actively used for agriculture.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_g1_q20",
+      "text": "Solar and wind energy are examples of ________ resources.",
+      "options": ["Non-renewable", "Renewable", "Potential", "Biotic"],
+      "correctIndex": 1,
+      "explanation": "Renewable resources get replenished quickly and are not easily exhausted by human activity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g1_q21",
+      "text": "Resource distribution is unequal on Earth because of differences in ________.",
+      "options": ["Political boundaries", "Terrain, climate and altitude", "Currency value", "Language"],
+      "correctIndex": 1,
+      "explanation": "Physical factors vary greatly across the planet.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g1_q22",
+      "text": "A substance becomes a resource only when its ________ is discovered.",
+      "options": ["Color", "Value/Utility", "Weight", "Shape"],
+      "correctIndex": 1,
+      "explanation": "Utility makes something valuable for human use.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g1_q23",
+      "text": "Which of these is an example of an actual resource?",
+      "options": ["Uranium in Ladakh", "Coal in Ruhr region of Germany", "Solar energy in the future", "Tidal energy in unreached coasts"],
+      "correctIndex": 1,
+      "explanation": "The coal in Ruhr is currently being mined and its quantity is known.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g1_q24",
+      "text": "Which of these is NOT a natural resource?",
+      "options": ["Water", "Soil", "Roads", "Minerals"],
+      "correctIndex": 2,
+      "explanation": "Roads are human-made resources.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g1_q25",
+      "text": "Value means ________.",
+      "options": ["Weight", "Worth", "Price", "Utility"],
+      "correctIndex": 1,
+      "explanation": "Some resources have economic value, while others have aesthetic value.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g1_q26",
+      "text": "Natural resources are classified into different groups depending upon their level of development and ________.",
+      "options": ["Color", "Use", "Price", "Tax"],
+      "correctIndex": 1,
+      "explanation": "Classification is based on development, use, origin, stock and distribution.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g1_q27",
+      "text": "Resources found in a region but not yet used are ________ resources.",
+      "options": ["Actual", "Potential", "Localized", "Ubiquitous"],
+      "correctIndex": 1,
+      "explanation": "For example, Uranium found in Ladakh is a potential resource.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g1_q28",
+      "text": "Petroleum is a ________ resource.",
+      "options": ["Renewable", "Non-renewable", "Ubiquitous", "Biotic"],
+      "correctIndex": 1,
+      "explanation": "Petroleum stocks are limited and cannot be replaced in a short time.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g1_q29",
+      "text": "Stock of resource is the amount of resources ________.",
+      "options": ["Exhausted", "Available for use", "Sold in market", "Found in mountains"],
+      "correctIndex": 1,
+      "explanation": "Stock refers to the total quantity available.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g1_q30",
+      "text": "What is the most important resource on Earth?",
+      "options": ["Gold", "Human beings", "Electricity", "Petroleum"],
+      "correctIndex": 1,
+      "explanation": "Humans create all other resources through their ideas and technology.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g1_q31",
+      "text": "To 'reduce consumption, recycle and reuse' is part of ________.",
+      "options": ["Resource development", "Resource conservation", "Economic growth", "Industrialization"],
+      "correctIndex": 1,
+      "explanation": "The 3 Rs are essential for saving the environment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g1_q32",
+      "text": "The future of our planet and its people is linked with our ability to maintain the ________.",
+      "options": ["Stock market", "Life support system", "Internet speed", "Military power"],
+      "correctIndex": 1,
+      "explanation": "Conserving nature ensures that our life support system (air, water, soil) remains intact.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g1_q33",
+      "text": "Development that meets the needs of the present without compromising the future is ________ development.",
+      "options": ["Rapid", "Sustainable", "Potential", "Economic"],
+      "correctIndex": 1,
+      "explanation": "This is the core definition of sustainable development.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g1_q34",
+      "text": "Uranium found in Ladakh is an example of ________ resource.",
+      "options": ["Actual", "Potential", "Biotic", "Ubiquitous"],
+      "correctIndex": 1,
+      "explanation": "We know it's there but we aren't using it yet.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g1_q35",
+      "text": "Iron ore becomes a resource only after humans learn to ________.",
+      "options": ["Paint it", "Extract iron from it", "Sell it", "Bury it"],
+      "correctIndex": 1,
+      "explanation": "Technology is required to transform a substance like ore into a useful resource.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g1_q36",
+      "text": "All living things are ________ resources.",
+      "options": ["Abiotic", "Biotic", "Non-renewable", "Potential"],
+      "correctIndex": 1,
+      "explanation": "Biotic means living.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_g1_q37",
+      "text": "Renewable resources are also known as ________ resources.",
+      "options": ["Inexhaustible", "Exhaustible", "Expensive", "Weak"],
+      "correctIndex": 0,
+      "explanation": "They do not run out easily (e.g., solar).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g1_q38",
+      "text": "Which of these is a localized resource?",
+      "options": ["Air", "Water", "Copper", "Sunshine"],
+      "correctIndex": 2,
+      "explanation": "Copper is found only in specific geographical locations.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g1_q39",
+      "text": "A beautiful landscape has ________ value.",
+      "options": ["Economic", "Aesthetic", "Moral", "Political"],
+      "correctIndex": 1,
+      "explanation": "It doesn't provide money directly, but it provides psychological satisfaction.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_g1_q40",
+      "text": "The use of resources depends on ________.",
+      "options": ["Population", "Technology", "Climate", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Multiple factors determine how and why we use resources.",
+      "frequencyRating": 4
+    }
+  ]
+}

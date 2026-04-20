@@ -1,0 +1,330 @@
+{
+  "id": "g8_hist_ch8",
+  "grade": "8",
+  "subject": "History",
+  "number": "8",
+  "title": "The Making of the National Movement: 1870s-1947",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_h8_q1",
+      "text": "The Indian National Congress (INC) was established in which year?",
+      "options": ["1857", "1885", "1905", "1919"],
+      "correctIndex": 1,
+      "explanation": "INC was founded in December 1885 at Bombay.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q2",
+      "text": "Who was the first President of the Indian National Congress?",
+      "options": ["A.O. Hume", "W.C. Bonnerji", "Dadabhai Naoroji", "Badruddin Tyabji"],
+      "correctIndex": 1,
+      "explanation": "Womesh Chandra Bonnerji presided over the first session.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q3",
+      "text": "Who is known as the 'Grand Old Man of India'?",
+      "options": ["Gandhiji", "Dadabhai Naoroji", "Bal Gangadhar Tilak", "Sardar Patel"],
+      "correctIndex": 1,
+      "explanation": "Naoroji was a businessman and publicist who settled in London.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q4",
+      "text": "Who gave the slogan 'Freedom is my birthright and I shall have it'?",
+      "options": ["Lala Lajpat Rai", "Bal Gangadhar Tilak", "Bipin Chandra Pal", "Subhas Chandra Bose"],
+      "correctIndex": 1,
+      "explanation": "Tilak was a leader of the Radicals in the INC.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q5",
+      "text": "The Partition of Bengal took place in ________ during the Viceroyalty of Lord Curzon.",
+      "options": ["1901", "1905", "1911", "1915"],
+      "correctIndex": 1,
+      "explanation": "The British divided Bengal ostensibly for administrative convenience.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q6",
+      "text": "The movement against the Partition of Bengal was known as the:",
+      "options": ["Khilafat movement", "Swadeshi movement", "Quit India movement", "Civil Disobedience"],
+      "correctIndex": 1,
+      "explanation": "It emphasized self-help, national education, and use of Indian languages.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q7",
+      "text": "The Muslim League was formed in which city in 1906?",
+      "options": ["Aligarh", "Dacca", "Calcutta", "Lucknow"],
+      "correctIndex": 1,
+      "explanation": "A group of Muslim landlords and nawabs formed the All India Muslim League.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q8",
+      "text": "The split between Moderates and Radicals occurred in the ________ session of 1907.",
+      "options": ["Surat", "Nagpur", "Calcutta", "Lahore"],
+      "correctIndex": 0,
+      "explanation": "The two groups reunited in 1915.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q9",
+      "text": "Gandhiji arrived in India from South Africa in ________.",
+      "options": ["1910", "1915", "1917", "1919"],
+      "correctIndex": 1,
+      "explanation": "He had already earned international respect for his satyagraha struggles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q10",
+      "text": "The Rowlatt Act was passed in ________, giving the government powers to imprison people without trial.",
+      "options": ["1917", "1919", "1921", "1923"],
+      "correctIndex": 1,
+      "explanation": "Gandhiji described it as 'devilish' and tyrannical.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q11",
+      "text": "The Jallianwala Bagh massacre occurred on ________ 1919 in Amritsar.",
+      "options": ["April 10", "April 13", "May 1", "August 15"],
+      "correctIndex": 1,
+      "explanation": "General Dyer ordered fire on a peaceful crowd celebrating Baisakhi.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q12",
+      "text": "Who renounced his Knighthood in protest against the Jallianwala Bagh massacre?",
+      "options": ["Mahatma Gandhi", "Rabindranath Tagore", "Jawaharlal Nehru", "Motilal Nehru"],
+      "correctIndex": 1,
+      "explanation": "Tagore expressed the pain and anger of the country through this act.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q13",
+      "text": "The Non-Cooperation movement was launched in ________.",
+      "options": ["1919", "1920", "1922", "1930"],
+      "correctIndex": 1,
+      "explanation": "It involved boycotting British schools, courts, and foreign cloth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q14",
+      "text": "Gandhiji called off the Non-Cooperation movement due to violence at ________ in 1922.",
+      "options": ["Amritsar", "Chauri Chaura", "Dandi", "Champaran"],
+      "correctIndex": 1,
+      "explanation": "A mob of peasants set fire to a police station, killing 22 policemen.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q15",
+      "text": "Who was the founder of the Rashtriya Swayamsevak Sangh (RSS)?",
+      "options": ["V.D. Savarkar", "K.B. Hedgewar", "M.S. Golwalkar", "Sardar Patel"],
+      "correctIndex": 1,
+      "explanation": "RSS was formed in 1925 in Nagpur.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h8_q16",
+      "text": "The Dandi March (Salt Satyagraha) began in which year?",
+      "options": ["1928", "1930", "1932", "1942"],
+      "correctIndex": 1,
+      "explanation": "Gandhiji walked 240 miles to break the salt law.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q17",
+      "text": "The Government of India Act of ________ introduced provincial autonomy.",
+      "options": ["1919", "1921", "1935", "1947"],
+      "correctIndex": 2,
+      "explanation": "The Congress won elections in 7 out of 11 provinces under this Act.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q18",
+      "text": "The Quit India movement was launched in ________.",
+      "options": ["1939", "1940", "1942", "1945"],
+      "correctIndex": 2,
+      "explanation": "Gandhiji gave the call 'Do or Die' (Karo ya Maro).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q19",
+      "text": "Who formed the Indian National Army (INA)?",
+      "options": ["Bhagat Singh", "Subhas Chandra Bose", "Chandra Shekhar Azad", "Lala Lajpat Rai"],
+      "correctIndex": 1,
+      "explanation": "Also known as the Azad Hind Fauj, it aimed to free India with Japanese help.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q20",
+      "text": "In 1940, the Muslim League passed a resolution demanding ________ for Muslims.",
+      "options": ["Jobs", "Independent States", "Reservation", "Voting rights"],
+      "correctIndex": 1,
+      "explanation": "It demanded 'Independent States' in the North-Western and Eastern areas of India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q21",
+      "text": "The 'Direct Action Day' was announced by the Muslim League on ________ 1946.",
+      "options": ["August 15", "August 16", "January 26", "June 3"],
+      "correctIndex": 1,
+      "explanation": "This led to massive riots in Calcutta and other parts of India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q22",
+      "text": "Who was the first woman President of the Indian National Congress?",
+      "options": ["Sarojini Naidu", "Annie Besant", "Nellie Sengupta", "Indira Gandhi"],
+      "correctIndex": 1,
+      "explanation": "Annie Besant presided over the 1917 session.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h8_q23",
+      "text": "The Khilafat movement was organized by:",
+      "options": ["Gandhiji", "The Ali brothers", "Jinnah", "Syed Ahmed Khan"],
+      "correctIndex": 1,
+      "explanation": "Mohammad Ali and Shaukat Ali led the movement to protest against the treatment of the Turkish Caliph.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q24",
+      "text": "The Simon Commission was boycotted because:",
+      "options": ["It was too expensive", "It had no Indian member", "It supported the King", "It was delayed"],
+      "correctIndex": 1,
+      "explanation": "All its members were British, which was seen as an insult to Indians.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q25",
+      "text": "The 'Purna Swaraj' (Complete Independence) resolution was passed at the ________ session in 1929.",
+      "options": ["Lahore", "Karachi", "Belgaum", "Calcutta"],
+      "correctIndex": 0,
+      "explanation": "Jawaharlal Nehru was the President of this historic session.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q26",
+      "text": "Bhagat Singh and B.K. Dutt threw a bomb in the ________ in 1929.",
+      "options": ["Viceroy's House", "Central Legislative Assembly", "Police Station", "British Parliament"],
+      "correctIndex": 1,
+      "explanation": "They did it to protest against anti-labor laws and the Rowlatt Act.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q27",
+      "text": "Who was the Viceroy of India when the Quit India movement started?",
+      "options": ["Lord Wavell", "Lord Linlithgow", "Lord Mountbatten", "Lord Irwin"],
+      "correctIndex": 1,
+      "explanation": "Linlithgow oversaw the suppression of the movement.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h8_q28",
+      "text": "The Cabinet Mission arrived in India in ________.",
+      "options": ["1942", "1945", "1946", "1947"],
+      "correctIndex": 2,
+      "explanation": "It suggested a loose confederation for a united India, which was rejected.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q29",
+      "text": "Who was the 'Frontier Gandhi'?",
+      "options": ["Khan Abdul Ghaffar Khan", "Sardar Patel", "Maulana Azad", "C. Rajagopalachari"],
+      "correctIndex": 0,
+      "explanation": "He was a Pashtun leader and founder of the Khudai Khidmatgars.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q30",
+      "text": "Lord Mountbatten's Plan for Partition was accepted in ________ 1947.",
+      "options": ["March", "June", "August", "January"],
+      "correctIndex": 1,
+      "explanation": "The June 3rd Plan outlined the partition of India into two nations.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q31",
+      "text": "The term 'Satyagraha' means:",
+      "options": ["Armed rebellion", "Passive resistance", "Devotion to Truth", "Secret mission"],
+      "correctIndex": 2,
+      "explanation": "It was Gandhiji's method of non-violent protest based on truth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q32",
+      "text": "The 'Lucknow Pact' was signed in 1916 between INC and ________.",
+      "options": ["The British", "The Muslim League", "The Akali Dal", "The Ghadar Party"],
+      "correctIndex": 1,
+      "explanation": "It marked a temporary unity between the two major political groups.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q33",
+      "text": "The Ilbert Bill (1883) caused a controversy because it sought to allow ________.",
+      "options": ["Indian judges to try British subjects", "Indians to carry guns", "Free education", "Freedom of press"],
+      "correctIndex": 0,
+      "explanation": "The British opposition to this bill angered Indians and helped unify national sentiment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q34",
+      "text": "A publicist is someone who ________.",
+      "options": ["Writes for the public", "Collects information for the government", "Advertises products", "Leads a rebellion"],
+      "correctIndex": 0,
+      "explanation": "The term was used for leaders like Dadabhai Naoroji who published pamphlets.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_h8_q35",
+      "text": "The Vernacular Press Act was passed in ________ to silence critics of the government.",
+      "options": ["1857", "1878", "1885", "1905"],
+      "correctIndex": 1,
+      "explanation": "It allowed the government to confiscate assets of newspapers that published 'seditious' material.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h8_q36",
+      "text": "Who was the 'moderate' leader who criticized the 'Radicals' for being impulsive?",
+      "options": ["Tilak", "Gopal Krishna Gokhale", "Bose", "Bhagat Singh"],
+      "correctIndex": 1,
+      "explanation": "Moderates believed in constitutional methods and petitions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h8_q37",
+      "text": "The Hindustan Socialist Republican Association (HSRA) was founded in ________ in 1928.",
+      "options": ["Ferozeshah Kotla, Delhi", "Calcutta", "Lahore", "Bombay"],
+      "correctIndex": 0,
+      "explanation": "It was led by Chandra Shekhar Azad and Bhagat Singh.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q38",
+      "text": "C. Rajagopalachari led a salt march in which province?",
+      "options": ["Gujarat", "Tamil Nadu", "Bengal", "Punjab"],
+      "correctIndex": 1,
+      "explanation": "He led the Vedaranyam Salt Satyagraha.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_h8_q39",
+      "text": "Who was the British Prime Minister during India's independence?",
+      "options": ["Winston Churchill", "Clement Attlee", "Tony Blair", "Margaret Thatcher"],
+      "correctIndex": 1,
+      "explanation": "Attlee was the leader of the Labor Party.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_h8_q40",
+      "text": "The first independence day of India was celebrated on January 26, ________ as per the Lahore resolution.",
+      "options": ["1930", "1931", "1947", "1950"],
+      "correctIndex": 0,
+      "explanation": "This date was later chosen for Republic Day.",
+      "frequencyRating": 5
+    }
+  ]
+}

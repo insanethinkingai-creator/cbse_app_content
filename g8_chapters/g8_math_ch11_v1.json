@@ -1,0 +1,330 @@
+{
+  "id": "g8_math_ch11",
+  "grade": "8",
+  "subject": "Mathematics",
+  "number": "11",
+  "title": "Direct and Inverse Proportions",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_m11_q1",
+      "text": "If two quantities x and y vary directly with each other, then:",
+      "options": ["x/y remains constant", "x * y remains constant", "x + y remains constant", "x - y remains constant"],
+      "correctIndex": 0,
+      "explanation": "In direct proportion, the ratio of the two quantities (x/y) is always a constant (k).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m11_q2",
+      "text": "If x and y vary inversely with each other, then:",
+      "options": ["x/y remains constant", "x * y remains constant", "x + y remains constant", "x - y remains constant"],
+      "correctIndex": 1,
+      "explanation": "In inverse proportion, the product of the two quantities (x * y) remains constant (k).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m11_q3",
+      "text": "If 15 workers can build a wall in 48 hours, how many workers will be required to do the same work in 30 hours?",
+      "options": ["10", "20", "24", "30"],
+      "correctIndex": 2,
+      "explanation": "This is inverse proportion. 15 * 48 = x * 30 => x = (15 * 48) / 30 = 24.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m11_q4",
+      "text": "A car travels 432 km on 48 liters of petrol. How far will it travel on 20 liters of petrol?",
+      "options": ["180 km", "200 km", "150 km", "120 km"],
+      "correctIndex": 0,
+      "explanation": "Direct proportion: 432/48 = x/20 => x = (432 * 20) / 48 = 180 km.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m11_q5",
+      "text": "If x and y are in direct proportion and x = 5 when y = 20, what is y when x = 8?",
+      "options": ["24", "32", "40", "16"],
+      "correctIndex": 1,
+      "explanation": "5/20 = 8/y => 1/4 = 8/y => y = 32.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m11_q6",
+      "text": "A machine in a soft drink factory fills 840 bottles in six hours. How many bottles will it fill in five hours?",
+      "options": ["600", "700", "750", "800"],
+      "correctIndex": 1,
+      "explanation": "Direct proportion: 840/6 = x/5 => 140 = x/5 => x = 700.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m11_q7",
+      "text": "Which of the following is an example of inverse proportion?",
+      "options": ["Number of articles and their cost", "Speed and time taken for a fixed journey", "Area of land and its cost", "Distance traveled and petrol consumed"],
+      "correctIndex": 1,
+      "explanation": "If speed increases, time taken decreases, which is inverse proportion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m11_q8",
+      "text": "If the cost of 7 kg of sugar is ₹147, what is the cost of 12 kg of sugar?",
+      "options": ["₹240", "₹252", "₹210", "₹264"],
+      "correctIndex": 1,
+      "explanation": "Direct proportion: 147/7 = x/12 => 21 = x/12 => x = 252.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m11_q9",
+      "text": "If x and y are in inverse proportion and x = 10 when y = 6, find y when x = 15.",
+      "options": ["4", "9", "5", "8"],
+      "correctIndex": 0,
+      "explanation": "Inverse: 10 * 6 = 15 * y => 60 = 15y => y = 4.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m11_q10",
+      "text": "A map is drawn to a scale of 1 cm = 500 km. If two cities are 4 cm apart on the map, the actual distance is:",
+      "options": ["1000 km", "2000 km", "125 km", "2500 km"],
+      "correctIndex": 1,
+      "explanation": "Scale is direct proportion: 1/500 = 4/x => x = 2000 km.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m11_q11",
+      "text": "If 6 pipes are required to fill a tank in 1 hour 20 minutes, how long will it take if only 5 pipes of the same type are used?",
+      "options": ["1 hr 30 min", "1 hr 36 min", "1 hr 45 min", "2 hrs"],
+      "correctIndex": 1,
+      "explanation": "Inverse proportion: (6 * 80) = (5 * x) => 480/5 = 96 minutes = 1 hr 36 min.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m11_q12",
+      "text": "If the weight of 12 sheets of thick paper is 40 grams, how many sheets of the same paper would weigh 2500 grams?",
+      "options": ["750", "800", "700", "650"],
+      "correctIndex": 0,
+      "explanation": "Direct proportion: 12/40 = x/2500 => x = (12 * 2500) / 40 = 750.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m11_q13",
+      "text": "Which of these is NOT in direct proportion?",
+      "options": ["Time and distance (fixed speed)", "Principal and Simple Interest (fixed rate/time)", "Workers and time to finish a job", "Side of a square and its perimeter"],
+      "correctIndex": 2,
+      "explanation": "Workers and time are in inverse proportion; more workers mean less time.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m11_q14",
+      "text": "If 52 men can finish a piece of work in 35 days, in how many days will 28 men finish it?",
+      "options": ["65", "60", "70", "75"],
+      "correctIndex": 0,
+      "explanation": "Inverse proportion: 52 * 35 = 28 * x => x = (52 * 35) / 28 = 65.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m11_q15",
+      "text": "A photograph of a bacteria enlarged 50,000 times attains a length of 5 cm. What is the actual length?",
+      "options": ["10^-4 cm", "10^-5 cm", "10^-3 cm", "10^-6 cm"],
+      "correctIndex": 0,
+      "explanation": "Actual length = 5 / 50000 = 1 / 10000 = 10^-4 cm.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m11_q16",
+      "text": "If x = 2 and y = 10 are in direct proportion, what is the constant k (x/y)?",
+      "options": ["5", "0.2", "20", "12"],
+      "correctIndex": 1,
+      "explanation": "k = x/y = 2/10 = 0.2.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m11_q17",
+      "text": "A car takes 2 hours to reach a destination by travelling at 60 km/h. How long will it take at 80 km/h?",
+      "options": ["1.5 hours", "1.25 hours", "1.75 hours", "2.5 hours"],
+      "correctIndex": 0,
+      "explanation": "Inverse proportion: 2 * 60 = x * 80 => 120/80 = 1.5 hours.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m11_q18",
+      "text": "In a camp, there is food for 100 people for 20 days. If 25 more people join, how long will the food last?",
+      "options": ["15 days", "16 days", "18 days", "14 days"],
+      "correctIndex": 1,
+      "explanation": "Inverse: 100 * 20 = 125 * x => 2000/125 = 16 days.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m11_q19",
+      "text": "If x and y are in direct proportion, as x increases:",
+      "options": ["y decreases", "y remains same", "y increases", "y becomes zero"],
+      "correctIndex": 2,
+      "explanation": "In direct proportion, both quantities increase or decrease together.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m11_q20",
+      "text": "If x and y are in inverse proportion, as x increases:",
+      "options": ["y increases", "y decreases", "y remains same", "y becomes negative"],
+      "correctIndex": 1,
+      "explanation": "In inverse proportion, if one quantity increases, the other decreases in the same ratio.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m11_q21",
+      "text": "A school has 8 periods a day each of 45 minutes duration. If the school has 9 periods, how long would each period be?",
+      "options": ["35 min", "40 min", "50 min", "30 min"],
+      "correctIndex": 1,
+      "explanation": "Inverse: 8 * 45 = 9 * x => 360/9 = 40 minutes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m11_q22",
+      "text": "If 20 apples cost ₹100, what is the cost of 3 apples?",
+      "options": ["₹12", "₹15", "₹18", "₹20"],
+      "correctIndex": 1,
+      "explanation": "Direct: 100/20 = x/3 => 5 = x/3 => x = 15.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m11_q23",
+      "text": "If x/y = k, then x and y are in:",
+      "options": ["Inverse proportion", "Direct proportion", "No proportion", "Compound proportion"],
+      "correctIndex": 1,
+      "explanation": "x/y = k is the mathematical definition of direct proportion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m11_q24",
+      "text": "If xy = k, then x and y are in:",
+      "options": ["Inverse proportion", "Direct proportion", "No proportion", "Square proportion"],
+      "correctIndex": 0,
+      "explanation": "xy = k is the mathematical definition of inverse proportion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m11_q25",
+      "text": "If 10 meters of cloth cost ₹250, then 15 meters will cost:",
+      "options": ["₹350", "₹375", "₹400", "₹325"],
+      "correctIndex": 1,
+      "explanation": "Direct: 250/10 = x/15 => 25 = x/15 => x = 375.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m11_q26",
+      "text": "An electric pole, 14 metres high, casts a shadow of 10 metres. What is the height of a tree that casts a shadow of 15 metres?",
+      "options": ["20 m", "21 m", "22 m", "25 m"],
+      "correctIndex": 1,
+      "explanation": "Direct: 14/10 = x/15 => 1.4 = x/15 => x = 21 m.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m11_q27",
+      "text": "Which of these pairs are in inverse proportion?",
+      "options": ["Speed and distance (fixed time)", "Number of workers and time taken to complete work", "Distance and petrol consumed", "Principal and Interest"],
+      "correctIndex": 1,
+      "explanation": "More workers take less time, which is inverse variation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m11_q28",
+      "text": "If a car covers 120 km in 2 hours, how much distance will it cover in 5 hours at same speed?",
+      "options": ["240 km", "300 km", "360 km", "250 km"],
+      "correctIndex": 1,
+      "explanation": "Direct: 120/2 = x/5 => 60 = x/5 => x = 300.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m11_q29",
+      "text": "If x1/y1 = x2/y2, then x and y are in ________ variation.",
+      "options": ["Direct", "Inverse", "No", "Complex"],
+      "correctIndex": 0,
+      "explanation": "This represents the equality of ratios in direct variation.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m11_q30",
+      "text": "If x1 * y1 = x2 * y2, then x and y are in ________ variation.",
+      "options": ["Direct", "Inverse", "Direct and Inverse", "None"],
+      "correctIndex": 1,
+      "explanation": "This represents the constant product in inverse variation.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m11_q31",
+      "text": "If 8 men can finish a task in 40 days, 16 men will finish it in:",
+      "options": ["80 days", "20 days", "10 days", "30 days"],
+      "correctIndex": 1,
+      "explanation": "Inverse: 8 * 40 = 16 * x => 320/16 = 20 days.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m11_q32",
+      "text": "If the length of a shadow is proportional to the height of the object, what kind of proportion is it?",
+      "options": ["Direct", "Inverse", "Square", "Indirect"],
+      "correctIndex": 0,
+      "explanation": "Taller objects cast longer shadows at a given time; thus, it is direct proportion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m11_q33",
+      "text": "If 24 workers can build a wall in 15 days, how many workers can build it in 10 days?",
+      "options": ["36", "30", "40", "48"],
+      "correctIndex": 0,
+      "explanation": "Inverse: 24 * 15 = x * 10 => 360/10 = 36.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m11_q34",
+      "text": "The price of 1 kg of apples is ₹120. The price of 500 g is:",
+      "options": ["₹50", "₹60", "₹70", "₹80"],
+      "correctIndex": 1,
+      "explanation": "Direct: 120/1000 = x/500 => x = 60.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m11_q35",
+      "text": "If 2 pens cost ₹10, find the cost of 10 pens.",
+      "options": ["₹40", "₹50", "₹60", "₹100"],
+      "correctIndex": 1,
+      "explanation": "Direct: 10/2 = x/10 => 5 = x/10 => x = 50.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m11_q36",
+      "text": "If the area of a circle increases with its radius, this variation is:",
+      "options": ["Direct", "Inverse", "None", "Constant"],
+      "correctIndex": 0,
+      "explanation": "They increase together, so it is direct variation (though not linear).",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g8_m11_q37",
+      "text": "If 7 machines take 2 days to finish a task, how many days will 1 machine take?",
+      "options": ["7 days", "14 days", "9 days", "3.5 days"],
+      "correctIndex": 1,
+      "explanation": "Inverse: 7 * 2 = 1 * x => x = 14.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m11_q38",
+      "text": "If x varies directly as y and x=3 when y=9, what is k?",
+      "options": ["3", "1/3", "27", "6"],
+      "correctIndex": 1,
+      "explanation": "k = x/y = 3/9 = 1/3.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m11_q39",
+      "text": "If x varies inversely as y and x=3 when y=9, what is k?",
+      "options": ["3", "1/3", "27", "6"],
+      "correctIndex": 2,
+      "explanation": "k = x * y = 3 * 9 = 27.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m11_q40",
+      "text": "If 12 men can reap a field in 8 days, in how many days can 16 men reap it?",
+      "options": ["6", "10", "4", "5"],
+      "correctIndex": 0,
+      "explanation": "Inverse: 12 * 8 = 16 * x => 96/16 = 6 days.",
+      "frequencyRating": 5
+    }
+  ]
+}

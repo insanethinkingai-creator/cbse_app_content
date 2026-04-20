@@ -1,0 +1,330 @@
+{
+  "id": "g8_math_ch13",
+  "grade": "8",
+  "subject": "Mathematics",
+  "number": "13",
+  "title": "Introduction to Graphs",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_m13_q1",
+      "text": "A graph that uses bars of different heights to show data is called a:",
+      "options": ["Pie graph", "Bar graph", "Line graph", "Histogram"],
+      "correctIndex": 1,
+      "explanation": "Bar graphs represent discrete data with rectangular bars.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m13_q2",
+      "text": "A circle graph is also known as a:",
+      "options": ["Bar graph", "Histogram", "Pie graph", "Line graph"],
+      "correctIndex": 2,
+      "explanation": "Pie graphs show parts of a whole using a circle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m13_q3",
+      "text": "Which graph is used to show a trend or change over time?",
+      "options": ["Bar graph", "Line graph", "Pie graph", "Pictograph"],
+      "correctIndex": 1,
+      "explanation": "Line graphs are ideal for showing continuous changes over a period.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m13_q4",
+      "text": "In a coordinate system, the horizontal line is called:",
+      "options": ["Y-axis", "X-axis", "Origin", "Scale"],
+      "correctIndex": 1,
+      "explanation": "The X-axis is the horizontal axis in a Cartesian plane.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m13_q5",
+      "text": "The point where the X-axis and Y-axis intersect is called the:",
+      "options": ["Center", "Intersection", "Origin", "Endpoint"],
+      "correctIndex": 2,
+      "explanation": "The origin is the point (0, 0).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m13_q6",
+      "text": "What are the coordinates of the origin?",
+      "options": ["(1, 1)", "(0, 1)", "(1, 0)", "(0, 0)"],
+      "correctIndex": 3,
+      "explanation": "The starting point of the coordinate system is always (0, 0).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m13_q7",
+      "text": "The x-coordinate of a point is also known as:",
+      "options": ["Ordinate", "Abscissa", "Origin", "Axis"],
+      "correctIndex": 1,
+      "explanation": "Abscissa is the mathematical term for the x-coordinate.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m13_q8",
+      "text": "The y-coordinate of a point is also known as:",
+      "options": ["Ordinate", "Abscissa", "Origin", "Axis"],
+      "correctIndex": 0,
+      "explanation": "Ordinate is the mathematical term for the y-coordinate.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m13_q9",
+      "text": "A point (3, 4) means its distance from the y-axis is ________ units.",
+      "options": ["3", "4", "7", "0"],
+      "correctIndex": 0,
+      "explanation": "The x-coordinate tells the distance from the y-axis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m13_q10",
+      "text": "A point (3, 4) means its distance from the x-axis is ________ units.",
+      "options": ["3", "4", "7", "0"],
+      "correctIndex": 1,
+      "explanation": "The y-coordinate tells the distance from the x-axis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m13_q11",
+      "text": "If a point lies on the x-axis, its y-coordinate is:",
+      "options": ["1", "0", "Positive", "Negative"],
+      "correctIndex": 1,
+      "explanation": "Any point on the x-axis has a vertical distance of 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m13_q12",
+      "text": "If a point lies on the y-axis, its x-coordinate is:",
+      "options": ["1", "0", "Positive", "Negative"],
+      "correctIndex": 1,
+      "explanation": "Any point on the y-axis has a horizontal distance of 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m13_q13",
+      "text": "The point (0, 5) lies on:",
+      "options": ["X-axis", "Y-axis", "Origin", "Neither"],
+      "correctIndex": 1,
+      "explanation": "Since x=0, the point is on the y-axis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m13_q14",
+      "text": "The point (5, 0) lies on:",
+      "options": ["X-axis", "Y-axis", "Origin", "Neither"],
+      "correctIndex": 0,
+      "explanation": "Since y=0, the point is on the x-axis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m13_q15",
+      "text": "A graph that consists of a single unbroken line is called a:",
+      "options": ["Linear graph", "Bar graph", "Histogram", "Broken line graph"],
+      "correctIndex": 0,
+      "explanation": "Linear graphs are used to represent data that forms a straight line.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m13_q16",
+      "text": "Which axis is typically used for the independent variable (like time)?",
+      "options": ["X-axis", "Y-axis", "Both", "Neither"],
+      "correctIndex": 0,
+      "explanation": "By convention, the independent variable is plotted on the horizontal x-axis.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m13_q17",
+      "text": "A histogram is used for which type of data?",
+      "options": ["Discrete data", "Grouped data with class intervals", "Qualitative data only", "Names only"],
+      "correctIndex": 1,
+      "explanation": "Histograms represent continuous intervals of data.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m13_q18",
+      "text": "In the coordinates (x, y), x is always written ________.",
+      "options": ["First", "Second", "Last", "Optionally"],
+      "correctIndex": 0,
+      "explanation": "Coordinates are ordered pairs; x always precedes y.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m13_q19",
+      "text": "If x=2, y=3 and x=4, y=6 etc., the relation shows:",
+      "options": ["Linear growth", "Inverse growth", "No relation", "A circle"],
+      "correctIndex": 0,
+      "explanation": "Since y is proportional to x (y=1.5x), it forms a straight line graph.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m13_q20",
+      "text": "A line graph shows ________ of a quantity over time.",
+      "options": ["Total sum", "Average", "Variation", "Distribution"],
+      "correctIndex": 2,
+      "explanation": "Line graphs track the variation or changes in data points.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m13_q21",
+      "text": "What is the purpose of a scale in a graph?",
+      "options": ["To decorate", "To fit the data on the paper accurately", "To change the origin", "To color the bars"],
+      "correctIndex": 1,
+      "explanation": "A scale allows us to represent large numbers in a small drawing space.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m13_q22",
+      "text": "Can a point have a negative coordinate?",
+      "options": ["No", "Yes", "Only in pie charts", "Only for time"],
+      "correctIndex": 1,
+      "explanation": "Coordinate planes have four quadrants, including negative axes.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m13_q23",
+      "text": "Which of these is used for comparing parts of a whole?",
+      "options": ["Bar graph", "Line graph", "Pie chart", "Histogram"],
+      "correctIndex": 2,
+      "explanation": "Pie charts represent portions of a total 100%.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m13_q24",
+      "text": "The point (4, 4) lies ________ units from the origin on both axes.",
+      "options": ["4", "0", "8", "16"],
+      "correctIndex": 0,
+      "explanation": "It is 4 units right and 4 units up from (0,0).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m13_q25",
+      "text": "A line graph can be broken to save space on the axis using a:",
+      "options": ["Point", "Scale", "Kink or Zig-zag line", "Circle"],
+      "correctIndex": 2,
+      "explanation": "A kink indicates a jump in numbers (e.g., from 0 directly to 100).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m13_q26",
+      "text": "If a point is (1, 10), (2, 20), (3, 30), it represents:",
+      "options": ["Direct proportion", "Inverse proportion", "Constant y", "Constant x"],
+      "correctIndex": 0,
+      "explanation": "y increases as x increases at a constant rate (y = 10x).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m13_q27",
+      "text": "What is the x-coordinate of (0, -2)?",
+      "options": ["0", "-2", "2", "None"],
+      "correctIndex": 0,
+      "explanation": "The first number in the pair is the x-coordinate.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m13_q28",
+      "text": "A linear graph is always a:",
+      "options": ["Straight line", "Curve", "Rectangle", "Circle"],
+      "correctIndex": 0,
+      "explanation": "Linear implies 'line-like'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m13_q29",
+      "text": "Dependent variables are usually plotted on the:",
+      "options": ["X-axis", "Y-axis", "Origin", "Z-axis"],
+      "correctIndex": 1,
+      "explanation": "The value that changes based on another is usually the y-axis.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m13_q30",
+      "text": "The coordinates of a point on the y-axis are of the form:",
+      "options": ["(x, 0)", "(0, y)", "(0, 0)", "(x, y)"],
+      "correctIndex": 1,
+      "explanation": "On the y-axis, the x-value is always zero.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m13_q31",
+      "text": "The distance of point (5, 3) from the origin along the x-axis is:",
+      "options": ["5", "3", "8", "2"],
+      "correctIndex": 0,
+      "explanation": "The x-coordinate is 5.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m13_q32",
+      "text": "Data that can take any value in a range is called:",
+      "options": ["Discrete", "Continuous", "Categorical", "Nominal"],
+      "correctIndex": 1,
+      "explanation": "Continuous data (like height or time) is best shown in line graphs.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m13_q33",
+      "text": "In a bar graph, the ________ of the bars is usually kept uniform.",
+      "options": ["Height", "Width", "Color", "Position"],
+      "correctIndex": 1,
+      "explanation": "Uniform width makes the comparison of heights clear.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_m13_q34",
+      "text": "Point A is (2, 3) and Point B is (3, 2). Are they the same point?",
+      "options": ["Yes", "No", "Depends on the scale", "Sometimes"],
+      "correctIndex": 1,
+      "explanation": "The order of coordinates matters; (2,3) and (3,2) are different positions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m13_q35",
+      "text": "To plot a graph, you need at least ________ values of a variable.",
+      "options": ["One", "Two", "Ten", "Fifty"],
+      "correctIndex": 1,
+      "explanation": "A line or relationship needs at least two points to be defined.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m13_q36",
+      "text": "The x-axis and y-axis divide the plane into ________ quadrants.",
+      "options": ["2", "3", "4", "8"],
+      "correctIndex": 2,
+      "explanation": "There are four quadrants (I, II, III, IV).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m13_q37",
+      "text": "Which graph is best to show temperature of a city recorded every hour?",
+      "options": ["Bar graph", "Pie graph", "Line graph", "Pictograph"],
+      "correctIndex": 2,
+      "explanation": "Line graphs show how data changes continuously.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_m13_q38",
+      "text": "In a point (x, y), y is called the:",
+      "options": ["Ordinate", "Abscissa", "Origin", "Slope"],
+      "correctIndex": 0,
+      "explanation": "Ordinate is the second element of the pair.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_m13_q39",
+      "text": "Can graphs lie?",
+      "options": ["No", "Yes, if the scale is misleading", "Only pie charts", "Never"],
+      "correctIndex": 1,
+      "explanation": "Choosing an improper scale can make small changes look very large.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g8_m13_q40",
+      "text": "Coordinates (4, 0) and (0, 4) lie on ________ axes.",
+      "options": ["Same", "Different", "No", "Z-axis"],
+      "correctIndex": 1,
+      "explanation": "(4,0) is on the X-axis and (0,4) is on the Y-axis.",
+      "frequencyRating": 4
+    }
+  ]
+}

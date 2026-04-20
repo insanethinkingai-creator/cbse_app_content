@@ -1,0 +1,330 @@
+{
+  "id": "g8_geo_ch5",
+  "grade": "8",
+  "subject": "Geography",
+  "number": "5",
+  "title": "Industries",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g8_g5_q1",
+      "text": "Secondary activities are also known as:",
+      "options": ["Extraction", "Manufacturing", "Services", "Trade"],
+      "correctIndex": 1,
+      "explanation": "Secondary activities or manufacturing change raw materials into products of more value to people.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g5_q2",
+      "text": "Industry refers to an economic activity that is concerned with:",
+      "options": ["Production of goods", "Extraction of minerals", "Provision of services", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Industries cover production (iron and steel), extraction (coal mining), and services (tourism).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g5_q3",
+      "text": "Industries classified on the basis of raw materials include:",
+      "options": ["Agro-based", "Mineral-based", "Marine-based", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Raw materials can be agro-based, mineral-based, marine-based or forest-based.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g5_q4",
+      "text": "Dairy products and leather industries are examples of:",
+      "options": ["Mineral-based", "Agro-based", "Forest-based", "Marine-based"],
+      "correctIndex": 1,
+      "explanation": "Agro-based industries use plant and animal based products as their raw materials.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g5_q5",
+      "text": "Which industries use products from the sea and oceans as raw materials?",
+      "options": ["Mineral-based", "Forest-based", "Marine-based", "Small-scale"],
+      "correctIndex": 2,
+      "explanation": "Marine-based industries process sea-food or manufacture fish oil.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g5_q6",
+      "text": "Cottage and household industries are a type of:",
+      "options": ["Large-scale", "Small-scale", "Joint sector", "Co-operative"],
+      "correctIndex": 1,
+      "explanation": "Cottage industries are small-scale industries where products are manufactured by hand, by the artisans.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g5_q7",
+      "text": "Industries owned and operated by individuals or a group of individuals are:",
+      "options": ["Public sector", "Private sector", "Joint sector", "Co-operative"],
+      "correctIndex": 1,
+      "explanation": "Private sector industries are owned by individuals or groups.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g5_q8",
+      "text": "Hindustan Aeronautics Limited (HAL) and Steel Authority of India Limited (SAIL) are:",
+      "options": ["Private sector", "Joint sector", "Public sector", "Co-operative"],
+      "correctIndex": 2,
+      "explanation": "Public sector industries are owned and operated by the government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g5_q9",
+      "text": "Maruti Udyog Limited is an example of which sector?",
+      "options": ["Private", "Public", "Joint", "Co-operative"],
+      "correctIndex": 2,
+      "explanation": "Joint sector industries are owned and operated by the state and individuals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g5_q10",
+      "text": "Anand Milk Union Limited (AMUL) is an example of which sector?",
+      "options": ["Joint", "Public", "Co-operative", "Private"],
+      "correctIndex": 2,
+      "explanation": "Co-operative sector industries are owned and operated by the producers or suppliers of raw materials.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g5_q11",
+      "text": "Which of the following is NOT a factor affecting the location of industries?",
+      "options": ["Availability of raw material", "Power and Water", "Religion", "Transport and Labour"],
+      "correctIndex": 2,
+      "explanation": "Industrial location is decided by physical and economic factors like land, power, labour, and market.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g5_q12",
+      "text": "Major industrial regions of the world include:",
+      "options": ["Eastern North America", "Western and Central Europe", "Eastern Asia", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Major industrial regions are found in temperate areas, near sea ports and coal fields.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g5_q13",
+      "text": "Which of these is a major industrial region in India?",
+      "options": ["Mumbai-Pune cluster", "Bangalore-Tamil Nadu region", "Chhotanagpur industrial belt", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "India has several regions like Mumbai-Pune, Hugli, Bangalore-Tamil Nadu, etc.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g5_q14",
+      "text": "Which industry is often referred to as the 'Backbone of Modern Industry'?",
+      "options": ["Textile", "Information Technology", "Iron and Steel", "Tourism"],
+      "correctIndex": 2,
+      "explanation": "Almost everything we use is either made of iron or steel or has been made with tools and machinery of these metals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g5_q15",
+      "text": "What is the correct input for the Iron and Steel Industry?",
+      "options": ["Iron ore, coal and limestone", "Cotton and water", "Copper and sand", "Gold and silver"],
+      "correctIndex": 0,
+      "explanation": "Iron ore, coal and limestone along with labour and capital are the inputs for this industry.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g5_q16",
+      "text": "The process of melting ore at a very high temperature to extract metal is called:",
+      "options": ["Filtering", "Smelting", "Refining", "Boiling"],
+      "correctIndex": 1,
+      "explanation": "Smelting is the process in which metals are extracted from their ores by heating beyond the melting point.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g5_q17",
+      "text": "TISCO (Tata Iron and Steel Company) was started in 1907 at:",
+      "options": ["Mumbai", "Sakchi", "Bhilai", "Durgapur"],
+      "correctIndex": 1,
+      "explanation": "TISCO was started at Sakchi, near the confluence of the rivers Subarnarekha and Kharkai in Jharkhand.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g5_q18",
+      "text": "Sakchi was later renamed as:",
+      "options": ["Ranchi", "Jamshedpur", "Bokaro", "Dhanbad"],
+      "correctIndex": 1,
+      "explanation": "Sakchi was renamed Jamshedpur after Jamshedji Tata.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g5_q19",
+      "text": "Pittsburgh is an important steel city of:",
+      "options": ["Germany", "UK", "USA", "Japan"],
+      "correctIndex": 2,
+      "explanation": "Pittsburgh is a major steel-producing center in the United States of America.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g5_q20",
+      "text": "Where was the first successful mechanized textile mill established in India in 1854?",
+      "options": ["Kolkata", "Ahmedabad", "Mumbai", "Surat"],
+      "correctIndex": 2,
+      "explanation": "The first mechanized textile mill was established in Mumbai due to its moist climate and port facilities.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g5_q21",
+      "text": "Ahmedabad is often referred to as the ________ of India.",
+      "options": ["Manchester", "Silicon Valley", "Sheffield", "Osaka"],
+      "correctIndex": 0,
+      "explanation": "Due to its prominent textile industry, Ahmedabad is known as the 'Manchester of India'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g5_q22",
+      "text": "Which city is known as the 'Manchester of Japan'?",
+      "options": ["Tokyo", "Osaka", "Kyoto", "Hiroshima"],
+      "correctIndex": 1,
+      "explanation": "Osaka is an important textile center of Japan.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g5_q23",
+      "text": "Information Technology (IT) industry deals in the ________ of information.",
+      "options": ["Storage", "Processing", "Distribution", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "The IT industry is involved in storing, processing, and distributing information through technology.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g5_q24",
+      "text": "The Silicon Valley is located in:",
+      "options": ["New York", "California", "Texas", "Florida"],
+      "correctIndex": 1,
+      "explanation": "Silicon Valley is part of the Santa Clara Valley, located next to the Rocky Mountains in California, USA.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g5_q25",
+      "text": "Which city in India is the main hub of the IT industry?",
+      "options": ["Mumbai", "Chennai", "Bengaluru", "Kolkata"],
+      "correctIndex": 2,
+      "explanation": "Bengaluru is known as the Silicon Valley of India because it has the highest concentration of IT companies.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g5_q26",
+      "text": "The term 'sunrise industries' refers to:",
+      "options": ["Old industries", "Emerging industries", "Agricultural industries", "Mining"],
+      "correctIndex": 1,
+      "explanation": "Sunrise industries are emerging industries like IT, Wellness, Hospitality and Knowledge.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g5_q27",
+      "text": "Which of the following is a forest-based industry?",
+      "options": ["Textile", "Pharmaceuticals", "Paper and Furniture", "Tea"],
+      "correctIndex": 2,
+      "explanation": "Paper, pharmaceuticals, and furniture industries use forest produce as raw materials.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g5_q28",
+      "text": "Large-scale industries are characterized by:",
+      "options": ["Higher investment of capital", "Use of superior technology", "Production of large volumes of goods", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Large-scale industries (like automobiles) require more money and advanced technology compared to small-scale.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g5_q29",
+      "text": "Which sector is also known as the state-owned sector?",
+      "options": ["Private", "Joint", "Public", "Co-operative"],
+      "correctIndex": 2,
+      "explanation": "Public sector industries are owned and operated by the government.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g5_q30",
+      "text": "The industrial system consists of:",
+      "options": ["Inputs", "Processes", "Outputs", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Like any system, industries involve inputs (raw materials), processes (manufacturing steps), and outputs (final product).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g5_q31",
+      "text": "Great Lakes of North America are important for:",
+      "options": ["Textiles", "Iron and Steel in Pittsburgh", "IT in India", "Rubber"],
+      "correctIndex": 1,
+      "explanation": "Iron ore from Minnesota is transported to Pittsburgh via the Great Lakes waterway.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_g5_q32",
+      "text": "Purely 'Agro-based' industry is:",
+      "options": ["Cotton textile", "Steel", "Furniture", "IT"],
+      "correctIndex": 0,
+      "explanation": "Cotton is a plant-based raw material.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g5_q33",
+      "text": "Muslin of ______ was world famous for its quality.",
+      "options": ["Surat", "Dhaka", "Masulipatnam", "Calicut"],
+      "correctIndex": 1,
+      "explanation": "Dhaka's Muslin and Chintzes of Masulipatnam were highly valued before the industrial revolution.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g5_q34",
+      "text": "Which fiber was the first to be used in the textile industry?",
+      "options": ["Cotton", "Polyester", "Nylon", "Rayon"],
+      "correctIndex": 0,
+      "explanation": "Cotton is a natural fiber used since ancient times; others are synthetic.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g8_g5_q35",
+      "text": "Which river flows through Jamshedpur?",
+      "options": ["Ganga", "Subarnarekha", "Yamuna", "Godavari"],
+      "correctIndex": 1,
+      "explanation": "Subarnarekha and Kharkai provide water supply to Jamshedpur steel plants.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g5_q36",
+      "text": "Steel is often called the alloy because it is mixed with small amounts of:",
+      "options": ["Manganese, nickel, and chromium", "Sand and clay", "Water and air", "Copper and zinc"],
+      "correctIndex": 0,
+      "explanation": "Alloys give steel unusual hardness, toughness, or ability to resist rust.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g5_q37",
+      "text": "The first IT hub in India was:",
+      "options": ["Hyderabad", "Bengaluru", "Pune", "Gurgaon"],
+      "correctIndex": 1,
+      "explanation": "Bengaluru (Bangalore) was the pioneer in India's IT revolution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g5_q38",
+      "text": "What does TISCO stand for?",
+      "options": ["Tata Iron and Steel Company", "Total Iron and Steel Corp", "Tata Industrial Steel Co", "Technical Iron and Steel Office"],
+      "correctIndex": 0,
+      "explanation": "It is the oldest and one of the largest private sector steel companies in India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g8_g5_q39",
+      "text": "Why did the textile industry flourish in Ahmedabad?",
+      "options": ["Proximity to cotton growing area", "Humid climate", "Port facilities nearby", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Ahmedabad is located in Gujarat, a major cotton-producing state with suitable climate and infrastructure.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g8_g5_q40",
+      "text": "Which of these is a marine-based product?",
+      "options": ["Fish oil", "Cotton cloth", "Wooden table", "Steel pipe"],
+      "correctIndex": 0,
+      "explanation": "Fish oil is derived from marine organisms.",
+      "frequencyRating": 3
+    }
+  ]
+}
