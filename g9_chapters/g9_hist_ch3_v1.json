@@ -1,0 +1,330 @@
+{
+  "id": "g9_hist_ch3",
+  "grade": "9",
+  "subject": "History",
+  "number": "3",
+  "title": "Nazism and the Rise of Hitler",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_h3_q1",
+      "text": "The International Military Tribunal was set up at:",
+      "options": ["Berlin", "Nuremberg", "Munich", "Frankfurt"],
+      "correctIndex": 1,
+      "explanation": "At the end of the war, an International Military Tribunal at Nuremberg was set up to prosecute Nazi war criminals.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q2",
+      "text": "Which country was the leading member of the Axis Powers?",
+      "options": ["Germany", "UK", "USA", "France"],
+      "correctIndex": 0,
+      "explanation": "The Axis powers consisted of Germany, Italy, and Japan.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q3",
+      "text": "The Weimar Republic was established in Germany after:",
+      "options": ["The French Revolution", "World War I", "World War II", "The Russian Revolution"],
+      "correctIndex": 1,
+      "explanation": "The defeat of Imperial Germany in WWI and the abdication of the Emperor led to the birth of the Weimar Republic.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q4",
+      "text": "What was the name of the peace treaty signed by Germany after WWI?",
+      "options": ["Treaty of Berlin", "Treaty of Versailles", "Treaty of Paris", "Treaty of London"],
+      "correctIndex": 1,
+      "explanation": "The peace treaty at Versailles with the Allies was a harsh and humiliating peace for Germany.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q5",
+      "text": "The 'November Criminals' was a term used for:",
+      "options": ["Nazi leaders", "Supporters of the Weimar Republic", "Allied generals", "Bolsheviks"],
+      "correctIndex": 1,
+      "explanation": "Those who supported the Weimar Republic, mainly Socialists, Catholics and Democrats, were mockingly called 'November Criminals'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q6",
+      "text": "A situation where prices rise phenomenally high is called:",
+      "options": ["Deflation", "Hyperinflation", "Depression", "Stagnation"],
+      "correctIndex": 1,
+      "explanation": "In 1923, Germany faced hyperinflation where the value of the Mark fell and prices of goods soared.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q7",
+      "text": "The Wall Street Exchange crashed in 1929 in which country?",
+      "options": ["Germany", "UK", "USA", "France"],
+      "correctIndex": 2,
+      "explanation": "The crash of the Wall Street Exchange in the USA marked the start of the Great Depression.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q8",
+      "text": "Adolf Hitler was born in:",
+      "options": ["Germany", "Austria", "Hungary", "Poland"],
+      "correctIndex": 1,
+      "explanation": "Hitler was born in 1889 in Austria.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q9",
+      "text": "The Nazi party was originally known as the:",
+      "options": ["German Workers' Party", "Socialist Party", "Liberal Party", "Communist Party"],
+      "correctIndex": 0,
+      "explanation": "Hitler joined a small group called the German Workers’ Party and later renamed it the National Socialist German Workers’ Party.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h3_q10",
+      "text": "In the 1932 elections, the Nazi Party became the largest party with ______ votes.",
+      "options": ["25%", "32%", "37%", "50%"],
+      "correctIndex": 2,
+      "explanation": "By 1932, it had become the largest party with 37 per cent votes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h3_q11",
+      "text": "Who offered the Chancellorship to Hitler on 30 January 1933?",
+      "options": ["Goebbels", "Hindenburg", "Mussolini", "Stalin"],
+      "correctIndex": 1,
+      "explanation": "President Hindenburg offered the Chancellorship, the highest position in the cabinet of ministers, to Hitler.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q12",
+      "text": "The Enabling Act of 1933 gave Hitler the power to:",
+      "options": ["Rule by decree", "Sideline Parliament", "Ban all other political parties", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "The Enabling Act established dictatorship in Germany, allowing Hitler to ignore parliament and rule by decree.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q13",
+      "text": "The secret state police of the Nazis was called:",
+      "options": ["SS", "Gestapo", "SA", "SD"],
+      "correctIndex": 1,
+      "explanation": "The Gestapo was the feared secret state police of the Nazi regime.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q14",
+      "text": "Who was Hitler's economist responsible for economic recovery?",
+      "options": ["Hjalmar Schacht", "Joseph Goebbels", "Himmler", "Speer"],
+      "correctIndex": 0,
+      "explanation": "Hjalmar Schacht was assigned the responsibility of economic recovery through state-funded work-creation programmes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h3_q15",
+      "text": "Hitler pulled out of the League of Nations in:",
+      "options": ["1933", "1936", "1939", "1941"],
+      "correctIndex": 0,
+      "explanation": "Hitler pulled Germany out of the League of Nations in 1933.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h3_q16",
+      "text": "World War II began when Germany invaded:",
+      "options": ["France", "Poland", "USSR", "UK"],
+      "correctIndex": 1,
+      "explanation": "In September 1939, Germany invaded Poland, which started the war with France and England.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q17",
+      "text": "What was the 'Tripartite Pact'?",
+      "options": ["Pact between Germany, Italy, and Japan", "Pact between UK, USA, and France", "Pact between Germany and USSR", "Pact to end the war"],
+      "correctIndex": 0,
+      "explanation": "The Tripartite Pact was signed in 1940 between Germany, Italy and Japan, strengthening Hitler's claim to international power.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q18",
+      "text": "Hitler’s ideological worldview was based on the ideas of:",
+      "options": ["Marx and Engels", "Charles Darwin and Herbert Spencer", "Locke and Rousseau", "Lenin"],
+      "correctIndex": 1,
+      "explanation": "Hitler borrowed and twisted the ideas of Darwin and Spencer regarding 'survival of the fittest' to justify racial hierarchy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q19",
+      "text": "In the Nazi racial hierarchy, who were at the top?",
+      "options": ["Jews", "Nordic German Aryans", "Blacks", "Gypsies"],
+      "correctIndex": 1,
+      "explanation": "Nordic German Aryans were at the top, while Jews were at the bottom as the 'anti-race'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q20",
+      "text": "What does 'Lebensraum' mean?",
+      "options": ["Master race", "Living space", "Secret police", "War strategy"],
+      "correctIndex": 1,
+      "explanation": "Lebensraum or 'living space' was Hitler's geopolitical concept to acquire new territories for resources and settlement.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q21",
+      "text": "Which of these groups was considered 'undesirable' by Nazis?",
+      "options": ["Jews", "Gypsies", "Physically handicapped Germans", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Nazis wanted a society of 'pure and healthy' Aryans; all others were deemed 'undesirable'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q22",
+      "text": "At what age were German boys required to join the 'Jungvolk'?",
+      "options": ["6", "10", "14", "18"],
+      "correctIndex": 1,
+      "explanation": "At ten, boys had to enter Jungvolk; at 14, they joined Hitler Youth.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h3_q23",
+      "text": "The Nazi ideology regarding women emphasized:",
+      "options": ["Equal rights", "Being good mothers and rearing pure-blooded Aryans", "Joining the army", "Working in factories"],
+      "correctIndex": 1,
+      "explanation": "Women were taught to be good mothers, maintain the purity of the race, and distance themselves from Jews.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q24",
+      "text": "The 'Final Solution' was a Nazi code name for:",
+      "options": ["Winning the war", "Mass murder of Jews", "Euthanasia for the disabled", "Secret police operations"],
+      "correctIndex": 1,
+      "explanation": "Final Solution was the code for the mass killing of Jews in gas chambers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q25",
+      "text": "Who was the propaganda minister of Hitler?",
+      "options": ["Hindenburg", "Joseph Goebbels", "Himmler", "Eichmann"],
+      "correctIndex": 1,
+      "explanation": "Joseph Goebbels was the Minister of Propaganda who helped build Hitler's image as a 'saviour'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q26",
+      "text": "The gas chambers were mockingly called ______ by the Nazis.",
+      "options": ["Death zones", "Disinfection areas", "Jungvolk", "Ghettoes"],
+      "correctIndex": 1,
+      "explanation": "Gas chambers looked like bathrooms with fake showerheads and were called 'disinfection areas'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h3_q27",
+      "text": "The autobiography written by Hitler while in prison is:",
+      "options": ["Mein Kampf", "My Struggle", "The Nazi Story", "A and B"],
+      "correctIndex": 3,
+      "explanation": "Mein Kampf (German for 'My Struggle') outlines Hitler's political ideology and future plans.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q28",
+      "text": "What was the result of the Nazi 'Euthanasia Programme'?",
+      "options": ["Better health for all", "Killing of many Germans considered mentally or physically unfit", "Free medicine", "Construction of hospitals"],
+      "correctIndex": 1,
+      "explanation": "Under this programme, many Germans who were considered 'unworthy of life' were condemned to death.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h3_q29",
+      "text": "Why was the German economy hit hardest during the Great Depression?",
+      "options": ["They had no industry", "Their recovery depended on short-term loans from the USA which were withdrawn", "They spent all money on war", "They had too much gold"],
+      "correctIndex": 1,
+      "explanation": "German industrial recovery was built on US loans; when the Wall Street crash happened, these loans stopped.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q30",
+      "text": "The Nuremberg Laws of 1935 focused on:",
+      "options": ["Economic recovery", "Stripping Jews of German citizenship", "Declaring war on France", "Building railways"],
+      "correctIndex": 1,
+      "explanation": "The laws defined who was a German and who was a Jew, stripping Jews of their rights and citizenship.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q31",
+      "text": "Article 48 of the Weimar Constitution gave the President the power to:",
+      "options": ["Impose emergency", "Suspend civil rights", "Rule by decree", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Article 48 was an inherent flaw in the Weimar Republic that allowed for the concentration of power.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h3_q32",
+      "text": "Which of these events helped Hitler gain total power?",
+      "options": ["The mysterious Reichstag fire", "The Great Depression", "The Enabling Act", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "All these events created a vacuum and opportunity for Hitler to dismantle democracy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q33",
+      "text": "What happened to Hitler at the end of WWII?",
+      "options": ["He escaped to USA", "He was executed at Nuremberg", "He committed suicide in his bunker", "He became President again"],
+      "correctIndex": 2,
+      "explanation": "In April 1945, Hitler, his family and Goebbels committed suicide in his Berlin bunker.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q34",
+      "text": "German children were taught that Jews were:",
+      "options": ["Evil and killers of Christ", "Their brothers", "Scientific experts", "Brave soldiers"],
+      "correctIndex": 0,
+      "explanation": "Stereotypes about Jews were taught in schools to instill hatred from a young age.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h3_q35",
+      "text": "The term 'Evacuation' was a Nazi code for:",
+      "options": ["Cleaning a city", "Deporting people to gas chambers", "Building new houses", "Rescue operations"],
+      "correctIndex": 1,
+      "explanation": "Evacuation meant taking people to the 'killing centres' or gas chambers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h3_q36",
+      "text": "How did many ordinary Germans react to the Holocaust?",
+      "options": ["All participated", "Some were passive onlookers (Apathy)", "Some resisted", "B and C"],
+      "correctIndex": 3,
+      "explanation": "While many were Nazis, a large population remained passive through fear or apathy, and some braved death to resist.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q37",
+      "text": "Pastor Niemöller is famous for his writing about:",
+      "options": ["The glory of Hitler", "The silence of the masses during Nazi atrocities", "Christian history", "German victory"],
+      "correctIndex": 1,
+      "explanation": "He wrote about how people didn't speak up as the Nazis took away various groups one by one.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h3_q38",
+      "text": "What does the 'Holocaust' refer to?",
+      "options": ["The start of WWII", "The state-sponsored mass murder of Jews and others by Nazis", "The atomic bombing of Japan", "The Weimar Republic"],
+      "correctIndex": 1,
+      "explanation": "The Holocaust is the term for the systematic genocide of approximately 6 million Jews.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h3_q39",
+      "text": "After WWI, Germany had to pay a war indemnity of:",
+      "options": ["£2 billion", "£6 billion", "£10 billion", "£1 billion"],
+      "correctIndex": 1,
+      "explanation": "Germany was forced to pay compensation amounting to £6 billion under the Treaty of Versailles.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_h3_q40",
+      "text": "The 'Reichstag' was the name of the German:",
+      "options": ["Army", "Parliament", "Secret Police", "Tax"],
+      "correctIndex": 1,
+      "explanation": "The Reichstag was the German Parliament, which was burned in a mysterious fire in 1933.",
+      "frequencyRating": 5
+    }
+  ]
+}

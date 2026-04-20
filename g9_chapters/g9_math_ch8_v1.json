@@ -1,0 +1,330 @@
+{
+  "id": "g9_math_ch8",
+  "grade": "9",
+  "subject": "Mathematics",
+  "number": "8",
+  "title": "Quadrilaterals",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_m8_q1",
+      "text": "The sum of the angles of a quadrilateral is:",
+      "options": ["180°", "270°", "360°", "540°"],
+      "correctIndex": 2,
+      "explanation": "A quadrilateral can be divided into two triangles, each summing to 180°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m8_q2",
+      "text": "A quadrilateral in which opposite sides are parallel is called a:",
+      "options": ["Trapezium", "Kite", "Parallelogram", "None"],
+      "correctIndex": 2,
+      "explanation": "This is the primary definition of a parallelogram.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m8_q3",
+      "text": "A parallelogram with all sides equal is called a:",
+      "options": ["Rectangle", "Rhombus", "Trapezium", "Kite"],
+      "correctIndex": 1,
+      "explanation": "A rhombus is a specific type of parallelogram where all sides have the same length.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m8_q4",
+      "text": "A parallelogram in which one angle is 90° is called a:",
+      "options": ["Rhombus", "Rectangle", "Trapezium", "Square"],
+      "correctIndex": 1,
+      "explanation": "If one angle is 90 in a parallelogram, all angles become 90, making it a rectangle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m8_q5",
+      "text": "The diagonals of a parallelogram ______ each other.",
+      "options": ["Are perpendicular to", "Are equal to", "Bisect", "Trisect"],
+      "correctIndex": 2,
+      "explanation": "A fundamental property: they cut each other into two equal halves.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m8_q6",
+      "text": "The diagonals of a rhombus bisect each other at:",
+      "options": ["45°", "60°", "90°", "180°"],
+      "correctIndex": 2,
+      "explanation": "Rhombus diagonals are perpendicular bisectors.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m8_q7",
+      "text": "A square is a:",
+      "options": ["Rectangle", "Rhombus", "Parallelogram", "All of these"],
+      "correctIndex": 3,
+      "explanation": "A square satisfies all definitions of rectangle, rhombus, and parallelogram.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m8_q8",
+      "text": "The line segment joining the mid-points of two sides of a triangle is:",
+      "options": ["Parallel to the third side", "Half of the third side", "Both A and B", "Equal to the third side"],
+      "correctIndex": 2,
+      "explanation": "This is the Mid-point Theorem.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m8_q9",
+      "text": "A quadrilateral with only one pair of opposite sides parallel is a:",
+      "options": ["Parallelogram", "Rhombus", "Trapezium", "Rectangle"],
+      "correctIndex": 2,
+      "explanation": "Definition of a trapezium.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m8_q10",
+      "text": "The angles of a quadrilateral are in the ratio 3 : 5 : 9 : 13. The smallest angle is:",
+      "options": ["36°", "60°", "108°", "156°"],
+      "correctIndex": 0,
+      "explanation": "3x+5x+9x+13x = 360 => 30x = 360 => x = 12. 3x = 36°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m8_q11",
+      "text": "In a parallelogram ABCD, angle A = 70°. Angle B is:",
+      "options": ["70°", "110°", "180°", "90°"],
+      "correctIndex": 1,
+      "explanation": "Consecutive angles in a parallelogram are supplementary. 180 - 70 = 110°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m8_q12",
+      "text": "If diagonals of a quadrilateral bisect each other at right angles, then it is a:",
+      "options": ["Trapezium", "Rectangle", "Rhombus", "None"],
+      "correctIndex": 2,
+      "explanation": "This property specifically identifies a rhombus or square.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m8_q13",
+      "text": "If the diagonals of a quadrilateral are equal and bisect each other at right angles, then it is a:",
+      "options": ["Rectangle", "Rhombus", "Square", "Parallelogram"],
+      "correctIndex": 2,
+      "explanation": "Equality plus perpendicular bisecting identifies a square.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m8_q14",
+      "text": "Three angles of a quadrilateral are 75°, 90°, and 75°. The fourth angle is:",
+      "options": ["90°", "120°", "105°", "150°"],
+      "correctIndex": 1,
+      "explanation": "360 - (75+90+75) = 360 - 240 = 120°.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m8_q15",
+      "text": "Which of the following is NOT a property of a parallelogram?",
+      "options": ["Opposite sides are equal", "Opposite angles are equal", "Diagonals bisect each other", "Diagonals are always equal"],
+      "correctIndex": 3,
+      "explanation": "Diagonals are equal only in rectangles and squares.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m8_q16",
+      "text": "In a parallelogram ABCD, if AB = 10 cm, then CD is:",
+      "options": ["5 cm", "10 cm", "20 cm", "None"],
+      "correctIndex": 1,
+      "explanation": "Opposite sides of a parallelogram are equal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m8_q17",
+      "text": "The quadrilateral formed by joining the mid-points of the sides of a quadrilateral is a:",
+      "options": ["Rectangle", "Square", "Parallelogram", "Rhombus"],
+      "correctIndex": 2,
+      "explanation": "Varignon's theorem states it's always a parallelogram.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m8_q18",
+      "text": "A rectangle is a square if its ______ are equal.",
+      "options": ["Adjacent sides", "Opposite angles", "Diagonals", "None"],
+      "correctIndex": 0,
+      "explanation": "If adjacent sides of a rectangle are equal, all sides become equal, making it a square.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m8_q19",
+      "text": "Consecutive angles of a parallelogram are:",
+      "options": ["Equal", "Complementary", "Supplementary", "Right angles"],
+      "correctIndex": 2,
+      "explanation": "Sum of co-interior angles between parallel sides is 180°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m8_q20",
+      "text": "Diagonals of a rectangle are:",
+      "options": ["Equal", "Unequal", "Perpendicular", "Bisect angles"],
+      "correctIndex": 0,
+      "explanation": "Fundamental property of rectangles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m8_q21",
+      "text": "A diagonal of a parallelogram divides it into two ______ triangles.",
+      "options": ["Equilateral", "Isosceles", "Congruent", "Right"],
+      "correctIndex": 2,
+      "explanation": "By SSS or SAS, the two triangles formed are identical.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m8_q22",
+      "text": "In a rhombus ABCD, if diagonal AC = BD, then it is a:",
+      "options": ["Parallelogram", "Rectangle", "Square", "Kite"],
+      "correctIndex": 2,
+      "explanation": "A rhombus with equal diagonals is a square.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m8_q23",
+      "text": "The perimeter of a parallelogram with sides 8 cm and 6 cm is:",
+      "options": ["14 cm", "24 cm", "28 cm", "48 cm"],
+      "correctIndex": 2,
+      "explanation": "2(8 + 6) = 2(14) = 28 cm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m8_q24",
+      "text": "A quadrilateral having two pairs of equal adjacent sides but unequal opposite sides is a:",
+      "options": ["Rhombus", "Square", "Kite", "Parallelogram"],
+      "correctIndex": 2,
+      "explanation": "Definition of a kite.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m8_q25",
+      "text": "Opposite angles of a parallelogram are:",
+      "options": ["Equal", "Supplementary", "Complementary", "Unequal"],
+      "correctIndex": 0,
+      "explanation": "Fundamental property.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m8_q26",
+      "text": "An angle of a parallelogram is 90°. Then it is definitely a:",
+      "options": ["Rhombus", "Rectangle", "Square", "Trapezium"],
+      "correctIndex": 1,
+      "explanation": "Parallelogram + one 90° angle = Rectangle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m8_q27",
+      "text": "If a quadrilateral is a square, its diagonals ______ each other.",
+      "options": ["Bisect at 90°", "Are equal", "Both A and B", "None"],
+      "correctIndex": 2,
+      "explanation": "Squares possess all properties of rectangles and rhombuses.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m8_q28",
+      "text": "Which of the following can be angles of a quadrilateral?",
+      "options": ["100, 100, 100, 100", "70, 80, 90, 120", "50, 60, 70, 80", "90, 90, 90, 90"],
+      "correctIndex": 3,
+      "explanation": "Sum must be exactly 360. 90*4 = 360.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m8_q29",
+      "text": "In triangle ABC, D and E are mid-points of AB and AC. If BC = 12 cm, DE is:",
+      "options": ["12 cm", "6 cm", "24 cm", "None"],
+      "correctIndex": 1,
+      "explanation": "By mid-point theorem, DE = 1/2 BC = 6 cm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m8_q30",
+      "text": "In a parallelogram, if diagonals are perpendicular, it's a:",
+      "options": ["Rectangle", "Rhombus", "Trapezium", "None"],
+      "correctIndex": 1,
+      "explanation": "Perpendicular diagonals in a parallelogram imply equal sides (Rhombus).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m8_q31",
+      "text": "A quadrilateral can have at most how many obtuse angles?",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 2,
+      "explanation": "If it had 4, sum > 360. 3 is possible (e.g., 100, 100, 100, 60).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m8_q32",
+      "text": "In a trapezium ABCD with AB || CD, if ∠A = 50°, then ∠D is:",
+      "options": ["50°", "130°", "90°", "40°"],
+      "correctIndex": 1,
+      "explanation": "Adjacent angles between parallel sides (co-interior) sum to 180.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m8_q33",
+      "text": "Mid-point theorem is applicable to:",
+      "options": ["Triangles", "Quadrilaterals", "Circles", "Points only"],
+      "correctIndex": 0,
+      "explanation": "It relates the midpoints of two sides of a triangle to the third side.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m8_q34",
+      "text": "Does a rectangle have all sides equal?",
+      "options": ["Yes", "No", "Only if it is a square", "Always"],
+      "correctIndex": 2,
+      "explanation": "A rectangle only requires equal opposite sides; if all are equal, it's a square.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m8_q35",
+      "text": "A trapezium in which non-parallel sides are equal is called:",
+      "options": ["Scalene trapezium", "Isosceles trapezium", "Parallelogram", "Rhombus"],
+      "correctIndex": 1,
+      "explanation": "Standard terminology for symmetric trapezoids.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m8_q36",
+      "text": "A diagonal of a rectangle is inclined to one side at 25°. The acute angle between diagonals is:",
+      "options": ["25°", "50°", "65°", "90°"],
+      "correctIndex": 1,
+      "explanation": "Triangle formed by diagonals is isosceles. Exterior angle = 25 + 25 = 50°.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g9_m8_q37",
+      "text": "In a parallelogram ABCD, ∠A - ∠C is:",
+      "options": ["180°", "90°", "0°", "45°"],
+      "correctIndex": 2,
+      "explanation": "Opposite angles are equal, so their difference is zero.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m8_q38",
+      "text": "A square has how many lines of symmetry?",
+      "options": ["2", "4", "infinite", "0"],
+      "correctIndex": 1,
+      "explanation": "Horizontal, vertical, and two diagonal lines.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m8_q39",
+      "text": "Sum of all exterior angles of a quadrilateral is:",
+      "options": ["180°", "360°", "540°", "720°"],
+      "correctIndex": 1,
+      "explanation": "Sum of exterior angles of any polygon is 360°.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m8_q40",
+      "text": "Which quadrilateral has both pairs of opposite sides parallel?",
+      "options": ["Kite", "Trapezium", "Parallelogram", "None"],
+      "correctIndex": 2,
+      "explanation": "Defining property.",
+      "frequencyRating": 5
+    }
+  ]
+}

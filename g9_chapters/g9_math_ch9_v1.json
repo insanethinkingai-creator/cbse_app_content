@@ -1,0 +1,330 @@
+{
+  "id": "g9_math_ch9",
+  "grade": "9",
+  "subject": "Mathematics",
+  "number": "9",
+  "title": "Areas of Parallelograms and Triangles",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_m9_q1",
+      "text": "If two parallelograms are on the same base and between the same parallels, then the ratio of their areas is:",
+      "options": ["1 : 2", "1 : 1", "2 : 1", "3 : 1"],
+      "correctIndex": 1,
+      "explanation": "Parallelograms on the same base and between the same parallels are equal in area.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m9_q2",
+      "text": "The area of a triangle is ______ the area of a parallelogram on the same base and between the same parallels.",
+      "options": ["Equal to", "Double", "Half", "Triple"],
+      "correctIndex": 2,
+      "explanation": "By theorem, the area of a triangle is half the area of a parallelogram if they share the same base and parallels.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m9_q3",
+      "text": "A median of a triangle divides it into two triangles of:",
+      "options": ["Equal area", "Equal perimeter", "Congruent shapes", "Right angles"],
+      "correctIndex": 0,
+      "explanation": "A median connects a vertex to the midpoint of the opposite side, creating two triangles with the same base length and height.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m9_q4",
+      "text": "Two triangles are on the same base and between the same parallels. The ratio of their areas is:",
+      "options": ["1 : 1", "1 : 2", "2 : 1", "Depend on side lengths"],
+      "correctIndex": 0,
+      "explanation": "Triangles on the same base and between the same parallels are equal in area.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m9_q5",
+      "text": "In a parallelogram ABCD, if area is 40 cm², then the area of triangle ABC is:",
+      "options": ["40 cm²", "80 cm²", "20 cm²", "10 cm²"],
+      "correctIndex": 2,
+      "explanation": "The diagonal of a parallelogram divides it into two triangles of equal area (40 / 2 = 20).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m9_q6",
+      "text": "The area of a rhombus is equal to:",
+      "options": ["Product of diagonals", "Half the product of diagonals", "Base × Height", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "A rhombus is a parallelogram (Base × Height) and its area is also 1/2 × d1 × d2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m9_q7",
+      "text": "If a triangle and a parallelogram are on the same base and between the same parallels, and the area of the triangle is 15 cm², the area of the parallelogram is:",
+      "options": ["15 cm²", "30 cm²", "7.5 cm²", "45 cm²"],
+      "correctIndex": 1,
+      "explanation": "Area of parallelogram = 2 × Area of triangle = 2 × 15 = 30 cm².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m9_q8",
+      "text": "The area of a figure is a ______ associated with the part of the plane enclosed by the figure.",
+      "options": ["Vector", "Number", "Shape", "Point"],
+      "correctIndex": 1,
+      "explanation": "Area is a scalar quantity represented by a non-negative real number.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m9_q9",
+      "text": "Which of the following figures lie on the same base and between the same parallels?",
+      "options": ["A square and a circle", "A triangle and a parallelogram with common base and vertices on same parallel", "Two disjoint triangles", "A rectangle and a trapezoid with different bases"],
+      "correctIndex": 1,
+      "explanation": "For figures to be 'between same parallels', their vertices opposite the common base must lie on a line parallel to the base.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m9_q10",
+      "text": "If the base of a parallelogram is 8 cm and its altitude is 5 cm, its area is:",
+      "options": ["13 cm²", "20 cm²", "40 cm²", "80 cm²"],
+      "correctIndex": 2,
+      "explanation": "Area of parallelogram = base × altitude = 8 × 5 = 40 cm².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m9_q11",
+      "text": "Two congruent figures have ______ areas.",
+      "options": ["Equal", "Unequal", "Double", "Zero"],
+      "correctIndex": 0,
+      "explanation": "Congruent figures are identical in shape and size, so they must occupy the same amount of space.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m9_q12",
+      "text": "If two figures have equal areas, they must be congruent.",
+      "options": ["Always true", "Never true", "Not necessarily true", "True for triangles only"],
+      "correctIndex": 2,
+      "explanation": "A rectangle of 4x1 and a square of 2x2 both have area 4, but they are not congruent.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m9_q13",
+      "text": "The altitude of a parallelogram is the ______ distance between the base and its opposite side.",
+      "options": ["Longest", "Slant", "Perpendicular", "Average"],
+      "correctIndex": 2,
+      "explanation": "Height or altitude is always measured perpendicular to the base.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m9_q14",
+      "text": "Area of a trapezium is:",
+      "options": ["Base × Height", "1/2 × (Sum of parallel sides) × Height", "Sum of sides", "1/2 × Base × Height"],
+      "correctIndex": 1,
+      "explanation": "This is the standard formula for the area of a trapezoid.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m9_q15",
+      "text": "If the midpoints of the sides of a quadrilateral are joined in order, the area of the resulting parallelogram is ______ the area of the quadrilateral.",
+      "options": ["Equal to", "Double", "Half", "One-fourth"],
+      "correctIndex": 2,
+      "explanation": "Varignon's theorem states the area of the midpoint parallelogram is half the area of the original quadrilateral.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m9_q16",
+      "text": "In triangle ABC, D is the midpoint of BC. Area(ABD) is 10 cm². Find Area(ABC):",
+      "options": ["5 cm²", "10 cm²", "20 cm²", "15 cm²"],
+      "correctIndex": 2,
+      "explanation": "AD is the median. Area(ABC) = 2 × Area(ABD) = 2 × 10 = 20 cm².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m9_q17",
+      "text": "Parallelograms on equal bases and between the same parallels are:",
+      "options": ["Congruent", "Equal in area", "Similar", "None"],
+      "correctIndex": 1,
+      "explanation": "Since area = base × height, and both base and height are same, areas are equal.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m9_q18",
+      "text": "If the diagonals of a parallelogram are equal, then it is a:",
+      "options": ["Rhombus", "Rectangle", "Trapezium", "Kite"],
+      "correctIndex": 1,
+      "explanation": "A parallelogram with equal diagonals is a rectangle.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m9_q19",
+      "text": "A diagonal of a parallelogram divides it into two ______ triangles.",
+      "options": ["Equilateral", "Congruent", "Right-angled", "Isosceles"],
+      "correctIndex": 1,
+      "explanation": "By SSS or SAS congruence, the triangles formed by the diagonal are identical.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m9_q20",
+      "text": "The area of a triangle with base 10 cm and height 6 cm is:",
+      "options": ["60 cm²", "30 cm²", "16 cm²", "20 cm²"],
+      "correctIndex": 1,
+      "explanation": "Area = 1/2 × base × height = 1/2 × 10 × 6 = 30 cm².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m9_q21",
+      "text": "If a triangle and a parallelogram are on the same base and between the same parallels, their areas are in ratio:",
+      "options": ["1:1", "1:2", "2:1", "1:4"],
+      "correctIndex": 1,
+      "explanation": "Triangle area is 1/2 of parallelogram area, so 1 : 2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m9_q22",
+      "text": "Two triangles having equal areas and having one side of one triangle equal to one side of the other, then their corresponding altitudes are:",
+      "options": ["Equal", "Unequal", "Double", "Half"],
+      "correctIndex": 0,
+      "explanation": "1/2 * b1 * h1 = 1/2 * b2 * h2. Since b1 = b2, then h1 must equal h2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m9_q23",
+      "text": "Triangles on the same base and having equal areas lie between the same:",
+      "options": ["Points", "Parallels", "Circles", "Angles"],
+      "correctIndex": 1,
+      "explanation": "This is the converse of the triangle area theorem.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m9_q24",
+      "text": "The area of a square is 36 cm². Its perimeter is:",
+      "options": ["24 cm", "12 cm", "36 cm", "18 cm"],
+      "correctIndex": 0,
+      "explanation": "Side = √36 = 6. Perimeter = 4 × 6 = 24 cm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m9_q25",
+      "text": "The area of a parallelogram ABCD is 24 cm². A point P is on CD. The area of triangle APB is:",
+      "options": ["24 cm²", "12 cm²", "8 cm²", "6 cm²"],
+      "correctIndex": 1,
+      "explanation": "Triangle APB and parallelogram ABCD are on same base AB and between parallels AB and CD. Area is half.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m9_q26",
+      "text": "Which property is NOT used to prove triangles between same parallels are equal in area?",
+      "options": ["Area = 1/2 * base * height", "Base is same", "Distance between parallels is constant", "Sum of angles is 180"],
+      "correctIndex": 3,
+      "explanation": "Angle sum property is true but not used to determine the area relationship.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m9_q27",
+      "text": "The area of a rhombus whose diagonals are 8 cm and 6 cm is:",
+      "options": ["48 cm²", "14 cm²", "24 cm²", "12 cm²"],
+      "correctIndex": 2,
+      "explanation": "Area = 1/2 × 8 × 6 = 24 cm².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m9_q28",
+      "text": "If the diagonals of a quadrilateral divide it into four triangles of equal area, the quadrilateral is a:",
+      "options": ["Trapezium", "Parallelogram", "Kite", "None"],
+      "correctIndex": 1,
+      "explanation": "In a parallelogram, diagonals bisect each other, leading to four triangles of equal area.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m9_q29",
+      "text": "The median of a triangle ABC through A meets BC at D. If Area(ABC) = 50, then Area(ABD) is:",
+      "options": ["50", "100", "25", "12.5"],
+      "correctIndex": 2,
+      "explanation": "Median divides the area into half.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m9_q30",
+      "text": "Can two triangles of different shapes have the same area?",
+      "options": ["Yes", "No", "Only if they are right-angled", "Only if they are isosceles"],
+      "correctIndex": 0,
+      "explanation": "Area only depends on base and height, not the specific orientation of sides.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m9_q31",
+      "text": "If a parallelogram ABCD and a rectangle ABEF are on the same base AB and have equal areas, then the perimeter of the parallelogram is:",
+      "options": ["Equal to rectangle", "Greater than rectangle", "Less than rectangle", "Half of rectangle"],
+      "correctIndex": 1,
+      "explanation": "For the same area and base, the rectangle has the minimum perimeter compared to a slanted parallelogram.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m9_q32",
+      "text": "The unit of area is always:",
+      "options": ["cm", "cm²", "cm³", "Degree"],
+      "correctIndex": 1,
+      "explanation": "Area is two-dimensional, so it uses square units.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m9_q33",
+      "text": "A triangle and a square have the same base and same area. The ratio of height of triangle to side of square is:",
+      "options": ["1:1", "1:2", "2:1", "4:1"],
+      "correctIndex": 2,
+      "explanation": "1/2 * b * h = b². So h = 2b. Ratio is 2 : 1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m9_q34",
+      "text": "Area of a triangle with sides 3, 4, 5 is:",
+      "options": ["12", "6", "7", "5"],
+      "correctIndex": 1,
+      "explanation": "It's a right triangle. Area = 1/2 * 3 * 4 = 6.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m9_q35",
+      "text": "Two parallelograms are between the same parallels. Their areas are proportional to their:",
+      "options": ["Heights", "Perimeters", "Bases", "Angles"],
+      "correctIndex": 2,
+      "explanation": "Area = base × height. Since height is constant, Area ∝ base.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m9_q36",
+      "text": "The area of an equilateral triangle with side 'a' is:",
+      "options": ["a²", "(√3/4)a²", "1/2 a²", "√3 a"],
+      "correctIndex": 1,
+      "explanation": "Standard formula for equilateral triangle area.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m9_q37",
+      "text": "In a triangle, if we join the midpoints of all sides, we get four triangles of ______ area.",
+      "options": ["Unequal", "Equal", "Increasing", "Zero"],
+      "correctIndex": 1,
+      "explanation": "Each small triangle has 1/4th the area of the original triangle.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m9_q38",
+      "text": "If area of triangle is 0, the points are:",
+      "options": ["Collinear", "Vertices of a square", "Equidistant", "Congruent"],
+      "correctIndex": 0,
+      "explanation": "A triangle with zero area means the three points lie on the same straight line.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m9_q39",
+      "text": "The height of a parallelogram is 4 cm and its area is 20 cm². Its base is:",
+      "options": ["80 cm", "16 cm", "5 cm", "10 cm"],
+      "correctIndex": 2,
+      "explanation": "Base = Area / Height = 20 / 4 = 5 cm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m9_q40",
+      "text": "The sum of the areas of two triangles formed by a diagonal of a parallelogram is:",
+      "options": ["Area of parallelogram", "Half area of parallelogram", "Double area of parallelogram", "Zero"],
+      "correctIndex": 0,
+      "explanation": "The two triangles together make up the entire parallelogram.",
+      "frequencyRating": 5
+    }
+  ]
+}

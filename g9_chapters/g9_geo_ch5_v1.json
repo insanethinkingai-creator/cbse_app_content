@@ -1,0 +1,330 @@
+{
+  "id": "g9_geo_ch05",
+  "grade": "9",
+  "subject": "Geography",
+  "number": "5",
+  "title": "Natural Vegetation and Wildlife",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_g5_q1",
+      "text": "Vegetation which has grown naturally without human aid and has been left undisturbed by humans for a long time is called:",
+      "options": ["Cultivated crops", "Virgin vegetation", "Orchards", "Planted forests"],
+      "correctIndex": 1,
+      "explanation": "Virgin vegetation is purely natural and has not been modified by human intervention.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g5_q2",
+      "text": "Virgin vegetation which are purely Indian are known as ________ species.",
+      "options": ["Endemic", "Exotic", "Global", "Migratory"],
+      "correctIndex": 0,
+      "explanation": "Endemic or indigenous species are those native to a specific region.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g5_q3",
+      "text": "Which of the following factors affect the diversity of flora and fauna?",
+      "options": ["Relief (Land and Soil)", "Climate (Temperature, Photoperiod, Precipitation)", "Both A and B", "None"],
+      "correctIndex": 2,
+      "explanation": "The type of vegetation is determined by land, soil, temperature, sunlight, and rainfall.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g5_q4",
+      "text": "The term used to denote plants of a particular region or period is:",
+      "options": ["Fauna", "Flora", "Ecosystem", "Biome"],
+      "correctIndex": 1,
+      "explanation": "Flora refers to plant life; Fauna refers to animal life.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g5_q5",
+      "text": "All the plants and animals in an area are interdependent and interrelated in their physical environment, forming an:",
+      "options": ["Ecosystem", "Atmosphere", "Hydrosphere", "Lithosphere"],
+      "correctIndex": 0,
+      "explanation": "An ecosystem consists of all biotic and abiotic components interacting in an environment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g5_q6",
+      "text": "A very large ecosystem on land having distinct types of vegetation and animal life is called a:",
+      "options": ["Forest", "Biome", "Habitat", "Zoo"],
+      "correctIndex": 1,
+      "explanation": "Biomes are categorized based on the dominant plant types.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g5_q7",
+      "text": "Tropical Evergreen forests are found in areas having more than ________ cm of rainfall.",
+      "options": ["100", "150", "200", "70"],
+      "correctIndex": 2,
+      "explanation": "These forests are restricted to heavy rainfall areas (>200 cm).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g5_q8",
+      "text": "Which of the following is a characteristic of Tropical Evergreen forests?",
+      "options": ["Trees shed leaves in a particular season", "There is no definite time for trees to shed their leaves", "Vegetation consists of short grasses", "Trees have long needles"],
+      "correctIndex": 1,
+      "explanation": "Since there is no definite dry season, these forests appear green all year round.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g5_q9",
+      "text": "Which of these trees is found in Tropical Evergreen forests?",
+      "options": ["Ebony", "Rosewood", "Mahogany", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Ebony, Mahogany, Rosewood, Rubber and Cinchona are common trees in evergreen forests.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g5_q10",
+      "text": "The most widespread forests of India are:",
+      "options": ["Evergreen Forests", "Tropical Deciduous Forests", "Thorn Forests", "Mangrove Forests"],
+      "correctIndex": 1,
+      "explanation": "They are also called the monsoon forests and spread over regions receiving 70-200 cm rainfall.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g5_q11",
+      "text": "Tropical Deciduous forests shed their leaves for about ________ in dry summer.",
+      "options": ["2 to 4 weeks", "6 to 8 weeks", "10 to 12 weeks", "Whole season"],
+      "correctIndex": 1,
+      "explanation": "This happens to conserve moisture during the dry period.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g5_q12",
+      "text": "Which is the most dominant tree species of Tropical Deciduous forests?",
+      "options": ["Teak", "Sal", "Bamboo", "Sandalwood"],
+      "correctIndex": 0,
+      "explanation": "Teak is the most important species of these forests.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g5_q13",
+      "text": "In regions with less than 70 cm of rainfall, the natural vegetation consists of:",
+      "options": ["Tropical Deciduous forests", "Thorn forests and scrubs", "Mangroves", "Evergreen forests"],
+      "correctIndex": 1,
+      "explanation": "These are found in semi-arid areas like Gujarat, Rajasthan, and MP.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g5_q14",
+      "text": "The main plant species in Thorn forests are:",
+      "options": ["Acacias", "Palms", "Euphorbias and Cacti", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "These plants have long roots and thick/succulent stems to survive in dry conditions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g5_q15",
+      "text": "In mountainous areas, the decrease in temperature with increasing altitude leads to a ________ change in natural vegetation.",
+      "options": ["Permanent", "Corresponding", "Slow", "No"],
+      "correctIndex": 1,
+      "explanation": "Different altitudes support different types of forests, from wet temperate to alpine.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g5_q16",
+      "text": "Coniferous trees like Pine, Deodar, Silver fir, Spruce and Cedar are found in ________ forests.",
+      "options": ["Tropical Deciduous", "Montane", "Thorn", "Mangrove"],
+      "correctIndex": 1,
+      "explanation": "Coniferous forests are found at altitudes between 1500 and 3000 metres.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g5_q17",
+      "text": "Mangrove tidal forests are found in areas of coasts influenced by:",
+      "options": ["Snow", "Tides", "Winds", "Drought"],
+      "correctIndex": 1,
+      "explanation": "Mud and silt get accumulated on such coasts, and mangroves grow in these saline conditions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g5_q18",
+      "text": "Which delta region is famous for the 'Royal Bengal Tiger' and 'Sundari' trees?",
+      "options": ["Mahanadi Delta", "Ganga-Brahmaputra Delta", "Krishna Delta", "Godavari Delta"],
+      "correctIndex": 1,
+      "explanation": "The Sundarbans are named after the Sundari trees found there.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g5_q19",
+      "text": "India is the only country in the world that has both:",
+      "options": ["Elephants and Tigers", "Lions and Tigers", "Tigers and Rhinos", "Lions and Elephants"],
+      "correctIndex": 1,
+      "explanation": "India is unique in hosting both the Asiatic Lion and the Tiger.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g5_q20",
+      "text": "The natural habitat of the Indian lion is the ________ forest in Gujarat.",
+      "options": ["Sundarbans", "Gir", "Jim Corbett", "Kaziranga"],
+      "correctIndex": 1,
+      "explanation": "The Gir forest is the last remaining habitat of the Asiatic lion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g5_q21",
+      "text": "One-horned rhinoceroses are found in the jungles of:",
+      "options": ["Gujarat", "Assam and West Bengal", "Kerala", "Rajasthan"],
+      "correctIndex": 1,
+      "explanation": "They inhabit the swampy and marshy lands of Assam and West Bengal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g5_q22",
+      "text": "How many biosphere reserves have been set up in India to protect flora and fauna?",
+      "options": ["10", "14", "18", "22"],
+      "correctIndex": 2,
+      "explanation": "There are 18 biosphere reserves in India as per current data.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g5_q23",
+      "text": "Which was the first biosphere reserve of India?",
+      "options": ["Sundarbans", "Gulf of Mannar", "Nilgiris", "Nanda Devi"],
+      "correctIndex": 2,
+      "explanation": "The Nilgiris was the first biosphere reserve established in 1986.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g5_q24",
+      "text": "Project Tiger and Project Elephant were launched to:",
+      "options": ["Promote hunting", "Protect endangered species", "Develop tourism", "Export animals"],
+      "correctIndex": 1,
+      "explanation": "These are conservation projects aimed at protecting these iconic species.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g5_q25",
+      "text": "Yak, Shaggy-horned wild ox and the Tibetan antelope are found in:",
+      "options": ["Desert", "Deccan Plateau", "Ladakh (High altitudes)", "Coastal plains"],
+      "correctIndex": 2,
+      "explanation": "These animals are adapted to the cold, high-altitude environment of the Himalayas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g5_q26",
+      "text": "The main cause of the threat to nature is ________.",
+      "options": ["Natural disasters", "Hunting by greedy hunters for commercial purposes", "Changing climate", "Lack of food for animals"],
+      "correctIndex": 1,
+      "explanation": "Commercial hunting and habitat loss are the primary threats.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g5_q27",
+      "text": "Every species has a ________ to play in the ecosystem.",
+      "options": ["Minor part", "Role", "Problem", "Time"],
+      "correctIndex": 1,
+      "explanation": "Each species contributes to the balance and functioning of the ecosystem.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_g5_q28",
+      "text": "Which plant is known for its medicinal properties and is used to treat blood pressure?",
+      "options": ["Neem", "Sarpagandha", "Tulsi", "Babool"],
+      "correctIndex": 1,
+      "explanation": "Sarpagandha is used to treat blood pressure and is found only in India.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g5_q29",
+      "text": "Silver fir and Junipers are found in which vegetation zone?",
+      "options": ["Tropical Deciduous", "Alpine", "Thorn Forest", "Mangrove"],
+      "correctIndex": 1,
+      "explanation": "At high altitudes, generally more than 3,600 metres above sea level, alpine vegetation is found.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g5_q30",
+      "text": "The wild ass and camels are found in:",
+      "options": ["Western Ghats", "Rann of Kuchchh and Thar Desert", "Himalayas", "Sundarbans"],
+      "correctIndex": 1,
+      "explanation": "Wild ass and camels are native to the arid desert and salt pans of western India.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g5_q31",
+      "text": "A plant used as a cure for cough and cold is:",
+      "options": ["Tulsi", "Arjun", "Kachnar", "Jamun"],
+      "correctIndex": 0,
+      "explanation": "Tulsi (Basil) is widely used in Indian households for its medicinal properties.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g5_q32",
+      "text": "To protect our flora and fauna, the government has established ________ National Parks.",
+      "options": ["10", "101", "50", "15"],
+      "correctIndex": 1,
+      "explanation": "As per recent counts, there are 101 National Parks in India.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_g5_q33",
+      "text": "Which of the following is NOT a biosphere reserve?",
+      "options": ["Panchmarhi", "Achanakmar-Amarkantak", "Kaziranga", "Simlipal"],
+      "correctIndex": 2,
+      "explanation": "Kaziranga is a National Park, while the others are listed as biosphere reserves.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g5_q34",
+      "text": "Turtles, crocodiles and gharials are found in ________.",
+      "options": ["Deserts", "Rivers, lakes and seas", "Mountains", "Forests"],
+      "correctIndex": 1,
+      "explanation": "These are aquatic or semi-aquatic reptiles.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g5_q35",
+      "text": "India has approximately ________ species of birds.",
+      "options": ["500", "1200", "2000", "5000"],
+      "correctIndex": 2,
+      "explanation": "India has about 2000 species of birds, which is 13% of the world's total.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_g5_q36",
+      "text": "Vegetation which is non-native to India is called:",
+      "options": ["Endemic", "Exotic", "Indigenous", "Virgin"],
+      "correctIndex": 1,
+      "explanation": "Exotic species are those which have come from outside India.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g5_q37",
+      "text": "Which state has the maximum area under forest cover in India?",
+      "options": ["Madhya Pradesh", "Mizoram", "Kerala", "Haryana"],
+      "correctIndex": 0,
+      "explanation": "Madhya Pradesh has the largest forest cover in India by area.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g5_q38",
+      "text": "At which height are the 'sholas' (temperate grasslands) found in India?",
+      "options": ["Upper Himalayas", "Western Ghats, Nilgiris and Anaimalai", "Northern Plains", "Coastal areas"],
+      "correctIndex": 1,
+      "explanation": "Sholas are high-altitude temperate grasslands found in the South Indian mountains.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_g5_q39",
+      "text": "Bamboos and Sal are examples of trees in which forest type?",
+      "options": ["Evergreen", "Moist Deciduous", "Thorn", "Montane"],
+      "correctIndex": 1,
+      "explanation": "Bamboos, Sal, Shisham, Sandalwood and Khair are moist deciduous species.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g5_q40",
+      "text": "Rubber is a product of which type of forest?",
+      "options": ["Tundra", "Tropical Evergreen", "Thorn", "Mangrove"],
+      "correctIndex": 1,
+      "explanation": "Rubber is a commercial crop typically grown in tropical evergreen environments.",
+      "frequencyRating": 5
+    }
+  ]
+}

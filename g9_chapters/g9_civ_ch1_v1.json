@@ -1,0 +1,330 @@
+{
+  "id": "g9_civ_ch01",
+  "grade": "9",
+  "subject": "Civics",
+  "number": "1",
+  "title": "What is Democracy? Why Democracy?",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_c1_q1",
+      "text": "The word 'Democracy' comes from which Greek word?",
+      "options": ["Demokratia", "Democros", "Demas", "Kratia"],
+      "correctIndex": 0,
+      "explanation": "Democracy is derived from the Greek word 'Demokratia', where 'demos' means people and 'kratia' means rule.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c1_q2",
+      "text": "In a democracy, the final decision-making power must rest with:",
+      "options": ["The Military", "The Judiciary", "Those elected by the people", "The Monarch"],
+      "correctIndex": 2,
+      "explanation": "The first feature of democracy is that final authority must lie with representatives elected by the citizens.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c1_q3",
+      "text": "In which country did Pervez Musharraf lead a military coup in 1999?",
+      "options": ["Bangladesh", "Pakistan", "Nepal", "Sri Lanka"],
+      "correctIndex": 1,
+      "explanation": "General Pervez Musharraf led a military coup in Pakistan in October 1999, overthrowing a democratically elected government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c1_q4",
+      "text": "Which of these is a feature of a democratic election?",
+      "options": ["Voters have a real choice", "Elections are held regularly", "One person, one vote, one value", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Democracy requires free and fair elections where those in power have a fair chance of losing and every vote counts equally.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c1_q5",
+      "text": "The 'PRI' (Institutional Revolutionary Party) is associated with which country?",
+      "options": ["Mexico", "China", "Poland", "Chile"],
+      "correctIndex": 0,
+      "explanation": "In Mexico, the PRI won every election until 2000, often using dirty tricks to defeat opposition parties.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c1_q6",
+      "text": "In China, elections are regularly held every five years for electing the country’s parliament, called:",
+      "options": ["Duma", "Quanguo Renmin Daibiao Dahui", "National Assembly", "Congress"],
+      "correctIndex": 1,
+      "explanation": "This is the National People's Congress, though only members of the Communist Party are allowed to contest.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c1_q7",
+      "text": "Until 2015, in which country did women not have the right to vote?",
+      "options": ["Estonia", "Fiji", "Saudi Arabia", "Mexico"],
+      "correctIndex": 2,
+      "explanation": "Saudi Arabia denied voting rights to women until a decree change in 2015.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c1_q8",
+      "text": "Zimbabwe attained independence from White minority rule in:",
+      "options": ["1970", "1980", "1990", "2000"],
+      "correctIndex": 1,
+      "explanation": "Zimbabwe became independent in 1980 and was ruled by Robert Mugabe's ZANU-PF party for decades.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c1_q9",
+      "text": "Which of the following is an argument AGAINST democracy?",
+      "options": ["It improves the quality of decision making", "It leads to instability due to changing leaders", "It provides a method to deal with differences", "It allows us to correct our own mistakes"],
+      "correctIndex": 1,
+      "explanation": "A common criticism is that frequent leadership changes in democracy can lead to instability.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c1_q10",
+      "text": "Which country suffered from the worst recorded famine in world history (1958-1961)?",
+      "options": ["India", "Ethiopia", "China", "Pakistan"],
+      "correctIndex": 2,
+      "explanation": "China's famine killed nearly 3 crore people; economists argue India's democratic setup prevented a similar disaster.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c1_q11",
+      "text": "Democracy is better than other forms of government because it:",
+      "options": ["Allows people to enjoy complete freedom without laws", "Allows us to correct its own mistakes", "Guarantees economic prosperity", "Ensures the rule of the smartest people"],
+      "correctIndex": 1,
+      "explanation": "Democracy provides a mechanism for public discussion and changing decisions, allowing for self-correction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c1_q12",
+      "text": "The most common form of democracy in the modern world is:",
+      "options": ["Direct Democracy", "Representative Democracy", "Military Dictatorship", "Monarchy"],
+      "correctIndex": 1,
+      "explanation": "In representative democracy, people rule through their elected representatives rather than participating directly.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c1_q13",
+      "text": "A democratic government rules within limits set by constitutional law and ________.",
+      "options": ["Military power", "Citizens' rights", "Religious leaders", "Foreign influence"],
+      "correctIndex": 1,
+      "explanation": "Rule of law and respect for rights are essential features of a functioning democracy.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c1_q14",
+      "text": "Who said 'Democracy is government of the people, by the people and for the people'?",
+      "options": ["Mahatma Gandhi", "Abraham Lincoln", "Nelson Mandela", "Winston Churchill"],
+      "correctIndex": 1,
+      "explanation": "This famous definition was given by Abraham Lincoln, the 16th President of the USA.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c1_q15",
+      "text": "In Fiji, the electoral system is such that the vote of an indigenous Fiji has ________ value than that of an Indian-Fijian.",
+      "options": ["Less", "More", "Equal", "No"],
+      "correctIndex": 1,
+      "explanation": "This violates the principle of 'one person, one vote, one value'.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_c1_q16",
+      "text": "Why can't all citizens sit together and take decisions directly in modern democracies?",
+      "options": ["Because people are not interested", "Large population makes it physically impossible", "Constitutions forbid it", "Politicians don't want it"],
+      "correctIndex": 1,
+      "explanation": "Modern democracies involve such large numbers of people that direct participation is not feasible.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c1_q17",
+      "text": "What is the Legal Framework Order issued by Musharraf in 2002?",
+      "options": ["An order to increase taxes", "An order that amended the Constitution of Pakistan", "An order to go to war", "An order to build new schools"],
+      "correctIndex": 1,
+      "explanation": "It gave the President the power to dismiss the national and provincial assemblies.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c1_q18",
+      "text": "Democracy enhances the ________ of citizens.",
+      "options": ["Wealth", "Dignity", "Health", "Knowledge"],
+      "correctIndex": 1,
+      "explanation": "Democracy is based on the principle of political equality, recognizing that even the poorest have the same status as the rich.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c1_q19",
+      "text": "One person, one vote, one value means:",
+      "options": ["One person can vote multiple times", "Each person has one vote and each vote has one value", "Only one person in a family can vote", "Different values for different classes"],
+      "correctIndex": 1,
+      "explanation": "This is the fundamental principle of political equality in a democracy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c1_q20",
+      "text": "Robert Mugabe was the leader of which party?",
+      "options": ["African National Congress", "ZANU-PF", "Communist Party", "PRI"],
+      "correctIndex": 1,
+      "explanation": "ZANU-PF led the freedom struggle in Zimbabwe and ruled the country after independence.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c1_q21",
+      "text": "Democracy provides a method to deal with:",
+      "options": ["Differences and conflicts", "Foreign invaders", "Natural disasters", "Economic inflation"],
+      "correctIndex": 0,
+      "explanation": "By allowing peaceful discussion, democracy ensures no one is a permanent winner or loser.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c1_q22",
+      "text": "Which of these is NOT a democratic way of taking a decision?",
+      "options": ["Consultation and consent", "Equality", "Dictation by the leader", "Accountability"],
+      "correctIndex": 2,
+      "explanation": "Democratic decisions involve all those who are affected by that decision.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c1_q23",
+      "text": "The primary objective of the PRI in Mexico was to:",
+      "options": ["Win elections at any cost", "Develop the economy", "Promote human rights", "Encourage opposition parties"],
+      "correctIndex": 0,
+      "explanation": "They used unfair practices like forcing government employees to attend party meetings and shifting booths last minute.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_c1_q24",
+      "text": "Estonia has made its citizenship rules in such a way that people belonging to ________ find it difficult to get the right to vote.",
+      "options": ["German minority", "Russian minority", "Finnish minority", "Swedish minority"],
+      "correctIndex": 1,
+      "explanation": "This is an example of the denial of equal rights in citizenship.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c1_q25",
+      "text": "A democratic government is a ________ government.",
+      "options": ["Powerful", "Accountable", "Military", "Religious"],
+      "correctIndex": 1,
+      "explanation": "It is accountable to the people and must respond to their needs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c1_q26",
+      "text": "In a democracy, political parties are allowed to:",
+      "options": ["Compete in elections", "Form a government", "Criticize the government", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Active political competition and criticism are hallmarks of a healthy democracy.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c1_q27",
+      "text": "Which of the following is an example of an un-democratic practice in Zimbabwe?",
+      "options": ["Regular elections", "Freedom of the press", "Changing the constitution to increase presidential powers", "Independent judiciary"],
+      "correctIndex": 2,
+      "explanation": "Mugabe's government repeatedly changed the constitution to make him less accountable.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c1_q28",
+      "text": "Elections in China do not offer the people any:",
+      "options": ["Ballot paper", "Holiday", "Real choice", "Symbol"],
+      "correctIndex": 2,
+      "explanation": "Since only the Communist Party can contest, there is no real alternative for the voters.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c1_q29",
+      "text": "Democracy is based on the consultation of many, which reduces the possibility of ________ decisions.",
+      "options": ["Rash and irresponsible", "Smart", "Slow", "Taxes"],
+      "correctIndex": 0,
+      "explanation": "Involving many people ensures that different perspectives are considered, preventing hasty errors.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c1_q30",
+      "text": "If a government is not democratic, it can still be:",
+      "options": ["Efficient", "Responsive to people's needs", "Both A and B", "None of the above"],
+      "correctIndex": 0,
+      "explanation": "A non-democratic government might be efficient but it is not required by law to respond to people's needs.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_c1_q31",
+      "text": "In Mexico, how often are presidential elections held?",
+      "options": ["Every 4 years", "Every 5 years", "Every 6 years", "Every 10 years"],
+      "correctIndex": 2,
+      "explanation": "Mexico holds elections every six years to elect its President.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_c1_q32",
+      "text": "Which of the following describes the 'Rule of Law'?",
+      "options": ["The law is whatever the leader says", "Everyone is equal before the law", "Only the poor follow the law", "Law only applies during war"],
+      "correctIndex": 1,
+      "explanation": "Rule of law means that no one is above the law and it applies to everyone equally.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c1_q33",
+      "text": "Which of these is a requirement for a free and fair election?",
+      "options": ["Opposition parties should be able to contest", "The ruling party should have a chance to lose", "Voters should not be intimidated", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "These conditions ensure that the electoral process is truly democratic.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c1_q34",
+      "text": "Major decisions in Pakistan after the 2002 Legal Framework Order were taken by:",
+      "options": ["Elected representatives", "Military officers and General Musharraf", "The Supreme Court", "The People"],
+      "correctIndex": 1,
+      "explanation": "Although there was an elected parliament, the real power rested with the military and Musharraf.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c1_q35",
+      "text": "What does 'Accountable' mean in a democratic context?",
+      "options": ["Counting the votes", "The government must answer to the citizens", "Being rich", "Holding a bank account"],
+      "correctIndex": 1,
+      "explanation": "A democratic government is required to explain its actions and policies to the public.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c1_q36",
+      "text": "In which form of government is the ruler usually a hereditary one?",
+      "options": ["Democracy", "Dictatorship", "Monarchy", "Republic"],
+      "correctIndex": 2,
+      "explanation": "In a monarchy, the right to rule is passed down through the royal family.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c1_q37",
+      "text": "Democracy is not a ________ for all socio-economic problems.",
+      "options": ["Cure", "Solution", "Magical wand", "Target"],
+      "correctIndex": 2,
+      "explanation": "While democracy is the best form of government, it does not automatically end poverty or inequality.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_c1_q38",
+      "text": "Which of the following is essential for the protection of citizens' rights in a democracy?",
+      "options": ["An independent judiciary", "A strong army", "A wealthy leader", "One-party rule"],
+      "correctIndex": 0,
+      "explanation": "An independent judiciary ensures that the government does not violate the rights of the people.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c1_q39",
+      "text": "In a democracy, the 'Demos' refers to:",
+      "options": ["God", "The King", "The People", "The Land"],
+      "correctIndex": 2,
+      "explanation": "As discussed, Demos is the Greek word for people.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c1_q40",
+      "text": "Which of the following statements about democracy is TRUE?",
+      "options": ["Democracy leads to the best decisions every time", "Democracy ensures that all people are rich", "Democracy is better than any other form of government", "Democracy does not allow for any mistakes"],
+      "correctIndex": 2,
+      "explanation": "Compared to alternatives, democracy is the most desirable form of government because of its features and values.",
+      "frequencyRating": 5
+    }
+  ]
+}

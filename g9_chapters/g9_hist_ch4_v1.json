@@ -1,0 +1,330 @@
+{
+  "id": "g9_hist_ch4",
+  "grade": "9",
+  "subject": "History",
+  "number": "4",
+  "title": "Forest Society and Colonialism",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_h4_q1",
+      "text": "Between 1700 and 1995, what percentage of the world's total area was cleared for industrial uses, cultivation, etc.?",
+      "options": ["5.3%", "9.3%", "13.9%", "20.1%"],
+      "correctIndex": 1,
+      "explanation": "During the period of industrialisation, 9.3% of the world’s total area was cleared.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h4_q2",
+      "text": "Why did the British need forests for the Royal Navy?",
+      "options": ["To build houses", "To build ships (Oak for timber)", "To hunt", "To hide"],
+      "correctIndex": 1,
+      "explanation": "By the 1820s, oak forests in England were disappearing, so they turned to India for a steady supply of timber for ships.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h4_q3",
+      "text": "What created a new demand for timber in India from the 1850s?",
+      "options": ["Building palaces", "The spread of railways", "Furniture industry", "Cooking fuel"],
+      "correctIndex": 1,
+      "explanation": "Timber was essential to build railway tracks and sleepers to hold the tracks together.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h4_q4",
+      "text": "How many sleepers were required for each mile of railway track?",
+      "options": ["500-1000", "1760-2000", "3000-4000", "5000"],
+      "correctIndex": 1,
+      "explanation": "Each mile of track required between 1,760 and 2,000 sleepers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h4_q5",
+      "text": "Who was the first Inspector General of Forests in India?",
+      "options": ["Lord Dalhousie", "Dietrich Brandis", "George Yule", "Verrier Elwin"],
+      "correctIndex": 1,
+      "explanation": "Dietrich Brandis, a German expert, was appointed as the first Inspector General of Forests in India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h4_q6",
+      "text": "The Imperial Forest Research Institute was set up in 1906 at:",
+      "options": ["Delhi", "Dehradun", "Shimla", "Calcutta"],
+      "correctIndex": 1,
+      "explanation": "The Forest Research Institute was established in Dehradun to teach scientific forestry.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h4_q7",
+      "text": "In 'Scientific Forestry', natural forests were replaced by:",
+      "options": ["Parks", "Plantations (one type of tree in straight rows)", "Farms", "Nothing"],
+      "correctIndex": 1,
+      "explanation": "Natural forests with many types of trees were cut down and replaced with one type of tree planted in rows.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h4_q8",
+      "text": "The Forest Act of 1878 divided forests in India into ______ categories.",
+      "options": ["Two", "Three", "Four", "Five"],
+      "correctIndex": 1,
+      "explanation": "The Act divided forests into Reserved, Protected, and Village forests.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h4_q9",
+      "text": "Which category of forest was considered the 'best' and villagers could not take anything from it?",
+      "options": ["Reserved", "Protected", "Village", "Common"],
+      "correctIndex": 0,
+      "explanation": "Reserved forests were the best forests; villagers were forbidden from using them.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h4_q10",
+      "text": "What was 'shifter cultivation' or 'swidden agriculture' called in India?",
+      "options": ["Dhangar", "Jhum", "Samin", "Blandong"],
+      "correctIndex": 1,
+      "explanation": "Jhum or Dhya is the local name for shifting cultivation in India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h4_q11",
+      "text": "Why did Europeans ban shifting cultivation?",
+      "options": ["It made it harder to calculate taxes", "Danger of flames spreading and burning timber", "Land could not grow trees for railway timber", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "European foresters regarded shifting cultivation as harmful to 'scientific' forest management.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h4_q12",
+      "text": "Which community in Bastar is NOT mentioned as a local tribe?",
+      "options": ["Maria", "Muria Gonds", "Bhatras", "Bhotiyas"],
+      "correctIndex": 3,
+      "explanation": "Bhotiyas are a pastoral community of the Himalayas, not Bastar.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h4_q13",
+      "text": "The rebellion in the kingdom of Bastar in 1910 was led by:",
+      "options": ["Birsa Munda", "Gunda Dhur", "Alluri Sitaram Raju", "Sidhu Kanu"],
+      "correctIndex": 1,
+      "explanation": "Gunda Dhur, from the village of Nethanar, was an important figure in the Bastar rebellion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h4_q14",
+      "text": "The people of Bastar rebelled because the British government proposed to:",
+      "options": ["Reserve two-thirds of the forest", "Stop shifting cultivation", "Stop hunting and collection of forest produce", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "A combination of these restrictive policies led the tribes to revolt in 1910.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h4_q15",
+      "text": "What symbols were circulated to invite people to the Bastar rebellion?",
+      "options": ["Mango boughs and red chillies", "Flags", "Swords", "Letters"],
+      "correctIndex": 0,
+      "explanation": "Mango boughs, a lump of earth, chillies and arrows were used as messages to rally the villages.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h4_q16",
+      "text": "Java was a colony of which European power?",
+      "options": ["British", "Dutch", "French", "Portuguese"],
+      "correctIndex": 1,
+      "explanation": "The Dutch started forest management in Java, which was then their colony.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h4_q17",
+      "text": "Which community in Java were skilled forest cutters and shifting cultivators?",
+      "options": ["Kalangs", "Saminists", "Dhruvas", "Bonds"],
+      "correctIndex": 0,
+      "explanation": "The Kalangs of Java were a community of skilled forest cutters; they even revolted against the Dutch in 1770.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h4_q18",
+      "text": "Who challenged the Dutch state's ownership of the forest in Java around 1890?",
+      "options": ["Gunda Dhur", "Surontiko Samin", "Birsa Munda", "Sukarno"],
+      "correctIndex": 1,
+      "explanation": "Surontiko Samin of Randublatung village began questioning state ownership of the forest.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h4_q19",
+      "text": "What was the 'Blandongdiensten' system in Java?",
+      "options": ["A tax system", "Exemption from taxes in exchange for providing free labor for forest work", "A marriage custom", "A type of rice"],
+      "correctIndex": 1,
+      "explanation": "The Dutch first imposed rents on land and then exempted some villages if they worked for free to cut and transport timber.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h4_q20",
+      "text": "The 'Scorched Earth' policy was followed by the ______ in Java during WWII.",
+      "options": ["Japanese", "Dutch", "British", "Indonesians"],
+      "correctIndex": 1,
+      "explanation": "The Dutch destroyed sawmills and burnt logs of teak so they would not fall into Japanese hands.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h4_q21",
+      "text": "A 'sleeper' in railways refers to:",
+      "options": ["A passenger", "A coach", "Horizontal planks of wood on which railway lines are laid", "A railway station"],
+      "correctIndex": 2,
+      "explanation": "Sleepers hold the tracks in place and were traditionally made of hard wood.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h4_q22",
+      "text": "Which of these trees was considered most suitable for building ships and railways by the British?",
+      "options": ["Teak and Sal", "Peepal", "Mango", "Palm"],
+      "correctIndex": 0,
+      "explanation": "Hardwoods like Teak and Sal were preferred for their strength and durability.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h4_q23",
+      "text": "What happened to the 'Kalangs' when they refused to work for the Dutch?",
+      "options": ["They were given land", "They revolted and attacked a Dutch fort", "They left Java", "They became merchants"],
+      "correctIndex": 1,
+      "explanation": "The Kalangs rose in rebellion in 1770 against the Dutch at Joana.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_h4_q24",
+      "text": "According to the 1878 Act, which forest was used by villagers for their own use?",
+      "options": ["Reserved", "Protected", "Village", "None"],
+      "correctIndex": 2,
+      "explanation": "Villagers could take wood from village forests for house building or fuel.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h4_q25",
+      "text": "Bastar is located in the southernmost part of which state?",
+      "options": ["Madhya Pradesh", "Chhattisgarh", "Odisha", "Andhra Pradesh"],
+      "correctIndex": 1,
+      "explanation": "Bastar is a district in the state of Chhattisgarh.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h4_q26",
+      "text": "Who said 'the state had not created the wind, water, earth and wood, so it could not own it'?",
+      "options": ["Gunda Dhur", "Surontiko Samin", "Birsa Munda", "Dietrich Brandis"],
+      "correctIndex": 1,
+      "explanation": "This was the core argument of the Saminist movement in Java.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h4_q27",
+      "text": "The British encouraged the production of commercial crops like jute, sugar, and wheat because:",
+      "options": ["They were easy to grow", "They were needed for the growing urban population and industrial production in Europe", "Indians liked them", "They prevented soil erosion"],
+      "correctIndex": 1,
+      "explanation": "The demand for food and raw materials for industry drove the expansion of cultivation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h4_q28",
+      "text": "Between 1880 and 1920, cultivated area in India rose by ______ million hectares.",
+      "options": ["3.5", "6.7", "10", "15"],
+      "correctIndex": 1,
+      "explanation": "The colonial period saw a massive expansion in agricultural land at the cost of forests.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_h4_q29",
+      "text": "In shifting cultivation, the ash from burnt trees provides:",
+      "options": ["Seeds", "Fertiliser (Potash)", "Water", "Protection from pests"],
+      "correctIndex": 1,
+      "explanation": "The seeds are sown in the ashes after the first monsoon rains.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h4_q30",
+      "text": "A 'taungya' is a system where:",
+      "options": ["Only trees are grown", "Local farmers were allowed to cultivate temporary crops within a forest plantation", "Forests are burnt", "Ships are built"],
+      "correctIndex": 1,
+      "explanation": "It was a system used in Burma and India to manage forest plantations with local help.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_h4_q31",
+      "text": "Forest Acts changed the lives of villagers by making ______ an illegal activity.",
+      "options": ["Hunting", "Cutting wood for houses", "Grazing cattle", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Common daily activities became 'crimes' and people were forced to steal from forests.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h4_q32",
+      "text": "Which of these products do we NOT get from forests?",
+      "options": ["Latex", "Tendu leaves", "Mahua flowers", "Petroleum"],
+      "correctIndex": 3,
+      "explanation": "Forests provide various products like gum, oil, and food, but petroleum is a fossil fuel found underground.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h4_q33",
+      "text": "In the Bastar rebellion, why did people attack the houses of officials and traders?",
+      "options": ["To steal money", "Because they represented colonial exploitation and high prices", "By mistake", "They were encouraged by the Dutch"],
+      "correctIndex": 1,
+      "explanation": "The rebellion targeted those seen as part of the oppressive colonial system.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h4_q34",
+      "text": "The British managed to suppress the Bastar rebellion but it took them ______ months.",
+      "options": ["One", "Three", "Six", "Twelve"],
+      "correctIndex": 1,
+      "explanation": "It took from February to May 1910 to regain control of the region.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_h4_q35",
+      "text": "One-third of Java's population fled the Saminist movement when the Dutch came to measure their land.",
+      "options": ["True", "False (they sat on the land)", "They fought the Dutch", "They paid the tax"],
+      "correctIndex": 1,
+      "explanation": "Saminists protested by lying on their land when the Dutch came to survey it, or by refusing to pay taxes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h4_q36",
+      "text": "Modern forest management today focuses on ______ instead of just timber.",
+      "options": ["Cutting trees", "Building roads", "Conservation and involving local communities", "Mining"],
+      "correctIndex": 2,
+      "explanation": "Governments now recognize that local people are essential for protecting forests.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h4_q37",
+      "text": "The 1865 Forest Act was amended in ______ and 1927.",
+      "options": ["1870", "1878", "1890", "1905"],
+      "correctIndex": 1,
+      "explanation": "The 1878 amendment was a major turning point in restrictive forest laws.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h4_q38",
+      "text": "Mahua is used for:",
+      "options": ["Timber", "Producing alcohol and oil", "Making ships", "Fuel only"],
+      "correctIndex": 1,
+      "explanation": "Mahua flowers are edible and used to make alcohol; the seeds are used for oil.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h4_q39",
+      "text": "In Southeast Asia, shifting cultivation is called:",
+      "options": ["Lading", "Milpa", "Chena", "Jhum"],
+      "correctIndex": 0,
+      "explanation": "Lading is the name used in parts of Southeast Asia.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_h4_q40",
+      "text": "The Bastar rebellion was finally 'defeated' when Gunda Dhur was captured.",
+      "options": ["True", "False (he was never captured)", "He surrendered", "He became a British officer"],
+      "correctIndex": 1,
+      "explanation": "The British could never capture Gunda Dhur despite their victory.",
+      "frequencyRating": 4
+    }
+  ]
+}

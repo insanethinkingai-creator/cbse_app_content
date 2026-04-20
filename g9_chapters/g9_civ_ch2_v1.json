@@ -1,0 +1,330 @@
+{
+  "id": "g9_civ_ch02",
+  "grade": "9",
+  "subject": "Civics",
+  "number": "2",
+  "title": "Constitutional Design",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_c2_q1",
+      "text": "Which prominent leader fought against the apartheid system in South Africa?",
+      "options": ["Mahatma Gandhi", "Nelson Mandela", "Abraham Lincoln", "Kofi Annan"],
+      "correctIndex": 1,
+      "explanation": "Nelson Mandela was the most prominent leader of the anti-apartheid movement and spent 27 years in prison.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c2_q2",
+      "text": "'Apartheid' was a system of racial discrimination unique to:",
+      "options": ["India", "USA", "South Africa", "Zimbabwe"],
+      "correctIndex": 2,
+      "explanation": "Apartheid was a policy of institutionalized racial segregation and discrimination in South Africa.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c2_q3",
+      "text": "When did South Africa become a democratic country with a new flag?",
+      "options": ["1947", "1990", "1994", "2000"],
+      "correctIndex": 2,
+      "explanation": "At the stroke of midnight on 26 April 1994, the new national flag of the Republic of South Africa was unfurled.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c2_q4",
+      "text": "The umbrella organization that led the struggle against the policies of segregation in South Africa was:",
+      "options": ["African National Congress (ANC)", "ZANU-PF", "Institutional Revolutionary Party", "South African Congress"],
+      "correctIndex": 0,
+      "explanation": "The ANC was the primary force that unified the struggle against apartheid.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c2_q5",
+      "text": "What is a Constitution?",
+      "options": ["A book of history", "A set of written rules accepted by all people living in a country", "A list of government officials", "A collection of religious laws"],
+      "correctIndex": 1,
+      "explanation": "A constitution is the supreme law that determines the relationship among people and between the people and government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c2_q6",
+      "text": "Who was the Chairman of the Drafting Committee of the Indian Constitution?",
+      "options": ["Jawaharlal Nehru", "Dr. B.R. Ambedkar", "Rajendra Prasad", "Sardar Patel"],
+      "correctIndex": 1,
+      "explanation": "Dr. B.R. Ambedkar is often called the 'Father of the Indian Constitution' for his role as the chairman of the Drafting Committee.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c2_q7",
+      "text": "The Indian Constitution was adopted on:",
+      "options": ["15 August 1947", "26 January 1950", "26 November 1949", "30 January 1948"],
+      "correctIndex": 2,
+      "explanation": "The Constituent Assembly adopted the Constitution on 26 November 1949, but it came into effect on 26 January 1950.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c2_q8",
+      "text": "Why do we celebrate Republic Day on 26 January?",
+      "options": ["It is the day India got independence", "It is the day the Constitution came into effect", "It is the birthday of B.R. Ambedkar", "It is the day the first election was held"],
+      "correctIndex": 1,
+      "explanation": "26 January was chosen as Republic Day to mark the anniversary of 'Purna Swaraj' (1930).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c2_q9",
+      "text": "The preamble of the Constitution is:",
+      "options": ["The concluding chapter", "An introduction containing the philosophy of the Constitution", "A list of fundamental rights", "A set of amendments"],
+      "correctIndex": 1,
+      "explanation": "The Preamble is like a poem on democracy; it contains the values that inspired the freedom struggle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c2_q10",
+      "text": "Which of these terms in the Preamble means that people have the supreme right to make decisions?",
+      "options": ["Secular", "Sovereign", "Socialist", "Republic"],
+      "correctIndex": 1,
+      "explanation": "Sovereignty means the nation is free to take its own decisions without external interference.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c2_q11",
+      "text": "A 'Republic' is a form of government where:",
+      "options": ["The King rules", "The head of the state is an elected person", "The military takes decisions", "Foreigners rule"],
+      "correctIndex": 1,
+      "explanation": "In a republic, the head of state is elected and not a hereditary monarch.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c2_q12",
+      "text": "Who was the President of the Constituent Assembly of India?",
+      "options": ["Dr. B.R. Ambedkar", "Dr. Rajendra Prasad", "Sarojini Naidu", "Motilal Nehru"],
+      "correctIndex": 1,
+      "explanation": "Dr. Rajendra Prasad was the President of the Assembly, whereas Ambedkar headed the drafting committee.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c2_q13",
+      "text": "The Constituent Assembly that wrote the Indian Constitution had ________ members.",
+      "options": ["199", "299", "389", "545"],
+      "correctIndex": 1,
+      "explanation": "The Assembly was originally larger, but after the partition of India, the Indian Constituent Assembly had 299 members.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c2_q14",
+      "text": "In which year did Motilal Nehru and eight other Congress leaders draft a constitution for India?",
+      "options": ["1928", "1931", "1942", "1946"],
+      "correctIndex": 0,
+      "explanation": "The 1928 Nehru Report was one of the earliest attempts to draft a constitution for India.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c2_q15",
+      "text": "Which basic value was NOT part of the 1928 and 1931 resolutions?",
+      "options": ["Universal Adult Franchise", "Right to Freedom and Equality", "Protection of minority rights", "Dual Citizenship"],
+      "correctIndex": 3,
+      "explanation": "India never adopted dual citizenship; we follow single citizenship.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c2_q16",
+      "text": "Many of our leaders were inspired by the ________ Revolution.",
+      "options": ["French", "Russian", "American", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Leaders were inspired by French ideals of liberty, the Bill of Rights in US, and social equality in Russia.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c2_q17",
+      "text": "The system of apartheid in South Africa was particularly ________ for the blacks.",
+      "options": ["Helpful", "Oppressive", "Fair", "Comfortable"],
+      "correctIndex": 1,
+      "explanation": "Blacks were forbidden from living in white areas and had separate schools, hospitals, and transport.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c2_q18",
+      "text": "A 'Socialist' state is one where:",
+      "options": ["Wealth is generated socially and shared equally", "Private property is never allowed", "The government owns everything", "Rich people are taxed 100%"],
+      "correctIndex": 0,
+      "explanation": "The Preamble states that wealth should be shared equally by society to reduce inequalities.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c2_q19",
+      "text": "The term 'Secular' in the Indian Preamble means:",
+      "options": ["People should follow one religion", "Government favors the majority religion", "Citizens have complete freedom to follow any religion", "Religion is banned"],
+      "correctIndex": 2,
+      "explanation": "Secularism means the state has no official religion and treats all religions equally.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c2_q20",
+      "text": "Constitutional amendments are:",
+      "options": ["Errors in the constitution", "Changes made by the supreme legislative body", "Lists of new ministers", "New constitutions"],
+      "correctIndex": 1,
+      "explanation": "Amendments are made to keep the constitution updated with the changing needs of the people.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c2_q21",
+      "text": "Which of these features did the new South African constitution offer its citizens?",
+      "options": ["The most extensive rights", "Revenge against whites", "No right to vote for minorities", "Separate areas for different races"],
+      "correctIndex": 0,
+      "explanation": "The South African constitution is one of the most progressive in the world, emphasizing human rights.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c2_q22",
+      "text": "The 'Constituent Assembly Debates' consist of ________ volumes.",
+      "options": ["5", "10", "12", "100"],
+      "correctIndex": 2,
+      "explanation": "The proceedings were recorded in 12 bulky volumes to preserve the rationale behind every provision.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_c2_q23",
+      "text": "How many years did it take to complete the Indian Constitution?",
+      "options": ["1 year", "Nearly 3 years", "5 years", "10 years"],
+      "correctIndex": 1,
+      "explanation": "It took exactly 2 years, 11 months, and 18 days.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c2_q24",
+      "text": "The values that inspired the freedom struggle form the foundation for:",
+      "options": ["India's Democracy", "India's Economy", "India's Army", "India's Population"],
+      "correctIndex": 0,
+      "explanation": "These values are embedded in the Preamble of the Indian Constitution.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c2_q25",
+      "text": "What does 'Justice' in the Preamble refer to?",
+      "options": ["Social, Economic, and Political justice", "Criminal justice only", "Punishment for all", "Freedom of speech"],
+      "correctIndex": 0,
+      "explanation": "The Constitution seeks to ensure justice in all spheres of life without discrimination.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c2_q26",
+      "text": "'Liberty' in the Preamble means:",
+      "options": ["Freedom to do whatever one wants", "Absence of unreasonable restrictions on thought and expression", "Being rich", "Living without laws"],
+      "correctIndex": 1,
+      "explanation": "It means the freedom to think, express, and follow through on one's ideas within the law.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c2_q27",
+      "text": "'Equality' in the Preamble means that all are equal before the law and government should ensure:",
+      "options": ["Equal property for everyone", "Equal opportunity for all", "Same salary for all jobs", "No taxes"],
+      "correctIndex": 1,
+      "explanation": "The government is mandated to provide equal opportunities to all citizens.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c2_q28",
+      "text": "'Fraternity' in the Preamble means:",
+      "options": ["A sense of brotherhood", "Fighting with neighbors", "Joining a club", "Strict discipline"],
+      "correctIndex": 0,
+      "explanation": "It means we should behave as if we are members of the same family.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c2_q29",
+      "text": "Which country's constitution did the Indian makers look at for 'Parliamentary Democracy'?",
+      "options": ["USA", "Britain", "Russia", "Ireland"],
+      "correctIndex": 1,
+      "explanation": "The British model of parliamentary government was a major influence on India's system.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c2_q30",
+      "text": "Nelson Mandela's autobiography is titled:",
+      "options": ["The Story of My Experiments with Truth", "Long Walk to Freedom", "Wings of Fire", "Discovery of India"],
+      "correctIndex": 1,
+      "explanation": "Long Walk to Freedom details his life and struggle for the liberation of South Africa.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c2_q31",
+      "text": "Who among the following was NOT a member of the Constituent Assembly?",
+      "options": ["Mahatma Gandhi", "Maulana Abul Kalam Azad", "Vallabhbhai Patel", "B.R. Ambedkar"],
+      "correctIndex": 0,
+      "explanation": "Although Gandhi's vision guided many members, he himself was not a member of the Assembly.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c2_q32",
+      "text": "The draft of the Constitution was discussed ________.",
+      "options": ["In secret", "Clause by clause", "Over one day", "By the King"],
+      "correctIndex": 1,
+      "explanation": "Every clause was debated and thousands of amendments were considered.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c2_q33",
+      "text": "A Constitution is needed to:",
+      "options": ["Generate trust and coordination", "Specify how the government will be constituted", "Lay down limits on powers of government", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "A constitution serves multiple essential purposes in a diverse society.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c2_q34",
+      "text": "Robben Island is famous because:",
+      "options": ["It is a tourist resort", "Nelson Mandela was imprisoned there", "The first election was held there", "It has rare animals"],
+      "correctIndex": 1,
+      "explanation": "Mandela was kept in Robben Island, South Africa's most dreaded prison, for 28 years.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c2_q35",
+      "text": "The resolution of the Karachi session of INC (1931) dwelt on:",
+      "options": ["How independent India's constitution should look", "Getting independence immediately", "Supporting the British", "Salt Satyagraha"],
+      "correctIndex": 0,
+      "explanation": "The Karachi resolution was a key milestone in defining the constitutional vision for India.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c2_q36",
+      "text": "The word 'Apartheid' means ________ in the local language of South Africa.",
+      "options": ["Equality", "Separateness", "Brotherhood", "Freedom"],
+      "correctIndex": 1,
+      "explanation": "It refers to the policy of keeping races apart.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_c2_q37",
+      "text": "The leaders of the Indian freedom struggle had a ________ on the kind of India they wanted.",
+      "options": ["Conflict", "Consensus", "Disagreement", "No idea"],
+      "correctIndex": 1,
+      "explanation": "Despite differences, there was a broad consensus on democratic and egalitarian values.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c2_q38",
+      "text": "Institutional arrangements in a constitution are meant to:",
+      "options": ["Give power to the President", "Lessen the burden of people", "Translate values into law", "Control the military"],
+      "correctIndex": 2,
+      "explanation": "A constitution is not just a statement of values; it also specifies the working of institutions.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_c2_q39",
+      "text": "Constitutions that are very old often become:",
+      "options": ["Irrelevant", "Sacred and unchangeable", "Subject to amendments", "Banned"],
+      "correctIndex": 2,
+      "explanation": "They are living documents that evolve through amendments.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c2_q40",
+      "text": "Which of these countries does NOT have a written constitution?",
+      "options": ["India", "USA", "South Africa", "United Kingdom"],
+      "correctIndex": 3,
+      "explanation": "The UK has an 'unwritten' constitution, consisting of conventions, traditions, and scattered laws.",
+      "frequencyRating": 4
+    }
+  ]
+}

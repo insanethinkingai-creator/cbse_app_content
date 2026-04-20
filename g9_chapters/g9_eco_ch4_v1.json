@@ -1,0 +1,330 @@
+{
+  "id": "g9_eco_ch4",
+  "grade": "9",
+  "subject": "Economics",
+  "number": "4",
+  "title": "Food Security in India",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_e4_q1",
+      "text": "Food security means:",
+      "options": ["Availability of food", "Accessibility of food", "Affordability of food", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Food security has three dimensions: Availability, Accessibility, and Affordability to all people at all times.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q2",
+      "text": "'Availability of food' means:",
+      "options": ["Food is in the market", "Food production within the country plus imports and stock", "People have money to buy", "Food is distributed for free"],
+      "correctIndex": 1,
+      "explanation": "It refers to the overall supply of food grains within the country.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q3",
+      "text": "'Accessibility' means food is:",
+      "options": ["Within reach of every person without barrier", "In every shop", "Cheap", "Only for the rich"],
+      "correctIndex": 0,
+      "explanation": "Accessibility ensures that everyone can physically get to the food.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e4_q4",
+      "text": "'Affordability' implies that an individual has enough money to buy:",
+      "options": ["Luxury food", "Sufficient, safe and nutritious food", "Only rice", "Any quantity of food"],
+      "correctIndex": 1,
+      "explanation": "It means the person has the financial means to meet their dietary needs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q5",
+      "text": "Who are the most food-insecure people in India?",
+      "options": ["Landless people with little or no land", "Traditional artisans", "Petty self-employed workers and destitutes", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "These groups lack stable income and resources to ensure regular food supply.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q6",
+      "text": "During a natural calamity (like drought), total production of food grains:",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correctIndex": 1,
+      "explanation": "Calamities lead to a shortage of food in affected areas, causing prices to rise.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q7",
+      "text": "A massive starvation can lead to a:",
+      "options": ["Epidemic", "Famine", "Flood", "Drought"],
+      "correctIndex": 1,
+      "explanation": "A famine is characterized by widespread deaths due to starvation and epidemics caused by forced use of contaminated water.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q8",
+      "text": "The most devastating famine that occurred in India in 1943 was the:",
+      "options": ["Famine of Bengal", "Famine of Odisha", "Famine of Bihar", "Famine of Maharashtra"],
+      "correctIndex": 0,
+      "explanation": "The Bengal famine killed thirty lakh people in the province of Bengal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q9",
+      "text": "Which of the following social groups is more prone to food insecurity?",
+      "options": ["SCs and STs", "OBCs", "General category", "Upper class"],
+      "correctIndex": 0,
+      "explanation": "Socially disadvantaged groups often have poor land-bases or low productivity, making them vulnerable.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e4_q10",
+      "text": "People who migrate to other areas in search of work are:",
+      "options": ["Rich", "Food insecure", "Tourists", "Healthy"],
+      "correctIndex": 1,
+      "explanation": "Migration is often a desperate measure taken by those who cannot find food or work in their home villages.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e4_q11",
+      "text": "Hunger is not just an expression of poverty; it ________ poverty.",
+      "options": ["Reduces", "Brings", "Eliminates", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Chronic hunger leads to poor health and inability to work, which traps people in poverty.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e4_q12",
+      "text": "________ hunger is a consequence of diets persistently inadequate in terms of quantity and quality.",
+      "options": ["Seasonal", "Chronic", "Occasional", "None"],
+      "correctIndex": 1,
+      "explanation": "Chronic hunger occurs when people are unable to buy enough food even for survival.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q13",
+      "text": "________ hunger is related to cycles of food growing and harvesting.",
+      "options": ["Chronic", "Seasonal", "Annual", "Permanent"],
+      "correctIndex": 1,
+      "explanation": "It is common in rural areas during months when there is no farm work.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q14",
+      "text": "India aimed at self-sufficiency in food grains since Independence by adopting the:",
+      "options": ["Industrial Policy", "Green Revolution", "Blue Revolution", "White Revolution"],
+      "correctIndex": 1,
+      "explanation": "Green Revolution focused on high-yielding varieties to increase grain production.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q15",
+      "text": "In 1968, Indira Gandhi released a special stamp entitled ________ to record the success of the Green Revolution.",
+      "options": ["Rice Revolution", "Wheat Revolution", "Food for All", "Green India"],
+      "correctIndex": 1,
+      "explanation": "The success was most visible in wheat production initially.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e4_q16",
+      "text": "The two main components of the food security system in India are:",
+      "options": ["Exports and Imports", "Buffer Stock and Public Distribution System", "Farming and Mining", "Schools and Hospitals"],
+      "correctIndex": 1,
+      "explanation": "These two components ensure the availability and distribution of food at affordable prices.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q17",
+      "text": "Buffer Stock is the stock of foodgrains procured by the government through:",
+      "options": ["NITI Aayog", "FCI (Food Corporation of India)", "NSSO", "RBI"],
+      "correctIndex": 1,
+      "explanation": "FCI buys wheat and rice from farmers in states where there is surplus production.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q18",
+      "text": "The price paid to farmers for their crops by the government is called:",
+      "options": ["Market Price", "Minimum Support Price (MSP)", "Issue Price", "Cost Price"],
+      "correctIndex": 1,
+      "explanation": "MSP is announced before the sowing season to provide incentives to farmers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q19",
+      "text": "The price at which food grains are distributed to the poorer sections of society is:",
+      "options": ["MSP", "Market Price", "Issue Price", "Export Price"],
+      "correctIndex": 2,
+      "explanation": "Issue price is lower than the market price and is subsidized by the government.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q20",
+      "text": "The system of distributing food through government-regulated shops is called:",
+      "options": ["Private shops", "Public Distribution System (PDS)", "Supermarkets", "Online delivery"],
+      "correctIndex": 1,
+      "explanation": "PDS shops are also known as Ration Shops.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q21",
+      "text": "Ration shops keep stock of:",
+      "options": ["Foodgrains", "Sugar", "Kerosene oil", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "These shops provide essential items to people with ration cards at lower prices.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e4_q22",
+      "text": "Which type of Ration card is for the 'poorest of the poor'?",
+      "options": ["Antyodaya (AAY) card", "BPL card", "APL card", "White card"],
+      "correctIndex": 0,
+      "explanation": "AAY cards provide the highest subsidy on food grains.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q23",
+      "text": "The introduction of Rationing in India dates back to the:",
+      "options": ["1940s (WWII)", "1960s", "1990s", "2000s"],
+      "correctIndex": 0,
+      "explanation": "Rationing was first introduced against the backdrop of the Bengal famine.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e4_q24",
+      "text": "What does ICDS stand for?",
+      "options": ["Integrated Child Development Services", "International Child Data System", "Indian Child Development Scheme", "Integrated Child Digital Services"],
+      "correctIndex": 0,
+      "explanation": "ICDS was introduced in the mid-1970s to provide food and healthcare to children and mothers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e4_q25",
+      "text": "Under the National Food Security Act (2013), ________ of rural and ________ of urban population are entitled to subsidized food grains.",
+      "options": ["75%, 50%", "50%, 75%", "100%, 100%", "25%, 25%"],
+      "correctIndex": 0,
+      "explanation": "This act legalized the right to food for a large part of the population.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q26",
+      "text": "The subsidy is a payment that the government makes to:",
+      "options": ["The rich", "A producer or supplier to keep the market price low", "Other countries", "Banks"],
+      "correctIndex": 1,
+      "explanation": "Government covers part of the cost to make items affordable for the poor.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e4_q27",
+      "text": "FCI stores foodgrains in:",
+      "options": ["Open fields", "Granaries", "Houses", "Shops"],
+      "correctIndex": 1,
+      "explanation": "Proper storage in granaries prevents wastage and damage by pests.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e4_q28",
+      "text": "Which state has a successful 'Grain Bank' program facilitated by NGOs?",
+      "options": ["Maharashtra", "Punjab", "Bihar", "Uttar Pradesh"],
+      "correctIndex": 0,
+      "explanation": "NGOs like Academy of Development Science (ADS) have set up grain banks in Maharashtra.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e4_q29",
+      "text": "In Tamil Nadu, nearly ________ of all fair price shops are run by cooperatives.",
+      "options": ["50%", "75%", "94%", "10%"],
+      "correctIndex": 2,
+      "explanation": "Cooperatives play a major role in food distribution in Tamil Nadu.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e4_q30",
+      "text": "Mother Dairy in Delhi is a success story of:",
+      "options": ["Private sector", "Cooperatives in milk and vegetables", "Government monopoly", "MNCs"],
+      "correctIndex": 1,
+      "explanation": "Mother Dairy provides milk and vegetables at controlled prices to consumers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e4_q31",
+      "text": "Who was the 'Father of the Green Revolution' in the world?",
+      "options": ["M.S. Swaminathan", "Norman Borlaug", "Verghese Kurien", "Indira Gandhi"],
+      "correctIndex": 1,
+      "explanation": "Norman Borlaug introduced the high-yielding varieties globally.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e4_q32",
+      "text": "Excessive Buffer Stock is also a problem because:",
+      "options": ["It leads to storage rot and wastage", "It is expensive to maintain", "It reduces availability in market", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Holding too much grain can be wasteful and costly if not managed well.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e4_q33",
+      "text": "Revamped Public Distribution System (RPDS) was launched in 1992 to target:",
+      "options": ["Urban areas", "Backward blocks", "Everyone", "The rich"],
+      "correctIndex": 1,
+      "explanation": "RPDS was aimed at providing benefits to remote and backward areas.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e4_q34",
+      "text": "TPDS (Targeted Public Distribution System) introduced in 1997 focused on:",
+      "options": ["The poor in all areas", "The rich", "Only rural areas", "Only tribal areas"],
+      "correctIndex": 0,
+      "explanation": "TPDS adopted the principle of targeting the 'poor' specifically (BPL).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e4_q35",
+      "text": "What is one criticism of PDS?",
+      "options": ["Food is too cheap", "Grains are sometimes of poor quality", "Shops are always closed", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Sometimes PDS dealers divert grain to open markets or sell inferior quality food.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e4_q36",
+      "text": "Self-sufficiency in food grains has helped India avoid ________ even during adverse weather.",
+      "options": ["Rain", "Famines", "Floods", "Tsunami"],
+      "correctIndex": 1,
+      "explanation": "A robust buffer stock ensures that food is available even during crop failures.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q37",
+      "text": "The Academy of Development Science (ADS) is located in:",
+      "options": ["Gujarat", "Maharashtra", "Kerala", "Bihar"],
+      "correctIndex": 1,
+      "explanation": "ADS has been active in organizing grain banks in Maharashtra.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e4_q38",
+      "text": "Which grain has the highest production increase during the Green Revolution?",
+      "options": ["Rice", "Wheat", "Maize", "Pulses"],
+      "correctIndex": 1,
+      "explanation": "Wheat saw a spectacular growth, often termed as the 'Wheat Revolution'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e4_q39",
+      "text": "The Food Corporation of India (FCI) was set up to:",
+      "options": ["Export grains", "Procure and store foodgrains for food security", "Build schools", "Produce fertilizers"],
+      "correctIndex": 1,
+      "explanation": "FCI is the nodal agency for managing food stocks in India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e4_q40",
+      "text": "Food security is necessary for:",
+      "options": ["Survival of the poor", "Price stability", "National sovereignty", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Every nation needs to ensure its citizens have reliable access to food for health and stability.",
+      "frequencyRating": 5
+    }
+  ]
+}

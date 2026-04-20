@@ -1,0 +1,330 @@
+{
+  "id": "g9_eng_ch11",
+  "grade": "9",
+  "subject": "English",
+  "number": "11",
+  "title": "The Happy Prince",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_e11_q1",
+      "text": "What was the statue of the Happy Prince covered with?",
+      "options": ["Silver", "Thin leaves of fine gold", "Paint", "Copper"],
+      "correctIndex": 1,
+      "explanation": "The statue was gilded all over with thin leaves of fine gold.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e11_q2",
+      "text": "What were the eyes of the Happy Prince made of?",
+      "options": ["Diamonds", "Rubies", "Bright Sapphires", "Emeralds"],
+      "correctIndex": 2,
+      "explanation": "For eyes, he had two bright sapphires, which had been brought from India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e11_q3",
+      "text": "What was on the hilt of the Prince's sword?",
+      "options": ["A large red ruby", "A pearl", "A piece of gold", "Nothing"],
+      "correctIndex": 0,
+      "explanation": "A large red ruby glowed on his sword-hilt.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e11_q4",
+      "text": "Which bird decided to rest at the feet of the Happy Prince?",
+      "options": ["Sparrow", "Pigeon", "Little Swallow", "Crow"],
+      "correctIndex": 2,
+      "explanation": "A little Swallow, who was flying to Egypt, decided to stay for a night.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e11_q5",
+      "text": "Why was the Happy Prince crying?",
+      "options": ["He was lonely", "He could see the misery and ugliness of the city", "He wanted to fly", "He was cold"],
+      "correctIndex": 1,
+      "explanation": "Though he was called 'Happy', from his high pedestal he could see the suffering of the poor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e11_q6",
+      "text": "To whom did the Prince give the first ruby?",
+      "options": ["A playwright", "A poor seamstress", "A matchgirl", "A beggar"],
+      "correctIndex": 1,
+      "explanation": "He sent the ruby to a seamstress whose little boy was ill with fever.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e11_q7",
+      "text": "Where were the Swallow's friends waiting for him?",
+      "options": ["India", "Egypt", "Rome", "Paris"],
+      "correctIndex": 1,
+      "explanation": "His friends had already flown to Egypt and were waiting near the Nile.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e11_q8",
+      "text": "What did the Swallow do for the seamstress's boy?",
+      "options": ["Gave him money", "Fanned his forehead with wings", "Brought him medicine", "Told him a story"],
+      "correctIndex": 1,
+      "explanation": "The Swallow fanned the boy's forehead with his wings to help him feel cool.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e11_q9",
+      "text": "To whom was the first sapphire given?",
+      "options": ["The Seamstress", "A young playwright in a garret", "The Mayor", "A sailor"],
+      "correctIndex": 1,
+      "explanation": "The Prince gave it to a poor young man trying to finish a play but was too cold and hungry to write.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e11_q10",
+      "text": "Who received the second sapphire?",
+      "options": ["A little matchgirl", "A blind man", "A rich lady", "A student"],
+      "correctIndex": 0,
+      "explanation": "He gave his other eye to a little girl whose matches had fallen in the gutter.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e11_q11",
+      "text": "What happened to the Prince after giving away both sapphires?",
+      "options": ["He became happy", "He became blind", "He fell down", "He turned into a man"],
+      "correctIndex": 1,
+      "explanation": "As the sapphires were his eyes, he was now blind.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e11_q12",
+      "text": "Why did the Swallow decide to stay with the Prince forever?",
+      "options": ["He loved the city", "The Prince was now blind", "He was too tired to fly", "He found a mate"],
+      "correctIndex": 1,
+      "explanation": "He decided to stay because of the Prince's kindness and because he was now blind.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e11_q13",
+      "text": "What did the Prince ask the Swallow to do with the gold leaves?",
+      "options": ["Keep them", "Take them to Egypt", "Pick them off and give to the poor", "Throw them in the river"],
+      "correctIndex": 2,
+      "explanation": "The Prince wanted to help all the hungry children in the city with his gold coating.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e11_q14",
+      "text": "As the winter came, what happened to the little Swallow?",
+      "options": ["He flew to Egypt", "He died of cold", "He became a statue", "He found a home"],
+      "correctIndex": 1,
+      "explanation": "The severe cold was too much for the little bird, and he died at the Prince's feet.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e11_q15",
+      "text": "What happened to the Prince's heart when the Swallow died?",
+      "options": ["It started beating", "It melted", "It leaden heart snapped into two", "It turned into gold"],
+      "correctIndex": 2,
+      "explanation": "A curious cracking sound rang inside the statue, as if something had broken.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e11_q16",
+      "text": "Why did the Mayor want to pull down the statue?",
+      "options": ["He wanted to build a new one", "The statue looked 'shabby' and no longer beautiful", "It was in the way", "It was haunted"],
+      "correctIndex": 1,
+      "explanation": "Since the gold and jewels were gone, the statue looked like a beggar to the Mayor.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e11_q17",
+      "text": "What part of the statue would NOT melt in the furnace?",
+      "options": ["The head", "The leaden heart", "The hands", "The feet"],
+      "correctIndex": 1,
+      "explanation": "The broken lead heart would not melt and was thrown on a dust-heap.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e11_q18",
+      "text": "What two precious things did the Angel bring to God?",
+      "options": ["Gold and Ruby", "Sapphires and Gold", "The leaden heart and the dead bird", "The Prince and the Mayor"],
+      "correctIndex": 2,
+      "explanation": "God declared these as the most precious things in the city.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e11_q19",
+      "text": "The Happy Prince lived in the palace of ______ when he was alive.",
+      "options": ["Versailles", "Sans-Souci", "Buckingham", "Gold"],
+      "correctIndex": 1,
+      "explanation": "Sans-Souci means 'without sorrow', and he never knew tears there.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e11_q20",
+      "text": "The little Swallow fell in love with a ______ earlier in the story.",
+      "options": ["Rose", "Reed", "Lily", "Daisy"],
+      "correctIndex": 1,
+      "explanation": "He had stayed behind because he was in love with a beautiful Reed.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e11_q21",
+      "text": "What did the Prince say about 'more marvelous than anything'?",
+      "options": ["Jewels", "The suffering of men and women", "Heaven", "Nature"],
+      "correctIndex": 1,
+      "explanation": "He believed that human misery was the greatest mystery and most important concern.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e11_q22",
+      "text": "How did the Swallow try to keep himself warm?",
+      "options": ["By flying", "By flapping his wings", "By wearing clothes", "By eating"],
+      "correctIndex": 1,
+      "explanation": "He flapped his wings to generate heat but eventually succumbed to the cold.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e11_q23",
+      "text": "What was the author's name for this story?",
+      "options": ["Ruskin Bond", "Oscar Wilde", "Leo Tolstoy", "Anton Chekhov"],
+      "correctIndex": 1,
+      "explanation": "Oscar Wilde is the famous author of 'The Happy Prince'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e11_q24",
+      "text": "The statue stood on a ______.",
+      "options": ["Mountain", "Tall column", "Bridge", "Temple"],
+      "correctIndex": 1,
+      "explanation": "The statue was placed high above the city on a tall column.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e11_q25",
+      "text": "What did the swallow think about the prince's heart being made of lead?",
+      "options": ["He was disappointed", "He didn't say it aloud as he was polite", "He laughed", "He was angry"],
+      "correctIndex": 1,
+      "explanation": "The swallow was too polite to make personal remarks about the prince not being 'solid gold'.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e11_q26",
+      "text": "The playwright was eating ______ to keep warm.",
+      "options": ["Nothing", "Soup", "Bread", "Porridge"],
+      "correctIndex": 0,
+      "explanation": "He was hungry and there was no fire in the grate.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e11_q27",
+      "text": "The matchgirl's matches were spoiled because they fell in the ______.",
+      "options": ["Mud", "Gutter", "Snow", "Fire"],
+      "correctIndex": 1,
+      "explanation": "Her matches fell in the gutter and were all spoiled.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e11_q28",
+      "text": "God promised the Swallow that he would sing in the garden of ______.",
+      "options": ["Egypt", "Paradise", "Flowers", "Sans-Souci"],
+      "correctIndex": 1,
+      "explanation": "God said the bird would sing forever in his garden of Paradise.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e11_q29",
+      "text": "The Happy Prince and the Swallow represent:",
+      "options": ["Greed", "Selfless love and sacrifice", "Pride", "Foolishness"],
+      "correctIndex": 1,
+      "explanation": "The story is a parable about true beauty lying in compassion and helping others.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e11_q30",
+      "text": "The Mayor decided that 'Dead birds must not ______'.",
+      "options": ["Fly", "Be allowed here", "Be buried", "Be eaten"],
+      "correctIndex": 1,
+      "explanation": "He wanted a law that birds should not be allowed to die near statues.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g9_e11_q31",
+      "text": "The Prince's sapphires were ______ years old.",
+      "options": ["100", "500", "1000", "50"],
+      "correctIndex": 2,
+      "explanation": "The story mentions they were brought from India a thousand years ago.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e11_q32",
+      "text": "What was the Swallow's final action before dying?",
+      "options": ["He flew to Egypt", "He kissed the Prince on the lips", "He sang a song", "He ate a crumb"],
+      "correctIndex": 1,
+      "explanation": "He kissed the Happy Prince and then fell down dead at his feet.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e11_q33",
+      "text": "The seamstress was embroidering ______ on a satin gown.",
+      "options": ["Roses", "Passion-flowers", "Lilies", "Stars"],
+      "correctIndex": 1,
+      "explanation": "She was embroidering passion-flowers for the Queen's maid-of-honour.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e11_q34",
+      "text": "What did the Town Councilor say about the Prince?",
+      "options": ["He is a god", "He is as beautiful as a weathercock", "He is ugly", "He is useless"],
+      "correctIndex": 1,
+      "explanation": "He wanted to seem practical, so he added 'but not quite so useful'.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g9_e11_q35",
+      "text": "The little Swallow said 'I am going to the House of ______'.",
+      "options": ["Egypt", "Sleep", "Death", "God"],
+      "correctIndex": 2,
+      "explanation": "He realized he was dying and called death the brother of sleep.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e11_q36",
+      "text": "The Prince saw two hungry boys ______.",
+      "options": ["Fighting", "Running", "Lying in each other's arms under a bridge", "Begging"],
+      "correctIndex": 2,
+      "explanation": "He saw them trying to keep each other warm in the cold night.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e11_q37",
+      "text": "The Mayor wanted to melt the statue and make a statue of ______.",
+      "options": ["The King", "Himself", "A horse", "A bird"],
+      "correctIndex": 1,
+      "explanation": "The Mayor and each of the Town Councilors wanted a statue of themselves.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e11_q38",
+      "text": "The Swallow's heart was full of ______ for the Prince.",
+      "options": ["Hatred", "Pity/Love", "Envy", "Fear"],
+      "correctIndex": 1,
+      "explanation": "He delayed his journey and sacrificed his life because he loved the Prince.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e11_q39",
+      "text": "What color was the sapphire?",
+      "options": ["Red", "Green", "Blue", "Yellow"],
+      "correctIndex": 2,
+      "explanation": "Sapphires are typically bright blue gems.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e11_q40",
+      "text": "The story ends on a ______ note.",
+      "options": ["Sad", "Spiritual and uplifting", "Funny", "Confusing"],
+      "correctIndex": 1,
+      "explanation": "The recognition of their souls in heaven gives the story a positive, divine ending.",
+      "frequencyRating": 5
+    }
+  ]
+}

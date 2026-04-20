@@ -1,10 +1,11 @@
 {
-  "updatedAt": "2026-04-20T06:16:30.784252Z",
+  "updatedAt": "2026-04-20T12:31:55.180036Z",
   "enabledGrades": [
     "g12",
     "g11",
     "g10",
-    "g8" , 
+    "g9",
+    "g8",
     "g7"
   ],
   "bundles": {
@@ -17,11 +18,14 @@
     "g12_full_zip": "fd81699d",
     "g12_full_zip_md5": "fd81699d46ada59b587f6fc788b6c981",
     "g12_full_zip_filename": "g12_fd81699d.zip",
-    "g11_full_zip": "ae5abf3b",
-    "g11_full_zip_md5": "ae5abf3b210be6b69dce1c6f85397464",
-    "g11_full_zip_filename": "g11_ae5abf3b.zip",
+    "g11_full_zip": "a421bfd9",
+    "g11_full_zip_md5": "a421bfd95cfb4198978a06a07bef01b9",
+    "g11_full_zip_filename": "g11_a421bfd9.zip",
     "g8_full_zip": "133774c2",
     "g8_full_zip_md5": "133774c2376371dc76dd98cec52d0586",
-    "g8_full_zip_filename": "g8_133774c2.zip"
+    "g8_full_zip_filename": "g8_133774c2.zip",
+    "g9_full_zip": "54140e93",
+    "g9_full_zip_md5": "54140e9381327be3d3a1b586c6d72143",
+    "g9_full_zip_filename": "g9_54140e93.zip"
   }
 }

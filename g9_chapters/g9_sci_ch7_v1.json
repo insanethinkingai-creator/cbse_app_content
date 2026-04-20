@@ -1,0 +1,330 @@
+{
+  "id": "g9_sci_ch7",
+  "grade": "9",
+  "subject": "Science",
+  "number": "7",
+  "title": "Motion",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_s7_q1",
+      "text": "The shortest distance measured from the initial to the final position of an object is known as the:",
+      "options": ["Distance", "Displacement", "Velocity", "Acceleration"],
+      "correctIndex": 1,
+      "explanation": "Displacement is a vector quantity representing the straight-line distance between start and end points.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s7_q2",
+      "text": "An object travels 16m in 4s and then another 16m in 2s. What is the average speed of the object?",
+      "options": ["4 m/s", "8 m/s", "5.33 m/s", "32 m/s"],
+      "correctIndex": 2,
+      "explanation": "Average speed = Total distance / Total time = (16+16) / (4+2) = 32/6 = 5.33 m/s.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s7_q3",
+      "text": "The rate of change of velocity is called:",
+      "options": ["Speed", "Displacement", "Acceleration", "Uniform motion"],
+      "correctIndex": 2,
+      "explanation": "Acceleration is the measure of how quickly velocity changes over time.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s7_q4",
+      "text": "What does the slope of a distance-time graph represent?",
+      "options": ["Acceleration", "Velocity", "Speed", "Displacement"],
+      "correctIndex": 2,
+      "explanation": "The slope (change in distance / change in time) of a distance-time graph gives the speed.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s7_q5",
+      "text": "A car starts from rest and attains a velocity of 18 km/h in 5 seconds. Its acceleration is:",
+      "options": ["1 m/s²", "2 m/s²", "5 m/s²", "18 m/s²"],
+      "correctIndex": 0,
+      "explanation": "18 km/h = 5 m/s. Acceleration = (5 - 0) / 5 = 1 m/s².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s7_q6",
+      "text": "If an object moves in a circular path with uniform speed, its motion is:",
+      "options": ["Uniform linear motion", "Non-accelerated motion", "Accelerated motion", "Rest"],
+      "correctIndex": 2,
+      "explanation": "Even if speed is constant, the direction changes continuously, making it an accelerated motion.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s7_q7",
+      "text": "Which of the following can be zero even when an object is in motion?",
+      "options": ["Distance", "Average Speed", "Displacement", "Speed"],
+      "correctIndex": 2,
+      "explanation": "If an object returns to its starting point, its displacement is zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s7_q8",
+      "text": "The area under a velocity-time graph represents:",
+      "options": ["Acceleration", "Distance/Displacement", "Speed", "Time"],
+      "correctIndex": 1,
+      "explanation": "The area under the v-t curve equals the magnitude of displacement.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s7_q9",
+      "text": "Which equation of motion relates velocity and displacement?",
+      "options": ["v = u + at", "s = ut + 1/2 at²", "2as = v² - u²", "v = s/t"],
+      "correctIndex": 2,
+      "explanation": "The third equation of motion connects acceleration, displacement, and initial/final velocities.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s7_q10",
+      "text": "The SI unit of acceleration is:",
+      "options": ["m/s", "km/h", "m/s²", "m²/s"],
+      "correctIndex": 2,
+      "explanation": "Acceleration is velocity (m/s) divided by time (s), resulting in m/s².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s7_q11",
+      "text": "A physical quantity that has both magnitude and direction is called a:",
+      "options": ["Scalar quantity", "Vector quantity", "Null quantity", "Constant"],
+      "correctIndex": 1,
+      "explanation": "Vectors like displacement, velocity, and force require direction for complete description.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s7_q12",
+      "text": "The numerical ratio of displacement to distance for a moving object is:",
+      "options": ["Always less than 1", "Always equal to 1", "Always more than 1", "Equal to or less than 1"],
+      "correctIndex": 3,
+      "explanation": "Displacement is the shortest path; it can be equal to distance (straight line) or less than it.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s7_q13",
+      "text": "Which instrument in a vehicle measures the total distance travelled?",
+      "options": ["Speedometer", "Odometer", "Thermometer", "Ammeter"],
+      "correctIndex": 1,
+      "explanation": "The odometer tracks cumulative distance, while the speedometer shows instantaneous speed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s7_q14",
+      "text": "If an object covers equal distances in equal intervals of time, it is said to be in:",
+      "options": ["Uniform motion", "Non-uniform motion", "Rest", "Circular motion"],
+      "correctIndex": 0,
+      "explanation": "Uniform motion implies a constant speed in a fixed direction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s7_q15",
+      "text": "A car travels at 36 km/h. Its speed in metres per second (m/s) is:",
+      "options": ["5 m/s", "10 m/s", "15 m/s", "20 m/s"],
+      "correctIndex": 1,
+      "explanation": "Multiply km/h by 5/18 to get m/s. 36 * (5/18) = 10 m/s.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s7_q16",
+      "text": "The slope of a velocity-time graph for an object provides its:",
+      "options": ["Distance", "Displacement", "Acceleration", "Speed"],
+      "correctIndex": 2,
+      "explanation": "Acceleration is defined as the rate of change of velocity, which is the slope of the v-t graph.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s7_q17",
+      "text": "Negative acceleration is also known as:",
+      "options": ["Velocity", "Retardation", "Speed", "Friction"],
+      "correctIndex": 1,
+      "explanation": "Retardation or deceleration occurs when the velocity of an object decreases over time.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s7_q18",
+      "text": "If a body is moving in a circular path with constant speed, its velocity is:",
+      "options": ["Constant", "Changing", "Zero", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "Velocity is a vector; since the direction changes constantly in a circle, velocity changes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s7_q19",
+      "text": "Which of the following is the correct second equation of motion?",
+      "options": ["v = u + at", "v² = u² + 2as", "s = ut + ½ at²", "s = vt"],
+      "correctIndex": 2,
+      "explanation": "This equation relates displacement, initial velocity, time, and uniform acceleration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s7_q20",
+      "text": "The area under a speed-time graph represents:",
+      "options": ["Acceleration", "Total distance", "Velocity", "Direction"],
+      "correctIndex": 1,
+      "explanation": "Just as area under v-t graph is displacement, area under speed-time is distance.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s7_q21",
+      "text": "In uniform circular motion, the acceleration is directed:",
+      "options": ["Along the tangent", "Away from center", "Towards the center", "None"],
+      "correctIndex": 2,
+      "explanation": "This is called centripetal acceleration, which acts towards the center of the path.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_s7_q22",
+      "text": "An object starts from rest and moves with acceleration 2 m/s². Its velocity after 10s is:",
+      "options": ["10 m/s", "20 m/s", "5 m/s", "100 m/s"],
+      "correctIndex": 1,
+      "explanation": "v = u + at = 0 + (2 * 10) = 20 m/s.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s7_q23",
+      "text": "When a distance-time graph is a straight line parallel to the time axis, the object is:",
+      "options": ["In uniform motion", "At rest", "Accelerating", "In circular motion"],
+      "correctIndex": 1,
+      "explanation": "A horizontal line on an s-t graph means distance isn't changing with time.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s7_q24",
+      "text": "The average velocity of a body is zero when its:",
+      "options": ["Total distance is zero", "Initial velocity is zero", "Displacement is zero", "Time is zero"],
+      "correctIndex": 2,
+      "explanation": "Avg Velocity = Total Displacement / Total Time. If displacement is zero, avg velocity is zero.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s7_q25",
+      "text": "A stone is thrown vertically upwards and returns to the hand. Its total displacement is:",
+      "options": ["2h", "h", "Zero", "h/2"],
+      "correctIndex": 2,
+      "explanation": "Since the initial and final positions are the same, the displacement is zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s7_q26",
+      "text": "If an object moves at 20 m/s and comes to rest in 5s, its acceleration is:",
+      "options": ["4 m/s²", "-4 m/s²", "100 m/s²", "0.25 m/s²"],
+      "correctIndex": 1,
+      "explanation": "a = (v - u) / t = (0 - 20) / 5 = -4 m/s².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s7_q27",
+      "text": "Which graph represents uniform acceleration?",
+      "options": ["A straight line s-t graph", "A curved v-t graph", "A straight line v-t graph", "A curved s-t graph"],
+      "correctIndex": 2,
+      "explanation": "Constant slope on a velocity-time graph indicates constant (uniform) acceleration.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s7_q28",
+      "text": "The speed of a body at a specific point in time is called:",
+      "options": ["Average speed", "Instantaneous speed", "Uniform speed", "Variable speed"],
+      "correctIndex": 1,
+      "explanation": "Instantaneous speed is what the speedometer of a car shows.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_s7_q29",
+      "text": "What is the SI unit of speed?",
+      "options": ["km/h", "m/s", "cm/s", "m/s²"],
+      "correctIndex": 1,
+      "explanation": "Speed is distance divided by time, measured in metres per second.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s7_q30",
+      "text": "A athlete completes one round of a circular track of radius R in 40s. Displacement after 2 min 20s is:",
+      "options": ["Zero", "2R", "2πR", "7πR"],
+      "correctIndex": 1,
+      "explanation": "140s = 3.5 rounds. After 3.5 rounds, the athlete is at the opposite end of the diameter.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s7_q31",
+      "text": "Can a body have constant speed and still be accelerating?",
+      "options": ["Yes, in circular motion", "No, impossible", "Yes, in linear motion", "Only at rest"],
+      "correctIndex": 0,
+      "explanation": "In circular motion, speed is constant but direction changes, causing acceleration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s7_q32",
+      "text": "If the v-t graph is parallel to the time axis, the acceleration is:",
+      "options": ["Constant", "Increasing", "Zero", "Decreasing"],
+      "correctIndex": 2,
+      "explanation": "A horizontal v-t line means velocity is not changing, so acceleration is zero.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s7_q33",
+      "text": "Velocity is defined as ________ per unit time.",
+      "options": ["Distance", "Displacement", "Acceleration", "Speed"],
+      "correctIndex": 1,
+      "explanation": "Velocity = Displacement / Time, whereas Speed = Distance / Time.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s7_q34",
+      "text": "The slope of the distance-time graph for a body at rest is:",
+      "options": ["Positive", "Negative", "Infinite", "Zero"],
+      "correctIndex": 3,
+      "explanation": "An object at rest has zero speed, so the slope of its s-t graph is zero.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s7_q35",
+      "text": "A train 100m long crosses a bridge 1km long at 72 km/h. Time taken to cross is:",
+      "options": ["50s", "55s", "60s", "100s"],
+      "correctIndex": 1,
+      "explanation": "Total distance = 100+1000 = 1100m. Speed = 20 m/s. Time = 1100/20 = 55s.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_s7_q36",
+      "text": "Which equation of motion is independent of displacement?",
+      "options": ["v = u + at", "s = ut + ½ at²", "v² = u² + 2as", "None"],
+      "correctIndex": 0,
+      "explanation": "The first equation (v=u+at) involves only velocity, time, and acceleration.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s7_q37",
+      "text": "Distance is a ________ quantity.",
+      "options": ["Vector", "Scalar", "Derived", "Null"],
+      "correctIndex": 1,
+      "explanation": "Distance only has magnitude and no direction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s7_q38",
+      "text": "When an object is thrown upwards, its acceleration at the highest point is:",
+      "options": ["Zero", "9.8 m/s²", "Infinity", "Depends on weight"],
+      "correctIndex": 1,
+      "explanation": "Gravity (9.8 m/s²) acts on the object throughout its flight, including at the top.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s7_q39",
+      "text": "The magnitude of the average velocity is equal to average speed when:",
+      "options": ["Motion is circular", "Motion is in a straight line", "The object is at rest", "Always"],
+      "correctIndex": 1,
+      "explanation": "In one-dimensional motion without reversal, distance equals displacement.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s7_q40",
+      "text": "Motion of a fan blade is an example of:",
+      "options": ["Linear motion", "Circular motion", "Rectilinear motion", "Vibratory motion"],
+      "correctIndex": 1,
+      "explanation": "Points on the blade travel in circles around the center of rotation.",
+      "frequencyRating": 4
+    }
+  ]
+}

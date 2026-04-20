@@ -1,0 +1,330 @@
+{
+  "id": "g9_sci_ch6",
+  "grade": "9",
+  "subject": "Science",
+  "number": "6",
+  "title": "Tissues",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_s6_q1",
+      "text": "A group of cells that are similar in structure and/or work together to achieve a particular function is called:",
+      "options": ["Organ", "Tissue", "Organ system", "Cell colony"],
+      "correctIndex": 1,
+      "explanation": "Tissues represent a level of organization in multicellular organisms.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q2",
+      "text": "Plant tissues that have the ability to divide throughout life are:",
+      "options": ["Permanent tissues", "Meristematic tissues", "Sclerenchyma", "Phloem"],
+      "correctIndex": 1,
+      "explanation": "Meristematic tissues are growth tissues located at specific regions in plants.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q3",
+      "text": "Which meristem is responsible for the increase in length of stems and roots?",
+      "options": ["Lateral meristem", "Apical meristem", "Intercalary meristem", "Secondary meristem"],
+      "correctIndex": 1,
+      "explanation": "Apical meristem is present at the growing tips of stems and roots.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q4",
+      "text": "Increase in the girth (width) of the stem or root is due to:",
+      "options": ["Apical meristem", "Lateral meristem", "Intercalary meristem", "Parenchyma"],
+      "correctIndex": 1,
+      "explanation": "Lateral meristem (cambium) facilitates the lateral growth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q5",
+      "text": "The process of taking up a permanent shape, size, and function is called:",
+      "options": ["Differentiation", "Solidification", "Cellularization", "Osmosis"],
+      "correctIndex": 0,
+      "explanation": "Meristematic cells differentiate to form various types of permanent tissues.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q6",
+      "text": "Which tissue provides support and also stores food in plants?",
+      "options": ["Sclerenchyma", "Parenchyma", "Collenchyma", "Xylem"],
+      "correctIndex": 1,
+      "explanation": "Parenchyma is the most common simple permanent tissue with relatively unspecialized cells.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q7",
+      "text": "Parenchyma that contains chlorophyll and performs photosynthesis is called:",
+      "options": ["Aerenchyma", "Sclerenchyma", "Chlorenchyma", "Collenchyma"],
+      "correctIndex": 2,
+      "explanation": "Chlorenchyma is found in green leaves and stems.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q8",
+      "text": "In aquatic plants, large air cavities in parenchyma to give buoyancy are called:",
+      "options": ["Chlorenchyma", "Aerenchyma", "Epidermis", "Stomata"],
+      "correctIndex": 1,
+      "explanation": "Aerenchyma helps aquatic plants float.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s6_q9",
+      "text": "The tissue that allows easy bending in various parts of a plant without breaking is:",
+      "options": ["Parenchyma", "Sclerenchyma", "Collenchyma", "Xylem"],
+      "correctIndex": 2,
+      "explanation": "Collenchyma provides flexibility and mechanical support.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q10",
+      "text": "The tissue that makes the plant hard and stiff (e.g., husk of coconut) is:",
+      "options": ["Collenchyma", "Parenchyma", "Sclerenchyma", "Phloem"],
+      "correctIndex": 2,
+      "explanation": "Sclerenchyma consists of long, narrow, dead cells with thickened walls due to lignin.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q11",
+      "text": "The chemical substance that acts as cement and hardens cell walls in sclerenchyma is:",
+      "options": ["Cellulose", "Lignin", "Pectin", "Suberin"],
+      "correctIndex": 1,
+      "explanation": "Lignin makes the cell walls thick and strong.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q12",
+      "text": "The outermost layer of cells in plants is called:",
+      "options": ["Cortex", "Pith", "Epidermis", "Phloem"],
+      "correctIndex": 2,
+      "explanation": "Epidermis is usually one-cell thick and protects the plant.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q13",
+      "text": "Small pores on the surface of the leaf are called:",
+      "options": ["Lenticels", "Stomata", "Chloroplasts", "Nodes"],
+      "correctIndex": 1,
+      "explanation": "Stomata are necessary for gas exchange and transpiration.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q14",
+      "text": "The kidney-shaped cells that enclose stomata are:",
+      "options": ["Epidermal cells", "Guard cells", "Subsidiary cells", "Companion cells"],
+      "correctIndex": 1,
+      "explanation": "Guard cells regulate the opening and closing of stomata.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q15",
+      "text": "The chemical present in the walls of cork cells that makes them impervious to gases and water is:",
+      "options": ["Lignin", "Pectin", "Suberin", "Cellulose"],
+      "correctIndex": 2,
+      "explanation": "Suberin provides protective properties to the bark/cork of trees.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s6_q16",
+      "text": "Which of the following are complex permanent tissues?",
+      "options": ["Parenchyma and Collenchyma", "Xylem and Phloem", "Sclerenchyma and Epidermis", "Meristem and Cork"],
+      "correctIndex": 1,
+      "explanation": "Complex tissues are made of more than one type of cells that work together as a unit.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q17",
+      "text": "Which component of Xylem is living?",
+      "options": ["Tracheids", "Vessels", "Xylem parenchyma", "Xylem fibres"],
+      "correctIndex": 2,
+      "explanation": "Most xylem cells are dead at maturity, except for xylem parenchyma.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q18",
+      "text": "Which component of Phloem is non-living?",
+      "options": ["Sieve tubes", "Companion cells", "Phloem parenchyma", "Phloem fibres"],
+      "correctIndex": 3,
+      "explanation": "Phloem fibres (bast fibres) provide mechanical strength and are dead.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s6_q19",
+      "text": "Xylem helps in the conduction of:",
+      "options": ["Food", "Water and minerals", "Gases", "Hormones"],
+      "correctIndex": 1,
+      "explanation": "Xylem transports water unidirectionally from roots to leaves.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q20",
+      "text": "Phloem helps in the conduction of:",
+      "options": ["Water", "Minerals", "Food", "Air"],
+      "correctIndex": 2,
+      "explanation": "Phloem transports food (sucrose) in both directions (translocation).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q21",
+      "text": "Which of the following is NOT a type of animal tissue?",
+      "options": ["Epithelial", "Connective", "Muscular", "Meristematic"],
+      "correctIndex": 3,
+      "explanation": "Meristematic tissue is only found in plants.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q22",
+      "text": "The covering or protective tissues in the animal body are:",
+      "options": ["Connective", "Epithelial", "Muscular", "Nervous"],
+      "correctIndex": 1,
+      "explanation": "Epithelium covers most organs and cavities and forms a barrier.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q23",
+      "text": "The epithelium found in the lining of blood vessels or lung alveoli (where transport occurs) is:",
+      "options": ["Columnar", "Cuboidal", "Simple squamous", "Stratified squamous"],
+      "correctIndex": 2,
+      "explanation": "Simple squamous is thin and flat, allowing easy diffusion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q24",
+      "text": "Our skin is made of:",
+      "options": ["Simple squamous epithelium", "Stratified squamous epithelium", "Columnar epithelium", "Ciliated epithelium"],
+      "correctIndex": 1,
+      "explanation": "Multiple layers prevent wear and tear.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q25",
+      "text": "Ciliated columnar epithelium is found in the:",
+      "options": ["Intestine", "Stomach", "Respiratory tract", "Kidney tubules"],
+      "correctIndex": 2,
+      "explanation": "Cilia help push mucus forward to clear the tract.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q26",
+      "text": "Connective tissue that has a liquid matrix called plasma is:",
+      "options": ["Bone", "Cartilage", "Blood", "Areolar"],
+      "correctIndex": 2,
+      "explanation": "Blood transports gases, food, hormones, and waste.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q27",
+      "text": "Ligaments connect:",
+      "options": ["Muscle to bone", "Bone to bone", "Muscle to muscle", "Skin to muscle"],
+      "correctIndex": 1,
+      "explanation": "Ligaments are very elastic and have great strength.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q28",
+      "text": "Tendons connect:",
+      "options": ["Bone to bone", "Muscle to bone", "Muscle to muscle", "Nerve to muscle"],
+      "correctIndex": 1,
+      "explanation": "Tendons are fibrous tissues with great strength but limited flexibility.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q29",
+      "text": "Cartilage is found in:",
+      "options": ["Kidneys", "Liver", "Nose and ears", "Lungs"],
+      "correctIndex": 2,
+      "explanation": "Cartilage smoothens bone surfaces at joints and provides structure to ears/nose.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q30",
+      "text": "The tissue that stores fat in our body is:",
+      "options": ["Areolar", "Adipose", "Cartilage", "Bone"],
+      "correctIndex": 1,
+      "explanation": "Adipose tissue is found below skin and between internal organs; it acts as an insulator.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q31",
+      "text": "Muscles that we can move by conscious will are:",
+      "options": ["Involuntary", "Cardiac", "Voluntary (Skeletal)", "Smooth"],
+      "correctIndex": 2,
+      "explanation": "Skeletal muscles are attached to bones and help in body movement.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q32",
+      "text": "Involuntary muscles found in the alimentary canal are:",
+      "options": ["Striated", "Smooth", "Cardiac", "Skeletal"],
+      "correctIndex": 1,
+      "explanation": "Smooth muscles control automatic movements like peristalsis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q33",
+      "text": "Which muscles show rhythmic contraction and relaxation throughout life?",
+      "options": ["Skeletal", "Smooth", "Cardiac", "Voluntary"],
+      "correctIndex": 2,
+      "explanation": "Cardiac muscles are only found in the heart.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q34",
+      "text": "The cells of nervous tissue are called:",
+      "options": ["Nephrons", "Neurons", "Axons", "Dendrites"],
+      "correctIndex": 1,
+      "explanation": "Neurons are the functional units of the nervous system.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q35",
+      "text": "The long part of a neuron is called:",
+      "options": ["Dendrite", "Cell body", "Axon", "Nerve ending"],
+      "correctIndex": 2,
+      "explanation": "The axon carries impulses away from the cell body.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q36",
+      "text": "Areolar connective tissue is found:",
+      "options": ["In bones", "In blood", "Between skin and muscles", "In brain"],
+      "correctIndex": 2,
+      "explanation": "It fills the space inside organs and supports internal organs.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s6_q37",
+      "text": "Bone cells are embedded in a hard matrix composed of:",
+      "options": ["Calcium and Sodium", "Calcium and Phosphorus", "Phosphorus and Potassium", "Iron and Calcium"],
+      "correctIndex": 1,
+      "explanation": "These minerals provide rigidity and strength to bones.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q38",
+      "text": "Sieve tubes and companion cells are components of:",
+      "options": ["Xylem", "Phloem", "Cambium", "Cortex"],
+      "correctIndex": 1,
+      "explanation": "They work together to transport organic food.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s6_q39",
+      "text": "Striated muscles are also called skeletal muscles because:",
+      "options": ["They are hard", "They are mostly attached to bones", "They have no stripes", "They move involuntarily"],
+      "correctIndex": 1,
+      "explanation": "They provide the power for skeletal movement.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s6_q40",
+      "text": "Nodes of Ranvier are found in:",
+      "options": ["Muscle tissue", "Epithelial tissue", "Nervous tissue (Axon)", "Connective tissue"],
+      "correctIndex": 2,
+      "explanation": "They are gaps in the myelin sheath of an axon.",
+      "frequencyRating": 2
+    }
+  ]
+}

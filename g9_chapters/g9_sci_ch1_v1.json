@@ -1,0 +1,330 @@
+{
+  "id": "g9_sci_ch1",
+  "grade": "9",
+  "subject": "Science",
+  "number": "1",
+  "title": "Matter in Our Surroundings",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_s1_q1",
+      "text": "Which of the following is NOT matter?",
+      "options": ["Air", "Smell of perfume", "Hate", "Almonds"],
+      "correctIndex": 2,
+      "explanation": "Matter is anything that occupies space and has mass. Hate is a feeling/emotion and has no mass or volume.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s1_q2",
+      "text": "The process of mixing different substances on their own is called:",
+      "options": ["Fusion", "Diffusion", "Effusion", "Osmosis"],
+      "correctIndex": 1,
+      "explanation": "Diffusion is the intermixing of particles of two different types of matter on their own.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s1_q3",
+      "text": "What happens to the rate of diffusion as temperature increases?",
+      "options": ["Decreases", "Increases", "Remains same", "Becomes zero"],
+      "correctIndex": 1,
+      "explanation": "With increase in temperature, kinetic energy of particles increases, causing them to move faster and diffuse more quickly.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s1_q4",
+      "text": "The SI unit of mass is:",
+      "options": ["Gram", "Kilogram", "Newton", "Pascal"],
+      "correctIndex": 1,
+      "explanation": "The International System (SI) unit for mass is the kilogram (kg).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s1_q5",
+      "text": "Which state of matter has a definite shape and a definite volume?",
+      "options": ["Solid", "Liquid", "Gas", "Plasma"],
+      "correctIndex": 0,
+      "explanation": "Solids have a fixed shape and volume due to strong intermolecular forces.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s1_q6",
+      "text": "Which of the following has the highest compressibility?",
+      "options": ["Water", "Iron nail", "Oxygen", "Common salt"],
+      "correctIndex": 2,
+      "explanation": "Gases are highly compressible compared to solids and liquids because of large spaces between particles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s1_q7",
+      "text": "The change of state directly from solid to gas without changing into liquid is called:",
+      "options": ["Fusion", "Vaporisation", "Sublimation", "Solidification"],
+      "correctIndex": 2,
+      "explanation": "Sublimation is the transition where a solid directly becomes a gas (e.g., Camphor or Dry Ice).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s1_q8",
+      "text": "Which of the following will produce severe burns?",
+      "options": ["Water at 100°C", "Steam at 100°C", "Ice at 0°C", "Water at 0°C"],
+      "correctIndex": 1,
+      "explanation": "Steam at 100°C has more energy than water at the same temperature due to the latent heat of vaporisation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s1_q9",
+      "text": "The boiling point of water on the Kelvin scale is:",
+      "options": ["273 K", "0 K", "373 K", "100 K"],
+      "correctIndex": 2,
+      "explanation": "K = °C + 273. For boiling water, 100 + 273 = 373 K.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s1_q10",
+      "text": "Evaporation causes:",
+      "options": ["Heating", "Cooling", "Freezing", "No change in temperature"],
+      "correctIndex": 1,
+      "explanation": "Particles of liquid absorb energy from surroundings to evaporate, resulting in a cooling effect.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s1_q11",
+      "text": "Which factor does NOT increase the rate of evaporation?",
+      "options": ["Increase in surface area", "Increase in temperature", "Increase in humidity", "Increase in wind speed"],
+      "correctIndex": 2,
+      "explanation": "High humidity means air already has a lot of water vapor, which decreases the rate of further evaporation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s1_q12",
+      "text": "What is the physical state of water at 250°C?",
+      "options": ["Solid", "Liquid", "Gaseous", "Plasma"],
+      "correctIndex": 2,
+      "explanation": "Since the boiling point of water is 100°C, it exists as a gas at 250°C.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_s1_q13",
+      "text": "Dry ice is:",
+      "options": ["Solid Water", "Solid Carbon Dioxide", "Solid Oxygen", "Solid Nitrogen"],
+      "correctIndex": 1,
+      "explanation": "Solid CO2 is called dry ice because it sublimes directly into gas without melting.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s1_q14",
+      "text": "The strength of force of attraction between particles is maximum in:",
+      "options": ["Air", "Water", "Copper rod", "Kerosene"],
+      "correctIndex": 2,
+      "explanation": "Solids have the strongest intermolecular forces compared to liquids and gases.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s1_q15",
+      "text": "Kinetic energy of particles is minimum in:",
+      "options": ["Solids", "Liquids", "Gases", "Plasma"],
+      "correctIndex": 0,
+      "explanation": "Particles in solids are tightly packed and only vibrate at their mean positions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s1_q16",
+      "text": "Which of the following is the SI unit of pressure?",
+      "options": ["Pascal", "Joule", "Watt", "Kilogram"],
+      "correctIndex": 0,
+      "explanation": "Pressure is measured in Pascals (Pa).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_s1_q17",
+      "text": "Latent heat of fusion is the amount of heat energy required to change 1kg of solid into liquid at:",
+      "options": ["Room temperature", "Any temperature", "Its melting point", "100°C"],
+      "correctIndex": 2,
+      "explanation": "It occurs at atmospheric pressure at the solid's melting point.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s1_q18",
+      "text": "Acetone or perfume feels cold on the palm because:",
+      "options": ["It is cold", "It reacts with skin", "It absorbs energy from palm to evaporate", "It releases energy"],
+      "correctIndex": 2,
+      "explanation": "Evaporation is an endothermic process that takes heat from the surface (the palm).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s1_q19",
+      "text": "Cotton clothes are preferred in summer because:",
+      "options": ["They are cheap", "They reflect heat", "They absorb sweat and expose it to evaporation", "They are thin"],
+      "correctIndex": 2,
+      "explanation": "Cotton is a good absorber of water, helping sweat evaporate and cool the body.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s1_q20",
+      "text": "We can sip hot tea faster from a saucer than from a cup due to:",
+      "options": [" Saucer is thinner", "Saucer has more surface area", "Tea cools faster in cup", "Cup is deep"],
+      "correctIndex": 1,
+      "explanation": "Increased surface area increases the rate of evaporation and cooling.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s1_q21",
+      "text": "The Fourth state of matter is:",
+      "options": ["Bose-Einstein Condensate", "Plasma", "Solid", "Liquid"],
+      "correctIndex": 1,
+      "explanation": "Plasma consists of super energetic and super excited particles in the form of ionised gases.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_s1_q22",
+      "text": "LPG stands for:",
+      "options": ["Liquid Petrol Gas", "Liquefied Petroleum Gas", "Low Petroleum Gas", "Local Petroleum Gas"],
+      "correctIndex": 1,
+      "explanation": "LPG is Petroleum gas compressed into liquid form for easier storage and transport.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s1_q23",
+      "text": "Convert 300 K to Celsius scale.",
+      "options": ["27°C", "30°C", "573°C", "23°C"],
+      "correctIndex": 0,
+      "explanation": "°C = K - 273 = 300 - 273 = 27°C.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s1_q24",
+      "text": "Density is defined as:",
+      "options": ["Mass / Volume", "Volume / Mass", "Mass * Volume", "None"],
+      "correctIndex": 0,
+      "explanation": "Density = Mass per unit volume.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s1_q25",
+      "text": "Fluorescent tubes and neon sign bulbs consist of:",
+      "options": ["Liquid", "Plasma", "Solid", "Gas"],
+      "correctIndex": 1,
+      "explanation": "The gas inside gets ionised when electricity flows, creating plasma.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g9_s1_q26",
+      "text": "When water boils, the temperature ________ until all water turns to steam.",
+      "options": ["Increases", "Decreases", "Remains constant", "Fluctuates"],
+      "correctIndex": 2,
+      "explanation": "The temperature remains constant during change of state because heat is used as latent heat.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s1_q27",
+      "text": "Which of the following describes 'Fluidity'?",
+      "options": ["Ability to flow", "Fixed shape", "High density", "Tightly packed"],
+      "correctIndex": 0,
+      "explanation": "Fluidity is the ability of liquids and gases to flow and change shape.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s1_q28",
+      "text": "Zig-zag movement of particles is called:",
+      "options": ["Diffusion", "Brownian motion", "Sublimation", "Evaporation"],
+      "correctIndex": 1,
+      "explanation": "Brownian motion describes the random motion of particles in a fluid.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g9_s1_q29",
+      "text": "Ice floats on water because:",
+      "options": ["It is lighter", "Its density is less than water", "It is solid", "Water is cold"],
+      "correctIndex": 1,
+      "explanation": "Ice has a cage-like structure that makes its density lower than liquid water.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s1_q30",
+      "text": "Naphthalene balls disappear after some time due to:",
+      "options": ["Melting", "Evaporation", "Sublimation", "Condensation"],
+      "correctIndex": 2,
+      "explanation": "Naphthalene is a sublimable solid that turns directly into vapor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s1_q31",
+      "text": "Which state of matter has neither a fixed shape nor a fixed volume?",
+      "options": ["Solid", "Liquid", "Gas", "Both Liquid and Gas"],
+      "correctIndex": 2,
+      "explanation": "Gases fill the entire container and have no fixed boundaries.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s1_q32",
+      "text": "Which of the following is not a property of solids?",
+      "options": ["Fixed volume", "Distinct boundaries", "High compressibility", "Rigidity"],
+      "correctIndex": 2,
+      "explanation": "Solids have negligible compressibility.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s1_q33",
+      "text": "Melting point is a measure of the ________ between particles.",
+      "options": ["Distance", "Force of attraction", "Speed", "Weight"],
+      "correctIndex": 1,
+      "explanation": "Higher the melting point, stronger the force of attraction between particles.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s1_q34",
+      "text": "Atmospheric pressure at sea level is taken as:",
+      "options": ["1 atm", "10 atm", "0 atm", "100 atm"],
+      "correctIndex": 0,
+      "explanation": "1 atmosphere (atm) is the normal pressure at sea level.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_s1_q35",
+      "text": "Water droplets on the outer surface of a glass containing ice-cold water are due to:",
+      "options": ["Evaporation", "Sublimation", "Condensation", "Vaporisation"],
+      "correctIndex": 2,
+      "explanation": "Water vapor in air loses energy on contact with the cold glass and turns to liquid.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s1_q36",
+      "text": "The density of air is ________ than the density of water.",
+      "options": ["Greater", "Less", "Equal", "None"],
+      "correctIndex": 1,
+      "explanation": "Gas particles are far apart, leading to much lower mass per unit volume.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_s1_q37",
+      "text": "Solidification is also known as:",
+      "options": ["Melting", "Freezing", "Boiling", "Fusion"],
+      "correctIndex": 1,
+      "explanation": "Changing a liquid to a solid is called solidification or freezing.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s1_q38",
+      "text": "Increasing pressure and decreasing temperature can ________ gases.",
+      "options": ["Vaporise", "Sublime", "Liquefy", "Solidify"],
+      "correctIndex": 2,
+      "explanation": "By bringing particles closer and slowing them down, gases can be turned into liquids.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s1_q39",
+      "text": "Evaporation is a ________ phenomenon.",
+      "options": ["Bulk", "Surface", "Fast", "Internal"],
+      "correctIndex": 1,
+      "explanation": "Evaporation only occurs at the surface of the liquid, unlike boiling.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s1_q40",
+      "text": "Boiling is a ________ phenomenon.",
+      "options": ["Bulk", "Surface", "Slow", "Rare"],
+      "correctIndex": 0,
+      "explanation": "Boiling involves the entire mass of the liquid.",
+      "frequencyRating": 4
+    }
+  ]
+}

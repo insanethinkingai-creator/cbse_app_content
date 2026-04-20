@@ -1,0 +1,330 @@
+{
+  "id": "g9_eng_ch5",
+  "grade": "9",
+  "subject": "English",
+  "number": "5",
+  "title": "The Snake and the Mirror",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_e5_q1",
+      "text": "Who is the narrator of the story 'The Snake and the Mirror'?",
+      "options": ["A teacher", "A homeopathic doctor", "A pilot", "A snake charmer"],
+      "correctIndex": 1,
+      "explanation": "The story is told by a homeopath about a terrifying yet funny incident from his past.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e5_q2",
+      "text": "What time of day did the incident take place?",
+      "options": ["Morning", "Late at night (around 10 PM)", "Afternoon", "Dawn"],
+      "correctIndex": 1,
+      "explanation": "He had finished his meal at a restaurant and returned to his room at about ten o’clock.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e5_q3",
+      "text": "What was the state of the doctor's room?",
+      "options": ["Luxurious", "Clean and big", "Small, rented, and not electrified", "A modern apartment"],
+      "correctIndex": 2,
+      "explanation": "He was just starting his practice and lived in a poor, un-electrified rented room.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e5_q4",
+      "text": "What did the doctor hear when he entered his room?",
+      "options": ["Rain", "A familiar noise of rats", "A snake hissing", "Music"],
+      "correctIndex": 1,
+      "explanation": "He and the rats shared the room, and he heard their movement frequently.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e5_q5",
+      "text": "What was the doctor's financial condition at that time?",
+      "options": ["Rich", "Moderate", "Very poor (meagre earnings)", "In debt"],
+      "correctIndex": 2,
+      "explanation": "He had about sixty rupees in his suitcase and very few clothes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e5_q6",
+      "text": "What did the doctor do while sitting in front of the mirror?",
+      "options": ["He prayed", "He admired his own looks and made 'important' decisions", "He studied medicine", "He slept"],
+      "correctIndex": 1,
+      "explanation": "Being a bachelor and a doctor, he felt he had to look handsome and made decisions like growing a thin moustache.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e5_q7",
+      "text": "What 'earth-shaking' decision did the doctor make while looking in the mirror?",
+      "options": ["To get a new job", "To shave daily and grow a thin moustache", "To buy a house", "To kill the rats"],
+      "correctIndex": 1,
+      "explanation": "He wanted to enhance his handsome appearance.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e5_q8",
+      "text": "What kind of woman did the doctor want to marry?",
+      "options": ["A poor thin woman", "A woman doctor with plenty of money and a fat body", "A beautiful model", "A scientist"],
+      "correctIndex": 1,
+      "explanation": "He wanted a fat wife so that if he made a mistake and had to run away, she wouldn't be able to catch him.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e5_q9",
+      "text": "What happened suddenly while he was sitting on the chair?",
+      "options": ["The roof fell", "A snake landed on his shoulder", "A thief entered", "The lamp went out"],
+      "correctIndex": 1,
+      "explanation": "A rubber-like thing fell, and a cobra wriggled over the back of the chair and onto his shoulder.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e5_q10",
+      "text": "How did the doctor react when the snake was on his arm?",
+      "options": ["He screamed", "He jumped", "He sat like a stone image in flesh", "He fainted"],
+      "correctIndex": 2,
+      "explanation": "He didn't move or tremble because any sudden movement would make the snake strike.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e5_q11",
+      "text": "How far was the snake's head from the doctor's face?",
+      "options": ["One foot", "Three or four inches", "Ten inches", "Right next to his nose"],
+      "correctIndex": 1,
+      "explanation": "The snake's hood was spread out, and its head was very close to his face.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e5_q12",
+      "text": "What did the doctor think about in his moment of fear?",
+      "options": ["His money", "His wife", "God and his own medicine", "His family"],
+      "correctIndex": 2,
+      "explanation": "He felt the presence of the Creator and realized he didn't even know what medicine to take if bitten.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e5_q13",
+      "text": "Why did the snake eventually leave the doctor?",
+      "options": ["It was scared of him", "It saw its reflection in the mirror", "He hit it", "The rats attacked it"],
+      "correctIndex": 1,
+      "explanation": "The snake turned its head and looked into the mirror, seemingly fascinated by its own reflection.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e5_q14",
+      "text": "What did the doctor do as soon as the snake moved toward the mirror?",
+      "options": ["He took a photo", "He ran out of the room", "He killed it", "He went to sleep"],
+      "correctIndex": 1,
+      "explanation": "He quietly got up, went through the door, and ran until he reached a friend's house.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e5_q15",
+      "text": "What did the doctor do at his friend's house?",
+      "options": ["He told the story", "He smeared oil over himself and took a bath", "He slept immediately", "He called the police"],
+      "correctIndex": 1,
+      "explanation": "He cleaned himself up to get over the terrifying experience.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e5_q16",
+      "text": "When the doctor returned to his room the next morning, what did he find?",
+      "options": ["The snake was still there", "The room was clean", "Most of his things were stolen by a thief", "His wife was there"],
+      "correctIndex": 2,
+      "explanation": "A thief had removed most of his things during the night.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e5_q17",
+      "text": "What was the one thing the thief had left behind?",
+      "options": ["The mirror", "His dirty vest", "The kerosene lamp", "His medical books"],
+      "correctIndex": 1,
+      "explanation": "The thief left his dirty vest as a final 'insult' to the doctor's cleanliness.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e5_q18",
+      "text": "Did the doctor ever see the snake again?",
+      "options": ["Yes, the next day", "No, never again", "Yes, in his dreams", "He caught it"],
+      "correctIndex": 1,
+      "explanation": "The story concludes by saying he never saw it again.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e5_q19",
+      "text": "Was the doctor's wife actually fat, as he had wished?",
+      "options": ["Yes", "No, she was a thin, 'reedy' person", "She was very tall", "He never married"],
+      "correctIndex": 1,
+      "explanation": "In reality, his wife was a thin person with the 'gift of a sprinter'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e5_q20",
+      "text": "The story 'The Snake and the Mirror' is written by:",
+      "options": ["Katherine Mansfield", "Vaikom Muhammad Basheer", "Isaac Asimov", "A.P.J. Abdul Kalam"],
+      "correctIndex": 1,
+      "explanation": "He is a famous Malayalam writer whose works are known for their humor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e5_q21",
+      "text": "The doctor's room was full of rats because:",
+      "options": ["He kept them as pets", "The room was unhygienic and old", "They were attracted to medicine", "The snake brought them"],
+      "correctIndex": 1,
+      "explanation": "It was an old, outer room with much traffic of rats.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e5_q22",
+      "text": "What was the 'dull thud' the doctor heard?",
+      "options": ["A falling book", "A fat snake falling to the ground", "The door closing", "A rat jumping"],
+      "correctIndex": 1,
+      "explanation": "It was the sound of the snake falling from the roof onto his chair.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e5_q23",
+      "text": "What medicine did the doctor think of when the snake coiled around his arm?",
+      "options": ["Paracetamol", "Anti-venom", "None (He realized he had no medicines)", "Ayurvedic herbs"],
+      "correctIndex": 2,
+      "explanation": "In his fear, he realized there were no medicines in the room for a snake bite.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e5_q24",
+      "text": "What kind of snake was it?",
+      "options": ["A python", "A cobra", "A viper", "A water snake"],
+      "correctIndex": 1,
+      "explanation": "The text refers to it as a cobra with a spread hood.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e5_q25",
+      "text": "How did the doctor describe his state while sitting on the chair?",
+      "options": ["Active", "A stone image in the flesh", "Fainting", "Trembling"],
+      "correctIndex": 1,
+      "explanation": "He was physically frozen but his mind was very active.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e5_q26",
+      "text": "The doctor felt he was a 'poor, foolish and ________' doctor.",
+      "options": ["Smart", "Stupid", "Famous", "Young"],
+      "correctIndex": 1,
+      "explanation": "He laughed at himself in his moment of danger.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e5_q27",
+      "text": "What was the 'vile' thing the thief left behind?",
+      "options": ["The mirror", "The doctor's vest", "The kerosene", "A note"],
+      "correctIndex": 1,
+      "explanation": "The doctor jokingly called his own dirty vest 'vile' because the thief rejected it.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e5_q28",
+      "text": "The snake's interest in the mirror shows that it was:",
+      "options": ["Hungry", "Vain/Attracted to its own beauty", "Angry", "Sleeping"],
+      "correctIndex": 1,
+      "explanation": "The story humorously suggests the snake was admiring itself.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e5_q29",
+      "text": "What book was the doctor reading before the incident?",
+      "options": ["The Bible", "Materia Medica", "A novel", "A newspaper"],
+      "correctIndex": 1,
+      "explanation": "He opened the box and took out the book 'Materia Medica' to read.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e5_q30",
+      "text": "The room had no electricity, so the doctor used a:",
+      "options": ["Torch", "Candle", "Kerosene lamp", "Flashlight"],
+      "correctIndex": 2,
+      "explanation": "He lighted a kerosene lamp on the table.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e5_q31",
+      "text": "The doctor's decision to always keep an 'attractive smile' on his face was to:",
+      "options": ["Scare the rats", "Look more handsome", "Hide his fear", "Impress patients"],
+      "correctIndex": 1,
+      "explanation": "It was another one of his 'important' decisions based on vanity.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e5_q32",
+      "text": "What does 'meagre' mean?",
+      "options": ["Huge", "Very small in quantity", "Sufficient", "Unhealthy"],
+      "correctIndex": 1,
+      "explanation": "The doctor had very small (meagre) earnings from his practice.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e5_q33",
+      "text": "Who had 'taken away' the rats?",
+      "options": ["The snake", "The thief", "The doctor", "The cat"],
+      "correctIndex": 1,
+      "explanation": "The doctor joked that the thief was so thorough that even the rats had been cleaned out.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e5_q34",
+      "text": "Which part of the doctor's body did the snake coil around?",
+      "options": ["His neck", "His right arm", "His left arm above the elbow", "His leg"],
+      "correctIndex": 2,
+      "explanation": "It coiled around his left arm, making it heavy and painful.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e5_q35",
+      "text": "What was the snake doing after it reached the table?",
+      "options": ["Eating rats", "Crawling towards the mirror", "Sleeping", "Hissing"],
+      "correctIndex": 1,
+      "explanation": "It wanted to enjoy its reflection at closer quarters.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e5_q36",
+      "text": "The doctor felt the 'Presence of God' in the:",
+      "options": ["Mirror", "Snake", "Darkness", "Medicine"],
+      "correctIndex": 2,
+      "explanation": "In his extreme danger, he felt spiritual in the pitch darkness.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e5_q37",
+      "text": "The noise from above stopped after:",
+      "options": ["The doctor spoke", "The snake fell", "The rats ran away", "The lamp broke"],
+      "correctIndex": 1,
+      "explanation": "The 'rats' noise stopped because it was actually the snake moving.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e5_q38",
+      "text": "What was the doctor's friend's reaction to the story?",
+      "options": ["He laughed", "He was scared", "He didn't believe it", "He was silent"],
+      "correctIndex": 0,
+      "explanation": "The story is presented as a humorous anecdote shared among friends.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e5_q39",
+      "text": "Which of these words describes the doctor's initial character?",
+      "options": ["Humble", "Vain", "Fearless", "Depressed"],
+      "correctIndex": 1,
+      "explanation": "His excessive focus on his looks in the mirror shows his vanity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e5_q40",
+      "text": "The 'gift of a sprinter' refers to which character?",
+      "options": ["The doctor", "The snake", "The doctor's wife", "The thief"],
+      "correctIndex": 2,
+      "explanation": "It describes his wife's ability to run fast because she was very thin.",
+      "frequencyRating": 4
+    }
+  ]
+}

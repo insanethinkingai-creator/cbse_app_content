@@ -1,0 +1,330 @@
+{
+  "id": "g9_sci_ch3",
+  "grade": "9",
+  "subject": "Science",
+  "number": "3",
+  "title": "Atoms and Molecules",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_s3_q1",
+      "text": "The Law of Conservation of Mass was proposed by:",
+      "options": ["Dalton", "Lavoisier", "Proust", "Avogadro"],
+      "correctIndex": 1,
+      "explanation": "Antoine Lavoisier stated that mass is neither created nor destroyed in a chemical reaction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s3_q2",
+      "text": "The Law of Constant Proportions states that elements are always present in definite proportion by:",
+      "options": ["Volume", "Number", "Mass", "Size"],
+      "correctIndex": 2,
+      "explanation": "Proposed by Joseph Proust, it says elements combine in fixed ratios by mass.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s3_q3",
+      "text": "According to Dalton's Atomic Theory, atoms of different elements have:",
+      "options": ["Same mass", "Same chemical properties", "Different mass and chemical properties", "Same size"],
+      "correctIndex": 2,
+      "explanation": "Dalton theorized that atoms of different elements are distinct in mass and behavior.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s3_q4",
+      "text": "The building blocks of all matter are:",
+      "options": ["Molecules", "Ions", "Atoms", "Compounds"],
+      "correctIndex": 2,
+      "explanation": "An atom is the smallest unit of an element that retains its chemical properties.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s3_q5",
+      "text": "Atomic radius is measured in:",
+      "options": ["Centimeters", "Millimeters", "Nanometers", "Micrometers"],
+      "correctIndex": 2,
+      "explanation": "1 nm = 10⁻⁹ m. Atoms are extremely small.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s3_q6",
+      "text": "The symbol of Iron is:",
+      "options": ["I", "Ir", "Fe", "In"],
+      "correctIndex": 2,
+      "explanation": "Fe comes from the Latin name 'Ferrum'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s3_q7",
+      "text": "The reference standard for atomic mass is:",
+      "options": ["H-1", "O-16", "C-12", "C-14"],
+      "correctIndex": 2,
+      "explanation": "One atomic mass unit (u) is 1/12th the mass of one Carbon-12 atom.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s3_q8",
+      "text": "Atomicity of Oxygen (O2) is:",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 1,
+      "explanation": "Atomicity is the number of atoms in a molecule. Oxygen is diatomic.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s3_q9",
+      "text": "Atomicity of Phosphorus (P4) is:",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 3,
+      "explanation": "Phosphorus exists as a tetra-atomic molecule.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s3_q10",
+      "text": "A group of atoms carrying a charge is known as a:",
+      "options": ["Isotope", "Molecule", "Polyatomic ion", "Neutral atom"],
+      "correctIndex": 2,
+      "explanation": "Examples include Ammonium (NH₄⁺) and Carbonate (CO₃²⁻).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s3_q11",
+      "text": "The valency of Calcium (Ca) is:",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 1,
+      "explanation": "Calcium is in group 2 and typically loses two electrons.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s3_q12",
+      "text": "The chemical formula of Magnesium Chloride is:",
+      "options": ["MgCl", "MgCl2", "Mg2Cl", "Mg2Cl2"],
+      "correctIndex": 1,
+      "explanation": "Mg has valency 2, Cl has valency 1. Cross multiplication gives MgCl₂.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s3_q13",
+      "text": "The chemical formula of Aluminium Oxide is:",
+      "options": ["AlO", "AlO2", "Al2O3", "Al3O2"],
+      "correctIndex": 2,
+      "explanation": "Al valency 3, Oxygen valency 2. Formula is Al₂O₃.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s3_q14",
+      "text": "Find the molecular mass of Water (H2O). (H=1u, O=16u)",
+      "options": ["17 u", "18 u", "19 u", "20 u"],
+      "correctIndex": 1,
+      "explanation": "2*1 + 16 = 18 u.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s3_q15",
+      "text": "The mass of one mole of a substance is called its:",
+      "options": ["Atomic mass", "Molecular mass", "Molar mass", "Formula unit mass"],
+      "correctIndex": 2,
+      "explanation": "Molar mass is the mass in grams of 1 mole of particles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s3_q16",
+      "text": "Value of Avogadro's number is:",
+      "options": ["6.022 * 10²²", "6.022 * 10²³", "6.22 * 10²³", "6.022 * 10⁻²³"],
+      "correctIndex": 1,
+      "explanation": "It represents the number of particles in one mole.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s3_q17",
+      "text": "How many moles are in 52g of Helium? (Atomic mass He = 4u)",
+      "options": ["10", "12", "13", "26"],
+      "correctIndex": 2,
+      "explanation": "Moles = Given Mass / Molar Mass = 52 / 4 = 13.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s3_q18",
+      "text": "1 mole of CO2 contains how many atoms of Oxygen?",
+      "options": ["6.022 * 10²³", "12.044 * 10²³", "1 mole", "2 atoms"],
+      "correctIndex": 1,
+      "explanation": "1 molecule of CO2 has 2 O atoms. 1 mole has 2 * NA atoms.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s3_q19",
+      "text": "Valency is defined as:",
+      "options": ["Atomic number", "Mass number", "Combining capacity", "Number of neutrons"],
+      "correctIndex": 2,
+      "explanation": "Valency tells us how many bonds an atom can form.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s3_q20",
+      "text": "In Ammonia (NH3), Nitrogen and Hydrogen are always present in the ratio ________ by mass.",
+      "options": ["14:1", "14:3", "7:3", "3:1"],
+      "correctIndex": 1,
+      "explanation": "Mass N = 14, Mass H = 3*1. Ratio = 14:3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s3_q21",
+      "text": "Formula unit mass is used for substances like:",
+      "options": ["Molecules", "Ionic compounds", "Elements", "Gases"],
+      "correctIndex": 1,
+      "explanation": "For ionic compounds like NaCl, we use the term 'formula unit mass' instead of molecular mass.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s3_q22",
+      "text": "Atomic mass unit (amu) is now written as:",
+      "options": ["m", "a", "u", "g"],
+      "correctIndex": 2,
+      "explanation": "The IUPAC recommends using 'u' (unified mass unit).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s3_q23",
+      "text": "Which of the following is a noble gas (monoatomic)?",
+      "options": ["Hydrogen", "Helium", "Oxygen", "Nitrogen"],
+      "correctIndex": 1,
+      "explanation": "Helium, Neon, Argon are monoatomic elements.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s3_q24",
+      "text": "The ratio of H:O by mass in water is:",
+      "options": ["1:8", "8:1", "1:2", "2:1"],
+      "correctIndex": 0,
+      "explanation": "2g of H combines with 16g of O. Ratio 2:16 = 1:8.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s3_q25",
+      "text": "Mass of 0.5 mole of N2 gas is: (N = 14u)",
+      "options": ["7 g", "14 g", "28 g", "21 g"],
+      "correctIndex": 1,
+      "explanation": "Molar mass N2 = 28g. 0.5 * 28 = 14g.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s3_q26",
+      "text": "Molecule of an element containing 8 atoms is:",
+      "options": ["Oxygen", "Carbon", "Sulfur", "Phosphorus"],
+      "correctIndex": 2,
+      "explanation": "Sulfur exists as S₈ molecules.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s3_q27",
+      "text": "Calculate formula unit mass of NaCl. (Na=23u, Cl=35.5u)",
+      "options": ["58.5 u", "59 u", "57 u", "60.5 u"],
+      "correctIndex": 0,
+      "explanation": "23 + 35.5 = 58.5 u.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s3_q28",
+      "text": "The Latin name of Sodium is:",
+      "options": ["Kalium", "Natrium", "Stannum", "Plumbum"],
+      "correctIndex": 1,
+      "explanation": "Na comes from Natrium.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s3_q29",
+      "text": "Cations are ________ charged ions.",
+      "options": ["Positively", "Negatively", "Neutrally", "None"],
+      "correctIndex": 0,
+      "explanation": "Cations are formed when atoms lose electrons.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s3_q30",
+      "text": "Anions are ________ charged ions.",
+      "options": ["Positively", "Negatively", "Neutrally", "None"],
+      "correctIndex": 1,
+      "explanation": "Anions are formed when atoms gain electrons.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s3_q31",
+      "text": "The valency of Carbon is:",
+      "options": ["2", "3", "4", "1"],
+      "correctIndex": 2,
+      "explanation": "Carbon is tetravalent, meaning it forms 4 bonds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s3_q32",
+      "text": "Chemical formula of Ammonium Sulfate is:",
+      "options": ["(NH4)SO4", "NH4(SO4)2", "(NH4)2SO4", "NH4SO4"],
+      "correctIndex": 2,
+      "explanation": "NH₄⁺ valency 1, SO₄²⁻ valency 2. (NH₄)₂SO₄.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s3_q33",
+      "text": "How many atoms are present in a H2S molecule?",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 2,
+      "explanation": "2 Hydrogen atoms + 1 Sulfur atom = 3 atoms.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s3_q34",
+      "text": "Molar mass of Nitric Acid (HNO3) is: (H=1, N=14, O=16)",
+      "options": ["63 g", "31 g", "45 g", "60 g"],
+      "correctIndex": 0,
+      "explanation": "1 + 14 + (3 * 16) = 15 + 48 = 63 g.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s3_q35",
+      "text": "Ratio of atoms by number in Water (H:O) is:",
+      "options": ["1:8", "1:2", "2:1", "8:1"],
+      "correctIndex": 2,
+      "explanation": "H2O means 2 hydrogen atoms for every 1 oxygen atom.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s3_q36",
+      "text": "Who named the term 'Mole'?",
+      "options": ["Wilhelm Ostwald", "Dalton", "Newton", "Avogadro"],
+      "correctIndex": 0,
+      "explanation": "Ostwald derived the term from Latin 'moles' meaning heap or pile.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g9_s3_q37",
+      "text": "A mole of Carbon atoms (12g) has ________ mass as a mole of Oxygen atoms (16g).",
+      "options": ["Same", "Different", "Twice", "Half"],
+      "correctIndex": 1,
+      "explanation": "Moles represent the same number of particles, but the mass depends on the atomic mass.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s3_q38",
+      "text": "Number of moles in 12g of Oxygen gas (O2) is:",
+      "options": ["0.375", "12", "32", "0.75"],
+      "correctIndex": 0,
+      "explanation": "12 / 32 = 0.375.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_s3_q39",
+      "text": "Valency of Hydroxide ion (OH) is:",
+      "options": ["1", "2", "3", "0"],
+      "correctIndex": 0,
+      "explanation": "Hydroxide has a single negative charge.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s3_q40",
+      "text": "Symbol for Silver is:",
+      "options": ["S", "Si", "Ag", "Au"],
+      "correctIndex": 2,
+      "explanation": "Ag comes from Argentum.",
+      "frequencyRating": 4
+    }
+  ]
+}

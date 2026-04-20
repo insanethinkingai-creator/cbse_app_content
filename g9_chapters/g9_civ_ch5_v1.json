@@ -1,0 +1,330 @@
+{
+  "id": "g9_civ_ch05",
+  "grade": "9",
+  "subject": "Civics",
+  "number": "5",
+  "title": "Democratic Rights",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_c5_q1",
+      "text": "Where is the Guantanamo Bay prison located?",
+      "options": ["USA mainland", "Near Cuba", "In Iraq", "In India"],
+      "correctIndex": 1,
+      "explanation": "Guantanamo Bay is a US naval base in Cuba where prisoners were kept illegally.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q2",
+      "text": "Which organization reported that prisoners in Guantanamo Bay were being tortured?",
+      "options": ["UNESCO", "Amnesty International", "WHO", "World Bank"],
+      "correctIndex": 1,
+      "explanation": "Amnesty International is an international human rights organization.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q3",
+      "text": "The ethnic massacre in Kosovo was carried out by the government of ________.",
+      "options": ["Albanians", "Serbs", "Croats", "Russians"],
+      "correctIndex": 1,
+      "explanation": "The Serbian government under Milosevic targeted ethnic Albanians in Kosovo.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q4",
+      "text": "Rights are reasonable claims of persons recognized by society and ________.",
+      "options": ["The Army", "Sanctioned by law", "Religious books", "Wealthy people"],
+      "correctIndex": 1,
+      "explanation": "For a claim to become a right, it must be recognized by the state as a legal entitlement.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q5",
+      "text": "Rights given to citizens of India by the Constitution are called ________ Rights.",
+      "options": ["Basic", "Fundamental", "Political", "Civil"],
+      "correctIndex": 1,
+      "explanation": "There are six categories of Fundamental Rights in the Indian Constitution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q6",
+      "text": "Which right ensures that all citizens are equal before the law?",
+      "options": ["Right to Freedom", "Right to Equality", "Right against Exploitation", "Cultural and Educational Rights"],
+      "correctIndex": 1,
+      "explanation": "The Right to Equality prevents discrimination on grounds of religion, race, caste, sex or place of birth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q7",
+      "text": "The practice of 'Untouchability' was abolished by which right?",
+      "options": ["Right to Freedom", "Right to Equality", "Right to Education", "Right to Property"],
+      "correctIndex": 1,
+      "explanation": "Article 17 of the Constitution makes the practice of untouchability a punishable offense.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q8",
+      "text": "Which right allows citizens to form associations or unions?",
+      "options": ["Right to Equality", "Right to Freedom", "Right against Exploitation", "Right to Constitutional Remedies"],
+      "correctIndex": 1,
+      "explanation": "Freedom of assembly and association is part of the Right to Freedom.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q9",
+      "text": "A person cannot be detained in custody for more than ________ without being produced before a magistrate.",
+      "options": ["12 hours", "24 hours", "48 hours", "One week"],
+      "correctIndex": 1,
+      "explanation": "This is a protection against illegal arrest and detention.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q10",
+      "text": "Which right prohibits 'begar' or forced labor?",
+      "options": ["Right to Equality", "Right to Freedom", "Right against Exploitation", "Right to Freedom of Religion"],
+      "correctIndex": 2,
+      "explanation": "Begar is a practice where workers are forced to work for free or low wages.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q11",
+      "text": "According to the Right against Exploitation, children below the age of ________ cannot work in hazardous jobs.",
+      "options": ["12", "14", "16", "18"],
+      "correctIndex": 1,
+      "explanation": "Child labor in factories, mines or other dangerous occupations is banned.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q12",
+      "text": "The Right to Freedom of Religion means that:",
+      "options": ["Everyone must follow the government's religion", "Everyone has the right to profess, practice and propagate any religion", "Propagating religion is banned", "Religions cannot build temples"],
+      "correctIndex": 1,
+      "explanation": "India is a secular state where every citizen enjoys religious freedom.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q13",
+      "text": "Minorities have the right to establish and administer ________.",
+      "options": ["Banks", "Educational institutions of their choice", "Military bases", "Separate laws"],
+      "correctIndex": 1,
+      "explanation": "Cultural and Educational Rights protect the heritage and education of minorities.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q14",
+      "text": "Which right was called the 'Heart and Soul' of the Constitution by Dr. Ambedkar?",
+      "options": ["Right to Equality", "Right to Freedom", "Right to Constitutional Remedies", "Right to Property"],
+      "correctIndex": 2,
+      "explanation": "This right allows citizens to move the court if any other fundamental right is violated.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q15",
+      "text": "Writs are:",
+      "options": ["Legal stories", "Written orders issued by the Supreme Court or High Courts", "Lists of voters", "New laws"],
+      "correctIndex": 1,
+      "explanation": "Courts issue writs to enforce fundamental rights.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q16",
+      "text": "NHRC stands for:",
+      "options": ["National Health Research Council", "National Human Rights Commission", "New Human Resource Center", "National Home Rights Committee"],
+      "correctIndex": 1,
+      "explanation": "The NHRC is an independent body set up in 1993 to protect human rights in India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q17",
+      "text": "Human rights are:",
+      "options": ["Rights only for Indians", "Universal rights for all human beings", "Rights for politicians", "Rights to get money from the state"],
+      "correctIndex": 1,
+      "explanation": "Human rights are inherent to all human beings, regardless of nationality or status.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q18",
+      "text": "Which of these is NOT a Fundamental Right?",
+      "options": ["Right to Equality", "Right to Property", "Right to Freedom", "Right to Freedom of Religion"],
+      "correctIndex": 1,
+      "explanation": "The Right to Property was removed from the list of Fundamental Rights in 1978.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q19",
+      "text": "The Right to Information (RTI) is an example of:",
+      "options": ["Expanding the scope of rights", "Restricting rights", "A religious right", "A military law"],
+      "correctIndex": 0,
+      "explanation": "RTI was enacted to make government more transparent and accountable.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q20",
+      "text": "Which right was added by the Parliament recently to make basic education a fundamental right?",
+      "options": ["Right to Work", "Right to Education (RTE)", "Right to Health", "Right to Internet"],
+      "correctIndex": 1,
+      "explanation": "Every child has a right to get free and compulsory elementary education.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q21",
+      "text": "In a democracy, rights are necessary for:",
+      "options": ["Protecting minorities from the oppression of majority", "Smooth functioning of elections", "Expressing opinions", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Rights act as a safeguard for all citizens and ensure a truly democratic life.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q22",
+      "text": "What happens when someone's rights are violated by the government?",
+      "options": ["They must accept it", "They can approach the High Court or Supreme Court", "They must leave the country", "Nothing can be done"],
+      "correctIndex": 1,
+      "explanation": "The judiciary is the guardian of fundamental rights.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q23",
+      "text": "Fundamental Rights are ________.",
+      "options": ["Temporary", "Justiciable", "Non-legal", "Secret"],
+      "correctIndex": 1,
+      "explanation": "Justiciable means they can be enforced by the courts.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c5_q24",
+      "text": "Traffic in human beings means:",
+      "options": ["Cars on the road", "Selling and buying of human beings", "Crowded markets", "Immigration"],
+      "correctIndex": 1,
+      "explanation": "This is a form of exploitation prohibited by the Constitution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q25",
+      "text": "Who appoints the commissioners of the NHRC?",
+      "options": ["The President", "The Chief Justice", "The Prime Minister", "The Army Chief"],
+      "correctIndex": 0,
+      "explanation": "The President appoints them, usually retired judges or experts.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_c5_q26",
+      "text": "South Africa's new Constitution gives citizens the right to:",
+      "options": ["Privacy", "Healthy environment", "Adequate housing", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "The South African Bill of Rights is very comprehensive.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c5_q27",
+      "text": "Fundamental rights can be suspended during ________.",
+      "options": ["Elections", "National Emergency", "Monsoon", "Diwali"],
+      "correctIndex": 1,
+      "explanation": "Under certain circumstances, the government can restrict rights for national security.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q28",
+      "text": "A 'Minority' in the constitutional sense is based on:",
+      "options": ["Religion", "Language", "Both A and B", "Wealth"],
+      "correctIndex": 2,
+      "explanation": "Constitutional protections apply to both religious and linguistic minorities.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c5_q29",
+      "text": "Which of these is a restriction on the Right to Freedom of Speech?",
+      "options": ["One cannot instigate people to violence", "One cannot defame others", "One cannot use it to start a war", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Rights are not absolute and come with reasonable restrictions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q30",
+      "text": "The Saudi Arabian government is a ________.",
+      "options": ["Democracy", "Hereditary Monarchy", "Dictatorship", "Republic"],
+      "correctIndex": 1,
+      "explanation": "The King has absolute power and citizens have limited rights.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c5_q31",
+      "text": "In India, even the ________ has to follow the law of the land.",
+      "options": ["Poor", "Rich", "Prime Minister", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "This is the essence of the Rule of Law.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q32",
+      "text": "Secularism in India means:",
+      "options": ["The state is against religion", "The state is neutral in religious matters", "The state promotes the majority religion", "Religion is compulsory"],
+      "correctIndex": 1,
+      "explanation": "The state does not privilege any one religion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q33",
+      "text": "The scope of rights is ________ over time.",
+      "options": ["Decreasing", "Expanding", "Fixed", "Unimportant"],
+      "correctIndex": 1,
+      "explanation": "New rights like Right to Privacy or Right to Clean Water are being recognized by courts.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c5_q34",
+      "text": "Fundamental rights are part of which section of the Constitution?",
+      "options": ["Part I", "Part III", "Part IV", "Preamble"],
+      "correctIndex": 1,
+      "explanation": "Part III of the Indian Constitution contains the list of Fundamental Rights.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q35",
+      "text": "What is the primary function of the NHRC?",
+      "options": ["To make laws", "To conduct inquiry into human rights violations", "To arrest criminals", "To run schools"],
+      "correctIndex": 1,
+      "explanation": "It investigates complaints and makes recommendations to the government.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c5_q36",
+      "text": "Right to Constitutional Remedies is a ________ right.",
+      "options": ["Basic", "Fundamental", "Political", "Civil"],
+      "correctIndex": 1,
+      "explanation": "It is the sixth fundamental right.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q37",
+      "text": "In Kosovo, Albanians were ________ of the total population.",
+      "options": ["The majority", "The minority", "Half", "Zero"],
+      "correctIndex": 0,
+      "explanation": "Despite being the majority in Kosovo, they were targeted by the Serb-dominated Yugoslav government.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_c5_q38",
+      "text": "The prisoners in Guantanamo Bay were not given:",
+      "options": ["Trial in a court", "Right to see a lawyer", "Reason for arrest", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "This was a clear violation of international laws.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_c5_q39",
+      "text": "Citizens' rights in a democracy are a check on ________.",
+      "options": ["The People", "The Government", "The Foreigners", "The Children"],
+      "correctIndex": 1,
+      "explanation": "Rights prevent the government from becoming tyrannical.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_c5_q40",
+      "text": "Freedom of movement means citizens can ________.",
+      "options": ["Go anywhere within the country", "Enter any house without permission", "Travel without a ticket", "Cross international borders without a visa"],
+      "correctIndex": 0,
+      "explanation": "Indian citizens have the right to move freely throughout the territory of India.",
+      "frequencyRating": 5
+    }
+  ]
+}

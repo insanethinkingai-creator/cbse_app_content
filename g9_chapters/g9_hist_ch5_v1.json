@@ -1,0 +1,330 @@
+{
+  "id": "g9_hist_ch5",
+  "grade": "9",
+  "subject": "History",
+  "number": "5",
+  "title": "Pastoralists in the Modern World",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_h5_q1",
+      "text": "Who are the Gujjar Bakarwals of Jammu and Kashmir?",
+      "options": ["Farmers", "Fishermen", "Herders of goat and sheep", "Traders"],
+      "correctIndex": 2,
+      "explanation": "They are a pastoral community who move between their summer and winter grazing grounds.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h5_q2",
+      "text": "Where do the Gujjar Bakarwals spend their winters?",
+      "options": ["High mountains", "Low hills of Siwalik range", "Deserts", "Coastal areas"],
+      "correctIndex": 1,
+      "explanation": "In winter, when the high mountains are covered with snow, they live with their herds in the low hills.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h5_q3",
+      "text": "The Gaddi shepherds belong to which state?",
+      "options": ["Jammu and Kashmir", "Himachal Pradesh", "Rajasthan", "Gujarat"],
+      "correctIndex": 1,
+      "explanation": "Gaddis are a pastoral community from Himachal Pradesh.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h5_q4",
+      "text": "What is a 'Bugyal'?",
+      "options": ["A desert", "Vast meadows in the high mountains", "A type of sheep", "A local language"],
+      "correctIndex": 1,
+      "explanation": "Bugyals are high-altitude summer grasslands in the Himalayas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h5_q5",
+      "text": "Which community is an important pastoral community of Maharashtra?",
+      "options": ["Dhangars", "Golas", "Kurumas", "Bhotiyas"],
+      "correctIndex": 0,
+      "explanation": "Dhangars stay in the semi-arid central plateau of Maharashtra during the monsoon.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h5_q6",
+      "text": "During the monsoon, the central plateau of Maharashtra serves as a grazing ground for Dhangars because:",
+      "options": ["It gets heavy rainfall", "It is semi-arid and covered with poor grass", "It is very cold", "There are many forests"],
+      "correctIndex": 1,
+      "explanation": "The semi-arid nature prevents heavy cultivation, providing vast space for sheep.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h5_q7",
+      "text": "The Konkani peasants welcomed Dhangars because the sheep:",
+      "options": ["Were beautiful", "Manured the fields and ate the stubble", "Gave them milk", "Protected the village"],
+      "correctIndex": 1,
+      "explanation": "Sheep droppings provide rich manure for the fields after the kharif harvest.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h5_q8",
+      "text": "The Gollas, Kurumas and Kurubas of Karnataka and Andhra Pradesh reared:",
+      "options": ["Only sheep", "Cattle, sheep and goats", "Camels", "Horses"],
+      "correctIndex": 1,
+      "explanation": "Gollas herded cattle, while Kurumas and Kurubas reared sheep and goats.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h5_q9",
+      "text": "The Banjaras are found in which states of India?",
+      "options": ["UP and Punjab", "Rajasthan and Maharashtra", "Madhya Pradesh", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Banjaras were a well-known group of graziers found across several North and Central Indian states.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h5_q10",
+      "text": "The Raikas of Rajasthan combined pastoralism with:",
+      "options": ["Fishing", "Cultivation", "Mining", "Industry"],
+      "correctIndex": 1,
+      "explanation": "During the monsoons, the Raikas stayed in their home villages where they cultivated land.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h5_q11",
+      "text": "What happened to pastoral grazing lands under colonial rule?",
+      "options": ["They increased", "They were converted into cultivated farms", "They were protected", "Nothing happened"],
+      "correctIndex": 1,
+      "explanation": "Colonial officials wanted to expand cultivation to increase land revenue and commercial crop production.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h5_q12",
+      "text": "Under the 'Waste Land Rules', uncultivated lands were seen as:",
+      "options": ["Sacred", "Unproductive and a loss of revenue", "Parks", "Forests"],
+      "correctIndex": 1,
+      "explanation": "The British saw uncultivated land as 'waste' because it produced neither revenue nor crops.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h5_q13",
+      "text": "The Forest Acts of the 19th century classified forests into:",
+      "options": ["Reserved and Protected", "Open and Closed", "Private and Public", "National and State"],
+      "correctIndex": 0,
+      "explanation": "Reserved forests were totally closed to pastoralists, while in Protected forests, they needed permits.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h5_q14",
+      "text": "The 'Criminal Tribes Act' of 1871 targeted:",
+      "options": ["Criminals", "Communities of craftsmen, traders and pastoralists", "British officers", "Urban workers"],
+      "correctIndex": 1,
+      "explanation": "The British were suspicious of nomadic people and classified many such communities as 'Criminal Tribes' by birth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h5_q15",
+      "text": "To expand its revenue, the colonial government imposed tax on:",
+      "options": ["Land and Water", "Salt", "Animals (Grazing Tax)", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Taxes were imposed on almost everything, including every animal a pastoralist took to the forest.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h5_q16",
+      "text": "Between the 1850s and 1880s, the right to collect grazing tax was auctioned to:",
+      "options": ["Pastoralists", "Village heads", "Contractors", "Forest guards"],
+      "correctIndex": 2,
+      "explanation": "Contractors tried to extract the highest possible tax to recover the money they paid the state.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h5_q17",
+      "text": "How did pastoralists react when grazing lands shrank?",
+      "options": ["Reduced the number of cattle", "Discovered new grazing grounds", "Changed their routes", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "They adapted to the new restrictions by changing their lifestyles and migration patterns.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h5_q18",
+      "text": "In 1947, the Raikas could no longer move into ______ because of the new political boundary.",
+      "options": ["Punjab", "Sindh (Pakistan)", "Haryana", "Gujarat"],
+      "correctIndex": 1,
+      "explanation": "The partition of India cut off traditional grazing routes for many pastoralists.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h5_q19",
+      "text": "Where do over half of the world's pastoral population live?",
+      "options": ["Asia", "Africa", "South America", "Europe"],
+      "correctIndex": 1,
+      "explanation": "Over 22 million people in Africa depend on some form of pastoral activity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h5_q20",
+      "text": "Which of these is an African pastoral community?",
+      "options": ["Maasai", "Somali", "Borana and Turkana", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Africa has a diverse range of pastoral communities living in varied environments.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h5_q21",
+      "text": "Before colonial rule, Maasailand stretched from north Kenya to the steppes of:",
+      "options": ["Sudan", "Tanzania", "Ethiopia", "Egypt"],
+      "correctIndex": 1,
+      "explanation": "The Maasai lived in a vast area in East Africa.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h5_q22",
+      "text": "In 1885, Maasailand was cut in half by an international boundary between:",
+      "options": ["Britain and France", "Britain and Germany", "Germany and Italy", "France and Portugal"],
+      "correctIndex": 1,
+      "explanation": "British Kenya and German Tanganyika (now Tanzania) divided the territory.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h5_q23",
+      "text": "What happened to the best grazing lands of the Maasai?",
+      "options": ["They were protected", "They were taken over for white settlement", "They became deserts", "They were given to other tribes"],
+      "correctIndex": 1,
+      "explanation": "The most fertile lands were cleared for European settlers, leaving Maasai with dry, poor land.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h5_q24",
+      "text": "Maasai Mara and Samburu National Park in Kenya were created from:",
+      "options": ["Deserts", "Maasai grazing lands", "Old cities", "Swamps"],
+      "correctIndex": 1,
+      "explanation": "Large areas of grazing land were converted into game reserves where pastoralists were not allowed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h5_q25",
+      "text": "In Maasai society, who formed the ruling council and met to decide on tribal affairs?",
+      "options": ["Warriors", "Elders", "Women", "Children"],
+      "correctIndex": 1,
+      "explanation": "Elders decided on affairs and settled disputes within the community.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h5_q26",
+      "text": "The main role of 'Warriors' in Maasai society was to:",
+      "options": ["Farm", "Protect the tribe and raid cattle", "Trade", "Cook"],
+      "correctIndex": 1,
+      "explanation": "Warriors proved their manhood by raiding cattle from other groups and defending their own.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h5_q27",
+      "text": "The British appointed 'chiefs' in Maasai society, which led to:",
+      "options": ["Equality", "Wealth for the chiefs and loss of power for elders/warriors", "Peace for everyone", "End of pastoralism"],
+      "correctIndex": 1,
+      "explanation": "Chiefs accumulated wealth through trade and land, while poor pastoralists suffered.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h5_q28",
+      "text": "Pastoralists are often seen as 'backward' by modern states, but they are actually ______ to their environment.",
+      "options": ["Harmful", "Well-adapted", "Unknown", "A burden"],
+      "correctIndex": 1,
+      "explanation": "Pastoral nomadism is a sustainable way of living in dry and mountainous regions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h5_q29",
+      "text": "Which season is particularly difficult for pastoralists?",
+      "options": ["Spring", "Monsoon", "Drought", "Harvest"],
+      "correctIndex": 2,
+      "explanation": "Drought kills animals and dries up grazing land, forcing large-scale migration or loss of stock.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h5_q30",
+      "text": "The word 'Maasai' is derived from 'Maa' which means:",
+      "options": ["Cattle", "My people", "Grass", "Sky"],
+      "correctIndex": 1,
+      "explanation": "Maa-sai means 'My People'.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_h5_q31",
+      "text": "What is 'stubble'?",
+      "options": ["A type of grain", "Lower ends of grain stalks left in the ground after harvest", "A fence", "A tool"],
+      "correctIndex": 1,
+      "explanation": "Sheep feed on this stubble, which helps in clearing the field for the next crop.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_h5_q32",
+      "text": "The dry season for Maasai meant they had to move to ______ regions.",
+      "options": ["Wetter", "Even drier", "Coastal", "Urban"],
+      "correctIndex": 0,
+      "explanation": "They traditionally moved to better-watered areas during dry spells.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h5_q33",
+      "text": "Nomadic people are those who:",
+      "options": ["Live in cities", "Do not live in one place but move from one area to another to earn a living", "Only farm", "Are criminals"],
+      "correctIndex": 1,
+      "explanation": "Movement is the central feature of nomadic life.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h5_q34",
+      "text": "The Bhotiyas and Sherpas are pastoralists found in:",
+      "options": ["Deserts", "The Himalayas", "Coastal plains", "Forests"],
+      "correctIndex": 1,
+      "explanation": "These communities live in the high mountains of the Himalayas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h5_q35",
+      "text": "Kharif harvest usually takes place in:",
+      "options": ["Spring", "September-October", "January", "May"],
+      "correctIndex": 1,
+      "explanation": "Kharif crops are sown with the monsoon and harvested in autumn.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h5_q36",
+      "text": "Rabi crops are harvested in:",
+      "options": ["Spring", "Autumn", "Winter", "Summer"],
+      "correctIndex": 0,
+      "explanation": "Rabi crops are winter crops harvested in the spring.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h5_q37",
+      "text": "Pastoralists in India and Africa today face challenges from:",
+      "options": ["Loss of land", "Climatic changes", "Government policies", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "All these factors put pressure on traditional nomadic lifestyles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h5_q38",
+      "text": "The 'Bhabar' is a dry forested area below the:",
+      "options": ["Desert", "Siwalik mountains", "Ganga", "Ocean"],
+      "correctIndex": 1,
+      "explanation": "Bhabar is the region at the foothills of the Himalayas where many pastoralists spend their winters.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_h5_q39",
+      "text": "Under the British, Raikas who herded camels were known as:",
+      "options": ["Maru Raikas", "Gaddi Raikas", "Dhangar Raikas", "None"],
+      "correctIndex": 0,
+      "explanation": "Maru Raikas specifically herded camels in the Thar desert.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h5_q40",
+      "text": "The mobility of pastoralists allows the ______ to recover.",
+      "options": ["Animals", "Pastures/Grasslands", "Farms", "Roads"],
+      "correctIndex": 1,
+      "explanation": "Moving from one area to another prevents overgrazing and lets the vegetation regrow.",
+      "frequencyRating": 5
+    }
+  ]
+}

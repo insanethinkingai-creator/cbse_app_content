@@ -1,0 +1,330 @@
+{
+  "id": "g9_sci_ch9",
+  "grade": "9",
+  "subject": "Science",
+  "number": "9",
+  "title": "Gravitation",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_s9_q1",
+      "text": "The value of the universal gravitational constant (G) was first found by:",
+      "options": ["Newton", "Galileo", "Henry Cavendish", "Einstein"],
+      "correctIndex": 2,
+      "explanation": "Henry Cavendish used a sensitive torsion balance to determine the value of G.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_s9_q2",
+      "text": "The acceleration due to gravity (g) on Earth is approximately:",
+      "options": ["9.8 m/s²", "6.67 m/s²", "1.6 m/s²", "10.8 m/s²"],
+      "correctIndex": 0,
+      "explanation": "Standard gravity on Earth's surface is 9.8 m/s².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q3",
+      "text": "If the distance between two objects is doubled, the gravitational force becomes:",
+      "options": ["Double", "Half", "One-fourth", "Four times"],
+      "correctIndex": 2,
+      "explanation": "Force is inversely proportional to the square of distance (1/d²). Doubling distance makes it 1/4th.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q4",
+      "text": "The weight of an object on the Moon is about ________ its weight on Earth.",
+      "options": ["1/2", "1/4", "1/6", "1/10"],
+      "correctIndex": 2,
+      "explanation": "Gravity on the Moon is roughly 1/6th of Earth's gravity.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q5",
+      "text": "Which of the following remains constant everywhere in the universe?",
+      "options": ["Weight", "Mass", "Acceleration due to gravity", "Atmospheric pressure"],
+      "correctIndex": 1,
+      "explanation": "Mass is the quantity of matter and does not change with location, unlike weight.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q6",
+      "text": "The force of attraction between any two objects in the universe is called:",
+      "options": ["Magnetic force", "Gravitational force", "Friction", "Electrostatic force"],
+      "correctIndex": 1,
+      "explanation": "Universal law of gravitation states every object attracts every other object.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q7",
+      "text": "The value of 'g' is maximum at:",
+      "options": ["The Equator", "The Poles", "Center of the Earth", "Mount Everest"],
+      "correctIndex": 1,
+      "explanation": "Earth is flattened at poles, so radius is less and 'g' is slightly higher at poles.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s9_q8",
+      "text": "When an object is in 'free fall', its acceleration is:",
+      "options": ["Variable", "Zero", "Constant (g)", "Dependent on mass"],
+      "correctIndex": 2,
+      "explanation": "All objects in free fall accelerate at 9.8 m/s² regardless of their mass.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q9",
+      "text": "What is the SI unit of the Universal Gravitational Constant (G)?",
+      "options": ["m/s²", "N m²/kg²", "N kg²/m²", "kg m/s²"],
+      "correctIndex": 1,
+      "explanation": "Derived from F = G m1m2 / d².",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s9_q10",
+      "text": "A stone is dropped from a tower. Its velocity after 2 seconds will be:",
+      "options": ["9.8 m/s", "19.6 m/s", "4.9 m/s", "0 m/s"],
+      "correctIndex": 1,
+      "explanation": "v = u + gt = 0 + (9.8 * 2) = 19.6 m/s.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s9_q11",
+      "text": "The value of Universal Gravitational Constant (G) is:",
+      "options": ["9.8 m/s²", "6.673 x 10⁻¹¹ N m²/kg²", "6.673 x 10¹¹ N m²/kg²", "1.6 x 10⁻¹⁹ C"],
+      "correctIndex": 1,
+      "explanation": "This is a fundamental constant valid throughout the universe.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q12",
+      "text": "The weight of an object at the center of the Earth is:",
+      "options": ["Infinite", "Zero", "Same as surface", "Maximum"],
+      "correctIndex": 1,
+      "explanation": "At the center, the gravitational pull from all directions cancels out, so g = 0 and W = 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q13",
+      "text": "Gravitational force is always ________ in nature.",
+      "options": ["Repulsive", "Attractive", "Neutral", "Variable"],
+      "correctIndex": 1,
+      "explanation": "Gravity only pulls objects together; it never pushes them apart.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q14",
+      "text": "Thrust per unit area is called:",
+      "options": ["Force", "Density", "Pressure", "Work"],
+      "correctIndex": 2,
+      "explanation": "Pressure = Thrust / Area. SI unit is Pascal (Pa).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q15",
+      "text": "Why do iron nails have pointed tips?",
+      "options": ["To increase pressure", "To decrease pressure", "To increase force", "To look sharp"],
+      "correctIndex": 0,
+      "explanation": "A smaller area results in higher pressure for the same applied force.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s9_q16",
+      "text": "The upward force exerted by a fluid on an object immersed in it is:",
+      "options": ["Gravity", "Buoyancy", "Friction", "Centripetal force"],
+      "correctIndex": 1,
+      "explanation": "Buoyant force acts against gravity for objects in liquids or gases.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q17",
+      "text": "Archimedes' Principle states that buoyant force is equal to:",
+      "options": ["Weight of the object", "Mass of the object", "Weight of fluid displaced", "Density of fluid"],
+      "correctIndex": 2,
+      "explanation": "This principle explains why some objects float and others sink.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q18",
+      "text": "Relative density has ________ unit.",
+      "options": ["kg/m³", "g/cm³", "No", "N/m²"],
+      "correctIndex": 2,
+      "explanation": "It is a ratio of two similar quantities (density of substance / density of water).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q19",
+      "text": "An object sinks in a liquid if its density is:",
+      "options": ["Less than liquid", "More than liquid", "Equal to liquid", "Zero"],
+      "correctIndex": 1,
+      "explanation": "If the object's weight is more than the buoyant force (displaced fluid weight), it sinks.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q20",
+      "text": "The mass of Earth is approximately:",
+      "options": ["6 x 10²⁴ kg", "6 x 10²⁴ g", "7.4 x 10²² kg", "6 x 10¹⁰ kg"],
+      "correctIndex": 0,
+      "explanation": "Calculated using the gravitational law and known values of g, G, and R.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_s9_q21",
+      "text": "If a body is thrown upwards, the value of 'g' is taken as:",
+      "options": ["Positive", "Negative", "Zero", "Constant"],
+      "correctIndex": 1,
+      "explanation": "Gravity acts downwards, so for upward motion, it is considered -9.8 m/s² (retardation).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q22",
+      "text": "The distance between Earth and Sun is increased by 4 times. Gravitational force will:",
+      "options": ["Increase 4 times", "Decrease 4 times", "Decrease 16 times", "Stay same"],
+      "correctIndex": 2,
+      "explanation": "Force ∝ 1/d². If d becomes 4d, force becomes 1/16th.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s9_q23",
+      "text": "Why do camels walk easily on sand?",
+      "options": ["Small feet, high pressure", "Large feet, low pressure", "Heavy weight", "Fast speed"],
+      "correctIndex": 1,
+      "explanation": "Broad feet distribute weight over a larger area, reducing pressure on sand.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q24",
+      "text": "Relation between mass (m) and weight (W) is:",
+      "options": ["W = m", "W = mg", "m = Wg", "W = m/g"],
+      "correctIndex": 1,
+      "explanation": "Weight is the force with which Earth attracts an object.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q25",
+      "text": "In a vacuum, a feather and a coin dropped together will:",
+      "options": ["Coin falls first", "Feather falls first", "Fall together", "Float"],
+      "correctIndex": 2,
+      "explanation": "In absence of air resistance, all objects accelerate at the same rate 'g'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q26",
+      "text": "The density of water is:",
+      "options": ["100 kg/m³", "1000 kg/m³", "10 kg/m³", "1 kg/m³"],
+      "correctIndex": 1,
+      "explanation": "At 4°C, water has a density of 1000 kg/m³ or 1 g/cm³.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q27",
+      "text": "The force of gravitation keeps ________.",
+      "options": ["Atmosphere to Earth", "Planets in orbits", "Moon around Earth", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Gravity is the primary force governing celestial and terrestrial mechanics.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q28",
+      "text": "An object's weight on Earth is 60N. Its weight on Moon is:",
+      "options": ["60N", "360N", "10N", "0N"],
+      "correctIndex": 2,
+      "explanation": "W_moon = 1/6 * W_earth = 1/6 * 60 = 10N.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q29",
+      "text": "Pressure exerted by a liquid increases with ________.",
+      "options": ["Depth", "Area", "Color", "Volume"],
+      "correctIndex": 0,
+      "explanation": "Liquid pressure depends on density, gravity, and depth (P = hρg).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q30",
+      "text": "Lactometers work on the principle of:",
+      "options": ["Pascal's Law", "Archimedes' Principle", "Newton's Law", "Hooke's Law"],
+      "correctIndex": 1,
+      "explanation": "Lactometers determine the purity of milk based on its density.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s9_q31",
+      "text": "Universal Law of Gravitation was given by:",
+      "options": ["Galileo", "Einstein", "Newton", "Kepler"],
+      "correctIndex": 2,
+      "explanation": "Isaac Newton formulated the mathematical law of attraction between masses.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q32",
+      "text": "What is the unit of relative density?",
+      "options": ["No unit", "kg/m³", "N/m²", "kg/m²"],
+      "correctIndex": 0,
+      "explanation": "Relative density is a pure ratio.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q33",
+      "text": "Acceleration due to gravity ________ as we go deeper into Earth.",
+      "options": ["Increases", "Decreases", "Stays same", "Becomes negative"],
+      "correctIndex": 1,
+      "explanation": "The effective mass of Earth pulling the object decreases as depth increases.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s9_q34",
+      "text": "If initial velocity is zero, distance 's' in free fall is:",
+      "options": ["gt", "gt²", "½ gt²", "2gt"],
+      "correctIndex": 2,
+      "explanation": "From s = ut + ½ at², since u=0 and a=g, s = ½ gt².",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s9_q35",
+      "text": "Weight is a ________ quantity.",
+      "options": ["Scalar", "Vector", "Fixed", "Universal"],
+      "correctIndex": 1,
+      "explanation": "Weight is a force and always acts towards the center of Earth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q36",
+      "text": "Why do school bags have wide straps?",
+      "options": ["For fashion", "To reduce pressure on shoulder", "To increase weight", "To be stronger"],
+      "correctIndex": 1,
+      "explanation": "Wider straps increase area, thereby decreasing pressure (Force/Area).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q37",
+      "text": "Ships float on water due to:",
+      "options": ["Surface tension", "Buoyant force", "Magnetic force", "Friction"],
+      "correctIndex": 1,
+      "explanation": "The weight of the water displaced by the ship equals the weight of the ship.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q38",
+      "text": "Mass of an object on Earth is 10kg. Its mass on Moon will be:",
+      "options": ["10kg", "1.6kg", "60kg", "0kg"],
+      "correctIndex": 0,
+      "explanation": "Mass is constant everywhere; only weight changes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q39",
+      "text": "Density is defined as ________.",
+      "options": ["Weight/Volume", "Mass/Area", "Mass/Volume", "Thrust/Area"],
+      "correctIndex": 2,
+      "explanation": "Density (ρ) = Mass (m) / Volume (V).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s9_q40",
+      "text": "The SI unit of Pressure is named after:",
+      "options": ["Newton", "Pascal", "Joule", "Watt"],
+      "correctIndex": 1,
+      "explanation": "Named after Blaise Pascal for his work in hydrodynamics.",
+      "frequencyRating": 4
+    }
+  ]
+}

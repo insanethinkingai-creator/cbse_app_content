@@ -1,0 +1,331 @@
+{
+  "id": "g9_eng_ch6",
+  "grade": "9",
+  "subject": "English",
+  "number": "6",
+  "title": "My Childhood",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_e6_q1",
+      "text": "Whose childhood is described in this chapter?",
+      "options": ["Albert Einstein", "A.P.J. Abdul Kalam", "Mahatma Gandhi", "Jawaharlal Nehru"],
+      "correctIndex": 1,
+      "explanation": "The chapter is an extract from A.P.J. Abdul Kalam's autobiography, 'Wings of Fire'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e6_q2",
+      "text": "Where was Kalam born?",
+      "options": ["Madurai", "Rameswaram", "Chennai", "Kochi"],
+      "correctIndex": 1,
+      "explanation": "He was born into a middle-class Tamil family in the island town of Rameswaram.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e6_q3",
+      "text": "What was Kalam's father's name?",
+      "options": ["Jainulabdeen", "Ashiamma", "Ahmed", "Samsuddin"],
+      "correctIndex": 0,
+      "explanation": "Jainulabdeen was Kalam's father, whom he describes as a man of great innate wisdom.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e6_q4",
+      "text": "What did Kalam's father possess, despite lacking formal education and wealth?",
+      "options": ["Great innate wisdom and true generosity of spirit", "Land and property", "Many books", "A political position"],
+      "correctIndex": 0,
+      "explanation": "Kalam credits his parents for his values of honesty and self-discipline.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e6_q5",
+      "text": "What did Kalam collect during the Second World War to earn money?",
+      "options": ["Newspapers", "Tamarind seeds", "Iron scraps", "Old coins"],
+      "correctIndex": 1,
+      "explanation": "There was a sudden demand for tamarind seeds in the market in 1939.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e6_q6",
+      "text": "Who was Samsuddin to Kalam?",
+      "options": ["His brother", "His cousin", "His teacher", "His father's friend"],
+      "correctIndex": 1,
+      "explanation": "Samsuddin was his cousin who distributed newspapers in Rameswaram.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e6_q7",
+      "text": "How did Kalam help Samsuddin earn his first wages?",
+      "options": ["By selling seeds", "By catching newspaper bundles thrown from a moving train", "By writing articles", "By delivering milk"],
+      "correctIndex": 1,
+      "explanation": "When the train halt at Rameswaram was suspended, bundles had to be thrown from the moving train.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e6_q8",
+      "text": "What did Kalam inherit from his father?",
+      "options": ["Faith in goodness", "Honesty and self-discipline", "Kindness", "Love for science"],
+      "correctIndex": 1,
+      "explanation": "He says he inherited honesty and self-discipline from his father.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e6_q9",
+      "text": "Who were Kalam's three close friends in school?",
+      "options": ["Ramanadha Sastry, Aravindan and Sivaprakasan", "Samsuddin, Ahmed and Ali", "Ram, Shyam and Hari", "Ravi, Som and Prakash"],
+      "correctIndex": 0,
+      "explanation": "All three were from orthodox Hindu Brahmin families.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e6_q10",
+      "text": "What did the new teacher at the elementary school tell Kalam to do?",
+      "options": ["To stand up", "To go and sit on the back bench", "To leave the school", "To read louder"],
+      "correctIndex": 1,
+      "explanation": "The teacher could not stomach a Hindu priest’s son sitting with a Muslim boy.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e6_q11",
+      "text": "Who was Ramanadha Sastry's father?",
+      "options": ["A teacher", "Lakshmana Sastry, the high priest of the Rameswaram temple", "A businessman", "A doctor"],
+      "correctIndex": 1,
+      "explanation": "He was a very influential person in Rameswaram.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e6_q12",
+      "text": "What did Lakshmana Sastry tell the new teacher?",
+      "options": ["To apologize or leave the school", "To give Kalam a scholarship", "To teach better", "To ignore the boys"],
+      "correctIndex": 0,
+      "explanation": "He told the teacher not to spread the poison of social inequality and religious intolerance.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e6_q13",
+      "text": "Who was Sivasubramania Iyer?",
+      "options": ["Kalam's father", "His science teacher", "A priest", "The headmaster"],
+      "correctIndex": 1,
+      "explanation": "He was an orthodox Brahmin who tried to break social barriers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e6_q14",
+      "text": "What happened the first time Kalam was invited to Sivasubramania Iyer's house for dinner?",
+      "options": ["They had a great party", "Iyer's wife refused to serve Kalam in her kitchen", "The teacher scolded him", "The house was locked"],
+      "correctIndex": 1,
+      "explanation": "She was horrified at the idea of a Muslim boy being invited to dine in her ritually pure kitchen.",
+      "explanation": "She was horrified at the idea of a Muslim boy being invited to dine in her ritually pure kitchen.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e6_q15",
+      "text": "What did the science teacher do when his wife refused to serve Kalam?",
+      "options": ["He got angry", "He served Kalam with his own hands and sat down beside him", "He asked Kalam to leave", "He cooked another meal"],
+      "correctIndex": 1,
+      "explanation": "He was not perturbed and set an example for his wife.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e6_q16",
+      "text": "What change did Kalam see when he visited the teacher's house the second time?",
+      "options": ["The wife ignored him", "The wife took him inside her kitchen and served him food", "The house was decorated", "A new teacher was there"],
+      "correctIndex": 1,
+      "explanation": "She had observed Kalam's behavior and changed her mind.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e6_q17",
+      "text": "Why did Kalam want to leave Rameswaram?",
+      "options": ["He hated the town", "To study at the district headquarters in Ramanathapuram", "To find a job", "Because of the war"],
+      "correctIndex": 1,
+      "explanation": "He wanted to pursue higher education.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e6_q18",
+      "text": "What did Kalam's father say about him leaving home?",
+      "options": ["He refused", "He said a seagull flies across the sun alone and without a nest", "He cried", "He asked him to stay and farm"],
+      "correctIndex": 1,
+      "explanation": "He used the analogy of the seagull to explain that children must grow and find their own path.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e6_q19",
+      "text": "Kalam's family used to arrange boats with a special platform for carrying ________.",
+      "options": ["Fish", "Newspapers", "Idols of the Lord from the temple to the marriage site", "Soldiers"],
+      "correctIndex": 2,
+      "explanation": "This shows the communal harmony in Rameswaram during his childhood.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e6_q20",
+      "text": "What did Kalam's mother and grandmother tell the children at bedtime?",
+      "options": ["Stories of wars", "Stories from the Ramayana and the life of the Prophet", "Fairy tales", "Ghost stories"],
+      "correctIndex": 1,
+      "explanation": "They told stories from both religions, showing a secular upbringing.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e6_q21",
+      "text": "Kalam was a ________ child.",
+      "options": ["Tall and handsome", "Short boy with rather undistinguished looks", "Very athletic", "Rich"],
+      "correctIndex": 1,
+      "explanation": "He contrasts his looks with his 'tall and handsome' parents.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e6_q22",
+      "text": "Their ancestral house was built in the middle of the ________ century.",
+      "options": ["18th", "19th", "20th", "17th"],
+      "correctIndex": 1,
+      "explanation": "The house was built in the middle of the 19th century.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e6_q23",
+      "text": "Where was the 'pucca' house made of limestone and brick located?",
+      "options": ["Temple Street", "Mosque Street", "Market Road", "Near the beach"],
+      "correctIndex": 1,
+      "explanation": "The house was on the Mosque Street in Rameswaram.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e6_q24",
+      "text": "What did Kalam's father avoid?",
+      "options": ["Hard work", "Inessential comforts and luxuries", "Prayers", "Education"],
+      "correctIndex": 1,
+      "explanation": "He lived a simple and austere life.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e6_q25",
+      "text": "The news of the Second World War was followed by Kalam through the headlines in:",
+      "options": ["The Hindu", "Dinamani", "The Times", "Samsuddin's diary"],
+      "correctIndex": 1,
+      "explanation": "Dinamani was the local newspaper.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e6_q26",
+      "text": "India was forced to join the ________ during the war.",
+      "options": ["Axis Powers", "Allied Forces", "League of Nations", "U.N."],
+      "correctIndex": 1,
+      "explanation": "India joined the Allied Forces as a British colony.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e6_q27",
+      "text": "What distinguished Kalam as a Muslim boy in school?",
+      "options": ["His clothes", "The cap he wore", "His language", "His books"],
+      "correctIndex": 1,
+      "explanation": "He wore a cap which marked him as a Muslim.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e6_q28",
+      "text": "Ramanadha Sastry took over the priesthood from his father. What did Aravindan do?",
+      "options": ["Became a teacher", "Went into the business of arranging transport for pilgrims", "Became a caterer", "Became a doctor"],
+      "correctIndex": 1,
+      "explanation": "Aravindan moved into the transport business.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e6_q29",
+      "text": "What did Sivaprakasan become in his later life?",
+      "options": ["A priest", "A catering contractor for the Southern Railways", "A pilot", "A scientist"],
+      "correctIndex": 1,
+      "explanation": "The three friends took up different secular and religious professions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e6_q30",
+      "text": "The science teacher said, 'Once you decide to change the system, such ________ have to be confronted.'",
+      "options": ["People", "Problems", "Teachers", "Laws"],
+      "correctIndex": 1,
+      "explanation": "He was teaching Kalam how to deal with social resistance to change.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e6_q31",
+      "text": "What was the name of the place where the idols were carried?",
+      "options": ["Shiva Temple", "Rama Tirtha", "The Beach", "The Mosque"],
+      "correctIndex": 1,
+      "explanation": "It was a pond called Rama Tirtha, near Kalam's house.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e6_q32",
+      "text": "Kalam's father told his mother that her children were the sons and daughters of:",
+      "options": ["The Nation", "Life’s longing for itself", "The Almighty", "The Future"],
+      "correctIndex": 1,
+      "explanation": "He quoted Khalil Gibran to comfort her about the children leaving home.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e6_q33",
+      "text": "How much money did Kalam earn for selling tamarind seeds for a day?",
+      "options": ["One rupee", "One anna", "Ten rupees", "Five annas"],
+      "correctIndex": 1,
+      "explanation": "A day’s collection would fetch him the 'princely sum of one anna'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e6_q34",
+      "text": "What was the occupation of most people in Rameswaram?",
+      "options": ["Fishing and Pilgrim services", "Factory work", "Software engineering", "Mining"],
+      "correctIndex": 0,
+      "explanation": "It was a holy island town dependent on pilgrims and the sea.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e6_q35",
+      "text": "Kalam describes his childhood as very ________.",
+      "options": ["Difficult", "Secure, both materially and emotionally", "Lonely", "Wealthy"],
+      "correctIndex": 1,
+      "explanation": "He felt he had a very stable and loving upbringing.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e6_q36",
+      "text": "What does 'unperturbed' mean in the context of the science teacher?",
+      "options": ["Angry", "Not worried or upset", "Sad", "Confused"],
+      "correctIndex": 1,
+      "explanation": "He remained calm when his wife refused to serve Kalam.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e6_q37",
+      "text": "Which religious text did Kalam's father read?",
+      "options": ["The Gita", "The Quran", "The Bible", "The Vedas"],
+      "correctIndex": 1,
+      "explanation": "He was a devout Muslim who went to the mosque for evening prayers.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e6_q38",
+      "text": "Who said 'Your children are not your children'?",
+      "options": ["Kalam's father", "Khalil Gibran", "The teacher", "Lakshmana Sastry"],
+      "correctIndex": 1,
+      "explanation": "Kalam's father quoted this famous line from the poet Khalil Gibran.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e6_q39",
+      "text": "What did the teacher's wife do when Kalam visited the second time?",
+      "options": ["She locked the door", "She served him food inside the kitchen", "She called her husband", "She apologized loudly"],
+      "correctIndex": 1,
+      "explanation": "This shows the success of the teacher's effort to change her mindset.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e6_q40",
+      "text": "The story 'My Childhood' highlights the value of:",
+      "options": ["Scientific research", "Communal harmony and breaking social barriers", "Money making", "Travel"],
+      "correctIndex": 1,
+      "explanation": "The various incidents show how different religions lived together peacefully and challenged prejudice.",
+      "frequencyRating": 5
+    }
+  ]
+}

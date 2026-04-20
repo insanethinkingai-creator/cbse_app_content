@@ -1,0 +1,330 @@
+{
+  "id": "g9_hist_ch2",
+  "grade": "9",
+  "subject": "History",
+  "number": "2",
+  "title": "Socialism in Europe and the Russian Revolution",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_h2_q1",
+      "text": "Who were the 'Liberals' in 19th century Europe?",
+      "options": ["Those who wanted to keep the old regime", "Those who wanted a nation which tolerated all religions", "Those who wanted to abolish private property", "Those who supported absolute monarchy"],
+      "correctIndex": 1,
+      "explanation": "Liberals wanted a nation which tolerated all religions and opposed the uncontrolled power of dynastic rulers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h2_q2",
+      "text": "Liberals opposed 'Universal Adult Franchise'. What does this mean?",
+      "options": ["Opposed right to vote for all citizens", "Opposed right to religious freedom", "Opposed private property", "Opposed education"],
+      "correctIndex": 0,
+      "explanation": "Liberals did not believe in universal adult franchise; they felt men of property mainly should have the vote.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h2_q3",
+      "text": "Who wanted a government based on the majority of a country's population?",
+      "options": ["Liberals", "Radicals", "Conservatives", "Monarchists"],
+      "correctIndex": 1,
+      "explanation": "Radicals wanted a nation in which government was based on the majority of a country’s population.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h2_q4",
+      "text": "Which group of people generally opposed both Liberals and Radicals initially?",
+      "options": ["Socialists", "Conservatives", "Workers", "Peasants"],
+      "correctIndex": 1,
+      "explanation": "Conservatives were generally opposed to radicals and liberals, but after the French Revolution, they accepted that some change was inevitable.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h2_q5",
+      "text": "Who sought to build a cooperative community called 'New Harmony' in Indiana (USA)?",
+      "options": ["Karl Marx", "Louis Blanc", "Robert Owen", "Friedrich Engels"],
+      "correctIndex": 2,
+      "explanation": "Robert Owen was a leading English manufacturer who sought to build a cooperative community.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h2_q6",
+      "text": "Karl Marx argued that the profit of capitalists was produced by:",
+      "options": ["Machines", "The state", "Workers", "Management"],
+      "correctIndex": 2,
+      "explanation": "Marx argued that industrial society was 'capitalist' and workers produced the profit which was taken by owners.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h2_q7",
+      "text": "Which international body was formed to coordinate socialist efforts?",
+      "options": ["First International", "Second International", "League of Nations", "United Nations"],
+      "correctIndex": 1,
+      "explanation": "By the 1870s, socialist ideas spread through Europe and an international body called the Second International was formed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h2_q8",
+      "text": "Who ruled Russia in 1914?",
+      "options": ["Tsar Nicholas II", "Tsar Alexander I", "Vladimir Lenin", "Joseph Stalin"],
+      "correctIndex": 0,
+      "explanation": "In 1914, Tsar Nicholas II ruled Russia and its empire.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h2_q9",
+      "text": "What was the main occupation of about 85% of the Russian population in the early 20th century?",
+      "options": ["Industry", "Agriculture", "Trade", "Mining"],
+      "correctIndex": 1,
+      "explanation": "At the beginning of the twentieth century, the vast majority (about 85%) of Russia’s people were agriculturists.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h2_q10",
+      "text": "The Russian Social Democratic Workers Party (RSDWP) followed the ideas of:",
+      "options": ["Robert Owen", "Louis Blanc", "Karl Marx", "Tsar Nicholas II"],
+      "correctIndex": 2,
+      "explanation": "The RSDWP, formed in 1898, followed Marx’s ideas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h2_q11",
+      "text": "Which socialist group believed that peasants were 'natural socialists'?",
+      "options": ["Social Democrats", "Socialist Revolutionary Party", "Liberals", "Bolsheviks"],
+      "correctIndex": 1,
+      "explanation": "The Socialist Revolutionary Party (formed in 1900) believed Russian peasants were natural socialists because of their communal land distribution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h2_q12",
+      "text": "The Bolshevik group was led by:",
+      "options": ["Kerensky", "Vladimir Lenin", "Stalin", "Trotsky"],
+      "correctIndex": 1,
+      "explanation": "Vladimir Lenin led the Bolshevik group and believed the party should be disciplined and control its membership.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h2_q13",
+      "text": "What event triggered the 1905 Revolution in Russia?",
+      "options": ["February Revolution", "Bloody Sunday", "October Revolution", "World War I"],
+      "correctIndex": 1,
+      "explanation": "Bloody Sunday (Jan 1905), where over 100 workers were killed by police at the Winter Palace, started the revolution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h2_q14",
+      "text": "What was the 'Duma'?",
+      "options": ["Russian Army", "An elected consultative Parliament", "A trade union", "A type of secret police"],
+      "correctIndex": 1,
+      "explanation": "During the 1905 Revolution, the Tsar allowed the creation of an elected consultative Parliament or Duma.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h2_q15",
+      "text": "During World War I, Russia fought against:",
+      "options": ["France and Britain", "Germany and Austria", "USA and Japan", "Italy"],
+      "correctIndex": 1,
+      "explanation": "In World War I, Russia was part of the Allies and fought against the Central Powers, including Germany and Austria.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h2_q16",
+      "text": "The 1917 February Revolution led to the abdication of:",
+      "options": ["Lenin", "Tsar Nicholas II", "Stalin", "Kerensky"],
+      "correctIndex": 1,
+      "explanation": "Following the mass protests in Petrograd in February 1917, the Tsar abdicated his throne.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h2_q17",
+      "text": "What were Lenin's three demands in the 'April Theses'?",
+      "options": ["War be ended, land to peasants, banks be nationalised", "War be continued, property to rich, high taxes", "Abolish Duma, exile Tsar, kill clergy", "None of the above"],
+      "correctIndex": 0,
+      "explanation": "Lenin's April Theses demanded ending the war, transferring land to peasants, and nationalising banks.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h2_q18",
+      "text": "Who was the Prime Minister of the Provisional Government after February 1917?",
+      "options": ["Lenin", "Kerensky", "Stalin", "Rasputin"],
+      "correctIndex": 1,
+      "explanation": "Alexander Kerensky was the Prime Minister of the Provisional Government.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h2_q19",
+      "text": "On which date did the Bolshevik uprising (October Revolution) begin?",
+      "options": ["24 October 1917", "25 February 1917", "1 May 1917", "7 November 1917"],
+      "correctIndex": 0,
+      "explanation": "The uprising began on 24 October 1917, and by nightfall, the city of Petrograd was under Bolshevik control.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h2_q20",
+      "text": "After the October Revolution, the Bolshevik Party was renamed as:",
+      "options": ["Russian Social Democratic Party", "Russian Communist Party", "Soviet Union Party", "Radical Party"],
+      "correctIndex": 1,
+      "explanation": "The Bolshevik Party renamed itself the Russian Communist Party (Bolshevik).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h2_q21",
+      "text": "During the Civil War in Russia, the 'Reds' referred to:",
+      "options": ["Tsarist supporters", "Bolsheviks", "Socialist Revolutionaries", "Pro-capitalists"],
+      "correctIndex": 1,
+      "explanation": "The 'Reds' were the Bolsheviks, while 'Greens' were Socialist Revolutionaries and 'Whites' were pro-Tsarists.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h2_q22",
+      "text": "Who introduced the 'Collectivisation' program in Russia?",
+      "options": ["Lenin", "Stalin", "Trotsky", "Marx"],
+      "correctIndex": 1,
+      "explanation": "Stalin introduced the collectivisation program to solve the problem of grain shortages.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h2_q23",
+      "text": "What were 'Kulaks'?",
+      "options": ["Secret police", "Well-to-do peasants", "Bolshevik leaders", "Industrial workers"],
+      "correctIndex": 1,
+      "explanation": "Kulaks were the well-to-do peasants whom Stalin targeted during collectivisation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h2_q24",
+      "text": "The name of the Russian parliament created in 1905 was:",
+      "options": ["Reichstag", "Duma", "Congress", "National Assembly"],
+      "correctIndex": 1,
+      "explanation": "The Duma was the parliament granted by the Tsar after the 1905 Revolution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h2_q25",
+      "text": "Socialists were against:",
+      "options": ["Religious tolerance", "Private property", "Education", "Industrialisation"],
+      "correctIndex": 1,
+      "explanation": "Socialists saw private property as the root of all social ills of the time.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h2_q26",
+      "text": "In the context of Russia, what was 'Petrograd'?",
+      "options": ["A palace", "A new name for St. Petersburg", "A political party", "A labor union"],
+      "correctIndex": 1,
+      "explanation": "During WWI, St. Petersburg (a German name) was renamed Petrograd.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_h2_q27",
+      "text": "The process of central planning in Russia led to:",
+      "options": ["Economic growth", "Industrialization", "Five-Year Plans", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Central planning involved Five-Year Plans that boosted industrial production and economic growth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h2_q28",
+      "text": "Who was the influential monk who advised the Tsarina Alexandra?",
+      "options": ["Lenin", "Rasputin", "Stalin", "Trotsky"],
+      "correctIndex": 1,
+      "explanation": "The monk Rasputin made the autocracy unpopular due to his influence over the royal family.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h2_q29",
+      "text": "Collective farms in Russia were called:",
+      "options": ["Duma", "Kolkhoz", "Soviet", "Kulak"],
+      "correctIndex": 1,
+      "explanation": "Kolkhoz was the name given to collective farms during Stalin's era.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h2_q30",
+      "text": "The main cause of the 1905 revolution was:",
+      "options": ["Russo-Japanese War defeat", "High taxes", "Lack of food", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "A combination of military defeat and economic hardship led to the 1905 uprising.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h2_q31",
+      "text": "When did the Bolsheviks seize the Winter Palace?",
+      "options": ["February 1917", "April 1917", "October 1917", "January 1918"],
+      "correctIndex": 2,
+      "explanation": "The Winter Palace was shelled and seized during the October Revolution in 1917.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h2_q32",
+      "text": "Socialism became a popular idea in Europe by the:",
+      "options": ["Mid-18th century", "Mid-19th century", "Early 20th century", "Late 20th century"],
+      "correctIndex": 1,
+      "explanation": "By the mid-nineteenth century in Europe, socialism was a well-known body of ideas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h2_q33",
+      "text": "What was the 'Comintern'?",
+      "options": ["Russian Army", "International union of pro-Bolshevik socialist parties", "Stalin's secret police", "A type of grain"],
+      "correctIndex": 1,
+      "explanation": "The Comintern was an international organization of pro-Bolshevik socialist parties.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_h2_q34",
+      "text": "Which year was the Soviet Union (USSR) formed?",
+      "options": ["1917", "1922", "1924", "1945"],
+      "correctIndex": 1,
+      "explanation": "The USSR was created by the Bolsheviks from the Russian empire in December 1922.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h2_q35",
+      "text": "Jadidists were ______ reformers within the Russian empire.",
+      "options": ["Christian", "Muslim", "Jewish", "Buddhist"],
+      "correctIndex": 1,
+      "explanation": "Jadidists were Muslim reformers who wanted modernised Islam to lead their societies.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_h2_q36",
+      "text": "Who was the leader of the 'Whites' during the Civil War?",
+      "options": ["Bolsheviks", "Pro-Tsarists", "Socialist Revolutionaries", "Foreign powers"],
+      "correctIndex": 1,
+      "explanation": "The 'Whites' were the pro-Tsarist forces opposed to the Bolshevik revolution.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h2_q37",
+      "text": "The Labour Party in Britain was formed by ______ in 1905.",
+      "options": ["Kings", "Socialists and trade unionists", "Conservatives", "Landlords"],
+      "correctIndex": 1,
+      "explanation": "Socialists and trade unionists formed a Labour Party in Britain and a Socialist Party in France.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_h2_q38",
+      "text": "Tsar Nicholas II dismissed the first Duma within:",
+      "options": ["75 days", "3 months", "One year", "Two years"],
+      "correctIndex": 0,
+      "explanation": "The Tsar dismissed the first Duma within 75 days as he did not want any reduction in his power.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_h2_q39",
+      "text": "The industrial revolution led to:",
+      "options": ["Long working hours", "Poor wages", "Unemployment", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Industrialization brought men, women and children to factories but with poor conditions and low wages.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_h2_q40",
+      "text": "Who wrote 'The Communist Manifesto'?",
+      "options": ["Vladimir Lenin", "Karl Marx and Friedrich Engels", "Joseph Stalin", "Leo Tolstoy"],
+      "correctIndex": 1,
+      "explanation": "Karl Marx and Friedrich Engels were the authors of this seminal work on socialism.",
+      "frequencyRating": 5
+    }
+  ]
+}

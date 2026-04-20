@@ -1,0 +1,330 @@
+{
+  "id": "g9_geo_ch04",
+  "grade": "9",
+  "subject": "Geography",
+  "number": "4",
+  "title": "Climate",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_g4_q1",
+      "text": "Which refers to the sum total of weather conditions and variations over a large area for a long period of time (more than thirty years)?",
+      "options": ["Weather", "Climate", "Season", "Monsoon"],
+      "correctIndex": 1,
+      "explanation": "Climate is the long-term average of weather patterns.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g4_q2",
+      "text": "Weather refers to the state of the ________ at any point of time.",
+      "options": ["Ocean", "Atmosphere", "Earth", "Space"],
+      "correctIndex": 1,
+      "explanation": "Weather describes short-term atmospheric conditions.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g4_q3",
+      "text": "What are the elements of weather and climate?",
+      "options": ["Temperature and Pressure", "Wind and Humidity", "Precipitation", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "The elements include temperature, atmospheric pressure, wind, humidity, and precipitation.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g4_q4",
+      "text": "The word 'Monsoon' is derived from the Arabic word 'mausim', which means:",
+      "options": ["Wind", "Season", "Rain", "Cloud"],
+      "correctIndex": 1,
+      "explanation": "Mausim literally means season.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g4_q5",
+      "text": "Which type of climate does India have?",
+      "options": ["Equatorial", "Mediterranean", "Monsoon", "Desert"],
+      "correctIndex": 2,
+      "explanation": "The climate of India is described as the 'monsoon' type.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g4_q6",
+      "text": "In which state of India does the temperature sometimes touch 50°C in summer?",
+      "options": ["Kerala", "Rajasthan", "Arunachal Pradesh", "Tamil Nadu"],
+      "correctIndex": 1,
+      "explanation": "In parts of the Rajasthan desert, summer temperatures can reach 50°C.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g4_q7",
+      "text": "While in the Himalayan ranges precipitation is mostly in the form of snow, it ________ over the rest of the country.",
+      "options": ["Snows", "Rains", "Hails", "Does not occur"],
+      "correctIndex": 1,
+      "explanation": "Precipitation occurs as snow in the upper Himalayas and as rain elsewhere.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g4_q8",
+      "text": "Which area in India receives the highest rainfall in the world?",
+      "options": ["Cherrapunji", "Mawsynram", "Shillong", "Guwahati"],
+      "correctIndex": 1,
+      "explanation": "Mawsynram in the southern ranges of the Khasi Hills receives the highest average rainfall in the world.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g4_q9",
+      "text": "Coastal areas experience ________ contrast in temperature conditions.",
+      "options": ["More", "Less", "Extremely high", "No"],
+      "correctIndex": 1,
+      "explanation": "Coastal areas have moderate climates due to the influence of the sea.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g4_q10",
+      "text": "As one goes from the surface of the earth to higher altitudes, the atmosphere becomes ________.",
+      "options": ["Denser", "Less dense and temperature decreases", "Hotter", "Heavier"],
+      "correctIndex": 1,
+      "explanation": "Air becomes less dense and temperature decreases with altitude.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g4_q11",
+      "text": "The pressure and wind system of any area depend on the ________ of the place.",
+      "options": ["Longitude", "Latitude and Altitude", "Vegetation", "Soil"],
+      "correctIndex": 1,
+      "explanation": "Latitude and altitude influence the pressure and wind patterns.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g4_q12",
+      "text": "Which imaginary line passes through the Rann of Kuchchh in the west to Mizoram in the east, dividing India's climate?",
+      "options": ["Equator", "Tropic of Capricorn", "Tropic of Cancer", "Standard Meridian"],
+      "correctIndex": 2,
+      "explanation": "The Tropic of Cancer divides India into tropical and sub-tropical zones.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g4_q13",
+      "text": "Winds in the northern hemisphere are deflected to the ________ due to the Coriolis force.",
+      "options": ["Left", "Right", "North", "South"],
+      "correctIndex": 1,
+      "explanation": "Ferrel’s Law states that winds are deflected right in the northern hemisphere and left in the southern.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g4_q14",
+      "text": "What are the fast-flowing, narrow belts of high-altitude westerly winds called?",
+      "options": ["Trade winds", "Loo", "Jet streams", "Monsoons"],
+      "correctIndex": 2,
+      "explanation": "Jet streams are high-velocity winds located in the upper troposphere.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g4_q15",
+      "text": "The 'Western Cyclonic Disturbances' occur during which season?",
+      "options": ["Summer", "Monsoon", "Winter", "Spring"],
+      "correctIndex": 2,
+      "explanation": "These disturbances bring rain to north and northwestern India in winter.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g4_q16",
+      "text": "The periodic change in pressure conditions over the southern oceans is known as:",
+      "options": ["El Nino", "Southern Oscillation (SO)", "Jet Stream", "Coriolis Force"],
+      "correctIndex": 1,
+      "explanation": "SO is the shift in surface pressure between the tropical eastern Pacific and western Pacific/Indian Oceans.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g4_q17",
+      "text": "What is the phenomenon of a warm ocean current flowing past the Peruvian coast in place of the cold Peruvian current?",
+      "options": ["La Nina", "El Nino", "Monsoon", "Tsunami"],
+      "correctIndex": 1,
+      "explanation": "El Nino is a Spanish word meaning 'the child', referring to the baby Christ as it starts during Christmas.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g4_q18",
+      "text": "The duration of the monsoon in India is approximately between:",
+      "options": ["50 to 100 days", "100 to 120 days", "150 to 200 days", "All year"],
+      "correctIndex": 1,
+      "explanation": "Monsoon lasts from early June to mid-September.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g4_q19",
+      "text": "The sudden increase and constant rain for several days at the arrival of monsoon is called:",
+      "options": ["Drizzle", "Burst of the monsoon", "Thunderstorm", "Cyclone"],
+      "correctIndex": 1,
+      "explanation": "The 'burst' distinguishes monsoon rain from pre-monsoon showers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g4_q20",
+      "text": "The monsoon reaches the southern tip of the Indian peninsula by the:",
+      "options": ["First week of May", "First week of June", "Last week of June", "First week of July"],
+      "correctIndex": 1,
+      "explanation": "It typically arrives around June 1st.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g4_q21",
+      "text": "Which branch of the monsoon causes rain in the Ganga valley?",
+      "options": ["Arabian Sea branch", "Bay of Bengal branch", "Western branch", "Southern branch"],
+      "correctIndex": 1,
+      "explanation": "The Bay of Bengal branch moves up the Ganga valley.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g4_q22",
+      "text": "The two branches of the monsoon (Arabian Sea and Bay of Bengal) merge over the:",
+      "options": ["Southern Peninsula", "Northwestern part of the Ganga plains", "Deccan Plateau", "North East"],
+      "correctIndex": 1,
+      "explanation": "They merge over the northwestern Ganga plains.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g4_q23",
+      "text": "Withdrawal or the retreat of the monsoon is a ________ process.",
+      "options": ["Sudden", "Gradual", "Fast", "Daily"],
+      "correctIndex": 1,
+      "explanation": "The retreat begins in northwestern states by early September and is gradual.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g4_q24",
+      "text": "Which season is characterized by fine weather, low humidity, and feeble winds?",
+      "options": ["Hot Weather Season", "Cold Weather Season", "Advancing Monsoon", "Retreating Monsoon"],
+      "correctIndex": 1,
+      "explanation": "Winter (December-February) in India has these characteristics.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g4_q25",
+      "text": "The local name for total amount of winter rainfall in the plains, important for rabi crops, is:",
+      "options": ["Loo", "Mahawat", "Mango showers", "Kaal Baisakhi"],
+      "correctIndex": 1,
+      "explanation": "Mahawat is small in amount but highly beneficial for rabi crops like wheat.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g4_q26",
+      "text": "The 'Loo' is a striking feature of which season?",
+      "options": ["Winter", "Summer", "Monsoon", "Spring"],
+      "correctIndex": 1,
+      "explanation": "Loo are strong, gusty, hot, dry winds blowing during the day over the north and northwestern India in summer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g4_q27",
+      "text": "In West Bengal, violent summer storms are known as:",
+      "options": ["Loo", "Mango Showers", "Kaal Baisakhi", "Mahawat"],
+      "correctIndex": 2,
+      "explanation": "Kaal Baisakhi means 'calamity of the month of Baisakh'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g4_q28",
+      "text": "Pre-monsoon showers in Kerala and Karnataka that help in ripening of fruit are called:",
+      "options": ["Loo", "Kaal Baisakhi", "Mango showers", "Mahawat"],
+      "correctIndex": 2,
+      "explanation": "They are called mango showers as they help in the early ripening of mangoes.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g4_q29",
+      "text": "The phenomenon of 'breaks' in rainfall is associated with:",
+      "options": ["Winter", "Monsoon", "Summer", "Retreating Monsoon"],
+      "correctIndex": 1,
+      "explanation": "Monsoon has wet and dry spells; the dry spells are called 'breaks'.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g4_q30",
+      "text": "The 'October Heat' is a result of:",
+      "options": ["Clear skies and high humidity", "Dust storms", "Heavy rain", "Cold winds"],
+      "correctIndex": 0,
+      "explanation": "During retreating monsoon, high temperature and humidity make weather oppressive; this is 'October Heat'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g4_q31",
+      "text": "The bulk of rainfall on the Coromandel coast is derived from:",
+      "options": ["Arabian Sea branch", "Advancing Monsoon", "Depressions and Cyclones", "Western disturbances"],
+      "correctIndex": 2,
+      "explanation": "During October-November, cyclones from the Bay of Bengal cross the eastern coast.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g4_q32",
+      "text": "Parts of Rajasthan and Gujarat receive ________ rainfall.",
+      "options": ["Heavy", "Moderate", "Very low (less than 60 cm)", "Highest"],
+      "correctIndex": 2,
+      "explanation": "Western Rajasthan and parts of Gujarat are rain-deficient areas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g4_q33",
+      "text": "Which part of India receives rain from the Arabian Sea branch first?",
+      "options": ["Eastern Ghats", "Western Ghats", "Northern Plains", "Himalayas"],
+      "correctIndex": 1,
+      "explanation": "The Western Ghats receive very heavy rainfall from the Arabian Sea branch.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g4_q34",
+      "text": "Monsoon is considered a ________ bond for the country.",
+      "options": ["Economic", "Unifying", "Cultural", "Political"],
+      "correctIndex": 1,
+      "explanation": "Despite variations, the monsoon rhythm of seasons binds the whole country and its agricultural activities.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g4_q35",
+      "text": "Which factor prevents the cold winds from Central Asia from entering India?",
+      "options": ["The Himalayas", "The Thar Desert", "The Deccan Plateau", "The Western Ghats"],
+      "correctIndex": 0,
+      "explanation": "The Himalayas act as a barrier to the frigid winds from the north.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g4_q36",
+      "text": "Temperature ________ from south to north in winter in India.",
+      "options": ["Increases", "Decreases", "Remains same", "Fluctuates wildly"],
+      "correctIndex": 1,
+      "explanation": "Southern India is warmer in winter, while Northern India experiences freezing temperatures.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g4_q37",
+      "text": "The ITCZ (Inter Tropical Convergence Zone) is a ________ belt.",
+      "options": ["High pressure", "Low pressure", "Moderate pressure", "Dry"],
+      "correctIndex": 1,
+      "explanation": "It is a broad trough of low pressure in equatorial latitudes where northeast and southeast trade winds converge.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g4_q38",
+      "text": "Which area receives the least rainfall in India?",
+      "options": ["Leh in Ladakh", "Mawsynram", "Mumbai", "Kolkata"],
+      "correctIndex": 0,
+      "explanation": "Leh in Jammu & Kashmir (Ladakh) is a cold desert and receives very low rainfall.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_g4_q39",
+      "text": "Which month is known for the beginning of the retreat of the monsoon from North India?",
+      "options": ["August", "September", "October", "November"],
+      "correctIndex": 1,
+      "explanation": "The withdrawal begins in the northwestern states by early September.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_g4_q40",
+      "text": "Agriculture in India is largely dependent on ________.",
+      "options": ["Canals", "Monsoon rains", "Groundwater", "Desalination"],
+      "correctIndex": 1,
+      "explanation": "Most of the Indian farmers depend on the arrival and distribution of monsoon for their crops.",
+      "frequencyRating": 5
+    }
+  ]
+}

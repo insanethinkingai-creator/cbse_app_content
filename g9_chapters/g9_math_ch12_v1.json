@@ -1,0 +1,330 @@
+{
+  "id": "g9_math_ch12",
+  "grade": "9",
+  "subject": "Mathematics",
+  "number": "12",
+  "title": "Heron’s Formula",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_m12_q1",
+      "text": "The semi-perimeter of a triangle with sides a, b, c is:",
+      "options": ["a + b + c", "(a + b + c) / 2", "(a + b + c) / 3", "abc"],
+      "correctIndex": 1,
+      "explanation": "Semi-perimeter 's' is half the perimeter.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m12_q2",
+      "text": "Heron’s Formula for the area of a triangle is:",
+      "options": ["√[s(s-a)(s-b)(s-c)]", "√[s(s+a)(s+b)(s+c)]", "s(s-a)(s-b)(s-c)", "1/2 * base * height"],
+      "correctIndex": 0,
+      "explanation": "This formula allows calculating area when only the side lengths are known.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m12_q3",
+      "text": "The area of an equilateral triangle with side 'a' is:",
+      "options": ["(√3/2)a²", "(√3/4)a²", "√3a", "a²"],
+      "correctIndex": 1,
+      "explanation": "Derived from Heron's formula where a=b=c.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m12_q4",
+      "text": "The sides of a triangle are 3, 4, 5. Its semi-perimeter is:",
+      "options": ["12", "6", "3", "9"],
+      "correctIndex": 1,
+      "explanation": "(3 + 4 + 5) / 2 = 12 / 2 = 6.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m12_q5",
+      "text": "The area of a triangle with sides 13 cm, 14 cm, and 15 cm is:",
+      "options": ["42 cm²", "84 cm²", "105 cm²", "21 cm²"],
+      "correctIndex": 1,
+      "explanation": "s = 21. Area = √[21 * 8 * 7 * 6] = 84 cm².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m12_q6",
+      "text": "The area of a right-angled triangle with base 6 cm and hypotenuse 10 cm is:",
+      "options": ["30 cm²", "24 cm²", "60 cm²", "48 cm²"],
+      "correctIndex": 1,
+      "explanation": "Height = √(10² - 6²) = 8. Area = 1/2 * 6 * 8 = 24 cm².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m12_q7",
+      "text": "Heron was a famous mathematician of which country?",
+      "options": ["India", "Egypt", "Greece", "Rome"],
+      "correctIndex": 1,
+      "explanation": "Heron of Alexandria was a Greek-Egyptian mathematician.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m12_q8",
+      "text": "If the side of an equilateral triangle is 4 cm, its area is:",
+      "options": ["4√3 cm²", "16√3 cm²", "2√3 cm²", "8√3 cm²"],
+      "correctIndex": 0,
+      "explanation": "(√3/4) * 4² = 4√3 cm².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m12_q9",
+      "text": "The perimeter of an equilateral triangle is 60 m. Its area is:",
+      "options": ["100√3 m²", "400√3 m²", "200√3 m²", "None"],
+      "correctIndex": 0,
+      "explanation": "Side = 60/3 = 20. Area = (√3/4) * 20² = 100√3 m².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m12_q10",
+      "text": "Sides of a triangle are in ratio 12 : 17 : 25 and perimeter is 540. Find smallest side:",
+      "options": ["120", "170", "250", "54"],
+      "correctIndex": 0,
+      "explanation": "12x+17x+25x = 540 => 54x = 540 => x = 10. Sides are 120, 170, 250.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m12_q11",
+      "text": "In Heron’s formula, (s-a), (s-b), (s-c) must all be:",
+      "options": ["Negative", "Zero", "Positive", "Any real number"],
+      "correctIndex": 2,
+      "explanation": "Since s is half the sum of sides, it is always greater than any single side for a real triangle.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m12_q12",
+      "text": "An isosceles triangle has base 12 cm and equal sides 10 cm. Find its area:",
+      "options": ["48 cm²", "96 cm²", "60 cm²", "30 cm²"],
+      "correctIndex": 0,
+      "explanation": "Height = √(10² - 6²) = 8. Area = 1/2 * 12 * 8 = 48 cm².",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m12_q13",
+      "text": "Area of a triangle with base 'b' and altitude 'h' is:",
+      "options": ["bh", "1/2 bh", "2bh", "1/2 (b+h)"],
+      "correctIndex": 1,
+      "explanation": "Standard elementary formula for area.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m12_q14",
+      "text": "Area of a triangle with sides a=1, b=1, c=1 is:",
+      "options": ["1", "√3/4", "3/2", "1/2"],
+      "correctIndex": 1,
+      "explanation": "Equilateral triangle with side 1.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m12_q15",
+      "text": "A park is in the shape of a quadrilateral. To find its area using Heron's formula, we should:",
+      "options": ["Measure all 4 sides", "Divide it into two triangles with a diagonal", "Measure the perimeter", "Multiply sides"],
+      "correctIndex": 1,
+      "explanation": "Heron's formula only works for triangles; a quadrilateral is the sum of two triangles.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m12_q16",
+      "text": "If s - a = 5, s - b = 10, s - c = 1. What is the value of s?",
+      "options": ["16", "32", "8", "15"],
+      "correctIndex": 0,
+      "explanation": "(s-a)+(s-b)+(s-c) = 3s - (a+b+c) = 3s - 2s = s. So s = 5+10+1 = 16.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m12_q17",
+      "text": "Area of a right triangle is 30 cm². If one side is 5 cm, the hypotenuse is:",
+      "options": ["12 cm", "13 cm", "17 cm", "None"],
+      "correctIndex": 1,
+      "explanation": "1/2 * 5 * h = 30 => h = 12. Hypotenuse = √(5² + 12²) = 13 cm.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m12_q18",
+      "text": "If every side of a triangle is doubled, then its area becomes:",
+      "options": ["2 times", "4 times", "8 times", "No change"],
+      "correctIndex": 1,
+      "explanation": "Area is a 2D measure; doubling lengths quadruples area (2² = 4).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m12_q19",
+      "text": "The edges of a triangular board are 6 cm, 8 cm, 10 cm. The cost of painting at 9 paise per cm² is:",
+      "options": ["Rs 2.16", "Rs 21.6", "Rs 1.08", "Rs 10.8"],
+      "correctIndex": 0,
+      "explanation": "Area = 1/2 * 6 * 8 = 24. Cost = 24 * 9 = 216 paise = Rs 2.16.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m12_q20",
+      "text": "If side of a square is 'a', its diagonal is:",
+      "options": ["a", "2a", "a√2", "a²"],
+      "correctIndex": 2,
+      "explanation": "Using Pythagoras: √(a² + a²) = √2a² = a√2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m12_q21",
+      "text": "The height of an equilateral triangle of side 'a' is:",
+      "options": ["(√3/2)a", "(√3/4)a", "√3a", "a/2"],
+      "correctIndex": 0,
+      "explanation": "Derived using Pythagoras in half of the triangle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m12_q22",
+      "text": "Semi-perimeter of a triangle is 30 cm. Two sides are 20 and 20. Third side is:",
+      "options": ["10", "20", "30", "40"],
+      "correctIndex": 1,
+      "explanation": "2s = perimeter = 60. 60 - (20+20) = 20.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m12_q23",
+      "text": "Area of triangle is 10 cm² and base is 5 cm. Height is:",
+      "options": ["2 cm", "4 cm", "5 cm", "1 cm"],
+      "correctIndex": 1,
+      "explanation": "1/2 * 5 * h = 10 => h = 4 cm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m12_q24",
+      "text": "Can Heron's formula be used for circles?",
+      "options": ["Yes", "No", "Only for large circles", "Only if π is known"],
+      "correctIndex": 1,
+      "explanation": "It is strictly for triangles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m12_q25",
+      "text": "Find area of triangle with sides 5, 12, 13:",
+      "options": ["30", "60", "65", "15"],
+      "correctIndex": 0,
+      "explanation": "It's a right triangle. 1/2 * 5 * 12 = 30.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m12_q26",
+      "text": "In a triangle s-a=7, s-b=8, s-c=9. The area is:",
+      "options": ["√(24*7*8*9)", "√(24*15*16*17)", "24", "None"],
+      "correctIndex": 0,
+      "explanation": "s = 7+8+9 = 24. Area = √[s(s-a)(s-b)(s-c)] = √[24*7*8*9].",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m12_q27",
+      "text": "Area of an isosceles right triangle with equal side 'a' is:",
+      "options": ["a²", "1/2 a²", "1/4 a²", "2a²"],
+      "correctIndex": 1,
+      "explanation": "1/2 * base * height = 1/2 * a * a.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m12_q28",
+      "text": "If the base of a triangle is doubled and height is halved, its area:",
+      "options": ["Doubles", "Is halved", "Remains same", "Quadruples"],
+      "correctIndex": 2,
+      "explanation": "1/2 * (2b) * (1/2 h) = 1/2 bh.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m12_q29",
+      "text": "What is the area of a triangle with perimeter 32, one side 11 and difference of other two sides is 5?",
+      "options": ["8√30", "4√30", "16√30", "None"],
+      "correctIndex": 0,
+      "explanation": "x+y = 32-11=21. x-y=5 => 2x=26 => x=13, y=8. s=16. Area = √[16*5*3*8] = √[1920] = 8√30.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g9_m12_q30",
+      "text": "Area of rhombus with diagonals d1, d2 is:",
+      "options": ["d1*d2", "1/2 d1*d2", "2 d1*d2", "d1+d2"],
+      "correctIndex": 1,
+      "explanation": "Standard formula.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m12_q31",
+      "text": "Perimeter of an equilateral triangle is 9 cm. Area is:",
+      "options": ["(√3/4) * 9", "(√3/4) * 3", "(9/4)√3", "None"],
+      "correctIndex": 2,
+      "explanation": "Side = 3. Area = (√3/4) * 3² = 9√3 / 4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m12_q32",
+      "text": "Length of each side of equilateral triangle with area 4√3 cm² is:",
+      "options": ["4 cm", "2 cm", "8 cm", "16 cm"],
+      "correctIndex": 0,
+      "explanation": "√3/4 a² = 4√3 => a² = 16 => a = 4.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m12_q33",
+      "text": "A triangle with area 0 is a:",
+      "options": ["Point", "Line segment", "Straight line", "Impossible"],
+      "correctIndex": 2,
+      "explanation": "The three points are collinear.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m12_q34",
+      "text": "Unit of area in SI:",
+      "options": ["m", "m²", "m³", "kg"],
+      "correctIndex": 1,
+      "explanation": "Square meters.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m12_q35",
+      "text": "Base of a triangle is 10 m and height is 20 m. Area is:",
+      "options": ["200 m²", "100 m²", "50 m²", "400 m²"],
+      "correctIndex": 1,
+      "explanation": "1/2 * 10 * 20 = 100.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m12_q36",
+      "text": "Heron’s formula is named after Heron of Alexandria, who was also a:",
+      "options": ["Philosopher", "Engineer", "Politician", "Musician"],
+      "correctIndex": 1,
+      "explanation": "He was a famous engineer known for steam engines and other inventions.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g9_m12_q37",
+      "text": "If s = 10 and a=5, b=5, c=10, the triangle area is:",
+      "options": ["0", "50", "25", "10"],
+      "correctIndex": 0,
+      "explanation": "s-c = 10-10 = 0. Product is 0. Triangle cannot exist (sum of 5+5 is not > 10).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m12_q38",
+      "text": "An equilateral triangle and a square have same perimeter. Which has more area?",
+      "options": ["Square", "Equilateral triangle", "Both same", "None"],
+      "correctIndex": 0,
+      "explanation": "For a fixed perimeter, shapes with more 'regular' sides and circularity have more area.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g9_m12_q39",
+      "text": "Area of a right isosceles triangle with hypotenuse 'h' is:",
+      "options": ["h²/2", "h²/4", "h²/8", "h²"],
+      "correctIndex": 1,
+      "explanation": "2a² = h² => a² = h²/2. Area = 1/2 a² = h²/4.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m12_q40",
+      "text": "Side of triangle are 20, 20, 20. Find area:",
+      "options": ["100√3", "400√3", "200√3", "None"],
+      "correctIndex": 0,
+      "explanation": "√3/4 * 400 = 100√3.",
+      "frequencyRating": 5
+    }
+  ]
+}

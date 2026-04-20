@@ -1,0 +1,330 @@
+{
+  "id": "g9_eco_ch3",
+  "grade": "9",
+  "subject": "Economics",
+  "number": "3",
+  "title": "Poverty as a Challenge",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_e3_q1",
+      "text": "Every ________ person in India is poor.",
+      "options": ["Second", "Third", "Fourth", "Fifth"],
+      "correctIndex": 2,
+      "explanation": "Roughly 270 million people in India live in poverty, meaning every fourth person is poor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q2",
+      "text": "Poverty as seen by social scientists involves which indicators?",
+      "options": ["Illiteracy", "Lack of job opportunities", "Lack of access to safe drinking water", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Social scientists look at multiple indicators beyond just income and consumption.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q3",
+      "text": "A common method used to measure poverty is based on:",
+      "options": ["Income or consumption levels", "Number of children", "Caste", "Religion"],
+      "correctIndex": 0,
+      "explanation": "The poverty line is a threshold based on a minimum level of income or consumption.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q4",
+      "text": "The accepted average calorie requirement in India is ________ calories per person per day in rural areas.",
+      "options": ["2100", "2400", "2500", "2000"],
+      "correctIndex": 1,
+      "explanation": "People in rural areas engage in more physical work and thus require more calories.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q5",
+      "text": "The accepted average calorie requirement in urban areas is ________ calories per person per day.",
+      "options": ["2100", "2400", "1800", "2800"],
+      "correctIndex": 0,
+      "explanation": "Urban areas have a lower calorie requirement of 2100 due to less intense physical labour.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q6",
+      "text": "Which organization carries out sample surveys for estimating the poverty line?",
+      "options": ["NITI Aayog", "NSSO", "RBI", "World Bank"],
+      "correctIndex": 1,
+      "explanation": "The National Sample Survey Organisation (NSSO) conducts these surveys periodically.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q7",
+      "text": "For making comparisons between developing countries, the World Bank uses a uniform standard for the poverty line as:",
+      "options": ["$1 per day", "$1.90 per day (PPP)", "$5 per day", "$10 per day"],
+      "correctIndex": 1,
+      "explanation": "The World Bank uses a consistent monetary value for international comparison.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q8",
+      "text": "Social groups which are most vulnerable to poverty are:",
+      "options": ["Scheduled Castes", "Scheduled Tribes", "Rural landless households", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "These groups face higher risks of falling and remaining below the poverty line.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q9",
+      "text": "Within family, who are the 'poorest of the poor' as they are denied equal access to resources?",
+      "options": ["Men", "Elderly people and women", "Male children", "Working members"],
+      "correctIndex": 1,
+      "explanation": "Women, elderly, and female infants are often the most deprived within a poor household.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q10",
+      "text": "Which of the following states has the highest poverty ratio in India?",
+      "options": ["Punjab", "Odisha and Bihar", "Kerala", "Gujarat"],
+      "correctIndex": 1,
+      "explanation": "Bihar and Odisha continue to be the two poorest states in India.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q11",
+      "text": "Which state has seen a significant decline in poverty due to land reform measures?",
+      "options": ["West Bengal", "Punjab", "Kerala", "Andhra Pradesh"],
+      "correctIndex": 0,
+      "explanation": "Land reforms in West Bengal helped in reducing poverty by distributing resources more equitably.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q12",
+      "text": "States like Punjab and Haryana have succeeded in reducing poverty because of:",
+      "options": ["Land reforms", "High agricultural growth rates", "Human resource development", "Public distribution"],
+      "correctIndex": 1,
+      "explanation": "The Green Revolution and high farm output led to higher incomes in these states.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q13",
+      "text": "Kerala has reduced poverty by focusing more on:",
+      "options": ["Industrialization", "Human resource development (Education/Health)", "Export", "Tourism"],
+      "correctIndex": 1,
+      "explanation": "Heavy investment in education and healthcare has improved productivity and income in Kerala.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q14",
+      "text": "In which country did poverty decline from 88% in 1981 to 0.7% in 2018?",
+      "options": ["India", "China", "Brazil", "Russia"],
+      "correctIndex": 1,
+      "explanation": "China's rapid economic growth and investment in human capital led to massive poverty reduction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q15",
+      "text": "The main cause of poverty in India during the British rule was:",
+      "options": ["High population", "Low level of economic development under colonial administration", "Lack of education", "Religious factors"],
+      "correctIndex": 1,
+      "explanation": "British policies discouraged traditional handicrafts and industrial development.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q16",
+      "text": "One of the major causes of poverty is the unequal distribution of:",
+      "options": ["Rainfall", "Land and other resources", "Religious beliefs", "Talent"],
+      "correctIndex": 1,
+      "explanation": "Landlessness is a major cause of poverty in rural India.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q17",
+      "text": "The current anti-poverty strategy of the government is based on:",
+      "options": ["Religious charity", "Promotion of economic growth and targeted anti-poverty programmes", "Import of food", "Migration to other countries"],
+      "correctIndex": 1,
+      "explanation": "The government focuses on growing the overall economy while providing specific help to the poor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q18",
+      "text": "Which act aims to provide 100 days of wage employment to every household?",
+      "options": ["MGNREGA", "PMGY", "SGSY", "NFWP"],
+      "correctIndex": 0,
+      "explanation": "Mahatma Gandhi National Rural Employment Guarantee Act (2005) is a landmark scheme.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q19",
+      "text": "What is the full form of MGNREGA?",
+      "options": ["Mahatma Gandhi National Rural Employment Guarantee Act", "Minimum Government National Rural Employment Grant Act", "Mahatma Gandhi National Road Employment Guarantee Act", "Modified General National Rural Employment Guarantee Act"],
+      "correctIndex": 0,
+      "explanation": "It provides a legal guarantee for at least 100 days of manual work.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q20",
+      "text": "Under MGNREGA, if an applicant is not provided employment within 15 days, they are entitled to:",
+      "options": ["Free food", "Daily unemployment allowance", "A government job", "Nothing"],
+      "correctIndex": 1,
+      "explanation": "The act includes a provision for an allowance if the government fails to provide work.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q21",
+      "text": "Prime Minister Rozgar Yozana (PMRY) was started in 1993 to:",
+      "options": ["Provide free houses", "Create self-employment opportunities for educated unemployed youth in rural areas/small towns", "Clean the Ganga", "Build roads"],
+      "correctIndex": 1,
+      "explanation": "PMRY helps educated youth start small businesses and industries.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q22",
+      "text": "Rural Employment Generation Programme (REGP) was launched to create self-employment in:",
+      "options": ["Big cities", "Rural areas and small towns", "Only in tribal areas", "Other countries"],
+      "correctIndex": 1,
+      "explanation": "REGP targetted job creation within rural settings.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e3_q23",
+      "text": "Poverty line in India is higher in urban areas than rural areas because of:",
+      "options": ["High standard of living", "Higher prices of essential items in cities", "Cities are crowded", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Despite lower calorie needs, the cost of living is higher in urban areas.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q24",
+      "text": "The proportion of poor people is not the same in every state. This is called:",
+      "options": ["Inter-state disparities", "Global poverty", "Urban poverty", "National poverty"],
+      "correctIndex": 0,
+      "explanation": "Some states have been much more successful than others in reducing poverty.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q25",
+      "text": "Pradhan Mantri Gramodaya Yozana (PMGY) focuses on:",
+      "options": ["Primary health and education", "Rural shelter and drinking water", "Rural electrification", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "PMGY provides additional central assistance to states for basic services.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q26",
+      "text": "Poverty is not just a lack of money; it's also about ________ according to newer definitions.",
+      "options": ["Caste", "Human dignity and freedom", "Religion", "Number of cars"],
+      "correctIndex": 1,
+      "explanation": "Concepts like 'Human Poverty' broaden the definition beyond mere income.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q27",
+      "text": "Who is the poorest group among the vulnerable groups in India?",
+      "options": ["Scheduled Castes", "Scheduled Tribes", "Casual Labourers", "Large Farmers"],
+      "correctIndex": 1,
+      "explanation": "Scheduled Tribes have the highest poverty ratio among the listed groups.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q28",
+      "text": "In South East Asia, poverty has declined due to:",
+      "options": ["Mining", "Rapid economic growth and investment in human resources", "Tourism", "Fishing"],
+      "correctIndex": 1,
+      "explanation": "Growth-oriented policies have uplifted millions in this region.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q29",
+      "text": "Vulnerability to poverty is a measure which describes the probability of certain communities becoming:",
+      "options": ["Rich", "Poor in the future", "Scientists", "Politicians"],
+      "correctIndex": 1,
+      "explanation": "It determines how likely a group is to be affected by shocks like natural disasters.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q30",
+      "text": "Social exclusion means that the poor are excluded from:",
+      "options": ["Voting", "Enjoying social equality with better-off people", "Eating food", "Living in houses"],
+      "correctIndex": 1,
+      "explanation": "It describes a situation where poor people have to live in a poor surrounding excluded from better facilities.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q31",
+      "text": "Poverty line remains ________ over time and place.",
+      "options": ["Fixed", "Different", "Equal", "None of these"],
+      "correctIndex": 1,
+      "explanation": "The poverty line changes depending on the time and the development level of the country.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q32",
+      "text": "In 2011-12, the poverty line for a person was fixed at ________ per month for rural areas.",
+      "options": ["Rs 816", "Rs 1000", "Rs 500", "Rs 1500"],
+      "correctIndex": 0,
+      "explanation": "This was the threshold set for rural consumption in that period.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e3_q33",
+      "text": "Poverty has ________ in Sub-Saharan Africa.",
+      "options": ["Declined rapidly", "Stayed stagnant or increased", "Disappeared", "Never existed"],
+      "correctIndex": 1,
+      "explanation": "Unlike China or India, poverty in parts of Africa has been very difficult to reduce.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q34",
+      "text": "Which state has a high poverty ratio but is improving through public distribution of food grains?",
+      "options": ["Punjab", "Tamil Nadu and Andhra Pradesh", "Kerala", "Gujarat"],
+      "correctIndex": 1,
+      "explanation": "Andhra Pradesh and Tamil Nadu have effectively used PDS to reduce poverty.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q35",
+      "text": "Massive ________ of population makes it difficult for economic growth to reduce poverty.",
+      "options": ["Migration", "Growth", "Decline", "Education"],
+      "correctIndex": 1,
+      "explanation": "High population growth rates can offset the gains made by economic development.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q36",
+      "text": "Lack of ________ is a major reason for the failure of many anti-poverty schemes.",
+      "options": ["Money", "Proper implementation and right targeting", "Ideas", "Politicians"],
+      "correctIndex": 1,
+      "explanation": "Benefits often do not reach the intended poor due to administrative failures.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_e3_q37",
+      "text": "SGSY stands for:",
+      "options": ["Swarnajayanti Gram Swarozgar Yojana", "Sarkari Gram Sewa Yojana", "Small Group Self Yojana", "Swarna Gram Sadak Yojana"],
+      "correctIndex": 0,
+      "explanation": "SGSY aims at bringing assisted poor families above the poverty line by organizing them into self-help groups.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_e3_q38",
+      "text": "Most poor people in urban areas are:",
+      "options": ["Government employees", "Casual labourers and rickshaw pullers", "Shop owners", "Students"],
+      "correctIndex": 1,
+      "explanation": "Urban poor typically work in the unorganized sector with low and irregular wages.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q39",
+      "text": "Which of these is not a cause of poverty in India?",
+      "options": ["Colonial rule", "Income inequality", "High literacy rate", "Unemployment"],
+      "correctIndex": 2,
+      "explanation": "High literacy is actually a solution to poverty, not a cause.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_e3_q40",
+      "text": "The challenge of poverty is likely to be reduced with higher ________ growth.",
+      "options": ["Population", "Economic", "Religious", "Political"],
+      "correctIndex": 1,
+      "explanation": "Economic growth creates opportunities and provides the resources needed to invest in human development.",
+      "frequencyRating": 5
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "id": "g9_math_ch11",
+  "grade": "9",
+  "subject": "Mathematics",
+  "number": "11",
+  "title": "Constructions",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_m11_q1",
+      "text": "To construct a bisector of a given angle, we use a:",
+      "options": ["Ruler only", "Protractor only", "Compass and Ruler", "Set square"],
+      "correctIndex": 2,
+      "explanation": "Geometrical constructions strictly use only a straightedge and a compass.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m11_q2",
+      "text": "A line which bisects a given line segment and is perpendicular to it is called:",
+      "options": ["Angle bisector", "Perpendicular bisector", "Median", "Altitude"],
+      "correctIndex": 1,
+      "explanation": "This construction ensures all points on it are equidistant from the segment endpoints.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m11_q3",
+      "text": "Which of the following angles CANNOT be constructed using a compass and ruler?",
+      "options": ["60°", "75°", "40°", "22.5°"],
+      "correctIndex": 2,
+      "explanation": "Only angles that are multiples of 15° (or their halvings like 7.5°) can be easily constructed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m11_q4",
+      "text": "To construct an angle of 60°, we draw an arc and then another arc with the same radius from the point of intersection. The angle formed is:",
+      "options": ["30°", "60°", "90°", "45°"],
+      "correctIndex": 1,
+      "explanation": "This method creates an equilateral triangle segment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m11_q5",
+      "text": "A triangle can be constructed if its ______ are given.",
+      "options": ["Three angles", "Two sides and included angle", "Two angles and a side", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "Construction is possible if the data satisfies congruence criteria like SAS or ASA.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m11_q6",
+      "text": "To construct a 90° angle, we first construct ______ and then bisect the remaining 60°.",
+      "options": ["30°", "60°", "120°", "180°"],
+      "correctIndex": 2,
+      "explanation": "90 is the midpoint between 60 and 120.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m11_q7",
+      "text": "Construction of a triangle is not possible if the sum of its two sides is:",
+      "options": ["Greater than the third side", "Less than the third side", "Equal to the third side", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "Triangle inequality must be strictly 'greater than'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m11_q8",
+      "text": "An angle of 15° can be constructed by bisecting an angle of:",
+      "options": ["60°", "45°", "30°", "90°"],
+      "correctIndex": 2,
+      "explanation": "15 is half of 30.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m11_q9",
+      "text": "To construct the perpendicular bisector of AB, the radius of the arcs should be:",
+      "options": ["Exactly AB", "Less than 1/2 AB", "More than 1/2 AB", "Any radius"],
+      "correctIndex": 2,
+      "explanation": "Arcs must intersect both above and below the line segment.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m11_q10",
+      "text": "A unique triangle can be constructed if:",
+      "options": ["Sum of two sides is 5 and third is 6", "Sum of two sides is 7 and third is 5", "Three angles sum to 190", "Sides are 1, 2, 4"],
+      "correctIndex": 1,
+      "explanation": "7 > 5, so it satisfies the triangle inequality.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m11_q11",
+      "text": "To construct 75°, we bisect the angle between:",
+      "options": ["60° and 90°", "0° and 150°", "45° and 90°", "None"],
+      "correctIndex": 0,
+      "explanation": "(60+90)/2 = 75.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m11_q12",
+      "text": "To construct 45°, we bisect:",
+      "options": ["30°", "60°", "90°", "180°"],
+      "correctIndex": 2,
+      "explanation": "Half of a right angle is 45°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m11_q13",
+      "text": "In constructions, the 'straightedge' is used to:",
+      "options": ["Measure length", "Draw straight lines", "Draw circles", "Measure angles"],
+      "correctIndex": 1,
+      "explanation": "A ruler is used only as a straightedge in formal Euclidean constructions.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m11_q14",
+      "text": "Can we construct an angle of 20° using only compass and ruler?",
+      "options": ["Yes", "No", "Only with a protractor", "Only with a calculator"],
+      "correctIndex": 1,
+      "explanation": "20° is not a multiple of 7.5°, so it is not constructible by standard methods.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m11_q15",
+      "text": "To construct a triangle given its base, a base angle and the sum of other two sides, we first draw a segment equal to the:",
+      "options": ["Base", "Sum of sides", "Difference of sides", "Height"],
+      "correctIndex": 1,
+      "explanation": "Standard step in triangle construction procedure.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m11_q16",
+      "text": "To bisect an angle, where do we place the compass pointer first?",
+      "options": ["On the vertex", "On the arms", "Inside the angle", "Outside"],
+      "correctIndex": 0,
+      "explanation": "Arcs on arms are drawn from the vertex first.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m11_q17",
+      "text": "To construct an equilateral triangle, we need to know ______ side(s).",
+      "options": ["One", "Two", "Three", "Zero"],
+      "correctIndex": 0,
+      "explanation": "All sides are equal; knowing one defines all.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m11_q18",
+      "text": "A perpendicular is constructed at a point on a line. The angle formed is:",
+      "options": ["45°", "90°", "180°", "0°"],
+      "correctIndex": 1,
+      "explanation": "Perpendicular means meeting at right angles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m11_q19",
+      "text": "To construct 135°, we can:",
+      "options": ["Bisect 270°", "90° + 45°", "Bisect angle between 90° and 180°", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "135 is the supplement of 45 and the midpoint of 90 and 180.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m11_q20",
+      "text": "Angle of 22.5° is constructed by bisecting:",
+      "options": ["45°", "90°", "60°", "15°"],
+      "correctIndex": 0,
+      "explanation": "45 / 2 = 22.5.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m11_q21",
+      "text": "Construction of a triangle given its perimeter and two base angles requires:",
+      "options": ["Drawing perimeter as a line segment", "Bisecting base angles", "Both A and B", "Neither"],
+      "correctIndex": 2,
+      "explanation": "Standard procedure involves drawing the perimeter line first.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m11_q22",
+      "text": "A square can be constructed given only its:",
+      "options": ["Diagonal", "Side", "Both A and B", "Angle"],
+      "correctIndex": 2,
+      "explanation": "Knowing either a side or a diagonal is sufficient for a square.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m11_q23",
+      "text": "To draw a circle, we need a ______ and a ______.",
+      "options": ["Center, Radius", "Diameter, Sector", "Arc, Chord", "None"],
+      "correctIndex": 0,
+      "explanation": "These are the two defining parameters for a circle construction.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m11_q24",
+      "text": "The vertex angle of an isosceles triangle is 40°. To construct it, base angles must be:",
+      "options": ["40°", "70°", "140°", "50°"],
+      "correctIndex": 1,
+      "explanation": "(180-40)/2 = 70.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m11_q25",
+      "text": "Construction of a median involves finding the ______ of a side.",
+      "options": ["Altitude", "Mid-point", "Trisection point", "Length"],
+      "correctIndex": 1,
+      "explanation": "A median joins a vertex to the midpoint of the opposite side.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m11_q26",
+      "text": "Construction of a right triangle with hypotenuse 5 cm and one side 3 cm is possible because:",
+      "options": ["5 > 3", "5² = 3² + 4²", "Both A and B", "None"],
+      "correctIndex": 2,
+      "explanation": "It satisfies triangle inequality and Pythagoras theorem.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m11_q27",
+      "text": "Can we construct a triangle with angles 70°, 80°, 40°?",
+      "options": ["Yes", "No", "Only if it is large", "Only with a ruler"],
+      "correctIndex": 1,
+      "explanation": "Sum = 70+80+40 = 190. Angles must sum exactly to 180.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m11_q28",
+      "text": "To construct a 150° angle, we bisect the angle between:",
+      "options": ["90° and 180°", "120° and 180°", "60° and 120°", "None"],
+      "correctIndex": 1,
+      "explanation": "(120 + 180) / 2 = 150.",
+      "frequencyRating": 2
+    },
+    {
+      "id": "g9_m11_q29",
+      "text": "Construction of a parallelogram requires at least ______ independent measurements.",
+      "options": ["Two", "Three", "Four", "Five"],
+      "correctIndex": 1,
+      "explanation": "Typically two sides and one angle.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m11_q30",
+      "text": "Angle bisector construction uses the property of ______ triangles.",
+      "options": ["Similar", "Congruent", "Right-angled", "Equilateral"],
+      "correctIndex": 1,
+      "explanation": "It creates two congruent triangles by SSS property.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m11_q31",
+      "text": "What tool is used to measure an angle accurately if not constructing it?",
+      "options": ["Ruler", "Compass", "Protractor", "Divider"],
+      "correctIndex": 2,
+      "explanation": "Protractors are the standard measurement tool.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m11_q32",
+      "text": "Constructing a perpendicular from a point NOT on the line involves drawing an arc that cuts the line in ______ point(s).",
+      "options": ["One", "Two", "Zero", "Three"],
+      "correctIndex": 1,
+      "explanation": "The two points allow for the construction of the perpendicular bisector.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m11_q33",
+      "text": "Radius of arc used for bisecting 60° should be:",
+      "options": ["Small", "Large", "Same as initial arc", "Any radius"],
+      "correctIndex": 3,
+      "explanation": "As long as it's consistent for both arcs from the arms.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m11_q34",
+      "text": "Triangle construction requires angles in:",
+      "options": ["Degrees", "Radians", "Both", "Minutes"],
+      "correctIndex": 0,
+      "explanation": "School geometry uses degrees.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m11_q35",
+      "text": "A line segment of 7.5 cm is to be constructed. We use:",
+      "options": ["Compass", "Ruler", "Both", "Protractor"],
+      "correctIndex": 1,
+      "explanation": "Ruler measures the length.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m11_q36",
+      "text": "To construct 105°, we bisect the angle between:",
+      "options": ["60 and 150", "90 and 120", "0 and 210", "None"],
+      "correctIndex": 1,
+      "explanation": "(90+120)/2 = 105.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m11_q37",
+      "text": "Can we construct a triangle with sides 3, 3, 7?",
+      "options": ["Yes", "No", "Isosceles", "Equilateral"],
+      "correctIndex": 1,
+      "explanation": "3+3 < 7. Triangle cannot be formed.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m11_q38",
+      "text": "Distance between two parallel lines is:",
+      "options": ["Constant", "Variable", "Zero", "None"],
+      "correctIndex": 0,
+      "explanation": "They never meet and stay equally apart.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m11_q39",
+      "text": "To construct an angle of 30°, we first construct ______ and then bisect it.",
+      "options": ["15°", "45°", "60°", "90°"],
+      "correctIndex": 2,
+      "explanation": "Standard procedure.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m11_q40",
+      "text": "Accuracy in construction depends on:",
+      "options": ["Sharp pencil", "Tight compass", "Correct steps", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Practical requirement for good geometry work.",
+      "frequencyRating": 3
+    }
+  ]
+}

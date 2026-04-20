@@ -1,0 +1,330 @@
+{
+  "id": "g9_sci_ch5",
+  "grade": "9",
+  "subject": "Science",
+  "number": "5",
+  "title": "The Fundamental Unit of Life",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_s5_q1",
+      "text": "Who discovered cells for the first time in 1665?",
+      "options": ["Robert Brown", "Robert Hooke", "Leeuwenhoek", "Purkinje"],
+      "correctIndex": 1,
+      "explanation": "Hooke observed thin slices of cork under a self-made microscope and saw structures resembling honeycombs.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q2",
+      "text": "Who discovered free-living cells in pond water for the first time?",
+      "options": ["Robert Hooke", "Antony van Leeuwenhoek", "Robert Brown", "Virchow"],
+      "correctIndex": 1,
+      "explanation": "Leeuwenhoek used an improved microscope to see living cells.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q3",
+      "text": "Nucleus in the cell was discovered by:",
+      "options": ["Robert Hooke", "Robert Brown", "Purkinje", "Schleiden"],
+      "correctIndex": 1,
+      "explanation": "Robert Brown discovered the nucleus in 1831.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q4",
+      "text": "The term 'Protoplasm' for the fluid substance of the cell was coined by:",
+      "options": ["Hooke", "Brown", "Purkinje", "Virchow"],
+      "correctIndex": 2,
+      "explanation": "J.E. Purkinje coined the term in 1839.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q5",
+      "text": "Cell theory was proposed by:",
+      "options": ["Schleiden and Schwann", "Hooke and Brown", "Watson and Crick", "Darwin and Mendel"],
+      "correctIndex": 0,
+      "explanation": "They stated that all plants and animals are composed of cells.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q6",
+      "text": "Who expanded the cell theory by suggesting that all cells arise from pre-existing cells?",
+      "options": ["Schleiden", "Schwann", "Virchow", "Robert Brown"],
+      "correctIndex": 2,
+      "explanation": "Rudolf Virchow (1855) stated 'Omnis cellula e cellula'.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q7",
+      "text": "Which of the following is a unicellular organism?",
+      "options": ["Human", "Mango tree", "Amoeba", "Mushroom"],
+      "correctIndex": 2,
+      "explanation": "Amoeba, Chlamydomonas, Paramoecium, and Bacteria are unicellular.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q8",
+      "text": "The plasma membrane is made up of:",
+      "options": ["Cellulose", "Proteins and Lipids", "Starch", "Glycogen"],
+      "correctIndex": 1,
+      "explanation": "It is a flexible organic bilayer mainly composed of lipids and proteins.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q9",
+      "text": "Plasma membrane is called selectively permeable because it:",
+      "options": ["Allows all substances to pass", "Allows only water to pass", "Allows some materials while preventing others", "Does not allow anything"],
+      "correctIndex": 2,
+      "explanation": "It regulates the movement of substances in and out of the cell.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q10",
+      "text": "Movement of water molecules through a selectively permeable membrane is called:",
+      "options": ["Diffusion", "Osmosis", "Plasmolysis", "Endocytosis"],
+      "correctIndex": 1,
+      "explanation": "Osmosis is a special case of diffusion involving water and a membrane.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q11",
+      "text": "If a cell is placed in a solution with lower water concentration than the cell, it will:",
+      "options": ["Swell", "Shrink", "Remain same", "Burst"],
+      "correctIndex": 1,
+      "explanation": "Water moves out of the cell in a hypertonic solution, causing it to shrink.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q12",
+      "text": "The cell wall in plants is mainly composed of:",
+      "options": ["Lipids", "Proteins", "Cellulose", "Chitin"],
+      "correctIndex": 2,
+      "explanation": "Cellulose is a complex substance which provides structural strength to plants.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q13",
+      "text": "Shrinkage of cell contents away from the cell wall when a plant cell loses water is:",
+      "options": ["Diffusion", "Osmosis", "Plasmolysis", "Exocytosis"],
+      "correctIndex": 2,
+      "explanation": "This occurs when a living plant cell is placed in a hypertonic solution.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q14",
+      "text": "Which organelle contains genetic material (DNA)?",
+      "options": ["Mitochondria", "Nucleus", "Ribosomes", "Lysosomes"],
+      "correctIndex": 1,
+      "explanation": "The nucleus contains chromosomes, which are made of DNA and proteins.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q15",
+      "text": "Functional segments of DNA are called:",
+      "options": ["Chromatin", "Nucleolus", "Genes", "RNA"],
+      "correctIndex": 2,
+      "explanation": "Genes carry hereditary information from parents to offspring.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q16",
+      "text": "Organisms whose cells lack a nuclear membrane are called:",
+      "options": ["Eukaryotes", "Prokaryotes", "Multicellular", "Autotrophs"],
+      "correctIndex": 1,
+      "explanation": "Prokaryotic cells (like bacteria) have an undefined nuclear region called a nucleoid.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q17",
+      "text": "Prokaryotic cells lack:",
+      "options": ["Cytoplasm", "Ribosomes", "Membrane-bound organelles", "DNA"],
+      "correctIndex": 2,
+      "explanation": "They do not have mitochondria, plastids, or a defined nucleus.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q18",
+      "text": "Rough Endoplasmic Reticulum (RER) looks rough because of the presence of:",
+      "options": ["Lipids", "Ribosomes", "Plastids", "Sugars"],
+      "correctIndex": 1,
+      "explanation": "Ribosomes are attached to its surface and are sites of protein synthesis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q19",
+      "text": "Smooth Endoplasmic Reticulum (SER) helps in the manufacture of:",
+      "options": ["Proteins", "Fat molecules or lipids", "Starch", "ATP"],
+      "correctIndex": 1,
+      "explanation": "SER is important for lipid synthesis and detoxification.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q20",
+      "text": "Which organelle is involved in the formation of lysosomes?",
+      "options": ["Mitochondria", "ER", "Golgi apparatus", "Vacuoles"],
+      "correctIndex": 2,
+      "explanation": "Golgi apparatus is involved in packaging and secretion.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q21",
+      "text": "Lysosomes are known as:",
+      "options": ["Powerhouse of the cell", "Kitchen of the cell", "Suicide bags", "Control center"],
+      "correctIndex": 2,
+      "explanation": "They contain digestive enzymes that can destroy the cell if it gets damaged.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q22",
+      "text": "Which organelle is known as the 'Powerhouse of the cell'?",
+      "options": ["Nucleus", "Mitochondria", "Plastids", "Ribosomes"],
+      "correctIndex": 1,
+      "explanation": "Mitochondria generate energy in the form of ATP.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q23",
+      "text": "ATP stands for:",
+      "options": ["Adenosine Triphosphate", "Ammonium Triphosphate", "Adenosine Tetraphosphate", "None"],
+      "correctIndex": 0,
+      "explanation": "ATP is the energy currency of the cell.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q24",
+      "text": "Which organelles have their own DNA and ribosomes?",
+      "options": ["Mitochondria and Plastids", "Nucleus and ER", "Golgi and Vacuoles", "Lysosomes and Ribosomes"],
+      "correctIndex": 0,
+      "explanation": "This allows them to make some of their own proteins.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q25",
+      "text": "Plastids containing the pigment chlorophyll are called:",
+      "options": ["Leucoplasts", "Chromoplasts", "Chloroplasts", "Amyloplasts"],
+      "correctIndex": 2,
+      "explanation": "Chloroplasts are essential for photosynthesis in plants.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q26",
+      "text": "Primary function of leucoplasts is:",
+      "options": ["Photosynthesis", "Giving color", "Storage of starch, oils, proteins", "ATP production"],
+      "correctIndex": 2,
+      "explanation": "They are colorless plastids used for storage.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s5_q27",
+      "text": "Animal cells usually have ________ vacuoles compared to plant cells.",
+      "options": ["Larger", "Smaller", "Same sized", "No"],
+      "correctIndex": 1,
+      "explanation": "Plant cells often have a very large central vacuole (50-90% volume).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q28",
+      "text": "Cell wall is ________ in animal cells.",
+      "options": ["Present", "Absent", "Very thin", "Very thick"],
+      "correctIndex": 1,
+      "explanation": "Animal cells only have a plasma membrane.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q29",
+      "text": "Which process allows Amoeba to acquire its food?",
+      "options": ["Exocytosis", "Endocytosis", "Osmosis", "Plasmolysis"],
+      "correctIndex": 1,
+      "explanation": "The flexibility of the cell membrane allows it to engulf food particles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q30",
+      "text": "The inner membrane of mitochondria is deeply folded to:",
+      "options": ["Increase surface area for ATP production", "Protect the organelle", "Store more food", "None"],
+      "correctIndex": 0,
+      "explanation": "These folds are called cristae.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s5_q31",
+      "text": "Who said 'All cells arise from pre-existing cells'?",
+      "options": ["Schleiden", "Virchow", "Darwin", "Hooke"],
+      "correctIndex": 1,
+      "explanation": "This completed the basic tenets of the cell theory.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q32",
+      "text": "Chromosome number in a human cell is:",
+      "options": ["23", "46", "22", "44"],
+      "correctIndex": 1,
+      "explanation": "Humans have 23 pairs, making 46 chromosomes in total.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q33",
+      "text": "During cell division, chromatin material condenses to form:",
+      "options": ["Nucleolus", "Vacuoles", "Chromosomes", "Genes"],
+      "correctIndex": 2,
+      "explanation": "Chromosomes are rod-shaped structures visible only during division.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q34",
+      "text": "Which of these is NOT a membrane-bound organelle?",
+      "options": ["Ribosome", "Mitochondria", "Lysosome", "Vacuole"],
+      "correctIndex": 0,
+      "explanation": "Ribosomes are found in both prokaryotes and eukaryotes and lack a membrane.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s5_q35",
+      "text": "Protein synthesis takes place in:",
+      "options": ["Ribosomes", "SER", "Nucleolus", "Vacuoles"],
+      "correctIndex": 0,
+      "explanation": "Ribosomes are often called the 'Protein factories' of the cell.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q36",
+      "text": "The liquid ground substance of the cell is:",
+      "options": ["Nucleoplasm", "Cytoplasm", "Protoplasm", "Sap"],
+      "correctIndex": 1,
+      "explanation": "Cytoplasm is the region between the plasma membrane and the nucleus.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q37",
+      "text": "Detoxification of poisons and drugs in liver cells is a function of:",
+      "options": ["Mitochondria", "Golgi", "SER", "RER"],
+      "correctIndex": 2,
+      "explanation": "Smooth Endoplasmic Reticulum plays a crucial role in detoxification.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_s5_q38",
+      "text": "Plasmolysis in a plant cell is defined as:",
+      "options": ["Breakdown of nucleus", "Shrinkage of cytoplasm in hypertonic medium", "Swelling of cell", "None"],
+      "correctIndex": 1,
+      "explanation": "It's the loss of water through osmosis.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q39",
+      "text": "Bacteria are ________ organisms.",
+      "options": ["Prokaryotic", "Eukaryotic", "Multicellular", "None"],
+      "correctIndex": 0,
+      "explanation": "They lack a defined nucleus and membrane-bound organelles.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s5_q40",
+      "text": "Cell wall of fungi is made of:",
+      "options": ["Cellulose", "Chitin", "Lignin", "Pectin"],
+      "correctIndex": 1,
+      "explanation": "Chitin is a tough complex sugar.",
+      "frequencyRating": 3
+    }
+  ]
+}

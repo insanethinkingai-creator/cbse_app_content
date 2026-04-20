@@ -1,0 +1,330 @@
+{
+  "id": "g9_sci_ch11",
+  "grade": "9",
+  "subject": "Science",
+  "number": "11",
+  "title": "Sound",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_s11_q1",
+      "text": "Sound is produced by ________ objects.",
+      "options": ["Moving", "Vibrating", "Stationary", "Invisible"],
+      "correctIndex": 1,
+      "explanation": "Vibrations create pressure variations in the air which we hear as sound.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q2",
+      "text": "Sound waves in air are ________ waves.",
+      "options": ["Transverse", "Longitudinal", "Electromagnetic", "Static"],
+      "correctIndex": 1,
+      "explanation": "Particles move parallel to the direction of wave propagation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q3",
+      "text": "The number of oscillations per unit time is called:",
+      "options": ["Wavelength", "Frequency", "Amplitude", "Time period"],
+      "correctIndex": 1,
+      "explanation": "Frequency is measured in Hertz (Hz).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q4",
+      "text": "The distance between two consecutive compressions or rarefactions is:",
+      "options": ["Amplitude", "Frequency", "Wavelength", "Speed"],
+      "correctIndex": 2,
+      "explanation": "Wavelength (λ) is the spatial period of the wave.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q5",
+      "text": "Sound travels fastest in:",
+      "options": ["Gases", "Liquids", "Solids", "Vacuum"],
+      "correctIndex": 2,
+      "explanation": "Particles are closer in solids, allowing faster transfer of vibrations.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q6",
+      "text": "The range of audible frequency for humans is:",
+      "options": ["2 Hz to 200 Hz", "20 Hz to 20,000 Hz", "200 Hz to 2,000 Hz", "0 Hz to 20 Hz"],
+      "correctIndex": 1,
+      "explanation": "Sounds below 20Hz (infrasonic) and above 20kHz (ultrasonic) are not audible to humans.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q7",
+      "text": "The sensation of sound persists in our brain for about:",
+      "options": ["1 s", "0.1 s", "10 s", "0.01 s"],
+      "correctIndex": 1,
+      "explanation": "This persistence of hearing is why we need a 0.1s gap to distinguish an echo.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s11_q8",
+      "text": "SONAR stands for:",
+      "options": ["Sound Navigation and Ranging", "Solar Navigation and Radar", "Silent Observation and Radio", "Sound Networking and Recording"],
+      "correctIndex": 0,
+      "explanation": "It uses ultrasound to detect underwater objects or sea depth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q9",
+      "text": "Loudness of sound depends on its:",
+      "options": ["Frequency", "Wavelength", "Amplitude", "Speed"],
+      "correctIndex": 2,
+      "explanation": "Greater amplitude means higher energy and louder sound.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q10",
+      "text": "A stethascope works on the principle of:",
+      "options": ["Reflection of sound", "Refraction of sound", "Absorption of sound", "Generation of sound"],
+      "correctIndex": 0,
+      "explanation": "Sound reaches the doctor's ears through multiple reflections in the tube.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s11_q11",
+      "text": "Sound cannot travel through ________.",
+      "options": ["Air", "Water", "Steel", "Vacuum"],
+      "correctIndex": 3,
+      "explanation": "Sound is a mechanical wave and requires a medium to propagate.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q12",
+      "text": "The speed of sound in air (at 0°C) is approximately:",
+      "options": ["331 m/s", "1500 m/s", "5100 m/s", "3 x 10⁸ m/s"],
+      "correctIndex": 0,
+      "explanation": "Speed of sound increases with temperature; at room temperature it is ~344 m/s.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q13",
+      "text": "A high-pressure region in a longitudinal wave is called a ________.",
+      "options": ["Rarefaction", "Compression", "Crest", "Trough"],
+      "correctIndex": 1,
+      "explanation": "Compressions are where particles are crowded together.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q14",
+      "text": "The pitch of a sound depends on its ________.",
+      "options": ["Amplitude", "Speed", "Frequency", "Wavelength"],
+      "correctIndex": 2,
+      "explanation": "Higher frequency sounds have a higher pitch (shrillness).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q15",
+      "text": "The SI unit of frequency is ________.",
+      "options": ["Metre", "Hertz (Hz)", "Second", "Decibel"],
+      "correctIndex": 1,
+      "explanation": "Named after Heinrich Hertz; 1 Hz = 1 oscillation per second.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q16",
+      "text": "To hear a distinct echo, the minimum distance of the obstacle from the source should be:",
+      "options": ["1.72 m", "17.2 m", "34.4 m", "10 m"],
+      "correctIndex": 1,
+      "explanation": "Calculated based on speed of sound (344m/s) and persistence of hearing (0.1s).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q17",
+      "text": "Sounds of frequency higher than 20 kHz are called ________.",
+      "options": ["Infrasonic", "Audible", "Ultrasonic", "Supersonic"],
+      "correctIndex": 2,
+      "explanation": "Ultrasound is used in medical scans and industry.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q18",
+      "text": "Which part of the human ear converts sound vibrations into electrical signals?",
+      "options": ["Eardrum", "Hammer", "Cochlea", "Pinna"],
+      "correctIndex": 2,
+      "explanation": "The cochlea in the inner ear sends signals via the auditory nerve to the brain.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q19",
+      "text": "The distance between a compression and the next rarefaction is ________.",
+      "options": ["λ", "λ/2", "2λ", "λ/4"],
+      "correctIndex": 1,
+      "explanation": "One wavelength (λ) is the distance between two consecutive compressions.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s11_q20",
+      "text": "Reverberation is the ________ of sound.",
+      "options": ["Single reflection", "Multiple reflection", "Absorption", "Refraction"],
+      "correctIndex": 1,
+      "explanation": "Persistence of sound in a hall due to repeated reflections.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s11_q21",
+      "text": "The quality (timbre) of sound helps us distinguish between ________.",
+      "options": ["Two sounds of same pitch and loudness", "Loud and soft sound", "High and low pitch", "Echo and original sound"],
+      "correctIndex": 0,
+      "explanation": "Timbre depends on the shape of the sound wave produced by different sources.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s11_q22",
+      "text": "The speed of sound ________ with increase in temperature.",
+      "options": ["Increases", "Decreases", "Stays same", "Becomes zero"],
+      "correctIndex": 0,
+      "explanation": "Higher temperature gives more kinetic energy to particles, facilitating faster wave transfer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q23",
+      "text": "Speed of sound 'v', frequency 'ν' and wavelength 'λ' are related as:",
+      "options": ["v = ν + λ", "v = ν λ", "ν = v λ", "λ = v ν"],
+      "correctIndex": 1,
+      "explanation": "Speed = Distance / Time = Wavelength / Time Period = Wavelength * Frequency.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q24",
+      "text": "Which of the following can produce infrasonic sound?",
+      "options": ["Bats", "Dolphins", "Whales", "Humans"],
+      "correctIndex": 2,
+      "explanation": "Whales and elephants produce sounds below 20 Hz to communicate over long distances.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s11_q25",
+      "text": "The auditory range of human ear is:",
+      "options": ["20 Hz to 20,000 Hz", "0 to 20 Hz", "Above 20,000 Hz", "500 to 1000 Hz"],
+      "correctIndex": 0,
+      "explanation": "Frequencies outside this range are inaudible to normal humans.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q26",
+      "text": "Sound travels faster in ________.",
+      "options": ["Iron", "Water", "Air", "Hydrogen"],
+      "correctIndex": 0,
+      "explanation": "Sound speed: Solids > Liquids > Gases.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q27",
+      "text": "Which device uses ultrasound for cleaning parts located in hard-to-reach places?",
+      "options": ["Stethoscope", "Ultrasound cleaner", "SONAR", "Hearing aid"],
+      "correctIndex": 1,
+      "explanation": "High frequency vibrations detach dust and grease particles.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_s11_q28",
+      "text": "The persistence of sound in a big hall is called:",
+      "options": ["Reverberation", "Echo", "Loudness", "Pitch"],
+      "correctIndex": 0,
+      "explanation": "This can be reduced by using sound-absorbent materials like heavy curtains.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q29",
+      "text": "The magnitude of the maximum disturbance in the medium is called ________.",
+      "options": ["Wavelength", "Frequency", "Amplitude", "Speed"],
+      "correctIndex": 2,
+      "explanation": "Amplitude determines the loudness of the sound.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q30",
+      "text": "A key of mechanical piano is struck gently and then struck harder. In second case:",
+      "options": ["Sound is louder, amplitude is more", "Sound is louder, pitch is more", "Sound is shriller", "No change"],
+      "correctIndex": 0,
+      "explanation": "Harder strike imparts more energy, increasing amplitude and thus loudness.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s11_q31",
+      "text": "The time taken for one complete oscillation is:",
+      "options": ["Frequency", "Time period", "Amplitude", "Wavelength"],
+      "correctIndex": 1,
+      "explanation": "Time period (T) is the reciprocal of frequency (1/f).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q32",
+      "text": "Bats detect obstacles by receiving the ________.",
+      "options": ["Infrasonic waves", "Radio waves", "Reflected ultrasonic waves", "Light"],
+      "correctIndex": 2,
+      "explanation": "Bats use echolocation to navigate in the dark.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q33",
+      "text": "Which of the following is not a mechanical wave?",
+      "options": ["Sound wave", "Water wave", "Wave on string", "Light wave"],
+      "correctIndex": 3,
+      "explanation": "Light is an electromagnetic wave and doesn't need a medium.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s11_q34",
+      "text": "Loudness is measured in:",
+      "options": ["Hertz", "Metres", "Decibels (dB)", "Seconds"],
+      "correctIndex": 2,
+      "explanation": "The decibel scale is logarithmic and used for sound intensity levels.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q35",
+      "text": "Sound is a form of ________.",
+      "options": ["Matter", "Energy", "Force", "Radiation"],
+      "correctIndex": 1,
+      "explanation": "Sound is energy produced by vibrations that travel as waves.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q36",
+      "text": "The visible part of the human ear is called:",
+      "options": ["Eardrum", "Pinna", "Cochlea", "Auditory canal"],
+      "correctIndex": 1,
+      "explanation": "The pinna collects sound from the surroundings.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q37",
+      "text": "Sound travels in air through a series of ________.",
+      "options": ["Crests and troughs", "Compressions and rarefactions", "Up and down motions", "Magnetic fields"],
+      "correctIndex": 1,
+      "explanation": "Air particles move back and forth along the direction of propagation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q38",
+      "text": "Why do we see lightning before hearing thunder?",
+      "options": ["Light travels faster than sound", "Thunder happens later", "Sound travels faster in rain", "Human eyes are faster than ears"],
+      "correctIndex": 0,
+      "explanation": "Light speed (~3x10⁸ m/s) is vastly higher than sound speed (~344 m/s).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q39",
+      "text": "The small bones in the middle ear are:",
+      "options": ["Skull bones", "Femur and Tibia", "Hammer, Anvil, Stirrup", "Ribs"],
+      "correctIndex": 2,
+      "explanation": "They amplify the pressure variations received by the eardrum.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s11_q40",
+      "text": "Infrasonic sound has frequency ________.",
+      "options": ["Below 20 Hz", "Between 20-20,000 Hz", "Above 20,000 Hz", "Zero"],
+      "correctIndex": 0,
+      "explanation": "Infrasound is below the human hearing threshold.",
+      "frequencyRating": 4
+    }
+  ]
+}

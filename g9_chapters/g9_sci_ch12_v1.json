@@ -1,0 +1,330 @@
+{
+  "id": "g9_sci_ch12",
+  "grade": "9",
+  "subject": "Science",
+  "number": "12",
+  "title": "Improvement in Food Resources",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_s12_q1",
+      "text": "Kharif crops are grown in ________ season.",
+      "options": ["Winter", "Rainy", "Summer", "Spring"],
+      "correctIndex": 1,
+      "explanation": "Kharif crops like paddy and maize are sown in June and harvested in October.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q2",
+      "text": "Which of the following is a Rabi crop?",
+      "options": ["Paddy", "Soyabean", "Wheat", "Cotton"],
+      "correctIndex": 2,
+      "explanation": "Rabi crops like wheat and mustard are grown in the winter season.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q3",
+      "text": "The process of crossing two plants with different desirable characters is called:",
+      "options": ["Irrigation", "Hybridisation", "Fertilisation", "Sowing"],
+      "correctIndex": 1,
+      "explanation": "Hybridisation creates new varieties with better yield or resistance.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q4",
+      "text": "Nutrients required by plants in large quantities are called:",
+      "options": ["Micronutrients", "Macronutrients", "Fertilisers", "Manure"],
+      "correctIndex": 1,
+      "explanation": "There are 6 macronutrients including Nitrogen, Phosphorus, and Potassium.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q5",
+      "text": "Organic farming involves the use of:",
+      "options": ["Chemical fertilisers", "Pesticides", "Manures and bio-agents", "Synthetic hormones"],
+      "correctIndex": 2,
+      "explanation": "It aims to maintain soil health by avoiding chemicals.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s12_q6",
+      "text": "Growing two or more crops simultaneously on the same field in a definite pattern is:",
+      "options": ["Mixed cropping", "Inter-cropping", "Crop rotation", "Green manure"],
+      "correctIndex": 1,
+      "explanation": "Inter-cropping ensures better use of resources and prevents pest spread.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q7",
+      "text": "Apis mellifera is an exotic variety of:",
+      "options": ["Cow", "Chicken", "Honey bee", "Fish"],
+      "correctIndex": 2,
+      "explanation": "The Italian bee (Apis mellifera) is used for high honey production.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s12_q8",
+      "text": "Cattle husbandry is done for the purpose of:",
+      "options": ["Milk production", "Agricultural work", "Both A and B", "Meat only"],
+      "correctIndex": 2,
+      "explanation": "Cattle provide milk and 'draught' labor for tilling and carting.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s12_q9",
+      "text": "Pasturage is related to:",
+      "options": ["Cattle food", "Flowers available for bees", "Fish feed", "Poultry house"],
+      "correctIndex": 1,
+      "explanation": "The quality and taste of honey depend on the pasturage or flowers available.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_s12_q10",
+      "text": "The major cause of storage losses in food grains is:",
+      "options": ["Insects", "Moisture", "Rodents", "All of the above"],
+      "correctIndex": 3,
+      "explanation": "Both biotic (pests) and abiotic (moisture) factors cause damage to stored grains.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q11",
+      "text": "The increase in food grain production in India is known as ________.",
+      "options": ["White Revolution", "Green Revolution", "Blue Revolution", "Yellow Revolution"],
+      "correctIndex": 1,
+      "explanation": "Led by M.S. Swaminathan, it involved high-yielding varieties and modern techniques.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q12",
+      "text": "Which nutrient is obtained by plants from air?",
+      "options": ["Nitrogen", "Carbon", "Phosphorus", "Iron"],
+      "correctIndex": 1,
+      "explanation": "Plants take in Carbon from Carbon Dioxide in the air.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q13",
+      "text": "How many micronutrients are required by plants?",
+      "options": ["6", "13", "7", "3"],
+      "correctIndex": 2,
+      "explanation": "There are 7 micronutrients (like Zinc, Iron) and 6 macronutrients.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s12_q14",
+      "text": "Manure is prepared by the decomposition of ________.",
+      "options": ["Chemicals", "Animal and plant waste", "Plastics", "Rocks"],
+      "correctIndex": 1,
+      "explanation": "Manure increases soil fertility and improves soil structure naturally.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q15",
+      "text": "Which of the following is a bio-fertilizer?",
+      "options": ["Urea", "Blue-green algae", "Potash", "Super phosphate"],
+      "correctIndex": 1,
+      "explanation": "Bio-fertilizers are living organisms that enrich the nutrient quality of the soil.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s12_q16",
+      "text": "Growing two or more crops in the same field simultaneously is ________.",
+      "options": ["Mixed cropping", "Crop rotation", "Monoculture", "Green revolution"],
+      "correctIndex": 0,
+      "explanation": "Mixed cropping reduces the risk of total crop failure due to bad weather.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q17",
+      "text": "Xanthium and Parthenium are examples of ________.",
+      "options": ["Crops", "Fertilizers", "Weeds", "Pests"],
+      "correctIndex": 2,
+      "explanation": "Weeds compete with crops for food, space, and light.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q18",
+      "text": "The storage of grains should be preceded by proper ________.",
+      "options": ["Wetting", "Drying in sun", "Cooling", "Salting"],
+      "correctIndex": 1,
+      "explanation": "Removing moisture prevents the growth of fungi and bacteria during storage.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q19",
+      "text": "Poultry farming is undertaken to raise ________.",
+      "options": ["Eggs and Meat", "Milk and Wool", "Honey", "Fish"],
+      "correctIndex": 0,
+      "explanation": "Chickens (layers for eggs, broilers for meat) are the most common poultry.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q20",
+      "text": "Which of the following is an exotic breed of cattle?",
+      "options": ["Sahiwal", "Red Sindhi", "Jersey", "Gir"],
+      "correctIndex": 2,
+      "explanation": "Jersey and Holstein-Friesian are exotic breeds selected for high milk yield.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q21",
+      "text": "The science of bee-keeping is called ________.",
+      "options": ["Sericulture", "Pisciculture", "Apiculture", "Horticulture"],
+      "correctIndex": 2,
+      "explanation": "It provides honey and wax and helps in pollination.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q22",
+      "text": "Composite fish culture involves ________.",
+      "options": ["Only one species", "Combination of 5-6 species", "Only surface feeders", "Marine fish"],
+      "correctIndex": 1,
+      "explanation": "Different species use different food niches in the pond for maximum yield.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q23",
+      "text": "Growing different crops on a piece of land in a pre-planned succession is ________.",
+      "options": ["Intercropping", "Crop rotation", "Mixed cropping", "Irrigation"],
+      "correctIndex": 1,
+      "explanation": "Rotation allows the soil to replenish specific nutrients naturally.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q24",
+      "text": "Macro-nutrients are needed by plants in ________.",
+      "options": ["Small quantities", "Large quantities", "Trace amounts", "Only at night"],
+      "correctIndex": 1,
+      "explanation": "Nutrients like N, P, K are required in significant amounts for growth.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q25",
+      "text": "White Revolution is related to the increase in ________.",
+      "options": ["Milk production", "Egg production", "Wheat production", "Fish production"],
+      "correctIndex": 0,
+      "explanation": "Operation Flood (White Revolution) made India the largest milk producer.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q26",
+      "text": "Cereals provide us with ________.",
+      "options": ["Proteins", "Carbohydrates", "Fats", "Vitamins"],
+      "correctIndex": 1,
+      "explanation": "Wheat, rice, and maize are primary sources of energy (carbs).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q27",
+      "text": "Pulses are a good source of ________.",
+      "options": ["Proteins", "Carbohydrates", "Fats", "Minerals"],
+      "correctIndex": 0,
+      "explanation": "Grams, peas, and lentils are essential for muscle and tissue repair.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q28",
+      "text": "Oilseeds like soyabean and sunflower provide ________.",
+      "options": ["Vitamins", "Carbohydrates", "Fats", "Water"],
+      "correctIndex": 2,
+      "explanation": "They are rich in essential fatty acids.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q29",
+      "text": "Leguminous plants help in ________.",
+      "options": ["Water retention", "Nitrogen fixation", "Pest control", "Hybridization"],
+      "correctIndex": 1,
+      "explanation": "Rhizobium bacteria in their roots fix atmospheric nitrogen into the soil.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q30",
+      "text": "Bose indicus is the scientific name of ________.",
+      "options": ["Cow", "Buffalo", "Hen", "Bee"],
+      "correctIndex": 0,
+      "explanation": "Bose bubalis is for buffaloes.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s12_q31",
+      "text": "Which of these is a common weed control method?",
+      "options": ["Mechanical removal", "Herbicides", "Summer ploughing", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Integrated weed management combines manual, chemical, and cultural methods.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q32",
+      "text": "Mariculture is the culture of ________.",
+      "options": ["Freshwater fish", "Marine fish", "Honey bees", "Silkworms"],
+      "correctIndex": 1,
+      "explanation": "Farming of oysters, prawns, and marine fish like Bhetki.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s12_q33",
+      "text": "Italian bee variety 'Apis mellifera' is preferred because ________.",
+      "options": ["It stings less", "High honey collection", "Stays in beehive long", "All of these"],
+      "correctIndex": 3,
+      "explanation": "These traits make it commercially viable for large scale apiaries.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s12_q34",
+      "text": "Draught animals are used for ________.",
+      "options": ["Milk", "Eggs", "Agricultural labour", "Wool"],
+      "correctIndex": 2,
+      "explanation": "Includes bullocks and camels used for tilling and irrigation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q35",
+      "text": "High milk yielding breeds are crossed with ________ for disease resistance.",
+      "options": ["Other high yielders", "Local/Indigenous breeds", "Birds", "None"],
+      "correctIndex": 1,
+      "explanation": "Cross-breeding (e.g., Jersey and Sahiwal) combines both desired qualities.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s12_q36",
+      "text": "Broilers require a diet rich in ________.",
+      "options": ["Vitamin A and K", "Protein and Fat", "Carbohydrates", "Iron"],
+      "correctIndex": 1,
+      "explanation": "This ensures fast growth and good meat quality.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_s12_q37",
+      "text": "Fish production through capture and culture is called ________.",
+      "options": ["Capture fishing", "Culture fishery", "Pisciculture", "Hydroponics"],
+      "correctIndex": 2,
+      "explanation": "Pisciculture specifically refers to fish farming.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q38",
+      "text": "Bee wax is used in ________.",
+      "options": ["Polishes", "Cosmetic preparations", "Medicines", "All of these"],
+      "correctIndex": 3,
+      "explanation": "Wax is an important byproduct of apiculture alongside honey.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_s12_q39",
+      "text": "Which irrigation system involves lifting water from rivers near banks?",
+      "options": ["Wells", "River lift system", "Canal system", "Tanks"],
+      "correctIndex": 1,
+      "explanation": "Used in areas where canal flow is insufficient due to topography.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_s12_q40",
+      "text": "Vermicompost is prepared using ________.",
+      "options": ["Bacteria", "Earthworms", "Fungi", "Viruses"],
+      "correctIndex": 1,
+      "explanation": "Earthworms help in rapid decomposition of organic waste into nutrient-rich compost.",
+      "frequencyRating": 5
+    }
+  ]
+}

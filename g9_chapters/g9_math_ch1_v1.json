@@ -1,0 +1,330 @@
+{
+  "id": "g9_math_ch1",
+  "grade": "9",
+  "subject": "Mathematics",
+  "number": "1",
+  "title": "Number Systems",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_m1_q1",
+      "text": "Every rational number is:",
+      "options": ["A natural number", "An integer", "A real number", "A whole number"],
+      "correctIndex": 2,
+      "explanation": "Real numbers consist of both rational and irrational numbers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m1_q2",
+      "text": "Between two rational numbers, there are:",
+      "options": ["No rational number", "Exactly one rational number", "Infinitely many rational numbers", "Only irrational numbers"],
+      "correctIndex": 2,
+      "explanation": "The property of density states there are infinite rational numbers between any two distinct rational numbers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m1_q3",
+      "text": "The decimal representation of a rational number cannot be:",
+      "options": ["Terminating", "Non-terminating", "Non-terminating repeating", "Non-terminating non-repeating"],
+      "correctIndex": 3,
+      "explanation": "Non-terminating non-repeating decimals represent irrational numbers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m1_q4",
+      "text": "The product of any two irrational numbers is:",
+      "options": ["Always irrational", "Always rational", "Always an integer", "Sometimes rational, sometimes irrational"],
+      "correctIndex": 3,
+      "explanation": "For example, √2 * √2 = 2 (rational), but √2 * √3 = √6 (irrational).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m1_q5",
+      "text": "The decimal expansion of the number √2 is:",
+      "options": ["A finite decimal", "1.41421", "Non-terminating recurring", "Non-terminating non-recurring"],
+      "correctIndex": 3,
+      "explanation": "As √2 is irrational, its decimal expansion never ends and never repeats a pattern.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m1_q6",
+      "text": "Which of the following is irrational?",
+      "options": ["√(4/9)", "√12 / √3", "√7", "√81"],
+      "correctIndex": 2,
+      "explanation": "√7 cannot be expressed as a ratio of two integers; the others simplify to rational numbers.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m1_q7",
+      "text": "Which of the following is a rational number?",
+      "options": ["0", "π", "√3", "0.101001000..."],
+      "correctIndex": 0,
+      "explanation": "Zero can be written as 0/1, which is in the p/q form.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m1_q8",
+      "text": "A rational number between √2 and √3 is:",
+      "options": ["(√2 + √3) / 2", "(√2 * √3) / 2", "1.5", "1.8"],
+      "correctIndex": 2,
+      "explanation": "√2 ≈ 1.414 and √3 ≈ 1.732. 1.5 lies between them and is rational.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m1_q9",
+      "text": "The value of 1.999... in the form p/q, where p and q are integers, is:",
+      "options": ["19/10", "199/100", "2", "1/9"],
+      "correctIndex": 2,
+      "explanation": "Let x = 1.999... Then 10x = 19.999... Subtracting gives 9x = 18, so x = 2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m1_q10",
+      "text": "2√3 + √3 is equal to:",
+      "options": ["2√6", "6", "3√3", "4√6"],
+      "correctIndex": 2,
+      "explanation": "Treat √3 as a variable 'a'. 2a + a = 3a, so 3√3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m1_q11",
+      "text": "√10 * √15 is equal to:",
+      "options": ["5√6", "6√5", "√30", "√25"],
+      "correctIndex": 0,
+      "explanation": "√10 * √15 = √150 = √(25 * 6) = 5√6.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m1_q12",
+      "text": "The number obtained on rationalising the denominator of 1 / (√7 - 2) is:",
+      "options": ["(√7 + 2) / 3", "(√7 - 2) / 3", "(√7 + 2) / 5", "(√7 + 2) / 45"],
+      "correctIndex": 0,
+      "explanation": "Multiply numerator and denominator by (√7 + 2). Denominator becomes (√7)² - 2² = 7 - 4 = 3.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m1_q13",
+      "text": "1 / (√9 - √8) is equal to:",
+      "options": ["3 + 2√2", "3 - 2√2", "3 + √2", "3 - √2"],
+      "correctIndex": 0,
+      "explanation": "Rationalising gives (√9 + √8) / (9 - 8) = 3 + 2√2.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m1_q14",
+      "text": "The value of (√32 + √48) / (√8 + √12) is:",
+      "options": ["√2", "2", "4", "8"],
+      "correctIndex": 1,
+      "explanation": "(4√2 + 4√3) / (2√2 + 2√3) = 4(√2 + √3) / 2(√2 + √3) = 2.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m1_q15",
+      "text": "If √2 = 1.4142, then √[(√2 - 1) / (√2 + 1)] is equal to:",
+      "options": ["0.4142", "2.4142", "1.4142", "0.1718"],
+      "correctIndex": 0,
+      "explanation": "Rationalising the inside gives (√2 - 1)² / (2 - 1). Taking square root gives √2 - 1 = 0.4142.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m1_q16",
+      "text": "The value of 64^(1/2) is:",
+      "options": ["8", "4", "16", "32"],
+      "correctIndex": 0,
+      "explanation": "The square root of 64 is 8.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m1_q17",
+      "text": "The value of 125^(-1/3) is:",
+      "options": ["5", "25", "1/5", "1/25"],
+      "correctIndex": 2,
+      "explanation": "125 is 5³. So (5³)^(-1/3) = 5^-1 = 1/5.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m1_q18",
+      "text": "The value of 7^(1/2) * 8^(1/2) is:",
+      "options": ["(56)^(1/2)", "(56)^(1/4)", "(15)^(1/2)", "(56)"],
+      "correctIndex": 0,
+      "explanation": "Using a^m * b^m = (ab)^m.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m1_q19",
+      "text": "Which of the following is equal to x?",
+      "options": ["x^(12/7) - x^(5/7)", "√(x³)^(2/3)", "√(x³)²", "x^(12/7) * x^(7/12)"],
+      "correctIndex": 1,
+      "explanation": "(x³)^(2/3) simplified is x²; the square root of x² is x.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m1_q20",
+      "text": "Every whole number is a natural number except:",
+      "options": ["1", "0", "2", "None of these"],
+      "correctIndex": 1,
+      "explanation": "Natural numbers start from 1, while whole numbers start from 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m1_q21",
+      "text": "The sum of a rational and an irrational number is:",
+      "options": ["Always rational", "Always irrational", "Always an integer", "Sometimes rational"],
+      "correctIndex": 1,
+      "explanation": "A rational plus an irrational is always irrational.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m1_q22",
+      "text": "Rationalise the denominator of 1 / (7 + 3√2):",
+      "options": ["(7 - 3√2) / 31", "(7 + 3√2) / 31", "(7 - 3√2) / 49", "(7 - 3√2) / 43"],
+      "correctIndex": 0,
+      "explanation": "Denominator: 7² - (3√2)² = 49 - 18 = 31.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m1_q23",
+      "text": "Find the value of (32)^(2/5):",
+      "options": ["2", "4", "8", "16"],
+      "correctIndex": 1,
+      "explanation": "32 is 2⁵. (2⁵)^(2/5) = 2² = 4.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m1_q24",
+      "text": "Simplify (3 + √3)(3 - √3):",
+      "options": ["6", "9", "3", "0"],
+      "correctIndex": 0,
+      "explanation": "Using (a+b)(a-b) = a² - b² = 3² - (√3)² = 9 - 3 = 6.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m1_q25",
+      "text": "The value of 0.3bar + 0.4bar is:",
+      "options": ["0.7", "7/9", "0.7bar", "Both B and C"],
+      "correctIndex": 3,
+      "explanation": "0.3bar = 3/9, 0.4bar = 4/9. Sum = 7/9 or 0.7bar.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m1_q26",
+      "text": "Which of the following is the greatest?",
+      "options": ["4²", "(16)^(3/2)", "(1/64)^(-1/3)", "√(256)"],
+      "correctIndex": 1,
+      "explanation": "16^(3/2) = (4²)^(3/2) = 4³ = 64. Others are smaller (16, 4, 16).",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m1_q27",
+      "text": "If x = 2 + √3, then 1/x is:",
+      "options": ["2 - √3", "√3 - 2", "1 / (2 - √3)", "2 + √3"],
+      "correctIndex": 0,
+      "explanation": "Rationalising 1 / (2 + √3) gives (2 - √3) / (4 - 3) = 2 - √3.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m1_q28",
+      "text": "The decimal expansion of 4/7 is:",
+      "options": ["Terminating", "Non-terminating recurring", "Non-terminating non-recurring", "Finite"],
+      "correctIndex": 1,
+      "explanation": "Since the denominator has a factor other than 2 or 5, it is non-terminating recurring.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m1_q29",
+      "text": "Which of the following is a collection of all rational and irrational numbers?",
+      "options": ["Integers", "Real numbers", "Natural numbers", "Whole numbers"],
+      "correctIndex": 1,
+      "explanation": "Real numbers encompass the entire number line.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m1_q30",
+      "text": "Simplify (5 + √7)(2 + √5):",
+      "options": ["10 + 5√5 + 2√7 + √35", "10 + √35", "7 + √12", "10 + 7√12"],
+      "correctIndex": 0,
+      "explanation": "Using FOIL method: 5*2 + 5*√5 + 2*√7 + √7*√5.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m1_q31",
+      "text": "The value of (16)^(3/4) is:",
+      "options": ["4", "8", "12", "16"],
+      "correctIndex": 1,
+      "explanation": "(2⁴)^(3/4) = 2³ = 8.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m1_q32",
+      "text": "The irrational number between 0.1 and 0.12 is:",
+      "options": ["0.11", "0.111", "0.101001000...", "0.121"],
+      "correctIndex": 2,
+      "explanation": "Irrational numbers have non-terminating non-recurring expansions.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m1_q33",
+      "text": "Is π (Pi) a rational number?",
+      "options": ["Yes", "No", "Only if written as 22/7", "It is an integer"],
+      "correctIndex": 1,
+      "explanation": "π is irrational; 22/7 is only an approximation.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m1_q34",
+      "text": "The value of (2⁰ + 7⁰) / 5⁰ is:",
+      "options": ["0", "1", "2", "9/5"],
+      "correctIndex": 2,
+      "explanation": "(1 + 1) / 1 = 2.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m1_q35",
+      "text": "√20 in simplified form is:",
+      "options": ["10", "4√5", "2√5", "5√2"],
+      "correctIndex": 2,
+      "explanation": "√20 = √(4 * 5) = 2√5.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m1_q36",
+      "text": "Can we write 0 in the form p/q?",
+      "options": ["Yes", "No", "Only if q=0", "Only if p is not an integer"],
+      "correctIndex": 0,
+      "explanation": "0/1, 0/2, 0/-5 are all valid p/q forms where q ≠ 0.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m1_q37",
+      "text": "Every integer is a rational number.",
+      "options": ["True", "False", "Only positive integers", "Only negative integers"],
+      "correctIndex": 0,
+      "explanation": "Any integer 'n' can be written as n/1.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m1_q38",
+      "text": "The product of a non-zero rational number with an irrational number is:",
+      "options": ["Always rational", "Always irrational", "Always an integer", "Zero"],
+      "correctIndex": 1,
+      "explanation": "For example, 2 * √3 = 2√3, which is irrational.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m1_q39",
+      "text": "Simplify (√5 + √2)²:",
+      "options": ["7", "7 + 2√10", "7 + √10", "3"],
+      "correctIndex": 1,
+      "explanation": "(a+b)² = a² + b² + 2ab = 5 + 2 + 2√10 = 7 + 2√10.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m1_q40",
+      "text": "Which of the following is equal to x³?",
+      "options": ["x⁶ / x²", "x¹ * x²", "x⁴ - x¹", "(x²)¹"],
+      "correctIndex": 1,
+      "explanation": "Using x^a * x^b = x^(a+b), so 1 + 2 = 3.",
+      "frequencyRating": 5
+    }
+  ]
+}

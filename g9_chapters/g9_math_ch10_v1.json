@@ -1,0 +1,330 @@
+{
+  "id": "g9_math_ch10",
+  "grade": "9",
+  "subject": "Mathematics",
+  "number": "10",
+  "title": "Circles",
+  "version": "v1",
+  "questions": [
+    {
+      "id": "g9_m10_q1",
+      "text": "The collection of all points in a plane, which are at a fixed distance from a fixed point in the plane, is called a:",
+      "options": ["Sphere", "Circle", "Arc", "Segment"],
+      "correctIndex": 1,
+      "explanation": "This is the formal definition of a circle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q2",
+      "text": "The fixed point in the definition of a circle is called the:",
+      "options": ["Radius", "Center", "Diameter", "Chord"],
+      "correctIndex": 1,
+      "explanation": "All points on the circle are equidistant from the center.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q3",
+      "text": "A line segment joining the center and any point on the circle is called:",
+      "options": ["Chord", "Diameter", "Radius", "Secant"],
+      "correctIndex": 2,
+      "explanation": "The radius is the constant distance from the center to the boundary.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q4",
+      "text": "The longest chord of a circle is its:",
+      "options": ["Radius", "Secant", "Diameter", "Tangent"],
+      "correctIndex": 2,
+      "explanation": "The diameter is a chord that passes through the center and is twice the radius.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q5",
+      "text": "A circle divides the plane on which it lies into ______ parts.",
+      "options": ["Two", "Three", "Four", "Infinite"],
+      "correctIndex": 1,
+      "explanation": "The parts are the interior, the circle itself, and the exterior.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q6",
+      "text": "A piece of a circle between two points is called an:",
+      "options": ["Arc", "Chord", "Sector", "Segment"],
+      "correctIndex": 0,
+      "explanation": "An arc is a continuous portion of the circumference.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q7",
+      "text": "Equal chords of a circle subtend ______ angles at the center.",
+      "options": ["Complementary", "Supplementary", "Equal", "Unequal"],
+      "correctIndex": 2,
+      "explanation": "This is a fundamental theorem of circles; triangles formed are congruent.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q8",
+      "text": "The perpendicular from the center of a circle to a chord:",
+      "options": ["Triples the chord", "Bisects the chord", "Is parallel to the chord", "Does not touch the chord"],
+      "correctIndex": 1,
+      "explanation": "The line from the center perpendicular to a chord divides it into two equal halves.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q9",
+      "text": "There is one and only one circle passing through ______ given non-collinear points.",
+      "options": ["Two", "Three", "Four", "Five"],
+      "correctIndex": 1,
+      "explanation": "Three non-collinear points uniquely determine a circle (the circumcircle of the triangle they form).",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q10",
+      "text": "Equal chords of a circle are ______ from the center.",
+      "options": ["Equidistant", "At different distances", "Parallel", "Perpendicular"],
+      "correctIndex": 0,
+      "explanation": "Chords of equal length are located at the same perpendicular distance from the center.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q11",
+      "text": "The angle subtended by an arc at the center is ______ the angle subtended by it at any point on the remaining part of the circle.",
+      "options": ["Half", "Double", "Equal to", "Triple"],
+      "correctIndex": 1,
+      "explanation": "This is a key theorem: Angle at center = 2 × Angle at circumference.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q12",
+      "text": "Angles in the same segment of a circle are:",
+      "options": ["Equal", "Unequal", "Complementary", "Supplementary"],
+      "correctIndex": 0,
+      "explanation": "Any two angles subtended by the same arc on the same side of the chord are equal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q13",
+      "text": "An angle in a semi-circle is a:",
+      "options": ["Acute angle", "Obtuse angle", "Right angle", "Straight angle"],
+      "correctIndex": 2,
+      "explanation": "The angle subtended by the diameter at any point on the circle is always 90°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q14",
+      "text": "A quadrilateral is called cyclic if all its four vertices lie on a:",
+      "options": ["Line", "Square", "Circle", "Parabola"],
+      "correctIndex": 2,
+      "explanation": "Cyclic quadrilaterals have vertices that are concyclic.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q15",
+      "text": "The sum of either pair of opposite angles of a cyclic quadrilateral is:",
+      "options": ["90°", "180°", "270°", "360°"],
+      "correctIndex": 1,
+      "explanation": "Opposite angles in a cyclic quadrilateral are supplementary.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q16",
+      "text": "If the sum of a pair of opposite angles of a quadrilateral is 180°, the quadrilateral is:",
+      "options": ["Trapezium", "Cyclic", "Parallelogram", "Rhombus"],
+      "correctIndex": 1,
+      "explanation": "This is the converse of the cyclic quadrilateral theorem.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q17",
+      "text": "The region between a chord and either of its arcs is called a:",
+      "options": ["Sector", "Segment", "Radius", "Diameter"],
+      "correctIndex": 1,
+      "explanation": "A chord divides the circle into two segments: major and minor.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q18",
+      "text": "The region between an arc and the two radii joining its endpoints to the center is called a:",
+      "options": ["Segment", "Sector", "Chord", "Secant"],
+      "correctIndex": 1,
+      "explanation": "Sectors are pie-shaped regions of a circle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q19",
+      "text": "A line which intersects a circle at two points is called a:",
+      "options": ["Radius", "Tangent", "Secant", "Chord"],
+      "correctIndex": 2,
+      "explanation": "Unlike a chord which is a segment, a secant is an infinite line passing through two points of the circle.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m10_q20",
+      "text": "Length of a circle is its:",
+      "options": ["Area", "Volume", "Circumference", "Diameter"],
+      "correctIndex": 2,
+      "explanation": "Circumference is the distance around the circle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q21",
+      "text": "The radius of a circle is 5 cm. The length of the longest chord is:",
+      "options": ["5 cm", "10 cm", "25 cm", "15 cm"],
+      "correctIndex": 1,
+      "explanation": "Longest chord is diameter = 2 × radius = 10 cm.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q22",
+      "text": "Two circles are congruent if they have the same:",
+      "options": ["Center", "Radius", "Chord", "Arc"],
+      "correctIndex": 1,
+      "explanation": "Circles are identical if their radii are equal.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q23",
+      "text": "If two arcs of a circle are congruent, then their corresponding chords are:",
+      "options": ["Equal", "Unequal", "Parallel", "Perpendicular"],
+      "correctIndex": 0,
+      "explanation": "Congruent arcs have the same measure and thus produce equal chords.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m10_q24",
+      "text": "The center of a circle lies in ______ of the circle.",
+      "options": ["Exterior", "Interior", "Boundary", "None"],
+      "correctIndex": 1,
+      "explanation": "The center is the point from which the circle is generated, located inside.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q25",
+      "text": "If AB is a chord and O is center, and OM is perpendicular to AB, then AM is ______ MB.",
+      "options": ["Greater than", "Less than", "Equal to", "Half of"],
+      "correctIndex": 2,
+      "explanation": "Perpendicular from center bisects the chord.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q26",
+      "text": "How many circles can pass through one given point?",
+      "options": ["One", "Two", "Ten", "Infinitely many"],
+      "correctIndex": 3,
+      "explanation": "You can draw infinite circles of different sizes passing through a single point.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m10_q27",
+      "text": "How many circles can pass through two given points?",
+      "options": ["One", "Two", "Infinitely many", "Zero"],
+      "correctIndex": 2,
+      "explanation": "Infinite circles can have their centers on the perpendicular bisector of the segment joining the two points.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m10_q28",
+      "text": "ABCD is a cyclic quadrilateral. If angle A is 80°, then angle C is:",
+      "options": ["80°", "100°", "180°", "280°"],
+      "correctIndex": 1,
+      "explanation": "Opposite angles sum to 180°. 180 - 80 = 100°.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q29",
+      "text": "If two chords AB and CD of a circle are equal, and the distance of AB from center is 4 cm, then distance of CD from center is:",
+      "options": ["2 cm", "4 cm", "8 cm", "6 cm"],
+      "correctIndex": 1,
+      "explanation": "Equal chords are equidistant from the center.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q30",
+      "text": "Angle subtended by major arc at center is:",
+      "options": ["Always < 180", "Always > 180", "Exactly 180", "Exactly 90"],
+      "correctIndex": 1,
+      "explanation": "A major arc is more than a semi-circle, so its central angle is reflex (> 180°).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m10_q31",
+      "text": "If chord AB subtends 60° at center, then triangle OAB is:",
+      "options": ["Scalene", "Isosceles", "Equilateral", "Right-angled"],
+      "correctIndex": 2,
+      "explanation": "OA=OB (radii). If angle O is 60, then other two are (180-60)/2 = 60 each.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m10_q32",
+      "text": "A line segment joining any two points on a circle is called:",
+      "options": ["Radius", "Diameter", "Chord", "Secant"],
+      "correctIndex": 2,
+      "explanation": "Chords have both endpoints on the circle.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q33",
+      "text": "In a cyclic quadrilateral, if all angles are equal, then it is a:",
+      "options": ["Rhombus", "Rectangle", "Trapezium", "Kite"],
+      "correctIndex": 1,
+      "explanation": "A quadrilateral with all angles 90° and vertices on a circle is a rectangle.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m10_q34",
+      "text": "A sector is the region between an arc and ______.",
+      "options": ["A chord", "Two radii", "Diameter", "The center"],
+      "correctIndex": 1,
+      "explanation": "A sector is bounded by an arc and two radii.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q35",
+      "text": "Value of pi (π) is the ratio of circumference to:",
+      "options": ["Radius", "Diameter", "Area", "Chord"],
+      "correctIndex": 1,
+      "explanation": "π = C / d.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q36",
+      "text": "Is every diameter a chord?",
+      "options": ["Yes", "No", "Only if it is vertical", "Only if it passes through center"],
+      "correctIndex": 0,
+      "explanation": "A chord joins two points on the circle; a diameter does exactly this while passing through the center.",
+      "frequencyRating": 5
+    },
+    {
+      "id": "g9_m10_q37",
+      "text": "The angle subtended by a chord of length equal to radius at the center is:",
+      "options": ["30°", "45°", "60°", "90°"],
+      "correctIndex": 2,
+      "explanation": "It forms an equilateral triangle OAB (OA=OB=AB).",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m10_q38",
+      "text": "A cyclic parallelogram is a:",
+      "options": ["Rhombus", "Rectangle", "Square", "Both B and C"],
+      "correctIndex": 1,
+      "explanation": "In a parallelogram, opposite angles are equal. In cyclic quad, they add to 180. x+x=180 => x=90. Thus it's a rectangle.",
+      "frequencyRating": 4
+    },
+    {
+      "id": "g9_m10_q39",
+      "text": "Angle in a major segment is always:",
+      "options": ["Acute", "Obtuse", "Right", "Straight"],
+      "correctIndex": 0,
+      "explanation": "Since a major segment corresponds to a minor arc, and angle at center is < 180, angle at circumference is < 90.",
+      "frequencyRating": 3
+    },
+    {
+      "id": "g9_m10_q40",
+      "text": "Angle in a minor segment is always:",
+      "options": ["Acute", "Obtuse", "Right", "Straight"],
+      "correctIndex": 1,
+      "explanation": "Since a minor segment corresponds to a major arc (> 180°), half of that central angle is > 90°.",
+      "frequencyRating": 3
+    }
+  ]
+}
